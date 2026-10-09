@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="pt-BR"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>VocabLab 1.1 — Content Packages</title><link rel="stylesheet" href="css/style.css"><link rel="stylesheet" href="css/packages.css"></head>
+<body>
+<div class="manager-layout"><aside class="manager-side">
+<a class="back" href="index.html">← Voltar ao VocabLab</a><div class="logo">◈ <strong>VocabLab</strong><small>CONTENT PACKAGES · v1.1</small></div>
+<p>Organize livros, cursos e listas de vocabulário sem editar o código.</p>
+<div class="side-links"><a href="index.html">◫ Área de estudo</a><a href="import.html">♧ Extrator de PDF (opcional)</a></div>
+</aside><main class="manager-main">
+<div class="eyebrow">CONTENT MANAGER</div><h1>Importar e revisar conteúdos</h1><p>Carregue um pacote JSON, revise as unidades e publique na biblioteca. A importação não elimina seu histórico de aprendizado.</p>
+<section class="panel" aria-label="Selecionar arquivo"><h2>1. Escolha um pacote</h2>
+<div class="buttonrow"><button class="primary" id="openFile">↑ Importar pacote JSON</button><button class="ghost" id="loadExample">◫ Abrir pacote Elementary (60 unidades)</button><a class="ghost" href="packages/english-vocabulary-in-use-elementary-starter.json" download>↓ Salvar exemplo</a><button class="ghost" id="downloadTemplate">↓ Template</button></div>
+<input id="fileInput" type="file" accept=".json,application/json" hidden><p class="hint">Compatível com arquivos de unidade da v1.0 e com pacotes v1.1 contendo múltiplas unidades. O exemplo do Elementary tem cobertura inicial parcial, não o livro completo.</p></section>
+<section class="panel" id="workspace" hidden>
+<div class="between"><div><h2 id="packageTitle">Pacote</h2><p id="packageDescription" class="hint"></p></div><span class="chip" id="packageBadge"></span></div>
+<div id="summary" class="metrics"></div><div id="validation" class="notice" role="status"></div>
+<div class="between"><h2>2. Selecione e revise as unidades</h2><div class="buttonrow"><button class="ghost" id="selectAll">Selecionar todas</button><button class="ghost" id="selectNone">Limpar seleção</button><button class="ghost" id="approveAll">Marcar selecionadas como revisadas</button></div></div>
+<p class="hint">Clique em uma unidade para revisar, editar ou excluir itens. Use a coluna “Publicar” para selecionar o conteúdo. Aprovação explícita é necessária antes da importação.</p>
+<div class="review-layout"><div class="review-list"><label>Filtrar unidades<input type="search" id="filterUnits" placeholder="Número, unidade, tema..." /></label><div id="unitsList"></div></div>
+<div class="review-detail" id="details"><div class="hint">Selecione uma unidade à esquerda.</div></div></div>
+<div class="publish-bar"><div><h2>3. Publicar na biblioteca</h2><p id="publishCount" class="hint">Nenhuma unidade aprovada.</p></div><div class="buttonrow"><label>Se a unidade já existir<select id="conflictPolicy"><option value="merge">Mesclar itens e preservar os anteriores</option><option value="replace">Substituir conteúdo da unidade</option><option value="skip">Ignorar unidades existentes</option></select></label><button id="downloadReviewed" class="ghost">↓ Exportar pacote revisado</button><button id="publish" class="primary">✓ Publicar aprovadas</button></div></div>
+</section><div id="result" class="notice" role="status" hidden></div>
+<footer>Os dados são processados localmente no navegador. O pacote inicial do livro contém exemplos originais e não inclui páginas, figuras ou arquivos de áudio protegidos.</footer>
+</main></div><script type="module" src="js/packages-ui.js"></script></body></html>

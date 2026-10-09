@@ -1,0 +1,17 @@
+const KEY='vocablab.audio.v2';
+const defaults={voice:'',rate:0.85,pitch:1,volume:1,source:'auto',recognitionLang:'en-GB'};
+let settings={...defaults};
+try{settings={...defaults,...JSON.parse(localStorage.getItem(KEY)||'{}')}}catch{}
+let currentAudio=null;
+export const canSpeak=()=>typeof window!=='undefined'&&!!window.speechSynthesis;
+export const getAudioSettings=()=>({...settings});
+export function listVoices(){return canSpeak()?speechSynthesis.getVoices().filter(v=>v.lang.toLowerCase().startsWith('en')).sort((a,b)=>a.lang.localeCompare(b.lang)||a.name.localeCompare(b.name)):[]}
+export function configureAudio(opts){settings={...settings,...opts};settings.rate=Math.max(.5,Math.min(1.5,Number(settings.rate)||.85));settings.pitch=Math.max(.5,Math.min(1.5,Number(settings.pitch)||1));settings.volume=Math.max(0,Math.min(1,Number(settings.volume)));try{localStorage.setItem(KEY,JSON.stringify(settings))}catch{};return getAudioSettings()}
+export function stopAudio(){if(currentAudio){currentAudio.pause();currentAudio.currentTime=0;currentAudio=null}if(canSpeak())speechSynthesis.cancel()}
+function synthesize(text){if(!canSpeak())throw Error('Síntese de voz indisponível neste navegador.');const u=new SpeechSynthesisUtterance(text),voices=listVoices();u.voice=voices.find(v=>v.voiceURI===settings.voice)||voices.find(v=>v.lang===settings.recognitionLang)||voices[0]||null;u.lang=u.voice?.lang||settings.recognitionLang;u.rate=settings.rate;u.pitch=settings.pitch;u.volume=settings.volume;speechSynthesis.speak(u);return 'tts'}
+export async function playText(text,id=null,{forceTTS=false}={}){stopAudio();if(!forceTTS&&id&&settings.source!=='tts'){const audio=new Audio(`assets/audio/${encodeURIComponent(id)}.mp3`);audio.volume=settings.volume;currentAudio=audio;try{await audio.play();return 'mp3'}catch(e){currentAudio=null;if(settings.source==='mp3')throw Error(`MP3 não encontrado para “${text}” (assets/audio/${id}.mp3). Selecione Automático ou Voz do navegador nas configurações.`)}}return synthesize(text)}
+export function browserSupportsRecognition(){return !!(window.SpeechRecognition||window.webkitSpeechRecognition)}
+export function recognize(lang='en-GB'){return new Promise((resolve,reject)=>{const Ctor=window.SpeechRecognition||window.webkitSpeechRecognition;if(!Ctor)return reject(new Error('Este navegador não disponibiliza reconhecimento de fala.'));const r=new Ctor();r.lang=lang;r.interimResults=false;r.maxAlternatives=5;r.onresult=e=>resolve(Array.from(e.results[0]).map(x=>x.transcript));r.onerror=e=>reject(new Error('Falha no reconhecimento: '+e.error));r.onnomatch=()=>reject(new Error('Nenhuma fala identificada.'));r.start()})}
+let recorder=null;let chunks=[];let stream=null;
+export async function startRecording(){if(!navigator.mediaDevices?.getUserMedia||!window.MediaRecorder)throw new Error('Gravação não suportada. Use localhost ou HTTPS e autorize o microfone.');stream=await navigator.mediaDevices.getUserMedia({audio:true});chunks=[];recorder=new MediaRecorder(stream);recorder.ondataavailable=e=>{if(e.data.size)chunks.push(e.data)};recorder.start()}
+export function stopRecording(){return new Promise((resolve,reject)=>{if(!recorder||recorder.state==='inactive')return reject(new Error('Não há gravação ativa.'));recorder.onstop=()=>{stream?.getTracks().forEach(t=>t.stop());stream=null;const blob=new Blob(chunks,{type:recorder.mimeType||'audio/webm'});recorder=null;resolve(URL.createObjectURL(blob))};recorder.stop()})}

@@ -1,0 +1,24 @@
+import fs from 'node:fs';import assert from 'node:assert/strict';
+const db=new Map();globalThis.localStorage={getItem:k=>db.get(k)??null,setItem:(k,v)=>db.set(k,String(v)),removeItem:k=>db.delete(k)};
+const {parseContentPackage,inspectPackage,publishMany,exportContentPackage}=await import('../js/package-core.js');
+const {library,record,profile,makeBackup,importBackup}=await import('../js/core.js');
+const source=JSON.parse(fs.readFileSync(new URL('../packages/english-vocabulary-in-use-elementary-starter.json',import.meta.url),'utf8'));
+const pack=parseContentPackage(source);
+assert.equal(pack.units.length,60);assert.equal(pack.units.reduce((a,u)=>a+u.items.length,0),264);
+assert.equal(pack.units[2].items.length,28);
+assert.equal(new Set(pack.units.map(u=>u.id)).size,60);
+assert.equal(inspectPackage(pack.units).filter(x=>x.conflict).length,0);
+assert.deepEqual(publishMany(pack.units,'merge'),{added:60,updated:0,skipped:0});
+assert.equal(Object.keys(library()).length,60);assert.equal(library()['evie-3ed-u03'].bookTitle,'English Vocabulary in Use — Elementary (3rd edition)');
+record('evie-3ed-u03','knee','listening',true);
+assert.equal(profile('evie-3ed-u03','knee').listening.attempts,1);
+assert.deepEqual(publishMany(pack.units,'merge'),{added:0,updated:60,skipped:0});
+assert.equal(profile('evie-3ed-u03','knee').listening.attempts,1);
+const roundtrip=parseContentPackage(exportContentPackage(pack,pack.units));assert.equal(roundtrip.units.length,60);
+const backup=makeBackup();importBackup(backup);assert.equal(profile('evie-3ed-u03','knee').listening.attempts,1);
+assert.deepEqual(publishMany(pack.units,'skip'),{added:0,updated:0,skipped:60});
+const before=localStorage.getItem('vocablab.library.v1');let failed=false;
+try{publishMany([...pack.units.slice(0,1),{...pack.units[1],items:[{id:'bad id',word:'abc',pt:'def'}]}],'replace')}catch{failed=true}
+assert(failed);assert.equal(localStorage.getItem('vocablab.library.v1'),before,'atomic mutation on invalid units');
+const duplicates=inspectPackage(pack.units);assert(duplicates.some(s=>s.duplicates>0));
+console.log('PASS: 60 units, 264 items, merge/replace/skip conflicts, progress, backup, duplication detection, atomic validation');
