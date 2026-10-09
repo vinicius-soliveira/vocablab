@@ -1,70 +1,174 @@
-import {validateUnit,library,save,normalize} from './core.js';
-const LIB='vocablab.library.v1';
-const MAX_BYTES=1_800_000;
-export function parseContentPackage(data){
- if (!data || typeof data!=='object'||Array.isArray(data)) throw Error('Conteúdo JSON inválido.');
- let source;
- if (Array.isArray(data.units)) {
-  if (data.format!=='vocablab-content-package'||data.version!==1) throw Error('Formato de pacote incompatível. Use vocablab-content-package, version: 1.');
-  source=data.units;
- } else if (Array.isArray(data.items)) source=[data]; // backwards-compatible with v1.0
- else throw Error('Este JSON não contém units[] nem items[].');
- if(!source.length||source.length>200)throw Error('O pacote deve conter de 1 a 200 unidades.');
- const seen=new Set(); let total=0;
- const units=source.map((u,i)=>{
-  const checked=validateUnit(u);
-  if(seen.has(checked.id))throw Error(`ID de unidade duplicado: ${checked.id}`);
-  seen.add(checked.id);total+=checked.items.length;
-  return {
-   ...checked,number:Number.isInteger(u.number)?u.number:null,
-   bookId:typeof u.bookId==='string'?u.bookId.slice(0,160):String(data.bookId||''),
-   bookTitle:typeof u.bookTitle==='string'?u.bookTitle.slice(0,160):String(data.title||''),
-   category:typeof u.category==='string'?u.category.slice(0,120):'',
-   coverage:u.coverage==='starter-curated-partial'?'starter-curated-partial':'user-curated',
-   sourcePage:Number.isInteger(u.sourcePage)?u.sourcePage:null,
-   packageId:String(data.id||checked.id).slice(0,160),
-  };
- });
- if(total>12000)throw Error('Este pacote excede 12.000 itens; divida em pacotes menores.');
- return {
-  id:String(data.id||units[0].id).slice(0,160),
-  title:String(data.title||units[0].title).slice(0,200),
-  description:String(data.description||'').slice(0,1000),
-  coverage:String(data.coverage||'custom'), units,
- };
+/** Import, inspect, publish, and export VocabLab content packages. */
+import { validateUnit, library, normalize, STORAGE_KEYS } from './core.js';
+const MAX_FILE_BYTES = 1800000;
+const MAX_LIBRARY_BYTES = 4000000;
+const MAX_PACKAGE_UNITS = 200;
+const MAX_PACKAGE_ITEMS = 12000;
+/** Parse either a content package or a legacy single-unit JSON file. */
+export function parseContentPackage(inputData) {
+    if (!inputData || typeof inputData !== 'object' || Array.isArray(inputData)) {
+        throw new Error('Invalid JSON content package.');
+    }
+    let sourceUnits;
+    if (Array.isArray(inputData.units)) {
+        if (inputData.format !== 'vocablab-content-package' || inputData.version !== 1) {
+            throw new Error('Unsupported package format. Expected vocablab-content-package v1.');
+        }
+        sourceUnits = inputData.units;
+    }
+    else if (Array.isArray(inputData.items)) {
+        sourceUnits = [inputData]; // Compatibility with VocabLab 1.0.
+    }
+    else {
+        throw new Error('The JSON file must contain either units[] or items[].');
+    }
+    if (sourceUnits.length < 1 || sourceUnits.length > MAX_PACKAGE_UNITS) {
+        throw new Error('A package must contain between 1 and 200 units.');
+    }
+    const seenUnitIds = new Set();
+    let totalItems = 0;
+    const units = sourceUnits.map((sourceUnit) => {
+        const validatedUnit = validateUnit(sourceUnit);
+        if (seenUnitIds.has(validatedUnit.id)) {
+            throw new Error(`Duplicate unit ID: ${validatedUnit.id}.`);
+        }
+        seenUnitIds.add(validatedUnit.id);
+        totalItems += validatedUnit.items.length;
+        return {
+            ...validatedUnit,
+            number: Number.isInteger(sourceUnit.number) ? sourceUnit.number : null,
+            bookId: String(sourceUnit.bookId ?? inputData.bookId ?? '').slice(0, 160),
+            bookTitle: String(sourceUnit.bookTitle ?? inputData.title ?? '').slice(0, 160),
+            category: String(sourceUnit.category ?? '').slice(0, 120),
+            coverage: String(sourceUnit.coverage ?? inputData.coverage ?? 'user-curated').slice(0, 80),
+            sourcePage: Number.isInteger(sourceUnit.sourcePage) ? sourceUnit.sourcePage : null,
+            packageId: String(inputData.id || validatedUnit.id).slice(0, 160),
+            sourceNotice: String(sourceUnit.sourceNotice ?? inputData.sourceNotice ?? '').slice(0, 1000),
+            sourceAudit: sourceUnit.sourceAudit ?? inputData.audit ?? null,
+        };
+    });
+    if (totalItems > MAX_PACKAGE_ITEMS) {
+        throw new Error('A package cannot contain more than 12,000 items. Split it into smaller packages.');
+    }
+    return {
+        id: String(inputData.id || units[0].id).slice(0, 160),
+        title: String(inputData.title || units[0].title).slice(0, 200),
+        description: String(inputData.description || '').slice(0, 1000),
+        coverage: String(inputData.coverage || 'custom'),
+        ...(inputData.audit && typeof inputData.audit === 'object' ? { audit: inputData.audit } : {}),
+        ...(inputData.sourceNotice ? { sourceNotice: String(inputData.sourceNotice) } : {}),
+        units,
+    };
 }
-export function inspectPackage(units,existing=library()){
- const index=new Map();
- for(const [id,u] of Object.entries(existing))for(const x of u.items||[]){const k=normalize(x.word);if(k){if(!index.has(k))index.set(k,[]);index.get(k).push(id)}}
- const stats=[];const incoming=new Map();
- for(const u of units){let duplicates=0,own=0;
-  for(const it of u.items){const k=normalize(it.word);if(index.has(k))duplicates++;if(incoming.has(k))own++;incoming.set(k,true)}
-  stats.push({id:u.id,conflict:!!existing[u.id],duplicates,within:own,items:u.items.length});
- }
- return stats;
+/** Report conflicts with installed units and vocabulary overlap. */
+export function inspectPackage(candidateUnits, existingLibrary = library()) {
+    const knownWords = new Map();
+    for (const [unitId, installedUnit] of Object.entries(existingLibrary)) {
+        for (const item of installedUnit.items || []) {
+            const normalizedWord = normalize(item.word);
+            if (!normalizedWord)
+                continue;
+            if (!knownWords.has(normalizedWord))
+                knownWords.set(normalizedWord, []);
+            knownWords.get(normalizedWord).push(unitId);
+        }
+    }
+    const seenIncomingWords = new Set();
+    return candidateUnits.map((unit) => {
+        let duplicates = 0;
+        let within = 0;
+        for (const item of unit.items) {
+            const normalizedWord = normalize(item.word);
+            if (knownWords.has(normalizedWord))
+                duplicates++;
+            if (seenIncomingWords.has(normalizedWord))
+                within++;
+            seenIncomingWords.add(normalizedWord);
+        }
+        return {
+            id: unit.id,
+            conflict: Boolean(existingLibrary[unit.id]),
+            duplicates,
+            within,
+            items: unit.items.length,
+        };
+    });
 }
-export function publishMany(units,policy='merge'){
- if(!['merge','replace','skip'].includes(policy)) throw Error('Política de conflitos inválida.');
- if(!units.length)throw Error('Aprove ao menos uma unidade antes de importar.');
- // Validate all before any write. One write avoids leaving a partially imported package.
- const existing=library(),draft={...existing};let added=0,updated=0,skipped=0;
- for(const candidate of units){const checked=parseContentPackage(candidate.items?{items:candidate.items,...candidate}:candidate).units[0];
-  const old=draft[checked.id];
-  if(old&&policy==='skip'){skipped++;continue}
-  if(!old){draft[checked.id]=checked;added++;continue}
-  if(policy==='replace'){draft[checked.id]=checked;updated++;continue}
-  // Merge keeps older words absent from the new release, updating matching item IDs.
-  const merged=new Map(old.items.map(i=>[i.id,i]));
-  for(const item of checked.items)merged.set(item.id,item);
-  draft[checked.id]={...old,...checked,items:[...merged.values()]};updated++;
- }
- const json=JSON.stringify(draft);
- if(new Blob([json]).size>4_000_000)throw Error('Biblioteca excederia 4 MB de dados. Exporte backup e importe um pacote menor.');
- try {localStorage.setItem(LIB,json)} catch(e){throw Error('Sem espaço no navegador. Exporte um backup e remova pacotes que não usa. '+e.message)}
- return {added,updated,skipped};
+/** Validate every unit before a single atomic library write. */
+export function publishMany(candidateUnits, conflictPolicy = 'merge') {
+    if (!['merge', 'replace', 'skip'].includes(conflictPolicy)) {
+        throw new Error('Invalid conflict policy.');
+    }
+    if (!Array.isArray(candidateUnits) || candidateUnits.length === 0) {
+        throw new Error('Approve at least one unit before publishing.');
+    }
+    const updatedLibrary = { ...library() };
+    const incomingUnitIds = new Set();
+    let added = 0;
+    let updated = 0;
+    let skipped = 0;
+    for (const candidateUnit of candidateUnits) {
+        const validUnit = parseContentPackage(candidateUnit).units[0];
+        if (incomingUnitIds.has(validUnit.id)) {
+            throw new Error(`Duplicate unit ID in publishing batch: ${validUnit.id}.`);
+        }
+        incomingUnitIds.add(validUnit.id);
+        const installedUnit = updatedLibrary[validUnit.id];
+        if (installedUnit && conflictPolicy === 'skip') {
+            skipped++;
+            continue;
+        }
+        if (!installedUnit) {
+            updatedLibrary[validUnit.id] = validUnit;
+            added++;
+            continue;
+        }
+        if (conflictPolicy === 'replace') {
+            updatedLibrary[validUnit.id] = validUnit;
+            updated++;
+            continue;
+        }
+        // Matching IDs replace the previous item; older unmatched items are retained.
+        const mergedItems = new Map(installedUnit.items.map((item) => [item.id, item]));
+        for (const item of validUnit.items)
+            mergedItems.set(item.id, item);
+        updatedLibrary[validUnit.id] = {
+            ...installedUnit,
+            ...validUnit,
+            items: [...mergedItems.values()],
+        };
+        updated++;
+    }
+    const serializedLibrary = JSON.stringify(updatedLibrary);
+    if (new Blob([serializedLibrary]).size > MAX_LIBRARY_BYTES) {
+        throw new Error('The library would exceed 4 MB. Export a backup and import smaller packages.');
+    }
+    try {
+        localStorage.setItem(STORAGE_KEYS.library, serializedLibrary);
+    }
+    catch (error) {
+        throw new Error(`Browser storage is full. Export a backup and remove unused units. ${error.message}`);
+    }
+    return { added, updated, skipped };
 }
-export function exportContentPackage(pack,units){
- return {format:'vocablab-content-package',version:1,id:pack.id,title:pack.title,description:pack.description,coverage:pack.coverage,
-  units:units.map(u=>({...u,items:u.items.map(i=>({...i}))}))};
+export function exportContentPackage(sourcePackage, selectedUnits) {
+    return {
+        format: 'vocablab-content-package',
+        version: 1,
+        id: sourcePackage.id,
+        title: sourcePackage.title,
+        description: sourcePackage.description,
+        coverage: sourcePackage.coverage,
+        ...(sourcePackage.audit ? { audit: sourcePackage.audit } : {}),
+        ...(sourcePackage.sourceNotice ? { sourceNotice: sourcePackage.sourceNotice } : {}),
+        units: selectedUnits.map((unit) => ({
+            ...unit,
+            items: unit.items.map((item) => ({ ...item })),
+        })),
+    };
 }
-export function validateFileSize(file){if(file.size>MAX_BYTES)throw Error('Arquivo maior que 1,8 MB. Divida o pacote em vários arquivos.');}
+export function validateFileSize(file) {
+    if (file.size > MAX_FILE_BYTES) {
+        throw new Error('The JSON file exceeds 1.8 MB. Split it into smaller packages.');
+    }
+}

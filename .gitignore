@@ -1,34 +1,21 @@
-﻿# Python
+# Local files and private study material
+*.pdf
+backups/
+*.log
+
+# Python caches (if Python is used to serve the files)
 __pycache__/
 *.py[cod]
 .venv/
-venv/
 
-# Node.js
+# Optional development tools
 node_modules/
-npm-debug.log*
-
-# Environment and local settings
 .env
 .env.*
 !.env.example
 
-# IDE
-.idea/
-.vscode/
-
-# OS
+# Operating system / IDE
 .DS_Store
 Thumbs.db
-desktop.ini
-
-# Temporary files
-*.tmp
-*.bak
-*.log
-
-# Local study materials
-*.pdf
-
-# Local user data
-backups/
+.vscode/
+.idea/

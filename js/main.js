@@ -1,46 +1,505 @@
-import {playText,stopAudio,listVoices,configureAudio,getAudioSettings,recognize,browserSupportsRecognition,startRecording,stopRecording} from './audio.js';
-import {validateUnit,install,library,remove,profile,record,mastery,ordered,dueItems,skills,shuffle,same,normalize,downloadJSON,importBackup,makeBackup} from './core.js';
-const $=s=>document.querySelector(s),html=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-let view='dashboard',unitId=localStorage.getItem('vocablab.active.v1')||'unit-03',units={},pairs=[],current=null,answerDone=false,session=[],position=0,listenMode='choice',lessonCursor=0,practiceMode='words',pairIndex=0,pairAnswer='',microphoneURL='',recording=false,taskSkill='meaning',reviewSession=false;
-const meta={dashboard:['YOUR LEARNING SPACE','Overview','Uma experiência adaptativa independente de livros.'],learn:['VOCABULARY','Explore & understand','Aprenda significados, pronúncia e exemplos em contexto.'],listen:['LISTENING','Train your ears','Reconheça o áudio sem depender do texto.'],pronounce:['SPEAKING','Pronunciation lab','Compare referências, pratique pares mínimos e grave sua fala.'],use:['ACTIVE VOCABULARY','Use & recall','Escreva palavras a partir do significado e pratique no contexto.'],review:['ADAPTIVE PRACTICE','Review queue','Revise itens no momento adequado, por habilidade.'],library:['CONTENT MANAGER','Unit library','Estude conteúdos de diferentes livros, aulas ou listas pessoais.'],progress:['ANALYTICS','Learning progress','Veja desempenho por habilidade e proteja seus dados.']};
-const unit=()=>units[unitId],items=()=>unit()?.items||[];
-function toast(t){$('#toast').textContent=t;$('#toast').classList.add('show');clearTimeout(toast.timer);toast.timer=setTimeout(()=>$('#toast').classList.remove('show'),4500)}
-function button(label,id,kind='ghost'){return `<button type="button" id="${id}" class="${kind}">${label}</button>`}
-function navigate(x){if(window._vocabMp3){window._vocabMp3.pause();window._vocabMp3=null}view=x;current=null;answerDone=false;position=0;session=[];stopAudio();if(microphoneURL){URL.revokeObjectURL(microphoneURL);microphoneURL=''};render()}
-function chooseUnit(id){unitId=id;localStorage.setItem('vocablab.active.v1',id);lessonCursor=0;navigate('dashboard')}
-async function start(){try{for(const path of ['data/unit-03.json','data/workplace-original.json']){const response=await fetch(path);if(!response.ok)throw Error('Falha ao carregar '+path);const seed=await response.json();if(!library()[seed.id])install(seed)}units=library();const r=await fetch('data/minimal-pairs.json');pairs=await r.json();if(!units[unitId])unitId=Object.keys(units)[0];setup();render()}catch(e){$('#app').innerHTML=`<section class="panel"><h2>Não foi possível iniciar</h2><p>${html(e.message)}</p><p>Abra via <code>python -m http.server 8085 --bind 127.0.0.1</code> e acesse http://127.0.0.1:8085.</p></section>`}}
-function setup(){document.querySelectorAll('[data-view]').forEach(b=>b.onclick=()=>navigate(b.dataset.view));const d=$('#settings');$('#settingsBtn').onclick=()=>{syncSettings();d.showModal()};$('#closeSettings').onclick=()=>d.close();$('#stopVoice').onclick=stopAudio;$('#testVoice').onclick=()=>playText('Today I am practising English pronunciation.',null,{forceTTS:true}).catch(e=>toast(e.message));for(const [id,property] of [['rate','rate'],['pitch','pitch'],['volume','volume']])$('#'+id).oninput=e=>{const value=Number(e.target.value);configureAudio({[property]:value});$('#'+id+'V').textContent=property==='volume'?Math.round(value*100)+'%':value.toFixed(2)+'×'};for(const id of ['source','recognitionLang'])$('#'+id).onchange=e=>configureAudio({[id]:e.target.value});$('#voice').onchange=e=>configureAudio({voice:e.target.value});if(window.speechSynthesis)speechSynthesis.addEventListener('voiceschanged',syncVoices);syncSettings();$('#unitImporter').onchange=importUnit;$('#backupImporter').onchange=importData}
-function syncVoices(){const voices=listVoices(),saved=getAudioSettings().voice;$('#voice').innerHTML=voices.map(v=>`<option value="${html(v.voiceURI)}">${html(v.name)} · ${html(v.lang)}</option>`).join('')||'<option value="">Sem vozes inglesas disponíveis</option>';const chosen=voices.find(v=>v.voiceURI===saved)||voices[0];if(chosen){$('#voice').value=chosen.voiceURI;configureAudio({voice:chosen.voiceURI})}}
-function syncSettings(){const s=getAudioSettings();for(const k of ['rate','pitch','volume']){$('#'+k).value=s[k];$('#'+k+'V').textContent=k==='volume'?Math.round(s[k]*100)+'%':Number(s[k]).toFixed(2)+'×'}$('#source').value=s.source;$('#recognitionLang').value=s.recognitionLang;syncVoices()}
-function header(){const m=meta[view];$('#subtitle').textContent=m[0];$('#title').textContent=m[1];$('#description').textContent=m[2];$('#activeTitle').textContent=unit()?.title||'Nenhuma unidade';$('#unitChip').textContent=`${items().length} items · ${unit()?.level||'A1–A2'}`;document.querySelectorAll('[data-view]').forEach(b=>b.classList.toggle('selected',b.dataset.view===view))}
-function render(){header();({dashboard,learn,listen,pronounce,use,review,library:showLibrary,progress:showProgress}[view])()}
-const bar=p=>`<div class="meter"><i style="width:${Math.min(100,Math.max(0,Math.round(p*100)))}%"></i></div>`;
-function dashboard(){const xs=items(),due=dueItems(unitId,xs),avg=xs.length?xs.reduce((a,x)=>a+mastery(unitId,x.id),0)/xs.length:0;$('#app').innerHTML=`<div class="grid"><section class="panel"><span class="label">Vocabulário ativo</span><div class="stat">${xs.length}</div><p class="hint">${html(unit()?.title)}</p></section><section class="panel"><span class="label">Domínio geral</span><div class="stat">${Math.round(avg*100)}%</div>${bar(avg)}</section><section class="panel"><span class="label">Revisões vencidas</span><div class="stat">${due.length}</div><p class="hint">Habilidades com revisão programada.</p></section></div><div class="cols" style="margin-top:17px"><section class="panel"><h2>Sua próxima sessão</h2><p>Estude por habilidade. A prioridade é determinada pelo histórico de acertos, erros e revisões previstas.</p><div class="grid"><button class="option" id="dashLearn">◫ Learn · significado</button><button class="option" id="dashListen">◉ Listen · identificação</button><button class="option" id="dashPron">◌ Pronunciation lab</button><button class="option" id="dashReview">↻ Revisão adaptativa (${due.length})</button></div></section><section class="panel"><h3>Pacotes instalados</h3><div class="stat">${Object.keys(units).length}</div><p class="hint">Importe novas unidades a qualquer momento. Não é necessário editar JavaScript.</p>${button('Gerenciar pacotes','dashLibrary','primary')}</section></div>`;for(const [id,dest] of [['dashLearn','learn'],['dashListen','listen'],['dashPron','pronounce'],['dashReview','review'],['dashLibrary','library']])$('#'+id).onclick=()=>navigate(dest)}
-function makeSession(skill){session=ordered(unitId,items(),skill).map(item=>({item,skill}));position=0;answerDone=false;current=null}
-function nextSession(){position++;answerDone=false;current=null;render()}
-function nextControl(){return `<div class="buttonrow">${button('Próximo →','next','primary')}</div>`}
-function response(feedback,good){return `<div class="${good?'success':'warning'}" role="status">${feedback}</div>${nextControl()}`}
-function learn(){const xs=ordered(unitId,items(),'meaning');if(!xs.length)return;const x=xs[lessonCursor%xs.length];$('#app').innerHTML=`<div class="cols"><section class="panel"><div class="between"><span class="chip">${html(x.section)}</span><span class="hint">${lessonCursor%xs.length+1} / ${xs.length}</span></div><div class="center hero"><div class="word">${html(x.word)}</div><div class="ipa">${html(x.ipa)}</div><div class="buttonrow" style="justify-content:center">${button('▶ Word','wordAudio')}${button('▶ Sentence','sentenceAudio')}</div><p class="translation">${html(x.pt)}</p><p><em>${html(x.example)}</em></p></div>${x.note?`<div class="note">💡 ${html(x.note)}</div>`:''}<div class="between" style="margin-top:20px">${button('← Previous','previous')}${button('Marcar como estudado ✓','known','primary')}${button('Next →','following')}</div></section>${skillPanel(x)}</div>`;$('#wordAudio').onclick=()=>playWord(x);$('#sentenceAudio').onclick=()=>playSentence(x);$('#previous').onclick=()=>{lessonCursor=(lessonCursor+xs.length-1)%xs.length;render()};$('#following').onclick=()=>{lessonCursor++;render()};$('#known').onclick=()=>{record(unitId,x.id,'meaning',true);lessonCursor++;render()}}
-function skillPanel(x){return `<aside class="panel"><h3>Domínio por habilidade</h3>${skills.map(s=>{const p=profile(unitId,x.id)[s],v=p?Math.round(100*p.success/Math.max(1,p.attempts)):0;return `<div class="skill"><div class="between"><span class="hint">${s}</span><b>${v}%</b></div>${bar(v/100)}</div>`}).join('')}<p class="hint">Percentuais são taxas de acerto; não são notas oficiais de proficiência.</p></aside>`}
-function playWord(x){return playWithAudio(x.word,x.audio||`assets/audio/${unitId}/${x.id}.mp3`)}
-async function playWithAudio(text,path){if(window._vocabMp3){window._vocabMp3.pause();window._vocabMp3=null}const s=getAudioSettings();if(s.source==='tts')return playText(text,null,{forceTTS:true});if(path&&/^assets\/audio\/[\w./-]+\.mp3$/.test(path)&&!path.includes('..')){try{stopAudio();const a=new Audio(path);a.volume=s.volume;await a.play();window._vocabMp3=a;return}catch(e){if(s.source==='mp3')return toast('MP3 indisponível: '+path)}}else if(s.source==='mp3')return toast('Sem arquivo MP3 para este item.');return playText(text,null,{forceTTS:true}).catch(e=>toast(e.message))}
-function playSentence(x){return playText(x.example,null,{forceTTS:true}).catch(e=>toast(e.message))}
-function studyTask(skill,fromReview=false){if(!session.length)makeSession(skill);if(position>=session.length){$('#app').innerHTML=`<section class="panel center"><h2>Sessão concluída ✓</h2><p>Os resultados foram registrados por habilidade.</p>${button('Recomeçar','again','primary')}</section>`;$('#again').onclick=()=>{session=[];render()};return null}return session[position]}
-function studyCard(x,top,body){$('#app').innerHTML=`<div class="cols"><section class="panel"><div class="between"><span class="chip">${html(top)}</span><span class="hint">${position+1} / ${session.length}</span></div>${body}<div id="result"></div></section>${skillPanel(x)}</div>`}
-function finish(x,skill,ok,content,verified=true){if(answerDone)return;answerDone=true;record(unitId,x.id,skill,ok,verified);$('#result').innerHTML=response(content,ok);$('#next').onclick=()=>nextSession()}
-function listen(){const toggle=`<div class="tabs"><button class="ghost ${listenMode==='choice'?'active':''}" id="choiceMode">Multiple choice</button><button class="ghost ${listenMode==='dictation'?'active':''}" id="dictMode">Dictation</button></div>`;if(!session.length)makeSession('listening');const t=studyTask('listening');if(!t)return;const x=t.item,options=shuffle([x,...shuffle(items().filter(q=>q.id!==x.id)).slice(0,3)]);studyCard(x,'Listen · '+listenMode,`${toggle}<div class="hero center"><div class="stat">◉</div><h2>What did you hear?</h2><p>Ouça sem olhar a resposta.</p>${button('▶ Play word','playW','primary')} ${button('▶ Example','playEx')}</div>${listenMode==='choice'?`<div class="choices">${options.map((q,i)=>`<button class="option" data-answer="${html(q.id)}">${html(q.word)}</button>`).join('')}</div>`:`<form id="listenForm" class="formrow"><input type="text" id="typed" autocomplete="off" spellcheck="false" placeholder="Type the word you heard..."><button class="primary" type="submit">Check</button></form>`}`);$('#choiceMode').onclick=()=>{listenMode='choice';session=[];render()};$('#dictMode').onclick=()=>{listenMode='dictation';session=[];render()};$('#playW').onclick=()=>playWord(x);$('#playEx').onclick=()=>playSentence(x);if(listenMode==='choice')document.querySelectorAll('[data-answer]').forEach(b=>b.onclick=()=>finish(x,'listening',b.dataset.answer===x.id,`<strong>${html(x.word)}</strong> · ${html(x.ipa)} · ${html(x.pt)}`));else{$('#listenForm').onsubmit=e=>{e.preventDefault();if(!$('#typed').value.trim())return;finish(x,'listening',same($('#typed').value,x.word),`Resposta: <strong>${html(x.word)}</strong> · ${html(x.ipa)}`)};$('#typed').focus()}}
-function use(){if(!session.length)makeSession('usage');const t=studyTask('usage');if(!t)return;const x=t.item;studyCard(x,'Use & recall',`<div class="hero center"><span class="label">Write in English</span><p class="translation">${html(x.pt)}</p><p class="hint">Dica: ${html(x.section)}</p></div><form id="useForm" class="formrow"><input id="useInput" type="text" autocomplete="off" spellcheck="false" placeholder="Type the English word..."><button class="primary" type="submit">Check</button></form><div class="buttonrow">${button('Reveal answer','reveal')}</div>`);const go=(v,correct)=>finish(x,'usage',correct,`<b>${html(x.word)}</b> · ${html(x.ipa)}<p>${html(x.example)}</p>`);$('#useForm').onsubmit=e=>{e.preventDefault();if(!$('#useInput').value.trim())return;go($('#useInput').value,same($('#useInput').value,x.word))};$('#reveal').onclick=()=>go('',false);$('#useInput').focus()}
-function pronounce(){const nav=`<div class="tabs"><button id="wordsTab" class="ghost ${practiceMode==='words'?'active':''}">Word practice</button><button id="pairsTab" class="ghost ${practiceMode==='pairs'?'active':''}">Minimal pairs</button></div>`;if(practiceMode==='pairs'){const p=pairs[pairIndex%pairs.length];$('#app').innerHTML=`<section class="panel">${nav}<span class="chip">Minimal pairs · ${pairIndex%pairs.length+1}/${pairs.length}</span><div class="hero center"><h2>Distinguish these sounds</h2><div class="minimalpair">${html(p.a)} <span class="muted">vs</span> ${html(p.b)}</div><p class="ipa">${html(p.ipaA)} · ${html(p.ipaB)}</p><div class="buttonrow" style="justify-content:center">${button('▶ First','firstSound')}${button('▶ Second','secondSound')}${button('▶ Random challenge','randomSound','primary')}</div><p id="pairPrompt" class="hint">Ouça as duas palavras. Depois clique Random challenge e identifique qual foi falada.</p><div class="choices">${button(html(p.a),'pairA','option')}${button(html(p.b),'pairB','option')}</div><div id="pairFeedback"></div></div><div class="note">${html(p.tip)}</div><div class="buttonrow">${button('Next pair →','nextPair','primary')}</div></section>`;$('#firstSound').onclick=()=>playText(p.a,null,{forceTTS:true});$('#secondSound').onclick=()=>playText(p.b,null,{forceTTS:true});$('#randomSound').onclick=()=>{pairAnswer=Math.random()<.5?p.a:p.b;playText(pairAnswer,null,{forceTTS:true});$('#pairPrompt').textContent='Escolha a palavra reproduzida.';$('#pairFeedback').innerHTML=''};for(const [id,v] of [['pairA',p.a],['pairB',p.b]])$('#'+id).onclick=()=>{if(!pairAnswer){toast('Clique Random challenge primeiro.');return}$('#pairFeedback').innerHTML=`<div class="${v===pairAnswer?'success':'warning'}">${v===pairAnswer?'Correct!':'Not quite.'} Resposta: ${html(pairAnswer)}.</div>`;pairAnswer=''};$('#nextPair').onclick=()=>{pairIndex++;render()}}else{const xs=ordered(unitId,items(),'pronunciation'),x=xs[lessonCursor%xs.length];$('#app').innerHTML=`<div class="cols"><section class="panel">${nav}<span class="chip">${html(x.section)}</span><div class="center hero"><div class="word">${html(x.word)}</div><p class="ipa">${html(x.ipa)}</p><p>${html(x.example)}</p><div class="buttonrow" style="justify-content:center">${button('▶ Reference','refWord','primary')}${button('▶ Sentence','refSentence')}</div><div class="buttonrow" style="justify-content:center">${button('● Start recording','startRec')}${button('■ Stop recording','stopRec')}${button('▶ Playback','playRec')}</div><div class="buttonrow" style="justify-content:center">${button('🎙 Recognize my speech','recognizeBtn')}</div><div id="speechStatus" role="status" class="hint">A gravação permite comparação auditiva; o reconhecimento verifica palavras transcritas, não a precisão dos fonemas.</div></div><div class="note">${html(x.note||'Ouça atentamente o ritmo, os sons e a tonicidade. Compare com sua gravação.')}</div><div class="buttonrow">${button('← Previous','prevSpeak')}${button('Next →','nextSpeak','primary')}</div></section>${skillPanel(x)}</div>`;$('#refWord').onclick=()=>playWord(x);$('#refSentence').onclick=()=>playSentence(x);$('#startRec').onclick=async()=>{try{await startRecording();recording=true;$('#speechStatus').textContent='Gravando...';$('#startRec').disabled=true}catch(e){toast(e.message)}};$('#stopRec').onclick=async()=>{if(!recording)return;try{if(microphoneURL)URL.revokeObjectURL(microphoneURL);microphoneURL=await stopRecording();$('#speechStatus').textContent='Gravação disponível para reprodução e comparação manual.';recording=false;$('#startRec').disabled=false;record(unitId,x.id,'pronunciation',true,false)}catch(e){toast(e.message)}};$('#playRec').onclick=()=>{if(!microphoneURL)return toast('Grave sua voz primeiro.');new Audio(microphoneURL).play().catch(e=>toast(e.message))};$('#recognizeBtn').onclick=async()=>{if(!browserSupportsRecognition())return toast('Reconhecimento indisponível neste navegador. Experimente Chrome ou Edge.');$('#speechStatus').textContent='Ouvindo...';try{const words=await recognize(getAudioSettings().recognitionLang);const ok=words.some(t=>same(t,x.word));record(unitId,x.id,'pronunciation',ok,false);$('#speechStatus').innerHTML=`<div class="${ok?'success':'warning'}">Transcrição: ${html(words[0])}. ${ok?'Palavra identificada.':'A palavra-alvo não foi identificada.'} Isto <b>não</b> é uma nota fonética.</div>`}catch(e){$('#speechStatus').textContent=e.message}};$('#prevSpeak').onclick=()=>{lessonCursor=(lessonCursor+xs.length-1)%xs.length;render()};$('#nextSpeak').onclick=()=>{lessonCursor++;render()}}$('#wordsTab').onclick=()=>{practiceMode='words';render()};$('#pairsTab').onclick=()=>{practiceMode='pairs';render()}}
-function review(){if(!session.length){session=dueItems(unitId,items());position=0;answerDone=false}if(!session.length||position>=session.length){$('#app').innerHTML=`<section class="panel center"><div class="stat">✓</div><h2>Revisões em dia</h2><p>Não há mais itens vencidos nesta sessão. Continue estudando em Learn, Listen e Use.</p>${button('Voltar ao dashboard','goDash','primary')}</section>`;$('#goDash').onclick=()=>navigate('dashboard');return}const {item:x,skill}=session[position];const names={meaning:'Significado',listening:'Listening',pronunciation:'Pronunciation',usage:'Uso'};let body='';if(skill==='meaning')body=`<p>Qual é o significado de <b>${html(x.word)}</b>?</p><form id="reviewForm" class="formrow"><input id="reviewInput" placeholder="Significado em português..."><button class="primary">Check</button></form>`;else if(skill==='listening')body=`<div class="center hero">${button('▶ Play','reviewAudio','primary')}<p>Escreva o que ouviu.</p></div><form id="reviewForm" class="formrow"><input id="reviewInput" placeholder="Word in English..."><button class="primary">Check</button></form>`;else if(skill==='pronunciation')body=`<div class="hero center"><div class="word">${html(x.word)}</div><p>${html(x.ipa)}</p>${button('▶ Reference','reviewAudio','primary')}<p>Repita em voz alta; depois indique como foi sua tentativa.</p><div class="buttonrow" style="justify-content:center">${button('Ainda difícil','notYet')}${button('Consegui repetir','yesRepeated','primary')}</div><p class="hint">Autoavaliação: não é pontuação fonética validada.</p></div>`;else body=`<p>Como se diz <b>${html(x.pt)}</b> em inglês?</p><form id="reviewForm" class="formrow"><input id="reviewInput" placeholder="Word in English..."><button class="primary">Check</button></form>`;studyCard(x,'Review · '+names[skill],body);const done=(ok,detail)=>{finish(x,skill,ok,detail,skill!=='pronunciation')};if($('#reviewAudio'))$('#reviewAudio').onclick=()=>playWord(x);if($('#reviewForm')){$('#reviewForm').onsubmit=e=>{e.preventDefault();const v=$('#reviewInput').value;if(!v.trim())return;const target=skill==='meaning'?x.pt:x.word;const ok=skill==='meaning'?x.pt.split(',').some(y=>same(v,y)):same(v,target);done(ok,`Resposta: <b>${html(target)}</b>`)};$('#reviewInput').focus()}if($('#notYet'))$('#notYet').onclick=()=>done(false,'Continue praticando.');if($('#yesRepeated'))$('#yesRepeated').onclick=()=>done(true,'Autoavaliação registrada (não verificada).')}
-async function importUnit(e){const f=e.target.files[0];if(!f)return;try{if(f.size>2e6)throw Error('Limite: 2 MB por JSON.');const data=JSON.parse(await f.text());const u=validateUnit(data);if(units[u.id]&&!confirm('Substituir o pacote '+u.id+'? O progresso existente será preservado quando os IDs permanecerem iguais.'))return;install(u);units=library();chooseUnit(u.id);toast(`Pacote ${u.title} importado (${u.items.length} itens).`)}catch(err){toast('Importação: '+err.message)}finally{e.target.value=''}}
-function showLibrary(){const all=Object.values(units);const groups=new Map();for(const u of all){const group=u.bookTitle||u.source||'Pacotes pessoais';if(!groups.has(group))groups.set(group,[]);groups.get(group).push(u)}
- $('#app').innerHTML=`<section class="panel"><div class="between"><div><h2>Biblioteca de conteúdos</h2><p class="hint">Coleções, livros e unidades — com progresso independente por habilidade.</p></div><div class="buttonrow"><a class="primary" href="packages.html" style="text-decoration:none;display:inline-flex;align-items:center">◈ Content Packages</a>${button('↑ JSON avulso','importUnit')}${button('↓ Template','template')}</div></div>
- <label style="margin-top:17px">Buscar unidade ou coleção<input id="librarySearch" type="search" placeholder="Ex.: Unit 41, Make, Grammar, Elementary"></label><p class="hint">${all.length} unidades instaladas, distribuídas em ${groups.size} coleção(ões).</p><div id="libraryGroups"></div></section>`;
- const renderCards=()=>{const q=normalize($('#librarySearch').value);$('#libraryGroups').innerHTML=[...groups.entries()].map(([group,collection])=>{const matches=collection.filter(u=>!q||normalize(group+' '+u.title+' '+u.category+' '+u.source).includes(q)).sort((a,b)=>(a.number??999)-(b.number??999));if(!matches.length)return '';return `<div style="margin:20px 0"><div class="between"><h3>${html(group)}</h3><span class="chip">${matches.length} unidades</span></div><div class="grid">${matches.map(u=>`<article class="small-card"><span class="chip">${html(u.level)}</span>${u.coverage==='starter-curated-partial'?'<span class="pill">Conteúdo parcial</span>':''}<h3 style="margin-top:13px">${html(u.title)}</h3><p class="hint">${u.items.length} itens · ${html(u.category||u.source||'').slice(0,100)}</p><div class="buttonrow"><button class="primary" data-open="${html(u.id)}">${u.id===unitId?'Current':'Select'}</button><button class="ghost" data-export="${html(u.id)}">Export</button>${!['unit-03','workplace-communication'].includes(u.id)?`<button class="ghost" data-delete="${html(u.id)}">Remove</button>`:''}</div></article>`).join('')}</div></div>`}).join('')||'<p class="hint">Nenhuma unidade encontrada para essa busca.</p>';
- document.querySelectorAll('[data-open]').forEach(b=>b.onclick=()=>chooseUnit(b.dataset.open));document.querySelectorAll('[data-export]').forEach(b=>b.onclick=()=>downloadJSON(units[b.dataset.export],b.dataset.export+'.json'));document.querySelectorAll('[data-delete]').forEach(b=>b.onclick=()=>{if(confirm('Remover unidade? O histórico será preservado para reimportação futura.')){remove(b.dataset.delete);units=library();if(unitId===b.dataset.delete){unitId=Object.keys(units)[0]||'';localStorage.setItem('vocablab.active.v1',unitId)}render()}})};
- $('#librarySearch').oninput=renderCards;renderCards();
- $('#importUnit').onclick=()=>$('#unitImporter').click();$('#template').onclick=()=>downloadJSON({id:'my-vocabulary',title:'My Vocabulary Pack',level:'B1',source:'Personal vocabulary list',items:[{id:'example-1',word:'reliable',pt:'confiável',ipa:'/rɪˈlaɪəbəl/',section:'Work',example:'This design is reliable.',note:'Use with a noun.',audio:'assets/audio/my-vocabulary/example-1.mp3'}]},'vocablab-unit-template.json')}
-
-async function importData(e){const f=e.target.files[0];if(!f)return;try{if(f.size>10e6)throw Error('Backup excede 10 MB');const b=JSON.parse(await f.text());if(!confirm('Restaurar o backup substituindo biblioteca importada e progresso atuais?'))return;importBackup(b);units=library();unitId=units[unitId]?unitId:Object.keys(units)[0];render();toast('Backup restaurado.') }catch(err){toast('Falha no backup: '+err.message)}finally{e.target.value=''}}
-function showProgress(){const xs=items();$('#app').innerHTML=`<div class="grid">${skills.map(s=>{const attempted=xs.filter(x=>profile(unitId,x.id)[s]?.attempts),success=attempted.reduce((a,x)=>a+profile(unitId,x.id)[s].success,0),tries=attempted.reduce((a,x)=>a+profile(unitId,x.id)[s].attempts,0);return `<section class="panel"><span class="label">${s}</span><div class="stat">${tries?Math.round(success/tries*100):0}%</div>${bar(tries?success/tries:0)}<p class="hint">${attempted.length} itens · ${tries} tentativas</p></section>`}).join('')}</div><section class="panel" style="margin-top:17px"><div class="between"><h2>Histórico por palavra</h2><div class="buttonrow">${button('↓ Backup completo','backup','primary')}${button('↑ Restaurar backup','restore')}${button('Apagar progresso','wipe')}</div></div><div class="table-wrap"><table><thead><tr><th>Item</th><th>Meaning</th><th>Listening</th><th>Pronunciation*</th><th>Usage</th><th>Average</th></tr></thead><tbody>${xs.map(x=>`<tr><td><b>${html(x.word)}</b><div class="hint">${html(x.pt)}</div></td>${skills.map(s=>{const p=profile(unitId,x.id)[s];return `<td>${p?.attempts?`${p.success}/${p.attempts}`:'—'}</td>`}).join('')}<td>${Math.round(mastery(unitId,x.id)*100)}%</td></tr>`).join('')}</tbody></table></div><p class="hint">* Pronunciation registra treino, reconhecimento ou autoavaliação; não mede precisão fonética.</p></section>`;$('#backup').onclick=()=>downloadJSON(makeBackup(),'vocablab-full-backup.json');$('#restore').onclick=()=>$('#backupImporter').click();$('#wipe').onclick=()=>{if(!confirm('Apagar todo o histórico de aprendizado?'))return;localStorage.removeItem('vocablab.progress.v1');render()}}
+/** Main application UI: study activities, navigation, and progress views. */
+import { playText, stopAudio, listVoices, configureAudio, getAudioSettings, recognize, browserSupportsRecognition, startRecording, stopRecording } from './audio.js';
+import { install, library, remove, profile, record, mastery, ordered, dueItems, skills, shuffle, same, normalize, downloadJSON, importBackup, makeBackup } from './core.js';
+const getElement = (selector) => document.querySelector(selector);
+const escapeHtml = (value) => String(value ?? '').replace(/[&<>"']/g, c => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+}[c]));
+let view = 'dashboard', activeUnitId = localStorage.getItem('vocablab.active.v1') || 'unit-03', units = {}, pairs = [], current = null, isAnswerSubmitted = false, session = [], position = 0, listeningMode = 'choice', lessonIndex = 0, pronunciationMode = 'words', minimalPairIndex = 0, minimalPairAnswer = '', recordingUrl = '', recording = false, activeTaskSkill = 'meaning', isReviewSession = false;
+// Display metadata for the main application views.
+const VIEW_METADATA = {
+    dashboard: ['YOUR LEARNING SPACE', 'Overview', 'Adaptive vocabulary learning, independent of any textbook.'], learn: ['VOCABULARY', 'Explore & understand', 'Learn meanings, pronunciation, and examples in context.'], listen: ['LISTENING', 'Train your ears', 'Recognize spoken words without relying on text.'], pronounce: ['SPEAKING', 'Pronunciation lab', 'Compare reference audio, practice minimal pairs, and record your voice.'], use: ['ACTIVE VOCABULARY', 'Use & recall', 'Recall words from their meanings and use them in context.'], review: ['ADAPTIVE PRACTICE', 'Review queue', 'Review each skill at the appropriate time.'], library: ['CONTENT MANAGER', 'Unit library', 'Study content from books, lessons, or personal lists.'], progress: ['ANALYTICS', 'Learning progress', 'Track each skill and back up your progress.']
+};
+const unit = () => units[activeUnitId], items = () => unit()?.items || [];
+function toast(t) {
+    getElement('#toast').textContent = t;
+    getElement('#toast').classList.add('show');
+    clearTimeout(toast.timer);
+    toast.timer = setTimeout(() => getElement('#toast').classList.remove('show'), 4500);
+}
+function button(label, id, kind = 'ghost') {
+    return `<button type="button" id="${id}" class="${kind}">${label}</button>`;
+}
+function navigate(x) {
+    view = x;
+    current = null;
+    isAnswerSubmitted = false;
+    position = 0;
+    session = [];
+    stopAudio();
+    if (recordingUrl) {
+        URL.revokeObjectURL(recordingUrl);
+        recordingUrl = '';
+    }
+    ;
+    render();
+}
+function chooseUnit(id) {
+    activeUnitId = id;
+    localStorage.setItem('vocablab.active.v1', id);
+    lessonIndex = 0;
+    navigate('dashboard');
+}
+async function start() {
+    try {
+        for (const path of ['data/unit-03.json', 'data/workplace-original.json']) {
+            const response = await fetch(path);
+            if (!response.ok)
+                throw Error('Failed to load ' + path);
+            const seed = await response.json();
+            if (!library()[seed.id])
+                install(seed);
+        }
+        units = library();
+        const r = await fetch('data/minimal-pairs.json');
+        pairs = await r.json();
+        if (!units[activeUnitId])
+            activeUnitId = Object.keys(units)[0];
+        setup();
+        render();
+    }
+    catch (e) {
+        getElement('#app').innerHTML = `<section class="panel"><h2>Unable to start</h2><p>${escapeHtml(e.message)}</p><p>Start the server with <code>python -m http.server 8085 --bind 127.0.0.1</code> and open http://127.0.0.1:8085.</p></section>`;
+    }
+}
+function setup() {
+    document.querySelectorAll('[data-view]').forEach(b => b.onclick = () => navigate(b.dataset.view));
+    const d = getElement('#settings');
+    getElement('#settingsBtn').onclick = () => {
+        syncSettings();
+        d.showModal();
+    };
+    getElement('#closeSettings').onclick = () => d.close();
+    getElement('#stopVoice').onclick = stopAudio;
+    getElement('#testVoice').onclick = () => playText('Today I am practising English pronunciation.', null, {
+        forceTTS: true
+    }).catch(e => toast(e.message));
+    for (const [id, property] of [['rate', 'rate'], ['pitch', 'pitch'], ['volume', 'volume']])
+        getElement('#' + id).oninput = e => {
+            const value = Number(e.target.value);
+            configureAudio({
+                [property]: value
+            });
+            getElement('#' + id + 'V').textContent = property === 'volume' ? Math.round(value * 100) + '%' : value.toFixed(2) + '×';
+        };
+    for (const id of ['source', 'recognitionLang'])
+        getElement('#' + id).onchange = e => configureAudio({
+            [id]: e.target.value
+        });
+    getElement('#voice').onchange = e => configureAudio({
+        voice: e.target.value
+    });
+    if (window.speechSynthesis)
+        speechSynthesis.addEventListener('voiceschanged', syncVoices);
+    syncSettings();
+    getElement('#backupImporter').onchange = importData;
+}
+function syncVoices() {
+    const voices = listVoices(), saved = getAudioSettings().voice;
+    getElement('#voice').innerHTML = voices.map(v => `<option value="${escapeHtml(v.voiceURI)}">${escapeHtml(v.name)} · ${escapeHtml(v.lang)}</option>`).join('') || '<option value="">No English voices available</option>';
+    const chosen = voices.find(v => v.voiceURI === saved) || voices[0];
+    if (chosen) {
+        getElement('#voice').value = chosen.voiceURI;
+        configureAudio({
+            voice: chosen.voiceURI
+        });
+    }
+}
+function syncSettings() {
+    const s = getAudioSettings();
+    for (const k of ['rate', 'pitch', 'volume']) {
+        getElement('#' + k).value = s[k];
+        getElement('#' + k + 'V').textContent = k === 'volume' ? Math.round(s[k] * 100) + '%' : Number(s[k]).toFixed(2) + '×';
+    }
+    getElement('#source').value = s.source;
+    getElement('#recognitionLang').value = s.recognitionLang;
+    syncVoices();
+}
+function header() {
+    const m = VIEW_METADATA[view];
+    getElement('#subtitle').textContent = m[0];
+    getElement('#title').textContent = m[1];
+    getElement('#description').textContent = m[2];
+    getElement('#activeTitle').textContent = unit()?.title || 'No unit selected';
+    getElement('#unitChip').textContent = `${items().length} items · ${unit()?.level || 'A1–A2'}`;
+    document.querySelectorAll('[data-view]').forEach(b => b.classList.toggle('selected', b.dataset.view === view));
+}
+function render() {
+    header();
+    ({
+        dashboard, learn, listen, pronounce, use, review, library: showLibrary, progress: showProgress
+    }[view])();
+}
+const bar = p => `<div class="meter"><i style="width:${Math.min(100, Math.max(0, Math.round(p * 100)))}%"></i></div>`;
+function dashboard() {
+    const xs = items(), due = dueItems(activeUnitId, xs), avg = xs.length ? xs.reduce((a, x) => a + mastery(activeUnitId, x.id), 0) / xs.length : 0;
+    getElement('#app').innerHTML = `<div class="grid"><section class="panel"><span class="label">Active vocabulary</span><div class="stat">${xs.length}</div><p class="hint">${escapeHtml(unit()?.title)}</p></section><section class="panel"><span class="label">Overall mastery</span><div class="stat">${Math.round(avg * 100)}%</div>${bar(avg)}</section><section class="panel"><span class="label">Reviews due</span><div class="stat">${due.length}</div><p class="hint">Skills with scheduled reviews.</p></section></div><div class="cols" style="margin-top:17px"><section class="panel"><h2>Your next session</h2><p>Practice each skill. Priority is based on accuracy, mistakes, and scheduled reviews.</p><div class="grid"><button class="option" id="dashLearn">◫ Learn · meaning</button><button class="option" id="dashListen">◉ Listen · recognition</button><button class="option" id="dashPron">◌ Pronunciation lab</button><button class="option" id="dashReview">↻ Adaptive review (${due.length})</button></div></section><section class="panel"><h3>Installed packages</h3><div class="stat">${Object.keys(units).length}</div><p class="hint">Import new units anytime without editing JavaScript.</p>${button('Manage packages', 'dashLibrary', 'primary')}</section></div>`;
+    for (const [id, dest] of [['dashLearn', 'learn'], ['dashListen', 'listen'], ['dashPron', 'pronounce'], ['dashReview', 'review'], ['dashLibrary', 'library']])
+        getElement('#' + id).onclick = () => navigate(dest);
+}
+/** Exclude grammatical templates from exact-transcription exercises. */
+function canDictate(item) {
+    return !item.speechText && /^[A-Za-z][A-Za-z '\-!?]*$/.test(item.word);
+}
+function makeSession(skill) {
+    const availableItems = skill === 'listening' ? items().filter(canDictate) : items();
+    session = ordered(activeUnitId, availableItems, skill).map(item => ({
+        item, skill
+    }));
+    position = 0;
+    isAnswerSubmitted = false;
+    current = null;
+}
+function nextSession() {
+    position++;
+    isAnswerSubmitted = false;
+    current = null;
+    render();
+}
+function nextControl() {
+    return `<div class="buttonrow">${button('Next →', 'next', 'primary')}</div>`;
+}
+function response(feedback, good) {
+    return `<div class="${good ? 'success' : 'warning'}" role="status">${feedback}</div>${nextControl()}`;
+}
+function learn() {
+    const xs = ordered(activeUnitId, items(), 'meaning');
+    if (!xs.length)
+        return;
+    const x = xs[lessonIndex % xs.length];
+    getElement('#app').innerHTML = `<div class="cols"><section class="panel"><div class="between"><span class="chip">${escapeHtml(x.section)}</span><span class="hint">${lessonIndex % xs.length + 1} / ${xs.length}</span></div><div class="center hero"><div class="word">${escapeHtml(x.word)}</div><div class="ipa">${escapeHtml(x.ipa)}</div><div class="buttonrow" style="justify-content:center">${button('▶ Word', 'wordAudio')}${button('▶ Sentence', 'sentenceAudio')}</div><p class="translation">${escapeHtml(x.pt)}</p><p><em>${escapeHtml(x.example)}</em></p></div>${x.note ? `<div class="note">💡 ${escapeHtml(x.note)}</div>` : ''}<div class="between" style="margin-top:20px">${button('← Previous', 'previous')}${button('Mark as studied ✓', 'known', 'primary')}${button('Next →', 'following')}</div></section>${skillPanel(x)}</div>`;
+    getElement('#wordAudio').onclick = () => playWord(x);
+    getElement('#sentenceAudio').onclick = () => playSentence(x);
+    getElement('#previous').onclick = () => {
+        lessonIndex = (lessonIndex + xs.length - 1) % xs.length;
+        render();
+    };
+    getElement('#following').onclick = () => {
+        lessonIndex++;
+        render();
+    };
+    getElement('#known').onclick = () => {
+        record(activeUnitId, x.id, 'meaning', true);
+        lessonIndex++;
+        render();
+    };
+}
+function skillPanel(x) {
+    return `<aside class="panel"><h3>Mastery by skill</h3>${skills.map(s => {
+        const p = profile(activeUnitId, x.id)[s], v = p ? Math.round(100 * p.success / Math.max(1, p.attempts)) : 0;
+        return `<div class="skill"><div class="between"><span class="hint">${s}</span><b>${v}%</b></div>${bar(v / 100)}</div>`;
+    }).join('')}<p class="hint">Percentages are practice accuracy rates, not certified proficiency scores.</p></aside>`;
+}
+/** Play the saved MP3, or use browser speech when a recording is unavailable. */
+function playWord(item) {
+    const audioPath = item.audio || null;
+    const spokenText = item.speechText || (/\.{2,}|…|\+/.test(item.word) ? item.example || item.word : item.word);
+    return playText(spokenText, audioPath).catch((error) => toast(error.message));
+}
+function playSentence(x) {
+    return playText(x.example, null, {
+        forceTTS: true
+    }).catch(e => toast(e.message));
+}
+function studyTask(skill, fromReview = false) {
+    if (!session.length)
+        makeSession(skill);
+    if (position >= session.length) {
+        getElement('#app').innerHTML = `<section class="panel center"><h2>Session complete ✓</h2><p>Results have been recorded by skill.</p>${button('Restart', 'again', 'primary')}</section>`;
+        getElement('#again').onclick = () => {
+            session = [];
+            render();
+        };
+        return null;
+    }
+    return session[position];
+}
+function studyCard(x, top, body) {
+    getElement('#app').innerHTML = `<div class="cols"><section class="panel"><div class="between"><span class="chip">${escapeHtml(top)}</span><span class="hint">${position + 1} / ${session.length}</span></div>${body}<div id="result"></div></section>${skillPanel(x)}</div>`;
+}
+function finish(x, skill, ok, content, verified = true) {
+    if (isAnswerSubmitted)
+        return;
+    isAnswerSubmitted = true;
+    record(activeUnitId, x.id, skill, ok, verified);
+    getElement('#result').innerHTML = response(content, ok);
+    getElement('#next').onclick = () => nextSession();
+}
+function listen() {
+    const toggle = `<div class="tabs"><button class="ghost ${listeningMode === 'choice' ? 'active' : ''}" id="choiceMode">Multiple choice</button><button class="ghost ${listeningMode === 'dictation' ? 'active' : ''}" id="dictMode">Dictation</button></div>`;
+    if (!session.length)
+        makeSession('listening');
+    const t = studyTask('listening');
+    if (!t)
+        return;
+    const x = t.item, options = shuffle([x, ...shuffle(items().filter(q => q.id !== x.id)).slice(0, 3)]);
+    studyCard(x, 'Listen · ' + listeningMode, `${toggle}<div class="hero center"><div class="stat">◉</div><h2>What did you hear?</h2><p>Listen without looking at the answer.</p>${button('▶ Play word', 'playW', 'primary')} ${button('▶ Example', 'playEx')}</div>${listeningMode === 'choice' ? `<div class="choices">${options.map((q, i) => `<button class="option" data-answer="${escapeHtml(q.id)}">${escapeHtml(q.word)}</button>`).join('')}</div>` : `<form id="listenForm" class="formrow"><input type="text" id="typed" autocomplete="off" spellcheck="false" placeholder="Type the word you heard..."><button class="primary" type="submit">Check</button></form>`}`);
+    getElement('#choiceMode').onclick = () => {
+        listeningMode = 'choice';
+        session = [];
+        render();
+    };
+    getElement('#dictMode').onclick = () => {
+        listeningMode = 'dictation';
+        session = [];
+        render();
+    };
+    getElement('#playW').onclick = () => playWord(x);
+    getElement('#playEx').onclick = () => playSentence(x);
+    if (listeningMode === 'choice')
+        document.querySelectorAll('[data-answer]').forEach(b => b.onclick = () => finish(x, 'listening', b.dataset.answer === x.id, `<strong>${escapeHtml(x.word)}</strong> · ${escapeHtml(x.ipa)} · ${escapeHtml(x.pt)}`));
+    else {
+        getElement('#listenForm').onsubmit = e => {
+            e.preventDefault();
+            if (!getElement('#typed').value.trim())
+                return;
+            finish(x, 'listening', same(getElement('#typed').value, x.word), `Answer: <strong>${escapeHtml(x.word)}</strong> · ${escapeHtml(x.ipa)}`);
+        };
+        getElement('#typed').focus();
+    }
+}
+function use() {
+    if (!session.length)
+        makeSession('usage');
+    const t = studyTask('usage');
+    if (!t)
+        return;
+    const x = t.item;
+    studyCard(x, 'Use & recall', `<div class="hero center"><span class="label">Write in English</span><p class="translation">${escapeHtml(x.pt)}</p><p class="hint">Hint: ${escapeHtml(x.section)}</p></div><form id="useForm" class="formrow"><input id="useInput" type="text" autocomplete="off" spellcheck="false" placeholder="Type the English word..."><button class="primary" type="submit">Check</button></form><div class="buttonrow">${button('Reveal answer', 'reveal')}</div>`);
+    const go = (v, correct) => finish(x, 'usage', correct, `<b>${escapeHtml(x.word)}</b> · ${escapeHtml(x.ipa)}<p>${escapeHtml(x.example)}</p>`);
+    getElement('#useForm').onsubmit = e => {
+        e.preventDefault();
+        if (!getElement('#useInput').value.trim())
+            return;
+        go(getElement('#useInput').value, same(getElement('#useInput').value, x.word));
+    };
+    getElement('#reveal').onclick = () => go('', false);
+    getElement('#useInput').focus();
+}
+function pronounce() {
+    const nav = `<div class="tabs"><button id="wordsTab" class="ghost ${pronunciationMode === 'words' ? 'active' : ''}">Word practice</button><button id="pairsTab" class="ghost ${pronunciationMode === 'pairs' ? 'active' : ''}">Minimal pairs</button></div>`;
+    if (pronunciationMode === 'pairs') {
+        const p = pairs[minimalPairIndex % pairs.length];
+        getElement('#app').innerHTML = `<section class="panel">${nav}<span class="chip">Minimal pairs · ${minimalPairIndex % pairs.length + 1}/${pairs.length}</span><div class="hero center"><h2>Distinguish these sounds</h2><div class="minimalpair">${escapeHtml(p.a)} <span class="muted">vs</span> ${escapeHtml(p.b)}</div><p class="ipa">${escapeHtml(p.ipaA)} · ${escapeHtml(p.ipaB)}</p><div class="buttonrow" style="justify-content:center">${button('▶ First', 'firstSound')}${button('▶ Second', 'secondSound')}${button('▶ Random challenge', 'randomSound', 'primary')}</div><p id="pairPrompt" class="hint">Listen to both words, then select Random challenge and identify the spoken word.</p><div class="choices">${button(escapeHtml(p.a), 'pairA', 'option')}${button(escapeHtml(p.b), 'pairB', 'option')}</div><div id="pairFeedback"></div></div><div class="note">${escapeHtml(p.tip)}</div><div class="buttonrow">${button('Next pair →', 'nextPair', 'primary')}</div></section>`;
+        getElement('#firstSound').onclick = () => playText(p.a, null, {
+            forceTTS: true
+        });
+        getElement('#secondSound').onclick = () => playText(p.b, null, {
+            forceTTS: true
+        });
+        getElement('#randomSound').onclick = () => {
+            minimalPairAnswer = Math.random() < .5 ? p.a : p.b;
+            playText(minimalPairAnswer, null, {
+                forceTTS: true
+            });
+            getElement('#pairPrompt').textContent = 'Choose the word you heard.';
+            getElement('#pairFeedback').innerHTML = '';
+        };
+        for (const [id, v] of [['pairA', p.a], ['pairB', p.b]])
+            getElement('#' + id).onclick = () => {
+                if (!minimalPairAnswer) {
+                    toast('Select Random challenge first.');
+                    return;
+                }
+                getElement('#pairFeedback').innerHTML = `<div class="${v === minimalPairAnswer ? 'success' : 'warning'}">${v === minimalPairAnswer ? 'Correct!' : 'Not quite.'} Answer: ${escapeHtml(minimalPairAnswer)}.</div>`;
+                minimalPairAnswer = '';
+            };
+        getElement('#nextPair').onclick = () => {
+            minimalPairIndex++;
+            render();
+        };
+    }
+    else {
+        const xs = ordered(activeUnitId, items(), 'pronunciation'), x = xs[lessonIndex % xs.length];
+        getElement('#app').innerHTML = `<div class="cols"><section class="panel">${nav}<span class="chip">${escapeHtml(x.section)}</span><div class="center hero"><div class="word">${escapeHtml(x.word)}</div><p class="ipa">${escapeHtml(x.ipa)}</p><p>${escapeHtml(x.example)}</p><div class="buttonrow" style="justify-content:center">${button('▶ Reference', 'refWord', 'primary')}${button('▶ Sentence', 'refSentence')}</div><div class="buttonrow" style="justify-content:center">${button('● Start recording', 'startRec')}${button('■ Stop recording', 'stopRec')}${button('▶ Playback', 'playRec')}</div><div class="buttonrow" style="justify-content:center">${button('🎙 Recognize my speech', 'recognizeBtn')}</div><div id="speechStatus" role="status" class="hint">Recording supports listening-based comparison. Speech recognition checks transcripts, not phoneme accuracy.</div></div><div class="note">${escapeHtml(x.note || 'Listen for rhythm, sounds, and stress, then compare with your recording.')}</div><div class="buttonrow">${button('← Previous', 'prevSpeak')}${button('Next →', 'nextSpeak', 'primary')}</div></section>${skillPanel(x)}</div>`;
+        getElement('#refWord').onclick = () => playWord(x);
+        getElement('#refSentence').onclick = () => playSentence(x);
+        getElement('#startRec').onclick = async () => {
+            try {
+                await startRecording();
+                recording = true;
+                getElement('#speechStatus').textContent = 'Recording...';
+                getElement('#startRec').disabled = true;
+            }
+            catch (e) {
+                toast(e.message);
+            }
+        };
+        getElement('#stopRec').onclick = async () => {
+            if (!recording)
+                return;
+            try {
+                if (recordingUrl)
+                    URL.revokeObjectURL(recordingUrl);
+                recordingUrl = await stopRecording();
+                getElement('#speechStatus').textContent = 'Recording ready for playback and manual comparison.';
+                recording = false;
+                getElement('#startRec').disabled = false;
+                record(activeUnitId, x.id, 'pronunciation', true, false);
+            }
+            catch (e) {
+                toast(e.message);
+            }
+        };
+        getElement('#playRec').onclick = () => {
+            if (!recordingUrl)
+                return toast('Record your voice first.');
+            new Audio(recordingUrl).play().catch(e => toast(e.message));
+        };
+        getElement('#recognizeBtn').onclick = async () => {
+            if (!browserSupportsRecognition())
+                return toast('Speech recognition is unavailable. Try Chrome or Edge.');
+            getElement('#speechStatus').textContent = 'Listening...';
+            try {
+                const words = await recognize(getAudioSettings().recognitionLang);
+                const ok = words.some(t => same(t, x.word));
+                record(activeUnitId, x.id, 'pronunciation', ok, false);
+                getElement('#speechStatus').innerHTML = `<div class="${ok ? 'success' : 'warning'}">Transcript: ${escapeHtml(words[0])}. ${ok ? 'Target word recognized.' : 'The target word was not recognized.'} This is <b>not</b> a phonetic accuracy score.</div>`;
+            }
+            catch (e) {
+                getElement('#speechStatus').textContent = e.message;
+            }
+        };
+        getElement('#prevSpeak').onclick = () => {
+            lessonIndex = (lessonIndex + xs.length - 1) % xs.length;
+            render();
+        };
+        getElement('#nextSpeak').onclick = () => {
+            lessonIndex++;
+            render();
+        };
+    }
+    getElement('#wordsTab').onclick = () => {
+        pronunciationMode = 'words';
+        render();
+    };
+    getElement('#pairsTab').onclick = () => {
+        pronunciationMode = 'pairs';
+        render();
+    };
+}
+function review() {
+    if (!session.length) {
+        session = dueItems(activeUnitId, items()).filter((task) => task.skill !== 'listening' || canDictate(task.item));
+        position = 0;
+        isAnswerSubmitted = false;
+    }
+    if (!session.length || position >= session.length) {
+        getElement('#app').innerHTML = `<section class="panel center"><div class="stat">✓</div><h2>Reviews complete</h2><p>No due items remain in this session. Continue with Learn, Listen, and Use.</p>${button('Back to dashboard', 'goDash', 'primary')}</section>`;
+        getElement('#goDash').onclick = () => navigate('dashboard');
+        return;
+    }
+    const { item: x, skill } = session[position];
+    const names = {
+        meaning: 'Meaning', listening: 'Listening', pronunciation: 'Pronunciation', usage: 'Usage'
+    };
+    let body = '';
+    if (skill === 'meaning')
+        body = `<p>What does <b>${escapeHtml(x.word)}</b>?</p><form id="reviewForm" class="formrow"><input id="reviewInput" placeholder="Meaning in Portuguese..."><button class="primary">Check</button></form>`;
+    else if (skill === 'listening')
+        body = `<div class="center hero">${button('▶ Play', 'reviewAudio', 'primary')}<p>Type what you heard.</p></div><form id="reviewForm" class="formrow"><input id="reviewInput" placeholder="Word in English..."><button class="primary">Check</button></form>`;
+    else if (skill === 'pronunciation')
+        body = `<div class="hero center"><div class="word">${escapeHtml(x.word)}</div><p>${escapeHtml(x.ipa)}</p>${button('▶ Reference', 'reviewAudio', 'primary')}<p>Repeat out loud, then rate your attempt.</p><div class="buttonrow" style="justify-content:center">${button('Still difficult', 'notYet')}${button('I repeated it', 'yesRepeated', 'primary')}</div><p class="hint">Self-assessment only; not a validated phonetic score.</p></div>`;
+    else
+        body = `<p>How do you say <b>${escapeHtml(x.pt)}</b> in English?</p><form id="reviewForm" class="formrow"><input id="reviewInput" placeholder="Word in English..."><button class="primary">Check</button></form>`;
+    studyCard(x, 'Review · ' + names[skill], body);
+    const done = (ok, detail) => {
+        finish(x, skill, ok, detail, skill !== 'pronunciation');
+    };
+    if (getElement('#reviewAudio'))
+        getElement('#reviewAudio').onclick = () => playWord(x);
+    if (getElement('#reviewForm')) {
+        getElement('#reviewForm').onsubmit = e => {
+            e.preventDefault();
+            const v = getElement('#reviewInput').value;
+            if (!v.trim())
+                return;
+            const target = skill === 'meaning' ? x.pt : x.word;
+            const ok = skill === 'meaning' ? x.pt.split(',').some(y => same(v, y)) : same(v, target);
+            done(ok, `Answer: <b>${escapeHtml(target)}</b>`);
+        };
+        getElement('#reviewInput').focus();
+    }
+    if (getElement('#notYet'))
+        getElement('#notYet').onclick = () => done(false, 'Keep practicing.');
+    if (getElement('#yesRepeated'))
+        getElement('#yesRepeated').onclick = () => done(true, 'Self-assessment recorded (unverified).');
+}
+function showLibrary() {
+    const all = Object.values(units);
+    const groups = new Map();
+    for (const u of all) {
+        const group = u.bookTitle || u.source || 'Personal collections';
+        if (!groups.has(group))
+            groups.set(group, []);
+        groups.get(group).push(u);
+    }
+    getElement('#app').innerHTML = `<section class="panel"><div class="between"><div><h2>Content library</h2><p class="hint">Collections, books, and units, with progress tracked separately by skill.</p></div><div class="buttonrow"><a class="primary" href="packages.html" style="text-decoration:none;display:inline-flex;align-items:center">◈ Content Packages</a></div></div>
+ <label style="margin-top:17px">Search for a unit or collection<input id="librarySearch" type="search" placeholder="Ex.: Unit 41, Make, Grammar, Elementary"></label><p class="hint">${all.length} installed units across ${groups.size} collection(s).</p><div id="libraryGroups"></div></section>`;
+    const renderCards = () => {
+        const q = normalize(getElement('#librarySearch').value);
+        getElement('#libraryGroups').innerHTML = [...groups.entries()].map(([group, collection]) => {
+            const matches = collection.filter(u => !q || normalize(group + ' ' + u.title + ' ' + u.category + ' ' + u.source).includes(q)).sort((a, b) => (a.number ?? 999) - (b.number ?? 999));
+            if (!matches.length)
+                return '';
+            return `<div style="margin:20px 0"><div class="between"><h3>${escapeHtml(group)}</h3><span class="chip">${matches.length} units</span></div><div class="grid">${matches.map(u => `<article class="small-card"><span class="chip">${escapeHtml(u.level)}</span>${['starter-curated-partial', 'expanded-curated-partial'].includes(u.coverage) ? '<span class="pill">Partial curation</span>' : ''}<h3 style="margin-top:13px">${escapeHtml(u.title)}</h3><p class="hint">${u.items.length} items · ${escapeHtml(u.category || u.source || '').slice(0, 100)}</p><div class="buttonrow"><button class="primary" data-open="${escapeHtml(u.id)}">${u.id === activeUnitId ? 'Current' : 'Select'}</button><button class="ghost" data-export="${escapeHtml(u.id)}">Export</button>${!['unit-03', 'workplace-communication'].includes(u.id) ? `<button class="ghost" data-delete="${escapeHtml(u.id)}">Remove</button>` : ''}</div></article>`).join('')}</div></div>`;
+        }).join('') || '<p class="hint">No units match this search.</p>';
+        document.querySelectorAll('[data-open]').forEach(b => b.onclick = () => chooseUnit(b.dataset.open));
+        document.querySelectorAll('[data-export]').forEach(b => b.onclick = () => downloadJSON(units[b.dataset.export], b.dataset.export + '.json'));
+        document.querySelectorAll('[data-delete]').forEach(b => b.onclick = () => {
+            if (confirm('Remove this unit? Its progress will remain available if you import it again.')) {
+                remove(b.dataset.delete);
+                units = library();
+                if (activeUnitId === b.dataset.delete) {
+                    activeUnitId = Object.keys(units)[0] || '';
+                    localStorage.setItem('vocablab.active.v1', activeUnitId);
+                }
+                render();
+            }
+        });
+    };
+    getElement('#librarySearch').oninput = renderCards;
+    renderCards();
+}
+async function importData(e) {
+    const f = e.target.files[0];
+    if (!f)
+        return;
+    try {
+        if (f.size > 10e6)
+            throw Error('Backup exceeds 10 MB');
+        const b = JSON.parse(await f.text());
+        if (!confirm('Restore this backup and replace the current library and progress?'))
+            return;
+        importBackup(b);
+        units = library();
+        activeUnitId = units[activeUnitId] ? activeUnitId : Object.keys(units)[0];
+        render();
+        toast('Backup restored.');
+    }
+    catch (err) {
+        toast('Backup error: ' + err.message);
+    }
+    finally {
+        e.target.value = '';
+    }
+}
+function showProgress() {
+    const xs = items();
+    getElement('#app').innerHTML = `<div class="grid">${skills.map(s => {
+        const attempted = xs.filter(x => profile(activeUnitId, x.id)[s]?.attempts), success = attempted.reduce((a, x) => a + profile(activeUnitId, x.id)[s].success, 0), tries = attempted.reduce((a, x) => a + profile(activeUnitId, x.id)[s].attempts, 0);
+        return `<section class="panel"><span class="label">${s}</span><div class="stat">${tries ? Math.round(success / tries * 100) : 0}%</div>${bar(tries ? success / tries : 0)}<p class="hint">${attempted.length} items · ${tries} attempts</p></section>`;
+    }).join('')}</div><section class="panel" style="margin-top:17px"><div class="between"><h2>Progress by word</h2><div class="buttonrow">${button('↓ Full backup', 'backup', 'primary')}${button('↑ Restore backup', 'restore')}${button('Clear progress', 'wipe')}</div></div><div class="table-wrap"><table><thead><tr><th>Item</th><th>Meaning</th><th>Listening</th><th>Pronunciation*</th><th>Usage</th><th>Average</th></tr></thead><tbody>${xs.map(x => `<tr><td><b>${escapeHtml(x.word)}</b><div class="hint">${escapeHtml(x.pt)}</div></td>${skills.map(s => {
+        const p = profile(activeUnitId, x.id)[s];
+        return `<td>${p?.attempts ? `${p.success}/${p.attempts}` : '—'}</td>`;
+    }).join('')}<td>${Math.round(mastery(activeUnitId, x.id) * 100)}%</td></tr>`).join('')}</tbody></table></div><p class="hint">* Pronunciation records practice, recognition, or self-assessment; it does not measure phonetic accuracy.</p></section>`;
+    getElement('#backup').onclick = () => downloadJSON(makeBackup(), 'vocablab-full-backup.json');
+    getElement('#restore').onclick = () => getElement('#backupImporter').click();
+    getElement('#wipe').onclick = () => {
+        if (!confirm('Delete all learning progress?'))
+            return;
+        localStorage.removeItem('vocablab.progress.v1');
+        render();
+    };
+}
 start();
