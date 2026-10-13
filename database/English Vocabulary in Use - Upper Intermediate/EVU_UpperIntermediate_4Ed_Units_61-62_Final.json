@@ -1,0 +1,807 @@
+{
+  "format": "vocablab-content-package",
+  "version": 1,
+  "id": "evu-ui-4ed-units-61-62-final",
+  "title": "English Vocabulary in Use — Upper-intermediate (4th Edition) · Units 61–62",
+  "bookId": "english-vocabulary-in-use-upper-intermediate-4ed",
+  "publisher": "Cambridge University Press",
+  "level": "B2",
+  "description": "Curated B2 time linkers, simultaneous-event expressions, conditions, hypothetical questions and -ever clauses, with context, register and usage contrasts.",
+  "coverage": "source-checked-reviewed",
+  "sourceNotice": "Prepared from the user-supplied book for personal study. Vocabulary targets follow the relevant teaching and exercise topics; teaching examples and explanatory notes are newly written, without reproducing original exercises, extended passages or illustrations.",
+  "audit": {
+    "includedUnits": [
+      61,
+      62
+    ],
+    "scope": "Full unit study pages, usage notes, illustrations and diagrams, exercises 61.1–61.4 and 62.1–62.4, and associated answer-key entries inspected for vocabulary and usage coverage.",
+    "bookPrintedPages": [
+      128,
+      129,
+      130,
+      131
+    ],
+    "pdfPages": [
+      129,
+      130,
+      131,
+      132
+    ],
+    "answerKeyPdfPages": [
+      238
+    ],
+    "pronunciation": "Broad British IPA is supplied where confident; longer expressions may omit IPA rather than provide an unreliable transcription. Optional variants and connected-speech detail are not exhaustive.",
+    "languagePolicy": "All content is in English except Brazilian Portuguese translations under pt.",
+    "reviewMethod": "Compared target expressions and usage distinctions with the teaching and exercise pages and answer key; reviewed examples, Brazilian Portuguese meanings, source attribution, structure, stable IDs and audio-target suitability. Browser-based TTS, speech recognition and VocabLab import were not tested.",
+    "editorialStatus": "reviewed",
+    "limitations": "No bundled audio files; browser voice, pronunciation and speech-recognition behaviour remain dependent on the user environment. No live application import or runtime validation was performed."
+  },
+  "units": [
+    {
+      "id": "evu-ui-4ed-u61",
+      "number": 61,
+      "title": "Unit 61 — Time: connecting words and expressions",
+      "level": "B2",
+      "source": "English Vocabulary in Use — Upper-intermediate (4th Edition); printed pages 128–129 (PDF pages 129–130).",
+      "bookId": "english-vocabulary-in-use-upper-intermediate-4ed",
+      "bookTitle": "English Vocabulary in Use — Upper-intermediate (4th Edition)",
+      "category": "Connecting and linking words",
+      "sourcePage": 129,
+      "coverage": "source-checked",
+      "learningObjectives": [
+        "Choose accurate expressions for events that happen before, during and after another event.",
+        "Distinguish during from throughout, and simultaneous events from events in sequence.",
+        "Use stronger or more formal time linkers in appropriate speaking and writing contexts.",
+        "Use time clauses and expressions for precise, approximate and non-specific times."
+      ],
+      "items": [
+        {
+          "id": "prior-to",
+          "word": "prior to",
+          "pt": "antes de; previamente a",
+          "ipa": "/ˈpraɪə tuː/",
+          "section": "A · Before another event",
+          "example": "Prior to starting the experiment, we checked the sensors.",
+          "note": "Formal, particularly in writing; followed by a noun or an -ing form.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "previously",
+          "word": "previously",
+          "pt": "anteriormente; antes",
+          "ipa": "/ˈpriːviəsli/",
+          "section": "A · Before another event",
+          "example": "I had previously worked with a different control system.",
+          "note": "Fairly formal; refers to a time before the event or state being discussed.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "core"
+        },
+        {
+          "id": "before-that",
+          "word": "before that",
+          "pt": "antes disso",
+          "ipa": "",
+          "section": "A · Before another event",
+          "example": "We moved to Bristol last year; before that, we lived in Leeds.",
+          "note": "A more conversational alternative to previously when referring back to an earlier time.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "earlier-on",
+          "word": "earlier on",
+          "pt": "mais cedo; anteriormente",
+          "ipa": "/ˈɜːliə ɒn/",
+          "section": "A · Before another event",
+          "example": "I was busy earlier on, but I can talk now.",
+          "note": "Fairly informal; often used for an earlier part of the same day or period.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "formerly",
+          "word": "formerly",
+          "pt": "antigamente; anteriormente",
+          "ipa": "/ˈfɔːməli/",
+          "section": "A · Before another event",
+          "example": "The building was formerly used as a research laboratory.",
+          "note": "Fairly formal and often written; highlights an earlier name, role or state that has changed.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "in-the-meantime",
+          "word": "in the meantime",
+          "pt": "enquanto isso; nesse meio-tempo",
+          "ipa": "/ɪn ðə ˈmiːntaɪm/",
+          "section": "A · Between events",
+          "example": "The replacement part will arrive tomorrow; in the meantime, we can review the drawings.",
+          "note": "Refers to the period before another event occurs or an activity is completed.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "meanwhile",
+          "word": "meanwhile",
+          "pt": "enquanto isso; nesse meio-tempo",
+          "ipa": "/ˈmiːnwaɪl/",
+          "section": "A · Between events",
+          "example": "The technician updated the software; meanwhile, I checked the wiring.",
+          "note": "Connects activities or situations taking place during the same broad period.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "at-the-very-time",
+          "word": "at the very time",
+          "pt": "exatamente no momento em que",
+          "ipa": "",
+          "section": "B · Simultaneous events",
+          "example": "The power failed at the very time we were saving the results.",
+          "note": "Stronger and more precise than as; the following clause identifies the coinciding event.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "at-the-very-moment",
+          "word": "at the very moment",
+          "pt": "exatamente no instante em que",
+          "ipa": "",
+          "section": "B · Simultaneous events",
+          "example": "The alarm sounded at the very moment the test began.",
+          "note": "Emphasises an exact moment when two events coincided; at may be omitted in some contexts.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-temporal",
+          "word": "as",
+          "pt": "quando; enquanto",
+          "ipa": "/æz/",
+          "section": "B · Simultaneous events",
+          "example": "As I opened the door, the telephone rang.",
+          "note": "Here as means when or while; it is not the reason-giving use of as.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "just-as",
+          "word": "just as",
+          "pt": "exatamente quando; bem na hora em que",
+          "ipa": "/dʒʌst æz/",
+          "section": "B · Simultaneous events",
+          "example": "Just as the meeting started, the projector stopped working.",
+          "note": "Adds emphasis to the precise coincidence of events.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "simultaneously",
+          "word": "simultaneously",
+          "pt": "simultaneamente",
+          "ipa": "/ˌsɪməlˈteɪniəsli/",
+          "section": "B · Simultaneous events",
+          "example": "Both motors must start simultaneously to avoid a sudden load change.",
+          "note": "The actions happen at exactly the same time, rather than merely within the same period.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "core"
+        },
+        {
+          "id": "during",
+          "word": "during",
+          "pt": "durante",
+          "ipa": "/ˈdjʊərɪŋ/",
+          "section": "B · Within a period",
+          "example": "Several questions came up during the workshop.",
+          "note": "Preposition + noun or noun phrase; the action may occupy only part of the named period.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "throughout",
+          "word": "throughout",
+          "pt": "durante todo; ao longo de todo",
+          "ipa": "/θruːˈaʊt/",
+          "section": "B · Throughout a period",
+          "example": "The monitoring system remained active throughout the night.",
+          "note": "Covers the entire period from beginning to end; contrasts with during.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "at-the-same-time",
+          "word": "at the same time",
+          "pt": "ao mesmo tempo",
+          "ipa": "",
+          "section": "B · Simultaneous events",
+          "example": "Two operators noticed the fault at the same time.",
+          "note": "General way to describe simultaneous actions; simultaneously is often more formal.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "following-temporal",
+          "word": "following",
+          "pt": "após; depois de",
+          "ipa": "/ˈfɒləʊɪŋ/",
+          "section": "C · After another event",
+          "example": "Following the inspection, the equipment was returned to service.",
+          "note": "Formal preposition in this use; takes a noun phrase, not a finite clause.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "subsequently",
+          "word": "subsequently",
+          "pt": "posteriormente; em seguida",
+          "ipa": "/ˈsʌbsɪkwəntli/",
+          "section": "C · After another event",
+          "example": "We reviewed the measurements and subsequently adjusted the controller.",
+          "note": "Rather formal; means at some point after an event, without necessarily meaning immediately.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "core"
+        },
+        {
+          "id": "thereafter",
+          "word": "thereafter",
+          "pt": "a partir de então; depois disso",
+          "ipa": "/ˌðeərˈɑːftə/",
+          "section": "C · After another event",
+          "example": "The team completed training in June and worked independently thereafter.",
+          "note": "Rather formal, often written; means after the event or time just mentioned.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "core"
+        },
+        {
+          "id": "immediate",
+          "word": "immediate",
+          "pt": "imediato; que ocorre sem demora",
+          "ipa": "/ɪˈmiːdiət/",
+          "section": "C · Right after an event",
+          "example": "The software update had an immediate effect on performance.",
+          "note": "An adjective for an effect or response occurring at once; compare subsequently.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "core"
+        },
+        {
+          "id": "the-moment",
+          "word": "the moment",
+          "pt": "assim que; no instante em que",
+          "ipa": "/ðə ˈməʊmənt/",
+          "section": "D · Time clauses",
+          "example": "The moment the sensor detects a problem, the system stops.",
+          "note": "Introduces a time clause meaning as soon as; no preposition is needed before the clause.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "the-minute",
+          "word": "the minute",
+          "pt": "assim que; no minuto em que",
+          "ipa": "/ðə ˈmɪnɪt/",
+          "section": "D · Time clauses",
+          "example": "The minute I received the confirmation, I informed the team.",
+          "note": "Conversational alternative to the moment, meaning as soon as.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "the-time-that",
+          "word": "the time that",
+          "pt": "na ocasião em que; na vez em que",
+          "ipa": "",
+          "section": "D · Time clauses",
+          "example": "I remember the time that we first demonstrated the prototype.",
+          "note": "Refers to a particular occasion; that can often be omitted.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "on-that-occasion",
+          "word": "on that occasion",
+          "pt": "naquela ocasião",
+          "ipa": "/ɒn ðæt əˈkeɪʒən/",
+          "section": "D · Specific occasion",
+          "example": "I met the director twice, but on that occasion we only discussed the schedule.",
+          "note": "More formal than that time; refers back to one specific occasion.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "on-several-occasions",
+          "word": "on several occasions",
+          "pt": "em várias ocasiões",
+          "ipa": "",
+          "section": "D · Specific occasion",
+          "example": "We encountered a similar warning on several occasions last month.",
+          "note": "A rather formal way to say several times.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "at-a-later-stage",
+          "word": "at a later stage",
+          "pt": "em uma etapa posterior; mais adiante",
+          "ipa": "",
+          "section": "E · Non-specific time",
+          "example": "We will examine the financial details at a later stage.",
+          "note": "Leaves the later point or phase unspecified, often in a project or process.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "at-some-point",
+          "word": "at some point",
+          "pt": "em algum momento",
+          "ipa": "/ət səm ˈpɔɪnt/",
+          "section": "E · Non-specific time",
+          "example": "At some point, we will need to replace the old equipment.",
+          "note": "Refers to an unspecified time, usually in the future in this unit.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "for-the-moment",
+          "word": "for the moment",
+          "pt": "por enquanto; no momento",
+          "ipa": "/fə ðə ˈməʊmənt/",
+          "section": "E · Non-specific time",
+          "example": "For the moment, the temporary solution is working well.",
+          "note": "Means for now, with the expectation that the situation may later change.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "straightaway",
+          "word": "straightaway",
+          "pt": "imediatamente; sem demora",
+          "ipa": "/ˌstreɪtəˈweɪ/",
+          "section": "F · Exercise targets",
+          "example": "The support engineer called me back straightaway.",
+          "note": "Exercise 61.2 contrasts straightaway with immediate; British English commonly uses straightaway.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "semantic-contrast"
+        }
+      ],
+      "sourceAudit": {
+        "sectionsChecked": [
+          "A: One thing before another",
+          "B: Things happening at the same time and Language help",
+          "C: One thing after another",
+          "D: Time when",
+          "E: Non-specific time expressions",
+          "Exercises 61.1–61.4"
+        ],
+        "printedPages": [
+          128,
+          129
+        ],
+        "pdfPages": [
+          129,
+          130
+        ],
+        "answerKeyPdfPages": [
+          238
+        ]
+      }
+    },
+    {
+      "id": "evu-ui-4ed-u62",
+      "number": 62,
+      "title": "Unit 62 — Condition",
+      "level": "B2",
+      "source": "English Vocabulary in Use — Upper-intermediate (4th Edition); printed pages 130–131 (PDF pages 131–132).",
+      "bookId": "english-vocabulary-in-use-upper-intermediate-4ed",
+      "bookTitle": "English Vocabulary in Use — Upper-intermediate (4th Edition)",
+      "category": "Connecting and linking words",
+      "sourcePage": 131,
+      "coverage": "source-checked",
+      "learningObjectives": [
+        "Express restrictions and conditions with unless, on condition that, as long as and provided/providing that.",
+        "Distinguish in case from in case of and in the event of.",
+        "Use supposing and what if to ask about hypothetical future situations.",
+        "Form -ever and no matter clauses correctly, using present tense for future conditions.",
+        "Use condition-related nouns and formal requirement expressions accurately."
+      ],
+      "items": [
+        {
+          "id": "unless",
+          "word": "unless",
+          "pt": "a menos que; se não",
+          "ipa": "/ənˈles/",
+          "section": "A · Basic restrictions",
+          "example": "Unless the engineer approves the change, we cannot restart the machine.",
+          "note": "Means if ... not; do not normally use a second negative to express the same restriction.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "on-condition-that",
+          "word": "on condition that",
+          "pt": "com a condição de que; desde que",
+          "ipa": "",
+          "section": "A · Firm conditions",
+          "example": "You may access the laboratory on condition that you complete the safety training.",
+          "note": "Strong and relatively formal; useful for explicit rules and official permissions.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "in-case-of",
+          "word": "in case of",
+          "pt": "em caso de",
+          "ipa": "/ɪn ˈkeɪs əv/",
+          "section": "A · Emergency conditions",
+          "example": "In case of a power failure, use the emergency lighting.",
+          "note": "Followed by a noun phrase; often appears in warnings, notices and instructions. Not the same as in case + clause.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "in-the-event-of",
+          "word": "in the event of",
+          "pt": "em caso de; na eventualidade de",
+          "ipa": "",
+          "section": "A · Emergency conditions",
+          "example": "In the event of an evacuation, follow the marked exit route.",
+          "note": "Formal alternative to in case of; followed by a noun phrase.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-long-as",
+          "word": "as long as",
+          "pt": "desde que; contanto que",
+          "ipa": "/əz ˈlɒŋ æz/",
+          "section": "A · Permission and conditions",
+          "example": "You can borrow my laptop as long as you return it tonight.",
+          "note": "Common in speech; a relatively relaxed way of setting a condition.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "so-long-as",
+          "word": "so long as",
+          "pt": "desde que; contanto que",
+          "ipa": "/səʊ ˈlɒŋ æz/",
+          "section": "A · Permission and conditions",
+          "example": "The equipment may be used so long as the safety guard remains in place.",
+          "note": "Slightly more formal than as long as; less forceful than on condition that.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "provided-that",
+          "word": "provided that",
+          "pt": "desde que; contanto que",
+          "ipa": "/prəˈvaɪdɪd ðæt/",
+          "section": "A · Restrictive conditions",
+          "example": "The proposal can go ahead provided that the budget is approved.",
+          "note": "More restrictive than as long as, but generally less formal and emphatic than on condition that. The word that can be omitted.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "providing-that",
+          "word": "providing that",
+          "pt": "desde que; contanto que",
+          "ipa": "/prəˈvaɪdɪŋ ðæt/",
+          "section": "A · Restrictive conditions",
+          "example": "We can finish by Friday providing that the components arrive today.",
+          "note": "Variant of provided that; the word that is optional. This is a condition, not an ongoing-action use of providing.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "in-case",
+          "word": "in case",
+          "pt": "caso; por precaução; para o caso de",
+          "ipa": "/ɪn ˈkeɪs/",
+          "section": "A · Precaution, not occurrence",
+          "example": "Save an extra copy in case the computer crashes.",
+          "note": "In case + clause describes a possible event you are preparing for, whether or not it happens.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "supposing",
+          "word": "supposing",
+          "pt": "supondo que; e se",
+          "ipa": "/səˈpəʊzɪŋ/",
+          "section": "B · Imagined situations",
+          "example": "Supposing the supplier cancels the order, what should we do?",
+          "note": "Common in conversation for a possible future situation; often more tentative than what if.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "what-if",
+          "word": "what if",
+          "pt": "e se",
+          "ipa": "/ˌwɒt ˈɪf/",
+          "section": "B · Imagined situations",
+          "example": "What if we miss the last train home?",
+          "note": "Usually spoken and more direct than supposing; introduces a possible problem or scenario.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "however-concessive",
+          "word": "however",
+          "pt": "não importa como; por mais que",
+          "ipa": "/haʊˈevə/",
+          "section": "C · Conditions with -ever",
+          "example": "However you arrange the timetable, we will need two shifts.",
+          "note": "Here however means no matter how; do not confuse this use with contrastive however (= nevertheless).",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "whichever",
+          "word": "whichever",
+          "pt": "qualquer que seja; não importa qual",
+          "ipa": "/wɪtʃˈevə/",
+          "section": "C · Conditions with -ever",
+          "example": "Whichever route we choose, we will arrive after dark.",
+          "note": "Means it does not matter which one, among available choices; stress normally falls on ever.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "core"
+        },
+        {
+          "id": "wherever",
+          "word": "wherever",
+          "pt": "onde quer que; não importa onde",
+          "ipa": "/weərˈevə/",
+          "section": "C · Conditions with -ever",
+          "example": "Wherever she works, she keeps detailed technical notes.",
+          "note": "Means no matter where; can introduce a condition-like clause.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "core"
+        },
+        {
+          "id": "whoever",
+          "word": "whoever",
+          "pt": "quem quer que; não importa quem",
+          "ipa": "/huːˈevə/",
+          "section": "C · Conditions with -ever",
+          "example": "Whoever leads the meeting should circulate the agenda first.",
+          "note": "Means no matter who; the verb following whoever agrees with its grammatical subject.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "core"
+        },
+        {
+          "id": "whatever",
+          "word": "whatever",
+          "pt": "o que quer que; não importa o que",
+          "ipa": "/wɒtˈevə/",
+          "section": "C · Conditions with -ever",
+          "example": "Whatever decision we make, we should document the reasons.",
+          "note": "Means no matter what; featured in the exercise transformations.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "core"
+        },
+        {
+          "id": "no-matter-how",
+          "word": "no matter how",
+          "pt": "não importa como; por mais que",
+          "ipa": "",
+          "section": "C · Equivalent condition clauses",
+          "example": "No matter how carefully I check the figures, I sometimes miss a typo.",
+          "note": "Equivalent to however + adjective/adverb/clause in this use; unlike standalone contrastive however.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "no-matter-which",
+          "word": "no matter which",
+          "pt": "não importa qual",
+          "ipa": "",
+          "section": "C · Equivalent condition clauses",
+          "example": "No matter which model you select, a calibration step is required.",
+          "note": "Equivalent to whichever in this context.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "no-matter-where",
+          "word": "no matter where",
+          "pt": "não importa onde",
+          "ipa": "",
+          "section": "C · Equivalent condition clauses",
+          "example": "No matter where you travel, keep your passport somewhere safe.",
+          "note": "Equivalent to wherever.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "no-matter-who",
+          "word": "no matter who",
+          "pt": "não importa quem",
+          "ipa": "",
+          "section": "C · Equivalent condition clauses",
+          "example": "No matter who calls, please ask them to leave a message.",
+          "note": "Equivalent to whoever in this context.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "no-matter-what",
+          "word": "no matter what",
+          "pt": "não importa o que; aconteça o que acontecer",
+          "ipa": "",
+          "section": "C · Equivalent condition clauses",
+          "example": "No matter what happens, we must follow the safety procedure.",
+          "note": "Equivalent to whatever in conditional clauses.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "however-hard",
+          "word": "however hard",
+          "pt": "por mais que se esforce; por mais difícil que seja",
+          "ipa": "",
+          "section": "C · Degree and persistence",
+          "example": "However hard we try, we cannot finish without the missing parts.",
+          "note": "However + adjective or adverb can mean no matter how; the exercise also contrasts no matter how hard.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "conditions",
+          "word": "conditions",
+          "pt": "condições; exigências",
+          "ipa": "/kənˈdɪʃənz/",
+          "section": "D · Formal requirements",
+          "example": "Certain conditions must be satisfied before the trial can begin.",
+          "note": "Plural noun for requirements that must be fulfilled; also appears in other senses outside this unit.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "core"
+        },
+        {
+          "id": "meet-a-condition",
+          "word": "meet a condition",
+          "pt": "cumprir uma condição; atender a uma exigência",
+          "ipa": "",
+          "section": "D · Formal requirements",
+          "example": "The applicant must meet every condition before receiving the permit.",
+          "note": "Meet a condition or meet the conditions is a common formal collocation; do not use make a condition for fulfilment.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "prerequisite",
+          "word": "prerequisite",
+          "pt": "pré-requisito",
+          "ipa": "/priːˈrekwɪzɪt/",
+          "section": "D · Formal requirements",
+          "example": "Previous programming experience is a prerequisite for this course.",
+          "note": "A condition that is absolutely necessary before something else can happen; rather formal. Often prerequisite for.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "core"
+        },
+        {
+          "id": "entry-requirements",
+          "word": "entry requirements",
+          "pt": "requisitos de ingresso; critérios de admissão",
+          "ipa": "/ˈentri rɪˈkwaɪəmənts/",
+          "section": "D · Formal requirements",
+          "example": "The university publishes its entry requirements on the course website.",
+          "note": "Official criteria needed for admission, enrolment or participation; rather formal.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "under-any-circumstances",
+          "word": "under any circumstances",
+          "pt": "em nenhuma circunstância (com negação); sob quaisquer circunstâncias",
+          "ipa": "",
+          "section": "D · Formal requirements",
+          "example": "We would not disable the alarm under any circumstances.",
+          "note": "Fairly formal; used especially with a negative to mean absolutely never.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "under-what-circumstances",
+          "word": "under what circumstances",
+          "pt": "em quais circunstâncias; em que condições",
+          "ipa": "",
+          "section": "D · Formal requirements",
+          "example": "Under what circumstances would the company approve remote work?",
+          "note": "Formal question about situations in which something might happen; raised in Exercise 62.4.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "on-what-condition",
+          "word": "on what condition",
+          "pt": "sob qual condição; com que condição",
+          "ipa": "",
+          "section": "D · Formal requirements",
+          "example": "On what condition would you agree to share the equipment?",
+          "note": "Asks for a specific required condition, and appears as a speaking target in Exercise 62.4.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "expression"
+        }
+      ],
+      "sourceAudit": {
+        "sectionsChecked": [
+          "A: Words connecting sentence parts and Language help",
+          "B: Supposing and What if",
+          "C: Conditions with -ever and Common mistakes",
+          "D: Some nouns which express condition",
+          "Exercises 62.1–62.4"
+        ],
+        "printedPages": [
+          130,
+          131
+        ],
+        "pdfPages": [
+          131,
+          132
+        ],
+        "answerKeyPdfPages": [
+          238
+        ]
+      }
+    }
+  ]
+}

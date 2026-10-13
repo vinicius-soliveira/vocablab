@@ -49,3 +49,32 @@ test('configured MP3 is used when it plays', async () => {
   audio.configureAudio({ source: 'auto' });
   assert.equal(await audio.playText('knee', 'assets/audio/demo/knee.mp3'), 'mp3');
 });
+
+test('Word excludes parenthetical meaning labels from imported vocabulary', () => {
+  assert.equal(audio.getWordPlaybackText({ word: 'go off (stop working)' }), 'go off');
+  assert.equal(audio.getWordPlaybackText({ word: 'flood (noun)' }), 'flood');
+  assert.equal(audio.getWordPlaybackText({ word: 'make me (feel) tired' }), 'make me tired');
+  assert.equal(audio.getWordPlaybackText({ word: 'tip (money)' }), 'tip');
+});
+
+test('Word ignores an incorrectly authored sentence in speechText', () => {
+  const entry = {
+    word: 'go off (stop working)',
+    speechText: 'The heating goes off at midnight.',
+    example: 'The heating goes off automatically at midnight.',
+  };
+  assert.equal(audio.getWordPlaybackText(entry), 'go off');
+  assert.notEqual(audio.getWordPlaybackText(entry), entry.example);
+  assert.equal(entry.example, 'The heating goes off automatically at midnight.');
+});
+
+test('Word uses short explicit speechText for lexical pronunciation', () => {
+  assert.equal(audio.getWordPlaybackText({ word: 'St.', speechText: 'Saint' }), 'Saint');
+  assert.equal(audio.getWordPlaybackText({ word: 'pick someone up', speechText: 'He picked his keys up.' }), 'pick someone up');
+});
+
+test('Templates use natural spoken examples rather than placeholders', () => {
+  assert.equal(audio.getWordPlaybackText({ word: 'prefer ... to ...', example: 'I prefer tea to coffee.' }), 'I prefer tea to coffee.');
+  assert.equal(audio.getWordPlaybackText({ word: 'go + -ing (activities)', example: 'I go swimming.' }), 'I go swimming.');
+  assert.equal(audio.getWordPlaybackText({ word: 'go / went / gone', example: 'She went home.' }), 'She went home.');
+});

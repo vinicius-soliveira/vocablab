@@ -28,6 +28,32 @@ function clamp(value, minimum, maximum, fallback) {
         ? Math.max(minimum, Math.min(maximum, numericValue))
         : fallback;
 }
+/**
+ * Select a speakable vocabulary target without reading display annotations.
+ * Older packages sometimes store a full example sentence in `speechText`;
+ * such sentences must not override a pronounceable word or phrase.
+ */
+export function getWordPlaybackText(item) {
+    const word = String(item?.word || '').trim();
+    const explicit = typeof item?.speechText === 'string' ? item.speechText.trim() : '';
+    // Parentheses in vocabulary labels normally describe meaning or grammar.
+    const displayWithoutAnnotations = word.replace(/\s*\([^()]*\)/g, '').replace(/\s+/g, ' ').trim();
+    // Templates, inflection lists, and alternatives need a speakable example.
+    const isTemplate = /\.{2,}|…|\+/.test(displayWithoutAnnotations);
+    const isAlternativeList = /\s+\/\s+/.test(displayWithoutAnnotations);
+    const spokenTarget = displayWithoutAnnotations;
+    const explicitIsSentence = /[.!?]$/.test(explicit) && explicit.split(/\s+/).length >= 4;
+
+    if (!isTemplate && !isAlternativeList && spokenTarget) {
+        // Allow a short explicit alternative pronunciation but never a sentence.
+        // When display text has a parenthetical label, the cleaned target wins.
+        if (explicit && !explicitIsSentence && word === spokenTarget) return explicit;
+        return spokenTarget;
+    }
+    if (explicit && !explicitIsSentence) return explicit;
+    return String(item?.example || '').trim() || explicit || spokenTarget || word;
+}
+
 export const canSpeak = () => typeof window !== 'undefined' && Boolean(window.speechSynthesis);
 export const getAudioSettings = () => ({ ...audioSettings });
 export function listVoices() {

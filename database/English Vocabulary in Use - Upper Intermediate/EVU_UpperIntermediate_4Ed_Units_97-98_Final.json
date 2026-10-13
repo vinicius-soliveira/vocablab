@@ -1,0 +1,828 @@
+{
+  "format": "vocablab-content-package",
+  "version": 1,
+  "id": "evu-ui-4ed-units-97-98-final",
+  "title": "English Vocabulary in Use — Upper-intermediate (4th Edition) · Units 97–98",
+  "bookId": "english-vocabulary-in-use-upper-intermediate-4ed",
+  "publisher": "Cambridge University Press",
+  "level": "B2",
+  "description": "Reviewed B2 similes and traditional proverbs, with contextual meanings, register notes, and original usage examples.",
+  "coverage": "source-checked-reviewed",
+  "sourceNotice": "Prepared from the user-supplied book for personal study. Vocabulary targets follow source topics and relevant exercise vocabulary; teaching examples and explanations are independently written. Original textbook exercises, extended passages and illustrations are not reproduced.",
+  "audit": {
+    "includedUnits": [
+      97,
+      98
+    ],
+    "scope": "Both study pages, illustrated comparisons, proverb tables, exercise tasks and relevant answer-key entries checked for target coverage and meaning.",
+    "bookPrintedPages": [
+      200,
+      201,
+      202,
+      203
+    ],
+    "pdfPages": [
+      201,
+      202,
+      203,
+      204
+    ],
+    "answerKeyPdfPages": [
+      256
+    ],
+    "pronunciation": "Broad British IPA for a small number of short, reliable targets; longer fixed similes and proverbs intentionally leave IPA empty rather than supplying unreliable phonemic transcriptions. Important pronunciation contrasts are explained in notes.",
+    "languagePolicy": "All strings are in English except natural Brazilian Portuguese translations in pt.",
+    "reviewMethod": "Compared targets, captions and exercise-only vocabulary with the source and answer key; wrote independent teaching examples; reviewed figurative meaning, register, translation, ID uniqueness, word-audio target wording, and static JSON structure.",
+    "editorialStatus": "reviewed",
+    "limitations": "No bundled audio, live VocabLab import, browser TTS, speech recognition, or UI round-trip testing was performed."
+  },
+  "units": [
+    {
+      "id": "evu-ui-4ed-u97",
+      "number": 97,
+      "title": "Unit 97 — Similes",
+      "level": "B2",
+      "source": "English Vocabulary in Use — Upper-intermediate (4th Edition); printed pages 200–201 (PDF pages 201–202).",
+      "bookId": "english-vocabulary-in-use-upper-intermediate-4ed",
+      "bookTitle": "English Vocabulary in Use — Upper-intermediate (4th Edition)",
+      "category": "Similes and figurative comparisons",
+      "sourcePage": 201,
+      "coverage": "source-checked",
+      "learningObjectives": [
+        "Recognise fixed as ... as and like similes and infer their figurative meanings.",
+        "Distinguish superficially similar expressions, including as sick as a dog versus as sick as a parrot, and as white as snow versus as white as a sheet.",
+        "Identify humorous, informal or potentially offensive similes and choose register appropriately.",
+        "Associate visual imagery and sound patterns with the source expressions and exercise-only comparisons."
+      ],
+      "sourceAudit": {
+        "sectionsChecked": [
+          "A: As ... as and illustrated comparisons",
+          "B: Like",
+          "Language help: as ... as can be",
+          "Exercises 97.1–97.5"
+        ],
+        "printedPages": [
+          200,
+          201
+        ],
+        "pdfPages": [
+          201,
+          202
+        ],
+        "answerKeyPdfPages": [
+          256
+        ]
+      },
+      "items": [
+        {
+          "id": "simile",
+          "word": "simile",
+          "pt": "comparação figurada; símile",
+          "ipa": "/ˈsɪmɪli/",
+          "section": "A · As ... as: visual comparisons",
+          "example": "A simile can make an everyday description more vivid.",
+          "note": "An expression comparing two things, often using like or as ... as.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "terminology"
+        },
+        {
+          "id": "as-dead-as-a-doornail",
+          "word": "as dead as a doornail",
+          "pt": "mortinho; completamente morto; sem qualquer atividade",
+          "ipa": "",
+          "section": "A · As ... as: visual comparisons",
+          "example": "By the end of winter, the neglected plant was as dead as a doornail.",
+          "note": "Strong informal comparison meaning completely dead; figuratively, an organisation or idea may be inactive.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-blind-as-a-bat",
+          "word": "as blind as a bat",
+          "pt": "cego como um morcego; que enxerga muito mal",
+          "ipa": "",
+          "section": "A · As ... as: visual comparisons",
+          "example": "Without my glasses, I am as blind as a bat when reading small labels.",
+          "note": "Humorous but potentially insensitive comparison about poor eyesight; avoid using it about another person without care.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-thin-as-a-rake",
+          "word": "as thin as a rake",
+          "pt": "magérrimo; muito magro",
+          "ipa": "",
+          "section": "A · As ... as: visual comparisons",
+          "example": "After weeks of illness, the character looked as thin as a rake.",
+          "note": "Informal appearance comparison that may sound critical or unkind.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-strong-as-an-ox",
+          "word": "as strong as an ox",
+          "pt": "fortíssimo; forte como um touro",
+          "ipa": "/əz ˈstrɒŋ əz ən ˈɒks/",
+          "section": "A · As ... as: visual comparisons",
+          "example": "My uncle is as strong as an ox and carried the heavy suitcase upstairs.",
+          "note": "An ox is a large farm animal; often used approvingly for physical strength.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-quiet-as-a-mouse",
+          "word": "as quiet as a mouse",
+          "pt": "quietinho; silencioso como um rato",
+          "ipa": "",
+          "section": "A · As ... as: visual comparisons",
+          "example": "The children were as quiet as a mouse while they waited backstage.",
+          "note": "Means very quiet and not attracting attention; can describe a person or behaviour.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-heavy-as-lead",
+          "word": "as heavy as lead",
+          "pt": "pesadíssimo; pesado como chumbo",
+          "ipa": "",
+          "section": "A · As ... as: opposing pairs",
+          "example": "The soaked blanket felt as heavy as lead.",
+          "note": "Lead is the metal /led/, not the verb lead /liːd/. Opposite comparison: as light as a feather.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-light-as-a-feather",
+          "word": "as light as a feather",
+          "pt": "levíssimo; leve como uma pluma",
+          "ipa": "",
+          "section": "A · As ... as: opposing pairs",
+          "example": "Despite its size, the empty box was as light as a feather.",
+          "note": "Very light in weight; contrast with as heavy as lead.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-drunk-as-a-lord",
+          "word": "as drunk as a lord",
+          "pt": "completamente bêbado; bêbado de cair",
+          "ipa": "",
+          "section": "A · As ... as: opposing pairs",
+          "example": "He arrived at the party as drunk as a lord and could barely speak.",
+          "note": "Very informal and critical; traditionally British. Contrasts with as sober as a judge.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-sober-as-a-judge",
+          "word": "as sober as a judge",
+          "pt": "perfeitamente sóbrio",
+          "ipa": "",
+          "section": "A · As ... as: opposing pairs",
+          "example": "Everyone else had been drinking, but the driver was as sober as a judge.",
+          "note": "Means not under the influence of alcohol; sometimes used humorously.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-black-as-night",
+          "word": "as black as night",
+          "pt": "negro como a noite; escuríssimo",
+          "ipa": "",
+          "section": "A · As ... as: opposing pairs",
+          "example": "The sky above the remote village was as black as night.",
+          "note": "Strong descriptive comparison about darkness.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-white-as-snow",
+          "word": "as white as snow",
+          "pt": "branquíssimo; branco como a neve",
+          "ipa": "",
+          "section": "A · As ... as: opposing pairs",
+          "example": "The mountain peaks were as white as snow after the storm.",
+          "note": "Often used in traditional stories to describe pure or beautiful whiteness; compare as white as a sheet.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-good-as-gold",
+          "word": "as good as gold",
+          "pt": "muito comportado; um anjinho",
+          "ipa": "",
+          "section": "A · As ... as: sound patterns and descriptive phrases",
+          "example": "The twins were as good as gold during the long train journey.",
+          "note": "Used especially to praise children for behaving well.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-cool-as-a-cucumber",
+          "word": "as cool as a cucumber",
+          "pt": "tranquilíssimo; calmo sob pressão",
+          "ipa": "",
+          "section": "A · As ... as: sound patterns and descriptive phrases",
+          "example": "Even during the interview, Marta remained as cool as a cucumber.",
+          "note": "Cool here means composed, not cold in temperature.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-busy-as-a-bee",
+          "word": "as busy as a bee",
+          "pt": "ocupadíssimo; muito atarefado",
+          "ipa": "",
+          "section": "A · As ... as: sound patterns and descriptive phrases",
+          "example": "The volunteers were as busy as a bee before the festival opened.",
+          "note": "Very active and continuously working; the noun bee creates a memorable sound pattern.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-hard-as-iron",
+          "word": "as hard as iron",
+          "pt": "duríssimo; duro como ferro",
+          "ipa": "",
+          "section": "A · As ... as: sound patterns and descriptive phrases",
+          "example": "The old mattress was as hard as iron, so nobody slept well.",
+          "note": "Describes an extremely hard surface, usually negatively in this context.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-dry-as-a-bone",
+          "word": "as dry as a bone",
+          "pt": "sequíssimo; completamente seco",
+          "ipa": "",
+          "section": "A · As ... as: sound patterns and descriptive phrases",
+          "example": "After several weeks without rain, the garden soil was as dry as a bone.",
+          "note": "Means completely dry; often describes ground, weather or objects.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-mad-as-a-hatter",
+          "word": "as mad as a hatter",
+          "pt": "completamente maluco; excêntrico demais",
+          "ipa": "",
+          "section": "A · As ... as: sound patterns and descriptive phrases",
+          "example": "Everyone thought the inventor was as mad as a hatter when he proposed the idea.",
+          "note": "Strong, potentially offensive description of apparently irrational or eccentric behaviour; avoid using as a literal mental-health label.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-bold-as-brass",
+          "word": "as bold as brass",
+          "pt": "muito atrevido; descarado",
+          "ipa": "",
+          "section": "A · As ... as: sound patterns and descriptive phrases",
+          "example": "He walked into the restricted meeting as bold as brass and demanded an explanation.",
+          "note": "Someone acting with surprising confidence or shamelessness, often disregarding social expectations.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-deaf-as-a-post",
+          "word": "as deaf as a post",
+          "pt": "com muita dificuldade de ouvir; surdo como uma porta",
+          "ipa": "",
+          "section": "A · As ... as: sound patterns and descriptive phrases",
+          "example": "In the novel, the elderly neighbour is described as deaf as a post.",
+          "note": "Potentially offensive comparison about hearing difficulty; better to use neutral descriptive language about real people.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-easy-as-pie",
+          "word": "as easy as pie",
+          "pt": "facílimo; moleza",
+          "ipa": "/əz ˈiːzi əz ˈpaɪ/",
+          "section": "A · As ... as: sound patterns and descriptive phrases",
+          "example": "Installing the app was as easy as pie once I followed the guide.",
+          "note": "Very informal way of saying something is simple.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-quick-as-a-flash",
+          "word": "as quick as a flash",
+          "pt": "num piscar de olhos; rapidíssimo",
+          "ipa": "",
+          "section": "A · As ... as: sound patterns and descriptive phrases",
+          "example": "As quick as a flash, the goalkeeper reached the ball.",
+          "note": "Describes an almost immediate action or reaction.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-white-as-a-sheet",
+          "word": "as white as a sheet",
+          "pt": "pálido como um fantasma",
+          "ipa": "",
+          "section": "A · As ... as: sound patterns and descriptive phrases",
+          "example": "When he heard the crash, his face turned as white as a sheet.",
+          "note": "Means extremely pale through fear, shock or illness; differs from as white as snow.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-sick-as-a-dog",
+          "word": "as sick as a dog",
+          "pt": "passando muito mal; muito enjoado",
+          "ipa": "",
+          "section": "A · As ... as: sound patterns and descriptive phrases",
+          "example": "I felt as sick as a dog after eating the spoiled seafood.",
+          "note": "Describes physical illness, often nausea or vomiting; contrast with as sick as a parrot.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-sick-as-a-parrot",
+          "word": "as sick as a parrot",
+          "pt": "arrasado; muito desapontado",
+          "ipa": "",
+          "section": "A · As ... as: sound patterns and descriptive phrases",
+          "example": "The players were as sick as a parrot after losing the final in extra time.",
+          "note": "Informal British expression for deep disappointment rather than physical sickness.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-red-as-a-beetroot",
+          "word": "as red as a beetroot",
+          "pt": "vermelho como um tomate; muito corado",
+          "ipa": "",
+          "section": "A · As ... as: sound patterns and descriptive phrases",
+          "example": "When everyone applauded his speech, he went as red as a beetroot.",
+          "note": "Describes a face becoming very red, often through embarrassment; beetroot is British English for the vegetable.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-thirsty-as-can-be",
+          "word": "as thirsty as can be",
+          "pt": "com muita sede; sedento ao extremo",
+          "ipa": "",
+          "section": "A · As ... as: sound patterns and descriptive phrases",
+          "example": "After the long walk in the heat, we were as thirsty as can be.",
+          "note": "Illustrates the productive pattern as + adjective + as can be, meaning extremely.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "work-like-a-dream",
+          "word": "work like a dream",
+          "pt": "funcionar perfeitamente; dar muito certo",
+          "ipa": "",
+          "section": "B · Like: comparisons and idioms",
+          "example": "The revised booking system worked like a dream during the launch.",
+          "note": "Means operate very smoothly and successfully. Compare work like a charm in other contexts.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "have-eyes-like-a-hawk",
+          "word": "have eyes like a hawk",
+          "pt": "ter olhos de águia; não deixar nada passar",
+          "ipa": "",
+          "section": "B · Like: comparisons and idioms",
+          "example": "Our proofreader has eyes like a hawk and notices every spelling mistake.",
+          "note": "Describes being exceptionally observant; hawks are birds of prey with sharp eyesight.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "eat-like-a-horse",
+          "word": "eat like a horse",
+          "pt": "comer muito; comer como um leão",
+          "ipa": "",
+          "section": "B · Like: comparisons and idioms",
+          "example": "My teenage cousin eats like a horse after swimming practice.",
+          "note": "Informal exaggeration for eating large quantities.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "drink-like-a-fish",
+          "word": "drink like a fish",
+          "pt": "beber muito álcool; beber como uma esponja",
+          "ipa": "",
+          "section": "B · Like: comparisons and idioms",
+          "example": "The character used to drink like a fish before deciding to stop.",
+          "note": "Typically means drink alcohol excessively, not simply drink a lot of water; can sound judgmental.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "sleep-like-a-log",
+          "word": "sleep like a log",
+          "pt": "dormir profundamente; dormir feito uma pedra",
+          "ipa": "",
+          "section": "B · Like: comparisons and idioms",
+          "example": "I slept like a log after the overnight journey.",
+          "note": "Means sleep very soundly without waking.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "have-a-mind-like-a-sieve",
+          "word": "have a mind like a sieve",
+          "pt": "ter memória de peixe; esquecer tudo",
+          "ipa": "",
+          "section": "B · Like: comparisons and idioms",
+          "example": "I have a mind like a sieve when it comes to remembering passwords.",
+          "note": "Informal self-description for being forgetful; alternative: have a head like a sieve.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "have-a-head-like-a-sieve",
+          "word": "have a head like a sieve",
+          "pt": "ter memória péssima; viver esquecendo as coisas",
+          "ipa": "",
+          "section": "B · Like: comparisons and idioms",
+          "example": "My brother has a head like a sieve and always forgets his keys.",
+          "note": "Variation of have a mind like a sieve; keep word audio separate from the alternative.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "like-a-bear-with-a-sore-head",
+          "word": "like a bear with a sore head",
+          "pt": "de péssimo humor; muito rabugento",
+          "ipa": "",
+          "section": "B · Like: comparisons and idioms",
+          "example": "The director was like a bear with a sore head after the meeting went badly.",
+          "note": "British informal simile for someone in a very bad mood.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "like-a-bull-in-a-china-shop",
+          "word": "like a bull in a china shop",
+          "pt": "feito um elefante em loja de cristais; desajeitadamente",
+          "ipa": "",
+          "section": "B · Like: comparisons and idioms",
+          "example": "He approached the delicate negotiations like a bull in a china shop.",
+          "note": "Figurative, critical comparison for clumsy or insensitive behaviour; china means porcelain.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "like-a-red-rag-to-a-bull",
+          "word": "like a red rag to a bull",
+          "pt": "algo que provoca muita irritação; pano vermelho para um touro",
+          "ipa": "",
+          "section": "B · Like: comparisons and idioms",
+          "example": "Mentioning that controversial decision was like a red rag to a bull for the committee chair.",
+          "note": "An action or comment is certain to provoke anger.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-flat-as-a-pancake",
+          "word": "as flat as a pancake",
+          "pt": "achatadíssimo; completamente plano",
+          "ipa": "",
+          "section": "C · Additional similes from exercises",
+          "example": "The surrounding countryside was as flat as a pancake.",
+          "note": "Common informal comparison for a very flat surface.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-fresh-as-a-daisy",
+          "word": "as fresh as a daisy",
+          "pt": "cheio de energia; descansadíssimo",
+          "ipa": "",
+          "section": "C · Additional similes from exercises",
+          "example": "She woke up as fresh as a daisy after a good night’s sleep.",
+          "note": "Used of a person feeling or looking refreshed, not normally of food.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-cold-as-ice",
+          "word": "as cold as ice",
+          "pt": "gelado como gelo; extremamente frio",
+          "ipa": "/əz ˈkəʊld əz ˈaɪs/",
+          "section": "C · Additional similes from exercises",
+          "example": "My hands were as cold as ice after cycling in the rain.",
+          "note": "Can describe literal coldness or, figuratively, lack of warmth or sympathy.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "as-easy-as-falling-off-a-log",
+          "word": "as easy as falling off a log",
+          "pt": "facílimo; moleza",
+          "ipa": "",
+          "section": "C · Additional similes from exercises",
+          "example": "For an experienced carpenter, replacing the hinge was as easy as falling off a log.",
+          "note": "A longer, informal alternative to as easy as pie.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "expression"
+        }
+      ]
+    },
+    {
+      "id": "evu-ui-4ed-u98",
+      "number": 98,
+      "title": "Unit 98 — Proverbs",
+      "level": "B2",
+      "source": "English Vocabulary in Use — Upper-intermediate (4th Edition); printed pages 202–203 (PDF pages 203–204).",
+      "bookId": "english-vocabulary-in-use-upper-intermediate-4ed",
+      "bookTitle": "English Vocabulary in Use — Upper-intermediate (4th Edition)",
+      "category": "Proverbs and proverbial advice",
+      "sourcePage": 203,
+      "coverage": "source-checked",
+      "learningObjectives": [
+        "Understand familiar proverbs as advice, warnings and observations rather than literal claims.",
+        "Use a proverb naturally to comment on a relevant situation.",
+        "Distinguish proverbs with contrasting messages, such as cooperation versus too much interference.",
+        "Recognise the source proverbs and the additional comparisons introduced in the exercises."
+      ],
+      "sourceAudit": {
+        "sectionsChecked": [
+          "A: Advice and warnings",
+          "B: Key elements",
+          "C: Visualising",
+          "Language help: Using proverbs in context",
+          "Exercises 98.1–98.5"
+        ],
+        "printedPages": [
+          202,
+          203
+        ],
+        "pdfPages": [
+          203,
+          204
+        ],
+        "answerKeyPdfPages": [
+          256
+        ]
+      },
+      "items": [
+        {
+          "id": "proverb",
+          "word": "proverb",
+          "pt": "provérbio; ditado popular",
+          "ipa": "/ˈprɒvɜːb/",
+          "section": "A · Proverbs: advice and warnings",
+          "example": "A proverb can summarise an everyday lesson in a memorable sentence.",
+          "note": "A traditional fixed saying giving practical advice, a warning or an observation.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "terminology"
+        },
+        {
+          "id": "dont-count-your-chickens-before-they-hatch",
+          "word": "Don't count your chickens before they hatch.",
+          "pt": "não conte com o ovo antes de a galinha botar; não comemore antes da hora",
+          "ipa": "",
+          "section": "A · Proverbs: advice and warnings",
+          "example": "We haven't signed the contract yet, so don't count your chickens before they hatch.",
+          "note": "Do not assume a hoped-for success will happen; warns against premature certainty.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "dont-put-all-your-eggs-in-one-basket",
+          "word": "Don't put all your eggs in one basket.",
+          "pt": "não ponha todos os ovos na mesma cesta; não concentre todos os riscos",
+          "ipa": "",
+          "section": "A · Proverbs: advice and warnings",
+          "example": "She applied to five universities because she didn't want to put all her eggs in one basket.",
+          "note": "Diversify effort, opportunities or risk rather than relying on only one option.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "never-judge-a-book-by-its-cover",
+          "word": "Never judge a book by its cover.",
+          "pt": "não julgue um livro pela capa; as aparências enganam",
+          "ipa": "",
+          "section": "A · Proverbs: advice and warnings",
+          "example": "The tiny restaurant looked unremarkable, but never judge a book by its cover.",
+          "note": "Outer appearance does not reliably reveal a person’s or thing’s true quality.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "never-look-a-gift-horse-in-the-mouth",
+          "word": "Never look a gift-horse in the mouth.",
+          "pt": "cavalo dado não se olha os dentes",
+          "ipa": "",
+          "section": "A · Proverbs: advice and warnings",
+          "example": "The ticket was free, so I accepted it; never look a gift-horse in the mouth.",
+          "note": "Do not criticise a generous gift or favourable opportunity. The hyphenated spelling is from the source.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "take-care-of-the-pennies",
+          "word": "Take care of the pennies and the pounds will take care of themselves.",
+          "pt": "de grão em grão a galinha enche o papo; pequenas economias fazem diferença",
+          "ipa": "",
+          "section": "A · Proverbs: advice and warnings",
+          "example": "She checks even small subscriptions because she believes that if you take care of the pennies, the pounds will take care of themselves.",
+          "note": "Managing small expenses can lead to substantial savings; pounds and pennies refer to British currency.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "well-cross-that-bridge-when-we-come-to-it",
+          "word": "We'll cross that bridge when we come to it.",
+          "pt": "vamos resolver isso quando chegar a hora; cada coisa a seu tempo",
+          "ipa": "",
+          "section": "A · Proverbs: advice and warnings",
+          "example": "We haven't even been offered the job, so we'll cross that bridge when we come to it.",
+          "note": "Do not spend too much energy worrying about a possible future problem.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "when-the-cats-away",
+          "word": "When the cat's away, the mice will play.",
+          "pt": "quando o gato sai, os ratos fazem a festa",
+          "ipa": "",
+          "section": "B · Proverbs: animals and birds",
+          "example": "The supervisor left early and everyone relaxed; when the cat's away, the mice will play.",
+          "note": "People may behave more freely when the person in authority is absent.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "you-can-lead-a-horse-to-water",
+          "word": "You can lead a horse to water but you can't make it drink.",
+          "pt": "você pode mostrar o caminho, mas não pode obrigar alguém a segui-lo",
+          "ipa": "",
+          "section": "B · Proverbs: animals and birds",
+          "example": "I sent him the training materials, but he refused to study; you can lead a horse to water but you can't make it drink.",
+          "note": "Advice or opportunities can be offered, but a person cannot be forced to accept them.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "one-swallow-doesnt-make-a-summer",
+          "word": "One swallow doesn't make a summer.",
+          "pt": "uma andorinha só não faz verão",
+          "ipa": "",
+          "section": "B · Proverbs: animals and birds",
+          "example": "One good sales month is encouraging, but one swallow doesn't make a summer.",
+          "note": "A single positive sign does not prove a long-term improvement; swallow is a migratory bird, not the verb meaning to ingest.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "theres-no-smoke-without-fire",
+          "word": "There's no smoke without fire.",
+          "pt": "onde há fumaça, há fogo",
+          "ipa": "",
+          "section": "C · Proverbs: visualising lessons",
+          "example": "She doubted the office rumours, but her colleague said there's no smoke without fire.",
+          "note": "Suggests rumours may have some factual basis; it is not proof a particular allegation is true.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "where-theres-smoke-theres-fire",
+          "word": "Where there's smoke, there's fire.",
+          "pt": "onde há fumaça, há fogo",
+          "ipa": "",
+          "section": "C · Proverbs: visualising lessons",
+          "example": "Some people believed the allegations because they thought where there's smoke, there's fire.",
+          "note": "Alternative fixed proverb to there’s no smoke without fire; not reliable evidence by itself.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "people-who-live-in-glass-houses",
+          "word": "People who live in glass houses shouldn't throw stones.",
+          "pt": "quem tem telhado de vidro não deve atirar pedras no dos outros",
+          "ipa": "",
+          "section": "C · Proverbs: visualising lessons",
+          "example": "He criticises colleagues for arriving late, although he is always late himself; people who live in glass houses shouldn't throw stones.",
+          "note": "Avoid criticising others for faults you also have.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "too-many-cooks-spoil-the-broth",
+          "word": "Too many cooks spoil the broth.",
+          "pt": "muitos chefes atrapalham; cozinheiros demais estragam o caldo",
+          "ipa": "",
+          "section": "C · Proverbs: visualising lessons",
+          "example": "Five managers rewrote the same report and delayed it for days: too many cooks spoil the broth.",
+          "note": "Too many people interfering in a task can make the result worse; broth means a thin soup.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "many-hands-make-light-work",
+          "word": "Many hands make light work.",
+          "pt": "a união faz a força; com ajuda, o trabalho fica mais leve",
+          "ipa": "",
+          "section": "C · Proverbs: visualising lessons",
+          "example": "The volunteers finished the clean-up in an hour; many hands make light work.",
+          "note": "A task becomes easier when people cooperate; contrast with too many cooks spoil the broth.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "all-that-glitters-is-not-gold",
+          "word": "All that glitters is not gold.",
+          "pt": "nem tudo que reluz é ouro",
+          "ipa": "",
+          "section": "D · Additional proverbs in exercises",
+          "example": "The offer sounded perfect, but the hidden fees reminded us that all that glitters is not gold.",
+          "note": "Appearances can be misleading; similar in message to never judge a book by its cover.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "absence-makes-the-heart-grow-fonder",
+          "word": "Absence makes the heart grow fonder.",
+          "pt": "a distância aumenta a saudade; a ausência fortalece o afeto",
+          "ipa": "",
+          "section": "D · Additional proverbs in exercises",
+          "example": "After six months apart, they appreciated each other more; absence makes the heart grow fonder.",
+          "note": "Missing someone or something may deepen affection; contrasts with when the cat’s away, the mice will play.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "a-bird-in-the-hand-is-worth-two-in-the-bush",
+          "word": "A bird in the hand is worth two in the bush.",
+          "pt": "mais vale um pássaro na mão do que dois voando",
+          "ipa": "",
+          "section": "D · Additional proverbs in exercises",
+          "example": "She chose the definite job offer over a risky possibility: a bird in the hand is worth two in the bush.",
+          "note": "A certain benefit may be better than a potentially greater but uncertain one.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "expression"
+        }
+      ]
+    }
+  ]
+}

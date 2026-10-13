@@ -1,0 +1,841 @@
+{
+  "format": "vocablab-content-package",
+  "version": 1,
+  "id": "evu-ui-4ed-units-63-64-final",
+  "title": "English Vocabulary in Use — Upper-intermediate (4th Edition) · Units 63–64",
+  "bookId": "english-vocabulary-in-use-upper-intermediate-4ed",
+  "publisher": "Cambridge University Press",
+  "level": "B2",
+  "description": "Curated cause-and-result linkers and contrasting expressions, with original examples, Brazilian Portuguese translations and usage guidance.",
+  "coverage": "source-checked-reviewed",
+  "sourceNotice": "Prepared from the user-supplied book for personal study. Vocabulary targets follow source topics and exercise vocabulary; all teaching examples and notes are newly written, and original exercises, extended passages and illustrations are not reproduced.",
+  "audit": {
+    "includedUnits": [
+      63,
+      64
+    ],
+    "scope": "Complete teaching pages, usage notes, the unit 64 contrast-phrase table, illustrations, exercises 63.1–63.4 and 64.1–64.5, and corresponding answer-key entries checked for vocabulary and distinctions.",
+    "bookPrintedPages": [
+      132,
+      133,
+      134,
+      135
+    ],
+    "pdfPages": [
+      133,
+      134,
+      135,
+      136
+    ],
+    "answerKeyPdfPages": [
+      238,
+      239
+    ],
+    "pronunciation": "Broad British IPA is supplied for shorter expressions where reliable; longer expressions have empty IPA rather than unverified transcriptions. Connected-speech and regional variants are not exhaustively documented.",
+    "languagePolicy": "All content is in English except Brazilian Portuguese translations under pt.",
+    "reviewMethod": "Read the uploaded edition teaching and exercise pages and consulted the corresponding answer key; reviewed lexical coverage, grammar, natural examples, Portuguese equivalents, stable IDs, JSON schema and suitability of target/example text for audio. Browser TTS, recognition and VocabLab live import were not tested.",
+    "editorialStatus": "reviewed",
+    "limitations": "No bundled audio assets or runtime import verification; actual synthetic pronunciation and speech-recognition performance depend on client environment."
+  },
+  "units": [
+    {
+      "id": "evu-ui-4ed-u63",
+      "number": 63,
+      "title": "Unit 63 — Cause, reason, purpose and result",
+      "level": "B2",
+      "source": "English Vocabulary in Use — Upper-intermediate (4th Edition); printed pages 132–133 (PDF pages 133–134).",
+      "bookId": "english-vocabulary-in-use-upper-intermediate-4ed",
+      "bookTitle": "English Vocabulary in Use — Upper-intermediate (4th Edition)",
+      "category": "Connecting and linking words",
+      "sourcePage": 133,
+      "coverage": "source-checked",
+      "learningObjectives": [
+        "Explain causes with accurate verb, noun and preposition patterns.",
+        "Distinguish expressions for the origin of an event, its motivation and its purpose.",
+        "Use formal written linkers to report results and consequences.",
+        "Select natural collocations and grammar patterns such as result in, reason for and with a view to."
+      ],
+      "items": [
+        {
+          "id": "due-to",
+          "word": "due to",
+          "pt": "devido a; em razão de",
+          "ipa": "/ˈdjuː tuː/",
+          "section": "A · Cause and reason",
+          "example": "The flight was delayed due to thick fog.",
+          "note": "Introduces the cause; normally followed by a noun or noun phrase.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "be-caused-by",
+          "word": "be caused by",
+          "pt": "ser causado por",
+          "ipa": "/biː ˈkɔːzd baɪ/",
+          "section": "A · Cause and reason",
+          "example": "The sudden shutdown was caused by a power failure.",
+          "note": "Passive pattern: something is caused by an event, action or condition.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "the-cause-of",
+          "word": "the cause of",
+          "pt": "a causa de",
+          "ipa": "/ðə ˈkɔːz əv/",
+          "section": "A · Cause and reason",
+          "example": "The engineers are investigating the cause of the overheating.",
+          "note": "Noun pattern: the cause of something. Distinguish cause (noun) from cause (verb).",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "cause-verb",
+          "word": "cause",
+          "pt": "causar; provocar",
+          "ipa": "/kɔːz/",
+          "section": "A · Cause and reason",
+          "example": "A damaged cable caused the controller to restart.",
+          "note": "Verb pattern: cause something; cause someone or something to do something.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "owing-to",
+          "word": "owing to",
+          "pt": "devido a; em decorrência de",
+          "ipa": "/ˈəʊɪŋ tuː/",
+          "section": "A · Cause and reason",
+          "example": "Owing to a technical fault, the service was suspended.",
+          "note": "A relatively formal alternative to because of; followed by a noun or noun phrase.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "owing-to-the-fact-that",
+          "word": "owing to the fact that",
+          "pt": "devido ao fato de que; visto que",
+          "ipa": "",
+          "section": "A · Cause and reason",
+          "example": "The test was postponed owing to the fact that the equipment was unavailable.",
+          "note": "Use this longer form before a finite clause; do not place a bare clause directly after owing to.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "spark",
+          "word": "spark",
+          "pt": "desencadear; provocar",
+          "ipa": "/spɑːk/",
+          "section": "A · Strong reactions",
+          "example": "The announcement sparked widespread protests.",
+          "note": "Often used for a powerful or sudden reaction, including unrest, debate or conflict.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "spark-off",
+          "word": "spark off",
+          "pt": "desencadear; dar início a",
+          "ipa": "/spɑːk ɒf/",
+          "section": "A · Strong reactions",
+          "example": "A controversial decision sparked off a public debate.",
+          "note": "Phrasal-verb alternative to spark; often describes an intense reaction.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "give-rise-to",
+          "word": "give rise to",
+          "pt": "dar origem a; provocar",
+          "ipa": "/ɡɪv ˈraɪz tuː/",
+          "section": "A · Reactions and change",
+          "example": "The new policy gave rise to several complaints.",
+          "note": "Relatively formal; followed by a noun phrase, often criticism, concern or problems.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "provoke",
+          "word": "provoke",
+          "pt": "provocar; suscitar",
+          "ipa": "/prəˈvəʊk/",
+          "section": "A · Reactions and change",
+          "example": "The minister’s remarks provoked a strong response.",
+          "note": "Often collocates with criticism, opposition, anger or a reaction.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "core"
+        },
+        {
+          "id": "generate",
+          "word": "generate",
+          "pt": "gerar; produzir",
+          "ipa": "/ˈdʒenəreɪt/",
+          "section": "A · Reactions and change",
+          "example": "The report generated considerable interest among researchers.",
+          "note": "Often used for effects such as interest, discussion, criticism or income.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "core"
+        },
+        {
+          "id": "bring-about",
+          "word": "bring about",
+          "pt": "provocar; ocasionar; promover",
+          "ipa": "/brɪŋ əˈbaʊt/",
+          "section": "A · Reactions and change",
+          "example": "The reforms brought about major changes in public transport.",
+          "note": "Common with change, improvement or reform; often in political or social contexts.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "lead-to",
+          "word": "lead to",
+          "pt": "levar a; resultar em",
+          "ipa": "/liːd tuː/",
+          "section": "A · Reactions and change",
+          "example": "Poor maintenance can lead to unexpected failures.",
+          "note": "Follow with a noun or -ing form, not a bare infinitive: lead to failure / lead to failing.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "stem-from",
+          "word": "stem from",
+          "pt": "decorrer de; ter origem em",
+          "ipa": "/stem frɒm/",
+          "section": "A · Origins and causes",
+          "example": "Many of the delays stem from a shortage of skilled staff.",
+          "note": "Highlights an underlying origin or source rather than just a visible consequence.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "arise-from",
+          "word": "arise from",
+          "pt": "surgir de; decorrer de",
+          "ipa": "/əˈraɪz frɒm/",
+          "section": "A · Origins and causes",
+          "example": "The dispute arose from a misunderstanding about the contract.",
+          "note": "Used when a situation originates in an earlier event or circumstance; arise–arose–arisen.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "arise-out-of",
+          "word": "arise out of",
+          "pt": "surgir de; decorrer de",
+          "ipa": "/əˈraɪz aʊt əv/",
+          "section": "A · Origins and causes",
+          "example": "Several legal questions arose out of the negotiations.",
+          "note": "A more extended alternative to arise from; often used in formal writing.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "reason-for",
+          "word": "reason for",
+          "pt": "motivo de; razão para",
+          "ipa": "/ˈriːzən fɔː/",
+          "section": "B · Reasons and purposes",
+          "example": "Her reason for leaving was that she had accepted another position.",
+          "note": "Use reason for + noun or -ing form: the reason for leaving.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "the-reason-why",
+          "word": "the reason why",
+          "pt": "o motivo pelo qual; a razão pela qual",
+          "ipa": "/ðə ˈriːzən waɪ/",
+          "section": "B · Reasons and purposes",
+          "example": "The reason why we cancelled the meeting was that the speaker was ill.",
+          "note": "Common pattern: the reason (why) ... is/was that ...; do not use because after is.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "motive",
+          "word": "motive",
+          "pt": "motivo; intenção subjacente",
+          "ipa": "/ˈməʊtɪv/",
+          "section": "B · Motivation",
+          "example": "The journalist questioned his motive for releasing the document.",
+          "note": "A motive is an underlying reason or purpose for an action; often motive for + -ing.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "core"
+        },
+        {
+          "id": "prompt",
+          "word": "prompt",
+          "pt": "levar alguém a agir; motivar",
+          "ipa": "/prɒmpt/",
+          "section": "B · Motivation",
+          "example": "The safety report prompted the team to revise its procedures.",
+          "note": "Transitive pattern: something prompts someone to do something.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "with-the-aim-of",
+          "word": "with the aim of",
+          "pt": "com o objetivo de; visando a",
+          "ipa": "",
+          "section": "B · Expressing purpose",
+          "example": "We introduced the workshop with the aim of improving communication.",
+          "note": "Formal purpose phrase; followed by a noun or -ing form, not a bare infinitive.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "with-a-view-to",
+          "word": "with a view to",
+          "pt": "com vistas a; com a intenção de",
+          "ipa": "",
+          "section": "B · Expressing purpose",
+          "example": "They met with a view to settling the disagreement.",
+          "note": "Formal and rather indirect; to is a preposition and must be followed by a noun or -ing form.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "on-the-grounds-that",
+          "word": "on the grounds that",
+          "pt": "sob a justificativa de que; alegando que",
+          "ipa": "",
+          "section": "B · Justifications",
+          "example": "The request was rejected on the grounds that the evidence was incomplete.",
+          "note": "Formal reason or justification, especially in legal or institutional settings; followed by a clause.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "the-purpose-of",
+          "word": "the purpose of",
+          "pt": "o objetivo de; a finalidade de",
+          "ipa": "/ðə ˈpɜːpəs əv/",
+          "section": "B · Expressing purpose",
+          "example": "The purpose of the inspection is to identify hidden faults.",
+          "note": "Pattern: the purpose of + noun or -ing form + is/was to + infinitive.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "as-a-result",
+          "word": "as a result",
+          "pt": "como resultado; por isso",
+          "ipa": "/æz ə rɪˈzʌlt/",
+          "section": "C · Results",
+          "example": "A supplier missed the deadline. As a result, production stopped.",
+          "note": "Introduces a consequence of a previous event; usually set off by a comma at the start of a sentence.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "as-a-consequence",
+          "word": "as a consequence",
+          "pt": "consequentemente; como consequência",
+          "ipa": "",
+          "section": "C · Results",
+          "example": "The roads were flooded. As a consequence, schools remained closed.",
+          "note": "More formal than as a result; usually refers back to the preceding event or situation.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "consequently",
+          "word": "consequently",
+          "pt": "consequentemente; portanto",
+          "ipa": "/ˈkɒnsɪkwəntli/",
+          "section": "C · Results",
+          "example": "The test data were incomplete. Consequently, the findings were inconclusive.",
+          "note": "Formal written linker; it may begin a sentence followed by a comma.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "result-in",
+          "word": "result in",
+          "pt": "resultar em; acarretar",
+          "ipa": "/rɪˈzʌlt ɪn/",
+          "section": "C · Resulting effects",
+          "example": "The software fault resulted in several hours of downtime.",
+          "note": "Verb + in + noun or -ing: result in delays / result in people waiting.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "the-result-of",
+          "word": "the result of",
+          "pt": "o resultado de",
+          "ipa": "/ðə rɪˈzʌlt əv/",
+          "section": "C · Results",
+          "example": "The outage was the result of an unexpected voltage drop.",
+          "note": "Noun construction showing the effect of a previous cause.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "consequence",
+          "word": "consequence",
+          "pt": "consequência",
+          "ipa": "/ˈkɒnsɪkwəns/",
+          "section": "C · Results",
+          "example": "A serious consequence of the decision was the loss of public confidence.",
+          "note": "Often more formal than result; common pattern: a consequence of something.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "outcome",
+          "word": "outcome",
+          "pt": "resultado; desfecho",
+          "ipa": "/ˈaʊtkʌm/",
+          "section": "C · Outcomes",
+          "example": "The outcome of the negotiations surprised everyone.",
+          "note": "Used for the final result of a process, meeting, discussion or sequence of events.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "upshot",
+          "word": "upshot",
+          "pt": "resultado final; consequência prática",
+          "ipa": "/ˈʌpʃɒt/",
+          "section": "C · Outcomes",
+          "example": "The upshot of the discussion was that we needed a new plan.",
+          "note": "Less formal than outcome; especially common in the pattern the upshot was that ...",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "ensue",
+          "word": "ensue",
+          "pt": "seguir-se; ocorrer em seguida",
+          "ipa": "/ɪnˈsjuː/",
+          "section": "C · Outcomes",
+          "example": "The announcement was made, and a heated argument ensued.",
+          "note": "Very formal; means happen afterwards, often describing chaos, confusion or a dispute.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "core"
+        }
+      ],
+      "sourceAudit": {
+        "sectionsChecked": [
+          "A: Cause and reason and Language help",
+          "B: Reasons for and purposes of doing things",
+          "C: Results",
+          "Exercises 63.1–63.4"
+        ],
+        "printedPages": [
+          132,
+          133
+        ],
+        "pdfPages": [
+          133,
+          134
+        ],
+        "answerKeyPdfPages": [
+          238,
+          239
+        ]
+      }
+    },
+    {
+      "id": "evu-ui-4ed-u64",
+      "number": 64,
+      "title": "Unit 64 — Concession and contrast",
+      "level": "B2",
+      "source": "English Vocabulary in Use — Upper-intermediate (4th Edition); printed pages 134–135 (PDF pages 135–136).",
+      "bookId": "english-vocabulary-in-use-upper-intermediate-4ed",
+      "bookTitle": "English Vocabulary in Use — Upper-intermediate (4th Edition)",
+      "category": "Connecting and linking words",
+      "sourcePage": 135,
+      "coverage": "source-checked",
+      "learningObjectives": [
+        "Concede part of an argument using acknowledge, accept, admit and concede with appropriate register.",
+        "Distinguish conversational and formal ways of introducing contrasts and qualifications.",
+        "Use on the other hand for a different viewpoint and on the contrary to reject a claim.",
+        "Describe strong differences with established collocations such as poles apart and a yawning gap."
+      ],
+      "items": [
+        {
+          "id": "concession",
+          "word": "concession",
+          "pt": "concessão; reconhecimento de um ponto contrário",
+          "ipa": "/kənˈseʃən/",
+          "section": "A · Argument structure",
+          "example": "The introduction makes a concession before presenting a stronger argument.",
+          "note": "Accepting one point while arguing that another point matters more.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "terminology"
+        },
+        {
+          "id": "although",
+          "word": "although",
+          "pt": "embora; apesar de que",
+          "ipa": "/ɔːlˈðəʊ/",
+          "section": "A · Conceding an opposing point",
+          "example": "Although the system is expensive, it is easy to maintain.",
+          "note": "Conjunction introducing a concession; followed by a finite clause.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "nevertheless",
+          "word": "nevertheless",
+          "pt": "mesmo assim; ainda assim; no entanto",
+          "ipa": "/ˌnevəðəˈles/",
+          "section": "A · Conceding an opposing point",
+          "example": "The first trial failed. Nevertheless, the team continued testing.",
+          "note": "Formal contrastive adverb, often separated by a comma.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "acknowledge",
+          "word": "acknowledge",
+          "pt": "reconhecer; admitir a existência de",
+          "ipa": "/əkˈnɒlɪdʒ/",
+          "section": "A · Verbs of concession",
+          "example": "The company acknowledged that customers had experienced delays.",
+          "note": "Relatively formal; recognising a point does not necessarily mean accepting blame or liability.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "accept",
+          "word": "accept",
+          "pt": "aceitar; reconhecer como válido",
+          "ipa": "/əkˈsept/",
+          "section": "A · Verbs of concession",
+          "example": "I accept that you worked hard, but the report still needs revisions.",
+          "note": "Less formal than acknowledge; can concede a point without agreeing with the conclusion.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "admit",
+          "word": "admit",
+          "pt": "admitir; reconhecer um erro",
+          "ipa": "/ədˈmɪt/",
+          "section": "A · Verbs of concession",
+          "example": "I admit that I misunderstood the instructions.",
+          "note": "Often acknowledges fault or an uncomfortable fact; admit (that) ... or admit doing something.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "concede",
+          "word": "concede",
+          "pt": "reconhecer relutantemente; ceder em um argumento",
+          "ipa": "/kənˈsiːd/",
+          "section": "A · Verbs of concession",
+          "example": "She conceded that the proposal had some advantages.",
+          "note": "Rather formal, common in debates when a speaker reluctantly yields one point.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "thats-all-well-and-good",
+          "word": "that's all well and good",
+          "pt": "tudo muito bem, mas...; isso é ótimo, porém...",
+          "ipa": "",
+          "section": "B · Conversational qualifications",
+          "example": "You've apologised, and that's all well and good, but the problem remains.",
+          "note": "Informal; accepts a positive point before raising an objection or practical difficulty.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "thats-all-very-well",
+          "word": "that's all very well",
+          "pt": "tudo bem, mas...; isso é muito bom, porém...",
+          "ipa": "",
+          "section": "B · Conversational qualifications",
+          "example": "You've prepared the slides, and that's all very well, but who will present them?",
+          "note": "Informal phrase that acknowledges something but questions whether it is enough.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "its-all-very-well",
+          "word": "it's all very well",
+          "pt": "é fácil dizer, mas...; tudo muito bem, mas...",
+          "ipa": "",
+          "section": "B · Conversational qualifications",
+          "example": "It's all very well suggesting a new tool, but who will maintain it?",
+          "note": "Often followed by an -ing form and a but-clause to criticise an impractical suggestion.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "after-all",
+          "word": "after all",
+          "pt": "afinal de contas; afinal",
+          "ipa": "/ˌɑːftər ˈɔːl/",
+          "section": "B · Giving a justification",
+          "example": "You shouldn't be surprised; after all, we warned you about the risks.",
+          "note": "Introduces a reason the listener should already recognise; can soften an objection.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "for-all-that",
+          "word": "for all that",
+          "pt": "apesar de tudo isso; mesmo assim",
+          "ipa": "/fər ˈɔːl ðæt/",
+          "section": "B · Conversational qualifications",
+          "example": "The candidate is inexperienced, but for all that, she has excellent ideas.",
+          "note": "Concessive phrase: despite everything just mentioned; often follows but.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "admittedly",
+          "word": "admittedly",
+          "pt": "reconhecidamente; é verdade que",
+          "ipa": "/ədˈmɪtɪdli/",
+          "section": "B · Formal qualifications",
+          "example": "Admittedly, the upgrade was expensive, but it improved reliability.",
+          "note": "More formal; signals that the speaker accepts a point before offering a qualification.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "the-reverse-is-true",
+          "word": "the reverse is true",
+          "pt": "o contrário é verdadeiro; ocorre o inverso",
+          "ipa": "",
+          "section": "B · Reversing an expectation",
+          "example": "I expected sales to fall, but the reverse is true: they are rising.",
+          "note": "Reverses a previously stated or expected situation; tense can change to was true.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "in-fact",
+          "word": "in fact",
+          "pt": "na verdade; de fato",
+          "ipa": "/ɪn ˈfækt/",
+          "section": "B · Correcting an impression",
+          "example": "We thought the task would be simple. In fact, it took three weeks.",
+          "note": "Introduces the reality behind, or a correction to, an earlier statement or expectation.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "in-contrast",
+          "word": "in contrast",
+          "pt": "em contraste; por outro lado",
+          "ipa": "/ɪn ˈkɒntrɑːst/",
+          "section": "B · Comparing situations",
+          "example": "The first design uses metal parts. In contrast, the second relies on plastic.",
+          "note": "Marks a difference between two subjects or situations; commonly used in writing.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "on-the-other-hand",
+          "word": "on the other hand",
+          "pt": "por outro lado; em contrapartida",
+          "ipa": "",
+          "section": "B · Different viewpoints",
+          "example": "The flat is small. On the other hand, it is close to the station.",
+          "note": "Adds another true consideration or viewpoint; it does not say the previous statement was false.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "quite-the-opposite",
+          "word": "quite the opposite",
+          "pt": "muito pelo contrário; exatamente o oposto",
+          "ipa": "",
+          "section": "B · Contradicting a claim",
+          "example": "I'm not disappointed; quite the opposite, I'm delighted with the result.",
+          "note": "Strongly rejects an assumption by asserting the opposite is true.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "on-the-contrary",
+          "word": "on the contrary",
+          "pt": "pelo contrário; muito pelo contrário",
+          "ipa": "",
+          "section": "B · Contradicting a claim",
+          "example": "The new version isn't less reliable. On the contrary, it's more stable than before.",
+          "note": "Rejects or corrects the previous claim; unlike on the other hand, it says the earlier idea was untrue.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "when-it-comes-to",
+          "word": "when it comes to",
+          "pt": "quando se trata de; no que diz respeito a",
+          "ipa": "",
+          "section": "C · Topics of contrast",
+          "example": "When it comes to planning, the two managers have very different styles.",
+          "note": "Introduces the topic about which people or things are being compared; to + noun or -ing form.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "poles-apart",
+          "word": "poles apart",
+          "pt": "diametralmente opostos; muito diferentes",
+          "ipa": "/ˌpəʊlz əˈpɑːt/",
+          "section": "C · Strong differences",
+          "example": "The two researchers are poles apart in their views on the proposal.",
+          "note": "Describes extreme differences in views, values or approaches; often be poles apart.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-world-of-difference",
+          "word": "a world of difference",
+          "pt": "uma diferença enorme; uma diferença abismal",
+          "ipa": "",
+          "section": "C · Strong differences",
+          "example": "There is a world of difference between an estimate and a verified result.",
+          "note": "A strong fixed expression; typically a world of difference between A and B.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-great-divide",
+          "word": "a great divide",
+          "pt": "uma grande divisão; uma diferença profunda",
+          "ipa": "",
+          "section": "C · Social and ideological divisions",
+          "example": "There is a great divide between urban and rural voters on this issue.",
+          "note": "Often refers to a serious social, political or ideological division.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-yawning-gap",
+          "word": "a yawning gap",
+          "pt": "um abismo; uma diferença enorme",
+          "ipa": "/ə ˌjɔːnɪŋ ˈɡæp/",
+          "section": "C · Strong differences",
+          "example": "A yawning gap remains between the highest and lowest wages.",
+          "note": "Emphatic collocation for a very large disparity or separation, especially in wealth or opportunity.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-huge-discrepancy",
+          "word": "a huge discrepancy",
+          "pt": "uma grande discrepância; uma diferença significativa",
+          "ipa": "",
+          "section": "C · Inconsistencies",
+          "example": "There is a huge discrepancy between the budget and the final cost.",
+          "note": "A discrepancy is a mismatch between things expected to agree, such as figures or statements.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "take-responsibility",
+          "word": "take responsibility",
+          "pt": "assumir responsabilidade",
+          "ipa": "/teɪk rɪˌspɒnsɪˈbɪləti/",
+          "section": "D · Exercise targets",
+          "example": "The supervisor agreed to take responsibility for the oversight.",
+          "note": "Exercise 64.1 highlights conceding a point while assigning responsibility; take responsibility for + noun/-ing.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "accept-liability",
+          "word": "accept liability",
+          "pt": "assumir responsabilidade legal",
+          "ipa": "",
+          "section": "D · Exercise targets",
+          "example": "The supplier refused to accept liability for the damage.",
+          "note": "Legal or corporate collocation; acknowledging a complaint is not the same as accepting liability.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "collocation"
+        }
+      ],
+      "sourceAudit": {
+        "sectionsChecked": [
+          "A: Verbs of concession",
+          "B: Adverbs and other phrases showing contrast",
+          "C: Collocating phrases for contrast and Language help",
+          "Exercises 64.1–64.5"
+        ],
+        "printedPages": [
+          134,
+          135
+        ],
+        "pdfPages": [
+          135,
+          136
+        ],
+        "answerKeyPdfPages": [
+          239
+        ]
+      }
+    }
+  ]
+}

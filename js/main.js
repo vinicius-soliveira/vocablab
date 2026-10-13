@@ -1,5 +1,5 @@
 /** Main application UI: study activities, navigation, and progress views. */
-import { playText, stopAudio, listVoices, configureAudio, getAudioSettings, recognize, browserSupportsRecognition, startRecording, stopRecording } from './audio.js';
+import { playText, getWordPlaybackText, stopAudio, listVoices, configureAudio, getAudioSettings, recognize, browserSupportsRecognition, startRecording, stopRecording } from './audio.js';
 import { install, library, remove, profile, record, mastery, ordered, dueItems, skills, shuffle, same, normalize, downloadJSON, importBackup, makeBackup } from './core.js';
 const getElement = (selector) => document.querySelector(selector);
 const escapeHtml = (value) => String(value ?? '').replace(/[&<>"']/g, c => ({
@@ -193,7 +193,7 @@ function skillPanel(x) {
 /** Play the saved MP3, or use browser speech when a recording is unavailable. */
 function playWord(item) {
     const audioPath = item.audio || null;
-    const spokenText = item.speechText || (/\.{2,}|…|\+/.test(item.word) ? item.example || item.word : item.word);
+    const spokenText = getWordPlaybackText(item);
     return playText(spokenText, audioPath).catch((error) => toast(error.message));
 }
 function playSentence(x) {

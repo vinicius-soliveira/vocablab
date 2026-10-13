@@ -1,0 +1,488 @@
+{
+  "format": "vocablab-content-package",
+  "version": 1,
+  "id": "evie-elementary-3ed-unit-45-reviewed-v1",
+  "title": "English Vocabulary in Use — Elementary · Unit 45 (editorially reviewed)",
+  "bookId": "english-vocabulary-in-use-elementary-3ed",
+  "publisher": "Cambridge University Press",
+  "level": "A1–A2",
+  "description": "Unit 45 covers the irregular verb get, changes of state with adjectives, obtaining things and assistance, marriage, arrival and return. All learning explanations are in English; pt contains Brazilian Portuguese translations. British-English IPA and original usage examples are included.",
+  "coverage": "one-unit-editorially-reviewed-runtime-validation-pending",
+  "sourceNotice": "The user-provided source teaching page, diagrams, notes and exercises 45.1–45.5 were inspected. All example sentences and explanations are independently written rather than reproduced from the book; supplementary patterns are distinguished from explicitly presented vocabulary.",
+  "audit": {
+    "includedUnits": [
+      45
+    ],
+    "scope": "Unit 45 sections A–C, illustrations, Common mistakes, cross-reference to Unit 47 and exercises 45.1–45.5 were inspected; every existing item was checked for English-only language, IPA, context, grammatical accuracy, origin, TTS-readability and source coverage.",
+    "bookPrintedPages": [
+      96,
+      97
+    ],
+    "pdfPages": [
+      97,
+      98
+    ],
+    "pronunciation": "British English IPA checked against the source phonemic index (PDF pages 160–170) where indexed (including get married, get back, get to and get up), with remaining multiword phrases reviewed editorially. IPA for open-ended patterns represents only their fixed part; speechText provides natural complete spoken examples.",
+    "cannotGuarantee": "Structural and JSON parsing checks can be completed locally, but actual browser import, synthetic audio playback, listening and pronunciation exercises, learning progress persistence and backup/restore have not been tested in VocabLab.",
+    "editorialReview": {
+      "reviewDate": "2026-10-09",
+      "sourcePrintedPages": [
+        96,
+        97
+      ],
+      "sourcePdfPages": [
+        97,
+        98
+      ],
+      "phonemicIndexPdfPages": [
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170
+      ],
+      "reviewMethod": "Direct inspection of both source pages, diagrams, all five exercises, the common-mistakes box and indexed British pronunciations; independent entry-by-entry linguistic and technical review; local JSON and identifier integrity checks.",
+      "status": "in_review",
+      "humanSignOffRequired": true,
+      "browserImportTested": false,
+      "ttsPlaybackTested": false,
+      "backupRestoreTested": false,
+      "notes": "All original package, unit and item IDs remain unchanged. Be getting + adjective was verified in the source illustrations; get a drink remains an explicitly labelled pedagogical extension. Browser-level compatibility requires separate confirmation."
+    }
+  },
+  "units": [
+    {
+      "id": "evie-3ed-u45",
+      "title": "Unit 45 — Get / got / got",
+      "level": "A1–A2",
+      "source": "English Vocabulary in Use — Elementary, 3rd edition, Unit 45, textbook pages 96–97 (PDF pages 97–98); original examples and explanatory notes.",
+      "number": 45,
+      "bookId": "english-vocabulary-in-use-elementary-3ed",
+      "bookTitle": "English Vocabulary in Use — Elementary (3rd edition)",
+      "category": "Everyday verbs",
+      "sourcePage": 97,
+      "coverage": "user-curated",
+      "items": [
+        {
+          "id": "u45-get-got-got",
+          "word": "get / got / got",
+          "pt": "obter; ficar; chegar; pegar (get, got, got)",
+          "ipa": "/ɡet/ · /ɡɒt/ · /ɡɒt/",
+          "section": "A · Get with adjectives: changes",
+          "example": "I got a new notebook yesterday.",
+          "note": "Get is irregular: get (base form), got (past simple) and got (past participle in standard British English). Its meaning depends on the words that follow: get better, get a job or get home.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "speechText": "get, got, got"
+        },
+        {
+          "id": "u45-get-adjective",
+          "word": "get + adjective",
+          "pt": "ficar; tornar-se + adjetivo",
+          "ipa": "/ɡet/",
+          "section": "A · Get with adjectives: changes",
+          "example": "It gets colder after sunset.",
+          "note": "Get + adjective describes a change of state rather than a state that already exists: get tired means become tired, while be tired describes how someone feels. IPA covers the fixed verb only.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "speechText": "get tired"
+        },
+        {
+          "id": "u45-be-getting-adjective",
+          "word": "be getting + adjective",
+          "pt": "estar ficando + adjetivo",
+          "ipa": "/bi ˈɡetɪŋ/",
+          "section": "A · Get with adjectives: changes",
+          "example": "It is getting dark outside.",
+          "note": "Be + getting + adjective describes a change in progress. The pictures contrast It is light, It is getting dark and It is dark; the verb be changes to match the subject. IPA gives the fixed pattern.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "speechText": "it is getting dark"
+        },
+        {
+          "id": "u45-get-dark",
+          "word": "get dark",
+          "pt": "escurecer; ficar escuro",
+          "ipa": "/ɡet dɑːk/",
+          "section": "A · Get with adjectives: changes",
+          "example": "It gets dark early in December.",
+          "note": "Use impersonal it for changes in daylight: It gets dark in the evening. The source also illustrates the process with It is getting dark.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u45-get-light",
+          "word": "get light",
+          "pt": "clarear; ficar claro",
+          "ipa": "/ɡet laɪt/",
+          "section": "A · Get with adjectives: changes",
+          "example": "It gets light before six in the summer.",
+          "note": "Get light means become light outside, usually at dawn. Exercise 45.2 contrasts the sun coming up with the sun going down.",
+          "audio": "",
+          "contentOrigin": "exercise-context-reviewed"
+        },
+        {
+          "id": "u45-get-better",
+          "word": "get better",
+          "pt": "melhorar; ficar melhor",
+          "ipa": "/ɡet ˈbetə/",
+          "section": "A · Get with adjectives: changes",
+          "example": "She is getting better after a week of rest.",
+          "note": "Get better means improve, especially recover from illness. Contrast She is getting better (recovery in progress) with She is better or She is well (the resulting state).",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u45-get-tired",
+          "word": "get tired",
+          "pt": "ficar cansado(a)",
+          "ipa": "/ɡet ˈtaɪəd/",
+          "section": "A · Get with adjectives: changes",
+          "example": "I start to get tired after a long day at work.",
+          "note": "Get tired describes becoming tired, not simply being tired. Use got tired for the past and am/is/are getting tired for a change in progress.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u45-get-wet",
+          "word": "get wet",
+          "pt": "ficar molhado(a)",
+          "ipa": "/ɡet wet/",
+          "section": "A · Get with adjectives: changes",
+          "example": "We got wet when the rain started.",
+          "note": "Get wet means become wet, for example in the rain. In the past, say got wet; it does not mean receive something wet.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u45-get-cold",
+          "word": "get cold",
+          "pt": "ficar com frio; esfriar",
+          "ipa": "/ɡet kəʊld/",
+          "section": "A · Get with adjectives: changes",
+          "example": "I am getting cold with the window open.",
+          "note": "Get cold describes a fall in temperature. A person can say I am getting cold when starting to feel cold; exercise 45.2 uses this meaning.",
+          "audio": "",
+          "contentOrigin": "exercise-context-reviewed"
+        },
+        {
+          "id": "u45-get-hot",
+          "word": "get hot",
+          "pt": "ficar com calor; esquentar",
+          "ipa": "/ɡet hɒt/",
+          "section": "A · Get with adjectives: changes",
+          "example": "I got hot while sitting in the sun.",
+          "note": "Get hot means become hot, either physically or because the temperature rises. Exercise 45.1 uses it in the context of sitting in the sun.",
+          "audio": "",
+          "contentOrigin": "exercise-context-reviewed"
+        },
+        {
+          "id": "u45-get-sick",
+          "word": "get sick",
+          "pt": "passar mal; enjoar; adoecer",
+          "ipa": "/ɡet sɪk/",
+          "section": "A · Get with adjectives: changes",
+          "example": "I got sick after eating too much cake.",
+          "note": "In the context of eating too much in exercise 45.1, get sick can mean feel sick or vomit. In other contexts it can mean become ill; British English commonly uses be sick for vomiting.",
+          "audio": "",
+          "contentOrigin": "exercise-context-reviewed"
+        },
+        {
+          "id": "u45-get-ill",
+          "word": "get ill",
+          "pt": "adoecer; ficar doente",
+          "ipa": "/ɡet ɪl/",
+          "section": "A · Get with adjectives: changes",
+          "example": "She got ill during her holiday.",
+          "note": "Get ill means become ill. This is a pedagogical extension of the source contrast She is ill → She is getting better; the expression get ill is not separately taught in this unit.",
+          "audio": "",
+          "contentOrigin": "pedagogical-extension"
+        },
+        {
+          "id": "u45-get-something",
+          "word": "get something",
+          "pt": "conseguir; obter; comprar; encontrar alguma coisa",
+          "ipa": "/ɡet ˈsʌmθɪŋ/",
+          "section": "B · Get with nouns: obtain or find",
+          "example": "Can you get some paper for the printer?",
+          "note": "With a noun or object pronoun, get can mean obtain, buy or find something. The source explains that if you do not have an item, you can get it.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u45-get-a-stamp",
+          "word": "get a stamp",
+          "pt": "comprar; conseguir um selo",
+          "ipa": "/ɡet ə stæmp/",
+          "section": "B · Get with nouns: obtain or find",
+          "example": "I need to get a stamp before I post this letter.",
+          "note": "Here stamp means a postage stamp for sending a letter or postcard. You might buy one or find one you already have.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u45-get-a-newspaper",
+          "word": "get a newspaper",
+          "pt": "comprar; conseguir um jornal",
+          "ipa": "/ɡet ə ˈnjuːzpeɪpə/",
+          "section": "B · Get with nouns: obtain or find",
+          "example": "I get a newspaper on my way to the office.",
+          "note": "Get a newspaper can mean buy or obtain one. Newspaper is a countable noun, so use a with the singular form.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u45-get-some-coffee",
+          "word": "get some coffee",
+          "pt": "buscar; comprar; pegar um pouco de café",
+          "ipa": "/ɡet səm ˈkɒfi/",
+          "section": "B · Get with nouns: obtain or find",
+          "example": "I can get some coffee for both of us.",
+          "note": "Get some coffee means obtain, fetch or serve coffee; make coffee usually means prepare it. Some is natural when coffee is uncountable.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u45-get-a-drink",
+          "word": "get a drink",
+          "pt": "pegar; comprar uma bebida",
+          "ipa": "/ɡet ə drɪŋk/",
+          "section": "B · Get with nouns: obtain or find",
+          "example": "Would you like me to get you a drink?",
+          "note": "Get a drink means obtain or fetch a drink. This phrase is an extension based on the source exchange about wanting a drink and getting some coffee; it is not presented there as a separate phrase.",
+          "audio": "",
+          "contentOrigin": "pedagogical-extension"
+        },
+        {
+          "id": "u45-get-a-taxi",
+          "word": "get a taxi",
+          "pt": "conseguir; chamar; pegar um táxi",
+          "ipa": "/ɡet ə ˈtæksi/",
+          "section": "B · Get with nouns: obtain or find",
+          "example": "It was late, so we decided to get a taxi.",
+          "note": "Get a taxi means find, arrange or take a taxi. Take a taxi focuses on travelling by taxi; both can be natural depending on context.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u45-get-a-job",
+          "word": "get a job",
+          "pt": "conseguir um emprego",
+          "ipa": "/ɡet ə dʒɒb/",
+          "section": "B · Get with nouns: obtain or find",
+          "example": "She hopes to get a job after university.",
+          "note": "Get a job means find and obtain employment. Compare have a job, which describes the situation after finding work.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u45-get-a-doctor",
+          "word": "get a doctor",
+          "pt": "chamar um médico; conseguir ajuda médica",
+          "ipa": "/ɡet ə ˈdɒktə/",
+          "section": "B · Get with nouns: obtain or find",
+          "example": "Please get a doctor; my grandfather needs help.",
+          "note": "Get a doctor means find or call a doctor to help someone. It does not mean buy a doctor; call a doctor is also a common way to request medical help.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u45-get-a-pen",
+          "word": "get a pen",
+          "pt": "conseguir; pegar uma caneta",
+          "ipa": "/ɡet ə pen/",
+          "section": "B · Get with nouns: obtain or find",
+          "example": "I need to get a pen to write down the address.",
+          "note": "Exercise 45.3 asks what you might get to write something down. A pen is one possible answer; a pencil could also work.",
+          "audio": "",
+          "contentOrigin": "exercise-context-reviewed"
+        },
+        {
+          "id": "u45-get-an-umbrella",
+          "word": "get an umbrella",
+          "pt": "conseguir; pegar um guarda-chuva",
+          "ipa": "/ɡet ən ʌmˈbrelə/",
+          "section": "B · Get with nouns: obtain or find",
+          "example": "I will get an umbrella before I leave the house.",
+          "note": "Exercise 45.3 asks what you might get before going out in the rain. An umbrella is one suitable answer; take an umbrella emphasises carrying it with you.",
+          "audio": "",
+          "contentOrigin": "exercise-context-reviewed"
+        },
+        {
+          "id": "u45-get-someone-something",
+          "word": "get somebody something",
+          "pt": "buscar; conseguir algo para alguém",
+          "ipa": "/ɡet ˈsʌmbədi ˈsʌmθɪŋ/",
+          "section": "B · Get with nouns: obtain or find",
+          "example": "Could you get me a glass of water?",
+          "note": "Use get + person + thing to mean fetch or obtain something for that person: get me a drink. You can also say get something for someone. This is an additional usage pattern.",
+          "audio": "",
+          "contentOrigin": "pedagogical-extension"
+        },
+        {
+          "id": "u45-get-married",
+          "word": "get married",
+          "pt": "casar-se",
+          "ipa": "/ɡet ˈmærɪd/",
+          "section": "C · Expressions: marriage, arrival and return",
+          "example": "They plan to get married next year.",
+          "note": "Get married refers to the event or change in relationship status; be married describes the existing state. The topic also appears in Unit 2.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u45-be-getting-married",
+          "word": "be getting married",
+          "pt": "ter casamento marcado; estar prestes a casar-se (conforme o contexto)",
+          "ipa": "/bi ˈɡetɪŋ ˈmærɪd/",
+          "section": "C · Expressions: marriage, arrival and return",
+          "example": "They are getting married in June.",
+          "note": "The present continuous can refer to a planned future wedding: They are getting married in April. This does not necessarily mean that the ceremony is taking place now.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u45-get-to-place",
+          "word": "get to + place",
+          "pt": "chegar a um lugar",
+          "ipa": "/ɡet tə/",
+          "section": "C · Expressions: marriage, arrival and return",
+          "example": "We got to the cinema before the film started.",
+          "note": "Use get to + place to mean arrive or reach a destination, such as get to the station. The IPA covers the fixed part; do not insert to before home or there.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "speechText": "get to the station"
+        },
+        {
+          "id": "u45-get-to-new-york",
+          "word": "get to New York",
+          "pt": "chegar a Nova York",
+          "ipa": "/ɡet tə ˌnjuː ˈjɔːk/",
+          "section": "C · Expressions: marriage, arrival and return",
+          "example": "Send me a message when you get to New York.",
+          "note": "Use to before the name of the destination: get to New York. The source uses this expression in a request to call someone after arrival.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u45-get-to-the-airport",
+          "word": "get to the airport",
+          "pt": "chegar ao aeroporto",
+          "ipa": "/ɡet tə ði ˈeəpɔːt/",
+          "section": "C · Expressions: marriage, arrival and return",
+          "example": "How can we get to the airport from here?",
+          "note": "Get to the airport means reach the airport. It often appears in questions about routes or transport, including How can I get to the airport?",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u45-how-to-get-to",
+          "word": "How can I get to ...?",
+          "pt": "como posso chegar a...?",
+          "ipa": "/haʊ kən aɪ ɡet tə/",
+          "section": "C · Expressions: marriage, arrival and return",
+          "example": "How can I get to the railway station?",
+          "note": "Use How can I get to + destination? to ask for directions or transport advice. The display target has an open slot; speechText supplies a natural complete question.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "speechText": "How can I get to the station?"
+        },
+        {
+          "id": "u45-get-back",
+          "word": "get back",
+          "pt": "voltar; retornar",
+          "ipa": "/ɡet bæk/",
+          "section": "C · Expressions: marriage, arrival and return",
+          "example": "We got back from our trip yesterday evening.",
+          "note": "Get back means return to a place or to the point of reference. Exercise 45.4 also uses it without an expressed starting point.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u45-get-back-from",
+          "word": "get back from + place",
+          "pt": "voltar de; retornar de algum lugar",
+          "ipa": "/ɡet bæk frəm/",
+          "section": "C · Expressions: marriage, arrival and return",
+          "example": "When did you get back from Madrid?",
+          "note": "Use get back from + place to identify where someone returns from: get back from Hong Kong. Here from introduces the place of departure.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "speechText": "get back from Hong Kong"
+        },
+        {
+          "id": "u45-get-home",
+          "word": "get home",
+          "pt": "chegar em casa",
+          "ipa": "/ɡet həʊm/",
+          "section": "C · Expressions: marriage, arrival and return",
+          "example": "I usually get home around half past six.",
+          "note": "Say get home, not get to home, because home is an adverb of destination in this construction. Compare get to my house, where house is a noun.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u45-get-there",
+          "word": "get there",
+          "pt": "chegar lá",
+          "ipa": "/ɡet ðeə/",
+          "section": "C · Expressions: marriage, arrival and return",
+          "example": "If we leave now, we can get there before noon.",
+          "note": "Say get there, not get to there. There is a destination adverb, so the preposition to is not needed.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u45-get-to-london",
+          "word": "get to London",
+          "pt": "chegar a Londres",
+          "ipa": "/ɡet tə ˈlʌndən/",
+          "section": "C · Expressions: marriage, arrival and return",
+          "example": "The flight gets to London in the early afternoon.",
+          "note": "Exercise 45.4 asks when a flight gets to London. Use get to + destination for arrival; the same pattern works with Paris or other cities.",
+          "audio": "",
+          "contentOrigin": "exercise-context-reviewed"
+        },
+        {
+          "id": "u45-get-to-my-house",
+          "word": "get to my house",
+          "pt": "chegar à minha casa",
+          "ipa": "/ɡet tə maɪ haʊs/",
+          "section": "C · Expressions: marriage, arrival and return",
+          "example": "The bus gets to my house in about twenty minutes.",
+          "note": "Exercise 45.4 uses a bus arriving at someone's house. Say get to my house because house is a noun, but say get home without to.",
+          "audio": "",
+          "contentOrigin": "exercise-context-reviewed"
+        },
+        {
+          "id": "u45-get-up",
+          "word": "get up",
+          "pt": "levantar-se; sair da cama",
+          "ipa": "/ɡet ʌp/",
+          "section": "C · Expressions: marriage, arrival and return",
+          "example": "I get up early during the week.",
+          "note": "Get up means get out of bed or rise. Unit 45 mentions it only as a cross-reference to Unit 47; this is an optional explanatory extension, not a central Unit 45 target.",
+          "audio": "",
+          "contentOrigin": "pedagogical-extension"
+        }
+      ],
+      "learningObjectives": [
+        "Recognise the British-English forms get, got and got, and distinguish their meanings from context.",
+        "Describe changes of state with get + adjective, including get dark, get light, get better, get tired and get wet.",
+        "Use am, is or are getting + adjective for a change in progress and contrast getting better with being better or well.",
+        "Recognise get hot, get sick and get cold in the exercises; distinguish exercise uses from additional learner extensions.",
+        "Use get + noun for obtaining, buying or finding items and help: get a stamp, a newspaper, some coffee, a taxi, a job or a doctor.",
+        "Use get married and are getting married to discuss weddings; contrast the event with the state of being married.",
+        "Ask for directions using How can I get to ...? and use get to + place for arrival.",
+        "Distinguish get home and get there (without to) from get to my house, get to London and get to the airport.",
+        "Talk about returning with get back and get back from + place, and recognise get up as a cross-reference to Unit 47."
+      ]
+    }
+  ]
+}
