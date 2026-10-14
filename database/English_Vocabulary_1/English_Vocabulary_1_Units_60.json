@@ -1,0 +1,675 @@
+{
+  "format": "vocablab-content-package",
+  "version": 1,
+  "id": "evie-elementary-3ed-unit-60-reviewed-v1",
+  "title": "English Vocabulary 1 · Units 60",
+  "bookId": "english-vocabulary-1",
+  "level": "A1–A2",
+  "description": "Editorially reviewed Unit 60: similar-sounding words, commonly confused meanings, verb patterns, time-of-day expressions and the dictionary-research prompts. Cross-checked against the teaching page, exercises, published answer key and British English phonemic index.",
+  "coverage": "one-unit-source-audited",
+  "sourceNotice": "The supplied textbook informs the vocabulary selection and distinctions. Example sentences and explanatory notes are original; exercise questions and illustrations are not reproduced.",
+  "audit": {
+    "includedUnits": [
+      60
+    ],
+    "scope": "Reviewed Unit 60 presentation (sections A–C), pictures and exercises 60.1–60.4 (printed pp. 126–127; PDF pp. 127–128), the published answers (printed p. 157; PDF p. 158), the dictionary-research prompt, and matching headwords in the British English phonemic index (PDF pp. 160–170). Checked entry IDs, IPA, contextual Portuguese translations, examples, English-only prose, provenance and local JSON compatibility.",
+    "bookPrintedPages": [
+      126,
+      127
+    ],
+    "pdfPages": [
+      127,
+      128
+    ],
+    "pronunciation": "British English IPA checked against the textbook phonemic index for indexed headwords. Multiword pronunciations and unindexed forms are editorial approximations; connected speech and text-to-speech output may vary.",
+    "cannotGuarantee": "The JSON was parsed and checked locally for expected fields, types, ID stability and English-only editorial text. VocabLab 1.2 Lite browser importing, audio playback, pronunciation practice, adaptive review, backup and restore were not tested. Independent dictionary verification of unindexed multiword IPA and human sign-off remain pending.",
+    "editorialReview": {
+      "reviewDate": "2026-10-09",
+      "sourcePrintedPages": [
+        126,
+        127
+      ],
+      "sourcePdfPages": [
+        127,
+        128
+      ],
+      "answerKeyPrintedPages": [
+        157
+      ],
+      "answerKeyPdfPages": [
+        158
+      ],
+      "phonemicIndexPdfPages": [
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170
+      ],
+      "reviewMethod": "Visual examination of both teaching and exercise pages; comparison with the printed answers; item-by-item lexical, translation, grammar, example and provenance review; spot-check against the textbook UK phonemic index; local JSON/type/ID checks.",
+      "status": "in_review",
+      "humanSignOffRequired": true,
+      "browserImportTested": false,
+      "browserAudioTested": false,
+      "adaptiveReviewTested": false,
+      "backupRestoreTested": false,
+      "notes": "Original unit, package and item IDs are retained. Entries about using cook as a verb, extra greetings and time prepositions, and the four Over to you dictionary pairs are explicitly marked as pedagogical extensions when their teaching content is not explained on these pages. Unit 60 is not approved without application and human review."
+    }
+  },
+  "units": [
+    {
+      "id": "evie-3ed-u60",
+      "title": "Unit 60 — Words you may confuse",
+      "level": "A1–A2",
+      "source": "Vocabulary study targets from published reference material; Unit 60. Page information, if available, is retained in sourceAudit.",
+      "number": 60,
+      "bookId": "english-vocabulary-1",
+      "bookTitle": "English Vocabulary 1",
+      "category": "Words and grammar",
+      "sourcePage": 127,
+      "coverage": "user-curated",
+      "items": [
+        {
+          "id": "u60-quite",
+          "word": "quite",
+          "pt": "bastante; razoavelmente; até que",
+          "ipa": "/kwaɪt/",
+          "section": "A · Similar sounds",
+          "example": "The film was quite interesting, but not amazing.",
+          "note": "Quite has one syllable, /kwaɪt/. In quite good it suggests a moderately positive assessment; its strength varies with the adjective and context. Do not confuse it with quiet.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-quiet",
+          "word": "quiet",
+          "pt": "silencioso(a); tranquilo(a)",
+          "ipa": "/ˈkwaɪət/",
+          "section": "A · Similar sounds",
+          "example": "The street is quiet early in the morning.",
+          "note": "Quiet has two syllables, /ˈkwaɪət/, and means making little or no noise. Compare quite /kwaɪt/, an adverb of degree.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-quite-good",
+          "word": "quite good",
+          "pt": "razoavelmente bom; até que bom",
+          "ipa": "/kwaɪt ˈɡʊd/",
+          "section": "A · Similar sounds",
+          "example": "The hotel is quite good for the price.",
+          "note": "The teaching page places quite good between bad and good on its simple scale. Quite can convey different degrees of strength in other contexts.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-quite-cold",
+          "word": "quite cold",
+          "pt": "bastante frio; relativamente frio (conforme o contexto)",
+          "ipa": "/kwaɪt ˈkəʊld/",
+          "section": "A · Similar sounds",
+          "example": "It is quite cold today, so take a jacket.",
+          "note": "The phrase occurs in exercise 60.1. Quite modifies the adjective cold; the strength of the expression depends on context.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-be-quiet",
+          "word": "be quiet",
+          "pt": "ficar em silêncio; fazer silêncio",
+          "ipa": "/bi ˈkwaɪət/",
+          "section": "A · Similar sounds",
+          "example": "Please be quiet while the baby sleeps.",
+          "note": "Be quiet is a request to make less noise. The phrase is tested in exercises 60.1 and 60.3; quiet is not quite.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-lose",
+          "word": "lose",
+          "pt": "perder; não encontrar",
+          "ipa": "/luːz/",
+          "section": "A · Similar sounds",
+          "example": "I sometimes lose my glasses at home.",
+          "note": "Lose /luːz/ is a verb meaning to misplace something or no longer have it. The past tense is lost. Compare the adjective loose /luːs/.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-loose",
+          "word": "loose",
+          "pt": "largo(a); folgado(a); frouxo(a)",
+          "ipa": "/luːs/",
+          "section": "A · Similar sounds",
+          "example": "This jacket is loose around my shoulders.",
+          "note": "Loose /luːs/ is an adjective meaning not tight or not fitting closely. It ends in /s/, unlike lose /luːz/.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-lose-your-keys",
+          "word": "lose your keys",
+          "pt": "perder suas chaves",
+          "ipa": "/ˌluːz jɔː ˈkiːz/",
+          "section": "A · Similar sounds",
+          "example": "Try not to lose your keys on the trip.",
+          "note": "The teaching-page dialogue uses lose with keys. The object is the thing that cannot be found; the past form is lost your keys.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-loose-trousers",
+          "word": "loose trousers",
+          "pt": "calças largas; calças folgadas",
+          "ipa": "/ˌluːs ˈtraʊzəz/",
+          "section": "A · Similar sounds",
+          "example": "I prefer loose trousers when I travel.",
+          "note": "Loose describes clothing that does not fit tightly. Trousers is grammatically plural in British English, even for one item of clothing.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-tight",
+          "word": "tight",
+          "pt": "apertado(a); justo(a)",
+          "ipa": "/taɪt/",
+          "section": "A · Similar sounds",
+          "example": "These shoes are too tight for me.",
+          "note": "Tight is the opposite of loose when clothes fit too closely. The source uses tight to explain the meaning of loose.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-fall",
+          "word": "fall",
+          "pt": "cair",
+          "ipa": "/fɔːl/",
+          "section": "A · Similar sounds",
+          "example": "Be careful or you might fall on the stairs.",
+          "note": "Irregular verb: fall–fell–fallen. Fell is its past tense; felt is the past tense of feel.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-fell",
+          "word": "fell",
+          "pt": "caiu; caí (passado de fall)",
+          "ipa": "/fel/",
+          "section": "A · Similar sounds",
+          "example": "Last weekend, Daniel fell off his bicycle.",
+          "note": "Fell is the past tense of fall: fall–fell–fallen. Do not confuse fell /fel/ with felt /felt/.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-feel",
+          "word": "feel",
+          "pt": "sentir; sentir-se",
+          "ipa": "/fiːl/",
+          "section": "A · Similar sounds",
+          "example": "I feel much better after a short rest.",
+          "note": "Irregular verb: feel–felt–felt. It can describe physical sensations, health or emotions.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-felt",
+          "word": "felt",
+          "pt": "senti; sentiu; sentia (passado de feel)",
+          "ipa": "/felt/",
+          "section": "A · Similar sounds",
+          "example": "I felt nervous before my first lesson.",
+          "note": "Felt is the past tense and past participle of feel. Contrast it with fell, the past tense of fall.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-feel-ill",
+          "word": "feel ill",
+          "pt": "sentir-se mal; sentir-se doente",
+          "ipa": "/fiːl ˈɪl/",
+          "section": "A · Similar sounds",
+          "example": "I feel ill today, so I am staying at home.",
+          "note": "Use feel + an adjective to describe a condition: feel ill, feel tired or feel better. The source also gives felt ill in the past.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-cook-person",
+          "word": "cook",
+          "pt": "cozinheiro(a); pessoa que cozinha",
+          "ipa": "/kʊk/",
+          "section": "A · Similar sounds",
+          "example": "My uncle is an excellent cook.",
+          "note": "As a noun, a cook is a person who prepares food. In British English, a cooker is an appliance used to cook; cook is also a verb.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-good-cook",
+          "word": "a good cook",
+          "pt": "uma pessoa que cozinha bem; bom cozinheiro",
+          "ipa": "/ə ɡʊd ˈkʊk/",
+          "section": "A · Similar sounds",
+          "example": "My flatmate is a good cook and enjoys making soup.",
+          "note": "A good cook is a person who cooks well. Cook refers to a person, while cooker refers to an appliance.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-cooker",
+          "word": "cooker",
+          "pt": "fogão; aparelho de cozinhar",
+          "ipa": "/ˈkʊkə/",
+          "section": "A · Similar sounds",
+          "example": "We bought a small cooker for the new flat.",
+          "note": "In British English, cooker usually means an appliance with a hob and/or oven for cooking. A cook is a person who prepares food.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-cook-dinner",
+          "word": "cook dinner",
+          "pt": "cozinhar o jantar",
+          "ipa": "/kʊk ˈdɪnə/",
+          "section": "A · Similar sounds",
+          "example": "I cook dinner for my family on Fridays.",
+          "note": "Pedagogical extension: cook can also be used as a verb, as in cook dinner. The main source contrast concerns cook (person) and cooker (appliance).",
+          "audio": "",
+          "contentOrigin": "pedagogical-extension"
+        },
+        {
+          "id": "u60-lend",
+          "word": "lend",
+          "pt": "emprestar; ceder por um tempo",
+          "ipa": "/lend/",
+          "section": "B · Similar or related meanings",
+          "example": "Could you lend me your dictionary for a day?",
+          "note": "Lend means give someone something temporarily. Irregular forms: lend–lent–lent. Compare borrow, which describes receiving the item.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-borrow",
+          "word": "borrow",
+          "pt": "pegar emprestado",
+          "ipa": "/ˈbɒrəʊ/",
+          "section": "B · Similar or related meanings",
+          "example": "I often borrow books from the local library.",
+          "note": "Borrow means take or receive something temporarily with the intention of returning it. Use borrow something from someone; compare lend.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-lend-me-your-bike",
+          "word": "lend me your bike",
+          "pt": "empreste-me sua bicicleta",
+          "ipa": "/lend miː jɔː baɪk/",
+          "section": "B · Similar or related meanings",
+          "example": "Please lend me your bike for just one hour.",
+          "note": "Pattern: lend + person + thing (lend me your bike). You can also say lend your bike to me. The giver lends; the receiver borrows.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-borrow-a-bike-from-a-friend",
+          "word": "borrow a bike from a friend",
+          "pt": "pegar uma bicicleta emprestada de um amigo",
+          "ipa": "/ˈbɒrəʊ ə baɪk frəm ə frend/",
+          "section": "B · Similar or related meanings",
+          "example": "I can borrow a bike from a friend this weekend.",
+          "note": "Pattern: borrow + thing + from + person. Do not say borrow me a bike when you mean lend me a bike.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-can-i-borrow-your-bike",
+          "word": "Can I borrow your bike?",
+          "pt": "Posso pegar sua bicicleta emprestada?",
+          "ipa": "/kæn aɪ ˈbɒrəʊ jɔː baɪk/",
+          "section": "B · Similar or related meanings",
+          "example": "Can I borrow your bike? Mine has a flat tyre.",
+          "note": "A request from the receiver’s point of view. Compare Can you lend me your bike?, which addresses the person who would provide it.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-can-you-lend-me-a-pen",
+          "word": "Can you lend me a pen?",
+          "pt": "Você pode me emprestar uma caneta?",
+          "ipa": "/kæn juː lend miː ə pen/",
+          "section": "B · Similar or related meanings",
+          "example": "Can you lend me a pen? I forgot mine.",
+          "note": "Pattern: Can you lend me + thing? The wording asks the other person to provide something temporarily; the source also tests lending money.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-lend-money-to-a-friend",
+          "word": "lend money to a friend",
+          "pt": "emprestar dinheiro a um amigo",
+          "ipa": "/lend ˈmʌni tuː ə frend/",
+          "section": "B · Similar or related meanings",
+          "example": "I never lend money to a friend without talking first.",
+          "note": "Pattern: lend something to someone. Exercises 60.3 and 60.4 include requests about lending money.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-borrow-money-from-a-friend",
+          "word": "borrow money from a friend",
+          "pt": "pegar dinheiro emprestado de um amigo",
+          "ipa": "/ˈbɒrəʊ ˈmʌni frəm ə frend/",
+          "section": "B · Similar or related meanings",
+          "example": "She had to borrow money from a friend.",
+          "note": "Pattern: borrow money from someone. Borrow describes the receiver’s action, whereas lend describes the giver’s action.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-check",
+          "word": "check",
+          "pt": "verificar; conferir; examinar",
+          "ipa": "/tʃek/",
+          "section": "B · Similar or related meanings",
+          "example": "Please check the address before you send the letter.",
+          "note": "Check means examine or verify something, such as information in a document. Contrast control, which means direct how something works.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-check-a-passport",
+          "word": "check a passport",
+          "pt": "verificar um passaporte",
+          "ipa": "/tʃek ə ˈpɑːspɔːt/",
+          "section": "B · Similar or related meanings",
+          "example": "The officer will check your passport at the desk.",
+          "note": "Check a passport means inspect or verify the document. The source illustrates this with a passport officer.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-control",
+          "word": "control",
+          "pt": "controlar; comandar; determinar o funcionamento",
+          "ipa": "/kənˈtrəʊl/",
+          "section": "B · Similar or related meanings",
+          "example": "This button can control the volume.",
+          "note": "Control means direct or regulate how something works. It is not normally interchangeable with check when the meaning is simply verify.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-control-a-computer",
+          "word": "control a computer",
+          "pt": "controlar um computador",
+          "ipa": "/kənˈtrəʊl ə kəmˈpjuːtə/",
+          "section": "B · Similar or related meanings",
+          "example": "You can control a computer with a mouse.",
+          "note": "A mouse can control a computer by directing its actions. Contrast checking a passport, which means examining it.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-wait",
+          "word": "wait",
+          "pt": "esperar; aguardar",
+          "ipa": "/weɪt/",
+          "section": "C · Other words often mixed up",
+          "example": "Please wait here for a few minutes.",
+          "note": "Wait means remain until something happens or someone arrives. Use wait for + a person or thing; do not confuse it with hope or expect.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-wait-for-the-bus",
+          "word": "wait for the bus",
+          "pt": "esperar pelo ônibus",
+          "ipa": "/weɪt fə ðə bʌs/",
+          "section": "C · Other words often mixed up",
+          "example": "We wait for the bus outside the school.",
+          "note": "Use wait for + a person or thing, as in wait for the bus. The source and exercise 60.3 practise this pattern.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-hope",
+          "word": "hope",
+          "pt": "esperar; torcer para que algo aconteça",
+          "ipa": "/həʊp/",
+          "section": "C · Other words often mixed up",
+          "example": "I hope you enjoy your holiday.",
+          "note": "Hope expresses a desire for a particular result, whether or not it seems likely. Compare expect, which concerns what seems probable.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-hope-to-pass-an-exam",
+          "word": "hope to pass an exam",
+          "pt": "esperar passar numa prova; torcer para ser aprovado",
+          "ipa": "/həʊp tə pɑːs ən ɪɡˈzæm/",
+          "section": "C · Other words often mixed up",
+          "example": "I hope to pass my driving test next week.",
+          "note": "Pattern: hope to + verb. The source contrasts wanting to pass an exam with expecting to fail one.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-expect",
+          "word": "expect",
+          "pt": "achar provável; esperar que aconteça",
+          "ipa": "/ɪkˈspekt/",
+          "section": "C · Other words often mixed up",
+          "example": "I expect the package will arrive tomorrow.",
+          "note": "Expect expresses a belief about what will probably happen. It can also mean anticipate someone’s arrival, as in expect visitors.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-expect-to-fail-an-exam",
+          "word": "expect to fail an exam",
+          "pt": "achar que vai reprovar em uma prova",
+          "ipa": "/ɪkˈspekt tə feɪl ən ɪɡˈzæm/",
+          "section": "C · Other words often mixed up",
+          "example": "She expects to fail the test because she missed many lessons.",
+          "note": "Pattern: expect to + verb. The expected result can be unwelcome; expect does not by itself mean want.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-expect-visitors",
+          "word": "expect visitors",
+          "pt": "estar esperando visitas; prever que alguém venha",
+          "ipa": "/ɪkˈspekt ˈvɪzɪtəz/",
+          "section": "C · Other words often mixed up",
+          "example": "We are expecting visitors after lunch.",
+          "note": "Expect visitors means believe that visitors will arrive, often because their visit is arranged. This is practised in exercise 60.4.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-pass-an-exam",
+          "word": "pass an exam",
+          "pt": "passar numa prova; ser aprovado",
+          "ipa": "/pɑːs ən ɪɡˈzæm/",
+          "section": "C · Other words often mixed up",
+          "example": "He studied hard and passed the final exam.",
+          "note": "Pass an exam means succeed in it. The teaching page uses passing exams to explain hope.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-fail-an-exam",
+          "word": "fail an exam",
+          "pt": "reprovar numa prova; não passar",
+          "ipa": "/feɪl ən ɪɡˈzæm/",
+          "section": "C · Other words often mixed up",
+          "example": "I failed the exam last year, but I can try again.",
+          "note": "Fail an exam means not achieve a passing result. The teaching page uses failing exams to explain expect.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-afternoon",
+          "word": "afternoon",
+          "pt": "tarde (após o meio-dia)",
+          "ipa": "/ˌɑːftəˈnuːn/",
+          "section": "C · Other words often mixed up",
+          "example": "We have English classes in the afternoon.",
+          "note": "In the teaching page, afternoon lasts approximately from noon until 5 or 6 pm. These are guidelines rather than fixed boundaries.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-evening",
+          "word": "evening",
+          "pt": "começo da noite; início do período noturno",
+          "ipa": "/ˈiːvnɪŋ/",
+          "section": "C · Other words often mixed up",
+          "example": "I usually read in the evening.",
+          "note": "In the teaching page, evening is approximately from 5 or 6 pm until 9 or 10 pm. The exact boundary varies by situation.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-night",
+          "word": "night",
+          "pt": "noite",
+          "ipa": "/naɪt/",
+          "section": "C · Other words often mixed up",
+          "example": "The city is very quiet at night.",
+          "note": "The source describes night as beginning at about 9 or 10 pm for this comparison. Everyday use of night is not restricted to an exact hour.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-good-afternoon",
+          "word": "Good afternoon!",
+          "pt": "Boa tarde!",
+          "ipa": "/ɡʊd ˌɑːftəˈnuːn/",
+          "section": "C · Other words often mixed up",
+          "example": "Good afternoon! Welcome to our office.",
+          "note": "Good afternoon is an appropriate greeting at 3 pm and is the answer to exercise 60.3. Compare Good evening for later greetings.",
+          "audio": "",
+          "contentOrigin": "source-reviewed"
+        },
+        {
+          "id": "u60-good-evening",
+          "word": "Good evening!",
+          "pt": "Boa noite! (ao cumprimentar alguém)",
+          "ipa": "/ɡʊd ˈiːvnɪŋ/",
+          "section": "C · Other words often mixed up",
+          "example": "Good evening! It is nice to see you again.",
+          "note": "Pedagogical extension: Good evening is commonly used when greeting someone in the evening. Compare Good night, which is mainly a farewell.",
+          "audio": "",
+          "contentOrigin": "pedagogical-extension"
+        },
+        {
+          "id": "u60-good-night",
+          "word": "Good night!",
+          "pt": "Boa noite! (ao se despedir ou ir dormir)",
+          "ipa": "/ɡʊd ˈnaɪt/",
+          "section": "C · Other words often mixed up",
+          "example": "Good night! See you in the morning.",
+          "note": "Pedagogical extension: Good night is normally used when saying goodbye or going to bed, rather than when first greeting someone.",
+          "audio": "",
+          "contentOrigin": "pedagogical-extension"
+        },
+        {
+          "id": "u60-in-the-afternoon",
+          "word": "in the afternoon",
+          "pt": "à tarde; durante a tarde",
+          "ipa": "/ɪn ði ˌɑːftəˈnuːn/",
+          "section": "C · Other words often mixed up",
+          "example": "We are meeting in the afternoon.",
+          "note": "Pedagogical extension: Use in the afternoon for a general part of the day; use at three o’clock for a particular time.",
+          "audio": "",
+          "contentOrigin": "pedagogical-extension"
+        },
+        {
+          "id": "u60-in-the-evening",
+          "word": "in the evening",
+          "pt": "no início da noite; à noite",
+          "ipa": "/ɪn ði ˈiːvnɪŋ/",
+          "section": "C · Other words often mixed up",
+          "example": "I listen to music in the evening.",
+          "note": "Pedagogical extension: Use in the evening for this part of the day. Compare the standard general expression at night.",
+          "audio": "",
+          "contentOrigin": "pedagogical-extension"
+        },
+        {
+          "id": "u60-at-night",
+          "word": "at night",
+          "pt": "à noite (sobretudo no período noturno)",
+          "ipa": "/ət ˈnaɪt/",
+          "section": "C · Other words often mixed up",
+          "example": "The streets are empty at night.",
+          "note": "Pedagogical extension: At night is the usual expression for general habits during the night; in the night may refer to a particular night-time event.",
+          "audio": "",
+          "contentOrigin": "pedagogical-extension"
+        },
+        {
+          "id": "u60-lie",
+          "word": "lie",
+          "pt": "deitar-se; ficar deitado",
+          "ipa": "/laɪ/",
+          "section": "Over to you · Dictionary-research extensions",
+          "example": "After lunch, I like to lie down for a short rest.",
+          "note": "Dictionary-research extension prompted by Over to you: lie–lay–lain means be or move into a lying position without a direct object. This explanation is additional to the source.",
+          "audio": "",
+          "contentOrigin": "pedagogical-extension"
+        },
+        {
+          "id": "u60-lay",
+          "word": "lay",
+          "pt": "pôr; colocar algo",
+          "ipa": "/leɪ/",
+          "section": "Over to you · Dictionary-research extensions",
+          "example": "Lay the book on the table, please.",
+          "note": "Dictionary-research extension prompted by Over to you: lay–laid–laid usually takes an object, as in lay the book down. Lay is also the past tense of lie (recline).",
+          "audio": "",
+          "contentOrigin": "pedagogical-extension"
+        },
+        {
+          "id": "u60-rise",
+          "word": "rise",
+          "pt": "subir; elevar-se; levantar-se",
+          "ipa": "/raɪz/",
+          "section": "Over to you · Dictionary-research extensions",
+          "example": "The sun rises early in summer.",
+          "note": "Dictionary-research extension prompted by Over to you: rise–rose–risen usually has no direct object; the sun or a price can rise.",
+          "audio": "",
+          "contentOrigin": "pedagogical-extension"
+        },
+        {
+          "id": "u60-raise",
+          "word": "raise",
+          "pt": "levantar; erguer; aumentar algo",
+          "ipa": "/reɪz/",
+          "section": "Over to you · Dictionary-research extensions",
+          "example": "Please raise your hand if you need help.",
+          "note": "Dictionary-research extension prompted by Over to you: raise–raised–raised is usually transitive; someone can raise a hand or raise a price.",
+          "audio": "",
+          "contentOrigin": "pedagogical-extension"
+        }
+      ],
+      "learningObjectives": [
+        "Distinguish quite and quiet in pronunciation, meaning and number of syllables.",
+        "Distinguish lose /luːz/ from loose /luːs/ and contrast loose with tight.",
+        "Recognise fell as the past tense of fall and felt as the past tense of feel.",
+        "Distinguish cook (a person) from cooker (an appliance) and recognise cook as a verb.",
+        "Choose lend or borrow according to who gives and who receives an item; use lend ... to and borrow ... from.",
+        "Use check for examining or verifying and control for directing the operation of something.",
+        "Distinguish wait (remain until something happens), hope (want an outcome) and expect (think an outcome is likely).",
+        "Identify the approximate afternoon, evening and night periods and choose suitable greetings.",
+        "Use a dictionary to research lie–lay–lain versus lay–laid–laid, and rise–rose–risen versus raise–raised–raised; recognise these as additional research tasks."
+      ]
+    }
+  ]
+}
