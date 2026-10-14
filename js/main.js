@@ -1,15 +1,38 @@
 /** Main application UI: study activities, navigation, and progress views. */
 import { playText, getWordPlaybackText, stopAudio, listVoices, configureAudio, getAudioSettings, recognize, browserSupportsRecognition, startRecording, stopRecording } from './audio.js';
-import { install, library, remove, profile, record, mastery, ordered, dueItems, skills, shuffle, same, normalize, downloadJSON, importBackup, makeBackup } from './core.js';
+import { library, remove, profile, record, mastery, ordered, dueItems, skills, shuffle, same, normalize, downloadJSON, importBackup, makeBackup } from './core.js';
+import { loadCatalog, loadCatalogUnit } from './catalog.js';
 const getElement = (selector) => document.querySelector(selector);
 const escapeHtml = (value) => String(value ?? '').replace(/[&<>"']/g, c => ({
     '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
 }[c]));
-let view = 'dashboard', activeUnitId = localStorage.getItem('vocablab.active.v1') || 'unit-03', units = {}, pairs = [], current = null, isAnswerSubmitted = false, session = [], position = 0, listeningMode = 'choice', lessonIndex = 0, pronunciationMode = 'words', minimalPairIndex = 0, minimalPairAnswer = '', recordingUrl = '', recording = false, activeTaskSkill = 'meaning', isReviewSession = false;
+let view = 'dashboard', activeUnitId = localStorage.getItem('vocablab.active.v1') || 'evie-3ed-u01', units = {}, pairs = [], current = null, isAnswerSubmitted = false, session = [], position = 0, listeningMode = 'choice', lessonIndex = 0, pronunciationMode = 'words', minimalPairIndex = 0, minimalPairAnswer = '', recordingUrl = '', recording = false, activeTaskSkill = 'meaning', isReviewSession = false;
 // Display metadata for the main application views.
 const VIEW_METADATA = {
     dashboard: ['YOUR LEARNING SPACE', 'Overview', 'Adaptive vocabulary learning, independent of any textbook.'], learn: ['VOCABULARY', 'Explore & understand', 'Learn meanings, pronunciation, and examples in context.'], listen: ['LISTENING', 'Train your ears', 'Recognize spoken words without relying on text.'], pronounce: ['SPEAKING', 'Pronunciation lab', 'Compare reference audio, practice minimal pairs, and record your voice.'], use: ['ACTIVE VOCABULARY', 'Use & recall', 'Recall words from their meanings and use them in context.'], review: ['ADAPTIVE PRACTICE', 'Review queue', 'Review each skill at the appropriate time.'], library: ['CONTENT MANAGER', 'Unit library', 'Study content from books, lessons, or personal lists.'], progress: ['ANALYTICS', 'Learning progress', 'Track each skill and back up your progress.']
 };
+let catalogEntries = new Map();
+let loadedCatalogUnitId = null;
+function syncUnitsFromLibrary() {
+    units = library(); // Only personal content is stored in localStorage.
+    for (const entry of catalogEntries.values()) {
+        units[entry.id] = { ...entry, source: entry.bookTitle, items: [] };
+    }
+    loadedCatalogUnitId = null;
+}
+async function ensureUnitLoaded(id) {
+    if (!catalogEntries.has(id) || loadedCatalogUnitId === id) return;
+    const data = await loadCatalogUnit(catalogEntries.get(id));
+    if (loadedCatalogUnitId) {
+        const previous = catalogEntries.get(loadedCatalogUnitId);
+        units[previous.id] = { ...previous, source: previous.bookTitle, items: [] };
+    }
+    units[id] = {
+    ...data,
+    bookTitle: catalogEntries.get(id).bookTitle
+};
+    loadedCatalogUnitId = id;
+}
 const unit = () => units[activeUnitId], items = () => unit()?.items || [];
 function toast(t) {
     getElement('#toast').textContent = t;
@@ -34,32 +57,32 @@ function navigate(x) {
     ;
     render();
 }
-function chooseUnit(id) {
-    activeUnitId = id;
-    localStorage.setItem('vocablab.active.v1', id);
-    lessonIndex = 0;
-    navigate('dashboard');
+async function chooseUnit(id) {
+    try {
+        if (!units[id]) throw new Error('Unknown vocabulary unit: ' + id);
+        await ensureUnitLoaded(id);
+        activeUnitId = id;
+        localStorage.setItem('vocablab.active.v1', id);
+        lessonIndex = 0;
+        navigate('dashboard');
+    }
+    catch (error) { toast('Could not open unit: ' + error.message); }
 }
 async function start() {
     try {
-        for (const path of ['data/unit-03.json', 'data/workplace-original.json']) {
-            const response = await fetch(path);
-            if (!response.ok)
-                throw Error('Failed to load ' + path);
-            const seed = await response.json();
-            if (!library()[seed.id])
-                install(seed);
-        }
-        units = library();
-        const r = await fetch('data/minimal-pairs.json');
-        pairs = await r.json();
-        if (!units[activeUnitId])
-            activeUnitId = Object.keys(units)[0];
+        catalogEntries = new Map((await loadCatalog()).map(entry => [entry.id, entry]));
+        syncUnitsFromLibrary();
+        const response = await fetch('data/minimal-pairs.json');
+        if (!response.ok) throw new Error('Could not load pronunciation exercises.');
+        pairs = await response.json();
+        if (!units[activeUnitId]) activeUnitId = catalogEntries.keys().next().value || Object.keys(units)[0];
+        if (!activeUnitId) throw new Error('No vocabulary units are available.');
+        await ensureUnitLoaded(activeUnitId);
         setup();
         render();
     }
-    catch (e) {
-        getElement('#app').innerHTML = `<section class="panel"><h2>Unable to start</h2><p>${escapeHtml(e.message)}</p><p>Start the server with <code>python -m http.server 8085 --bind 127.0.0.1</code> and open http://127.0.0.1:8085.</p></section>`;
+    catch (error) {
+        getElement('#app').innerHTML = `<section class="panel"><h2>Unable to start</h2><p>${escapeHtml(error.message)}</p><p>Run <code>npm run catalog</code>, then start your local server using <code>python -m http.server 8085</code>.</p></section>`;
     }
 }
 function setup() {
@@ -133,7 +156,7 @@ function render() {
 const bar = p => `<div class="meter"><i style="width:${Math.min(100, Math.max(0, Math.round(p * 100)))}%"></i></div>`;
 function dashboard() {
     const xs = items(), due = dueItems(activeUnitId, xs), avg = xs.length ? xs.reduce((a, x) => a + mastery(activeUnitId, x.id), 0) / xs.length : 0;
-    getElement('#app').innerHTML = `<div class="grid"><section class="panel"><span class="label">Active vocabulary</span><div class="stat">${xs.length}</div><p class="hint">${escapeHtml(unit()?.title)}</p></section><section class="panel"><span class="label">Overall mastery</span><div class="stat">${Math.round(avg * 100)}%</div>${bar(avg)}</section><section class="panel"><span class="label">Reviews due</span><div class="stat">${due.length}</div><p class="hint">Skills with scheduled reviews.</p></section></div><div class="cols" style="margin-top:17px"><section class="panel"><h2>Your next session</h2><p>Practice each skill. Priority is based on accuracy, mistakes, and scheduled reviews.</p><div class="grid"><button class="option" id="dashLearn">◫ Learn · meaning</button><button class="option" id="dashListen">◉ Listen · recognition</button><button class="option" id="dashPron">◌ Pronunciation lab</button><button class="option" id="dashReview">↻ Adaptive review (${due.length})</button></div></section><section class="panel"><h3>Installed packages</h3><div class="stat">${Object.keys(units).length}</div><p class="hint">Import new units anytime without editing JavaScript.</p>${button('Manage packages', 'dashLibrary', 'primary')}</section></div>`;
+    getElement('#app').innerHTML = `<div class="grid"><section class="panel"><span class="label">Active vocabulary</span><div class="stat">${xs.length}</div><p class="hint">${escapeHtml(unit()?.title)}</p></section><section class="panel"><span class="label">Overall mastery</span><div class="stat">${Math.round(avg * 100)}%</div>${bar(avg)}</section><section class="panel"><span class="label">Reviews due</span><div class="stat">${due.length}</div><p class="hint">Skills with scheduled reviews.</p></section></div><div class="cols" style="margin-top:17px"><section class="panel"><h2>Your next session</h2><p>Practice each skill. Priority is based on accuracy, mistakes, and scheduled reviews.</p><div class="grid"><button class="option" id="dashLearn">◫ Learn · meaning</button><button class="option" id="dashListen">◉ Listen · recognition</button><button class="option" id="dashPron">◌ Pronunciation lab</button><button class="option" id="dashReview">↻ Adaptive review (${due.length})</button></div></section><section class="panel"><h3>Available units</h3><div class="stat">${Object.keys(units).length}</div><p class="hint">Choose a unit from any available collection.</p>${button('Manage packages', 'dashLibrary', 'primary')}</section></div>`;
     for (const [id, dest] of [['dashLearn', 'learn'], ['dashListen', 'listen'], ['dashPron', 'pronounce'], ['dashReview', 'review'], ['dashLibrary', 'library']])
         getElement('#' + id).onclick = () => navigate(dest);
 }
@@ -430,32 +453,40 @@ function showLibrary() {
     const groups = new Map();
     for (const u of all) {
         const group = u.bookTitle || u.source || 'Personal collections';
-        if (!groups.has(group))
-            groups.set(group, []);
+        if (!groups.has(group)) groups.set(group, []);
         groups.get(group).push(u);
     }
-    getElement('#app').innerHTML = `<section class="panel"><div class="between"><div><h2>Content library</h2><p class="hint">Collections, books, and units, with progress tracked separately by skill.</p></div><div class="buttonrow"><a class="primary" href="packages.html" style="text-decoration:none;display:inline-flex;align-items:center">◈ Content Packages</a></div></div>
- <label style="margin-top:17px">Search for a unit or collection<input id="librarySearch" type="search" placeholder="Ex.: Unit 41, Make, Grammar, Elementary"></label><p class="hint">${all.length} installed units across ${groups.size} collection(s).</p><div id="libraryGroups"></div></section>`;
+    getElement('#app').innerHTML = `<section class="panel"><div class="between"><div><h2>Content library</h2><p class="hint">Select a book and a unit to start studying. Content loads automatically.</p></div><a class="ghost" href="packages.html">Custom JSON packages</a></div><label style="margin-top:17px">Search units or books<input id="librarySearch" type="search" placeholder="e.g. Unit 41, Grammar, Elementary"></label><p class="hint">${all.length} available units across ${groups.size} collections.</p><div id="libraryGroups"></div></section>`;
     const renderCards = () => {
         const q = normalize(getElement('#librarySearch').value);
+        const activeGroup = unit()?.bookTitle || unit()?.source;
         getElement('#libraryGroups').innerHTML = [...groups.entries()].map(([group, collection]) => {
-            const matches = collection.filter(u => !q || normalize(group + ' ' + u.title + ' ' + u.category + ' ' + u.source).includes(q)).sort((a, b) => (a.number ?? 999) - (b.number ?? 999));
-            if (!matches.length)
-                return '';
-            return `<div style="margin:20px 0"><div class="between"><h3>${escapeHtml(group)}</h3><span class="chip">${matches.length} units</span></div><div class="grid">${matches.map(u => `<article class="small-card"><span class="chip">${escapeHtml(u.level)}</span>${['starter-curated-partial', 'expanded-curated-partial'].includes(u.coverage) ? '<span class="pill">Partial curation</span>' : ''}<h3 style="margin-top:13px">${escapeHtml(u.title)}</h3><p class="hint">${u.items.length} items · ${escapeHtml(u.category || u.source || '').slice(0, 100)}</p><div class="buttonrow"><button class="primary" data-open="${escapeHtml(u.id)}">${u.id === activeUnitId ? 'Current' : 'Select'}</button><button class="ghost" data-export="${escapeHtml(u.id)}">Export</button>${!['unit-03', 'workplace-communication'].includes(u.id) ? `<button class="ghost" data-delete="${escapeHtml(u.id)}">Remove</button>` : ''}</div></article>`).join('')}</div></div>`;
-        }).join('') || '<p class="hint">No units match this search.</p>';
-        document.querySelectorAll('[data-open]').forEach(b => b.onclick = () => chooseUnit(b.dataset.open));
-        document.querySelectorAll('[data-export]').forEach(b => b.onclick = () => downloadJSON(units[b.dataset.export], b.dataset.export + '.json'));
-        document.querySelectorAll('[data-delete]').forEach(b => b.onclick = () => {
-            if (confirm('Remove this unit? Its progress will remain available if you import it again.')) {
-                remove(b.dataset.delete);
-                units = library();
-                if (activeUnitId === b.dataset.delete) {
-                    activeUnitId = Object.keys(units)[0] || '';
-                    localStorage.setItem('vocablab.active.v1', activeUnitId);
-                }
-                render();
+            const matches = collection.filter(u => !q || normalize(group + ' ' + u.title + ' ' + u.category + ' ' + u.source).includes(q)).sort((a,b) => (a.number ?? 999) - (b.number ?? 999));
+            if (!matches.length) return '';
+            const open = q || activeGroup === group ? 'open' : '';
+            return `<details ${open} style="margin:16px 0"><summary style="cursor:pointer;padding:12px 2px"><strong>${escapeHtml(group)}</strong> · ${matches.length} units</summary><div class="grid">${matches.map(u => `<article class="small-card"><span class="chip">${escapeHtml(u.level)}</span><h3 style="margin-top:13px">${escapeHtml(u.title)}</h3><p class="hint">${u.itemsCount ?? u.items.length} items · ${escapeHtml(u.category || '').slice(0,100)}</p><div class="buttonrow"><button class="primary" data-open="${escapeHtml(u.id)}">${u.id === activeUnitId ? 'Current' : 'Study'}</button><button class="ghost" data-export="${escapeHtml(u.id)}">Export</button>${catalogEntries.has(u.id) || ['unit-03','workplace-communication'].includes(u.id) ? '' : `<button class="ghost" data-delete="${escapeHtml(u.id)}">Remove</button>`}</div></article>`).join('')}</div></details>`;
+        }).join('') || '<p class="hint">No units found.</p>';
+        document.querySelectorAll('[data-open]').forEach(button => button.onclick = () => chooseUnit(button.dataset.open));
+        document.querySelectorAll('[data-export]').forEach(button => button.onclick = async () => {
+            try {
+                const id = button.dataset.export;
+                const data = catalogEntries.has(id) ? await loadCatalogUnit(catalogEntries.get(id)) : units[id];
+                downloadJSON(data, id + '.json');
+            } catch (error) { toast('Could not export unit: ' + error.message); }
+        });
+        document.querySelectorAll('[data-delete]').forEach(button => button.onclick = async () => {
+            const id = button.dataset.delete;
+            if (catalogEntries.has(id)) return;
+            if (!confirm('Remove this custom unit? Its progress will be retained.')) return;
+            remove(id);
+            syncUnitsFromLibrary();
+            if (id === activeUnitId) {
+                activeUnitId = catalogEntries.keys().next().value || Object.keys(units)[0];
+                if (activeUnitId) await ensureUnitLoaded(activeUnitId);
+            } else if (activeUnitId) {
+                await ensureUnitLoaded(activeUnitId);
             }
+            render();
         });
     };
     getElement('#librarySearch').oninput = renderCards;
@@ -472,8 +503,9 @@ async function importData(e) {
         if (!confirm('Restore this backup and replace the current library and progress?'))
             return;
         importBackup(b);
-        units = library();
-        activeUnitId = units[activeUnitId] ? activeUnitId : Object.keys(units)[0];
+        syncUnitsFromLibrary();
+        activeUnitId = units[activeUnitId] ? activeUnitId : catalogEntries.keys().next().value || Object.keys(units)[0];
+        if (activeUnitId) await ensureUnitLoaded(activeUnitId);
         render();
         toast('Backup restored.');
     }
@@ -489,7 +521,7 @@ function showProgress() {
     getElement('#app').innerHTML = `<div class="grid">${skills.map(s => {
         const attempted = xs.filter(x => profile(activeUnitId, x.id)[s]?.attempts), success = attempted.reduce((a, x) => a + profile(activeUnitId, x.id)[s].success, 0), tries = attempted.reduce((a, x) => a + profile(activeUnitId, x.id)[s].attempts, 0);
         return `<section class="panel"><span class="label">${s}</span><div class="stat">${tries ? Math.round(success / tries * 100) : 0}%</div>${bar(tries ? success / tries : 0)}<p class="hint">${attempted.length} items · ${tries} attempts</p></section>`;
-    }).join('')}</div><section class="panel" style="margin-top:17px"><div class="between"><h2>Progress by word</h2><div class="buttonrow">${button('↓ Full backup', 'backup', 'primary')}${button('↑ Restore backup', 'restore')}${button('Clear progress', 'wipe')}</div></div><div class="table-wrap"><table><thead><tr><th>Item</th><th>Meaning</th><th>Listening</th><th>Pronunciation*</th><th>Usage</th><th>Average</th></tr></thead><tbody>${xs.map(x => `<tr><td><b>${escapeHtml(x.word)}</b><div class="hint">${escapeHtml(x.pt)}</div></td>${skills.map(s => {
+    }).join('')}</div><section class="panel" style="margin-top:17px"><div class="between"><h2>Progress by word</h2><div class="buttonrow">${button('↓ Progress + custom content backup', 'backup', 'primary')}${button('↑ Restore backup', 'restore')}${button('Clear progress', 'wipe')}</div></div><div class="table-wrap"><table><thead><tr><th>Item</th><th>Meaning</th><th>Listening</th><th>Pronunciation*</th><th>Usage</th><th>Average</th></tr></thead><tbody>${xs.map(x => `<tr><td><b>${escapeHtml(x.word)}</b><div class="hint">${escapeHtml(x.pt)}</div></td>${skills.map(s => {
         const p = profile(activeUnitId, x.id)[s];
         return `<td>${p?.attempts ? `${p.success}/${p.attempts}` : '—'}</td>`;
     }).join('')}<td>${Math.round(mastery(activeUnitId, x.id) * 100)}%</td></tr>`).join('')}</tbody></table></div><p class="hint">* Pronunciation records practice, recognition, or self-assessment; it does not measure phonetic accuracy.</p></section>`;
