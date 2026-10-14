@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#121a30">
+  <title>Grammar Lab · VocabLab</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/grammar.css">
+</head>
+<body>
+<div class="layout">
+  <aside class="rail">
+    <div class="logo">◈ <strong>VocabLab</strong><small>LANGUAGE LEARNING STUDIO</small></div>
+    <nav aria-label="Grammar navigation">
+      <a class="rail-package-link" href="index.html">↩ <span>Vocabulary Lab</span></a>
+      <button type="button" class="selected" data-nav="library">▤ <span>Grammar lessons</span></button>
+      <button type="button" data-nav="lesson">▣ <span>Current lesson</span></button>
+      <button type="button" data-nav="progress">▥ <span>Grammar progress</span></button>
+    </nav>
+    <div class="rail-foot">Practice grammar through explanations, correction and spaced review.</div>
+  </aside>
+  <div class="workspace">
+    <header class="top">
+      <div><span class="eyebrow">ACTIVE MODULE</span><strong>Grammar Lab</strong></div>
+      <div class="top-actions"><a class="ghost grammar-link" href="index.html">Vocabulary Lab ↗</a></div>
+    </header>
+    <main>
+      <div class="page-head">
+        <div><div class="eyebrow" id="subtitle">GRAMMAR · A1–C2</div><h1 id="title">Grammar Lab</h1><p id="description">Learn the rules, practise the patterns, and review your mistakes.</p></div>
+        <span class="counter" id="unitChip">PILOT</span>
+      </div>
+      <div id="app" aria-live="polite"><section class="panel"><p>Loading grammar lessons…</p></section></div>
+      <footer>Original practice examples. Progress stays in your browser and is separate from vocabulary progress.</footer>
+    </main>
+  </div>
+</div>
+<script type="module" src="js/grammar/main.js"></script>
+</body>
+</html>

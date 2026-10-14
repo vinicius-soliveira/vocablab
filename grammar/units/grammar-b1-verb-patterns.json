@@ -1,0 +1,211 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "grammar-b1-verb-patterns",
+  "title": "Verb Patterns: Gerunds and Infinitives",
+  "level": "B1",
+  "topicId": "gerunds-infinitives",
+  "summary": "Choose -ing forms or to-infinitives after common verbs, adjectives and prepositions.",
+  "explanation": [
+    {
+      "heading": "Gerunds after certain verbs",
+      "body": "Some verbs, such as enjoy, avoid and suggest, are usually followed by an -ing form.",
+      "example": "I enjoy learning new programming languages."
+    },
+    {
+      "heading": "To-infinitives after certain verbs",
+      "body": "Verbs such as decide, agree and want are typically followed by to + base verb.",
+      "example": "We decided to redesign the interface."
+    },
+    {
+      "heading": "After prepositions",
+      "body": "When a verb follows a preposition, use its -ing form. The to in look forward to is a preposition, not an infinitive marker.",
+      "example": "I look forward to hearing from you."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "vp-01",
+      "type": "multiple-choice",
+      "prompt": "I enjoy ___ new tools.",
+      "feedback": "Enjoy is normally followed by the -ing form.",
+      "choices": [
+        "to use",
+        "using",
+        "use"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "vp-02",
+      "type": "multiple-choice",
+      "prompt": "She decided ___ a break.",
+      "feedback": "Decide is followed by a to-infinitive.",
+      "choices": [
+        "take",
+        "taking",
+        "to take"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": "vp-03",
+      "type": "multiple-choice",
+      "prompt": "I'm looking forward to ___ from you.",
+      "feedback": "Look forward to ends in a preposition, followed by a gerund.",
+      "choices": [
+        "hear",
+        "hearing",
+        "to hear"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "vp-04",
+      "type": "gap-fill",
+      "prompt": "We avoided ___ (repeat) the same mistake.",
+      "feedback": "Avoid takes an -ing form.",
+      "acceptedAnswers": [
+        "repeating"
+      ]
+    },
+    {
+      "id": "vp-05",
+      "type": "gap-fill",
+      "prompt": "I agreed ___ (help) with testing.",
+      "feedback": "Agree is followed by a to-infinitive.",
+      "acceptedAnswers": [
+        "to help"
+      ]
+    },
+    {
+      "id": "vp-06",
+      "type": "gap-fill",
+      "prompt": "He's interested in ___ (learn) Verilog.",
+      "feedback": "A verb following the preposition in takes the -ing form.",
+      "acceptedAnswers": [
+        "learning"
+      ]
+    },
+    {
+      "id": "vp-07",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: They suggested to postpone the meeting.",
+      "feedback": "Suggest can be followed by a gerund: suggested postponing.",
+      "acceptedAnswers": [
+        "They suggested postponing the meeting."
+      ]
+    },
+    {
+      "id": "vp-08",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I want learning more about FPGAs.",
+      "feedback": "Want is followed by a to-infinitive.",
+      "acceptedAnswers": [
+        "I want to learn more about FPGAs."
+      ]
+    },
+    {
+      "id": "vp-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She is good at to explain complex ideas.",
+      "feedback": "After at, use the -ing form.",
+      "acceptedAnswers": [
+        "She is good at explaining complex ideas."
+      ]
+    },
+    {
+      "id": "vp-10",
+      "type": "multiple-choice",
+      "prompt": "They postponed ___ the prototype.",
+      "choices": [
+        "to ship",
+        "shipping",
+        "ship"
+      ],
+      "answerIndex": 1,
+      "feedback": "Postpone is followed by a gerund."
+    },
+    {
+      "id": "vp-11",
+      "type": "gap-fill",
+      "prompt": "We hope ___ (finish) before Friday.",
+      "acceptedAnswers": [
+        "to finish"
+      ],
+      "feedback": "Hope commonly takes a to-infinitive."
+    },
+    {
+      "id": "vp-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I look forward to discuss the results.",
+      "acceptedAnswers": [
+        "I look forward to discussing the results."
+      ],
+      "feedback": "Look forward to is followed by a gerund."
+    }
+  ],
+  "learningObjectives": [
+    "Identify common verbs followed by -ing or to-infinitive.",
+    "Use -ing after prepositions, including look forward to.",
+    "Correct frequent verb-pattern mistakes."
+  ],
+  "comparisons": [
+    {
+      "title": "Verb complements",
+      "left": {
+        "label": "Verb + -ing",
+        "example": "We enjoy designing circuits.",
+        "note": "Enjoy is followed by the -ing form."
+      },
+      "right": {
+        "label": "Verb + to-infinitive",
+        "example": "We decided to redesign the board.",
+        "note": "Decide is followed by to + base verb."
+      }
+    },
+    {
+      "title": "Two meanings of to",
+      "left": {
+        "label": "Infinitive marker",
+        "example": "I want to learn.",
+        "note": "To is part of the infinitive."
+      },
+      "right": {
+        "label": "Preposition",
+        "example": "I look forward to learning.",
+        "note": "A preposition is followed by -ing."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She avoided making the same mistake.",
+      "note": "Avoid takes a gerund."
+    },
+    {
+      "sentence": "They agreed to test the new firmware.",
+      "note": "Agree takes a to-infinitive."
+    },
+    {
+      "sentence": "He is interested in learning more.",
+      "note": "Prepositions such as in take a noun or -ing form."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I suggest to review the code.",
+      "correct": "I suggest reviewing the code.",
+      "why": "Suggest is normally followed by -ing when there is no object clause."
+    },
+    {
+      "incorrect": "I am looking forward to meet you.",
+      "correct": "I am looking forward to meeting you.",
+      "why": "To in this expression is a preposition."
+    }
+  ],
+  "studyTips": [
+    "Learn verb patterns together with a complete phrase, not as isolated rules.",
+    "For verbs whose meaning changes with the complement, study each usage separately."
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "grammar-b2-relative-clauses",
+  "title": "Relative Clauses: Defining and Non-defining",
+  "level": "B2",
+  "topicId": "relative-clauses",
+  "summary": "Add identifying or extra information without producing ambiguous sentences.",
+  "learningObjectives": [
+    "Use who, which, that and whose appropriately.",
+    "Distinguish defining and non-defining clauses.",
+    "Apply commas and relative-pronoun restrictions."
+  ],
+  "explanation": [
+    {
+      "heading": "Defining clauses",
+      "body": "A defining clause identifies the person or thing; it usually has no commas.",
+      "example": "The sensor that failed was replaced."
+    },
+    {
+      "heading": "Non-defining clauses",
+      "body": "A non-defining clause adds extra information and uses commas; that is not normally used.",
+      "example": "The sensor, which arrived yesterday, is faulty."
+    },
+    {
+      "heading": "Whose and omissions",
+      "body": "Whose expresses possession; an object relative pronoun may be omitted in a defining clause.",
+      "example": "The engineer whose laptop broke called us."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Essential vs additional",
+      "left": {
+        "label": "Defining",
+        "example": "The laptop that I bought is fast.",
+        "note": "Specifies which laptop."
+      },
+      "right": {
+        "label": "Non-defining",
+        "example": "My laptop, which I bought last year, is fast.",
+        "note": "Adds extra information about an identified laptop."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The colleague who called you is here.",
+      "note": "Who identifies a person."
+    },
+    {
+      "sentence": "The connector that we ordered has arrived.",
+      "note": "That is used in a defining clause."
+    },
+    {
+      "sentence": "The laboratory, which opened last year, is expanding.",
+      "note": "Non-defining information is enclosed by commas."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "My boss, that lives nearby, called.",
+      "correct": "My boss, who lives nearby, called.",
+      "why": "That is not used in standard non-defining relatives."
+    },
+    {
+      "incorrect": "The engineer which called is here.",
+      "correct": "The engineer who called is here.",
+      "why": "Who is the usual relative pronoun for people."
+    }
+  ],
+  "studyTips": [
+    "If removing the clause changes which noun you mean, it is probably defining.",
+    "Non-defining relative clauses require careful comma placement."
+  ],
+  "exercises": [
+    {
+      "id": "rc-01",
+      "type": "multiple-choice",
+      "prompt": "The engineer ___ designed the board is here.",
+      "choices": [
+        "which",
+        "who",
+        "whose"
+      ],
+      "answerIndex": 1,
+      "feedback": "Who introduces a relative clause about a person."
+    },
+    {
+      "id": "rc-02",
+      "type": "multiple-choice",
+      "prompt": "The controller, ___ we ordered last week, has arrived.",
+      "choices": [
+        "that",
+        "which",
+        "whose"
+      ],
+      "answerIndex": 1,
+      "feedback": "Which is used in non-defining clauses."
+    },
+    {
+      "id": "rc-03",
+      "type": "multiple-choice",
+      "prompt": "I met the engineer ___ team won the award.",
+      "choices": [
+        "whose",
+        "which",
+        "whom team"
+      ],
+      "answerIndex": 0,
+      "feedback": "Whose expresses a possessive relationship."
+    },
+    {
+      "id": "rc-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the natural defining clause.",
+      "choices": [
+        "The firmware, that failed, was replaced.",
+        "The firmware that failed was replaced.",
+        "The firmware which, failed was replaced."
+      ],
+      "answerIndex": 1,
+      "feedback": "Defining clauses normally omit surrounding commas."
+    },
+    {
+      "id": "rc-05",
+      "type": "gap-fill",
+      "prompt": "The person ___ helped me is on leave.",
+      "acceptedAnswers": [
+        "who",
+        "that"
+      ],
+      "feedback": "Who and that can refer to people in defining relative clauses."
+    },
+    {
+      "id": "rc-06",
+      "type": "gap-fill",
+      "prompt": "The device, ___ was installed yesterday, has stopped working.",
+      "acceptedAnswers": [
+        "which"
+      ],
+      "feedback": "Use which with a non-defining clause."
+    },
+    {
+      "id": "rc-07",
+      "type": "gap-fill",
+      "prompt": "The designer ___ prototype won is presenting today.",
+      "acceptedAnswers": [
+        "whose"
+      ],
+      "feedback": "Whose links the designer to the prototype."
+    },
+    {
+      "id": "rc-08",
+      "type": "gap-fill",
+      "prompt": "The document ___ I requested is ready.",
+      "acceptedAnswers": [
+        "that",
+        "which"
+      ],
+      "feedback": "In a defining clause, which and that can both refer to the document."
+    },
+    {
+      "id": "rc-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My sister, that lives in Recife, is visiting.",
+      "acceptedAnswers": [
+        "My sister, who lives in Recife, is visiting."
+      ],
+      "feedback": "Use who, not that, in a non-defining clause about a person."
+    },
+    {
+      "id": "rc-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The operator which called you is here.",
+      "acceptedAnswers": [
+        "The operator who called you is here."
+      ],
+      "feedback": "Use who for a person."
+    },
+    {
+      "id": "rc-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The instrument who failed is under repair.",
+      "acceptedAnswers": [
+        "The instrument that failed is under repair.",
+        "The instrument which failed is under repair."
+      ],
+      "feedback": "Use which or that for a thing in a defining clause."
+    },
+    {
+      "id": "rc-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The company which headquarters are in Brazil is hiring.",
+      "acceptedAnswers": [
+        "The company whose headquarters are in Brazil is hiring."
+      ],
+      "feedback": "Whose expresses possession for organizations as well as people."
+    }
+  ]
+}
