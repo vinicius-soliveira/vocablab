@@ -155,10 +155,10 @@ function render() {
 }
 const bar = p => `<div class="meter"><i style="width:${Math.min(100, Math.max(0, Math.round(p * 100)))}%"></i></div>`;
 function dashboard() {
-    const xs = items(), due = dueItems(activeUnitId, xs), avg = xs.length ? xs.reduce((a, x) => a + mastery(activeUnitId, x.id), 0) / xs.length : 0;
-    getElement('#app').innerHTML = `<div class="grid"><section class="panel"><span class="label">Active vocabulary</span><div class="stat">${xs.length}</div><p class="hint">${escapeHtml(unit()?.title)}</p></section><section class="panel"><span class="label">Overall mastery</span><div class="stat">${Math.round(avg * 100)}%</div>${bar(avg)}</section><section class="panel"><span class="label">Reviews due</span><div class="stat">${due.length}</div><p class="hint">Skills with scheduled reviews.</p></section></div><div class="cols" style="margin-top:17px"><section class="panel"><h2>Your next session</h2><p>Practice each skill. Priority is based on accuracy, mistakes, and scheduled reviews.</p><div class="grid"><button class="option" id="dashLearn">◫ Learn · meaning</button><button class="option" id="dashListen">◉ Listen · recognition</button><button class="option" id="dashPron">◌ Pronunciation lab</button><button class="option" id="dashReview">↻ Adaptive review (${due.length})</button></div></section><section class="panel"><h3>Available units</h3><div class="stat">${Object.keys(units).length}</div><p class="hint">Choose a unit from any available collection.</p>${button('Manage packages', 'dashLibrary', 'primary')}</section></div>`;
+    const xs = items(), due = dueItems(activeUnitId, xs).filter(t => t.skill !== 'pronunciation'), avg = xs.length ? xs.reduce((a, x) => a + mastery(activeUnitId, x.id), 0) / xs.length : 0;
+    getElement('#app').innerHTML = `<div class="grid"><section class="panel"><span class="label">Active vocabulary</span><div class="stat">${xs.length}</div><p class="hint">${escapeHtml(unit()?.title)}</p></section><section class="panel"><span class="label">Historical mastery*</span><div class="stat">${Math.round(avg * 100)}%</div>${bar(avg)}</section><section class="panel"><span class="label">Reviews due</span><div class="stat">${due.length}</div><p class="hint">Meaning, listening and usage reviews. Pronunciation review is in Pronunciation Lab 2.0.</p></section></div><div class="cols" style="margin-top:17px"><section class="panel"><h2>Your next session</h2><p>Practice each skill. Priority is based on accuracy, mistakes, and scheduled reviews.</p><div class="grid"><button class="option" id="dashLearn">◫ Learn · meaning</button><button class="option" id="dashListen">◉ Listen · recognition</button><button class="option" id="dashPron">◌ Pronunciation lab</button><button class="option" id="dashReview">↻ Adaptive review (${due.length})</button></div></section><section class="panel"><h3>Available units</h3><div class="stat">${Object.keys(units).length}</div><p class="hint">Choose a unit from any available collection.</p>${button('Manage packages', 'dashLibrary', 'primary')}</section></div>`;
     for (const [id, dest] of [['dashLearn', 'learn'], ['dashListen', 'listen'], ['dashPron', 'pronounce'], ['dashReview', 'review'], ['dashLibrary', 'library']])
-        getElement('#' + id).onclick = () => navigate(dest);
+        getElement('#' + id).onclick = () => dest === 'pronounce' ? window.location.assign('pronunciation.html') : navigate(dest);
 }
 /** Exclude grammatical templates from exact-transcription exercises. */
 function canDictate(item) {
@@ -244,7 +244,7 @@ function finish(x, skill, ok, content, verified = true) {
     if (isAnswerSubmitted)
         return;
     isAnswerSubmitted = true;
-    record(activeUnitId, x.id, skill, ok, verified);
+    if (skill !== 'pronunciation') record(activeUnitId, x.id, skill, ok, verified);
     getElement('#result').innerHTML = response(content, ok);
     getElement('#next').onclick = () => nextSession();
 }
@@ -403,7 +403,7 @@ function pronounce() {
 }
 function review() {
     if (!session.length) {
-        session = dueItems(activeUnitId, items()).filter((task) => task.skill !== 'listening' || canDictate(task.item));
+        session = dueItems(activeUnitId, items()).filter((task) => task.skill !== 'pronunciation' && (task.skill !== 'listening' || canDictate(task.item)));
         position = 0;
         isAnswerSubmitted = false;
     }
