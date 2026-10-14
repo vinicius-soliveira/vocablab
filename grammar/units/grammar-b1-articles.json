@@ -1,0 +1,198 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "grammar-b1-articles",
+  "title": "Articles: A, An, The and Zero Article",
+  "level": "B1",
+  "topicId": "articles",
+  "summary": "Select articles using countability, first mention, and shared reference.",
+  "learningObjectives": [
+    "Use a/an for singular countable nouns introduced for the first time.",
+    "Use the for identifiable references.",
+    "Recognize general plural and uncountable nouns without an article."
+  ],
+  "explanation": [
+    {
+      "heading": "Indefinite articles",
+      "body": "A/an introduces one nonspecific singular countable noun; the choice follows sound, not spelling.",
+      "example": "We need an oscilloscope and a USB cable."
+    },
+    {
+      "heading": "Definite article",
+      "body": "The identifies something understood by the listener, including a second mention.",
+      "example": "I found a sensor. The sensor was faulty."
+    },
+    {
+      "heading": "Zero article",
+      "body": "General plural and uncountable nouns often have no article.",
+      "example": "Engineers need reliable equipment."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "General vs specific",
+      "left": {
+        "label": "No article",
+        "example": "Software requires testing.",
+        "note": "Uncountable software in general."
+      },
+      "right": {
+        "label": "The",
+        "example": "The software on this board needs testing.",
+        "note": "A specific program is identified."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "She is an engineer.",
+      "note": "An is chosen before a vowel sound."
+    },
+    {
+      "sentence": "Could you pass me the screwdriver on the table?",
+      "note": "The phrase identifies a particular tool."
+    },
+    {
+      "sentence": "Safety is important.",
+      "note": "An abstract uncountable noun is used generally."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "She is engineer.",
+      "correct": "She is an engineer.",
+      "why": "Singular countable occupations require a determiner."
+    },
+    {
+      "incorrect": "We bought an new sensor.",
+      "correct": "We bought a new sensor.",
+      "why": "New starts with a consonant sound."
+    }
+  ],
+  "studyTips": [
+    "When unsure, ask whether the noun is singular and countable.",
+    "Check whether the listener can identify the particular thing."
+  ],
+  "exercises": [
+    {
+      "id": "ar-01",
+      "type": "multiple-choice",
+      "prompt": "She is ___ embedded software engineer.",
+      "choices": [
+        "a",
+        "an",
+        "the"
+      ],
+      "answerIndex": 1,
+      "feedback": "Embedded begins with a vowel sound."
+    },
+    {
+      "id": "ar-02",
+      "type": "multiple-choice",
+      "prompt": "I found a connector. ___ connector was damaged.",
+      "choices": [
+        "A",
+        "The",
+        "An"
+      ],
+      "answerIndex": 1,
+      "feedback": "Second mention makes the connector identifiable."
+    },
+    {
+      "id": "ar-03",
+      "type": "multiple-choice",
+      "prompt": "___ information in this email is confidential.",
+      "choices": [
+        "An",
+        "A",
+        "The"
+      ],
+      "answerIndex": 2,
+      "feedback": "The following phrase identifies specific information."
+    },
+    {
+      "id": "ar-04",
+      "type": "multiple-choice",
+      "prompt": "We need ___ USB adapter.",
+      "choices": [
+        "an",
+        "a",
+        "some an"
+      ],
+      "answerIndex": 1,
+      "feedback": "USB starts with the /juː/ consonant sound."
+    },
+    {
+      "id": "ar-05",
+      "type": "gap-fill",
+      "prompt": "She designed ___ new interface.",
+      "acceptedAnswers": [
+        "a"
+      ],
+      "feedback": "A singular countable noun first mentioned takes a."
+    },
+    {
+      "id": "ar-06",
+      "type": "gap-fill",
+      "prompt": "I checked ___ report you sent me.",
+      "acceptedAnswers": [
+        "the"
+      ],
+      "feedback": "The relative clause identifies the report."
+    },
+    {
+      "id": "ar-07",
+      "type": "gap-fill",
+      "prompt": "He is ___ experienced technician.",
+      "acceptedAnswers": [
+        "an"
+      ],
+      "feedback": "Experienced begins with a vowel sound."
+    },
+    {
+      "id": "ar-08",
+      "type": "gap-fill",
+      "prompt": "This is ___ first test of the day.",
+      "acceptedAnswers": [
+        "the"
+      ],
+      "feedback": "Ordinals such as first normally use the definite article."
+    },
+    {
+      "id": "ar-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She is electrical engineer.",
+      "acceptedAnswers": [
+        "She is an electrical engineer."
+      ],
+      "feedback": "A singular countable job title needs an article."
+    },
+    {
+      "id": "ar-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I need an USB cable.",
+      "acceptedAnswers": [
+        "I need a USB cable."
+      ],
+      "feedback": "USB begins with a /j/ sound."
+    },
+    {
+      "id": "ar-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We ordered a equipment yesterday.",
+      "acceptedAnswers": [
+        "We ordered equipment yesterday."
+      ],
+      "feedback": "Equipment is an uncountable noun."
+    },
+    {
+      "id": "ar-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: He sent me report you requested.",
+      "acceptedAnswers": [
+        "He sent me the report you requested."
+      ],
+      "feedback": "The identifying clause specifies which report."
+    }
+  ]
+}

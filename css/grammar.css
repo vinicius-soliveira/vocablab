@@ -1,0 +1,55 @@
+/* Small Grammar Lab layer on top of the existing VocabLab stylesheet. */
+.grammar-link { display:inline-flex; align-items:center; text-decoration:none; font-size:13px; }
+.grammar-section { margin-bottom:15px; }
+.grammar-section p { margin:0; }
+.grammar-example { background:#f3f0ff; border-left:3px solid #8074dc; padding:12px 15px; margin-top:11px; border-radius:0 9px 9px 0; color:#3c3566; }
+.grammar-question { margin:14px 0 20px; padding:19px; border-radius:13px; background:#f5f6fc; color:#1e2940; font-size:20px; font-weight:650; line-height:1.6; white-space:pre-wrap; }
+.grammar-options { display:grid; gap:10px; }
+.grammar-choice { display:flex; align-items:flex-start; gap:10px; border:1px solid #dce1ee; border-radius:11px; padding:13px; cursor:pointer; background:#fff; }
+.grammar-choice:has(input:checked) { background:#f3efff; border-color:#9383dd; }
+.grammar-choice input { margin-top:3px; accent-color:#6958d8; }
+.grammar-answer { width:100%; max-width:690px; font-size:16px; }
+.grammar-progress-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(160px,1fr)); gap:12px; }
+.grammar-progress-grid .small-card strong { display:block; font-size:24px; margin-top:5px; }
+.grammar-toolbar { display:flex; flex-wrap:wrap; gap:10px; align-items:center; justify-content:space-between; }
+.grammar-feedback { margin-top:17px; }
+.grammar-card { display:flex; flex-direction:column; gap:6px; }
+.grammar-card .buttonrow { margin-top:auto; padding-top:10px; }
+.grammar-topic { display:flex; flex-wrap:wrap; align-items:center; gap:8px; margin-bottom:15px; }
+.grammar-note { font-size:13px; color:#697890; }
+.grammar-actions { margin-top:18px; }
+.grammar-link-button { text-decoration:none; display:inline-block; }
+.grammar-current { color:#51439c; font-weight:700; }
+.rail nav button[data-nav] { text-align:left; }
+@media(max-width:900px) { .rail nav button[data-nav] span {display:none;} }
+@media(max-width:550px) { .grammar-question {font-size:17px; padding:13px;} .grammar-link {font-size:11px;} }
+/* Extended teaching materials and catalog controls. */
+.grammar-lesson-block h2 { margin-bottom:16px; }
+.grammar-bullets { padding-left:21px; margin:4px 0; color:#40516b; line-height:1.7; }
+.grammar-bullets li+li {margin-top:9px;}
+.grammar-section {display:flex; align-items:flex-start; gap:12px; margin:0; padding:17px 0; border-bottom:1px solid var(--line);}
+.grammar-section:last-child {border-bottom:0; padding-bottom:0;}
+.grammar-number {background:#eeeaff;color:#5d4dbc;font-size:12px;font-weight:800;padding:6px 10px;border-radius:9px;flex-shrink:0;}
+.grammar-section p {color:#51627c;line-height:1.7;}
+.grammar-comparison {margin:18px 0 24px;}
+.grammar-comparison:last-child {margin-bottom:0;}
+.grammar-comparison h3 {font-size:15px;margin:0 0 10px;}
+.grammar-compare-grid {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;}
+.grammar-compare-side {background:#f7f8fc;border:1px solid var(--line);border-radius:12px;padding:16px;min-width:0;}
+.grammar-compare-side strong {display:block;margin:12px 0 8px;color:#2b3656;line-height:1.5;overflow-wrap:anywhere;}
+.grammar-compare-side p {margin:0;}
+.grammar-example-list {display:grid;gap:11px;}
+.grammar-example-item {padding:14px 16px;border:1px solid var(--line);border-radius:11px;background:#f9faff;}
+.grammar-example-item strong {font-size:15px;color:#283b56;line-height:1.5;}
+.grammar-example-item p {margin:7px 0 0;}
+.grammar-mistakes {display:grid;gap:13px;}
+.grammar-mistake {display:grid;grid-template-columns:repeat(2,minmax(0,1fr));column-gap:12px;row-gap:4px;border:1px solid var(--line);padding:15px;border-radius:12px;}
+.grammar-mistake>div {min-width:0;}
+.grammar-mistake>div p {color:#283b56;margin:7px 0 0;overflow-wrap:anywhere;}
+.grammar-mistake>.hint {grid-column:1/-1;margin:7px 0 0;}
+.grammar-error-label,.grammar-correct-label {font-size:11px;letter-spacing:.5px;font-weight:800;text-transform:uppercase;}
+.grammar-error-label {color:#aa5649;}.grammar-correct-label {color:#287b5a;}
+.grammar-filters {display:grid;grid-template-columns:minmax(0,1fr) 150px;gap:12px;margin:17px 0 20px;}
+.grammar-card[hidden],#grammarNoResults[hidden] {display:none!important;}
+.grammar-text-button {background:none;border:0;padding:0;color:#6251c1;font-weight:700;text-align:left;text-decoration:underline;text-underline-offset:3px;}
+@media(max-width:640px) {.grammar-compare-grid,.grammar-mistake,.grammar-filters {grid-template-columns:1fr;} .grammar-mistake>.hint {grid-column:1;}}

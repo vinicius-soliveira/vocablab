@@ -1,0 +1,215 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "grammar-b2-conditionals",
+  "title": "Conditionals: Real and Hypothetical",
+  "level": "B2",
+  "topicId": "conditionals",
+  "summary": "Practise first, second and third conditionals and distinguish real possibilities from imagined situations.",
+  "explanation": [
+    {
+      "heading": "First conditional: real possibilities",
+      "body": "Use if + present simple, followed by will + base verb, for possible future results.",
+      "example": "If the tests pass, we will release the update."
+    },
+    {
+      "heading": "Second conditional: hypothetical present",
+      "body": "Use if + past simple and would + base verb for unreal or unlikely present/future situations.",
+      "example": "If I had more time, I would study another language."
+    },
+    {
+      "heading": "Third conditional: unreal past",
+      "body": "Use if + past perfect and would have + past participle to imagine an alternative past result.",
+      "example": "If we had tested earlier, we would have found the bug."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "co-01",
+      "type": "multiple-choice",
+      "prompt": "If I had more time, I ___ Japanese.",
+      "feedback": "Second conditional uses would + base verb for an imagined present situation.",
+      "choices": [
+        "will study",
+        "would study",
+        "would have studied"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "id": "co-02",
+      "type": "multiple-choice",
+      "prompt": "If it rains tomorrow, we ___ indoors.",
+      "feedback": "First conditional: if + present simple, then will + base verb.",
+      "choices": [
+        "would stay",
+        "stayed",
+        "will stay"
+      ],
+      "answerIndex": 2
+    },
+    {
+      "id": "co-03",
+      "type": "multiple-choice",
+      "prompt": "If I had known about the issue, I ___ you.",
+      "feedback": "Third conditional: would have + past participle.",
+      "choices": [
+        "would have called",
+        "will call",
+        "would call"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "id": "co-04",
+      "type": "gap-fill",
+      "prompt": "If she ___ (be) free tomorrow, she will join us.",
+      "feedback": "A first conditional uses present simple after if.",
+      "acceptedAnswers": [
+        "is"
+      ]
+    },
+    {
+      "id": "co-05",
+      "type": "gap-fill",
+      "prompt": "If we ___ (test) the system earlier, we'd have found the bug.",
+      "feedback": "Third conditional requires past perfect in the if-clause.",
+      "acceptedAnswers": [
+        "had tested"
+      ]
+    },
+    {
+      "id": "co-06",
+      "type": "gap-fill",
+      "prompt": "If I ___ (be) you, I'd check the logs.",
+      "feedback": "Were is standard in formal hypothetical advice; was is also used informally.",
+      "acceptedAnswers": [
+        "were",
+        "was"
+      ]
+    },
+    {
+      "id": "co-07",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: If I will see him, I will tell him.",
+      "feedback": "The if-clause normally uses present simple in a first conditional.",
+      "acceptedAnswers": [
+        "If I see him, I will tell him.",
+        "If I see him, I'll tell him."
+      ]
+    },
+    {
+      "id": "co-08",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: If they had left earlier, they would arrive on time yesterday.",
+      "feedback": "An unreal past result uses would have + past participle.",
+      "acceptedAnswers": [
+        "If they had left earlier, they would have arrived on time yesterday.",
+        "If they'd left earlier, they would have arrived on time yesterday."
+      ]
+    },
+    {
+      "id": "co-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: If you heat water to 100°C at sea level, it will boils.",
+      "feedback": "The zero conditional uses present simple; a first conditional can also use will boil.",
+      "acceptedAnswers": [
+        "If you heat water to 100°C at sea level, it boils.",
+        "If you heat water to 100°C at sea level, it will boil."
+      ]
+    },
+    {
+      "id": "co-10",
+      "type": "multiple-choice",
+      "prompt": "If water reaches its boiling point under constant pressure, it ___.",
+      "choices": [
+        "boils",
+        "would boil",
+        "had boiled"
+      ],
+      "answerIndex": 0,
+      "feedback": "Zero conditional expresses a general scientific result."
+    },
+    {
+      "id": "co-11",
+      "type": "gap-fill",
+      "prompt": "If the supplier called today, we ___ (ask) for an update.",
+      "acceptedAnswers": [
+        "would ask"
+      ],
+      "feedback": "Second conditional uses would + base verb in the result clause."
+    },
+    {
+      "id": "co-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: If I had studied more, I would pass the exam last week.",
+      "acceptedAnswers": [
+        "If I had studied more, I would have passed the exam last week."
+      ],
+      "feedback": "An unreal past result requires would have + past participle."
+    }
+  ],
+  "learningObjectives": [
+    "Choose zero, first, second, and third conditional patterns.",
+    "Separate real possibilities from hypothetical situations.",
+    "Express unreal past results accurately."
+  ],
+  "comparisons": [
+    {
+      "title": "Likely vs hypothetical future",
+      "left": {
+        "label": "First conditional",
+        "example": "If the test passes, we will deploy.",
+        "note": "A real future possibility."
+      },
+      "right": {
+        "label": "Second conditional",
+        "example": "If the test passed, we would deploy.",
+        "note": "An imagined or unlikely situation."
+      }
+    },
+    {
+      "title": "Present vs past unreal situations",
+      "left": {
+        "label": "Second conditional",
+        "example": "If I had more time, I would study.",
+        "note": "An unreal situation now."
+      },
+      "right": {
+        "label": "Third conditional",
+        "example": "If I had had more time, I would have studied.",
+        "note": "An unreal situation in the past."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "If you press Reset, the controller restarts.",
+      "note": "Zero conditional: a general consequence."
+    },
+    {
+      "sentence": "If she calls, I will answer.",
+      "note": "First conditional: a real future possibility."
+    },
+    {
+      "sentence": "If we had tested it, we would have found the bug.",
+      "note": "Third conditional: an unreal past result."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "If I will have time, I will call you.",
+      "correct": "If I have time, I will call you.",
+      "why": "Use present simple in a standard first-conditional if-clause."
+    },
+    {
+      "incorrect": "If I had known, I would tell you yesterday.",
+      "correct": "If I had known, I would have told you yesterday.",
+      "why": "Third conditional requires would have + past participle in the result."
+    }
+  ],
+  "studyTips": [
+    "Choose the meaning first: fact, real future, imaginary present, or imaginary past.",
+    "The if-clause and main clause may appear in either order."
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "grammar-b1-past-simple-present-perfect",
+  "title": "Past Simple vs Present Perfect",
+  "level": "B1",
+  "topicId": "past-vs-present-perfect",
+  "summary": "Choose a tense by deciding whether the time is finished or remains relevant now.",
+  "learningObjectives": [
+    "Contrast finished past events and life experiences.",
+    "Select suitable time expressions.",
+    "Use present perfect for a current result."
+  ],
+  "explanation": [
+    {
+      "heading": "Past simple",
+      "body": "Use past simple for completed events located in a finished past period.",
+      "example": "We repaired the server on Tuesday."
+    },
+    {
+      "heading": "Present perfect",
+      "body": "Use have/has + past participle for experience or a present result when the event time is not specified.",
+      "example": "I have repaired this kind of fault before."
+    },
+    {
+      "heading": "Time expressions",
+      "body": "Finished periods often take past simple; so far, yet and ever commonly signal a present connection.",
+      "example": "We completed three tests last week, and we have completed two so far this week."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Finished vs unfinished",
+      "left": {
+        "label": "Past simple",
+        "example": "I visited London in 2022.",
+        "note": "2022 is a completed time period."
+      },
+      "right": {
+        "label": "Present perfect",
+        "example": "I have visited London twice.",
+        "note": "No specific finished time is given."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I lost my badge yesterday.",
+      "note": "The loss happened at a specified finished time."
+    },
+    {
+      "sentence": "I have lost my badge.",
+      "note": "The badge is missing now."
+    },
+    {
+      "sentence": "Did you see the message this morning?",
+      "note": "Appropriate if the speaker treats the morning as finished."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I have arrived last night.",
+      "correct": "I arrived last night.",
+      "why": "Last night places the event in completed past time."
+    },
+    {
+      "incorrect": "Did you ever try this tool?",
+      "correct": "Have you ever tried this tool?",
+      "why": "This asks about life experience without a specified time; the present perfect is the standard taught form."
+    }
+  ],
+  "studyTips": [
+    "Check whether a time marker is finished before choosing a tense.",
+    "Context can affect whether a period such as today is treated as finished."
+  ],
+  "exercises": [
+    {
+      "id": "psp-01",
+      "type": "multiple-choice",
+      "prompt": "I ___ the supplier yesterday.",
+      "choices": [
+        "have called",
+        "called",
+        "had calling"
+      ],
+      "answerIndex": 1,
+      "feedback": "Yesterday is a finished time reference."
+    },
+    {
+      "id": "psp-02",
+      "type": "multiple-choice",
+      "prompt": "I ___ this error before, so I recognize it.",
+      "choices": [
+        "have seen",
+        "saw last week",
+        "was seeing"
+      ],
+      "answerIndex": 0,
+      "feedback": "Before describes experience without a particular past time."
+    },
+    {
+      "id": "psp-03",
+      "type": "multiple-choice",
+      "prompt": "We ___ two prototypes so far this month.",
+      "choices": [
+        "built yesterday",
+        "have built",
+        "were build"
+      ],
+      "answerIndex": 1,
+      "feedback": "So far this month is an unfinished reporting period."
+    },
+    {
+      "id": "psp-04",
+      "type": "multiple-choice",
+      "prompt": "She ___ the file at 9 a.m. yesterday.",
+      "choices": [
+        "has uploaded",
+        "upload",
+        "uploaded"
+      ],
+      "answerIndex": 2,
+      "feedback": "The timestamp identifies a completed past event."
+    },
+    {
+      "id": "psp-05",
+      "type": "gap-fill",
+      "prompt": "They ___ (finish) the test last Friday.",
+      "acceptedAnswers": [
+        "finished"
+      ],
+      "feedback": "Last Friday signals past simple."
+    },
+    {
+      "id": "psp-06",
+      "type": "gap-fill",
+      "prompt": "We ___ (not receive) the parts yet.",
+      "acceptedAnswers": [
+        "haven't received",
+        "have not received"
+      ],
+      "feedback": "Yet is typical with a negative present perfect."
+    },
+    {
+      "id": "psp-07",
+      "type": "gap-fill",
+      "prompt": "___ you ever worked with this tool?",
+      "acceptedAnswers": [
+        "have"
+      ],
+      "feedback": "Ever asks about experience using present perfect."
+    },
+    {
+      "id": "psp-08",
+      "type": "gap-fill",
+      "prompt": "He ___ (send) the document an hour ago.",
+      "acceptedAnswers": [
+        "sent"
+      ],
+      "feedback": "Ago requires a past-time perspective."
+    },
+    {
+      "id": "psp-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We have met the client last month.",
+      "acceptedAnswers": [
+        "We met the client last month."
+      ],
+      "feedback": "Last month is a completed time period."
+    },
+    {
+      "id": "psp-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She never has used this interface.",
+      "acceptedAnswers": [
+        "She has never used this interface."
+      ],
+      "feedback": "Never usually follows have/has in this pattern."
+    },
+    {
+      "id": "psp-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I have bought this laptop in 2021.",
+      "acceptedAnswers": [
+        "I bought this laptop in 2021."
+      ],
+      "feedback": "A finished year makes past simple appropriate."
+    },
+    {
+      "id": "psp-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We have not completed the upgrade yesterday.",
+      "acceptedAnswers": [
+        "We did not complete the upgrade yesterday.",
+        "We didn't complete the upgrade yesterday."
+      ],
+      "feedback": "Yesterday requires past simple in this context."
+    }
+  ]
+}
