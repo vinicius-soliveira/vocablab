@@ -3,6 +3,7 @@ import {loadGrammarCatalog, loadGrammarUnit} from './catalog.js';
 import {evaluateExercise, exerciseSkill} from './engine.js';
 import {evaluateSpokenAnswer, normalizeSpokenAnswer} from './speaking.js';
 import {evaluateListeningAnswer} from './listening.js';
+import {renderGrammarDashboard} from './dashboard-view.js';
 import {getGrammarHistory, selectGrammarHistory, summarizeGrammarHistory, groupGrammarSessions,
   GRAMMAR_HISTORY_KEY, HISTORY_SKILLS, MAX_HISTORY_ATTEMPTS} from './history.js';
 import {recognize, browserSupportsRecognition, playText, stopAudio, getAudioSettings, configureAudio} from '../audio.js';
@@ -17,7 +18,7 @@ const app = $('#app');
 const escapeHtml = value => String(value ?? '').replace(/[&<>"']/g, c =>
   ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const state = {catalog:[], cache:new Map(), current:null, page:'library', session:[], position:0,
-  result:null, answer:null, speechError:'', loading:false, historyDays:30, historySkill:'all',
+  result:null, answer:null, speechError:'', loading:false, historyDays:30, historySkill:'all', dashboardDays:30,
   sessionId:'',sessionMode:'practice',sessionSource:'lesson',questionStartedAt:0};
 const percent = (correct,attempts) => attempts ? `${Math.round(correct/attempts*100)}%` : '—';
 const skillLabel = skill => ({recognition:'Recognition',production:'Writing',speaking:'Speaking',listening:'Listening'}[skill] || skill);
@@ -205,6 +206,18 @@ function renderListening() {
     ${feedback}<div class="buttonrow"><button class="ghost" data-action="lesson">Back to lesson</button>
     ${finished?`<button class="primary" data-action="next-listening">${state.position===state.session.length-1?'See progress':'Next audio →'}</button>`:''}</div></section>`;
 }
+function renderDashboard(){
+  try {
+    const {model,html}=renderGrammarDashboard({catalog:state.catalog,
+      progress:summarizeGrammarCatalog(state.catalog),days:state.dashboardDays});
+    header('Learning dashboard','GRAMMAR · DASHBOARD',
+      'Track recorded activity, accuracy and review opportunities.',`${model.stats.attempts} ANSWERS`);
+    app.innerHTML=html;
+  } catch(error) {
+    header('Learning dashboard','GRAMMAR · DASHBOARD','History could not be displayed.');
+    app.innerHTML=notice(`Unable to render dashboard: ${error.message}`);
+  }
+}
 function renderHistory(){
   let all;
   try {all=getGrammarHistory().attempts;}
@@ -245,7 +258,7 @@ function renderHistory(){
     <div class="grammar-history-filters">${periodSelect}${skillSelect}</div>
     <div class="grammar-progress-grid">${summary.map(([label,value])=>`<div class="small-card"><span class="label">${label}</span><strong>${value}</strong></div>`).join('')}</div>
     <p class="hint grammar-history-note">Timed from question display to submission; pauses and replay time are included. A delayed attempt is a new response at least 24 hours after the previous one, not a verified mastery score.</p>
-    <div class="buttonrow"><button class="ghost" data-action="progress">Back to grammar progress</button><button class="ghost" data-action="export">Export grammar backup (including history)</button></div>
+    <div class="buttonrow"><button class="ghost" data-action="dashboard">Learning dashboard</button><button class="ghost" data-action="progress">Back to grammar progress</button><button class="ghost" data-action="export">Export grammar backup (including history)</button></div>
   </section><section class="panel"><h2>By skill</h2><div class="table-wrap"><table><thead><tr><th>Skill</th><th>Attempts</th><th>Accuracy</th><th>Approx. time</th></tr></thead><tbody>${skills}</tbody></table></div></section>
   <section class="panel"><h2>Recent sessions</h2><p class="hint">Up to 25 sessions with at least one recorded answer.</p>
     ${sessionRows?`<div class="table-wrap"><table><thead><tr><th>Last activity</th><th>Type</th><th>Answers</th><th>Accuracy</th><th>Lesson</th><th>Question time</th></tr></thead><tbody>${sessionRows}</tbody></table></div>`:'<p class="hint">No completed exercises in this period.</p>'}</section>
@@ -262,7 +275,7 @@ function renderProgress() {
     ['Review due',stats.due+stats.speaking.due+stats.listening.due]];
   const overall=`<section class="panel"><h2>All grammar lessons</h2><div class="grammar-progress-grid">${tileData.map(([title,value])=>
     `<div class="small-card"><span class="label">${title}</span><strong>${value}</strong></div>`).join('')}</div>
-    <div class="buttonrow"><button class="primary" data-action="review-all" ${stats.due?'':'disabled'}>Review written (${stats.due})</button><button class="ghost" data-action="review-speaking-all" ${stats.speaking.due?'':'disabled'}>Review speaking (${stats.speaking.due})</button><button class="ghost" data-action="review-listening-all" ${stats.listening.due?'':'disabled'}>Review listening (${stats.listening.due})</button><button class="ghost" data-action="history">Learning history</button><button class="ghost" data-action="library">Browse lessons</button></div>
+    <div class="buttonrow"><button class="primary" data-action="review-all" ${stats.due?'':'disabled'}>Review written (${stats.due})</button><button class="ghost" data-action="review-speaking-all" ${stats.speaking.due?'':'disabled'}>Review speaking (${stats.speaking.due})</button><button class="ghost" data-action="review-listening-all" ${stats.listening.due?'':'disabled'}>Review listening (${stats.listening.due})</button><button class="ghost" data-action="dashboard">Learning dashboard</button><button class="ghost" data-action="history">Learning history</button><button class="ghost" data-action="library">Browse lessons</button></div>
     <div class="table-wrap"><table><thead><tr><th>Lesson</th><th>Level</th><th>Practised</th><th>Accuracy</th><th>Speaking</th><th>Listening</th><th>Due</th></tr></thead>
     <tbody>${state.catalog.map(e=>{const s=stats.byUnit[e.id];return `<tr><td><button class="grammar-text-button" data-action="open" data-id="${escapeHtml(e.id)}">${escapeHtml(e.title)}</button></td>
     <td>${escapeHtml(e.level)}</td><td>${s.practiced}/${s.total}</td><td>${percent(s.successes,s.attempts)}</td><td>${s.speaking.practiced}/${s.speaking.total}</td><td>${s.listening.practiced}/${s.listening.total}</td><td>${s.due+s.speaking.due+s.listening.due}</td></tr>`;}).join('')}</tbody></table></div></section>`;
@@ -276,7 +289,7 @@ function renderProgress() {
     <div class="buttonrow"><button class="ghost" data-action="export">Export grammar progress</button><button class="ghost" data-action="import">Import grammar progress</button>
     <button class="ghost" data-action="clear">Clear grammar progress and history</button></div><input type="file" id="grammarImportFile" accept=".json,application/json" hidden></section></div>`;
 }
-function render(){if(state.page==='library')renderLibrary();else if(state.page==='lesson')renderLesson();else if(state.page==='session')renderSession();else if(state.page==='speaking')renderSpeaking();else if(state.page==='listening')renderListening();else if(state.page==='history')renderHistory();else renderProgress();}
+function render(){if(state.page==='library')renderLibrary();else if(state.page==='lesson')renderLesson();else if(state.page==='session')renderSession();else if(state.page==='speaking')renderSpeaking();else if(state.page==='listening')renderListening();else if(state.page==='history')renderHistory();else if(state.page==='dashboard')renderDashboard();else renderProgress();}
 async function getUnit(id){
   if(state.cache.has(id))return state.cache.get(id);
   const entry=state.catalog.find(x=>x.id===id);
@@ -352,6 +365,9 @@ function applyFilters(){
 app.addEventListener('input',event=>{if(event.target.id==='grammarSearch')applyFilters();});
 app.addEventListener('change',async event=>{
   if(event.target.id==='grammarLevel'){applyFilters();return;}
+  if(event.target.id==='grammarDashboardPeriod'){
+    state.dashboardDays=Number(event.target.value);render();return;
+  }
   if(event.target.id==='grammarHistoryPeriod'){
     state.historyDays=Number(event.target.value);render();return;
   }
@@ -413,6 +429,7 @@ app.addEventListener('click',async event=>{
     else if(action==='lesson'){stopAudio();state.page=state.current?'lesson':'library';state.result=null;render();}
     else if(action==='progress'){stopAudio();state.page='progress';state.result=null;render();}
     else if(action==='history'){stopAudio();state.page='history';state.result=null;render();}
+    else if(action==='dashboard'){stopAudio();state.page='dashboard';state.result=null;render();}
     else if(action==='start')startSession();
     else if(action==='review')startSession(true);
     else if(action==='review-all')await startGlobalReview();
