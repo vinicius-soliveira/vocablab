@@ -1,0 +1,37 @@
+/* Grammar dashboard — lightweight local-only charts and summaries. */
+.grammar-dashboard {min-width:0;}
+.grammar-db-period {display:grid;gap:6px;min-width:145px;font-size:12px;color:#52637a;font-weight:700;}
+.grammar-db-period select {width:100%;border:1px solid #d4d9e8;border-radius:9px;padding:9px 12px;background:#fff;color:#26334e;font-size:13px;}
+.grammar-db-cards {margin:16px 0 8px;}
+.grammar-db-cards .small-card {min-width:0;}
+.grammar-db-cards strong {overflow-wrap:anywhere;}
+.grammar-db-note {margin:15px 0;line-height:1.65;}
+.grammar-db-chart-scroll {width:100%;overflow-x:auto;margin-top:12px;}
+.grammar-db-chart {display:block;width:100%;height:auto;min-width:580px;max-height:265px;}
+.grammar-db-grid {stroke:#e3e7f2;stroke-width:1;stroke-dasharray:3 4;}
+.grammar-db-axis {fill:#75849d;font-size:11px;font-family:inherit;}
+.grammar-db-bar {fill:#c6c0ef;}
+.grammar-db-line {fill:none;stroke:#5547b8;stroke-width:3;stroke-linejoin:round;stroke-linecap:round;}
+.grammar-db-dot {fill:#5547b8;stroke:#fff;stroke-width:1.5;}
+.grammar-db-key {display:flex;gap:18px;flex-wrap:wrap;align-items:center;font-size:12px;color:#53657e;margin:12px 0 10px;}
+.grammar-db-key span {display:inline-flex;gap:7px;align-items:center;}
+.grammar-db-key i {display:inline-block;width:16px;height:8px;border-radius:2px;}
+.grammar-db-key-bar {background:#c6c0ef;}
+.grammar-db-key .grammar-db-key-line {height:3px;background:#5547b8;}
+.grammar-db-chart-scroll + .grammar-db-key + .hint {margin:6px 0 12px;}
+.grammar-db-skill {margin-top:20px;}
+.grammar-db-skill-head {display:flex;align-items:baseline;gap:12px;justify-content:space-between;margin-bottom:9px;font-size:14px;}
+.grammar-db-skill-head span {color:#667892;font-size:12px;text-align:right;}
+.grammar-db-track {height:11px;background:#e8ebf4;border-radius:15px;overflow:hidden;}
+.grammar-db-track span {display:block;height:100%;border-radius:15px;background:#7261d2;}
+.grammar-db-focus {padding-left:19px;margin:15px 0;line-height:1.7;color:#394962;}
+.grammar-db-focus li + li {margin-top:10px;}
+.grammar-db-focus button {font-size:13px;}
+.grammar-dashboard-empty {margin:18px 0;padding:19px;border:1px dashed #d5daec;border-radius:12px;background:#fafaff;}
+.grammar-dashboard-empty .hint {margin-bottom:0;}
+.grammar-dashboard table td {vertical-align:middle;}
+@media(max-width:680px) {
+  .grammar-db-period {min-width:115px;}
+  .grammar-db-skill-head {align-items:flex-start;flex-direction:column;gap:3px;}
+  .grammar-db-skill-head span {text-align:left;}
+}
