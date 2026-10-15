@@ -197,5 +197,36 @@
       ],
       "feedback": "Whose expresses possession for organizations as well as people."
     }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Use a relative clause: the engineer designed the circuit and is here.",
+      "acceptedAnswers": [
+        "The engineer who designed the circuit is here.",
+        "The engineer that designed the circuit is here."
+      ],
+      "feedback": "Use who or that for a defining relative clause about a person."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Use a relative clause: we tested a device, and the device works well.",
+      "acceptedAnswers": [
+        "The device that we tested works well.",
+        "The device which we tested works well.",
+        "The device we tested works well."
+      ],
+      "feedback": "The object relative pronoun may be omitted in a defining relative clause."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Use a relative clause: the lab is busy, and I work there.",
+      "acceptedAnswers": [
+        "The lab where I work is busy.",
+        "The lab that I work in is busy.",
+        "The lab I work in is busy."
+      ],
+      "feedback": "Use where for a place, or a relative clause with a preposition."
+    }
   ]
 }

@@ -12,7 +12,8 @@ export async function loadGrammarUnit(entry, fetcher = fetch) {
   if (!response.ok) throw new Error(`Grammar unit unavailable (HTTP ${response.status}).`);
   const unit = validateGrammarUnit(await response.json());
   if (unit.id !== entry.id || unit.topicId !== entry.topicId ||
-      unit.level !== entry.level || unit.exercises.length !== entry.exerciseCount) {
+      unit.level !== entry.level || unit.exercises.length !== entry.exerciseCount ||
+      (entry.speakingCount !== undefined && (unit.speakingExercises?.length || 0) !== entry.speakingCount)) {
     throw new Error(`Grammar catalog/unit mismatch for ${entry.id}.`);
   }
   return unit;

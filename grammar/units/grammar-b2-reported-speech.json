@@ -196,5 +196,31 @@
       ],
       "feedback": "Use if/whether and statement word order for a reported yes/no question."
     }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Report what she said: \"I am working from home.\"",
+      "acceptedAnswers": [
+        "She said she was working from home."
+      ],
+      "feedback": "Backshift am working to was working in reported speech."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Report what they said: \"We have finished testing.\"",
+      "acceptedAnswers": [
+        "They said they had finished testing."
+      ],
+      "feedback": "Backshift present perfect to past perfect."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Report what he asked: \"Where is the meeting?\"",
+      "acceptedAnswers": [
+        "He asked where the meeting was."
+      ],
+      "feedback": "In reported questions, use statement word order: where the meeting was."
+    }
   ]
 }

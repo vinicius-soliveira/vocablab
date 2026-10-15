@@ -196,5 +196,35 @@
       ],
       "feedback": "Yesterday requires past simple in this context."
     }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say that you finished the report yesterday.",
+      "acceptedAnswers": [
+        "I finished the report yesterday.",
+        "Yesterday I finished the report."
+      ],
+      "feedback": "A finished time expression such as yesterday calls for the past simple."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say that you have never visited Canada.",
+      "acceptedAnswers": [
+        "I have never visited Canada.",
+        "I've never visited Canada."
+      ],
+      "feedback": "Use present perfect for life experience without a finished time."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say that you have worked here for five years.",
+      "acceptedAnswers": [
+        "I have worked here for five years.",
+        "I've worked here for five years.",
+        "I have been working here for five years."
+      ],
+      "feedback": "Use present perfect (simple or continuous) for a situation continuing to now."
+    }
   ]
 }
