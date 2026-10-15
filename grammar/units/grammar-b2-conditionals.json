@@ -211,5 +211,38 @@
   "studyTips": [
     "Choose the meaning first: fact, real future, imaginary present, or imaginary past.",
     "The if-clause and main clause may appear in either order."
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say what will happen if it rains: you will stay home.",
+      "acceptedAnswers": [
+        "If it rains, I will stay home.",
+        "If it rains, I'll stay home.",
+        "I will stay home if it rains.",
+        "I'll stay home if it rains."
+      ],
+      "feedback": "A real future possibility uses if + present simple and will + verb."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Imagine having more time. Say that you would learn French.",
+      "acceptedAnswers": [
+        "If I had more time, I would learn French.",
+        "If I had more time, I'd learn French.",
+        "I would learn French if I had more time."
+      ],
+      "feedback": "Use the second conditional for a hypothetical present situation."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Imagine you did not know about a bug. Say you would have fixed it if you had known.",
+      "acceptedAnswers": [
+        "If I had known about the bug, I would have fixed it.",
+        "If I'd known about the bug, I'd have fixed it.",
+        "I would have fixed the bug if I had known about it."
+      ],
+      "feedback": "Use the third conditional for an unreal past situation."
+    }
   ]
 }

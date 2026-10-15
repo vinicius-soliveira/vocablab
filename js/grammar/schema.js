@@ -86,6 +86,20 @@ export function validateGrammarUnit(data) {
       }
     }
   }
+  if (data.speakingExercises !== undefined) {
+    if (!Array.isArray(data.speakingExercises) || data.speakingExercises.length > 30)
+      throw new Error('Invalid speakingExercises.');
+    for (const e of data.speakingExercises) {
+      assertId(e?.id, 'speaking exercise id');
+      if (ids.has(e.id)) throw new Error(`Duplicate exercise ID: ${e.id}.`);
+      ids.add(e.id);
+      assertText(e.prompt, 'speaking prompt', 600);
+      assertText(e.feedback, 'speaking feedback', 1000);
+      if (!Array.isArray(e.acceptedAnswers) || !e.acceptedAnswers.length || e.acceptedAnswers.length > 20 ||
+        e.acceptedAnswers.some(answer => typeof answer !== 'string' || !answer.trim() || answer.length > 300))
+        throw new Error(`Invalid speaking acceptedAnswers for ${e.id}.`);
+    }
+  }
   return data;
 }
 export function validGrammarPath(path) {
@@ -101,6 +115,7 @@ export function validateGrammarManifest(data) {
     assertId(item.topicId, 'catalog topicId');
     if (!LEVELS.has(item.level) || !validGrammarPath(item.path) ||
         !Number.isInteger(item.exerciseCount) || item.exerciseCount < 1 || item.exerciseCount > 150 ||
+        (item.speakingCount !== undefined && (!Number.isInteger(item.speakingCount) || item.speakingCount < 0 || item.speakingCount > 30)) ||
         ids.has(item.id)) throw new Error(`Invalid grammar catalog entry: ${item.id}.`);
     ids.add(item.id);
   }

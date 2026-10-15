@@ -198,5 +198,34 @@
       ],
       "feedback": "Optional means not required, not prohibited."
     }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "State a laboratory rule: you must wear a helmet in the lab.",
+      "acceptedAnswers": [
+        "You must wear a helmet in the lab."
+      ],
+      "feedback": "Must expresses a strong requirement."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Give advice: check the cable before turning on the power.",
+      "acceptedAnswers": [
+        "You should check the cable before turning on the power.",
+        "You should check the cable before switching on the power."
+      ],
+      "feedback": "Should expresses advice."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say that it is possible the machine is faulty.",
+      "acceptedAnswers": [
+        "The machine might be faulty.",
+        "The machine may be faulty.",
+        "The machine could be faulty."
+      ],
+      "feedback": "Might, may and could express possibility."
+    }
   ]
 }

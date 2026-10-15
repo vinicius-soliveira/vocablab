@@ -207,5 +207,31 @@
   "studyTips": [
     "Learn verb patterns together with a complete phrase, not as isolated rules.",
     "For verbs whose meaning changes with the complement, study each usage separately."
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say that you enjoy solving problems.",
+      "acceptedAnswers": [
+        "I enjoy solving problems."
+      ],
+      "feedback": "Enjoy is followed by a gerund."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say that you decided to study English.",
+      "acceptedAnswers": [
+        "I decided to study English."
+      ],
+      "feedback": "Decide is followed by to + infinitive."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say that you avoid working late.",
+      "acceptedAnswers": [
+        "I avoid working late."
+      ],
+      "feedback": "Avoid is followed by an -ing form."
+    }
   ]
 }

@@ -1,8 +1,11 @@
 /** Local Grammar Lab: source-independent lessons, deterministic correction, and separate progress. */
 import {loadGrammarCatalog, loadGrammarUnit} from './catalog.js';
 import {evaluateExercise, exerciseSkill} from './engine.js';
+import {evaluateSpokenAnswer, normalizeSpokenAnswer} from './speaking.js';
+import {recognize, browserSupportsRecognition, playText, getAudioSettings} from '../audio.js';
 import {GRAMMAR_ACTIVE_KEY, GRAMMAR_PROGRESS_KEY, grammarKey, getGrammarProgress,
-  recordGrammarAttempt, dueExercises, summarizeGrammarUnit, summarizeGrammarCatalog,
+  recordGrammarAttempt, dueExercises, dueSpeakingExercises, summarizeSpeakingUnit,
+  summarizeGrammarUnit, summarizeGrammarCatalog,
   dueGrammarUnitIds, exportGrammarProgress, importGrammarProgress} from './progress.js';
 
 const $ = selector => document.querySelector(selector);
@@ -10,7 +13,7 @@ const app = $('#app');
 const escapeHtml = value => String(value ?? '').replace(/[&<>"']/g, c =>
   ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const state = {catalog:[], cache:new Map(), current:null, page:'library', session:[], position:0,
-  result:null, answer:null, loading:false};
+  result:null, answer:null, speechError:'', loading:false};
 const percent = (correct,attempts) => attempts ? `${Math.round(correct/attempts*100)}%` : '—';
 const notice = message => `<section class="panel"><p>${escapeHtml(message)}</p><div class="buttonrow"><button class="ghost" data-action="library">Browse lessons</button></div></section>`;
 
@@ -31,7 +34,8 @@ function renderLibrary() {
     const search=`${entry.title} ${entry.level} ${entry.topicId}`.toLowerCase();
     return `<article class="small-card grammar-card" data-search="${escapeHtml(search)}" data-level="${escapeHtml(entry.level)}">
       <div class="grammar-topic"><span class="chip">${escapeHtml(entry.level)}</span><span class="hint">${escapeHtml(entry.topicId.replaceAll('-',' '))}</span></div>
-      <h3>${escapeHtml(entry.title)}</h3><p class="hint">${s.practiced}/${s.total} practised · ${percent(s.successes,s.attempts)} accuracy · ${s.due} due</p>
+      <h3>${escapeHtml(entry.title)}</h3><p class="hint">${s.practiced}/${s.total} written · ${s.due} due</p>
+      <p class="hint">Speaking: ${s.speaking.practiced}/${s.speaking.total} practised · ${s.speaking.due} due</p>
       <div class="buttonrow"><button class="primary" data-action="open" data-id="${escapeHtml(entry.id)}">Open lesson</button></div></article>`;
   }).join('');
   app.innerHTML=`<div class="stack"><section class="panel"><div class="between"><div><h2>Grammar lessons</h2><p class="hint">Original teaching notes and exercises; lessons load when opened.</p></div>
@@ -41,7 +45,7 @@ function renderLibrary() {
     <p id="grammarNoResults" class="hint" hidden>No matching lessons.</p>
     <div class="grid" id="grammarCards">${cards}</div></section>
     <section class="panel"><div class="between"><div><h2>Adaptive grammar review</h2><p class="hint">Revisit due exercises from any lesson without changing your vocabulary progress.</p></div>
-    <span class="chip">${all.due} due</span></div><div class="buttonrow"><button class="primary" data-action="review-all" ${all.due?'':'disabled'}>Review all due (${all.due})</button><button class="ghost" data-action="progress">View progress</button></div></section></div>`;
+    <span class="chip">${all.due} written due</span></div><div class="buttonrow"><button class="primary" data-action="review-all" ${all.due?'':'disabled'}>Review written (${all.due})</button><button class="ghost" data-action="review-speaking-all" ${all.speaking.due?'':'disabled'}>Review speaking (${all.speaking.due})</button><button class="ghost" data-action="progress">View progress</button></div></section></div>`;
 }
 function renderTeaching(unit) {
   const objectives=unit.learningObjectives?.length ? `<section class="panel grammar-lesson-block"><h2>Learning objectives</h2><ul class="grammar-bullets">${unit.learningObjectives.map(x=>`<li>${escapeHtml(x)}</li>`).join('')}</ul></section>` : '';
@@ -62,11 +66,15 @@ function renderTeaching(unit) {
 function renderLesson() {
   const u=state.current;
   if(!u){header('Grammar Lab','GRAMMAR · LESSON','Choose a lesson to get started.');app.innerHTML=notice('Select a grammar lesson to get started.');return;}
-  const s=summarizeGrammarUnit(u),due=dueExercises(u);
+  const s=summarizeGrammarUnit(u),due=dueExercises(u),spoken=summarizeSpeakingUnit(u),speakingDue=dueSpeakingExercises(u);
   header(u.title,`GRAMMAR · ${u.level}`,u.summary,`${u.exercises.length} EXERCISES`);
   app.innerHTML=`<div class="stack"><section class="panel"><div class="between"><div><span class="chip">${escapeHtml(u.level)}</span><h2 style="margin-top:12px">Study, practise, review</h2>
     <p class="hint">Read the rules, comparisons and mistakes. Then test yourself.</p></div><span class="grammar-note">${s.practiced}/${s.total} attempted · ${percent(s.successes,s.attempts)} accuracy</span></div>
-    <div class="buttonrow"><button class="primary" data-action="start">Practice all (${u.exercises.length})</button><button class="ghost" data-action="review" ${due.length?'':'disabled'}>Review due (${due.length})</button><button class="ghost" data-action="library">All lessons</button></div></section>
+    <div class="buttonrow"><button class="primary" data-action="start">Practice writing (${u.exercises.length})</button><button class="ghost" data-action="review" ${due.length?'':'disabled'}>Review written (${due.length})</button><button class="ghost" data-action="library">All lessons</button></div></section>
+    <section class="panel grammar-speaking-panel"><div class="between"><div><span class="chip">SPEAKING</span><h2 style="margin-top:10px">Speak the grammar</h2><p class="hint">Say a complete sentence using the target structure. The browser compares the recognized words with accepted model answers.</p></div>
+    <span class="grammar-note">${spoken.practiced}/${spoken.total} practised · ${percent(spoken.successes,spoken.attempts)} matched</span></div>
+    <div class="buttonrow"><button class="primary" data-action="start-speaking" ${(u.speakingExercises?.length)?'':'disabled'}>Speaking practice (${u.speakingExercises?.length || 0})</button>
+    <button class="ghost" data-action="review-speaking" ${speakingDue.length?'':'disabled'}>Review speaking (${speakingDue.length})</button></div></section>
     ${renderTeaching(u)}
     <section class="panel"><h2>Ready to practise?</h2><p class="hint">Multiple choice checks recognition; gap-fill and error-correction check production. Feedback explains the rule after each answer.</p>
     <div class="buttonrow"><button class="primary" data-action="start">Start exercises →</button><button class="ghost" data-action="progress">View progress</button></div></section></div>`;
@@ -94,28 +102,59 @@ function renderSession() {
     ${finished?`<button class="primary" data-action="next">${state.position===state.session.length-1?'See progress':'Next question →'}</button>`:''}</div></section>`;
   if(!finished&&e.type!=='multiple-choice')$('#grammarTextAnswer')?.focus();
 }
+/** Spoken production uses its own session; written exercises are unchanged. */
+function renderSpeaking() {
+  const entry=currentEntry();
+  if(!entry){state.page='progress';render();return;}
+  const {unit:u,exercise:e}=entry;
+  const finished=state.result!==null;
+  header('Grammar speaking',`${u.level} · ${u.title}`,
+    'Speak a complete sentence. Recognized text is checked against the listed model answers.',
+    `${state.position+1}/${state.session.length}`);
+  const result=finished?`<div class="grammar-feedback ${state.result.correct?'success':'warning'}" role="status">
+    <strong>${state.result.correct?'Model answer recognized':'Different answer recognized'}</strong>
+    <p style="color:inherit">Transcript: <strong>${escapeHtml(state.result.transcript)}</strong></p>
+    ${state.result.correct?'':`<p style="color:inherit">Model answer: <strong>${escapeHtml(state.result.expected)}</strong></p>`}
+    <p style="color:inherit">${escapeHtml(state.result.feedback)}</p>
+    ${state.result.correct?'':'<p style="color:inherit">Other valid sentences may exist; this exercise checks its listed answers.</p>'}
+    </div>`:'';
+  app.innerHTML=`<section class="panel"><div class="grammar-toolbar"><div><span class="chip">SPEAKING · ${escapeHtml(u.level)}</span> <span class="grammar-note">${escapeHtml(u.title)}</span></div>
+    <span class="grammar-note">Prompt ${state.position+1} of ${state.session.length}</span></div>
+    <div class="meter"><i style="width:${Math.round((state.position+1)/state.session.length*100)}%"></i></div>
+    <div class="grammar-question">${escapeHtml(e.prompt)}</div>
+    <p class="hint">Say the full English sentence. Speak naturally; contractions such as “I've” and “I have” are treated alike.</p>
+    <div class="buttonrow">
+    <button class="primary" data-action="speak" ${(!browserSupportsRecognition())?'disabled':''}>🎙 ${finished?'Try speaking again':'Speak & check'}</button>
+    <button class="ghost" data-action="speak-model">▶ Hear model answer</button></div>
+    <p class="grammar-speech-status" id="grammarSpeechStatus" role="status">${escapeHtml(state.speechError || (!browserSupportsRecognition()?'Speech recognition is unavailable in this browser. Try Chrome or Edge.':'Ready when you are.'))}</p>
+    ${result}
+    <div class="buttonrow grammar-actions"><button class="ghost" data-action="lesson">Back to lesson</button>
+    ${finished?`<button class="primary" data-action="next-speaking">${state.position===state.session.length-1?'See progress':'Next prompt →'}</button>`:''}
+    </div></section>`;
+}
 function renderProgress() {
   const stats=summarizeGrammarCatalog(state.catalog),u=state.current;
   header('Grammar progress','GRAMMAR · ANALYTICS','Progress is saved locally and separate from vocabulary.',`${stats.practiced} PRACTISED`);
   const tileData=[['Exercises',`${stats.practiced}/${stats.exercises}`],['Overall accuracy',percent(stats.successes,stats.attempts)],
-    ['Recognition',percent(stats.recognition.successes,stats.recognition.attempts)],['Production',percent(stats.production.successes,stats.production.attempts)],['Review due',stats.due]];
+    ['Recognition',percent(stats.recognition.successes,stats.recognition.attempts)],['Writing',percent(stats.production.successes,stats.production.attempts)],
+    ['Speaking',percent(stats.speaking.successes,stats.speaking.attempts)],['Speaking prompts',`${stats.speaking.practiced}/${stats.speaking.total}`],['Review due',stats.due+stats.speaking.due]];
   const overall=`<section class="panel"><h2>All grammar lessons</h2><div class="grammar-progress-grid">${tileData.map(([title,value])=>
     `<div class="small-card"><span class="label">${title}</span><strong>${value}</strong></div>`).join('')}</div>
-    <div class="buttonrow"><button class="primary" data-action="review-all" ${stats.due?'':'disabled'}>Review all due (${stats.due})</button><button class="ghost" data-action="library">Browse lessons</button></div>
-    <div class="table-wrap"><table><thead><tr><th>Lesson</th><th>Level</th><th>Practised</th><th>Accuracy</th><th>Due</th></tr></thead>
+    <div class="buttonrow"><button class="primary" data-action="review-all" ${stats.due?'':'disabled'}>Review written (${stats.due})</button><button class="ghost" data-action="review-speaking-all" ${stats.speaking.due?'':'disabled'}>Review speaking (${stats.speaking.due})</button><button class="ghost" data-action="library">Browse lessons</button></div>
+    <div class="table-wrap"><table><thead><tr><th>Lesson</th><th>Level</th><th>Practised</th><th>Accuracy</th><th>Speaking</th><th>Due</th></tr></thead>
     <tbody>${state.catalog.map(e=>{const s=stats.byUnit[e.id];return `<tr><td><button class="grammar-text-button" data-action="open" data-id="${escapeHtml(e.id)}">${escapeHtml(e.title)}</button></td>
-    <td>${escapeHtml(e.level)}</td><td>${s.practiced}/${s.total}</td><td>${percent(s.successes,s.attempts)}</td><td>${s.due}</td></tr>`;}).join('')}</tbody></table></div></section>`;
+    <td>${escapeHtml(e.level)}</td><td>${s.practiced}/${s.total}</td><td>${percent(s.successes,s.attempts)}</td><td>${s.speaking.practiced}/${s.speaking.total}</td><td>${s.due+s.speaking.due}</td></tr>`;}).join('')}</tbody></table></div></section>`;
   const records=getGrammarProgress();
   const detail=u?`<section class="panel"><div class="between"><h2>${escapeHtml(u.title)} · individual exercises</h2><button class="ghost" data-action="lesson">View lesson</button></div>
     <div class="table-wrap"><table><thead><tr><th>Exercise</th><th>Skill</th><th>Attempts</th><th>Accuracy</th><th>Next review</th></tr></thead>
-    <tbody>${u.exercises.map(ex=>{const p=records[grammarKey(u.id,ex.id)];return `<tr><td>${escapeHtml(ex.id)}</td><td>${escapeHtml(exerciseSkill(ex))}</td>
+    <tbody>${[...u.exercises,...(u.speakingExercises||[])].map(ex=>{const p=records[grammarKey(u.id,ex.id)];return `<tr><td>${escapeHtml(ex.id)}</td><td>${escapeHtml((u.speakingExercises||[]).includes(ex)?'speaking':exerciseSkill(ex))}</td>
       <td>${p?.attempts??0}</td><td>${p?percent(p.successes,p.attempts):'—'}</td><td>${p?(p.due<=Date.now()?'Due':escapeHtml(new Date(p.due).toLocaleString())):'Not practised'}</td></tr>`;}).join('')}</tbody></table></div></section>`:'';
   app.innerHTML=`<div class="stack">${overall}${detail}<section class="panel"><h2>Grammar progress backup</h2>
     <p class="hint">Export/import includes grammar exercise progress across all lessons. Vocabulary progress and vocabulary backups are unchanged.</p>
     <div class="buttonrow"><button class="ghost" data-action="export">Export grammar progress</button><button class="ghost" data-action="import">Import grammar progress</button>
     <button class="ghost" data-action="clear">Clear grammar progress</button></div><input type="file" id="grammarImportFile" accept=".json,application/json" hidden></section></div>`;
 }
-function render(){if(state.page==='library')renderLibrary();else if(state.page==='lesson')renderLesson();else if(state.page==='session')renderSession();else renderProgress();}
+function render(){if(state.page==='library')renderLibrary();else if(state.page==='lesson')renderLesson();else if(state.page==='session')renderSession();else if(state.page==='speaking')renderSpeaking();else renderProgress();}
 async function getUnit(id){
   if(state.cache.has(id))return state.cache.get(id);
   const entry=state.catalog.find(x=>x.id===id);
@@ -126,6 +165,23 @@ async function getUnit(id){
 }
 async function openLesson(id){state.current=await getUnit(id);localStorage.setItem(GRAMMAR_ACTIVE_KEY,id);
   state.page='lesson';state.result=null;state.answer=null;state.session=[];render();}
+function startSpeakingSession(review=false){
+  if(!state.current){state.page='library';render();return;}
+  const prompts=review?dueSpeakingExercises(state.current):(state.current.speakingExercises||[]);
+  state.session=prompts.map(exercise=>({unit:state.current,exercise}));
+  state.position=0;state.result=null;state.answer=null;state.speechError='';
+  state.page=state.session.length?'speaking':'lesson';render();
+}
+async function startGlobalSpeakingReview(){
+  const pending=[];
+  for(const item of state.catalog){
+    if(!(summarizeGrammarCatalog([item]).speaking.due))continue;
+    const unit=await getUnit(item.id);
+    for(const exercise of dueSpeakingExercises(unit))pending.push({unit,exercise});
+  }
+  state.session=pending;state.position=0;state.result=null;state.answer=null;state.speechError='';
+  state.page=pending.length?'speaking':'progress';render();
+}
 function startSession(review=false){
   if(!state.current){state.page='library';render();return;}
   const exercises=review?dueExercises(state.current):state.current.exercises;
@@ -187,6 +243,38 @@ app.addEventListener('click',async event=>{
     else if(action==='start')startSession();
     else if(action==='review')startSession(true);
     else if(action==='review-all')await startGlobalReview();
+    else if(action==='start-speaking')startSpeakingSession();
+    else if(action==='review-speaking')startSpeakingSession(true);
+    else if(action==='review-speaking-all')await startGlobalSpeakingReview();
+    else if(action==='speak-model'){
+      const entry=currentEntry();
+      if(entry){try{await playText(entry.exercise.acceptedAnswers[0],null,{forceTTS:true});}
+        catch(error){state.speechError=error.message;render();}}
+    }
+    else if(action==='speak'&&state.page==='speaking'){
+      const entry=currentEntry();
+      state.speechError='';
+      const status=$('#grammarSpeechStatus');if(status)status.textContent='Listening…';
+      button.disabled=true;
+      try {
+        const alternatives=await recognize(getAudioSettings().recognitionLang);
+        if(state.page==='speaking' && currentEntry()===entry){
+          if(!alternatives.some(value => normalizeSpokenAnswer(value))){
+            state.speechError='No speech was recognized. Please try again.';
+          }else{
+            state.result=evaluateSpokenAnswer(entry.exercise,alternatives);
+            recordGrammarAttempt(entry.unit.id,entry.exercise.id,'speaking',state.result.correct);
+          }
+          render();
+        }
+      }catch(error){
+        if(state.page==='speaking' && currentEntry()===entry){state.speechError=error.message;render();}
+      }
+    }
+    else if(action==='next-speaking'&&state.page==='speaking'&&state.result){
+      state.position++;state.result=null;state.answer=null;state.speechError='';
+      state.page=state.position<state.session.length?'speaking':'progress';render();
+    }
     else if(action==='next'&&state.result){state.position++;state.result=null;state.answer=null;
       state.page=state.position<state.session.length?'session':'progress';render();}
     else if(action==='export')saveJSON(exportGrammarProgress(),'vocablab-grammar-progress.json');
@@ -196,7 +284,8 @@ app.addEventListener('click',async event=>{
   }catch(error){app.innerHTML=notice(error.message);}finally{state.loading=false;}
 });
 document.querySelectorAll('[data-nav]').forEach(button=>button.addEventListener('click',()=>{
-  const page=button.dataset.nav;state.page=page==='lesson'&&!state.current?'library':page;state.result=null;state.answer=null;render();
+  const page=button.dataset.nav;if(page==='speaking'){startSpeakingSession();return;}
+  state.page=page==='lesson'&&!state.current?'library':page;state.result=null;state.answer=null;render();
 }));
 (async()=>{
   try{

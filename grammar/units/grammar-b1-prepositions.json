@@ -194,5 +194,34 @@
       ],
       "feedback": "The combination is responsible for."
     }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say that your meeting starts at nine.",
+      "acceptedAnswers": [
+        "My meeting starts at nine.",
+        "My meeting begins at nine."
+      ],
+      "feedback": "Use at for a specific clock time."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say that you are interested in robotics.",
+      "acceptedAnswers": [
+        "I am interested in robotics.",
+        "I'm interested in robotics."
+      ],
+      "feedback": "The adjective interested is followed by in."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say that you are waiting for the bus.",
+      "acceptedAnswers": [
+        "I am waiting for the bus.",
+        "I'm waiting for the bus."
+      ],
+      "feedback": "The verb wait takes the preposition for before its object."
+    }
   ]
 }

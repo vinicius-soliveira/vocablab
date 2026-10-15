@@ -210,5 +210,33 @@
   "studyTips": [
     "Look for time markers: yesterday and last year versus ever, yet, since, and for.",
     "Ask whether the period is still connected to the present."
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say that you have already finished the task.",
+      "acceptedAnswers": [
+        "I have already finished the task.",
+        "I've already finished the task."
+      ],
+      "feedback": "Use have + already + past participle for a completed action relevant now."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say that you have not seen the new prototype yet.",
+      "acceptedAnswers": [
+        "I have not seen the new prototype yet.",
+        "I haven't seen the new prototype yet."
+      ],
+      "feedback": "Yet commonly appears in negative present perfect sentences."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Ask a colleague whether they have ever used Python.",
+      "acceptedAnswers": [
+        "Have you ever used Python?"
+      ],
+      "feedback": "Use Have you ever + past participle to ask about experience."
+    }
   ]
 }

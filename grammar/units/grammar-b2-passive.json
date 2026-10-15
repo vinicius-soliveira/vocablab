@@ -195,5 +195,31 @@
       ],
       "feedback": "Future passive is will be + past participle."
     }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Use the passive to say that someone tested the board yesterday.",
+      "acceptedAnswers": [
+        "The board was tested yesterday."
+      ],
+      "feedback": "The past simple passive is was/were + past participle."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Use the passive to say that people review the reports every Friday.",
+      "acceptedAnswers": [
+        "The reports are reviewed every Friday."
+      ],
+      "feedback": "The present simple passive is am/is/are + past participle."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Use the passive to say someone has calibrated the sensor.",
+      "acceptedAnswers": [
+        "The sensor has been calibrated."
+      ],
+      "feedback": "The present perfect passive is has/have been + past participle."
+    }
   ]
 }

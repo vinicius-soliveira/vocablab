@@ -194,5 +194,32 @@
       ],
       "feedback": "The identifying clause specifies which report."
     }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say that you bought a new laptop yesterday.",
+      "acceptedAnswers": [
+        "I bought a new laptop yesterday.",
+        "Yesterday I bought a new laptop."
+      ],
+      "feedback": "Use a with the singular countable noun laptop."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say that the sun is shining.",
+      "acceptedAnswers": [
+        "The sun is shining."
+      ],
+      "feedback": "Use the for something unique in this context."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say that you need an umbrella.",
+      "acceptedAnswers": [
+        "I need an umbrella."
+      ],
+      "feedback": "Use an before a vowel sound."
+    }
   ]
 }
