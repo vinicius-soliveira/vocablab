@@ -1,4 +1,6 @@
 /** Separate Grammar Lab progress. Vocabulary progress remains untouched. */
+import {appendGrammarHistory, getGrammarHistory, validateGrammarHistory,
+  GRAMMAR_HISTORY_KEY} from './history.js';
 export const GRAMMAR_PROGRESS_KEY = 'vocablab.grammar.progress.v1';
 export const GRAMMAR_ACTIVE_KEY = 'vocablab.grammar.active.v1';
 const DAY = 86400000;
@@ -11,7 +13,7 @@ export function getGrammarProgress(storage = localStorage) {
     return data && typeof data === 'object' && !Array.isArray(data) ? data : {};
   } catch { return {}; }
 }
-export function recordGrammarAttempt(unitId, exerciseId, skill, correct, storage = localStorage, now = Date.now()) {
+export function recordGrammarAttempt(unitId, exerciseId, skill, correct, storage = localStorage, now = Date.now(), context = null) {
   if (!/^[\w-]+$/.test(unitId) || !/^[\w-]+$/.test(exerciseId) ||
       !['recognition', 'production', 'speaking', 'listening'].includes(skill)) throw new Error('Invalid grammar progress key or skill.');
   const all = getGrammarProgress(storage);
@@ -29,6 +31,17 @@ export function recordGrammarAttempt(unitId, exerciseId, skill, correct, storage
   };
   all[id] = updated;
   storage.setItem(GRAMMAR_PROGRESS_KEY, JSON.stringify(all));
+  if (context) {
+    // Progress writes first; a browser storage failure must not duplicate an exercise attempt.
+    // Only metadata is persisted, never the typed answer or speech transcript.
+    try {
+      appendGrammarHistory({time:now,unitId,exerciseId,skill,correct:Boolean(correct),
+        sessionId:context.sessionId,mode:context.mode,source:context.source,
+        durationMs:Math.min(3600000,Math.max(0,Math.round(context.durationMs ?? 0))),
+        firstAttempt:!old.attempts,
+        delayed:Boolean(old.attempts && now-old.last>=86400000)},storage);
+    } catch (error) { console.warn('Grammar progress saved, but history could not be recorded:',error); }
+  }
   return updated;
 }
 export function dueExercises(unit, storage = localStorage, now = Date.now()) {
@@ -96,7 +109,7 @@ export function summarizeGrammarUnit(unit, storage = localStorage) {
   return summary;
 }
 export function exportGrammarProgress(storage = localStorage) {
-  return {format:'vocablab-grammar-progress-backup', version:1, exportedAt:new Date().toISOString(), progress:getGrammarProgress(storage)};
+  return {format:'vocablab-grammar-progress-backup', version:1, exportedAt:new Date().toISOString(), progress:getGrammarProgress(storage), history:getGrammarHistory(storage)};
 }
 export function importGrammarProgress(backup, storage = localStorage) {
   if (!backup || backup.format !== 'vocablab-grammar-progress-backup' || backup.version !== 1 ||
@@ -113,7 +126,25 @@ export function importGrammarProgress(backup, storage = localStorage) {
     if (item.successes > item.attempts || item.streak > item.attempts) throw new Error('Invalid grammar attempts.');
     validated[id] = Object.fromEntries(['attempts','successes','streak','intervalDays','due','last','skill'].map(k => [k,item[k]]));
   }
-  storage.setItem(GRAMMAR_PROGRESS_KEY, JSON.stringify(validated));
+  // Validate the complete backup before mutating either storage key.
+  // Older version-1 backups have no history; importing them clears dated history,
+  // because the newly restored progress represents a different snapshot.
+  const history = backup.history === undefined ? null : validateGrammarHistory(backup.history);
+  const previousProgress=storage.getItem(GRAMMAR_PROGRESS_KEY);
+  const previousHistory=storage.getItem(GRAMMAR_HISTORY_KEY);
+  try {
+    storage.setItem(GRAMMAR_PROGRESS_KEY, JSON.stringify(validated));
+    if (history) storage.setItem(GRAMMAR_HISTORY_KEY,JSON.stringify(history));
+    else storage.removeItem(GRAMMAR_HISTORY_KEY);
+  } catch(error) {
+    try {
+      if(previousProgress===null)storage.removeItem(GRAMMAR_PROGRESS_KEY);
+      else storage.setItem(GRAMMAR_PROGRESS_KEY,previousProgress);
+      if(previousHistory===null)storage.removeItem(GRAMMAR_HISTORY_KEY);
+      else storage.setItem(GRAMMAR_HISTORY_KEY,previousHistory);
+    } catch (rollbackError) { console.error('Grammar backup rollback failed:',rollbackError); }
+    throw error;
+  }
   return Object.keys(validated).length;
 }
 

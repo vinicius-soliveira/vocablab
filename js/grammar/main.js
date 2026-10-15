@@ -3,6 +3,8 @@ import {loadGrammarCatalog, loadGrammarUnit} from './catalog.js';
 import {evaluateExercise, exerciseSkill} from './engine.js';
 import {evaluateSpokenAnswer, normalizeSpokenAnswer} from './speaking.js';
 import {evaluateListeningAnswer} from './listening.js';
+import {getGrammarHistory, selectGrammarHistory, summarizeGrammarHistory, groupGrammarSessions,
+  GRAMMAR_HISTORY_KEY, HISTORY_SKILLS, MAX_HISTORY_ATTEMPTS} from './history.js';
 import {recognize, browserSupportsRecognition, playText, stopAudio, getAudioSettings, configureAudio} from '../audio.js';
 import {GRAMMAR_ACTIVE_KEY, GRAMMAR_PROGRESS_KEY, grammarKey, getGrammarProgress,
   recordGrammarAttempt, dueExercises, dueSpeakingExercises, dueListeningExercises,
@@ -15,8 +17,19 @@ const app = $('#app');
 const escapeHtml = value => String(value ?? '').replace(/[&<>"']/g, c =>
   ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const state = {catalog:[], cache:new Map(), current:null, page:'library', session:[], position:0,
-  result:null, answer:null, speechError:'', loading:false};
+  result:null, answer:null, speechError:'', loading:false, historyDays:30, historySkill:'all',
+  sessionId:'',sessionMode:'practice',sessionSource:'lesson',questionStartedAt:0};
 const percent = (correct,attempts) => attempts ? `${Math.round(correct/attempts*100)}%` : '—';
+const skillLabel = skill => ({recognition:'Recognition',production:'Writing',speaking:'Speaking',listening:'Listening'}[skill] || skill);
+const formatTime = ts => new Date(ts).toLocaleString();
+const formatDuration = ms => `${Math.round(ms/1000)} s`;
+const makeSessionId = () => `g${Date.now()}_${Math.random().toString(36).slice(2,10)}`;
+function beginTrackedSession(mode,source){
+  state.sessionId=makeSessionId();state.sessionMode=mode;state.sessionSource=source;
+  state.questionStartedAt=Date.now();
+}
+function attemptContext(){return {sessionId:state.sessionId, mode:state.sessionMode,source:state.sessionSource,
+  durationMs:Date.now()-state.questionStartedAt};}
 const notice = message => `<section class="panel"><p>${escapeHtml(message)}</p><div class="buttonrow"><button class="ghost" data-action="library">Browse lessons</button></div></section>`;
 
 function header(title,subtitle,description,badge='GRAMMAR') {
@@ -192,6 +205,53 @@ function renderListening() {
     ${feedback}<div class="buttonrow"><button class="ghost" data-action="lesson">Back to lesson</button>
     ${finished?`<button class="primary" data-action="next-listening">${state.position===state.session.length-1?'See progress':'Next audio →'}</button>`:''}</div></section>`;
 }
+function renderHistory(){
+  let all;
+  try {all=getGrammarHistory().attempts;}
+  catch(error){header('Learning history','GRAMMAR · HISTORY','Recorded attempts are unavailable.');
+    app.innerHTML=notice(`Unable to read grammar history: ${error.message}`);return;}
+  const filtered=selectGrammarHistory(all,{days:state.historyDays,skill:state.historySkill});
+  const stats=summarizeGrammarHistory(filtered);
+  const sessions=groupGrammarSessions(filtered).slice(0,25);
+  const byUnit=new Map(state.catalog.map(u=>[u.id,u.title]));
+  header('Learning history','GRAMMAR · ACTIVITY','Dated attempts recorded in this browser since Learning History was installed.',
+    `${stats.attempts} ATTEMPTS`);
+  const periodOptions=[[7,'Last 7 days'],[30,'Last 30 days'],[90,'Last 90 days'],[0,'All recorded history']];
+  const skillOptions=[['all','All skills'],...HISTORY_SKILLS.map(sk=>[sk,skillLabel(sk)])];
+  const periodSelect=`<label>Period<select id="grammarHistoryPeriod">${periodOptions.map(([value,name])=>
+    `<option value="${value}" ${state.historyDays===value?'selected':''}>${name}</option>`).join('')}</select></label>`;
+  const skillSelect=`<label>Skill<select id="grammarHistorySkill">${skillOptions.map(([value,name])=>
+    `<option value="${value}" ${state.historySkill===value?'selected':''}>${name}</option>`).join('')}</select></label>`;
+  const summary=[['Attempts',stats.attempts],['Accuracy',percent(stats.successes,stats.attempts)],
+    ['Unique exercises',stats.exercises],['Sessions with answers',stats.sessions],
+    ['Approx. answer time',`${Math.round(stats.durationMs/60000)} min`],
+    ['First-ever attempts',stats.firstAttempts],
+    ['Delayed attempts (24h+)',`${stats.delayedAttempts} · ${percent(stats.delayedSuccesses,stats.delayedAttempts)}`]];
+  const skills=HISTORY_SKILLS.map(sk=>{
+    const x=stats.bySkill[sk];return `<tr><td>${skillLabel(sk)}</td><td>${x.attempts}</td><td>${percent(x.successes,x.attempts)}</td><td>${Math.round(x.durationMs/60000)} min</td></tr>`;
+  }).join('');
+  const sessionRows=sessions.map(x=>`<tr><td>${escapeHtml(formatTime(x.last))}</td>
+    <td>${escapeHtml(x.mode)} · ${escapeHtml(x.source)}</td><td>${x.attempts}</td>
+    <td>${percent(x.successes,x.attempts)}</td><td>${escapeHtml(x.units.length===1?(byUnit.get(x.units[0])||x.units[0]):`${x.units.length} lessons`)}</td>
+    <td>${formatDuration(x.durationMs)}</td></tr>`).join('');
+  const latest=[...filtered].sort((a,b)=>b.time-a.time).slice(0,40);
+  const attemptRows=latest.map(a=>`<tr><td>${escapeHtml(formatTime(a.time))}</td>
+    <td>${escapeHtml(byUnit.get(a.unitId)||a.unitId)}</td><td>${escapeHtml(skillLabel(a.skill))}</td>
+    <td>${escapeHtml(a.exerciseId)}</td><td>${a.correct?'Correct':'Incorrect'}</td>
+    <td>${a.delayed?'Yes':'No'}</td><td>${formatDuration(a.durationMs)}</td></tr>`).join('');
+  app.innerHTML=`<div class="stack"><section class="panel">
+    <div class="between"><div><h2>Study activity</h2><p class="hint">Filter completed attempts. Previous cumulative progress has no timestamps and cannot appear here.</p></div>
+    <span class="chip">${all.length}/${MAX_HISTORY_ATTEMPTS} retained</span></div>
+    <div class="grammar-history-filters">${periodSelect}${skillSelect}</div>
+    <div class="grammar-progress-grid">${summary.map(([label,value])=>`<div class="small-card"><span class="label">${label}</span><strong>${value}</strong></div>`).join('')}</div>
+    <p class="hint grammar-history-note">Timed from question display to submission; pauses and replay time are included. A delayed attempt is a new response at least 24 hours after the previous one, not a verified mastery score.</p>
+    <div class="buttonrow"><button class="ghost" data-action="progress">Back to grammar progress</button><button class="ghost" data-action="export">Export grammar backup (including history)</button></div>
+  </section><section class="panel"><h2>By skill</h2><div class="table-wrap"><table><thead><tr><th>Skill</th><th>Attempts</th><th>Accuracy</th><th>Approx. time</th></tr></thead><tbody>${skills}</tbody></table></div></section>
+  <section class="panel"><h2>Recent sessions</h2><p class="hint">Up to 25 sessions with at least one recorded answer.</p>
+    ${sessionRows?`<div class="table-wrap"><table><thead><tr><th>Last activity</th><th>Type</th><th>Answers</th><th>Accuracy</th><th>Lesson</th><th>Question time</th></tr></thead><tbody>${sessionRows}</tbody></table></div>`:'<p class="hint">No completed exercises in this period.</p>'}</section>
+  <section class="panel"><h2>Recent attempts</h2><p class="hint">Most recent 40 answers. The entered text and speech transcripts are never stored.</p>
+    ${attemptRows?`<div class="table-wrap"><table><thead><tr><th>Time</th><th>Lesson</th><th>Skill</th><th>Exercise</th><th>Result</th><th>24h+</th><th>Time</th></tr></thead><tbody>${attemptRows}</tbody></table></div>`:'<p class="hint">Complete an exercise to start recording history.</p>'}</section></div>`;
+}
 function renderProgress() {
   const stats=summarizeGrammarCatalog(state.catalog),u=state.current;
   header('Grammar progress','GRAMMAR · ANALYTICS','Progress is saved locally and separate from vocabulary.',`${stats.practiced} PRACTISED`);
@@ -202,7 +262,7 @@ function renderProgress() {
     ['Review due',stats.due+stats.speaking.due+stats.listening.due]];
   const overall=`<section class="panel"><h2>All grammar lessons</h2><div class="grammar-progress-grid">${tileData.map(([title,value])=>
     `<div class="small-card"><span class="label">${title}</span><strong>${value}</strong></div>`).join('')}</div>
-    <div class="buttonrow"><button class="primary" data-action="review-all" ${stats.due?'':'disabled'}>Review written (${stats.due})</button><button class="ghost" data-action="review-speaking-all" ${stats.speaking.due?'':'disabled'}>Review speaking (${stats.speaking.due})</button><button class="ghost" data-action="review-listening-all" ${stats.listening.due?'':'disabled'}>Review listening (${stats.listening.due})</button><button class="ghost" data-action="library">Browse lessons</button></div>
+    <div class="buttonrow"><button class="primary" data-action="review-all" ${stats.due?'':'disabled'}>Review written (${stats.due})</button><button class="ghost" data-action="review-speaking-all" ${stats.speaking.due?'':'disabled'}>Review speaking (${stats.speaking.due})</button><button class="ghost" data-action="review-listening-all" ${stats.listening.due?'':'disabled'}>Review listening (${stats.listening.due})</button><button class="ghost" data-action="history">Learning history</button><button class="ghost" data-action="library">Browse lessons</button></div>
     <div class="table-wrap"><table><thead><tr><th>Lesson</th><th>Level</th><th>Practised</th><th>Accuracy</th><th>Speaking</th><th>Listening</th><th>Due</th></tr></thead>
     <tbody>${state.catalog.map(e=>{const s=stats.byUnit[e.id];return `<tr><td><button class="grammar-text-button" data-action="open" data-id="${escapeHtml(e.id)}">${escapeHtml(e.title)}</button></td>
     <td>${escapeHtml(e.level)}</td><td>${s.practiced}/${s.total}</td><td>${percent(s.successes,s.attempts)}</td><td>${s.speaking.practiced}/${s.speaking.total}</td><td>${s.listening.practiced}/${s.listening.total}</td><td>${s.due+s.speaking.due+s.listening.due}</td></tr>`;}).join('')}</tbody></table></div></section>`;
@@ -212,11 +272,11 @@ function renderProgress() {
     <tbody>${[...u.exercises,...(u.speakingExercises||[]),...(u.listeningExercises||[])].map(ex=>{const p=records[grammarKey(u.id,ex.id)];return `<tr><td>${escapeHtml(ex.id)}</td><td>${escapeHtml((u.speakingExercises||[]).includes(ex)?'speaking':(u.listeningExercises||[]).includes(ex)?'listening':exerciseSkill(ex))}</td>
       <td>${p?.attempts??0}</td><td>${p?percent(p.successes,p.attempts):'—'}</td><td>${p?(p.due<=Date.now()?'Due':escapeHtml(new Date(p.due).toLocaleString())):'Not practised'}</td></tr>`;}).join('')}</tbody></table></div></section>`:'';
   app.innerHTML=`<div class="stack">${overall}${detail}<section class="panel"><h2>Grammar progress backup</h2>
-    <p class="hint">Export/import includes grammar exercise progress across all lessons. Vocabulary progress and vocabulary backups are unchanged.</p>
+    <p class="hint">Export/import includes grammar progress and dated learning history; legacy backups without history still import. Vocabulary progress is unchanged.</p>
     <div class="buttonrow"><button class="ghost" data-action="export">Export grammar progress</button><button class="ghost" data-action="import">Import grammar progress</button>
-    <button class="ghost" data-action="clear">Clear grammar progress</button></div><input type="file" id="grammarImportFile" accept=".json,application/json" hidden></section></div>`;
+    <button class="ghost" data-action="clear">Clear grammar progress and history</button></div><input type="file" id="grammarImportFile" accept=".json,application/json" hidden></section></div>`;
 }
-function render(){if(state.page==='library')renderLibrary();else if(state.page==='lesson')renderLesson();else if(state.page==='session')renderSession();else if(state.page==='speaking')renderSpeaking();else if(state.page==='listening')renderListening();else renderProgress();}
+function render(){if(state.page==='library')renderLibrary();else if(state.page==='lesson')renderLesson();else if(state.page==='session')renderSession();else if(state.page==='speaking')renderSpeaking();else if(state.page==='listening')renderListening();else if(state.page==='history')renderHistory();else renderProgress();}
 async function getUnit(id){
   if(state.cache.has(id))return state.cache.get(id);
   const entry=state.catalog.find(x=>x.id===id);
@@ -232,7 +292,7 @@ function startListeningSession(review=false){
   const exercises=review?dueListeningExercises(state.current):(state.current.listeningExercises||[]);
   state.session=exercises.map(exercise=>({unit:state.current,exercise}));
   state.position=0;state.result=null;state.answer=null;
-  state.page=state.session.length?'listening':'lesson';stopAudio();render();
+  state.page=state.session.length?'listening':'lesson';beginTrackedSession(review?'review':'practice','lesson');stopAudio();render();
 }
 async function startGlobalListeningReview(){
   const pending=[];
@@ -243,14 +303,14 @@ async function startGlobalListeningReview(){
     for(const exercise of dueListeningExercises(unit))pending.push({unit,exercise});
   }
   state.session=pending;state.position=0;state.result=null;state.answer=null;
-  state.page=pending.length?'listening':'progress';stopAudio();render();
+  state.page=pending.length?'listening':'progress';beginTrackedSession('review','global');stopAudio();render();
 }
 function startSpeakingSession(review=false){
   if(!state.current){state.page='library';render();return;}
   const prompts=review?dueSpeakingExercises(state.current):(state.current.speakingExercises||[]);
   state.session=prompts.map(exercise=>({unit:state.current,exercise}));
   state.position=0;state.result=null;state.answer=null;state.speechError='';
-  state.page=state.session.length?'speaking':'lesson';render();
+  state.page=state.session.length?'speaking':'lesson';beginTrackedSession(review?'review':'practice','lesson');render();
 }
 async function startGlobalSpeakingReview(){
   const pending=[];
@@ -260,7 +320,7 @@ async function startGlobalSpeakingReview(){
     for(const exercise of dueSpeakingExercises(unit))pending.push({unit,exercise});
   }
   state.session=pending;state.position=0;state.result=null;state.answer=null;state.speechError='';
-  state.page=pending.length?'speaking':'progress';render();
+  state.page=pending.length?'speaking':'progress';beginTrackedSession('review','global');render();
 }
 function startSession(review=false){
   if(!state.current){state.page='library';render();return;}
@@ -268,14 +328,14 @@ function startSession(review=false){
   state.session=exercises.map(exercise=>({unit:state.current,exercise}));
   state.position=0;state.result=null;state.answer=null;
   if(!state.session.length){state.page='lesson';render();return;}
-  state.page='session';stopAudio();render();
+  state.page='session';beginTrackedSession(review?'review':'practice','lesson');stopAudio();render();
 }
 async function startGlobalReview(){
   const dueIds=dueGrammarUnitIds(state.catalog);
   const pending=[];
   for(const id of dueIds){const unit=await getUnit(id);for(const exercise of dueExercises(unit))pending.push({unit,exercise});}
   state.session=pending;state.position=0;state.result=null;state.answer=null;
-  state.page=pending.length?'session':'progress';stopAudio();render();
+  state.page=pending.length?'session':'progress';beginTrackedSession('review','global');stopAudio();render();
 }
 function saveJSON(object,filename){const url=URL.createObjectURL(new Blob([JSON.stringify(object,null,2)],{type:'application/json'}));
   const a=document.createElement('a');a.href=url;a.download=filename;a.click();setTimeout(()=>URL.revokeObjectURL(url),1500);}
@@ -292,10 +352,16 @@ function applyFilters(){
 app.addEventListener('input',event=>{if(event.target.id==='grammarSearch')applyFilters();});
 app.addEventListener('change',async event=>{
   if(event.target.id==='grammarLevel'){applyFilters();return;}
+  if(event.target.id==='grammarHistoryPeriod'){
+    state.historyDays=Number(event.target.value);render();return;
+  }
+  if(event.target.id==='grammarHistorySkill'){
+    state.historySkill=event.target.value;render();return;
+  }
   if(event.target.id==='grammarAudioSpeed'){configureAudio({rate:Number(event.target.value)});return;}
   if(event.target.id!=='grammarImportFile'||!event.target.files?.[0])return;
   try{const data=JSON.parse(await event.target.files[0].text());
-    if(!confirm('Replace ALL grammar progress with this backup? Vocabulary progress is not affected.'))return;
+    if(!confirm('Replace ALL grammar progress AND history with this backup? Older backups without history will clear the current dated history. Vocabulary progress is not affected.'))return;
     importGrammarProgress(data);render();
   }catch(error){alert('Could not import grammar progress: '+error.message);}
 });
@@ -308,7 +374,7 @@ app.addEventListener('submit',event=>{
     if(value===null || !String(value).trim())return;
     state.answer=entry.exercise.type==='multiple-choice'?Number(value):String(value);
     state.result=evaluateListeningAnswer(entry.exercise,state.answer);
-    recordGrammarAttempt(entry.unit.id,entry.exercise.id,'listening',state.result.correct);
+    recordGrammarAttempt(entry.unit.id,entry.exercise.id,'listening',state.result.correct,localStorage,Date.now(),attemptContext());
     stopAudio();render();return;
   }
   if(event.target.id!=='grammarAnswerForm')return;
@@ -319,7 +385,7 @@ app.addEventListener('submit',event=>{
   if(value===null||!String(value).trim())return;
   state.answer=entry.exercise.type==='multiple-choice'?Number(value):String(value);
   state.result=evaluateExercise(entry.exercise,state.answer);
-  recordGrammarAttempt(entry.unit.id,entry.exercise.id,exerciseSkill(entry.exercise),state.result.correct);
+  recordGrammarAttempt(entry.unit.id,entry.exercise.id,exerciseSkill(entry.exercise),state.result.correct,localStorage,Date.now(),attemptContext());
   render();
 });
 app.addEventListener('click',async event=>{
@@ -346,6 +412,7 @@ app.addEventListener('click',async event=>{
     else if(action==='library'){stopAudio();state.page='library';state.result=null;render();}
     else if(action==='lesson'){stopAudio();state.page=state.current?'lesson':'library';state.result=null;render();}
     else if(action==='progress'){stopAudio();state.page='progress';state.result=null;render();}
+    else if(action==='history'){stopAudio();state.page='history';state.result=null;render();}
     else if(action==='start')startSession();
     else if(action==='review')startSession(true);
     else if(action==='review-all')await startGlobalReview();
@@ -372,7 +439,7 @@ app.addEventListener('click',async event=>{
             state.speechError='No speech was recognized. Please try again.';
           }else{
             state.result=evaluateSpokenAnswer(entry.exercise,alternatives);
-            recordGrammarAttempt(entry.unit.id,entry.exercise.id,'speaking',state.result.correct);
+            recordGrammarAttempt(entry.unit.id,entry.exercise.id,'speaking',state.result.correct,localStorage,Date.now(),attemptContext());
           }
           render();
         }
@@ -381,19 +448,19 @@ app.addEventListener('click',async event=>{
       }
     }
     else if(action==='next-speaking'&&state.page==='speaking'&&state.result){
-      state.position++;state.result=null;state.answer=null;state.speechError='';
+      state.position++;state.result=null;state.answer=null;state.speechError='';state.questionStartedAt=Date.now();
       state.page=state.position<state.session.length?'speaking':'progress';render();
     }
     else if(action==='next-listening'&&state.page==='listening'&&state.result){
-      stopAudio();state.position++;state.result=null;state.answer=null;
+      stopAudio();state.position++;state.result=null;state.answer=null;state.questionStartedAt=Date.now();
       state.page=state.position<state.session.length?'listening':'progress';render();
     }
-    else if(action==='next'&&state.result){stopAudio();state.position++;state.result=null;state.answer=null;
+    else if(action==='next'&&state.result){stopAudio();state.position++;state.result=null;state.answer=null;state.questionStartedAt=Date.now();
       state.page=state.position<state.session.length?'session':'progress';render();}
     else if(action==='export')saveJSON(exportGrammarProgress(),'vocablab-grammar-progress.json');
     else if(action==='import')$('#grammarImportFile')?.click();
-    else if(action==='clear'){if(confirm('Delete ALL grammar progress? Vocabulary progress will remain untouched.')){
-      localStorage.removeItem(GRAMMAR_PROGRESS_KEY);render();}}
+    else if(action==='clear'){if(confirm('Delete ALL grammar progress AND dated history? Vocabulary progress will remain untouched.')){
+      localStorage.removeItem(GRAMMAR_PROGRESS_KEY);localStorage.removeItem(GRAMMAR_HISTORY_KEY);render();}}
   }catch(error){app.innerHTML=notice(error.message);}finally{state.loading=false;}
 });
 document.querySelectorAll('[data-nav]').forEach(button=>button.addEventListener('click',()=>{

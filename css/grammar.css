@@ -72,3 +72,10 @@
 .grammar-listening-player .hint { margin-bottom:10px; }
 .grammar-listening-player #grammarAudioStatus { margin:9px 0 0; }
 @media(max-width:550px){ .grammar-audio-tools .between { flex-wrap:wrap; gap:12px; } .grammar-listening-player { padding:12px; } }
+
+/* Dated grammar history (local-only). */
+.grammar-history-filters {display:grid;grid-template-columns:repeat(2,minmax(160px,1fr));gap:14px;margin:15px 0 19px;}
+.grammar-history-filters label {font-size:13px;font-weight:650;display:grid;gap:7px;color:#50637c;}
+.grammar-history-filters select {border:1px solid #d5dceb;background:#fff;border-radius:10px;padding:10px;color:#283b56;min-width:0;}
+.grammar-history-note {margin:17px 0;line-height:1.6;}
+@media(max-width:520px){.grammar-history-filters {grid-template-columns:1fr;}}
