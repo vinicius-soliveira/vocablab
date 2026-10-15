@@ -60,3 +60,15 @@
 .grammar-speaking-panel .grammar-note { text-align:right; }
 .grammar-speech-status { margin:14px 0; color:#52637d; min-height:24px; }
 @media(max-width:650px) { .grammar-speaking-panel .between { flex-direction:column; } .grammar-speaking-panel .grammar-note { text-align:left; } }
+
+/* Grammar Audio & Listening: light extension of existing visual language. */
+.grammar-audio-button { font-size:12px; padding:6px 10px; margin:6px 0 0; white-space:nowrap; vertical-align:middle; }
+.grammar-example .grammar-audio-button { margin-left:8px; }
+.grammar-audio-tools, .grammar-listening-panel { border-color:var(--line,#dce1ee); }
+.grammar-audio-speed { display:inline-flex; gap:9px; align-items:center; color:#52627a; font-size:13px; font-weight:650; }
+.grammar-audio-speed select { border:1px solid #cfd6e7; border-radius:9px; background:#fff; padding:7px 9px; min-width:85px; color:#283b56; }
+.grammar-listening-player { margin-top:18px; padding:16px; border-radius:12px; border:1px solid #dce1ee; background:#f8f9ff; }
+.grammar-listening-player .buttonrow { align-items:center; }
+.grammar-listening-player .hint { margin-bottom:10px; }
+.grammar-listening-player #grammarAudioStatus { margin:9px 0 0; }
+@media(max-width:550px){ .grammar-audio-tools .between { flex-wrap:wrap; gap:12px; } .grammar-listening-player { padding:12px; } }

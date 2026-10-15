@@ -221,5 +221,43 @@
       ],
       "feedback": "The present perfect passive is has/have been + past participle."
     }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The firmware was updated yesterday.",
+      "prompt": "Is the sentence active or passive?",
+      "choices": [
+        "Passive",
+        "Active",
+        "Imperative"
+      ],
+      "answerIndex": 0,
+      "feedback": "Was updated is past simple passive."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The reports are reviewed every Friday.",
+      "prompt": "Which passive form did you hear?",
+      "choices": [
+        "Present simple passive",
+        "Past simple passive",
+        "Present perfect passive"
+      ],
+      "answerIndex": 0,
+      "feedback": "Are reviewed is present simple passive."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The board has been tested.",
+      "prompt": "Type the passive verb phrase you hear.",
+      "acceptedAnswers": [
+        "has been tested"
+      ],
+      "feedback": "Has been + past participle is present perfect passive."
+    }
   ]
 }

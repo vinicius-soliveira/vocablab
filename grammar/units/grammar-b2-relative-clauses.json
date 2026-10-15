@@ -228,5 +228,43 @@
       ],
       "feedback": "Use where for a place, or a relative clause with a preposition."
     }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The engineer who fixed the controller is here.",
+      "prompt": "Which relative pronoun refers to the person?",
+      "choices": [
+        "who",
+        "which",
+        "whose"
+      ],
+      "answerIndex": 0,
+      "feedback": "Who introduces a relative clause about a person."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The board that we tested passed inspection.",
+      "prompt": "What type of relative clause identifies the board?",
+      "choices": [
+        "Defining",
+        "Non-defining",
+        "Possessive"
+      ],
+      "answerIndex": 0,
+      "feedback": "That introduces a defining relative clause here."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The sensor, which arrived yesterday, is faulty.",
+      "prompt": "Type the relative pronoun you hear.",
+      "acceptedAnswers": [
+        "which"
+      ],
+      "feedback": "Which introduces additional information about the sensor."
+    }
   ]
 }

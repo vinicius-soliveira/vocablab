@@ -15,6 +15,7 @@ for(const file of (await readdir(unitsDir)).filter(n=>n.endsWith('.json')).sort(
   if(file!==unit.id+'.json') throw new Error(`Grammar unit filename must match ID: ${file}`);
   entries.push({id:unit.id,title:unit.title,level:unit.level,topicId:unit.topicId,
     exerciseCount:unit.exercises.length,speakingCount:unit.speakingExercises?.length || 0,
+    listeningCount:unit.listeningExercises?.length || 0,
     path:relative(root,filePath).split(sep).join('/')});
 }
 if(!entries.length) throw new Error('No grammar unit files found.');

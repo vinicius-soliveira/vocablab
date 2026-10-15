@@ -221,5 +221,43 @@
       ],
       "feedback": "Use an before a vowel sound."
     }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "She is an engineer.",
+      "prompt": "Which article did you hear before “engineer”?",
+      "choices": [
+        "a",
+        "an",
+        "the"
+      ],
+      "answerIndex": 1,
+      "feedback": "Use an before a vowel sound, as in an engineer."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The sensor on the table is broken.",
+      "prompt": "Which noun phrase refers to the specific sensor?",
+      "choices": [
+        "the sensor",
+        "a sensor",
+        "sensor without an article"
+      ],
+      "answerIndex": 0,
+      "feedback": "The identifies a particular sensor."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I need an adapter.",
+      "prompt": "Type the article you hear before “adapter”.",
+      "acceptedAnswers": [
+        "an"
+      ],
+      "feedback": "An is used before the vowel sound in adapter."
+    }
   ]
 }

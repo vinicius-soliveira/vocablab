@@ -223,5 +223,43 @@
       ],
       "feedback": "The verb wait takes the preposition for before its object."
     }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The meeting starts at nine.",
+      "prompt": "Which preposition is used before the clock time?",
+      "choices": [
+        "at",
+        "on",
+        "in"
+      ],
+      "answerIndex": 0,
+      "feedback": "At is used with clock times."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The presentation is on Friday.",
+      "prompt": "Which preposition is used before the day?",
+      "choices": [
+        "on",
+        "at",
+        "in"
+      ],
+      "answerIndex": 0,
+      "feedback": "On is used for days and dates."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "She is interested in robotics.",
+      "prompt": "Type the preposition after “interested”.",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "feedback": "Interested in is the required adjective–preposition combination."
+    }
   ]
 }

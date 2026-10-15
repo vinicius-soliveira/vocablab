@@ -244,5 +244,44 @@
       ],
       "feedback": "Use the third conditional for an unreal past situation."
     }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "If it rains, we will stay home.",
+      "prompt": "Which conditional pattern did you hear?",
+      "choices": [
+        "First conditional",
+        "Second conditional",
+        "Third conditional"
+      ],
+      "answerIndex": 0,
+      "feedback": "If + present, will + base verb: first conditional."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "If I had more time, I would travel more.",
+      "prompt": "Which conditional pattern did you hear?",
+      "choices": [
+        "First conditional",
+        "Second conditional",
+        "Third conditional"
+      ],
+      "answerIndex": 1,
+      "feedback": "If + past, would + base verb: second conditional."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "If we had tested earlier, we would have found the fault.",
+      "prompt": "Type the result-clause verb phrase you hear after “we”.",
+      "acceptedAnswers": [
+        "would have found",
+        "would've found"
+      ],
+      "feedback": "Would have + past participle marks the hypothetical past result."
+    }
   ]
 }
