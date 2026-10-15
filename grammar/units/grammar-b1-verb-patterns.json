@@ -233,5 +233,43 @@
       ],
       "feedback": "Avoid is followed by an -ing form."
     }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I enjoy designing circuits.",
+      "prompt": "Which verb form follows “enjoy”?",
+      "choices": [
+        "Gerund (-ing)",
+        "To-infinitive",
+        "Bare infinitive"
+      ],
+      "answerIndex": 0,
+      "feedback": "Enjoy is followed by an -ing form."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We decided to redesign the board.",
+      "prompt": "Which verb form follows “decided”?",
+      "choices": [
+        "To-infinitive",
+        "Gerund (-ing)",
+        "Past participle"
+      ],
+      "answerIndex": 0,
+      "feedback": "Decide is normally followed by a to-infinitive."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "She avoided making the same mistake.",
+      "prompt": "Type the -ing form you hear after “avoided”.",
+      "acceptedAnswers": [
+        "making"
+      ],
+      "feedback": "Avoid takes a gerund (-ing)."
+    }
   ]
 }

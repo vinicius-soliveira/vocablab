@@ -86,6 +86,29 @@ export function validateGrammarUnit(data) {
       }
     }
   }
+  if (data.listeningExercises !== undefined) {
+    if (!Array.isArray(data.listeningExercises) || data.listeningExercises.length > 30)
+      throw new Error('Invalid listeningExercises.');
+    for (const e of data.listeningExercises) {
+      assertId(e?.id, 'listening exercise id');
+      if (ids.has(e.id)) throw new Error(`Duplicate exercise ID: ${e.id}.`);
+      ids.add(e.id);
+      if (!['multiple-choice', 'gap-fill'].includes(e.type)) throw new Error(`Invalid listening exercise type for ${e.id}.`);
+      assertText(e.audioText, 'listening audioText', 450);
+      assertText(e.prompt, 'listening prompt', 600);
+      assertText(e.feedback, 'listening feedback', 1000);
+      if (e.type === 'multiple-choice') {
+        if (!Array.isArray(e.choices) || e.choices.length < 2 || e.choices.length > 6 ||
+            e.choices.some(x=>typeof x!=='string' || !x.trim() || x.length>250) ||
+            new Set(e.choices.map(x=>x.trim().toLowerCase())).size !== e.choices.length ||
+            !Number.isInteger(e.answerIndex) || e.answerIndex < 0 || e.answerIndex >= e.choices.length)
+          throw new Error(`Invalid listening choices for ${e.id}.`);
+      } else if (!Array.isArray(e.acceptedAnswers) || !e.acceptedAnswers.length || e.acceptedAnswers.length > 20 ||
+          e.acceptedAnswers.some(x=>typeof x!=='string' || !x.trim() || x.length>300)) {
+        throw new Error(`Invalid listening acceptedAnswers for ${e.id}.`);
+      }
+    }
+  }
   if (data.speakingExercises !== undefined) {
     if (!Array.isArray(data.speakingExercises) || data.speakingExercises.length > 30)
       throw new Error('Invalid speakingExercises.');
@@ -116,6 +139,7 @@ export function validateGrammarManifest(data) {
     if (!LEVELS.has(item.level) || !validGrammarPath(item.path) ||
         !Number.isInteger(item.exerciseCount) || item.exerciseCount < 1 || item.exerciseCount > 150 ||
         (item.speakingCount !== undefined && (!Number.isInteger(item.speakingCount) || item.speakingCount < 0 || item.speakingCount > 30)) ||
+        (item.listeningCount !== undefined && (!Number.isInteger(item.listeningCount) || item.listeningCount < 0 || item.listeningCount > 30)) ||
         ids.has(item.id)) throw new Error(`Invalid grammar catalog entry: ${item.id}.`);
     ids.add(item.id);
   }

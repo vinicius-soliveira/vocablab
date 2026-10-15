@@ -13,7 +13,7 @@ export function getGrammarProgress(storage = localStorage) {
 }
 export function recordGrammarAttempt(unitId, exerciseId, skill, correct, storage = localStorage, now = Date.now()) {
   if (!/^[\w-]+$/.test(unitId) || !/^[\w-]+$/.test(exerciseId) ||
-      !['recognition', 'production', 'speaking'].includes(skill)) throw new Error('Invalid grammar progress key or skill.');
+      !['recognition', 'production', 'speaking', 'listening'].includes(skill)) throw new Error('Invalid grammar progress key or skill.');
   const all = getGrammarProgress(storage);
   const id = grammarKey(unitId, exerciseId);
   const old = all[id] || {};
@@ -45,6 +45,27 @@ export function dueSpeakingExercises(unit, storage = localStorage, now = Date.no
     const entry = all[grammarKey(unit.id, e.id)];
     return entry?.skill === 'speaking' && entry.due <= now;
   });
+}
+/** Listening reviews never count as written or speaking exercises. */
+export function dueListeningExercises(unit, storage = localStorage, now = Date.now()) {
+  const all = getGrammarProgress(storage);
+  return (unit.listeningExercises || []).filter(e => {
+    const x = all[grammarKey(unit.id,e.id)];
+    return x?.skill === 'listening' && x.due <= now;
+  });
+}
+export function summarizeListeningUnit(unit, storage = localStorage, now = Date.now()) {
+  const all = getGrammarProgress(storage);
+  const result = {total:(unit.listeningExercises || []).length, practiced:0, attempts:0, successes:0, due:0};
+  for (const e of unit.listeningExercises || []) {
+    const item = all[grammarKey(unit.id,e.id)];
+    if (!item || item.skill !== 'listening') continue;
+    result.practiced++;
+    result.attempts += item.attempts;
+    result.successes += item.successes;
+    result.due += Number(item.due <= now);
+  }
+  return result;
 }
 export function summarizeSpeakingUnit(unit, storage = localStorage, now = Date.now()) {
   const all = getGrammarProgress(storage);
@@ -85,7 +106,7 @@ export function importGrammarProgress(backup, storage = localStorage) {
   const validated = {};
   for (const [id, item] of Object.entries(backup.progress)) {
     if (!/^[\w-]+::[\w-]+$/.test(id) || !item || typeof item !== 'object' ||
-        !['recognition', 'production', 'speaking'].includes(item.skill)) throw new Error(`Invalid progress record: ${id}.`);
+        !['recognition', 'production', 'speaking', 'listening'].includes(item.skill)) throw new Error(`Invalid progress record: ${id}.`);
     for (const n of ['attempts', 'successes', 'streak', 'intervalDays', 'due', 'last']) {
       if (!Number.isSafeInteger(item[n]) || item[n] < 0) throw new Error(`Invalid progress value: ${id}.${n}.`);
     }
@@ -114,11 +135,20 @@ export function summarizeGrammarCatalog(catalog, storage = localStorage, now = D
   const grouped = progressByUnit(storage);
   const result = {units:catalog.length, exercises:0, practiced:0, attempts:0, successes:0, due:0,
     recognition:{attempts:0, successes:0}, production:{attempts:0, successes:0},
-    speaking:{total:0, practiced:0, attempts:0, successes:0, due:0}, byUnit:{}};
+    speaking:{total:0, practiced:0, attempts:0, successes:0, due:0},
+    listening:{total:0, practiced:0, attempts:0, successes:0, due:0}, byUnit:{}};
   for (const unit of catalog) {
     const stats = {total:unit.exerciseCount, practiced:0, attempts:0, successes:0, due:0,
-      speaking:{total:unit.speakingCount || 0, practiced:0, attempts:0, successes:0, due:0}};
+      speaking:{total:unit.speakingCount || 0, practiced:0, attempts:0, successes:0, due:0},
+      listening:{total:unit.listeningCount || 0, practiced:0, attempts:0, successes:0, due:0}};
     for (const record of grouped.get(unit.id) || []) {
+      if (record.skill === 'listening') {
+        stats.listening.practiced++;
+        stats.listening.attempts += record.attempts || 0;
+        stats.listening.successes += record.successes || 0;
+        stats.listening.due += Number(record.due <= now);
+        continue;
+      }
       if (record.skill === 'speaking') {
         stats.speaking.practiced++;
         stats.speaking.attempts += record.attempts || 0;
@@ -142,6 +172,8 @@ export function summarizeGrammarCatalog(catalog, storage = localStorage, now = D
     result.due += stats.due;
     for (const k of ['total','practiced','attempts','successes','due'])
       result.speaking[k] += stats.speaking[k];
+    for (const k of ['total','practiced','attempts','successes','due'])
+      result.listening[k] += stats.listening[k];
     result.byUnit[unit.id] = stats;
   }
   return result;
@@ -150,5 +182,5 @@ export function summarizeGrammarCatalog(catalog, storage = localStorage, now = D
 /** IDs of catalog units with currently due exercises; never includes removed units. */
 export function dueGrammarUnitIds(catalog, storage = localStorage, now = Date.now()) {
   const grouped = progressByUnit(storage);
-  return catalog.filter(unit => (grouped.get(unit.id) || []).some(record => record.skill !== 'speaking' && record.due <= now)).map(unit => unit.id);
+  return catalog.filter(unit => (grouped.get(unit.id) || []).some(record => record.skill !== 'speaking' && record.skill !== 'listening' && record.due <= now)).map(unit => unit.id);
 }

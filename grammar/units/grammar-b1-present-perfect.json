@@ -238,5 +238,44 @@
       ],
       "feedback": "Use Have you ever + past participle to ask about experience."
     }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I've already checked the configuration.",
+      "prompt": "Which tense describes the completed action with a present connection?",
+      "choices": [
+        "Present Perfect",
+        "Past Simple",
+        "Present Continuous"
+      ],
+      "answerIndex": 0,
+      "feedback": "Have checked is present perfect."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "He has worked here since 2020.",
+      "prompt": "What does the sentence tell you?",
+      "choices": [
+        "The situation continues to now",
+        "He stopped working here in 2020",
+        "He will start in 2020"
+      ],
+      "answerIndex": 0,
+      "feedback": "Since identifies a starting point in a continuing situation."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "They have not finished yet.",
+      "prompt": "Type the negative verb phrase you hear.",
+      "acceptedAnswers": [
+        "have not finished",
+        "haven't finished"
+      ],
+      "feedback": "Have not finished is a negative present perfect form."
+    }
   ]
 }

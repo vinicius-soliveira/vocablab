@@ -222,5 +222,43 @@
       ],
       "feedback": "In reported questions, use statement word order: where the meeting was."
     }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "She said she was ready.",
+      "prompt": "What form of speech is used?",
+      "choices": [
+        "Reported speech",
+        "Direct speech",
+        "Direct question"
+      ],
+      "answerIndex": 0,
+      "feedback": "Said she was ready reports another person’s words."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "He asked where the files were.",
+      "prompt": "What structure follows “asked”?",
+      "choices": [
+        "An indirect question",
+        "A direct question",
+        "A command"
+      ],
+      "answerIndex": 0,
+      "feedback": "Indirect questions use statement word order."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "They said they had finished.",
+      "prompt": "Type the reported verb phrase after the second “they”.",
+      "acceptedAnswers": [
+        "had finished"
+      ],
+      "feedback": "Had finished is past perfect, commonly used for backshifting."
+    }
   ]
 }

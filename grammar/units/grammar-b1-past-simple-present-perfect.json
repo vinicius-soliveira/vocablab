@@ -226,5 +226,44 @@
       ],
       "feedback": "Use present perfect (simple or continuous) for a situation continuing to now."
     }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I repaired the board yesterday.",
+      "prompt": "Which tense is used for the completed action?",
+      "choices": [
+        "Past Simple",
+        "Present Perfect",
+        "Present Continuous"
+      ],
+      "answerIndex": 0,
+      "feedback": "Yesterday is a finished past-time expression."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I have worked here for three years.",
+      "prompt": "Which tense connects past and present?",
+      "choices": [
+        "Past Simple",
+        "Present Perfect",
+        "Past Perfect"
+      ],
+      "answerIndex": 1,
+      "feedback": "Have worked describes an experience or situation continuing to now."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "We have finished the calibration.",
+      "prompt": "Type the verb phrase you hear after “we”.",
+      "acceptedAnswers": [
+        "have finished",
+        "we've finished"
+      ],
+      "feedback": "Have finished is present perfect: have plus past participle."
+    }
   ]
 }

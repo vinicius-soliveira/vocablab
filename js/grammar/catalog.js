@@ -13,7 +13,8 @@ export async function loadGrammarUnit(entry, fetcher = fetch) {
   const unit = validateGrammarUnit(await response.json());
   if (unit.id !== entry.id || unit.topicId !== entry.topicId ||
       unit.level !== entry.level || unit.exercises.length !== entry.exerciseCount ||
-      (entry.speakingCount !== undefined && (unit.speakingExercises?.length || 0) !== entry.speakingCount)) {
+      (entry.speakingCount !== undefined && (unit.speakingExercises?.length || 0) !== entry.speakingCount) ||
+      (entry.listeningCount !== undefined && (unit.listeningExercises?.length || 0) !== entry.listeningCount)) {
     throw new Error(`Grammar catalog/unit mismatch for ${entry.id}.`);
   }
   return unit;

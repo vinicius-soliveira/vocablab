@@ -227,5 +227,43 @@
       ],
       "feedback": "Might, may and could express possibility."
     }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "You must wear goggles in the laboratory.",
+      "prompt": "What does “must” express here?",
+      "choices": [
+        "Obligation",
+        "Possibility",
+        "Ability"
+      ],
+      "answerIndex": 0,
+      "feedback": "Must expresses strong obligation."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "You don't have to attend the meeting.",
+      "prompt": "What does the modal expression mean?",
+      "choices": [
+        "Attendance is not necessary",
+        "Attendance is prohibited",
+        "Attendance is certain"
+      ],
+      "answerIndex": 0,
+      "feedback": "Do not have to means lack of obligation, not prohibition."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "You should check the cables first.",
+      "prompt": "Type the modal verb before “check”.",
+      "acceptedAnswers": [
+        "should"
+      ],
+      "feedback": "Should commonly expresses advice."
+    }
   ]
 }
