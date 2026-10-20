@@ -1,6 +1,6 @@
 # VocabLab Book Registry — v1
 
-`books.json` is the canonical metadata registry for course volumes in VocabLab. **Book names in UI and generated manifests come from this registry**, not imported textbook titles.
+`books.json` is the central metadata registry for VocabLab course volumes. Book names displayed in the UI and generated manifests are defined in this registry, ensuring consistent naming across the platform.
 
 ## Example
 
@@ -36,7 +36,7 @@
 4. Run `npm run audit:books` and `npm test`. All units must map to exactly one available book. An unregistered imported book triggers an audit error, rather than being silently misclassified.
 5. Check user-facing labels in the existing UI. The book registry does not modify teaching content or provenance stored inside JSON packages.
 
-The book registry is an **additional layer**, not a replacement for `database/manifest.json` or `database/grammar-manifest.json`. Its browser loader is `loadBooks()` from `js/curriculum/books.js`. It currently does not change local storage or render a new library screen.
+The book registry is an **additional layer**, not a replacement for `database/manifest.json` or `database/grammar-manifest.json`. Its browser loader is `loadBooks()` from `js/curriculum/books.js`. Version 1.4.2 adds `curriculum/index.json` and a `library.html` Books Library for read-only book/unit navigation and progress summaries; the registry itself does not change existing local-storage data or exercise engines.
 
 ## Backward compatibility
 
