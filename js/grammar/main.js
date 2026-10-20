@@ -519,8 +519,13 @@ document.querySelectorAll('[data-nav]').forEach(button=>button.addEventListener(
 (async()=>{
   try{
     state.catalog=await loadGrammarCatalog();
-    const active=localStorage.getItem(GRAMMAR_ACTIVE_KEY);
-    if(state.catalog.some(x=>x.id===active)){state.current=await getUnit(active);state.collectionId=state.catalog.find(x=>x.id===active).collectionId;}
+    const requested=new URLSearchParams(window.location.search).get('unit');
+    const active=state.catalog.some(x=>x.id===requested) ? requested : localStorage.getItem(GRAMMAR_ACTIVE_KEY);
+    if(state.catalog.some(x=>x.id===active)){
+      state.current=await getUnit(active);
+      state.collectionId=state.catalog.find(x=>x.id===active).collectionId;
+      if(requested===active){localStorage.setItem(GRAMMAR_ACTIVE_KEY,active);state.page='lesson';}
+    }
     render();
   }catch(error){header('Unable to start Grammar Lab','GRAMMAR · ERROR','Check the local server and database/grammar-manifest.json.');app.innerHTML=notice(error.message);}
 })();

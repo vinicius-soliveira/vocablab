@@ -9,12 +9,14 @@ const escapeHtml = (value) => String(value ?? '').replace(/[&<>"']/g, c => ({
 let view = 'dashboard', activeUnitId = localStorage.getItem('vocablab.active.v1') || 'evie-3ed-u01', units = {}, pairs = [], current = null, isAnswerSubmitted = false, session = [], position = 0, listeningMode = 'choice', lessonIndex = 0, pronunciationMode = 'words', minimalPairIndex = 0, minimalPairAnswer = '', recordingUrl = '', recording = false, activeTaskSkill = 'meaning', isReviewSession = false;
 // Display metadata for the main application views.
 const VIEW_METADATA = {
-    dashboard: ['YOUR LEARNING SPACE', 'Overview', 'Adaptive vocabulary learning, independent of any textbook.'], learn: ['VOCABULARY', 'Explore & understand', 'Learn meanings, pronunciation, and examples in context.'], listen: ['LISTENING', 'Train your ears', 'Recognize spoken words without relying on text.'], pronounce: ['SPEAKING', 'Pronunciation lab', 'Compare reference audio, practice minimal pairs, and record your voice.'], use: ['ACTIVE VOCABULARY', 'Use & recall', 'Recall words from their meanings and use them in context.'], review: ['ADAPTIVE PRACTICE', 'Review queue', 'Review each skill at the appropriate time.'], library: ['CONTENT MANAGER', 'Unit library', 'Study content from books, lessons, or personal lists.'], progress: ['ANALYTICS', 'Learning progress', 'Track each skill and back up your progress.']
+    dashboard: ['YOUR LEARNING SPACE', 'Overview', 'Adaptive vocabulary learning, independent of any textbook.'], learn: ['VOCABULARY', 'Explore & understand', 'Learn meanings, pronunciation, and examples in context.'], listen: ['LISTENING', 'Train your ears', 'Recognize spoken words without relying on text.'], pronounce: ['SPEAKING', 'Pronunciation lab', 'Compare reference audio, practice minimal pairs, and record your voice.'], use: ['ACTIVE VOCABULARY', 'Use & recall', 'Recall words from their meanings and use them in context.'], review: ['ADAPTIVE PRACTICE', 'Review queue', 'Review each skill at the appropriate time.'], library: ['LEARNING LIBRARY', 'Books library', 'Browse the curriculum by book and unit.'], progress: ['ANALYTICS', 'Learning progress', 'Track each skill and back up your progress.']
 };
 let catalogEntries = new Map();
 let loadedCatalogUnitId = null;
 function syncUnitsFromLibrary() {
-    units = library(); // Only personal content is stored in localStorage.
+    // Legacy demonstration units remain in storage/backups but are not part of the public curriculum.
+    // Published books come exclusively from database manifests and curriculum/books.json.
+    units = Object.fromEntries(Object.entries(library()).filter(([id]) => !['unit-03', 'workplace-communication'].includes(id)));
     for (const entry of catalogEntries.values()) {
         units[entry.id] = { ...entry, source: entry.bookTitle, items: [] };
     }
@@ -44,6 +46,10 @@ function button(label, id, kind = 'ghost') {
     return `<button type="button" id="${id}" class="${kind}">${label}</button>`;
 }
 function navigate(x) {
+    if (x === 'library') {
+        window.location.assign('library.html');
+        return;
+    }
     view = x;
     current = null;
     isAnswerSubmitted = false;
@@ -76,6 +82,12 @@ async function start() {
         // The vocabulary dashboard must not depend on a legacy minimal-pairs file.
         if (!units[activeUnitId]) activeUnitId = catalogEntries.keys().next().value || Object.keys(units)[0];
         if (!activeUnitId) throw new Error('No vocabulary units are available.');
+        // A direct link from Books Library selects the requested published unit.
+        const requested = new URLSearchParams(window.location.search).get('unit');
+        if (requested && catalogEntries.has(requested)) {
+            activeUnitId = requested;
+            localStorage.setItem('vocablab.active.v1', requested);
+        }
         await ensureUnitLoaded(activeUnitId);
         setup();
         render();
@@ -155,7 +167,7 @@ function render() {
 const bar = p => `<div class="meter"><i style="width:${Math.min(100, Math.max(0, Math.round(p * 100)))}%"></i></div>`;
 function dashboard() {
     const xs = items(), due = dueItems(activeUnitId, xs).filter(t => t.skill !== 'pronunciation'), avg = xs.length ? xs.reduce((a, x) => a + mastery(activeUnitId, x.id), 0) / xs.length : 0;
-    getElement('#app').innerHTML = `<div class="grid"><section class="panel"><span class="label">Active vocabulary</span><div class="stat">${xs.length}</div><p class="hint">${escapeHtml(unit()?.title)}</p></section><section class="panel"><span class="label">Historical mastery*</span><div class="stat">${Math.round(avg * 100)}%</div>${bar(avg)}</section><section class="panel"><span class="label">Reviews due</span><div class="stat">${due.length}</div><p class="hint">Meaning, listening and usage reviews. Pronunciation review is in Pronunciation Lab 2.0.</p></section></div><div class="cols" style="margin-top:17px"><section class="panel"><h2>Your next session</h2><p>Practice each skill. Priority is based on accuracy, mistakes, and scheduled reviews.</p><div class="grid"><button class="option" id="dashLearn">◫ Learn · meaning</button><button class="option" id="dashListen">◉ Listen · recognition</button><button class="option" id="dashPron">◌ Pronunciation lab</button><button class="option" id="dashReview">↻ Adaptive review (${due.length})</button></div></section><section class="panel"><h3>Available units</h3><div class="stat">${Object.keys(units).length}</div><p class="hint">Choose a unit from any available collection.</p>${button('Manage packages', 'dashLibrary', 'primary')}</section></div>`;
+    getElement('#app').innerHTML = `<div class="grid"><section class="panel"><span class="label">Active vocabulary</span><div class="stat">${xs.length}</div><p class="hint">${escapeHtml(unit()?.title)}</p></section><section class="panel"><span class="label">Historical mastery*</span><div class="stat">${Math.round(avg * 100)}%</div>${bar(avg)}</section><section class="panel"><span class="label">Reviews due</span><div class="stat">${due.length}</div><p class="hint">Meaning, listening and usage reviews. Pronunciation review is in Pronunciation Lab 2.0.</p></section></div><div class="cols" style="margin-top:17px"><section class="panel"><h2>Your next session</h2><p>Practice each skill. Priority is based on accuracy, mistakes, and scheduled reviews.</p><div class="grid"><button class="option" id="dashLearn">◫ Learn · meaning</button><button class="option" id="dashListen">◉ Listen · recognition</button><button class="option" id="dashPron">◌ Pronunciation lab</button><button class="option" id="dashReview">↻ Adaptive review (${due.length})</button></div></section><section class="panel"><h3>Available units</h3><div class="stat">${catalogEntries.size}</div><p class="hint">Choose a book from the learning library.</p>${button('Browse books', 'dashLibrary', 'primary')}</section></div>`;
     for (const [id, dest] of [['dashLearn', 'learn'], ['dashListen', 'listen'], ['dashPron', 'pronounce'], ['dashReview', 'review'], ['dashLibrary', 'library']])
         getElement('#' + id).onclick = () => dest === 'pronounce' ? window.location.assign('pronunciation.html') : navigate(dest);
 }

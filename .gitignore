@@ -2,6 +2,7 @@
 *.pdf
 backups/
 *.log
+*.bak
 
 # Python caches (if Python is used to serve the files)
 __pycache__/

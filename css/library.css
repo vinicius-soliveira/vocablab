@@ -1,0 +1,33 @@
+/* One curriculum across Vocabulary, Collocations, and Grammar Labs. */
+.rail a.rail-package-link.selected{background:#353b63;color:#fff;}
+.library-link{text-decoration:none;white-space:nowrap;}
+.library-toolbar{display:flex;gap:14px;flex-wrap:wrap;align-items:center;justify-content:space-between;margin-bottom:20px;}
+.library-toolbar label{display:block;flex:1;min-width:215px;font-weight:650;font-size:13px;color:#354563;}
+.library-toolbar input,.library-toolbar select{display:block;width:100%;margin-top:7px;border-radius:9px;border:1px solid #d1d9e7;background:#fff;padding:11px;color:#243654;}
+.library-books{display:grid;grid-template-columns:repeat(auto-fill,minmax(235px,1fr));gap:14px;margin:14px 0 20px;}
+.library-book{border:1px solid #dfe5f2;background:#fff;border-radius:14px;padding:19px;display:flex;flex-direction:column;gap:10px;color:#1d2a43;text-decoration:none;min-width:0;transition:border-color .15s,transform .15s;}
+.library-book:hover,.library-book:focus-visible{border-color:#8475db;transform:translateY(-1px);}
+.library-book h3{font-size:17px;margin:5px 0 0;}
+.library-book .book-foot{margin-top:auto;display:flex;justify-content:space-between;gap:8px;font-size:12px;color:#5b6480;font-weight:650;}
+.library-book .hint{margin:0;}
+.library-book .book-top{display:flex;justify-content:space-between;gap:7px;align-items:center;flex-wrap:wrap;}
+.library-progress{height:7px;background:#e8eaf5;border-radius:99px;overflow:hidden;}
+.library-progress i{display:block;background:#7164d0;height:100%;border-radius:99px;}
+.library-stats{display:flex;flex-wrap:wrap;gap:12px;margin:0 0 18px;}
+.library-stats .chip{display:inline-flex;align-items:center;}
+.library-book-detail{display:flex;align-items:start;justify-content:space-between;gap:12px;flex-wrap:wrap;}
+.library-book-detail h2{margin:6px 0 8px;}
+.library-unit-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:12px;margin-top:18px;}
+.library-unit{border:1px solid #dfe5f2;padding:16px;border-radius:12px;background:#fff;display:flex;flex-direction:column;min-width:0;gap:8px;}
+.library-unit h3{font-size:15px;margin:0;line-height:1.45;}
+.library-unit .unit-activity{font-size:12px;color:#71809b;margin:0;}
+.library-unit .buttonrow{margin-top:auto;padding-top:10px;}
+.library-unit .buttonrow a{display:inline-flex;align-items:center;justify-content:center;text-decoration:none;}
+.library-unit .buttonrow .primary{border-radius:9px;padding:9px 13px;}
+.library-empty{padding:20px 0;color:#738097;}
+.library-planned{margin-top:22px;border-top:1px solid #e6eaf4;padding-top:18px;}
+.library-planned summary{cursor:pointer;font-weight:700;padding:5px 0;}
+.library-planned-grid{display:flex;flex-wrap:wrap;gap:8px;margin-top:14px;}
+.library-planned-grid span{border:1px solid #e3e7f1;padding:9px 12px;border-radius:9px;background:#f9faff;font-size:13px;color:#53617d;}
+.library-back{display:inline-block;margin-bottom:17px;text-decoration:none;color:#6656bd;font-weight:750;}
+@media(max-width:650px){.library-books,.library-unit-list{grid-template-columns:1fr;}.library-stats{gap:8px;}}

@@ -100,3 +100,10 @@ The vocabulary and grammar manifests remain independent **formats** to preserve 
 The Grammar Lab JavaScript code is still in `js/grammar/`; that is application logic, not a second content database.
 To regenerate both catalogs, run `npm run catalog:all`. No exercise IDs or browser-progress storage keys have changed.
 **In-place updates:** an old `grammar/` directory may remain after extracting over an older installation. It is ignored by catalog generation and reading, and no longer causes a test failure. You may remove it later only after verifying the new database and backing up any unique files. Do not remove `js/grammar/`, which contains application code.
+
+
+## Books Library (VocabLab 1.4.2)
+
+The unified [Books Library](library.html) organizes six published and fourteen planned VocabLab books. It includes all 537 published units in a generated read-only curriculum index, with the titles **English Vocabulary 1–4**, **English Grammar 1**, and **English Collocations 1**. The content remains in `database/`.
+
+Run `npm run catalog:all` after adding/changing book units; this now generates `curriculum/index.json` alongside both content manifests. Direct links select units in the existing Vocabulary/Grammar Labs without modifying saved progress. See `CURRICULUM_INDEX_1.4.2.md` for details. Older demo units are hidden from the book-based catalog but remain in local browser data and backups.

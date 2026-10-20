@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#121a30">
+<title>Books Library · VocabLab</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/library.css">
+</head>
+<body>
+<div class="layout">
+  <aside class="rail">
+    <div class="logo">◈ <strong>VocabLab</strong><small>LANGUAGE LEARNING STUDIO · 1.4.2</small></div>
+    <nav aria-label="Navigation">
+      <a class="rail-package-link" href="index.html">◫ <span>Vocabulary Lab</span></a>
+      <a class="rail-package-link" href="grammar.html">▣ <span>Grammar Lab</span></a>
+      <a class="rail-package-link selected" href="library.html" aria-current="page">▤ <span>Books Library</span></a>
+      <a class="rail-package-link" href="pronunciation.html">◌ <span>Pronunciation Lab</span></a>
+      <a class="rail-package-link" href="packages.html">◈ <span>Custom JSON packages</span></a>
+    </nav>
+    <div class="rail-foot">Organize your learning by book. Your existing progress stays in this browser.</div>
+  </aside>
+  <div class="workspace">
+    <header class="top"><div><span class="eyebrow">ACTIVE MODULE</span><strong>Books Library</strong></div>
+      <div class="top-actions"><a class="ghost library-link" href="index.html">Vocabulary Lab ↗</a><a class="ghost library-link" href="grammar.html">Grammar Lab ↗</a></div>
+    </header>
+    <main>
+      <div class="page-head"><div><div class="eyebrow">CURRICULUM · BOOK-BASED LEARNING</div>
+        <h1 id="pageTitle">Books Library</h1><p id="pageDescription">Choose a book and study its original unit sequence.</p></div>
+        <span class="counter" id="libraryCounter">Loading…</span>
+      </div>
+      <div id="app" aria-live="polite"><section class="panel"><p>Loading the curriculum index…</p></section></div>
+      <footer>Book names are owned by VocabLab. Study history and spaced reviews remain in your browser.</footer>
+    </main>
+  </div>
+</div>
+<script type="module" src="js/curriculum/library-ui.js"></script>
+</body>
+</html>
