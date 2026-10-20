@@ -1,0 +1,408 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u013",
+  "title": "Past Continuous: Actions in Progress",
+  "level": "A2",
+  "topicId": "past-continuous-actions",
+  "summary": "Talk about actions that were in progress at a particular time in the past. Make affirmative and negative statements and ask past continuous questions.",
+  "learningObjectives": [
+    "Build the past continuous with was or were and an -ing verb.",
+    "Describe activities in progress at a stated time in the past.",
+    "Make negative statements and questions with the correct word order.",
+    "Recognise spelling changes when adding -ing and contrast past and present continuous forms."
+  ],
+  "explanation": [
+    {
+      "heading": "Choose was or were and add -ing",
+      "body": "Use was + verb-ing with I, he, she, it and singular subjects. Use were + verb-ing with you, we, they and plural subjects. The past continuous describes an action that was already happening at a particular moment in the past. The action may have started earlier and finished later.",
+      "example": "At seven yesterday evening, I was preparing dinner."
+    },
+    {
+      "heading": "Describe the scene at a past moment",
+      "body": "A phrase such as at three yesterday, at that time or last night can tell us when an activity was in progress. The past continuous can also describe background activities, such as the weather or what several people were doing at that time. It does not by itself say that an action finished.",
+      "example": "At sunrise, the wind was blowing and the boats were moving slowly."
+    },
+    {
+      "heading": "Make negatives with wasn’t and weren’t",
+      "body": "Put not after was or were: was not (wasn’t) and were not (weren’t). Keep the main verb in its -ing form. Use a negative to say an activity was not in progress at the past time you mention.",
+      "example": "The children weren’t sleeping at nine; they were telling stories."
+    },
+    {
+      "heading": "Ask about what was happening",
+      "body": "In yes/no questions, put was or were before the subject: Were you waiting? In information questions, put a question word before was or were: What were you doing? The -ing verb comes after the subject.",
+      "example": "Where was Leo working last summer?"
+    },
+    {
+      "heading": "Compare now with then and check spelling",
+      "body": "Use am/is/are + -ing for what is happening now and was/were + -ing for what was happening in the past. When adding -ing, drop the final e in make → making, double the final consonant in sit → sitting, and change ie to y in lie → lying.",
+      "example": "I am resting now, but at six yesterday I was running."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "An action now and the same action earlier",
+      "left": {
+        "label": "Present continuous",
+        "example": "The baker is decorating a cake now.",
+        "note": "Is decorating refers to the activity happening at the moment of speaking."
+      },
+      "right": {
+        "label": "Past continuous",
+        "example": "The baker was decorating a cake at noon yesterday.",
+        "note": "Was decorating places the ongoing activity at a past time."
+      }
+    },
+    {
+      "title": "An activity in progress versus not in progress",
+      "left": {
+        "label": "Affirmative",
+        "example": "We were waiting outside at six.",
+        "note": "Were waiting says the activity was happening at that time."
+      },
+      "right": {
+        "label": "Negative",
+        "example": "We weren’t waiting outside at six.",
+        "note": "Weren’t waiting says the activity was not happening then."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I was writing a postcard at half past four.",
+      "note": "Was writing describes an unfinished activity at a specified past moment."
+    },
+    {
+      "sentence": "The musicians were practising in the hall all afternoon.",
+      "note": "Were practising describes an activity continuing over a past period."
+    },
+    {
+      "sentence": "It wasn’t raining at lunchtime yesterday.",
+      "note": "Wasn’t raining is the negative past continuous for it."
+    },
+    {
+      "sentence": "Were your parents travelling at midnight?",
+      "note": "Were moves before the plural subject in a question."
+    },
+    {
+      "sentence": "What was Noor carrying when you saw her?",
+      "note": "What begins a question about an activity that was in progress."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The students was talking at nine.",
+      "correct": "The students were talking at nine.",
+      "why": "The plural subject students needs were, not was."
+    },
+    {
+      "incorrect": "I were reading at eight.",
+      "correct": "I was reading at eight.",
+      "why": "Use was with I in the past continuous."
+    },
+    {
+      "incorrect": "Was she wait for a taxi?",
+      "correct": "Was she waiting for a taxi?",
+      "why": "The main verb must use its -ing form after was."
+    },
+    {
+      "incorrect": "They were lieing on the grass.",
+      "correct": "They were lying on the grass.",
+      "why": "Lie changes to lying when the -ing ending is added."
+    }
+  ],
+  "studyTips": [
+    "Choose one time yesterday and describe three things that were happening then.",
+    "Practise changing was/were + -ing sentences into negatives and questions without changing the main verb.",
+    "Check the -ing spelling of a few common verbs: write → writing, sit → sitting and lie → lying."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "At nine last night, my parents ___ dinner.",
+      "choices": [
+        "were making",
+        "was making",
+        "are making"
+      ],
+      "answerIndex": 0,
+      "feedback": "Parents is plural, and the time is in the past; use were making."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which question is correctly formed?",
+      "choices": [
+        "What you were doing at six yesterday?",
+        "What were you doing at six yesterday?",
+        "What did you doing at six yesterday?"
+      ],
+      "answerIndex": 1,
+      "feedback": "The question order is what + were + you + doing."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "I ___ for the bus at 7:15 yesterday; I was already on the train.",
+      "choices": [
+        "was waiting",
+        "were waiting",
+        "wasn’t waiting"
+      ],
+      "answerIndex": 2,
+      "feedback": "Being already on the train means the speaker was not waiting for the bus; use wasn’t waiting."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which sentence describes an activity in progress at a specific time in the past?",
+      "choices": [
+        "At eleven yesterday, the shop assistant was arranging the shelves.",
+        "Every morning, the shop assistant arranges the shelves.",
+        "The shop assistant arranged the shelves and left."
+      ],
+      "answerIndex": 0,
+      "feedback": "Was arranging describes an activity continuing at eleven yesterday."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with the verb in brackets: At ten last night, the children ___ (sleep).",
+      "acceptedAnswers": [
+        "were sleeping"
+      ],
+      "feedback": "Children is plural, so use were + sleeping."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with the verb in brackets: At five yesterday, I ___ (not/work); I was at the cinema.",
+      "acceptedAnswers": [
+        "wasn’t working",
+        "was not working"
+      ],
+      "feedback": "I takes was; add not before the -ing verb to make the negative."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: ___ your brother studying at midnight?",
+      "acceptedAnswers": [
+        "Was"
+      ],
+      "feedback": "Use Was to start a past continuous question with your brother."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the verb in brackets: Yesterday at noon, we ___ (sit) under the trees.",
+      "acceptedAnswers": [
+        "were sitting"
+      ],
+      "feedback": "We takes were, and sit doubles the final t before -ing."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: They was playing chess at eight.",
+      "acceptedAnswers": [
+        "They were playing chess at eight."
+      ],
+      "feedback": "They is plural, so the auxiliary must be were."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I wasn’t listen to music at five.",
+      "acceptedAnswers": [
+        "I wasn’t listening to music at five.",
+        "I was not listening to music at five."
+      ],
+      "feedback": "After was not or wasn’t, use listening, not listen."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the question: Were she waiting outside at six?",
+      "acceptedAnswers": [
+        "Was she waiting outside at six?"
+      ],
+      "feedback": "Use Was with she in a past continuous question."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: At seven last night, we were lieing on the sofa.",
+      "acceptedAnswers": [
+        "At seven last night, we were lying on the sofa."
+      ],
+      "feedback": "The -ing form of lie is lying, not lieing."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say a complete affirmative sentence using: Maya / paint / a chair / at two yesterday.",
+      "acceptedAnswers": [
+        "Maya was painting a chair at two yesterday.",
+        "At two yesterday, Maya was painting a chair."
+      ],
+      "feedback": "Use was painting for Maya and the specified past moment."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say a complete negative sentence using: the twins / not / sleep / at nine last night.",
+      "acceptedAnswers": [
+        "The twins weren’t sleeping at nine last night.",
+        "The twins were not sleeping at nine last night."
+      ],
+      "feedback": "With the plural subject the twins, use weren’t sleeping or were not sleeping."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Ask a complete question using: what / you / do / at five yesterday?",
+      "acceptedAnswers": [
+        "What were you doing at five yesterday?"
+      ],
+      "feedback": "Put were before you and use doing to ask about that past moment."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Say one past continuous sentence using these exact cues in order: the two chefs / chop vegetables / at eight yesterday evening.",
+      "acceptedAnswers": [
+        "The two chefs were chopping vegetables at eight yesterday evening."
+      ],
+      "feedback": "Two chefs is plural, so use were chopping. Double the p in chopping."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Turn this statement into a yes/no question without changing the other words: The hikers were crossing the bridge at noon.",
+      "acceptedAnswers": [
+        "Were the hikers crossing the bridge at noon?"
+      ],
+      "feedback": "Move were before the complete subject the hikers and keep crossing."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks what the children were doing at four yesterday. The facts are: the children were building a sandcastle on the beach. Reply with one complete sentence starting with 'The children' and ending with 'at four yesterday'.",
+      "acceptedAnswers": [
+        "The children were building a sandcastle on the beach at four yesterday."
+      ],
+      "feedback": "Use were building for the children's ongoing activity at the specified past time."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Contrast now and last night in one sentence. Facts: the cat is hiding under the bed now; at nine last night it was sleeping on the sofa. Start with 'The cat' and join the facts with 'but'.",
+      "acceptedAnswers": [
+        "The cat is hiding under the bed now, but it was sleeping on the sofa at nine last night."
+      ],
+      "feedback": "Is hiding describes the present; was sleeping describes what was in progress last night."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Describe two background actions in one sentence using these exact cues: the wind / blow; the leaves / fall; at six yesterday evening. Join the two actions with 'and' and put the time at the end.",
+      "acceptedAnswers": [
+        "The wind was blowing and the leaves were falling at six yesterday evening."
+      ],
+      "feedback": "Use was blowing with the singular wind and were falling with the plural leaves."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "At half past eight, the neighbours were carrying boxes into their flat.",
+      "prompt": "What were the neighbours doing at half past eight?",
+      "choices": [
+        "They were cooking dinner.",
+        "They were carrying boxes.",
+        "They were painting a room."
+      ],
+      "answerIndex": 1,
+      "feedback": "Were carrying boxes is the activity described at that past time."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I wasn’t working yesterday afternoon. I was reading at home.",
+      "prompt": "Which statement matches the recording?",
+      "choices": [
+        "The speaker was working in the afternoon.",
+        "The speaker was visiting a friend.",
+        "The speaker was reading at home."
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker says that reading, not working, was happening at home."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "At six yesterday evening, Nina was making soup.",
+      "prompt": "Type the two-word past continuous verb phrase you hear.",
+      "acceptedAnswers": [
+        "was making"
+      ],
+      "feedback": "Was making is the past continuous form used with Nina."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "At ten last night, the family was still decorating the living room for the party.",
+      "prompt": "What was the family doing at that time?",
+      "choices": [
+        "Sleeping after the party",
+        "Getting a room ready for a celebration",
+        "Leaving to visit relatives"
+      ],
+      "answerIndex": 1,
+      "feedback": "Was still decorating shows that preparing the room was in progress at ten."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "At seven yesterday morning, the swimmers were training in the indoor pool, not the lake.",
+      "prompt": "Where was the training taking place?",
+      "choices": [
+        "At a lake outdoors",
+        "On a beach",
+        "Inside a swimming pool"
+      ],
+      "answerIndex": 2,
+      "feedback": "The training was happening in the indoor pool; the lake is explicitly excluded."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I'm feeding the birds now, but yesterday at this time I was cleaning their cage.",
+      "prompt": "Which activity was happening at the earlier time?",
+      "choices": [
+        "Giving food to the birds",
+        "Cleaning the birds' home",
+        "Buying a new cage"
+      ],
+      "answerIndex": 1,
+      "feedback": "Was cleaning refers to yesterday, whereas am feeding refers to now."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The gardener was digging a hole near the old tree at noon.",
+      "prompt": "Type the two-word past continuous verb phrase describing the gardener's activity.",
+      "acceptedAnswers": [
+        "was digging"
+      ],
+      "feedback": "Was digging combines the past form was with the -ing form of dig."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We weren't making any noise while the baby was asleep.",
+      "prompt": "Type the two-word negative verb phrase immediately after 'We'.",
+      "acceptedAnswers": [
+        "weren't making"
+      ],
+      "feedback": "Weren't making describes an activity that was not happening in the past."
+    }
+  ]
+}

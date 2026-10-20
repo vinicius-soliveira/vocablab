@@ -1,0 +1,407 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u024",
+  "title": "Regular and Irregular Verb Forms",
+  "level": "A2",
+  "topicId": "regular-irregular-past-participles",
+  "summary": "Learn to choose past simple and past participle forms of regular and irregular verbs. Use the right form after have or be and in sentences about completed past actions.",
+  "learningObjectives": [
+    "Make common regular past forms and past participles with the correct -ed spelling.",
+    "Recall familiar irregular past simple and past participle forms.",
+    "Tell a past simple form from a past participle in present perfect and passive sentences.",
+    "Choose accurately between irregular verbs whose past forms match and those whose forms differ."
+  ],
+  "explanation": [
+    {
+      "heading": "Three forms to recognise",
+      "body": "It helps to learn a verb as a set of three forms: the base form, the past simple and the past participle. Use the past simple to report a finished past action. Use the past participle after have or has in the present perfect, or after a form of be in a passive sentence.",
+      "example": "They chose the longer path last time. This time, they have chosen a shorter path."
+    },
+    {
+      "heading": "Regular verbs: usually add -ed",
+      "body": "Most regular verbs have the same form in the past simple and past participle. Add -ed to many base verbs, add -d after a final e, and change consonant + y to -ied. Some short verbs double the final consonant before -ed, as in plan → planned.",
+      "example": "We planned the picnic carefully, but the weather changed."
+    },
+    {
+      "heading": "Irregular verbs with matching past forms",
+      "body": "Some irregular verbs use the same word for the past simple and past participle, even though it is not a regular -ed form. Examples include keep → kept → kept, sell → sold → sold and put → put → put. Learn these forms rather than trying to add -ed.",
+      "example": "He sold his old desk. He has sold the chair too."
+    },
+    {
+      "heading": "Irregular verbs with different past forms",
+      "body": "Other irregular verbs have one form for the past simple and another for the past participle. For example, take → took → taken, write → wrote → written and see → saw → seen. After have or has, choose the third form, not the past simple form.",
+      "example": "Mae took the photograph. She has taken several more since then."
+    },
+    {
+      "heading": "Use the participle in passive sentences",
+      "body": "A passive verb also needs the past participle after be. The form of be shows the tense: is repaired refers to a present passive, and was repaired refers to a past passive. For an irregular verb, remember the participle: was found, not was find or was finding.",
+      "example": "The missing map was found behind a cupboard."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Regular and irregular verb patterns",
+      "left": {
+        "label": "Regular: borrow",
+        "example": "borrow → borrowed → borrowed",
+        "note": "The past simple and participle both end in -ed."
+      },
+      "right": {
+        "label": "Irregular: choose",
+        "example": "choose → chose → chosen",
+        "note": "The two past forms are different; do not add -ed."
+      }
+    },
+    {
+      "title": "Past simple or past participle?",
+      "left": {
+        "label": "Past simple",
+        "example": "Jon wrote the note yesterday.",
+        "note": "Wrote can stand as the main past-tense verb."
+      },
+      "right": {
+        "label": "Past participle",
+        "example": "Jon has written the note.",
+        "note": "Has needs the participle written rather than wrote."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The gardener watered the plants before breakfast.",
+      "note": "Watered is the regular past simple of water."
+    },
+    {
+      "sentence": "We have carried the boxes upstairs.",
+      "note": "Carry changes consonant + y to -ied: carried."
+    },
+    {
+      "sentence": "I kept the receipt in my bag.",
+      "note": "Kept is the irregular past simple; the participle is also kept."
+    },
+    {
+      "sentence": "The children have drawn pictures of the seaside.",
+      "note": "Draw has different past forms: drew and drawn."
+    },
+    {
+      "sentence": "The old benches were replaced in spring.",
+      "note": "Were + replaced forms a past passive with a regular participle."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I have wrote the address down.",
+      "correct": "I have written the address down.",
+      "why": "Have requires written, the past participle of write."
+    },
+    {
+      "incorrect": "She buyed a warm coat yesterday.",
+      "correct": "She bought a warm coat yesterday.",
+      "why": "Buy is irregular: its past simple is bought."
+    },
+    {
+      "incorrect": "We planed the trip together.",
+      "correct": "We planned the trip together.",
+      "why": "Plan doubles the final n before -ed."
+    },
+    {
+      "incorrect": "The parcel was took to the front desk.",
+      "correct": "The parcel was taken to the front desk.",
+      "why": "The passive needs taken, not the past simple took."
+    }
+  ],
+  "studyTips": [
+    "Keep a three-column list for common verbs: base form, past simple, past participle. Practise complete sentences with each form.",
+    "After have, has, was or were in a perfect or passive pattern, pause and check whether the third verb form is needed.",
+    "Group irregular verbs by pattern: kept/kept, took/taken and put/put are easier to remember together with similar verbs."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Last night, Nadia ___ a short email to the organiser.",
+      "choices": [
+        "written",
+        "writes",
+        "wrote"
+      ],
+      "answerIndex": 2,
+      "feedback": "Last night signals a finished past action, so use the past simple wrote."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The music stopped because someone ___ the speaker off.",
+      "choices": [
+        "turned",
+        "turnt",
+        "turn"
+      ],
+      "answerIndex": 0,
+      "feedback": "Turn is regular; the past simple form is turned."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "I've never ___ such a long letter.",
+      "choices": [
+        "wrote",
+        "written",
+        "write"
+      ],
+      "answerIndex": 1,
+      "feedback": "Have needs the past participle written, not the past simple wrote."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The missing wallet was ___ behind the sofa.",
+      "choices": [
+        "find",
+        "finding",
+        "found"
+      ],
+      "answerIndex": 2,
+      "feedback": "The passive structure was + past participle needs found."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "We ___ (visit) the farm last weekend.",
+      "acceptedAnswers": [
+        "visited"
+      ],
+      "feedback": "Visit is a regular verb: add -ed for the past simple."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "I have ___ (take) the wrong bag by mistake.",
+      "acceptedAnswers": [
+        "taken"
+      ],
+      "feedback": "Take → took → taken; after have, use taken."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Yesterday, my sisters ___ (buy) fresh bread.",
+      "acceptedAnswers": [
+        "bought"
+      ],
+      "feedback": "Buy is irregular. Its past simple form is bought."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The pictures were ___ (hang) in the hallway last night.",
+      "acceptedAnswers": [
+        "hung"
+      ],
+      "feedback": "The participle of hang for objects is hung; were hung is a past passive."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I have ate my lunch already.",
+      "acceptedAnswers": [
+        "I have eaten my lunch already."
+      ],
+      "feedback": "After have, use eaten, the past participle of eat."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We goed home before it started raining.",
+      "acceptedAnswers": [
+        "We went home before it started raining."
+      ],
+      "feedback": "Go is irregular: its past simple is went."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Her cousins have catched the last bus.",
+      "acceptedAnswers": [
+        "Her cousins have caught the last bus."
+      ],
+      "feedback": "Catch → caught → caught; use caught after have."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The guide stoped near the bridge.",
+      "acceptedAnswers": [
+        "The guide stopped near the bridge."
+      ],
+      "feedback": "Stop doubles the final p before -ed: stopped."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say a past simple sentence from these cues: 'my brother / choose / a blue jacket / yesterday'.",
+      "acceptedAnswers": [
+        "My brother chose a blue jacket yesterday."
+      ],
+      "feedback": "The past simple of choose is chose."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say a present perfect sentence from these cues: 'we / write / three postcards'.",
+      "acceptedAnswers": [
+        "We have written three postcards.",
+        "We've written three postcards."
+      ],
+      "feedback": "Have requires the participle written; we've is a normal contraction."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say a past passive sentence from these cues: 'the window / repair / last Thursday'.",
+      "acceptedAnswers": [
+        "The window was repaired last Thursday."
+      ],
+      "feedback": "Use was + the regular past participle repaired."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Say one complete past simple sentence with these details: Holly / carry / two boxes / upstairs / yesterday. Use every detail.",
+      "acceptedAnswers": [
+        "Holly carried two boxes upstairs yesterday."
+      ],
+      "feedback": "Carry becomes carried in the past simple: consonant + y changes to -ied."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change \"Sam wrote a short note last night\" to the present perfect. Keep \"Sam\" and \"a short note\", but remove \"last night\".",
+      "acceptedAnswers": [
+        "Sam has written a short note.",
+        "Sam's written a short note."
+      ],
+      "feedback": "Write → wrote → written. After has, use the past participle written, not wrote."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks what happened to a missing scarf. It was found under the bed this morning. Answer in one past passive sentence beginning \"The scarf\" and include the place and time.",
+      "acceptedAnswers": [
+        "The scarf was found under the bed this morning."
+      ],
+      "feedback": "The past passive uses was + found, the irregular past participle of find."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the spelling of the past verb without changing other words: \"We stoped beside the lake.\"",
+      "acceptedAnswers": [
+        "We stopped beside the lake."
+      ],
+      "feedback": "Stop doubles the final p before -ed: stopped."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Tell a friend two facts in one sentence joined by but: you bought a camera yesterday, and you have not taken any photos yet. Begin with \"I\" and use bought and taken.",
+      "acceptedAnswers": [
+        "I bought a camera yesterday, but I haven't taken any photos yet.",
+        "I bought a camera yesterday, but I have not taken any photos yet."
+      ],
+      "feedback": "Bought is the past simple of buy; taken is the participle of take after have not."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Ellie sent three letters on Tuesday.",
+      "prompt": "Which form of send did the speaker use?",
+      "choices": [
+        "Sent, the past simple.",
+        "Send, the base form.",
+        "Sending, the -ing form."
+      ],
+      "answerIndex": 0,
+      "feedback": "Sent is the irregular past simple of send."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The bicycle has been stolen from the garden.",
+      "prompt": "What do we learn about the bicycle?",
+      "choices": [
+        "Someone is stealing it right now.",
+        "Someone has stolen it.",
+        "The owner stole another bicycle."
+      ],
+      "answerIndex": 1,
+      "feedback": "Been stolen uses the irregular past participle stolen in a present perfect passive."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "After dinner, I washed all the cups.",
+      "prompt": "Type the past simple form of the verb meaning 'clean with water' that you hear.",
+      "acceptedAnswers": [
+        "washed"
+      ],
+      "feedback": "Wash is regular; its past simple form is washed."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The children have drawn a large map for their school project.",
+      "prompt": "What have the children completed?",
+      "choices": [
+        "A drawing for a school assignment",
+        "A written invitation to a party",
+        "A trip to another city"
+      ],
+      "answerIndex": 0,
+      "feedback": "Have drawn says the children have completed a drawing; drawn is the past participle of draw."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Yesterday, the gardener dug a small hole beside the gate.",
+      "prompt": "Where did the gardener work?",
+      "choices": [
+        "Inside a shed",
+        "Near the entrance",
+        "Behind the kitchen"
+      ],
+      "answerIndex": 1,
+      "feedback": "Beside the gate means near the entrance. Dug is the irregular past simple form of dig."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I broke the cup yesterday, but I have already bought another one.",
+      "prompt": "Which statement matches the speaker’s situation?",
+      "choices": [
+        "The cup has not been damaged.",
+        "The speaker still needs to buy another cup.",
+        "The cup broke in the past, and a new one has been purchased."
+      ],
+      "answerIndex": 2,
+      "feedback": "Broke describes a completed past event; have bought uses the past participle bought to report a new purchase."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Someone has taken the blue umbrella from the office.",
+      "prompt": "Type the single past participle you hear immediately after the auxiliary.",
+      "acceptedAnswers": [
+        "taken"
+      ],
+      "feedback": "Take → took → taken. Present perfect has taken requires the participle taken."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The team planned a short trip for Saturday.",
+      "prompt": "Type the one-word past-tense verb describing what the team did.",
+      "acceptedAnswers": [
+        "planned"
+      ],
+      "feedback": "Plan doubles its final n before -ed: planned."
+    }
+  ]
+}

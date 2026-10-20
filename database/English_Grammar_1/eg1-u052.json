@@ -1,0 +1,402 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u052",
+  "title": "Verb Patterns: To + Infinitive or -ing",
+  "level": "A2",
+  "topicId": "verb-complements-to-ing",
+  "summary": "Learn which verbs are followed by to + base verb and which take -ing. Recognise verbs that allow either form, and use to after would like, would love and would prefer.",
+  "learningObjectives": [
+    "Choose to + base verb after common verbs such as hope, decide, plan, want and promise.",
+    "Use the -ing form after enjoy, finish, mind, stop and suggest.",
+    "Recognise everyday contexts where like, love, prefer, hate and start can take either form.",
+    "Use to + base verb after would like, would love, would prefer and would hate."
+  ],
+  "explanation": [
+    {
+      "heading": "Some verbs are followed by to + infinitive",
+      "body": "Use to + base verb after want, need, hope, plan, decide, promise, offer, expect, refuse, forget, learn and try. Here the second verb describes an intended, expected or possible action.",
+      "example": "We decided to take the early train."
+    },
+    {
+      "heading": "Some verbs are followed by -ing",
+      "body": "Use the -ing form after enjoy, finish, mind, stop and suggest when talking about an activity. Do not add to before the action in these patterns.",
+      "example": "Marco enjoys building small models."
+    },
+    {
+      "heading": "Some verbs allow both forms",
+      "body": "Like, love, hate, prefer, start, begin and continue can often be followed by -ing or by to + base verb. In simple statements about likes or activities starting, both are natural, although other contexts can make a difference.",
+      "example": "I like walking beside the river. I also like to walk there in the morning."
+    },
+    {
+      "heading": "Use to after would like, would love and similar expressions",
+      "body": "Would like, would love, would prefer and would hate take to + base verb for the action that follows. Do not replace this to-infinitive with -ing. This is different from plain like or love.",
+      "example": "I would love to learn Italian."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "To-infinitive versus -ing after different verbs",
+      "left": {
+        "label": "Plan + to",
+        "example": "Dina plans to bake a cake.",
+        "note": "Plan takes to + base verb."
+      },
+      "right": {
+        "label": "Enjoy + -ing",
+        "example": "Dina enjoys baking cakes.",
+        "note": "Enjoy takes the -ing form."
+      }
+    },
+    {
+      "title": "Like versus would like",
+      "left": {
+        "label": "General preference",
+        "example": "I like cycling to work.",
+        "note": "Plain like can be followed by -ing or to cycle in this general context."
+      },
+      "right": {
+        "label": "A wish or choice",
+        "example": "I would like to cycle tomorrow.",
+        "note": "Would like takes to + base verb, not cycling."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Lena hopes to see her grandparents this weekend.",
+      "note": "Hope takes to + base verb."
+    },
+    {
+      "sentence": "Have you finished packing your suitcase?",
+      "note": "Finish takes -ing."
+    },
+    {
+      "sentence": "Owen suggested meeting outside the café.",
+      "note": "Suggest takes the -ing form for the proposed activity."
+    },
+    {
+      "sentence": "We started to clean the kitchen after breakfast.",
+      "note": "Start can take to + infinitive here; started cleaning is also possible."
+    },
+    {
+      "sentence": "I would prefer to sit near the window.",
+      "note": "Would prefer takes to + base verb."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I enjoy to swim at the pool.",
+      "correct": "I enjoy swimming at the pool.",
+      "why": "Enjoy is followed by -ing, not to + infinitive."
+    },
+    {
+      "incorrect": "They decided going by coach.",
+      "correct": "They decided to go by coach.",
+      "why": "Decide takes to + base verb."
+    },
+    {
+      "incorrect": "Would you like trying this soup?",
+      "correct": "Would you like to try this soup?",
+      "why": "Would like takes to + base verb."
+    },
+    {
+      "incorrect": "She suggested to meet after lunch.",
+      "correct": "She suggested meeting after lunch.",
+      "why": "Suggest takes the -ing form when proposing an activity."
+    }
+  ],
+  "studyTips": [
+    "Learn the first verb and its following form together: decide to go, enjoy going.",
+    "If you see would like, would love or would prefer, choose to + base verb.",
+    "Practise flexible pairs such as like walking / like to walk, but keep fixed patterns such as enjoy walking."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct form: Nadia enjoys ___ short stories at night.",
+      "choices": [
+        "reading",
+        "to read",
+        "read"
+      ],
+      "answerIndex": 0,
+      "feedback": "Enjoy is followed by the -ing form reading."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct form: We decided ___ home before sunset.",
+      "choices": [
+        "walking",
+        "to walk",
+        "walk"
+      ],
+      "answerIndex": 1,
+      "feedback": "Decided is followed by to + base verb: to walk."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct form: I’d love ___ your new puppy.",
+      "choices": [
+        "meeting",
+        "meet",
+        "to meet"
+      ],
+      "answerIndex": 2,
+      "feedback": "Would love takes to + base verb: to meet."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct form: He suggested ___ a picnic on Sunday.",
+      "choices": [
+        "having",
+        "to have",
+        "have"
+      ],
+      "answerIndex": 0,
+      "feedback": "Suggested is followed by the -ing form having."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with the correct form of wash: Please finish ___ the dishes before you go out.",
+      "acceptedAnswers": [
+        "washing"
+      ],
+      "feedback": "Finish takes a verb in its -ing form."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with the correct form of see: I hope ___ my cousin next month.",
+      "acceptedAnswers": [
+        "to see"
+      ],
+      "feedback": "Hope takes to + base verb."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with the correct form of close: Do you mind ___ the window?",
+      "acceptedAnswers": [
+        "closing"
+      ],
+      "feedback": "Mind is followed by an -ing form, here closing."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the correct form of keep: Our neighbours promised ___ the music quiet tonight.",
+      "acceptedAnswers": [
+        "to keep"
+      ],
+      "feedback": "Promise takes to + base verb: to keep."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the verb pattern without changing the meaning: Elena enjoys to paint on Sundays.",
+      "acceptedAnswers": [
+        "Elena enjoys painting on Sundays."
+      ],
+      "feedback": "Enjoy takes painting, not to paint."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the verb pattern without changing the meaning: I would like meeting your cousin.",
+      "acceptedAnswers": [
+        "I would like to meet your cousin.",
+        "I'd like to meet your cousin."
+      ],
+      "feedback": "Would like is followed by to meet."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the verb pattern without changing the meaning: They decided visiting the castle.",
+      "acceptedAnswers": [
+        "They decided to visit the castle."
+      ],
+      "feedback": "Decide takes to + base verb rather than -ing."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the verb pattern without changing the meaning: He finished to clean the kitchen.",
+      "acceptedAnswers": [
+        "He finished cleaning the kitchen."
+      ],
+      "feedback": "Finish is followed by cleaning, the -ing form."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make one complete spoken sentence from these cues: Maya / enjoy / swim / on Saturdays.",
+      "acceptedAnswers": [
+        "Maya enjoys swimming on Saturdays."
+      ],
+      "feedback": "Enjoys is followed by swimming, not to swim."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Make a complete sentence from these cues: We / plan / travel / by train tomorrow.",
+      "acceptedAnswers": [
+        "We plan to travel by train tomorrow."
+      ],
+      "feedback": "Plan is followed by to travel."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Change “I like to walk in the park.” into another correct sentence using -ing.",
+      "acceptedAnswers": [
+        "I like walking in the park."
+      ],
+      "feedback": "Plain like can take walking as well as to walk in this context."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "State your hope for tomorrow: join the art class. Begin with 'I hope' and say one complete sentence ending with 'tomorrow'.",
+      "acceptedAnswers": [
+        "I hope to join the art class tomorrow."
+      ],
+      "feedback": "Hope is followed by to + base verb: hope to join."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Correct the verb pattern in this sentence without changing the meaning: 'Luca enjoys to run along the beach.' Say the full sentence.",
+      "acceptedAnswers": [
+        "Luca enjoys running along the beach."
+      ],
+      "feedback": "Enjoy takes an -ing complement, so use enjoys running."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your friend asks what you want to do tonight. You want to make soup. Answer with one sentence beginning 'I would love' (or 'I'd love') and ending 'tonight'.",
+      "acceptedAnswers": [
+        "I would love to make soup tonight.",
+        "I'd love to make soup tonight."
+      ],
+      "feedback": "Would love takes to + base verb: would love to make."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this sentence while keeping its meaning: 'I would prefer sit outside.' Say the complete corrected sentence.",
+      "acceptedAnswers": [
+        "I would prefer to sit outside.",
+        "I'd prefer to sit outside."
+      ],
+      "feedback": "Would prefer is followed by to + base verb, whereas plain prefer can also take -ing."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Your brother made a promise yesterday: he will feed the cat on Sunday. Report his promise starting with 'My brother promised' and use a to-infinitive.",
+      "acceptedAnswers": [
+        "My brother promised to feed the cat on Sunday."
+      ],
+      "feedback": "Promise takes to + base verb: promised to feed."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I do not mind waiting for the train.",
+      "prompt": "Which form comes after mind in the sentence?",
+      "choices": [
+        "wait",
+        "waiting",
+        "to wait"
+      ],
+      "answerIndex": 1,
+      "feedback": "Mind is followed by waiting, the -ing form."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Amir would prefer to stay at home tonight.",
+      "prompt": "Which verb form follows would prefer?",
+      "choices": [
+        "stay",
+        "staying",
+        "to stay"
+      ],
+      "answerIndex": 2,
+      "feedback": "Would prefer takes the to-infinitive to stay."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "They promised to help us with the boxes.",
+      "prompt": "Type the two-word verb expression you hear after promised.",
+      "acceptedAnswers": [
+        "to help"
+      ],
+      "feedback": "Promised is followed by to help."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I finished washing the dishes, so I can join you for a walk.",
+      "prompt": "Why is the speaker free to go out now?",
+      "choices": [
+        "The household task is already complete.",
+        "The dishes will be washed tomorrow.",
+        "Someone else offered to make dinner."
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker has completed the task. Finished takes the -ing form washing."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Sofia hopes to learn French before her trip to Paris next summer.",
+      "prompt": "What is Sofia preparing for?",
+      "choices": [
+        "A job interview tomorrow.",
+        "A journey she plans to take.",
+        "A cooking class this weekend."
+      ],
+      "answerIndex": 1,
+      "feedback": "Sofia wants language skills for her trip abroad. Hopes is correctly followed by to learn."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I love making bread, but today I'd prefer to buy some at the bakery.",
+      "prompt": "What does the speaker want to do today?",
+      "choices": [
+        "Prepare bread at home.",
+        "Avoid bread completely.",
+        "Purchase bread instead of making it."
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker generally loves making bread but would prefer to buy it today; would prefer takes to + infinitive."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "My uncle suggested taking the later train on Sunday.",
+      "prompt": "Type the one-word activity form that immediately follows the suggestion verb.",
+      "acceptedAnswers": [
+        "taking"
+      ],
+      "feedback": "Suggested is followed by the -ing form taking when proposing an activity."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We decided to stay at a small hotel near the lake.",
+      "prompt": "Type the two-word action phrase immediately following the decision verb.",
+      "acceptedAnswers": [
+        "to stay"
+      ],
+      "feedback": "Decided is followed by to + base verb: to stay."
+    }
+  ]
+}

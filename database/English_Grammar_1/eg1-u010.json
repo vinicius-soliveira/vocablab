@@ -1,0 +1,408 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u010",
+  "title": "Was and Were: Be in the Past",
+  "level": "A1",
+  "topicId": "be-past-was-were",
+  "summary": "Use was and were to say where people were and how things were in the past. Make negative sentences, questions and short answers about finished past situations.",
+  "learningObjectives": [
+    "Choose was or were for the correct subject in the past.",
+    "Distinguish present am/is/are from past was/were using time expressions.",
+    "Form negative sentences with wasn't and weren't.",
+    "Ask questions with was/were and give matching short answers."
+  ],
+  "explanation": [
+    {
+      "heading": "Use was with I, he, she and it",
+      "body": "Was is the past form of am and is. Use was with I, he, she, it and singular names or things. It describes a past condition, age, place or situation. Time expressions such as yesterday, last night and last year often show that you need the past.",
+      "example": "I was at the station yesterday afternoon."
+    },
+    {
+      "heading": "Use were with we, you and they",
+      "body": "Were is the past form of are. Use were with we, you, they and plural subjects. You always takes were in ordinary past statements and questions, whether you are speaking to one person or several.",
+      "example": "My cousins were in town last weekend."
+    },
+    {
+      "heading": "Make negatives with was not and were not",
+      "body": "To make a past negative, add not after was or were. The usual contractions are wasn't and weren't. Say he wasn't, I wasn't, we weren't and they weren't. Do not use didn't before was or were.",
+      "example": "The café wasn't open on Sunday."
+    },
+    {
+      "heading": "Put was or were before the subject in questions",
+      "body": "For a yes/no question, put Was or Were first: Was the film interesting? Were your friends there? To ask for information, place a question word first: Where was the concert? Why were you worried? The subject comes after was or were.",
+      "example": "Where were you on Monday evening?"
+    },
+    {
+      "heading": "Answer briefly with was, were, wasn't or weren't",
+      "body": "Short answers repeat was or were without the rest of the sentence. Say Yes, I was; No, she wasn't; Yes, they were; or No, we weren't. In present-time statements, return to am, is or are rather than using a past form.",
+      "example": "Were the tickets expensive? No, they weren't."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Present and past of be",
+      "left": {
+        "label": "Present",
+        "example": "The room is warm now.",
+        "note": "Is describes the current condition of one room."
+      },
+      "right": {
+        "label": "Past",
+        "example": "The room was cold yesterday.",
+        "note": "Was describes the condition at a past time."
+      }
+    },
+    {
+      "title": "Was or were?",
+      "left": {
+        "label": "Singular subject",
+        "example": "My friend was at home last night.",
+        "note": "My friend refers to one person, so use was."
+      },
+      "right": {
+        "label": "Plural subject",
+        "example": "My friends were at home last night.",
+        "note": "My friends refers to more than one person, so use were."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The bus was early yesterday.",
+      "note": "A singular thing takes was in a past statement."
+    },
+    {
+      "sentence": "Our seats were near the window.",
+      "note": "Plural seats takes were."
+    },
+    {
+      "sentence": "I wasn't hungry after lunch.",
+      "note": "Wasn't is the negative form with I."
+    },
+    {
+      "sentence": "Were your grandparents at the wedding?",
+      "note": "Were comes before a plural subject in a question."
+    },
+    {
+      "sentence": "Was the museum busy? Yes, it was.",
+      "note": "A short answer to Was it ...? repeats was."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "We was at the beach yesterday.",
+      "correct": "We were at the beach yesterday.",
+      "why": "Use were with we, even when talking about the past."
+    },
+    {
+      "incorrect": "You was late last night.",
+      "correct": "You were late last night.",
+      "why": "The subject you takes were, not was."
+    },
+    {
+      "incorrect": "Did she was at home?",
+      "correct": "Was she at home?",
+      "why": "Questions with past be do not use did."
+    },
+    {
+      "incorrect": "Where they were on Friday?",
+      "correct": "Where were they on Friday?",
+      "why": "In a direct question, put were before the subject they."
+    }
+  ],
+  "studyTips": [
+    "Remember two groups: I/he/she/it was; we/you/they were.",
+    "Change today to yesterday in a simple sentence and check whether is/are becomes was/were.",
+    "Practise the same idea in three forms: The shop was open. It wasn't open. Was it open?"
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Yesterday evening, our street ___ very quiet.",
+      "choices": [
+        "was",
+        "were",
+        "is"
+      ],
+      "answerIndex": 0,
+      "feedback": "Our street is singular and yesterday evening refers to the past, so use was."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "My friends ___ at the cinema last night.",
+      "choices": [
+        "was",
+        "were",
+        "are"
+      ],
+      "answerIndex": 1,
+      "feedback": "Friends is plural and last night is past time, so use were."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct past question.",
+      "choices": [
+        "Where you were yesterday?",
+        "Where was you yesterday?",
+        "Where were you yesterday?"
+      ],
+      "answerIndex": 2,
+      "feedback": "Put were before you after the question word where."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct negative sentence about last Monday.",
+      "choices": [
+        "The museum wasn't open last Monday.",
+        "The museum weren't open last Monday.",
+        "The museum isn't open last Monday."
+      ],
+      "answerIndex": 0,
+      "feedback": "The museum is singular and last Monday is past; use wasn't."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: Last year, I ___ a student.",
+      "acceptedAnswers": [
+        "was"
+      ],
+      "feedback": "The past form of am with I is was."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: The shops ___ closed yesterday.",
+      "acceptedAnswers": [
+        "were"
+      ],
+      "feedback": "The plural subject shops needs were in the past."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: It ___ not cold last night.",
+      "acceptedAnswers": [
+        "was"
+      ],
+      "feedback": "With it in the past, use was not or wasn't."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the short answer: Were Sam and Mia at the picnic? No, they ___.",
+      "acceptedAnswers": [
+        "weren't",
+        "were not"
+      ],
+      "feedback": "The subject they takes weren't in a negative past short answer."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We was at home last Saturday.",
+      "acceptedAnswers": [
+        "We were at home last Saturday."
+      ],
+      "feedback": "We takes were, not was."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the question: Was your parents at the meeting yesterday?",
+      "acceptedAnswers": [
+        "Were your parents at the meeting yesterday?"
+      ],
+      "feedback": "Parents is plural, so start the question with Were."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: They wasn't ready at seven o'clock.",
+      "acceptedAnswers": [
+        "They weren't ready at seven o'clock.",
+        "They were not ready at seven o'clock."
+      ],
+      "feedback": "Use weren't or were not with they."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the question: Where you were on Wednesday?",
+      "acceptedAnswers": [
+        "Where were you on Wednesday?"
+      ],
+      "feedback": "After where, use were before the subject you."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say a complete past sentence using: we / at the cinema / last night.",
+      "acceptedAnswers": [
+        "We were at the cinema last night."
+      ],
+      "feedback": "With we in the past, use were."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say a past negative sentence using: the café / not / open / yesterday.",
+      "acceptedAnswers": [
+        "The café wasn't open yesterday.",
+        "The café was not open yesterday."
+      ],
+      "feedback": "Use wasn't or was not with the singular subject the café."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Ask a past yes/no question using: your neighbours / at home / last night.",
+      "acceptedAnswers": [
+        "Were your neighbours at home last night?"
+      ],
+      "feedback": "The plural subject your neighbours takes were before it."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Say a complete past statement using these facts: the water / cold / yesterday morning.",
+      "acceptedAnswers": [
+        "The water was cold yesterday morning."
+      ],
+      "feedback": "Water is singular, and yesterday morning is in the past, so use was."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this past statement into a negative, keeping the other words: 'The lights were on last night.'",
+      "acceptedAnswers": [
+        "The lights were not on last night.",
+        "The lights weren't on last night."
+      ],
+      "feedback": "Lights is plural, so the past negative uses were not or weren’t."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Nora was at the school play yesterday. Someone asks, 'Was Nora at the school play yesterday?' Give only a positive short answer.",
+      "acceptedAnswers": [
+        "Yes, she was."
+      ],
+      "feedback": "The short answer to Was Nora ...? uses she was, not did."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this past question without changing its meaning: 'Did your bag was heavy yesterday?'",
+      "acceptedAnswers": [
+        "Was your bag heavy yesterday?"
+      ],
+      "feedback": "With past be, place Was before your bag. Do not use did."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Begin with 'Yesterday evening' and give these two facts in one sentence: I / at the library; my sister / at home.",
+      "acceptedAnswers": [
+        "Yesterday evening, I was at the library, and my sister was at home."
+      ],
+      "feedback": "The past form is was for both I and the singular subject my sister."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I was tired yesterday, but I'm fine today.",
+      "prompt": "How did the speaker feel yesterday?",
+      "choices": [
+        "Happy",
+        "Tired",
+        "Cold"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker says I was tired yesterday, using was for the past."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Were the buses late yesterday? No, they weren't.",
+      "prompt": "What does the speaker say about the buses?",
+      "choices": [
+        "They were late.",
+        "They are not running.",
+        "They were not late."
+      ],
+      "answerIndex": 2,
+      "feedback": "No, they weren't means the buses were not late yesterday."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "My brother was in the kitchen at lunchtime.",
+      "prompt": "Type the one-word past form of be that you hear.",
+      "acceptedAnswers": [
+        "was"
+      ],
+      "feedback": "The speaker uses was with the singular subject my brother."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The swimming pool was open in the morning, but it was closed after lunch.",
+      "prompt": "When could visitors use the swimming pool?",
+      "choices": [
+        "Before lunch",
+        "In the late evening",
+        "Throughout the afternoon"
+      ],
+      "answerIndex": 0,
+      "feedback": "The pool was open in the morning and closed after lunch."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Mila was at the station yesterday, and her two friends were at the supermarket.",
+      "prompt": "Where were the two friends?",
+      "choices": [
+        "At the station",
+        "At the cinema",
+        "At a food shop"
+      ],
+      "answerIndex": 2,
+      "feedback": "The two friends were at the supermarket, while Mila was at the station."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The hall was noisy yesterday, but it is very quiet today.",
+      "prompt": "How is the hall different now?",
+      "choices": [
+        "It has become noisier",
+        "It has become quieter",
+        "It is still just as noisy"
+      ],
+      "answerIndex": 1,
+      "feedback": "Was noisy refers to yesterday; is quiet describes today."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The library wasn't quiet during the school holiday.",
+      "prompt": "Type the one-word negative past form of be in the audio.",
+      "acceptedAnswers": [
+        "wasn't"
+      ],
+      "feedback": "Wasn't means was not and agrees with the singular subject the library."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The neighbours weren't at home on Friday evening.",
+      "prompt": "Type the contracted negative past form of be used with the plural subject.",
+      "acceptedAnswers": [
+        "weren't"
+      ],
+      "feedback": "Weren't means were not, the negative past form used with neighbours."
+    }
+  ]
+}

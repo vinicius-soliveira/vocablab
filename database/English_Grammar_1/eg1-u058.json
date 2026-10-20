@@ -1,0 +1,415 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u058",
+  "title": "Have and Have Got: Possession and Activities",
+  "level": "A2",
+  "topicId": "have-got-possession-activities",
+  "summary": "Use have and have got to talk about what someone possesses or experiences. Use have, not have got, in expressions for meals, washing and everyday experiences.",
+  "learningObjectives": [
+    "Express present possession using have or have got, including negatives and questions.",
+    "Use had, did not have and did ... have for past possession or conditions.",
+    "Describe meals and drinks with have or having instead of have got.",
+    "Use common activity expressions such as have a shower, have a rest and have a good time."
+  ],
+  "explanation": [
+    {
+      "heading": "Possession: have and have got",
+      "body": "For possession in the present, both have and have got are common: I have a bike and I have got a bike mean the same thing. With have, questions and negatives usually use do/does. With have got, use have/has before the subject for questions and have not/has not for negatives.",
+      "example": "Does Bea have a tablet, or has she got one?"
+    },
+    {
+      "heading": "Health and the past tense",
+      "body": "Use have or have got for conditions such as a cold, a headache or a sore throat. When talking about the past, use had; make past negatives and questions with did not have and did ... have. Do not use have got to express past possession.",
+      "example": "I had a cold on Monday, but I feel much better now."
+    },
+    {
+      "heading": "Have with meals and drinks",
+      "body": "For eating and drinking, use have breakfast, have lunch, have dinner, have a sandwich or have a drink. These describe an activity, not possession. Do not replace have with have got in this meaning. Use having when the activity is happening now.",
+      "example": "We are having lunch in the garden today."
+    },
+    {
+      "heading": "Have for routines and experiences",
+      "body": "Many fixed expressions use have: have a shower, have a bath, have a rest, have a party, have a holiday, have fun, have a good time, have a look and have a walk. You can also have an accident or have a baby. These expressions describe events or activities.",
+      "example": "After the long journey, I had a rest."
+    },
+    {
+      "heading": "Having an activity versus having a possession",
+      "body": "You can say I am having a shower because taking a shower is an activity. For ordinary possession, use I have or I have got rather than I am having. Context tells you whether have means own or do/experience.",
+      "example": "We have a shower upstairs, and my brother is having a shower now."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Two ways to express possession",
+      "left": {
+        "label": "Have",
+        "example": "Lena has two brothers.",
+        "note": "Use has with third-person singular subjects."
+      },
+      "right": {
+        "label": "Have got",
+        "example": "Lena has got two brothers.",
+        "note": "Has got expresses the same present possession."
+      }
+    },
+    {
+      "title": "Owning something versus doing an activity",
+      "left": {
+        "label": "Have for possession",
+        "example": "My flat has a large bathroom.",
+        "note": "Has describes something the flat contains."
+      },
+      "right": {
+        "label": "Have for an activity",
+        "example": "I have a shower after work.",
+        "note": "Have a shower describes washing, not owning a shower."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Have you got any brothers or sisters?",
+      "note": "Have you got asks about present possession or family relationships."
+    },
+    {
+      "sentence": "I did not have a phone when I was ten.",
+      "note": "Did not have expresses a negative in the past."
+    },
+    {
+      "sentence": "My sister has got a headache today.",
+      "note": "Have got can express a current health condition."
+    },
+    {
+      "sentence": "We had a lovely meal at the café yesterday.",
+      "note": "Had a meal describes eating."
+    },
+    {
+      "sentence": "They are having a party on Saturday.",
+      "note": "Having a party refers to a planned event."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "We have got dinner at eight every evening.",
+      "correct": "We have dinner at eight every evening.",
+      "why": "For eating dinner, use have dinner, not have got dinner."
+    },
+    {
+      "incorrect": "Did you had a car at university?",
+      "correct": "Did you have a car at university?",
+      "why": "Use the base form have after did."
+    },
+    {
+      "incorrect": "My friends has got a new flat.",
+      "correct": "My friends have got a new flat.",
+      "why": "Friends is plural, so use have got."
+    },
+    {
+      "incorrect": "She is having a red bicycle.",
+      "correct": "She has a red bicycle.",
+      "why": "For ordinary possession, use has, not is having."
+    }
+  ],
+  "studyTips": [
+    "Ask whether have means possession or an activity: I have a camera, but I am having breakfast.",
+    "Memorise the past pattern: had a bike, did not have a bike, did you have a bike?",
+    "Practise short combinations such as have a rest, have a look, have fun and have a good time."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which sentence clearly expresses possession?",
+      "choices": [
+        "Leo has got a bicycle.",
+        "Leo is having a bicycle.",
+        "Leo has a shower after school."
+      ],
+      "answerIndex": 0,
+      "feedback": "Has got a bicycle expresses possession; having a bicycle is not the normal possession form."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence about yesterday: Nina ___ a sore throat last night.",
+      "choices": [
+        "has got",
+        "had",
+        "have got"
+      ],
+      "answerIndex": 1,
+      "feedback": "Had is the past form used for a past health condition."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which question correctly asks about present possession?",
+      "choices": [
+        "Do you got a new phone?",
+        "Have got you a new phone?",
+        "Have you got a new phone?"
+      ],
+      "answerIndex": 2,
+      "feedback": "In a have got question, put have before the subject: Have you got ... ?"
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which sentence means that she is eating lunch at this moment?",
+      "choices": [
+        "She's having lunch.",
+        "She's got lunch.",
+        "She has got lunch."
+      ],
+      "answerIndex": 0,
+      "feedback": "Is having lunch describes the meal in progress; has got can describe possession or acquisition."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with the past form of have: We ___ a lovely time at the beach last weekend.",
+      "acceptedAnswers": [
+        "had"
+      ],
+      "feedback": "Have a lovely time becomes had a lovely time in the past."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with the present simple form of have: I ___ a shower every morning.",
+      "acceptedAnswers": [
+        "have"
+      ],
+      "feedback": "Have a shower describes a routine activity."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: Ben does not ___ much free time on weekdays.",
+      "acceptedAnswers": [
+        "have"
+      ],
+      "feedback": "After does not, use the base form have."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the -ing form of have: Look, the children are ___ a rest under the tree.",
+      "acceptedAnswers": [
+        "having"
+      ],
+      "feedback": "Are having a rest describes an activity in progress."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence about a daily meal: We have got breakfast at seven every day.",
+      "acceptedAnswers": [
+        "We have breakfast at seven every day."
+      ],
+      "feedback": "Have breakfast means eat breakfast; have got does not express this activity."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Did you had enough money for the ticket?",
+      "acceptedAnswers": [
+        "Did you have enough money for the ticket?"
+      ],
+      "feedback": "Use the base form have after did."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence about possession: She is having a new bike. It belongs to her.",
+      "acceptedAnswers": [
+        "She has a new bike. It belongs to her.",
+        "She has got a new bike. It belongs to her.",
+        "She's got a new bike. It belongs to her."
+      ],
+      "feedback": "Ordinary possession uses has or has got, not is having."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My friends hasn't got a car.",
+      "acceptedAnswers": [
+        "My friends haven't got a car.",
+        "My friends have not got a car."
+      ],
+      "feedback": "A plural subject requires have, so the negative is have not got or haven’t got."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Change this sentence to use have got: “Mina has two sisters.”",
+      "acceptedAnswers": [
+        "Mina has got two sisters.",
+        "Mina's got two sisters."
+      ],
+      "feedback": "Has got expresses the same present relationship as has."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Change this sentence into the past: “We have a good time at the fair.”",
+      "acceptedAnswers": [
+        "We had a good time at the fair."
+      ],
+      "feedback": "Had is the past form of have."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say a complete present continuous sentence from these cues: Dad / have / a shower / right now.",
+      "acceptedAnswers": [
+        "Dad is having a shower right now.",
+        "Dad's having a shower right now."
+      ],
+      "feedback": "Is having a shower describes an activity happening now."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Leila has a sore throat today. Say one complete sentence beginning with Leila and using has got for her condition. Include today.",
+      "acceptedAnswers": [
+        "Leila has got a sore throat today.",
+        "Leila's got a sore throat today."
+      ],
+      "feedback": "Has got can describe a present health condition; Leila's got is a natural contraction."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change 'Marco has a small car.' into a negative present-simple sentence. Use doesn't or does not, and keep a small car.",
+      "acceptedAnswers": [
+        "Marco doesn't have a small car.",
+        "Marco does not have a small car."
+      ],
+      "feedback": "With does not or doesn't, use the base verb have, not has."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks whether you had a headache yesterday. The answer is no. Give a complete negative sentence beginning with I and ending with yesterday.",
+      "acceptedAnswers": [
+        "I didn't have a headache yesterday.",
+        "I did not have a headache yesterday."
+      ],
+      "feedback": "A past negative uses did not have or didn't have, never did not had."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this sentence so that it describes eating a meal right now, using are having: 'The twins have got lunch right now.' Keep the other words and say the full sentence.",
+      "acceptedAnswers": [
+        "The twins are having lunch right now."
+      ],
+      "feedback": "Are having lunch describes the activity of eating. Have got does not express a meal in progress."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You own a blue umbrella, and your sister is taking a rest right now. Say one sentence beginning with I. Use have got for the umbrella and is having for the rest, joining the clauses with and.",
+      "acceptedAnswers": [
+        "I have got a blue umbrella and my sister is having a rest right now.",
+        "I've got a blue umbrella and my sister is having a rest right now.",
+        "I have got a blue umbrella and my sister's having a rest right now.",
+        "I've got a blue umbrella and my sister's having a rest right now."
+      ],
+      "feedback": "Have got expresses possession of the umbrella; is having a rest describes an activity in progress."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "My cousin has got two cats and a small dog.",
+      "prompt": "How many cats does the speaker’s cousin have?",
+      "choices": [
+        "One.",
+        "Two.",
+        "Three."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker says the cousin has got two cats."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We had a wonderful time at the concert last night.",
+      "prompt": "What does the speaker say about the concert?",
+      "choices": [
+        "It was boring.",
+        "They could not go.",
+        "They had a wonderful time."
+      ],
+      "answerIndex": 2,
+      "feedback": "Had a wonderful time expresses a positive experience."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Oliver is having a shower before work.",
+      "prompt": "Complete the expression you hear: “Oliver is ___ a shower before work.” Type one word.",
+      "acceptedAnswers": [
+        "having"
+      ],
+      "feedback": "The speaker says is having a shower to describe an activity in progress."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "It is nearly noon, and Emma is having a snack before her music lesson.",
+      "prompt": "What is Emma doing before her lesson?",
+      "choices": [
+        "Practising a song.",
+        "Eating something.",
+        "Visiting her teacher."
+      ],
+      "answerIndex": 1,
+      "feedback": "Having a snack means eating some food; here having describes an activity."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "When Daniel was eight, he did not have a bicycle, but now he has got one.",
+      "prompt": "What has changed for Daniel?",
+      "choices": [
+        "He sold a bicycle he had as a child.",
+        "He still does not own a bicycle.",
+        "He owns a bicycle now, unlike when he was eight."
+      ],
+      "answerIndex": 2,
+      "feedback": "He did not have a bicycle at eight, but has got one now. The first expression is past possession; the second is present possession."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I have a camera, but I am having breakfast before I take any pictures.",
+      "prompt": "Which activity is happening now?",
+      "choices": [
+        "The speaker is eating a morning meal.",
+        "The speaker is buying a camera.",
+        "The speaker is selling pictures."
+      ],
+      "answerIndex": 0,
+      "feedback": "Am having breakfast describes an activity now; have a camera describes possession."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "My grandparents have got a small house near the sea.",
+      "prompt": "Type the two-word present-possession expression heard immediately after 'grandparents'.",
+      "acceptedAnswers": [
+        "have got"
+      ],
+      "feedback": "Have got describes something the grandparents own in the present."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We had a rest in the shade after working in the garden.",
+      "prompt": "Type the three-word expression meaning 'took a break' in the recording.",
+      "acceptedAnswers": [
+        "had a rest"
+      ],
+      "feedback": "Had a rest is the past form of the activity expression have a rest."
+    }
+  ]
+}

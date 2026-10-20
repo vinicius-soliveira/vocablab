@@ -1,0 +1,413 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u025",
+  "title": "Present Continuous for Future Arrangements",
+  "level": "A2",
+  "topicId": "present-continuous-future-arrangements",
+  "summary": "Use the present continuous to talk about plans already arranged for a future time. Distinguish personal arrangements from fixed schedules.",
+  "learningObjectives": [
+    "Use am, is or are + verb-ing to describe an agreed future arrangement.",
+    "Make questions and negatives about arrangements using the present continuous.",
+    "Use future time expressions to make the intended time clear.",
+    "Choose the present simple for regular timetables and published schedules."
+  ],
+  "explanation": [
+    {
+      "heading": "A familiar form with a future meaning",
+      "body": "The present continuous is am, is or are + verb-ing. It can describe an action in progress now, but it also describes a future plan that someone has already arranged. A time expression such as tomorrow, on Saturday or next week helps show which meaning is intended.",
+      "example": "We are visiting our cousins on Sunday."
+    },
+    {
+      "heading": "An arrangement is more than a general idea",
+      "body": "Use this future meaning when a meeting, appointment, trip or activity has been organised. The people involved may have agreed on a date, bought tickets or made a booking. It is a planned event, not simply a habit.",
+      "example": "Nora is seeing the dentist at four tomorrow."
+    },
+    {
+      "heading": "Questions and negative arrangements",
+      "body": "Put am, is or are before the subject to ask about a planned event: Are you meeting...? For negatives, put not after the form of be: I am not meeting..., she is not meeting..., they are not meeting.... Contractions such as I’m, isn’t and aren’t are common in conversation.",
+      "example": "Are your friends coming on Friday? No, they aren’t coming."
+    },
+    {
+      "heading": "Present simple for fixed timetables",
+      "body": "For published schedules, regular services and programme times, the present simple is usually the natural choice, even when the event is in the future. Say the train leaves or the film begins. Use the present continuous to talk about a person’s arranged activity.",
+      "example": "Our bus leaves at six, so we are meeting outside the station at five forty-five."
+    },
+    {
+      "heading": "Look at the context, not just the verb",
+      "body": "I am cooking can mean that cooking is happening now or that dinner has been arranged for later. A future time phrase and the wider conversation help you decide. Present continuous and be going to can both refer to plans, but the present continuous often draws attention to an organised arrangement.",
+      "example": "I am cooking now, but I am eating out tomorrow evening."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Happening now or arranged for later?",
+      "left": {
+        "label": "Present action",
+        "example": "Kai is waiting for the bus now.",
+        "note": "The action is in progress at this moment."
+      },
+      "right": {
+        "label": "Future arrangement",
+        "example": "Kai is meeting his tutor on Thursday.",
+        "note": "The meeting is organised for a future date."
+      }
+    },
+    {
+      "title": "Personal arrangement or timetable?",
+      "left": {
+        "label": "Present continuous",
+        "example": "We are travelling to Bath on Saturday.",
+        "note": "This describes our organised personal plan."
+      },
+      "right": {
+        "label": "Present simple",
+        "example": "The coach leaves at eight on Saturday.",
+        "note": "This gives the scheduled departure time."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I am having breakfast with Priya tomorrow morning.",
+      "note": "A future meeting is expressed with am having."
+    },
+    {
+      "sentence": "Is your brother staying with you next weekend?",
+      "note": "Is + subject + staying asks about a future arrangement."
+    },
+    {
+      "sentence": "We aren’t playing football on Tuesday because the pitch is closed.",
+      "note": "A negative present continuous describes a cancelled or absent plan."
+    },
+    {
+      "sentence": "The workshop starts at nine, and I’m arriving at eight thirty.",
+      "note": "Starts gives the scheduled time; I’m arriving states a personal arrangement."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I am meet Ella on Wednesday.",
+      "correct": "I am meeting Ella on Wednesday.",
+      "why": "The present continuous needs be followed by the -ing form."
+    },
+    {
+      "incorrect": "Do you visiting Sam this weekend?",
+      "correct": "Are you visiting Sam this weekend?",
+      "why": "Use are, not do, before the subject in a present continuous question."
+    },
+    {
+      "incorrect": "He does not coming to the picnic tomorrow.",
+      "correct": "He is not coming to the picnic tomorrow.",
+      "why": "Use is not + -ing to make this arranged future plan negative."
+    },
+    {
+      "incorrect": "The bus leave at half past seven every day.",
+      "correct": "The bus leaves at half past seven every day.",
+      "why": "A regular timetable normally uses present simple, with -s after the singular subject the bus."
+    }
+  ],
+  "studyTips": [
+    "When a plan is confirmed, practise saying who is doing what and when: We’re meeting at six tomorrow.",
+    "To form a question, move am, is or are in front of the subject; keep the verb ending in -ing.",
+    "Check whether a time belongs to your personal arrangement or to an official timetable before choosing a tense."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "We booked a table yesterday. We ___ at the little café on Saturday.",
+      "choices": [
+        "are eating",
+        "eat",
+        "ate"
+      ],
+      "answerIndex": 0,
+      "feedback": "A booked meal is a future arrangement, so use are + eating."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The ferry follows the same timetable every day. Tomorrow it ___ at eight, as usual.",
+      "choices": [
+        "is leaving",
+        "leaves",
+        "leave"
+      ],
+      "answerIndex": 1,
+      "feedback": "The regular departure is a timetable fact, so use the present simple leaves."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "We have theatre tickets for Friday, so we ___ the new play then.",
+      "choices": [
+        "watch",
+        "watched",
+        "are watching"
+      ],
+      "answerIndex": 2,
+      "feedback": "The tickets show an arranged future activity: are watching."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "___ your cousins staying with you this weekend? They have booked their train tickets.",
+      "choices": [
+        "Are",
+        "Do",
+        "Is"
+      ],
+      "answerIndex": 0,
+      "feedback": "A present continuous question with the plural subject your cousins begins with Are."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "I ___ (meet) Leila at the station at eight tonight. We agreed on the time.",
+      "acceptedAnswers": [
+        "am meeting"
+      ],
+      "feedback": "The agreed meeting is an arranged future event: I am meeting."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Leo ___ (not / work) next Tuesday. He has arranged a day off.",
+      "acceptedAnswers": [
+        "is not working",
+        "isn't working"
+      ],
+      "feedback": "Use is not or isn’t + working for a negative future arrangement."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "___ (you / come) to Mia’s birthday lunch tomorrow? Your name is on the guest list.",
+      "acceptedAnswers": [
+        "Are you coming"
+      ],
+      "feedback": "Start with Are you + coming to ask about a planned visit."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The first bus ___ (leave) at 6:15 every weekday.",
+      "acceptedAnswers": [
+        "leaves"
+      ],
+      "feedback": "Use present simple leaves for a regular bus timetable."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I am meet Joel after work tomorrow.",
+      "acceptedAnswers": [
+        "I am meeting Joel after work tomorrow.",
+        "I'm meeting Joel after work tomorrow."
+      ],
+      "feedback": "Am must be followed by meeting, not the base form meet."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Are you visit your aunt on Sunday?",
+      "acceptedAnswers": [
+        "Are you visiting your aunt on Sunday?"
+      ],
+      "feedback": "After Are you, use visiting for a present continuous arrangement."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My train is leave at 7:20 every morning.",
+      "acceptedAnswers": [
+        "My train leaves at 7:20 every morning."
+      ],
+      "feedback": "A regular train schedule uses the present simple leaves."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She doesn’t coming to dinner on Friday.",
+      "acceptedAnswers": [
+        "She isn't coming to dinner on Friday.",
+        "She is not coming to dinner on Friday.",
+        "She's not coming to dinner on Friday."
+      ],
+      "feedback": "For a future arrangement, the negative auxiliary is isn’t or is not before coming."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say a sentence about this agreed plan: we / have lunch / with Ana / on Thursday.",
+      "acceptedAnswers": [
+        "We are having lunch with Ana on Thursday.",
+        "We're having lunch with Ana on Thursday."
+      ],
+      "feedback": "Use we are having to describe an arranged Thursday lunch."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask a question about this booked trip: you / travel / to Bristol / this weekend?",
+      "acceptedAnswers": [
+        "Are you travelling to Bristol this weekend?",
+        "Are you traveling to Bristol this weekend?"
+      ],
+      "feedback": "Begin with Are you and use the -ing form of travel."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Make a negative sentence about the confirmed plan: Ruth / not attend / the workshop / tomorrow.",
+      "acceptedAnswers": [
+        "Ruth is not attending the workshop tomorrow.",
+        "Ruth isn't attending the workshop tomorrow.",
+        "Ruth's not attending the workshop tomorrow."
+      ],
+      "feedback": "Use is not attending to say the arranged event is not happening for Ruth."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Mia has booked a room at the Lake Hotel for next Monday. Say one full sentence starting with 'Mia' and using 'stay at the Lake Hotel' in the future present continuous.",
+      "acceptedAnswers": [
+        "Mia is staying at the Lake Hotel next Monday.",
+        "Mia's staying at the Lake Hotel next Monday."
+      ],
+      "feedback": "An already-booked stay is a future arrangement. Use Mia is staying, not Mia stays."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "The film has a published start time. Change 'The film is starting at seven on Saturday' into the present simple, keeping the same film, time and day. Use the verb 'start'.",
+      "acceptedAnswers": [
+        "The film starts at seven on Saturday."
+      ],
+      "feedback": "A published programme time normally uses the present simple: the film starts."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You have booked a dentist appointment at two tomorrow afternoon. Your friend asks, 'When are you seeing the dentist?' Reply in one sentence starting with 'I' and including 'the dentist' and 'at two tomorrow afternoon'.",
+      "acceptedAnswers": [
+        "I'm seeing the dentist at two tomorrow afternoon.",
+        "I am seeing the dentist at two tomorrow afternoon."
+      ],
+      "feedback": "Use am seeing to report a confirmed future appointment, followed by its agreed time."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Your train's published departure is at eight tomorrow. You and a friend have arranged to meet at the station at seven. Say exactly two sentences: begin the first with 'The train' and use 'leave' in the present simple; begin the second with 'We' and use 'meet' in the present continuous.",
+      "acceptedAnswers": [
+        "The train leaves at eight tomorrow. We're meeting at the station at seven.",
+        "The train leaves at eight tomorrow. We are meeting at the station at seven."
+      ],
+      "feedback": "Use leaves for the train's official timetable, but are meeting for your personal arrangement."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You have reserved a train seat to Oxford for Tuesday and arranged to stay with Ben that night. Say one sentence beginning with 'I' that uses 'taking' and 'staying' joined by 'and'. Include both plans.",
+      "acceptedAnswers": [
+        "I'm taking a train to Oxford on Tuesday and staying with Ben that night.",
+        "I am taking a train to Oxford on Tuesday and staying with Ben that night."
+      ],
+      "feedback": "Present continuous can connect two confirmed future arrangements: taking a train and staying with Ben."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We’re visiting my grandparents on Saturday. We arranged it last week.",
+      "prompt": "What have the speakers arranged?",
+      "choices": [
+        "A visit happening now.",
+        "A visit on Saturday.",
+        "A weekly Saturday routine."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speakers say they arranged a family visit for Saturday."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The coach to York leaves at quarter past six every morning.",
+      "prompt": "What kind of information does the speaker give?",
+      "choices": [
+        "A private plan for today.",
+        "An action happening now.",
+        "A regular transport timetable."
+      ],
+      "answerIndex": 2,
+      "feedback": "Leaves and every morning describe a timetable, not a personal arrangement."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "We are meeting outside the theatre on Friday.",
+      "prompt": "Type the two-word verb phrase that expresses the Friday arrangement.",
+      "acceptedAnswers": [
+        "are meeting"
+      ],
+      "feedback": "Are meeting is the present continuous form used for a future arrangement."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Tess and I have booked a tennis court. We're playing together on Tuesday evening.",
+      "prompt": "What is the pair's plan?",
+      "choices": [
+        "They play tennis every Tuesday evening.",
+        "They played a game together last Tuesday.",
+        "They have arranged a tennis game for Tuesday evening."
+      ],
+      "answerIndex": 2,
+      "feedback": "The court is booked and the speakers are playing on Tuesday evening, so this is a future arrangement."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I'm picking up my brother at the airport on Friday after his flight lands.",
+      "prompt": "Why is the speaker going to the airport?",
+      "choices": [
+        "To meet an arriving family member.",
+        "To buy a plane ticket.",
+        "To take a flight to another city."
+      ],
+      "answerIndex": 0,
+      "feedback": "Picking up the speaker's brother after his flight means meeting him when he arrives."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The museum opens at nine on Sunday, but we're meeting outside at half past nine.",
+      "prompt": "Which activity has the group arranged?",
+      "choices": [
+        "To open the museum at nine.",
+        "To meet outside after the museum opens.",
+        "To change the museum's opening hours."
+      ],
+      "answerIndex": 1,
+      "feedback": "Opens describes the museum's schedule; we're meeting describes the group's organised activity."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Our cousins are staying with us next weekend.",
+      "prompt": "Type only the two-word verb phrase that describes the future visit.",
+      "acceptedAnswers": [
+        "are staying"
+      ],
+      "feedback": "Are staying is the present continuous used for the cousins' future arrangement."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Lea isn't joining us for lunch tomorrow because she has an appointment.",
+      "prompt": "Type the negative verb expression immediately after Lea's name.",
+      "acceptedAnswers": [
+        "isn't joining",
+        "is not joining"
+      ],
+      "feedback": "Isn't joining is a negative present continuous form for an arrangement that will not happen."
+    }
+  ]
+}

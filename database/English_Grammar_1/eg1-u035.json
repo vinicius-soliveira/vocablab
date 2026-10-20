@@ -1,0 +1,414 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u035",
+  "title": "Imperatives and Let’s: Instructions and Suggestions",
+  "level": "A1",
+  "topicId": "imperatives-and-lets",
+  "summary": "Give simple instructions, warnings and friendly wishes. Suggest activities for yourself and other people with let’s, including negative suggestions.",
+  "learningObjectives": [
+    "Give a direct affirmative instruction using the base form of a verb, with please when appropriate.",
+    "Make negative commands with don’t + base verb.",
+    "Suggest a shared action with let’s + base verb.",
+    "Suggest not doing something together with let’s not + base verb."
+  ],
+  "explanation": [
+    {
+      "heading": "Direct instructions: use the base verb",
+      "body": "To tell someone what to do, begin with the base form of the verb. You usually leave out the subject you. Be is also an imperative verb: Be patient. Add please to make a request more polite.",
+      "example": "Please place the clean cups on the shelf."
+    },
+    {
+      "heading": "Friendly wishes and invitations",
+      "body": "Some short imperatives express kindness rather than an order. Have a good journey and Enjoy your meal are friendly wishes. Have a seat can also be an invitation.",
+      "example": "Have a wonderful weekend!"
+    },
+    {
+      "heading": "Negative instructions: don’t + base verb",
+      "body": "To tell someone not to do something, put don’t (do not) before the base form of the verb. Do not add to or -ing after don’t. You can put please before or after the negative instruction.",
+      "example": "Don’t put your wet shoes on the sofa, please."
+    },
+    {
+      "heading": "Making suggestions together: let’s",
+      "body": "Use let’s + base verb to suggest doing something with another person or group. Let’s is the short form of let us. It includes the speaker as well as the listeners. There is no to between let’s and the next verb.",
+      "example": "The shops are closed. Let’s cook at home tonight."
+    },
+    {
+      "heading": "Negative group suggestions: let’s not",
+      "body": "To suggest that you and others avoid an activity, say let’s not + base verb. This is different from don’t, which normally tells the listener what not to do.",
+      "example": "We have plenty of time. Let’s not rush."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Tell someone to act or not to act",
+      "left": {
+        "label": "Positive instruction",
+        "example": "Close the gate gently.",
+        "note": "Begin with the base verb to ask for an action."
+      },
+      "right": {
+        "label": "Negative instruction",
+        "example": "Don’t close the gate yet.",
+        "note": "Don’t + base verb tells the listener to avoid the action."
+      }
+    },
+    {
+      "title": "One listener or the whole group?",
+      "left": {
+        "label": "Command to someone",
+        "example": "Don’t walk into the kitchen.",
+        "note": "You tell the listener not to do something."
+      },
+      "right": {
+        "label": "Shared suggestion",
+        "example": "Let’s not walk into the kitchen.",
+        "note": "You propose that you and the others avoid doing it."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Be careful with that heavy box.",
+      "note": "Be starts an imperative even though it is not an action verb."
+    },
+    {
+      "sentence": "Please bring your notebook to the meeting.",
+      "note": "Please makes a direct instruction sound more polite."
+    },
+    {
+      "sentence": "Don’t leave your bike in front of the door.",
+      "note": "The negative imperative uses don’t before the base verb leave."
+    },
+    {
+      "sentence": "Let’s take a short break after this exercise.",
+      "note": "Let’s offers a suggestion that includes the speaker."
+    },
+    {
+      "sentence": "Let’s not order dessert. We have fruit at home.",
+      "note": "Let’s not introduces a negative suggestion for the group."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "To sit down, please.",
+      "correct": "Sit down, please.",
+      "why": "An affirmative imperative starts with the base verb, without to."
+    },
+    {
+      "incorrect": "Don’t to put your bag there.",
+      "correct": "Don’t put your bag there.",
+      "why": "Use don’t + base verb, not don’t to + verb."
+    },
+    {
+      "incorrect": "Let’s to meet outside.",
+      "correct": "Let’s meet outside.",
+      "why": "A shared suggestion uses let’s immediately followed by the base verb."
+    },
+    {
+      "incorrect": "Let’s don’t buy any more snacks.",
+      "correct": "Let’s not buy any more snacks.",
+      "why": "Use let’s not, not let’s don’t, to suggest avoiding a shared action."
+    }
+  ],
+  "studyTips": [
+    "When giving directions, begin with a short base verb such as turn, wait, follow or check.",
+    "Ask whether the speaker joins the action: let’s includes me; an ordinary imperative addresses someone else.",
+    "Practise the four patterns aloud: Come in. Don’t come in. Let’s come in. Let’s not come in."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A guest is outside. Complete this direct invitation: “___, please.”",
+      "choices": [
+        "Coming in",
+        "Come in",
+        "To come in"
+      ],
+      "answerIndex": 1,
+      "feedback": "A positive imperative begins with the base verb: Come in."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Give one person a direct negative command: “The pan is hot. ___ it.”",
+      "choices": [
+        "Don’t touch",
+        "Let’s not touch",
+        "Not touch"
+      ],
+      "answerIndex": 0,
+      "feedback": "Don’t + base verb gives a negative instruction to another person."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "You want to suggest preparing dinner together. Complete: “___ dinner now.”",
+      "choices": [
+        "Let’s to make",
+        "Making",
+        "Let’s make"
+      ],
+      "answerIndex": 2,
+      "feedback": "Let’s + base verb suggests a shared activity."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Suggest that you and your friends avoid a crowded street: “___ the crowded street.”",
+      "choices": [
+        "Not take",
+        "Let’s not take",
+        "Let’s don’t take"
+      ],
+      "answerIndex": 1,
+      "feedback": "Let’s not + base verb makes a negative group suggestion."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Use the verb hang to give a direct instruction to one person: “___ your coat by the door, please.”",
+      "acceptedAnswers": [
+        "Hang"
+      ],
+      "feedback": "The positive imperative uses the base verb hang."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Use the verb run in a direct negative command to one person: “___ in the corridor.”",
+      "acceptedAnswers": [
+        "Don’t run",
+        "Do not run"
+      ],
+      "feedback": "Don’t run uses don’t + base verb for a negative instruction."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Use let’s and make to suggest an activity you and a friend can do: “___ some sandwiches.”",
+      "acceptedAnswers": [
+        "Let’s make",
+        "Let us make"
+      ],
+      "feedback": "Let’s + base verb includes the speaker in the suggestion."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Use let’s not and order to suggest avoiding another purchase together: “___ any more food.”",
+      "acceptedAnswers": [
+        "Let’s not order",
+        "Let us not order"
+      ],
+      "feedback": "Use let’s not followed by the base verb order."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct this instruction. Keep please at the beginning: “Please to switch off the lamp.”",
+      "acceptedAnswers": [
+        "Please switch off the lamp."
+      ],
+      "feedback": "The imperative begins with the base verb switch; to is unnecessary."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct this negative instruction: “Don’t to open the cupboard.”",
+      "acceptedAnswers": [
+        "Don’t open the cupboard.",
+        "Do not open the cupboard."
+      ],
+      "feedback": "After don’t, use the base verb open without to."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct this suggestion for your group: “Let’s to play cards after dinner.”",
+      "acceptedAnswers": [
+        "Let’s play cards after dinner.",
+        "Let us play cards after dinner."
+      ],
+      "feedback": "Do not add to after let’s."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct this negative suggestion for your group: “Let’s don’t go by car.”",
+      "acceptedAnswers": [
+        "Let’s not go by car.",
+        "Let us not go by car."
+      ],
+      "feedback": "The negative group pattern is let’s not + base verb."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Tell one person not to leave the window open. Begin with “Don’t leave”.",
+      "acceptedAnswers": [
+        "Don’t leave the window open."
+      ],
+      "feedback": "Don’t leave is a direct negative instruction followed by a complete object."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "You and a friend want to listen to music together. Make a suggestion using “Let’s listen”.",
+      "acceptedAnswers": [
+        "Let’s listen to music."
+      ],
+      "feedback": "Let’s + base verb suggests a shared activity."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "You and a friend decide to avoid eating out tonight. Make a suggestion using these words in order: “Let’s not / eat out / tonight”.",
+      "acceptedAnswers": [
+        "Let’s not eat out tonight."
+      ],
+      "feedback": "Let’s not + base verb expresses a negative group suggestion."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A visitor is standing near a blue door. Politely tell the visitor to wait there. Begin with 'Please' and use 'wait by the blue door'.",
+      "acceptedAnswers": [
+        "Please wait by the blue door."
+      ],
+      "feedback": "A polite positive instruction uses please followed by the base verb wait, without to."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this positive instruction into a negative instruction, keeping the other words: 'Turn on the kitchen light.'",
+      "acceptedAnswers": [
+        "Don't turn on the kitchen light.",
+        "Do not turn on the kitchen light."
+      ],
+      "feedback": "Use don't or do not before the base verb turn to make a negative command."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your friend asks what you can do together while waiting. Suggest playing cards. Begin with 'Let's' or 'Let us'.",
+      "acceptedAnswers": [
+        "Let's play cards.",
+        "Let us play cards."
+      ],
+      "feedback": "Let's followed by play suggests an activity that includes both you and your friend."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this instruction, keeping 'Please' at the beginning and the same action: 'Please to carry the bags inside.'",
+      "acceptedAnswers": [
+        "Please carry the bags inside."
+      ],
+      "feedback": "A direct instruction takes the base verb carry, not to carry, after please."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "At a picnic, suggest eating now, then warn one friend not to touch the hot grill. Say exactly two sentences: start the first with 'Let's' and the second with 'Don't'.",
+      "acceptedAnswers": [
+        "Let's eat now. Don't touch the hot grill."
+      ],
+      "feedback": "Let's eat includes the speaker in a suggestion; don't touch directs a warning to the listener."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Let’s not take the bus. The park is close enough to walk to.",
+      "prompt": "What does the speaker suggest doing as a group?",
+      "choices": [
+        "Taking the bus.",
+        "Waiting for a taxi.",
+        "Not taking the bus."
+      ],
+      "answerIndex": 2,
+      "feedback": "Let’s not take the bus suggests that the speaker and listeners avoid taking it."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Please don’t leave your shoes in the hallway.",
+      "prompt": "What is the speaker doing?",
+      "choices": [
+        "Giving a negative instruction.",
+        "Suggesting a shared activity.",
+        "Describing a daily habit."
+      ],
+      "answerIndex": 0,
+      "feedback": "Please don’t + base verb is a polite negative instruction."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Let’s have breakfast together before the trip.",
+      "prompt": "Type the first two words of the suggestion you hear.",
+      "acceptedAnswers": [
+        "Let’s have",
+        "Let us have"
+      ],
+      "feedback": "Let’s have begins a suggestion that includes the speaker and listeners."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "This room feels warm. Please open the window next to the door.",
+      "prompt": "What does the speaker want the listener to do?",
+      "choices": [
+        "Make the room warmer.",
+        "Let some fresh air into the room.",
+        "Move to a different room."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker asks for the window to be opened, which lets fresh air into the warm room."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Don't go into the garden yet. Wait in the kitchen until your sister arrives.",
+      "prompt": "Where should the listener stay for now?",
+      "choices": [
+        "In the garden.",
+        "In the bedroom.",
+        "In the kitchen."
+      ],
+      "answerIndex": 2,
+      "feedback": "The instruction is to wait in the kitchen until the sister arrives, not to go into the garden yet."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We're all tired, and the movie is available tomorrow. Let's not watch it tonight.",
+      "prompt": "Which plan does the speaker suggest for the group?",
+      "choices": [
+        "Watch the movie on another day.",
+        "Watch the movie immediately.",
+        "Let only one person watch the movie tonight."
+      ],
+      "answerIndex": 0,
+      "feedback": "Let's not watch it tonight suggests that the whole group postpone watching the movie."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Please be quiet while the baby is sleeping in the next room.",
+      "prompt": "Type the two-word instruction you hear immediately after the polite opening.",
+      "acceptedAnswers": [
+        "be quiet"
+      ],
+      "feedback": "Be quiet is an imperative formed with the base verb be."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Let's not buy snacks now. We already have enough food for everyone.",
+      "prompt": "Type the short expression at the start of the audio that introduces a negative group suggestion.",
+      "acceptedAnswers": [
+        "let's not",
+        "let us not"
+      ],
+      "feedback": "Let's not introduces a suggestion that the speaker and listeners avoid an action together."
+    }
+  ]
+}

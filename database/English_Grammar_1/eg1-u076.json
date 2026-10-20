@@ -1,0 +1,408 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u076",
+  "title": "Some and Any: Statements and Questions",
+  "level": "A2",
+  "topicId": "determiners-some-any",
+  "summary": "Use some and any to talk about unspecified amounts or numbers. Learn the usual patterns in statements and questions, including friendly offers, requests and words such as something and anybody.",
+  "learningObjectives": [
+    "Choose some in ordinary affirmative statements and any in ordinary negative statements.",
+    "Use any in neutral questions and some for typical offers or requests.",
+    "Use some and any without repeating a previously mentioned noun.",
+    "Select something, somebody, anything or anybody according to the sentence context."
+  ],
+  "explanation": [
+    {
+      "heading": "Some in affirmative statements",
+      "body": "Use some when a positive statement refers to an unspecified number or amount. It works with plural countable nouns (some postcards) and uncountable nouns (some rice). The speaker does not say exactly how many or how much.",
+      "example": "We bought some tomatoes and some bread for lunch."
+    },
+    {
+      "heading": "Any in ordinary negative statements",
+      "body": "In a basic negative sentence with not, use any rather than some when you mean zero of something. Any can refer to plural countable nouns and uncountable nouns. It often follows do not, is not, are not or have not.",
+      "example": "There are not any clean glasses in the cupboard."
+    },
+    {
+      "heading": "Questions: any for checking, some for offering",
+      "body": "Use any in most information-seeking yes/no questions when you do not know whether something exists or is available. For an offer, use some: “Would you like some tea?” For a polite request, use some: “Could I have some tea?” These are common patterns, not rules about every possible question.",
+      "example": "Do you have any spare batteries? Would you like some biscuits?"
+    },
+    {
+      "heading": "Some and any can stand alone",
+      "body": "When the noun is already clear, some or any can replace the whole noun phrase. An affirmative reply might be “Yes, I have some”; a negative reply might be “No, I do not have any.” You do not need to repeat the noun.",
+      "example": "I have a few stamps. Do you want some?"
+    },
+    {
+      "heading": "Related words for things and people",
+      "body": "Something and somebody or someone are common in affirmative statements and friendly offers. Anything and anybody or anyone are common in ordinary negative sentences and neutral questions. They refer to one unspecified thing or person, even though their meaning is not specific.",
+      "example": "Someone left a message, but I did not hear anything."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Positive and negative amounts",
+      "left": {
+        "label": "Positive: some",
+        "example": "We have some apples in the bowl.",
+        "note": "Some means an unspecified quantity is present."
+      },
+      "right": {
+        "label": "Negative: any",
+        "example": "We do not have any apples in the bowl.",
+        "note": "Not any means the quantity is zero."
+      }
+    },
+    {
+      "title": "Checking availability and making an offer",
+      "left": {
+        "label": "Neutral question: any",
+        "example": "Is there any soup left?",
+        "note": "The speaker is checking whether soup is available."
+      },
+      "right": {
+        "label": "Offer: some",
+        "example": "Would you like some soup?",
+        "note": "The speaker is offering soup to someone."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I have some extra envelopes in my bag.",
+      "note": "Some introduces an unspecified number of envelopes."
+    },
+    {
+      "sentence": "We did not bring any umbrellas.",
+      "note": "Any commonly follows a negative verb."
+    },
+    {
+      "sentence": "Are there any empty tables near the window?",
+      "note": "Any is natural in a neutral question about availability."
+    },
+    {
+      "sentence": "Can I have some water, please?",
+      "note": "Some is natural in a polite request."
+    },
+    {
+      "sentence": "I brought some fruit, but my brother did not bring any.",
+      "note": "Some and any replace fruit without repeating the noun."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "There is any cheese in the sandwich.",
+      "correct": "There is some cheese in the sandwich.",
+      "why": "Use some in this ordinary affirmative statement."
+    },
+    {
+      "incorrect": "We do not have some clean towels.",
+      "correct": "We do not have any clean towels.",
+      "why": "Use any with an ordinary negative to say there are none."
+    },
+    {
+      "incorrect": "Would you like any juice?",
+      "correct": "Would you like some juice?",
+      "why": "In a normal friendly offer, some is the usual choice."
+    },
+    {
+      "incorrect": "I did not see somebody in the empty room.",
+      "correct": "I did not see anybody in the empty room.",
+      "why": "Anything and anybody are common in ordinary negative statements; anyone is also possible."
+    }
+  ],
+  "studyTips": [
+    "Check the sentence type first: affirmative, negative, neutral question, offer or request.",
+    "Practise pairs such as “I have some” and “I do not have any” without repeating the noun.",
+    "Remember that somebody and someone share a meaning, as do anybody and anyone."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "There is ___ juice in the jug. Would you like a glass?",
+      "choices": [
+        "any",
+        "some",
+        "many"
+      ],
+      "answerIndex": 1,
+      "feedback": "Some is the natural choice in an affirmative statement about an unspecified amount of juice."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "We have not got ___ clean towels.",
+      "choices": [
+        "any",
+        "some",
+        "a"
+      ],
+      "answerIndex": 0,
+      "feedback": "Not got any is a common negative form meaning there are no clean towels."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "I did not learn ___ about the new timetable.",
+      "choices": [
+        "somebody",
+        "something",
+        "anything"
+      ],
+      "answerIndex": 2,
+      "feedback": "Anything is used in an ordinary negative sentence when no information was learned."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Could I have ___ water, please?",
+      "choices": [
+        "any",
+        "some",
+        "a"
+      ],
+      "answerIndex": 1,
+      "feedback": "A polite request normally uses some, even though it has question form."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Use some or any: Are there ___ free seats on the bus?",
+      "acceptedAnswers": [
+        "any"
+      ],
+      "feedback": "Any is natural in a neutral question checking availability."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Use some or any: I baked several biscuits. Please take ___.",
+      "acceptedAnswers": [
+        "some"
+      ],
+      "feedback": "Some stands alone because biscuits is already clear."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Use some or any: I went to the library, but I did not borrow ___.",
+      "acceptedAnswers": [
+        "any"
+      ],
+      "feedback": "Any replaces books or other library items in a negative clause."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Use some or any: There are ___ clean plates in the drawer.",
+      "acceptedAnswers": [
+        "some"
+      ],
+      "feedback": "In an ordinary positive statement, some describes an unspecified number of plates."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The fruit bowl is empty. We do not have some oranges.",
+      "acceptedAnswers": [
+        "The fruit bowl is empty. We do not have any oranges."
+      ],
+      "feedback": "In a negative statement meaning zero, change some to any."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Would you like any lemonade? (This is a friendly offer.)",
+      "acceptedAnswers": [
+        "Would you like some lemonade?"
+      ],
+      "feedback": "In an ordinary offer, some is the expected choice."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The bus stop was deserted. I did not see somebody there.",
+      "acceptedAnswers": [
+        "The bus stop was deserted. I did not see anybody there.",
+        "The bus stop was deserted. I did not see anyone there."
+      ],
+      "feedback": "A negative statement about seeing no people takes anybody or anyone."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Are there some clean glasses in the cupboard? (This is a neutral question about availability.)",
+      "acceptedAnswers": [
+        "Are there any clean glasses in the cupboard?"
+      ],
+      "feedback": "Use any in a neutral question about whether clean glasses exist."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "You own three pencils. Say one complete positive sentence beginning “I have” and using some.",
+      "acceptedAnswers": [
+        "I have some pencils."
+      ],
+      "feedback": "Some is appropriate with the plural countable noun pencils in a positive statement."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "You have zero spare batteries. Say a complete negative sentence beginning “I do not have” and using any.",
+      "acceptedAnswers": [
+        "I do not have any spare batteries.",
+        "I don't have any spare batteries."
+      ],
+      "feedback": "Not any expresses that there are no spare batteries."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "At the table, politely ask for bread. Begin with “Could I have” and use some.",
+      "acceptedAnswers": [
+        "Could I have some bread, please?",
+        "Could I have some bread?"
+      ],
+      "feedback": "Some is natural in polite requests with an uncountable noun."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "There is rice ready for dinner. Say one positive sentence starting with “There is” and using “some rice on the table”.",
+      "acceptedAnswers": [
+        "There is some rice on the table."
+      ],
+      "feedback": "Some works with the uncountable noun rice in an affirmative statement."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change “There are some cookies in the tin.” into a negative sentence meaning there are zero cookies. Keep the rest of the information and use “any”.",
+      "acceptedAnswers": [
+        "There aren't any cookies in the tin.",
+        "There are not any cookies in the tin."
+      ],
+      "feedback": "Not any expresses zero cookies; some changes to any in this ordinary negative sentence."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "At a bakery, you do not know whether blueberry muffins are available. Ask a neutral question starting “Do you have” and using “any blueberry muffins”.",
+      "acceptedAnswers": [
+        "Do you have any blueberry muffins?"
+      ],
+      "feedback": "Any is natural when checking whether a bakery has an item in stock."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "You have lemonade and want to offer some to your friend. Ask a friendly question beginning “Would you like” and ending with “some lemonade?”",
+      "acceptedAnswers": [
+        "Would you like some lemonade?"
+      ],
+      "feedback": "Some is the usual choice when making a friendly offer."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You are at a bus stop full of strangers. You know no people there. Say a sentence beginning “I don’t know”, using “anyone”, and ending “at this stop”.",
+      "acceptedAnswers": [
+        "I don't know anyone at this stop."
+      ],
+      "feedback": "Anyone is natural after don’t in a negative sentence about people."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We bought some strawberries for dessert.",
+      "prompt": "What does the speaker say about strawberries?",
+      "choices": [
+        "They bought an unspecified amount.",
+        "They did not buy any.",
+        "They only asked whether strawberries were available."
+      ],
+      "answerIndex": 0,
+      "feedback": "Bought some means they purchased an unspecified number of strawberries."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "There isn't any bread left for breakfast.",
+      "prompt": "What is true about the bread?",
+      "choices": [
+        "There is plenty of bread.",
+        "They want to buy some bread.",
+        "No bread is left."
+      ],
+      "answerIndex": 2,
+      "feedback": "Not any bread means there is no bread left."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Would you like something warm to drink?",
+      "prompt": "Type the indefinite word heard immediately before “warm”.",
+      "acceptedAnswers": [
+        "something"
+      ],
+      "feedback": "Something refers to an unspecified thing and is natural in an offer."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Would you like some soup before dinner? I have just made a fresh pot.",
+      "prompt": "What is the speaker doing?",
+      "choices": [
+        "Checking whether soup is available",
+        "Offering somebody food",
+        "Saying there is no soup"
+      ],
+      "answerIndex": 1,
+      "feedback": "Would you like some soup? is an offer, so some is natural in the question."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Do we have any eggs for the cake? I looked in the fridge, but I didn't find any.",
+      "prompt": "What did the speaker discover when checking the fridge?",
+      "choices": [
+        "There were enough eggs",
+        "There were several eggs",
+        "They could not find eggs"
+      ],
+      "answerIndex": 2,
+      "feedback": "Didn't find any means the speaker found zero eggs; any replaces the noun eggs."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I have some stamps at home, but I don't have any envelopes.",
+      "prompt": "What is missing at the speaker’s home?",
+      "choices": [
+        "Envelopes",
+        "Stamps",
+        "Both stamps and envelopes"
+      ],
+      "answerIndex": 0,
+      "feedback": "Some stamps are available, but not any envelopes means the speaker has no envelopes."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Would you like some hot chocolate after dinner?",
+      "prompt": "Type the single word expressing an unspecified amount in this friendly offer.",
+      "acceptedAnswers": [
+        "some"
+      ],
+      "feedback": "The speaker uses some in an offer of hot chocolate."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I didn't see anybody in the classroom when I arrived.",
+      "prompt": "Type the single indefinite word referring to people that you hear after “see”.",
+      "acceptedAnswers": [
+        "anybody"
+      ],
+      "feedback": "Anybody is natural after didn’t in a negative statement about people."
+    }
+  ]
+}

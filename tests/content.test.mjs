@@ -1,6 +1,5 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import fs from 'node:fs';
 
 const data = new Map();
 globalThis.localStorage = {
@@ -11,7 +10,14 @@ globalThis.localStorage = {
 
 const core = await import('../js/core.js');
 const packages = await import('../js/package-core.js');
-const sampleUnit = JSON.parse(fs.readFileSync(new URL('../data/unit-03.json', import.meta.url)));
+// Pure test fixture: no dependency on demonstration content in data/.
+const sampleUnit = {
+  id:'fixture-u01',number:1,title:'Vocabulary Test Fixture',source:'Internal automated tests',level:'A1',
+  items:[
+    {id:'sensor',word:'sensor',pt:'sensor',example:'The sensor is working.'},
+    {id:'report',word:'report',pt:'relatório',example:'The report is ready.'}
+  ]
+};
 const example = {
   format: 'vocablab-content-package',
   version: 1,
@@ -23,7 +29,7 @@ const example = {
     ...sampleUnit,
     id: 'demo-u03',
     number: 3,
-    learningObjectives: ['Identify body parts in everyday speech.'],
+    learningObjectives: ['Identify technical terms in everyday speech.'],
     items: sampleUnit.items.map((item) => ({ ...item })),
   }],
 };

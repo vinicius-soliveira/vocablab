@@ -1,8 +1,9 @@
 /** Local fetch of grammar catalog and lazy-loaded unit files. */
 import {validateGrammarManifest, validateGrammarUnit, validGrammarPath} from './schema.js';
-const base = new URL('../../grammar/', import.meta.url);
+import {grammarPathInfo} from './collections.js';
+const base = new URL('../../database/', import.meta.url);
 export async function loadGrammarCatalog(fetcher = fetch) {
-  const response = await fetcher(new URL('manifest.json', base));
+  const response = await fetcher(new URL('grammar-manifest.json', base), {cache:'no-store'});
   if (!response.ok) throw new Error(`Grammar catalog unavailable (HTTP ${response.status}).`);
   return validateGrammarManifest(await response.json());
 }
@@ -11,7 +12,7 @@ export async function loadGrammarUnit(entry, fetcher = fetch) {
   const response = await fetcher(new URL('../../' + entry.path, import.meta.url));
   if (!response.ok) throw new Error(`Grammar unit unavailable (HTTP ${response.status}).`);
   const unit = validateGrammarUnit(await response.json());
-  if (unit.id !== entry.id || unit.topicId !== entry.topicId ||
+  if (grammarPathInfo(entry.path)?.id !== unit.id || unit.id !== entry.id || unit.topicId !== entry.topicId ||
       unit.level !== entry.level || unit.exercises.length !== entry.exerciseCount ||
       (entry.speakingCount !== undefined && (unit.speakingExercises?.length || 0) !== entry.speakingCount) ||
       (entry.listeningCount !== undefined && (unit.listeningExercises?.length || 0) !== entry.listeningCount)) {

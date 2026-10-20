@@ -1,0 +1,410 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u023",
+  "title": "Be, Have and Do: Choosing Verb Forms",
+  "level": "A2",
+  "topicId": "be-have-do-verb-patterns",
+  "summary": "Choose the correct form of be, have or do to talk about actions, experiences, questions and the passive. Notice which form of the main verb follows each auxiliary.",
+  "learningObjectives": [
+    "Form present and past continuous sentences with be and a verb ending in -ing.",
+    "Recognise passive sentences formed with be and a past participle.",
+    "Use have or has with a past participle for the present perfect.",
+    "Build present and past simple questions and negatives with do, does and did followed by the base verb."
+  ],
+  "explanation": [
+    {
+      "heading": "Be + -ing for actions in progress",
+      "body": "Use am, is or are followed by a verb ending in -ing to describe something happening now or around now. Use was or were followed by -ing to show that an action was in progress at a past time. The subject determines which form of be you need.",
+      "example": "The neighbours are planting flowers this morning."
+    },
+    {
+      "heading": "Was or were + -ing in the past",
+      "body": "The past continuous keeps the -ing form but changes the auxiliary to was or were. This can describe what was happening when another event occurred. Use was with I, he, she and it, and were with you, we and they.",
+      "example": "We were waiting outside when the bus arrived."
+    },
+    {
+      "heading": "Be + past participle for the passive",
+      "body": "In a passive sentence, the subject receives the action. Use am, is or are + past participle for a present simple passive, or was or were + past participle for a past simple passive. A past participle can be regular, such as delivered, or irregular, such as sent.",
+      "example": "The parcel was delivered before lunch."
+    },
+    {
+      "heading": "Have or has + past participle",
+      "body": "Use have or has + past participle to form the present perfect. Choose has with he, she or it, and have with I, you, we or they. The past participle is not always the same as the past simple form: see, saw, seen is one example.",
+      "example": "Nora has misplaced her glasses."
+    },
+    {
+      "heading": "Do, does or did + base verb",
+      "body": "For most verbs, present simple negatives and questions use do or does + the base form. Past simple negatives and questions use did + the base form for every subject. After does or did, do not add -s or a past ending to the main verb. Questions with be or auxiliary have do not need an extra do.",
+      "example": "Does your brother cycle to work? He doesn't drive."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "An action in progress or a passive action?",
+      "left": {
+        "label": "Be + -ing",
+        "example": "The baker is preparing the bread.",
+        "note": "The subject is doing an action now."
+      },
+      "right": {
+        "label": "Be + past participle",
+        "example": "The bread is prepared early each morning.",
+        "note": "The subject receives a regular action."
+      }
+    },
+    {
+      "title": "Question patterns with different auxiliaries",
+      "left": {
+        "label": "Do or does + base verb",
+        "example": "Does Rosa teach on Tuesdays?",
+        "note": "Ask about a usual activity in the present simple."
+      },
+      "right": {
+        "label": "Is or are + -ing",
+        "example": "Is Rosa teaching today?",
+        "note": "Ask about an activity happening around now."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Are the children drawing in the kitchen?",
+      "note": "Are + drawing makes a present continuous question."
+    },
+    {
+      "sentence": "When I called, your friends were playing cards.",
+      "note": "Were + playing shows an action in progress at a past time."
+    },
+    {
+      "sentence": "This museum was opened in 1996.",
+      "note": "Was + opened is the past simple passive."
+    },
+    {
+      "sentence": "Have you ever visited a lighthouse?",
+      "note": "Have + visited forms a present perfect question."
+    },
+    {
+      "sentence": "Why didn't Luca bring his umbrella?",
+      "note": "After didn't, the main verb stays in its base form: bring."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Does he works on Saturdays?",
+      "correct": "Does he work on Saturdays?",
+      "why": "Does already marks the present simple; use the base verb work."
+    },
+    {
+      "incorrect": "She is cook dinner now.",
+      "correct": "She is cooking dinner now.",
+      "why": "The continuous form needs be + verb-ing."
+    },
+    {
+      "incorrect": "The invitations were send on Friday.",
+      "correct": "The invitations were sent on Friday.",
+      "why": "A passive uses the past participle sent, not the base form send."
+    },
+    {
+      "incorrect": "Has Leila saw the message?",
+      "correct": "Has Leila seen the message?",
+      "why": "The present perfect requires the past participle seen, not the past simple saw."
+    }
+  ],
+  "studyTips": [
+    "Look at the word immediately after the auxiliary: -ing often signals a continuous tense, while a past participle can signal a passive or a perfect tense.",
+    "When a question starts with does or did, say the next main verb in its base form.",
+    "Practise three short patterns aloud: is working, has worked and did work. Notice the different jobs of the auxiliaries."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "At the moment, my uncle ___ a new bookshelf.",
+      "choices": [
+        "is building",
+        "does build",
+        "has built"
+      ],
+      "answerIndex": 0,
+      "feedback": "At the moment calls for the present continuous: is + building."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The library books ___ every Friday.",
+      "choices": [
+        "have returned",
+        "are returned",
+        "are returning"
+      ],
+      "answerIndex": 1,
+      "feedback": "The books receive the regular action, so use the present simple passive: are returned."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "___ Talia visited the new gallery yet?",
+      "choices": [
+        "Did",
+        "Does",
+        "Has"
+      ],
+      "answerIndex": 2,
+      "feedback": "Visited is a past participle here, and yet points to a present perfect question: Has + subject + visited."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Why ___ the train stop here yesterday?",
+      "choices": [
+        "did",
+        "was",
+        "has"
+      ],
+      "answerIndex": 0,
+      "feedback": "A past simple question uses did + the base verb stop."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "My cousins ___ staying with us this week.",
+      "acceptedAnswers": [
+        "are"
+      ],
+      "feedback": "The plural subject my cousins needs are before staying."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "When I arrived, the volunteers ___ arranging the chairs.",
+      "acceptedAnswers": [
+        "were"
+      ],
+      "feedback": "The volunteers is plural, and the action was already happening in the past: were arranging."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "This poster ___ designed by my sister last year.",
+      "acceptedAnswers": [
+        "was"
+      ],
+      "feedback": "Last year places the passive action in the past; singular poster takes was."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "___ your brother usually take the bus to school?",
+      "acceptedAnswers": [
+        "Does"
+      ],
+      "feedback": "Your brother is third-person singular, so a present simple question begins with Does; take remains in its base form."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Does Elena likes spicy food?",
+      "acceptedAnswers": [
+        "Does Elena like spicy food?"
+      ],
+      "feedback": "After does, use like without -s."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We was waiting for the taxi at eight.",
+      "acceptedAnswers": [
+        "We were waiting for the taxi at eight."
+      ],
+      "feedback": "The subject we takes were in the past continuous."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The tickets were print yesterday.",
+      "acceptedAnswers": [
+        "The tickets were printed yesterday."
+      ],
+      "feedback": "The past passive is were + past participle: printed."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My dad has went to the market.",
+      "acceptedAnswers": [
+        "My dad has gone to the market."
+      ],
+      "feedback": "After has, use the past participle gone, not the past simple went."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Ask a present simple question from these cues: 'your neighbour / play / tennis / on Sundays'.",
+      "acceptedAnswers": [
+        "Does your neighbour play tennis on Sundays?"
+      ],
+      "feedback": "Use Does + subject + base verb play for a present simple question."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say a complete past continuous sentence using: 'they / wait / near the station / at nine'.",
+      "acceptedAnswers": [
+        "They were waiting near the station at nine."
+      ],
+      "feedback": "They takes were, followed by waiting to express an ongoing past action."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say a present perfect statement from these cues: 'I / finish / my report'.",
+      "acceptedAnswers": [
+        "I have finished my report.",
+        "I've finished my report."
+      ],
+      "feedback": "Use have + finished; I've is the natural contraction of I have."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Say one present continuous sentence using all these details: my neighbour / fix / a bicycle / right now. Begin with \"My neighbour\".",
+      "acceptedAnswers": [
+        "My neighbour is fixing a bicycle right now.",
+        "My neighbour's fixing a bicycle right now."
+      ],
+      "feedback": "Use is + fixing for an action happening now. The contraction neighbour’s means neighbour is."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this statement to the negative, keeping all the details: \"The students bought the tickets yesterday.\" Use did not or didn’t.",
+      "acceptedAnswers": [
+        "The students didn't buy the tickets yesterday.",
+        "The students did not buy the tickets yesterday."
+      ],
+      "feedback": "Use did not or didn’t + the base form buy, not bought, for a past simple negative."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks what you were doing at eight yesterday evening. You were washing the dishes. Answer with one sentence beginning \"I\" and ending \"at eight yesterday evening\".",
+      "acceptedAnswers": [
+        "I was washing the dishes at eight yesterday evening."
+      ],
+      "feedback": "I was washing is the past continuous: was + the -ing form for an action in progress at a past time."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this passive sentence aloud without changing the meaning or time: \"The letters was posted yesterday.\"",
+      "acceptedAnswers": [
+        "The letters were posted yesterday."
+      ],
+      "feedback": "Letters is plural, so the past passive needs were + posted."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Tell a colleague two facts in one sentence joined by but: the printer is working now; the printer did not work yesterday. Begin \"The printer\" and use working and work.",
+      "acceptedAnswers": [
+        "The printer is working now, but it didn't work yesterday.",
+        "The printer is working now, but it did not work yesterday.",
+        "The printer's working now, but it didn't work yesterday.",
+        "The printer's working now, but it did not work yesterday."
+      ],
+      "feedback": "Is working describes the action now; didn’t work describes yesterday. After didn’t, use the base form work."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The documents were signed on Monday morning.",
+      "prompt": "What happened to the documents?",
+      "choices": [
+        "Someone is signing them now.",
+        "Someone signed them on Monday morning.",
+        "They have not been signed."
+      ],
+      "answerIndex": 1,
+      "feedback": "Were signed is a past simple passive; the signing happened on Monday morning."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Did Maya call you after the meeting?",
+      "prompt": "What is the speaker asking?",
+      "choices": [
+        "Whether Maya is calling right now.",
+        "Whether Maya has called yet.",
+        "Whether Maya called after the meeting."
+      ],
+      "answerIndex": 2,
+      "feedback": "Did + call asks about a completed past action."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Our grandparents have moved to a smaller flat.",
+      "prompt": "Type the auxiliary used before the past participle in this sentence.",
+      "acceptedAnswers": [
+        "have"
+      ],
+      "feedback": "The present perfect uses have + moved with plural grandparents."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The builders are fixing the roof at the moment.",
+      "prompt": "What is happening at the house?",
+      "choices": [
+        "The roof repairs finished last week.",
+        "Someone checks the roof every year.",
+        "People are repairing the roof now."
+      ],
+      "answerIndex": 2,
+      "feedback": "Are fixing at the moment means the work is underway now."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "We were packing the boxes when the lights went out last night.",
+      "prompt": "What were the speakers doing when the lights went out?",
+      "choices": [
+        "Making dinner",
+        "Putting things into boxes",
+        "Opening the windows"
+      ],
+      "answerIndex": 1,
+      "feedback": "Were packing describes the ongoing action when the lights went out."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "At this café, the tables are cleaned every morning, but the windows were painted last Saturday.",
+      "prompt": "How are the two jobs different?",
+      "choices": [
+        "Both jobs happen every morning.",
+        "Cleaning is routine; painting happened on one past day.",
+        "Painting is still underway; cleaning stopped last year."
+      ],
+      "answerIndex": 1,
+      "feedback": "Are cleaned describes a routine. Were painted, with last Saturday, describes a completed past event."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The passengers were waiting beside the station when it started to snow.",
+      "prompt": "Type the two-word verb phrase describing the activity in progress in the past.",
+      "acceptedAnswers": [
+        "were waiting"
+      ],
+      "feedback": "Were waiting is the past continuous for an action that was happening when another event occurred."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Rosa doesn't take the bus on Fridays.",
+      "prompt": "Type the contracted negative auxiliary you hear before the main verb.",
+      "acceptedAnswers": [
+        "doesn't"
+      ],
+      "feedback": "Doesn’t is the negative present simple auxiliary for Rosa; the main verb stays in the base form take."
+    }
+  ]
+}

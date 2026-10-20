@@ -1,0 +1,410 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u078",
+  "title": "Nobody, No-one and Nothing",
+  "level": "A2",
+  "topicId": "negative-indefinite-pronouns",
+  "summary": "Say that no person or thing is involved using nobody, no-one and nothing. Use anybody, anyone or anything after negative verbs without creating a double negative.",
+  "learningObjectives": [
+    "Choose nobody or no-one for people, and nothing for things.",
+    "Rewrite negative statements using not anybody, not anyone or not anything without changing meaning.",
+    "Use nobody, no-one and nothing as subjects and short answers.",
+    "Avoid double negatives when describing the absence of people or things."
+  ],
+  "explanation": [
+    {
+      "heading": "Negative forms for people",
+      "body": "Anybody and anyone refer to people. After a negative verb, not anybody or not anyone means zero people. Nobody and no-one carry this negative meaning by themselves and normally take a positive verb. Nobody and no-one mean the same thing.",
+      "example": "The bakery was closed, so I did not see anyone there."
+    },
+    {
+      "heading": "Negative forms for things",
+      "body": "Anything refers to an unspecified thing. Not anything means zero things. Nothing gives that negative meaning without a negative verb. It can describe objects, activities, information or events, depending on context.",
+      "example": "I opened the envelope, but there was nothing inside."
+    },
+    {
+      "heading": "Use negative words as subjects",
+      "body": "Nobody, no-one and nothing can begin a sentence and act as its subject. In the present simple they normally take a singular verb such as knows, wants or happens. Do not add a second negative to a sentence that already has nobody or nothing.",
+      "example": "Nobody knows the code for the old cupboard."
+    },
+    {
+      "heading": "Give short answers to who and what",
+      "body": "In a short answer, nobody or no-one answers who, while nothing answers what. The form is chosen by whether the question is about a person or a thing, not by the verb tense in the question.",
+      "example": "Who was waiting outside? Nobody."
+    },
+    {
+      "heading": "Avoid double negatives in standard English",
+      "body": "To say zero people or things, use either a negative verb plus anybody, anyone or anything, or a positive verb plus nobody, no-one or nothing. Mixing did not with nobody or nothing can change the meaning or produce a nonstandard negative.",
+      "example": "The team did not receive anything by post."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Two ways to say zero people",
+      "left": {
+        "label": "Negative verb + anyone",
+        "example": "I did not meet anyone at the station.",
+        "note": "Did not carries the negative meaning."
+      },
+      "right": {
+        "label": "Positive verb + no-one",
+        "example": "I met no-one at the station.",
+        "note": "No-one carries the negative meaning without not."
+      }
+    },
+    {
+      "title": "People and things",
+      "left": {
+        "label": "People: nobody",
+        "example": "Nobody opened the door.",
+        "note": "Nobody means not one person."
+      },
+      "right": {
+        "label": "Things: nothing",
+        "example": "Nothing arrived in the post.",
+        "note": "Nothing means not one thing."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "There was nobody behind the counter when I entered.",
+      "note": "Nobody refers to people; there was is not negative."
+    },
+    {
+      "sentence": "I did not hear anything during the night.",
+      "note": "Anything follows a negative verb and refers to sounds or events."
+    },
+    {
+      "sentence": "Nothing happened after the lights went out.",
+      "note": "Nothing is the subject and takes a positive singular verb."
+    },
+    {
+      "sentence": "Who answered your message? No-one.",
+      "note": "No-one can be a short answer to who."
+    },
+    {
+      "sentence": "We have nothing to prepare for tomorrow.",
+      "note": "Nothing is followed by an infinitive phrase explaining what is absent."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I didn't see nobody at the gate.",
+      "correct": "I didn't see anybody at the gate.",
+      "why": "Use anybody after a negative verb in standard English."
+    },
+    {
+      "incorrect": "There was not nothing in the cupboard.",
+      "correct": "There was nothing in the cupboard.",
+      "why": "Nothing already expresses the negative meaning; the verb should stay positive."
+    },
+    {
+      "incorrect": "Who rang the bell? Nothing.",
+      "correct": "Who rang the bell? Nobody.",
+      "why": "A who question asks about a person, so answer with nobody or no-one."
+    },
+    {
+      "incorrect": "Nobody know the answer.",
+      "correct": "Nobody knows the answer.",
+      "why": "Nobody is grammatically singular and takes knows in the present simple."
+    }
+  ],
+  "studyTips": [
+    "Ask whether the missing information is a person or a thing before choosing a negative pronoun.",
+    "To check a negative sentence, look for not: after it, use anybody, anyone or anything for the zero meaning.",
+    "Make two versions of short examples: “I saw nobody” and “I did not see anyone”."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The building was closed and the staff had gone home. There was ___ inside.",
+      "choices": [
+        "anyone",
+        "anything",
+        "nobody"
+      ],
+      "answerIndex": 2,
+      "feedback": "Nobody means no person remained; the positive verb was is correct."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The food cupboard is empty. There is ___ to eat.",
+      "choices": [
+        "nothing",
+        "anybody",
+        "anyone"
+      ],
+      "answerIndex": 0,
+      "feedback": "Nothing refers to the absence of food, which is a thing rather than a person."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "My phone was switched off, so I did not hear ___.",
+      "choices": [
+        "nobody",
+        "anything",
+        "nothing"
+      ],
+      "answerIndex": 1,
+      "feedback": "Did not is negative, so use anything rather than nothing."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Who answered the door when you arrived? ___ .",
+      "choices": [
+        "Nothing",
+        "Anything",
+        "Nobody"
+      ],
+      "answerIndex": 2,
+      "feedback": "Who asks about a person; nobody is the appropriate short answer."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Choose anybody or nobody: The classroom is empty. There is ___ here.",
+      "acceptedAnswers": [
+        "nobody"
+      ],
+      "feedback": "Nobody works with the positive verb is to mean there are no people."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Choose anything or nothing: I cannot find ___ in this drawer.",
+      "acceptedAnswers": [
+        "anything"
+      ],
+      "feedback": "Cannot is negative, so use anything."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Choose anyone or no-one: ___ knows the secret. I have not told a single person.",
+      "acceptedAnswers": [
+        "no-one",
+        "no one"
+      ],
+      "feedback": "No-one is the negative subject, so the positive verb knows is correct."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Choose anything or nothing: We searched the suitcase, but we found ___.",
+      "acceptedAnswers": [
+        "nothing"
+      ],
+      "feedback": "Nothing carries the zero-quantity meaning with the positive verb found."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence for the meaning “not one person called”: Nobody did not call me this morning.",
+      "acceptedAnswers": [
+        "Nobody called me this morning."
+      ],
+      "feedback": "Nobody already expresses no person, so remove did not and use the past simple called."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Keep the negative verb and correct the sentence: I do not need nothing from the shop.",
+      "acceptedAnswers": [
+        "I do not need anything from the shop.",
+        "I don't need anything from the shop."
+      ],
+      "feedback": "With do not, anything expresses zero things without a second negative."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Replace nobody with anybody and correct the sentence: There is not nobody at the desk.",
+      "acceptedAnswers": [
+        "There is not anybody at the desk.",
+        "There isn't anybody at the desk."
+      ],
+      "feedback": "Not anybody is the negative-verb structure; nobody would add another negative."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Replace only the first word to correct the description of an empty box: Anything is inside the box.",
+      "acceptedAnswers": [
+        "Nothing is inside the box."
+      ],
+      "feedback": "Nothing is the negative subject that means the box contains no objects."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "You are saying that zero people came to the picnic. Say a complete sentence beginning “Nobody” and ending “to the picnic”.",
+      "acceptedAnswers": [
+        "Nobody came to the picnic."
+      ],
+      "feedback": "Nobody is the subject; the past tense came expresses the event without an additional negative."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "You are alone in a room. Say a complete sentence using “There is not” and “anyone”.",
+      "acceptedAnswers": [
+        "There is not anyone in the room.",
+        "There isn't anyone in the room.",
+        "There's not anyone in the room."
+      ],
+      "feedback": "A negative verb plus anyone states that no person is in the room."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "You have zero information to report. Say a complete sentence beginning “I have” and using nothing.",
+      "acceptedAnswers": [
+        "I have nothing to report."
+      ],
+      "feedback": "Nothing stands for the information that is absent, and have is positive."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Not one person wants a late meeting. Say one sentence beginning 'Nobody' and using the correct present-simple form of 'want' with 'a late meeting'.",
+      "acceptedAnswers": [
+        "Nobody wants a late meeting."
+      ],
+      "feedback": "Nobody is a singular subject, so want becomes wants in the present simple."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change 'We heard nothing in the hallway' into one complete sentence using 'did not' or 'didn't' and 'anything'. Keep the subject and place.",
+      "acceptedAnswers": [
+        "We did not hear anything in the hallway.",
+        "We didn't hear anything in the hallway."
+      ],
+      "feedback": "Did not hear anything and heard nothing express the same absence of sounds."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your friend asks, 'Who collected the lost umbrella?' You know that no person collected it. Give a one-word short answer using 'nobody'.",
+      "acceptedAnswers": [
+        "Nobody."
+      ],
+      "feedback": "Nobody and no-one are natural short answers to who; nothing would refer to a thing."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct 'Nobody don't live here' to say that no people live here. Begin with 'Nobody' and use the correct present-simple form of 'live'.",
+      "acceptedAnswers": [
+        "Nobody lives here."
+      ],
+      "feedback": "Nobody already carries negative meaning and takes the singular positive verb lives."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You searched a cupboard and found zero objects. There was also no person in the room. Say two short sentences: start with 'I found' and then 'There was'; use 'nothing' and 'no one'.",
+      "acceptedAnswers": [
+        "I found nothing. There was no one in the room."
+      ],
+      "feedback": "Nothing refers to objects, and no-one refers to people; neither needs a negative verb."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Nobody recognised the new neighbour at the party.",
+      "prompt": "What does the speaker say about the new neighbour?",
+      "choices": [
+        "Not one person recognised the neighbour.",
+        "Everyone recognised the neighbour.",
+        "The neighbour did not attend the party."
+      ],
+      "answerIndex": 0,
+      "feedback": "Nobody means zero people recognised the neighbour."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I did not find anything under the sofa.",
+      "prompt": "What did the speaker find under the sofa?",
+      "choices": [
+        "A small object",
+        "Nothing",
+        "Someone hiding"
+      ],
+      "answerIndex": 1,
+      "feedback": "Did not find anything means that no object was found."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Nobody answered when I knocked on the door.",
+      "prompt": "Type the first word you hear: the negative word that refers to people.",
+      "acceptedAnswers": [
+        "nobody"
+      ],
+      "feedback": "Nobody means not one person answered the door."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Nothing was missing from my bag after the bus ride.",
+      "prompt": "What did the speaker discover?",
+      "choices": [
+        "A friend had taken the bag.",
+        "Some belongings had disappeared.",
+        "All their belongings were still there."
+      ],
+      "answerIndex": 2,
+      "feedback": "Nothing was missing means that not one item had disappeared."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The bus stopped at the school, but nobody got on.",
+      "prompt": "What happened at the stop?",
+      "choices": [
+        "No new passengers boarded.",
+        "Exactly one new passenger boarded.",
+        "Several new passengers boarded."
+      ],
+      "answerIndex": 0,
+      "feedback": "Nobody got on means that zero people boarded at the stop."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I didn't receive anything by email, but a letter arrived this morning.",
+      "prompt": "Which kind of message arrived?",
+      "choices": [
+        "An electronic message only.",
+        "A physical letter rather than an email.",
+        "Both an email and a letter."
+      ],
+      "answerIndex": 1,
+      "feedback": "Didn't receive anything by email rules out an email, but the speaker did receive a letter."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Nobody knows why the lights went off last night.",
+      "prompt": "Type the first word of the sentence, showing how many people know the reason.",
+      "acceptedAnswers": [
+        "nobody"
+      ],
+      "feedback": "Nobody means not one person, and it takes the singular verb knows."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The children searched the garden, but they didn't find anything.",
+      "prompt": "Type the final word you hear, which refers to an unspecified thing.",
+      "acceptedAnswers": [
+        "anything"
+      ],
+      "feedback": "Anything follows the negative verb didn't find to mean that no object was found."
+    }
+  ]
+}

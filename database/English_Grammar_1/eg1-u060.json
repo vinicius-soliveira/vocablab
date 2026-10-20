@@ -1,0 +1,399 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u060",
+  "title": "Possessive Words Before Nouns",
+  "level": "A1",
+  "topicId": "possessive-determiners",
+  "summary": "Use my, our, your, his, her, their and its before nouns to show a relationship or who something belongs to. Keep its (possessive) separate from it’s (it is).",
+  "learningObjectives": [
+    "Match I, we, you, he, she, they and it with my, our, your, his, her, their and its.",
+    "Put a possessive determiner before the noun it describes.",
+    "Choose his, her or their according to the person or people who possess or are related to something.",
+    "Distinguish the possessive determiner its from the contraction it’s meaning it is."
+  ],
+  "explanation": [
+    {
+      "heading": "Who does it belong to?",
+      "body": "Use a possessive determiner before a noun to show ownership or a close relationship. The forms are I–my, we–our, you–your, he–his, she–her, they–their and it–its. The person or thing we talk about decides the possessive word.",
+      "example": "We keep our bicycles beside the house."
+    },
+    {
+      "heading": "A noun follows the possessive word",
+      "body": "Possessive determiners introduce a noun: my coat, your friends, his room or their bags. Do not use an object pronoun such as me or him in their place. Possessive words are used with plural nouns too: her books, our shoes.",
+      "example": "Please write your name on the form."
+    },
+    {
+      "heading": "His, her and their show different relationships",
+      "body": "Use his for a man or boy, her for a woman or girl, and their for two or more people. For one person, the same form works for possessions and family relationships, such as her phone and her brother.",
+      "example": "Leo and Clara are visiting their grandparents."
+    },
+    {
+      "heading": "Its is not it’s",
+      "body": "Its, without an apostrophe, means belonging to or associated with it. It’s, with an apostrophe, is the short form of it is. Check whether you could say it is: if you can, write it’s; if you mean belonging to it, write its.",
+      "example": "The bird is sitting in its nest. It’s very quiet."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A person versus something related to that person",
+      "left": {
+        "label": "Subject: she",
+        "example": "She reads before breakfast.",
+        "note": "She is the person doing the action."
+      },
+      "right": {
+        "label": "Possessive: her",
+        "example": "Her book is on the table.",
+        "note": "Her comes before the noun book."
+      }
+    },
+    {
+      "title": "Its without an apostrophe versus it’s",
+      "left": {
+        "label": "Possessive: its",
+        "example": "The café has changed its menu.",
+        "note": "Its describes the menu belonging to the café."
+      },
+      "right": {
+        "label": "Contraction: it’s",
+        "example": "It’s a small café.",
+        "note": "It’s means it is."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "My sister keeps her drawings in a folder.",
+      "note": "My refers to the speaker; her refers to the sister."
+    },
+    {
+      "sentence": "You left your water bottle on the bench.",
+      "note": "Your describes the bottle related to you."
+    },
+    {
+      "sentence": "We invited our cousins to dinner.",
+      "note": "Our shows the cousins are related to us."
+    },
+    {
+      "sentence": "The children put their coats on the hooks.",
+      "note": "Their refers to the children."
+    },
+    {
+      "sentence": "The clock has stopped because its battery is flat.",
+      "note": "Its is possessive and has no apostrophe."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I cannot find me gloves.",
+      "correct": "I cannot find my gloves.",
+      "why": "Before the noun gloves, use the possessive my, not the object pronoun me."
+    },
+    {
+      "incorrect": "Daniel forgot her coat at school.",
+      "correct": "Daniel forgot his coat at school.",
+      "why": "For Daniel, use his before the noun coat."
+    },
+    {
+      "incorrect": "The cat cleaned it's paws.",
+      "correct": "The cat cleaned its paws.",
+      "why": "Use its without an apostrophe for the cat’s paws."
+    },
+    {
+      "incorrect": "We told us neighbours about the party.",
+      "correct": "We told our neighbours about the party.",
+      "why": "Our is the possessive determiner that comes before neighbours."
+    }
+  ],
+  "studyTips": [
+    "Learn subject and possessive pairs aloud: I–my, she–her, he–his, they–their.",
+    "Always connect the possessive word with its noun: our flat, your phone, his shoes.",
+    "Replace it’s with it is as a check: if the sentence stops making sense, you may need its."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: Amir put ___ glasses on the kitchen table.",
+      "choices": [
+        "his",
+        "him",
+        "he"
+      ],
+      "answerIndex": 0,
+      "feedback": "His is the possessive word used before glasses for Amir."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: Nina and I share a garden. ___ garden has three trees.",
+      "choices": [
+        "Their",
+        "Our",
+        "His"
+      ],
+      "answerIndex": 1,
+      "feedback": "Nina and I means we, so use our before garden."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: The dog followed ___ owner into the park.",
+      "choices": [
+        "it’s",
+        "it",
+        "its"
+      ],
+      "answerIndex": 2,
+      "feedback": "Its is the possessive determiner for the dog; it’s means it is."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: Can you and Mia bring ___ tickets tomorrow?",
+      "choices": [
+        "your",
+        "their",
+        "our"
+      ],
+      "answerIndex": 0,
+      "feedback": "Your describes the tickets of the people being addressed."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with a possessive word: I have a blue coat. ___ coat is on the chair.",
+      "acceptedAnswers": [
+        "My"
+      ],
+      "feedback": "My comes before coat to show the coat belongs to the speaker."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with a possessive word: Alina owns a cat. ___ cat likes sitting by the window.",
+      "acceptedAnswers": [
+        "Her"
+      ],
+      "feedback": "Her shows that the cat belongs to Alina."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with a possessive word: Daniel has a little brother. ___ brother is six years old.",
+      "acceptedAnswers": [
+        "His"
+      ],
+      "feedback": "Use his before brother when talking about Daniel’s family."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with a possessive word: The children have packed ___ own lunches for the school trip.",
+      "acceptedAnswers": [
+        "their"
+      ],
+      "feedback": "Their refers to the plural subject the children."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I cannot find me keys.",
+      "acceptedAnswers": [
+        "I cannot find my keys."
+      ],
+      "feedback": "Use my, not me, to introduce the noun keys."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Sara is bringing she sister to the picnic.",
+      "acceptedAnswers": [
+        "Sara is bringing her sister to the picnic."
+      ],
+      "feedback": "Use her before sister, not the subject pronoun she."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The cat licked it's paws.",
+      "acceptedAnswers": [
+        "The cat licked its paws."
+      ],
+      "feedback": "Its without an apostrophe shows the paws belong to the cat."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We invited we neighbours to the party.",
+      "acceptedAnswers": [
+        "We invited our neighbours to the party."
+      ],
+      "feedback": "The possessive word our comes before neighbours."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Use a possessive word to restate “I have a green backpack.” Begin with “My backpack”.",
+      "acceptedAnswers": [
+        "My backpack is green."
+      ],
+      "feedback": "My is the possessive word for I and comes before backpack."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Replace “Ella’s” with a possessive word: “Ella’s bicycle is red.”",
+      "acceptedAnswers": [
+        "Her bicycle is red."
+      ],
+      "feedback": "Her is used before bicycle for Ella."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Replace the second mention of “the teachers” with a possessive word: “The teachers brought the teachers’ notebooks.”",
+      "acceptedAnswers": [
+        "The teachers brought their notebooks."
+      ],
+      "feedback": "Their is the possessive word for the plural noun teachers."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You and your brother share an apartment with one bedroom. Tell a friend about it in one complete sentence beginning 'Our apartment' and using the verb 'has'.",
+      "acceptedAnswers": [
+        "Our apartment has one bedroom."
+      ],
+      "feedback": "Our comes before apartment because the apartment belongs to you and your brother together."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change 'She forgot her lunch.' into a sentence about Ben, a boy. Keep the action in the past tense, but change both pronouns correctly.",
+      "acceptedAnswers": [
+        "He forgot his lunch."
+      ],
+      "feedback": "He replaces she as the subject, and his replaces her before lunch for Ben."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks, 'Where is Mia's red helmet?' Reply in a complete sentence that the red helmet is under the desk. Replace 'Mia's' with a possessive word.",
+      "acceptedAnswers": [
+        "Her red helmet is under the desk."
+      ],
+      "feedback": "Her is the possessive determiner for Mia and comes directly before red helmet."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Maya and Zoe each brought a lunch. A friend says, 'Maya and Zoe brought her lunches.' Correct the possessive word and say the complete sentence.",
+      "acceptedAnswers": [
+        "Maya and Zoe brought their lunches."
+      ],
+      "feedback": "Their refers to the two girls together and comes before the plural noun lunches."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You and Ava share an apartment. Tell a new guest two short sentences: first, begin with 'This is' and say it is the apartment you share. Second, begin with 'Her' and say that Ava's room is upstairs.",
+      "acceptedAnswers": [
+        "This is our apartment. Her room is upstairs."
+      ],
+      "feedback": "Our describes the shared apartment, while her describes Ava's room; both possessive words come before nouns."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Omar forgot his raincoat, so he borrowed my umbrella.",
+      "prompt": "What did Omar borrow?",
+      "choices": [
+        "His raincoat.",
+        "The speaker’s umbrella.",
+        "Their jacket."
+      ],
+      "answerIndex": 1,
+      "feedback": "My refers to the speaker, whose umbrella Omar borrowed."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The birds are feeding their chicks in the garden.",
+      "prompt": "Who are the birds feeding?",
+      "choices": [
+        "A neighbour.",
+        "A cat.",
+        "Their chicks."
+      ],
+      "answerIndex": 2,
+      "feedback": "Their refers to the birds, and chicks are the young birds they feed."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Our neighbours planted flowers outside their house.",
+      "prompt": "Complete the expression you hear: “... outside ___ house.” Type one word.",
+      "acceptedAnswers": [
+        "their"
+      ],
+      "feedback": "Their describes the house belonging to the neighbours."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Marta brought her camera to the picnic, but she left my camera at home.",
+      "prompt": "Which of the two mentioned cameras did Marta take to the picnic?",
+      "choices": [
+        "The speaker's camera.",
+        "Both cameras.",
+        "Marta's own camera."
+      ],
+      "answerIndex": 2,
+      "feedback": "Her camera is Marta's, and she brought it. My camera belongs to the speaker and stayed at home."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I can't find our seats. My brother has our tickets, so I'll ask him.",
+      "prompt": "Who currently has the tickets?",
+      "choices": [
+        "The speaker.",
+        "The speaker's brother.",
+        "A person working at the venue."
+      ],
+      "answerIndex": 1,
+      "feedback": "Our means the tickets are shared, but the speaker's brother is the person holding them."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The robot has lost its left wheel, but it's still moving slowly.",
+      "prompt": "What is happening to the robot?",
+      "choices": [
+        "One wheel is missing, but the robot continues to move.",
+        "A different robot has stopped because it lost both wheels.",
+        "The robot has all its wheels and is standing still."
+      ],
+      "answerIndex": 0,
+      "feedback": "Its refers to the robot's wheel, while it's means it is: the robot is still moving."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The children's bikes are outside, but their helmets are inside.",
+      "prompt": "Type the two words you hear immediately after 'but'.",
+      "acceptedAnswers": [
+        "their helmets"
+      ],
+      "feedback": "Their shows that the helmets belong to the children; the possessive word comes before helmets."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Our neighbour will bring her guitar to the party tonight.",
+      "prompt": "Type the two words you hear immediately after 'bring'.",
+      "acceptedAnswers": [
+        "her guitar"
+      ],
+      "feedback": "Her is a possessive determiner before guitar, referring to the neighbour."
+    }
+  ]
+}

@@ -1,0 +1,416 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u018",
+  "title": "Present Perfect: How Long?",
+  "level": "A2",
+  "topicId": "present-perfect-how-long",
+  "summary": "Ask how long a present situation has continued from the past until now. Use have/has been, known, lived and had for continuing states, and learn the introductory have/has been + -ing pattern for ongoing activities.",
+  "learningObjectives": [
+    "Ask How long ... ? questions about situations that began in the past and continue now.",
+    "Use the present perfect simple with continuing states such as be, know, live and have.",
+    "Use for with lengths of time and since with starting points in this context.",
+    "Recognise and form have/has been + -ing for activities continuing over a period."
+  ],
+  "explanation": [
+    {
+      "heading": "Connect an earlier start to the present",
+      "body": "Use the present perfect when a state started in the past and is still true now. Form it with have/has + a past participle, such as have known, has lived, have had or have been. The present simple describes the situation now, but the present perfect also expresses its duration up to now.",
+      "example": "Omar has lived in this neighbourhood for four years, and he still lives here."
+    },
+    {
+      "heading": "Ask How long have you ... ?",
+      "body": "How long asks about the length of a continuing situation. Put have or has before the subject and then the past participle: How long have you known ... ? or How long has she been ... ? Do not use How long do you know ... ? when you mean the time from an earlier start up to now.",
+      "example": "How long have your neighbours been married?"
+    },
+    {
+      "heading": "Introduce for and since",
+      "body": "For names a length of time, such as for six weeks or for two years. Since identifies the starting point, such as since Tuesday or since 2022. In this unit both expressions show how a situation continues up to now. A later lesson develops their other uses.",
+      "example": "I have had this umbrella since April."
+    },
+    {
+      "heading": "Use have been + -ing for continuing activities",
+      "body": "When an activity began earlier and is still happening, a common form is have/has been + verb-ing (the present perfect continuous). For example, I have been waiting for ten minutes. Use has been with he, she and it. Here the focus is on the ongoing activity and its duration, not a completed result.",
+      "example": "They have been practising for the concert all afternoon."
+    },
+    {
+      "heading": "Compare now with how long",
+      "body": "Present simple or present continuous can tell us what is true or happening now: I know Tessa; I am learning Spanish. To say how long these situations have continued, use I have known Tessa for years or I have been learning Spanish for months. Do not replace have with am just because the situation is still happening.",
+      "example": "It is raining now. It has been raining since breakfast."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A current state and its duration",
+      "left": {
+        "label": "True now",
+        "example": "Leah knows her new neighbour.",
+        "note": "The present simple says the situation is true now."
+      },
+      "right": {
+        "label": "True from before until now",
+        "example": "Leah has known her neighbour for a year.",
+        "note": "Has known shows when the relationship began and that it continues."
+      }
+    },
+    {
+      "title": "An activity now and over time",
+      "left": {
+        "label": "In progress now",
+        "example": "I am learning to play the drums.",
+        "note": "The present continuous focuses on what is happening now."
+      },
+      "right": {
+        "label": "Continuing over a period",
+        "example": "I have been learning the drums since January.",
+        "note": "Have been learning connects the ongoing activity to its starting time."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "How long have you had that blue jacket?",
+      "note": "Have had asks how long someone has owned the jacket."
+    },
+    {
+      "sentence": "Theo has been ill for three days.",
+      "note": "Has been shows the illness started earlier and continues now."
+    },
+    {
+      "sentence": "My grandparents have lived in the same village since 1998.",
+      "note": "Since introduces a starting year for a continuing situation."
+    },
+    {
+      "sentence": "We have known each other since primary school.",
+      "note": "Have known describes a relationship continuing until the present."
+    },
+    {
+      "sentence": "The children have been playing outside for half an hour.",
+      "note": "Have been playing focuses on an activity continuing over time."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I know Farah for four years.",
+      "correct": "I have known Farah for four years.",
+      "why": "A continuing relationship with a duration needs have known, not just know."
+    },
+    {
+      "incorrect": "How long are they married?",
+      "correct": "How long have they been married?",
+      "why": "Ask with have been when the marriage started earlier and continues now."
+    },
+    {
+      "incorrect": "She has live in this flat since May.",
+      "correct": "She has lived in this flat since May.",
+      "why": "Use the past participle lived after has."
+    },
+    {
+      "incorrect": "We have been learn French since February.",
+      "correct": "We have been learning French since February.",
+      "why": "The continuing-activity pattern is have been + verb-ing."
+    }
+  ],
+  "studyTips": [
+    "Draw a timeline that begins in the past and reaches now. Choose the present perfect when the state or activity still continues.",
+    "Make simple pairs: I live here / I have lived here for two years; I am waiting / I have been waiting since noon.",
+    "Remember for + duration and since + starting point. Practise with real dates and lengths of time."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "We ___ known each other for six years, and we are still friends.",
+      "choices": [
+        "have",
+        "are",
+        "did"
+      ],
+      "answerIndex": 0,
+      "feedback": "Have known expresses a friendship that began in the past and continues now."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "How long ___ Sofia had that bicycle? She still uses it.",
+      "choices": [
+        "have",
+        "has",
+        "is"
+      ],
+      "answerIndex": 1,
+      "feedback": "Sofia is singular, so the present perfect question begins How long has Sofia had ... ?"
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "My uncle moved here in 2018 and still lives here. He ___ here since 2018.",
+      "choices": [
+        "lives",
+        "is living",
+        "has lived"
+      ],
+      "answerIndex": 2,
+      "feedback": "Has lived links the move in 2018 to the situation that remains true now."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "I have been ___ for your call since lunchtime.",
+      "choices": [
+        "waiting",
+        "wait",
+        "waited"
+      ],
+      "answerIndex": 0,
+      "feedback": "The form have been + verb-ing describes an activity continuing over a period."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "They are still married. They have ___ married for twelve years. (One word.)",
+      "acceptedAnswers": [
+        "been"
+      ],
+      "feedback": "Have been married expresses a state that continues to the present."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with the past participle of know: I have ___ Leila since primary school.",
+      "acceptedAnswers": [
+        "known"
+      ],
+      "feedback": "Know → knew → known. The present perfect uses known."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Choose for or since: Leo has had this guitar ___ May.",
+      "acceptedAnswers": [
+        "since"
+      ],
+      "feedback": "May identifies the starting point, so use since rather than for."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the -ing form of rain: It has been ___ all afternoon.",
+      "acceptedAnswers": [
+        "raining"
+      ],
+      "feedback": "Has been raining shows the weather has continued through the afternoon."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "You still know Nina. Correct the sentence: I know Nina for eight years.",
+      "acceptedAnswers": [
+        "I have known Nina for eight years.",
+        "I've known Nina for eight years."
+      ],
+      "feedback": "Use have known, because the relationship began eight years ago and continues now."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the question: How long are you married?",
+      "acceptedAnswers": [
+        "How long have you been married?"
+      ],
+      "feedback": "Use have you been married to ask about the length of the continuing marriage."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She has live in this flat since 2020.",
+      "acceptedAnswers": [
+        "She has lived in this flat since 2020.",
+        "She's lived in this flat since 2020."
+      ],
+      "feedback": "After has, the regular past participle is lived, not live."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We have been learn Spanish since January.",
+      "acceptedAnswers": [
+        "We have been learning Spanish since January.",
+        "We've been learning Spanish since January."
+      ],
+      "feedback": "Use have been + learning for a continuing activity."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one complete sentence with the cues: I / know / Elliot / for five years (and I still know him).",
+      "acceptedAnswers": [
+        "I have known Elliot for five years.",
+        "I've known Elliot for five years."
+      ],
+      "feedback": "Use have known for a relationship that started earlier and still exists."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask someone a full How long question about how long they have owned this phone. Include the words this phone.",
+      "acceptedAnswers": [
+        "How long have you had this phone?"
+      ],
+      "feedback": "How long have you had ... ? asks about the duration of ownership."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say one complete sentence using: They / learn / Italian / since April (and they are still learning).",
+      "acceptedAnswers": [
+        "They have been learning Italian since April.",
+        "They've been learning Italian since April."
+      ],
+      "feedback": "Use have been learning for an activity that started in April and continues now."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Eva bought this camera in June and still owns it. Say one complete sentence about Eva using has had and since June.",
+      "acceptedAnswers": [
+        "Eva has had this camera since June.",
+        "Eva's had this camera since June."
+      ],
+      "feedback": "Has had describes ownership that started earlier and continues now; since June gives the starting point."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change the statement into a How long question about Amir, without mentioning the duration: Amir has been a student for two years.",
+      "acceptedAnswers": [
+        "How long has Amir been a student?"
+      ],
+      "feedback": "How long has Amir been ... ? asks about the duration of a state that continues now."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A neighbour asks, 'How long have you had your new sofa?' In this role-play, you got it six weeks ago and still have it. Answer with one complete sentence using this sofa and for six weeks.",
+      "acceptedAnswers": [
+        "I have had this sofa for six weeks.",
+        "I've had this sofa for six weeks."
+      ],
+      "feedback": "Have had describes continuing ownership, while for six weeks gives the length of time."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "The rain started at lunchtime and has not stopped. Correct this sentence using has been + an -ing verb: 'It rains since lunchtime.' Keep the word since.",
+      "acceptedAnswers": [
+        "It has been raining since lunchtime.",
+        "It's been raining since lunchtime."
+      ],
+      "feedback": "Has been raining describes an activity that began earlier and continues now; since marks its starting point."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences. Noah became ill on Tuesday and is still ill. You started waiting for his reply two hours ago and are still waiting. First use Noah, ill and since Tuesday. Then use I, been waiting for his reply and for two hours.",
+      "acceptedAnswers": [
+        "Noah has been ill since Tuesday. I have been waiting for his reply for two hours.",
+        "Noah's been ill since Tuesday. I've been waiting for his reply for two hours.",
+        "Noah's been ill since Tuesday. I have been waiting for his reply for two hours.",
+        "Noah has been ill since Tuesday. I've been waiting for his reply for two hours."
+      ],
+      "feedback": "Has been ill describes a continuing state since Tuesday; have been waiting describes an ongoing activity for two hours."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I've lived in this town for nine years.",
+      "prompt": "How long has the speaker lived in the town?",
+      "choices": [
+        "One year",
+        "Nine years",
+        "Since September"
+      ],
+      "answerIndex": 1,
+      "feedback": "For nine years specifies the duration of the continuing situation."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Nadia has been studying since six this morning.",
+      "prompt": "When did Nadia start studying?",
+      "choices": [
+        "At noon",
+        "Yesterday",
+        "At six this morning"
+      ],
+      "answerIndex": 2,
+      "feedback": "Since six this morning gives the starting time of the ongoing study."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "They've been waiting outside for nearly an hour.",
+      "prompt": "Type the one-word -ing verb form you hear after been.",
+      "acceptedAnswers": [
+        "waiting"
+      ],
+      "feedback": "Been waiting describes an action continuing for nearly an hour."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Lena met her best friend six years ago. They are still close, and they've known each other all that time.",
+      "prompt": "What is true about their friendship?",
+      "choices": [
+        "It began years ago and continues now",
+        "It ended six years ago",
+        "They met for the first time this week"
+      ],
+      "answerIndex": 0,
+      "feedback": "They met six years ago and are still close, so their friendship began in the past and continues."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The café opened last September, and my cousin has worked there since November.",
+      "prompt": "When did the cousin start working at the café?",
+      "choices": [
+        "Before the café opened",
+        "In September",
+        "In November"
+      ],
+      "answerIndex": 2,
+      "feedback": "Since November identifies the starting month of the cousin’s continuing job."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I'm staying at my aunt's house this week, but my cousin has lived there for ten years.",
+      "prompt": "Who is the long-term resident of the house?",
+      "choices": [
+        "The speaker",
+        "The speaker's cousin",
+        "Both of them"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker is staying for a week, while the cousin has lived there for ten years."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The children have been building a tree house since Monday.",
+      "prompt": "Type the three-word verb phrase immediately after 'children'.",
+      "acceptedAnswers": [
+        "have been building"
+      ],
+      "feedback": "Have been building is the present perfect continuous, describing activity continuing since Monday."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "She's had that green coat since last summer.",
+      "prompt": "Type the opening phrase before 'that green coat'.",
+      "acceptedAnswers": [
+        "She's had",
+        "She has had"
+      ],
+      "feedback": "She's had is short for she has had, describing ownership that started last summer and continues now."
+    }
+  ]
+}

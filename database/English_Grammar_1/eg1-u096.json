@@ -1,0 +1,402 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u096",
+  "title": "Two-Object Verbs: Give and Send",
+  "level": "A2",
+  "topicId": "word-order-two-object-verbs",
+  "summary": "Use verbs such as give, lend, pass, send and show with a thing and a person. Choose the natural word order, including to with receivers and for with things bought for somebody.",
+  "learningObjectives": [
+    "Form verb + thing + to + person with transfer verbs.",
+    "Form verb + person + thing without to after verbs such as give and send.",
+    "Use the preferred thing-pronoun + to + receiver structure with it and them.",
+    "Distinguish buy/get somebody something from buy/get something for somebody."
+  ],
+  "explanation": [
+    {
+      "heading": "Thing first: give something to somebody",
+      "body": "With give, lend, pass, send and show, put the thing directly after the verb and use to before the person who receives it. This is useful when the thing is already known or is the pronoun it or them.",
+      "example": "Please send the address to Gabriel."
+    },
+    {
+      "heading": "Person first: give somebody something",
+      "body": "The same verbs also allow the receiver before the thing, with no to between them. Say give somebody something, not give to somebody something. Both orders can express the same transfer.",
+      "example": "Please send Gabriel the address."
+    },
+    {
+      "heading": "Use to with it or them",
+      "body": "When the thing is a short object pronoun, use it or them directly after the verb, followed by to and the receiver. In elementary everyday English, 'give it to her' is more natural than 'give her it'.",
+      "example": "The keys are yours, so I'll hand them to you."
+    },
+    {
+      "heading": "Buy and get: something for somebody",
+      "body": "Buy and get can be followed by person + thing when someone benefits from what you buy or get. If you put the thing first, use for before the person, not to.",
+      "example": "I bought my grandfather a newspaper."
+    },
+    {
+      "heading": "Questions and requests",
+      "body": "In requests, the receiver can come before the thing: 'Can you pass me the menu?' Or put the thing first with to: 'Can you pass the menu to me?' Keep the receiver close to the relevant verb pattern.",
+      "example": "Could you show the photo to your sister?"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Two natural orders with transfer verbs",
+      "left": {
+        "label": "Thing + to + person",
+        "example": "Ali gave the invitation to Becca.",
+        "note": "The thing comes first; to introduces the receiver."
+      },
+      "right": {
+        "label": "Person + thing",
+        "example": "Ali gave Becca the invitation.",
+        "note": "The receiver comes first; do not add to before Becca."
+      }
+    },
+    {
+      "title": "Different prepositions for different meanings",
+      "left": {
+        "label": "Send to",
+        "example": "I sent a postcard to my aunt.",
+        "note": "To introduces the receiver of a transferred item."
+      },
+      "right": {
+        "label": "Buy for",
+        "example": "I bought a postcard for my aunt.",
+        "note": "For introduces the person who benefits from the purchase."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Could you lend your bike to Mateo for an hour?",
+      "note": "Thing before to + receiver with lend."
+    },
+    {
+      "sentence": "The guide showed the visitors a map.",
+      "note": "Receiver before thing, without to."
+    },
+    {
+      "sentence": "I've printed the photos. I'll give them to you tonight.",
+      "note": "Them is placed before to + receiver."
+    },
+    {
+      "sentence": "Please pass me that empty bowl.",
+      "note": "Short request with receiver before the thing."
+    },
+    {
+      "sentence": "Dad got my brother a new notebook.",
+      "note": "Get can take beneficiary + thing."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Can you send to Felix the directions?",
+      "correct": "Can you send the directions to Felix?",
+      "why": "With thing first, send the directions to the receiver."
+    },
+    {
+      "incorrect": "Please give her it.",
+      "correct": "Please give it to her.",
+      "why": "With it as the thing, the normal elementary pattern is give it to her."
+    },
+    {
+      "incorrect": "I bought a gift to my uncle.",
+      "correct": "I bought a gift for my uncle.",
+      "why": "Use for before the person who benefits from a purchase."
+    }
+  ],
+  "studyTips": [
+    "Practise transfer verbs in pairs: 'send Luca the email' and 'send the email to Luca'.",
+    "When the object is it or them, use 'give it to her' or 'send them to him'.",
+    "Remember: send a letter to someone, but buy a present for someone."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct order with send.",
+      "choices": [
+        "We sent the schedule to Nia.",
+        "We sent to Nia the schedule.",
+        "We sent Nia to the schedule."
+      ],
+      "answerIndex": 0,
+      "feedback": "With the thing first, use sent + thing + to + receiver."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the natural form with the receiver before the thing.",
+      "choices": [
+        "Leo lent to Iris a charger.",
+        "Leo lent Iris a charger.",
+        "Leo lent Iris to a charger."
+      ],
+      "answerIndex": 1,
+      "feedback": "Lent + person + thing does not take to before the person."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the preferred form when the thing is it.",
+      "choices": [
+        "Please give Martin it.",
+        "Please give to Martin it.",
+        "Please give it to Martin."
+      ],
+      "answerIndex": 2,
+      "feedback": "With it, prefer give it to the receiver."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the natural expression for purchasing something for another person.",
+      "choices": [
+        "I bought my niece a puzzle.",
+        "I bought to my niece a puzzle.",
+        "I bought my niece to a puzzle."
+      ],
+      "answerIndex": 0,
+      "feedback": "Buy + person + thing expresses a purchase made for that person."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with one preposition: The manager showed the plan ___ the team.",
+      "acceptedAnswers": [
+        "to"
+      ],
+      "feedback": "When the thing comes first, use to before the receivers."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with one preposition: I bought a warm hat ___ my father.",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "For marks the person who receives the benefit of a purchase."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with one preposition: Can you pass those cups ___ me?",
+      "acceptedAnswers": [
+        "to"
+      ],
+      "feedback": "Pass + thing + to + person is the correct order."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with one pronoun: Priya gave ___ a card. (The card was for me.)",
+      "acceptedAnswers": [
+        "me"
+      ],
+      "feedback": "With the person first, say gave me a card without to."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the order: We sent to Nina the tickets.",
+      "acceptedAnswers": [
+        "We sent the tickets to Nina.",
+        "We sent Nina the tickets."
+      ],
+      "feedback": "Either send the thing to Nina or put Nina before the thing without to."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the order: Please show to me your drawing.",
+      "acceptedAnswers": [
+        "Please show me your drawing.",
+        "Please show your drawing to me."
+      ],
+      "feedback": "Use show + person + thing or show + thing + to + person."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the position of it: Give your cousin it.",
+      "acceptedAnswers": [
+        "Give it to your cousin."
+      ],
+      "feedback": "Use give it to + receiver for this short object pronoun."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the preposition: I bought a birthday card to my neighbour.",
+      "acceptedAnswers": [
+        "I bought a birthday card for my neighbour."
+      ],
+      "feedback": "A person who benefits from a purchase is introduced by for."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make a polite request from these words without adding others: 'Please / pass / me / the napkins'.",
+      "acceptedAnswers": [
+        "Please pass me the napkins."
+      ],
+      "feedback": "Pass + person + thing makes a natural request."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Rewrite the whole sentence using to: 'We sent Olivia the map.'",
+      "acceptedAnswers": [
+        "We sent the map to Olivia."
+      ],
+      "feedback": "The map comes before to Olivia in the thing-first order."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Replace Daniel with him and say the complete sentence: 'Can you give it to Daniel?'",
+      "acceptedAnswers": [
+        "Can you give it to him?"
+      ],
+      "feedback": "When the thing is it, keep it before to + receiver."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You plan to send a postcard to Mara. Say one sentence beginning 'I will' and using the exact phrase 'send the postcard to Mara'.",
+      "acceptedAnswers": [
+        "I will send the postcard to Mara."
+      ],
+      "feedback": "Send + thing + to + receiver puts the postcard before to Mara."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change 'Nadia showed the photos to her father' into the person-first order. Keep Nadia as the subject and use the past tense.",
+      "acceptedAnswers": [
+        "Nadia showed her father the photos."
+      ],
+      "feedback": "Show + receiver + thing does not need to before the receiver."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks who will borrow the spare charger. You plan to lend it to Ali. Say one complete sentence beginning with 'I' and using 'lend it to Ali'.",
+      "acceptedAnswers": [
+        "I will lend it to Ali.",
+        "I'll lend it to Ali."
+      ],
+      "feedback": "With a short thing pronoun, say lend it to Ali, rather than lend Ali it."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "You purchased a notebook for your niece, rather than sending it to her. Say one sentence beginning 'I bought' and ending 'for my niece'.",
+      "acceptedAnswers": [
+        "I bought a notebook for my niece."
+      ],
+      "feedback": "Buy + thing + for + person names the person who benefits from a purchase."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Ask Sofia politely to pass you the menu. Begin exactly with 'Could you', use the phrase 'pass the menu to me', and add no other words.",
+      "acceptedAnswers": [
+        "Could you pass the menu to me?"
+      ],
+      "feedback": "Could you makes a polite request; pass + thing + to + receiver is natural word order."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I showed my boarding pass to the officer.",
+      "prompt": "Who did the speaker show the boarding pass to?",
+      "choices": [
+        "A friend",
+        "An officer",
+        "A receptionist"
+      ],
+      "answerIndex": 1,
+      "feedback": "To the officer identifies the receiver of the boarding pass."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Tess bought a warm scarf for her father.",
+      "prompt": "Who was the scarf bought for?",
+      "choices": [
+        "Her sister",
+        "Her mother",
+        "Her father"
+      ],
+      "answerIndex": 2,
+      "feedback": "For her father identifies the person who benefits from the purchase."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Could you lend your pen to Leo?",
+      "prompt": "Type the short preposition immediately before the person's name.",
+      "acceptedAnswers": [
+        "to"
+      ],
+      "feedback": "With lend + thing first, to introduces the receiver."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I gave my neighbour the spare keys before I left for work.",
+      "prompt": "Who received the spare keys?",
+      "choices": [
+        "A colleague.",
+        "A neighbour.",
+        "A family member."
+      ],
+      "answerIndex": 1,
+      "feedback": "My neighbour is the receiver placed before the thing, the spare keys."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Please send the blue folder to Priya, not the green one.",
+      "prompt": "Which item should Priya receive?",
+      "choices": [
+        "The green folder.",
+        "Both folders.",
+        "The blue folder."
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker asks for the blue folder, and explicitly excludes the green one."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I got a small cake for Nina because today is her birthday.",
+      "prompt": "Why did the speaker get the cake?",
+      "choices": [
+        "To celebrate Nina's birthday.",
+        "To sell it at a shop.",
+        "To eat it alone."
+      ],
+      "answerIndex": 0,
+      "feedback": "For Nina identifies the beneficiary, and because gives her birthday as the reason."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "My mum got a small present for my cousin last week.",
+      "prompt": "Type the one-word preposition immediately before 'my cousin'.",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "For marks the person who benefits from something someone gets."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Those are your papers, so please hand them to me.",
+      "prompt": "Type the three-word expression immediately after 'hand'.",
+      "acceptedAnswers": [
+        "them to me"
+      ],
+      "feedback": "The pronoun them comes before to + the receiver me."
+    }
+  ]
+}

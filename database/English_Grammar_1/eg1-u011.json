@@ -1,0 +1,407 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u011",
+  "title": "Past Simple: Regular and Irregular Verbs",
+  "level": "A1",
+  "topicId": "past-simple-affirmative",
+  "summary": "Talk about finished activities and events in the past. Form regular past verbs correctly and learn the past forms of common irregular verbs.",
+  "learningObjectives": [
+    "Use the past simple to describe completed events at a known past time.",
+    "Make affirmative past simple sentences with regular -ed verbs.",
+    "Apply common spelling changes before adding past tense endings.",
+    "Use frequent irregular past forms without adding -ed."
+  ],
+  "explanation": [
+    {
+      "heading": "Use the past simple for completed events",
+      "body": "Use the past simple when an action or event is finished. Yesterday, last night, last weekend and two days ago can make the past time clear. The affirmative past form is the same with I, you, he, she, it, we and they; it does not change for the subject.",
+      "example": "We visited the new park on Sunday."
+    },
+    {
+      "heading": "Add -ed to many regular verbs",
+      "body": "For most regular verbs, add -ed: talk becomes talked, help becomes helped and finish becomes finished. If the base verb already ends in -e, add only -d: dance becomes danced. These forms work with all subjects.",
+      "example": "My friend danced at the party last Friday."
+    },
+    {
+      "heading": "Watch the spelling before -ed",
+      "body": "With a consonant followed by -y, change y to i and add -ed: study becomes studied. If a vowel comes before -y, keep y: play becomes played. Some short verbs double their final consonant: stop becomes stopped and plan becomes planned.",
+      "example": "The bus stopped beside the museum."
+    },
+    {
+      "heading": "Learn common irregular past forms",
+      "body": "Some verbs do not use -ed in the past. Go becomes went, buy becomes bought, take becomes took and see becomes saw. Other useful forms include have → had, do → did, get → got, come → came and put → put. Learn each form with a short sentence.",
+      "example": "Amir bought a jacket yesterday."
+    },
+    {
+      "heading": "Tell a short story with past verbs",
+      "body": "Use a series of past simple verbs to describe completed actions in order. Some verbs keep the same spelling in the present and the past: put → put and read → read. The past form of read is pronounced like red, although its spelling does not change.",
+      "example": "I found my ticket, opened the door and walked inside."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A present habit and one past event",
+      "left": {
+        "label": "Present simple habit",
+        "example": "Leah cycles to school every day.",
+        "note": "Cycles describes a regular routine."
+      },
+      "right": {
+        "label": "Past simple event",
+        "example": "Leah cycled to school yesterday.",
+        "note": "Cycled describes one completed journey."
+      }
+    },
+    {
+      "title": "Regular and irregular past forms",
+      "left": {
+        "label": "Regular verb",
+        "example": "We painted the fence last month.",
+        "note": "Paint becomes painted with -ed."
+      },
+      "right": {
+        "label": "Irregular verb",
+        "example": "We made a wooden shelf last month.",
+        "note": "Make becomes made, not maked."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "My parents arrived home late on Tuesday.",
+      "note": "Arrived is a regular past verb ending in -ed."
+    },
+    {
+      "sentence": "I studied maths after lunch yesterday.",
+      "note": "Study changes its final y to i before -ed."
+    },
+    {
+      "sentence": "They planned their picnic on Thursday.",
+      "note": "Plan doubles its final consonant before -ed."
+    },
+    {
+      "sentence": "Nora took her brother to the library last Saturday.",
+      "note": "Took is the irregular past form of take."
+    },
+    {
+      "sentence": "I read two pages before bed last night.",
+      "note": "Past read is written like present read, but pronounced red."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "We goed to the market on Monday.",
+      "correct": "We went to the market on Monday.",
+      "why": "Go has the irregular past form went, not goed."
+    },
+    {
+      "incorrect": "She studyed English yesterday.",
+      "correct": "She studied English yesterday.",
+      "why": "Study ends in consonant + y, so change y to i before -ed."
+    },
+    {
+      "incorrect": "The train stoped at the station.",
+      "correct": "The train stopped at the station.",
+      "why": "Stop doubles p before the past ending -ed."
+    },
+    {
+      "incorrect": "He buyed a new notebook yesterday.",
+      "correct": "He bought a new notebook yesterday.",
+      "why": "The irregular past form of buy is bought."
+    }
+  ],
+  "studyTips": [
+    "Practise regular endings in groups: play → played, dance → danced, study → studied, stop → stopped.",
+    "Keep a short list of everyday irregular verbs and review their past forms in full sentences.",
+    "Tell a three-sentence story about yesterday using both a regular and an irregular past verb."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Last Saturday, we ___ at the library for two hours.",
+      "choices": [
+        "studied",
+        "study",
+        "studyed"
+      ],
+      "answerIndex": 0,
+      "feedback": "A completed event last Saturday takes studied; study changes y to i before -ed."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Yesterday, Emma ___ a postcard to her grandfather.",
+      "choices": [
+        "writed",
+        "writes",
+        "wrote"
+      ],
+      "answerIndex": 2,
+      "feedback": "The irregular past form of write is wrote."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "When the bell rang, the children ___ outside.",
+      "choices": [
+        "run",
+        "ran",
+        "runned"
+      ],
+      "answerIndex": 1,
+      "feedback": "Ran is the irregular past form of run."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "We ___ at the café after our walk yesterday.",
+      "choices": [
+        "stopped",
+        "stoped",
+        "stop"
+      ],
+      "answerIndex": 0,
+      "feedback": "Stop doubles the p before -ed: stopped."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Use the past form of start: The lesson ___ at nine yesterday.",
+      "acceptedAnswers": [
+        "started"
+      ],
+      "feedback": "Start is regular; add -ed to form started."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Use the past form of buy: Amir ___ fresh fruit on Friday.",
+      "acceptedAnswers": [
+        "bought"
+      ],
+      "feedback": "Bought is the irregular past form of buy."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Use the past form of plan: We ___ our trip last weekend.",
+      "acceptedAnswers": [
+        "planned"
+      ],
+      "feedback": "Plan doubles the final n before -ed: planned."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Use the past form of read: I ___ a short story yesterday evening.",
+      "acceptedAnswers": [
+        "read"
+      ],
+      "feedback": "Past read keeps the same spelling, but it is pronounced like red."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: On Tuesday, Ella goed to a new café.",
+      "acceptedAnswers": [
+        "On Tuesday, Ella went to a new café."
+      ],
+      "feedback": "Go has the irregular past form went."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Yesterday, the music stoped suddenly.",
+      "acceptedAnswers": [
+        "Yesterday, the music stopped suddenly."
+      ],
+      "feedback": "Stop doubles its last consonant before -ed: stopped."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My parents studyed Spanish last year.",
+      "acceptedAnswers": [
+        "My parents studied Spanish last year."
+      ],
+      "feedback": "With study, change final y to i and add -ed."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: He eated lunch at one yesterday.",
+      "acceptedAnswers": [
+        "He ate lunch at one yesterday."
+      ],
+      "feedback": "Eat has the irregular past form ate."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say a complete past sentence using: yesterday / I / clean / the kitchen.",
+      "acceptedAnswers": [
+        "I cleaned the kitchen yesterday.",
+        "Yesterday, I cleaned the kitchen."
+      ],
+      "feedback": "Clean is regular; use cleaned for a finished action yesterday."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say a complete past sentence using: she / go / to the market / last Friday.",
+      "acceptedAnswers": [
+        "She went to the market last Friday.",
+        "Last Friday, she went to the market."
+      ],
+      "feedback": "The irregular past form of go is went."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say a complete past sentence using: we / plan / our picnic / on Saturday.",
+      "acceptedAnswers": [
+        "We planned our picnic on Saturday.",
+        "On Saturday, we planned our picnic."
+      ],
+      "feedback": "Plan becomes planned, with a doubled n before -ed."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Say one complete affirmative past simple sentence. Start with 'On Tuesday' and use these facts: Maya / bake / six muffins.",
+      "acceptedAnswers": [
+        "On Tuesday, Maya baked six muffins."
+      ],
+      "feedback": "Bake is regular. Since it ends in -e, add -d to make baked."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this sentence to the past simple. Replace 'every Monday' with 'last Monday' and keep the other details: Owen buys a newspaper every Monday.",
+      "acceptedAnswers": [
+        "Owen bought a newspaper last Monday."
+      ],
+      "feedback": "Buy is irregular: use bought for the completed action last Monday."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks, 'What did the two gardeners do yesterday?' Answer in one sentence beginning with 'They'. Use these facts: plant / three trees / yesterday.",
+      "acceptedAnswers": [
+        "They planted three trees yesterday."
+      ],
+      "feedback": "Use the regular past form planted to describe what the gardeners did yesterday."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct only the past verb spelling in this sentence, and say the complete corrected sentence: Mila carryed her books upstairs yesterday.",
+      "acceptedAnswers": [
+        "Mila carried her books upstairs yesterday."
+      ],
+      "feedback": "Carry ends in consonant + y. Change y to i and add -ed: carried."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Tell a friend two things that happened yesterday. Start with 'Yesterday' and make ONE sentence connected with 'and': Leo / find / a lost glove; Leo / give / it to a teacher.",
+      "acceptedAnswers": [
+        "Yesterday, Leo found a lost glove and gave it to a teacher."
+      ],
+      "feedback": "Find becomes found and give becomes gave. Both are irregular past forms."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "My aunt drove us to the beach on Sunday.",
+      "prompt": "How did the speaker travel to the beach?",
+      "choices": [
+        "By train",
+        "On foot",
+        "By car"
+      ],
+      "answerIndex": 2,
+      "feedback": "Drove is the past form of drive, so the speaker travelled by car."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "They played chess after dinner last night.",
+      "prompt": "What activity does the speaker describe?",
+      "choices": [
+        "Watching a film",
+        "Playing chess",
+        "Cooking dinner"
+      ],
+      "answerIndex": 1,
+      "feedback": "Played is the regular past form of play, and the activity was chess."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I found my old headphones under the sofa yesterday.",
+      "prompt": "Type the one-word irregular past verb you hear.",
+      "acceptedAnswers": [
+        "found"
+      ],
+      "feedback": "Found is the irregular past form of find."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "At the market yesterday, Nina bought pears instead of apples.",
+      "prompt": "Which fruit did Nina choose?",
+      "choices": [
+        "Apples",
+        "Oranges",
+        "Pears"
+      ],
+      "answerIndex": 2,
+      "feedback": "She bought pears rather than apples; bought is the past of buy."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The bus left at six, but Eva arrived at the stop at five fifty.",
+      "prompt": "When did Eva get to the bus stop?",
+      "choices": [
+        "Ten minutes before six",
+        "At six o'clock",
+        "Ten minutes after six"
+      ],
+      "answerIndex": 0,
+      "feedback": "Eva arrived at five fifty, ten minutes before the bus left at six."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Daniel normally walks to the office, but yesterday he took a taxi.",
+      "prompt": "What was different about Daniel's journey yesterday?",
+      "choices": [
+        "He stayed at home",
+        "He travelled by taxi",
+        "He walked as usual"
+      ],
+      "answerIndex": 1,
+      "feedback": "Normally he walks, but yesterday he took a taxi; took is the past of take."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "We visited our aunt in June and stayed for three days.",
+      "prompt": "Type the one-word past verb immediately after 'We'.",
+      "acceptedAnswers": [
+        "visited"
+      ],
+      "feedback": "Visited is the regular past form of visit, which ends in -ed."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Before the guests arrived, Dad put extra chairs beside the table.",
+      "prompt": "Type the one-word past verb immediately before 'extra chairs'.",
+      "acceptedAnswers": [
+        "put"
+      ],
+      "feedback": "Put is irregular: its past form has the same spelling as the base form."
+    }
+  ]
+}

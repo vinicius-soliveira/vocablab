@@ -1,0 +1,397 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u095",
+  "title": "Still, Yet and Already",
+  "level": "A2",
+  "topicId": "word-order-still-yet-already",
+  "summary": "Describe situations that continue, things that have not happened up to now, and events that happen sooner than expected. Practise the natural position of still, yet and already.",
+  "learningObjectives": [
+    "Use still to say that a situation continues from an earlier time.",
+    "Place yet naturally in negative statements and questions about an expected event.",
+    "Use already for an action completed earlier than expected.",
+    "Distinguish still and not ... yet when describing an unfinished situation."
+  ],
+  "explanation": [
+    {
+      "heading": "Still: a situation continues",
+      "body": "Use still when something was true before and remains true now. Still usually comes before an ordinary verb, but after am, is, are, was or were. It can also come between an auxiliary and the main verb.",
+      "example": "My neighbours are still away this week."
+    },
+    {
+      "heading": "Yet: until now, not completed",
+      "body": "Use yet mainly in questions and negative statements when something is expected to happen or change. In ordinary elementary sentences, put yet at the end. Not yet means that something has not happened up to the present moment.",
+      "example": "I haven't received the confirmation yet."
+    },
+    {
+      "heading": "Still and yet describe different sides",
+      "body": "Still focuses on an activity or state that continues; not ... yet focuses on the event or change that has not occurred. Both may describe the same situation with different verbs.",
+      "example": "We're still waiting because the bus hasn't come yet."
+    },
+    {
+      "heading": "Already: earlier than expected",
+      "body": "Use already when something has happened before now, often sooner than someone expected. It normally comes before an ordinary main verb, after be, or between have/has and a past participle.",
+      "example": "It's only seven, but the bakery is already open."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Continuing situation versus pending change",
+      "left": {
+        "label": "Still",
+        "example": "The lights are still on.",
+        "note": "They were on before and remain on."
+      },
+      "right": {
+        "label": "Not ... yet",
+        "example": "Nobody has turned the lights off yet.",
+        "note": "The expected change has not happened."
+      }
+    },
+    {
+      "title": "Pending versus completed",
+      "left": {
+        "label": "Not yet",
+        "example": "Maya hasn't called yet.",
+        "note": "The call has not happened up to now."
+      },
+      "right": {
+        "label": "Already",
+        "example": "Maya has already called.",
+        "note": "The call happened before now, perhaps sooner than expected."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I still use the same backpack for work.",
+      "note": "Still before an ordinary verb shows that the habit continues."
+    },
+    {
+      "sentence": "Are your cousins still at the beach?",
+      "note": "Still follows are in a question about a continuing state."
+    },
+    {
+      "sentence": "The results aren't available yet.",
+      "note": "Yet is at the end of a negative statement."
+    },
+    {
+      "sentence": "Have you chosen a seat yet?",
+      "note": "Yet asks whether an expected action has happened."
+    },
+    {
+      "sentence": "We've already made lunch, so you don't need to cook.",
+      "note": "Already between have and made marks a completed action."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I am yet waiting for the plumber.",
+      "correct": "I am still waiting for the plumber.",
+      "why": "Use still for an activity that continues; yet normally belongs to a question or negative sentence."
+    },
+    {
+      "incorrect": "The package hasn't arrived already.",
+      "correct": "The package hasn't arrived yet.",
+      "why": "Yet, not already, is natural for an expected event that has not happened."
+    },
+    {
+      "incorrect": "They have finished already the painting.",
+      "correct": "They have already finished the painting.",
+      "why": "Place already between have and the main verb finished."
+    }
+  ],
+  "studyTips": [
+    "Ask whether the situation continues (still), has not happened up to now (yet), or happened sooner than expected (already).",
+    "Learn short pairs about the same situation: 'I'm still working' and 'I haven't finished yet.'",
+    "Check the word order: be + still, have + already + participle, and a negative or question ending in yet."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the natural sentence for a continuing action.",
+      "choices": [
+        "We are still painting the kitchen.",
+        "We are yet painting the kitchen.",
+        "We are already not painting the kitchen."
+      ],
+      "answerIndex": 0,
+      "feedback": "Are still painting says the activity began earlier and continues."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The visitors are expected, but none has arrived. Choose the natural sentence.",
+      "choices": [
+        "The visitors are not here already.",
+        "The visitors are not here yet.",
+        "The visitors are yet not here."
+      ],
+      "answerIndex": 1,
+      "feedback": "Not ... yet describes a change expected in the future that has not happened."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Nora finished her homework much sooner than expected. Which sentence shows this?",
+      "choices": [
+        "Nora has finished yet.",
+        "Nora still finished her homework.",
+        "Nora has already finished her homework."
+      ],
+      "answerIndex": 2,
+      "feedback": "Has already finished shows that the action is complete sooner than expected."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the usual neutral position of still with be.",
+      "choices": [
+        "The café is still open.",
+        "The café still is open.",
+        "The café is open still now."
+      ],
+      "answerIndex": 0,
+      "feedback": "Still normally follows is: is still open."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: The shop was busy an hour ago and is ___ busy now.",
+      "acceptedAnswers": [
+        "still"
+      ],
+      "feedback": "Still tells us the earlier situation continues."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: I haven't checked the message ___.",
+      "acceptedAnswers": [
+        "yet"
+      ],
+      "feedback": "Yet goes naturally at the end of this negative sentence."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with one word meaning sooner than expected: We have ___ paid for our seats.",
+      "acceptedAnswers": [
+        "already"
+      ],
+      "feedback": "Already comes between have and paid."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: Ben started reading at nine and is ___ reading the book at ten.",
+      "acceptedAnswers": [
+        "still"
+      ],
+      "feedback": "Still describes the reading activity continuing from nine to ten."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the time word in this sentence: We are waiting yet for the driver.",
+      "acceptedAnswers": [
+        "We are still waiting for the driver."
+      ],
+      "feedback": "Still, rather than yet, describes the ongoing waiting."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the time word in this affirmative sentence: I have finished my breakfast yet.",
+      "acceptedAnswers": [
+        "I have already finished my breakfast."
+      ],
+      "feedback": "Already is used in an affirmative statement for a completed action; yet is not natural here."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the time word: The parcel hasn't arrived already.",
+      "acceptedAnswers": [
+        "The parcel hasn't arrived yet."
+      ],
+      "feedback": "The negative present perfect uses yet for something still expected."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the position of already: She has finished already her work.",
+      "acceptedAnswers": [
+        "She has already finished her work."
+      ],
+      "feedback": "Already normally comes between has and the past participle finished."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say this as one full sentence, placing still immediately after are: 'We are waiting for the taxi.'",
+      "acceptedAnswers": [
+        "We are still waiting for the taxi."
+      ],
+      "feedback": "With be, put still after are."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Make a full sentence by adding yet at the end: 'The parcel has not arrived.'",
+      "acceptedAnswers": [
+        "The parcel has not arrived yet.",
+        "The parcel hasn't arrived yet."
+      ],
+      "feedback": "Yet goes at the end of this negative sentence."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Make a full sentence by adding already between has and booked: 'Mira has booked the tickets.'",
+      "acceptedAnswers": [
+        "Mira has already booked the tickets."
+      ],
+      "feedback": "With the present perfect, already goes between has and the past participle."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "At nine, the lights were on. At ten, they remain on. Say one sentence beginning 'The lights' and using still. Do not mention the times.",
+      "acceptedAnswers": [
+        "The lights are still on."
+      ],
+      "feedback": "Still follows are and shows that the lights remain on."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Noah continues to use his old laptop. Say 'Noah uses his old laptop' with still in the normal position, before uses.",
+      "acceptedAnswers": [
+        "Noah still uses his old laptop."
+      ],
+      "feedback": "Place still before the ordinary main verb uses."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "The driver was expected, but he has not arrived up to now. Say a complete sentence beginning 'The driver', using the present perfect of arrive and ending with yet.",
+      "acceptedAnswers": [
+        "The driver hasn't arrived yet.",
+        "The driver has not arrived yet."
+      ],
+      "feedback": "Not ... yet means that the expected arrival has not happened."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Leah continues to pack, but she has not finished. Say exactly two short sentences. Begin the first with 'Leah is' and use still before packing. Begin the second with 'She' and finish with yet, using the present perfect of finish.",
+      "acceptedAnswers": [
+        "Leah is still packing. She hasn't finished yet.",
+        "Leah is still packing. She has not finished yet."
+      ],
+      "feedback": "Still focuses on the continuing activity; hasn't finished yet focuses on the unfinished result."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Dina was expected to cook dinner later, but she finished cooking early. Say one sentence starting 'Dina has', putting already before cooked and ending with dinner.",
+      "acceptedAnswers": [
+        "Dina has already cooked dinner."
+      ],
+      "feedback": "Already goes between has and cooked and indicates that the cooking is complete earlier than expected."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The children are still playing in the garden.",
+      "prompt": "Have the children stopped playing?",
+      "choices": [
+        "Yes, they have.",
+        "No, they are continuing.",
+        "They have gone to school."
+      ],
+      "answerIndex": 1,
+      "feedback": "Still playing means the activity continues."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "My brother has already sent the invitation.",
+      "prompt": "What has happened to the invitation?",
+      "choices": [
+        "It has not been written.",
+        "It will be sent tomorrow.",
+        "It has been sent."
+      ],
+      "answerIndex": 2,
+      "feedback": "Already sent means the sending is complete."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The library has not opened yet.",
+      "prompt": "Type the final word you hear.",
+      "acceptedAnswers": [
+        "yet"
+      ],
+      "feedback": "Yet at the end tells us the library has not opened up to now."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "It's almost midnight, but the neighbours are still talking outside.",
+      "prompt": "What is happening at the moment?",
+      "choices": [
+        "The conversation is continuing.",
+        "The neighbours have gone inside.",
+        "The conversation ended earlier."
+      ],
+      "answerIndex": 0,
+      "feedback": "Still talking shows that the conversation has not stopped."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I haven't paid the electricity bill yet, so I'll do it after lunch.",
+      "prompt": "What does the speaker plan to do after lunch?",
+      "choices": [
+        "Call the electricity company.",
+        "Pay a bill.",
+        "Check a bank balance."
+      ],
+      "answerIndex": 1,
+      "feedback": "The bill has not been paid yet, and the speaker plans to pay it after lunch."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We expected the room to be ready tomorrow, but it is already ready today.",
+      "prompt": "What surprised the speaker?",
+      "choices": [
+        "The room is still being cleaned.",
+        "The room will be ready tomorrow.",
+        "The room was ready earlier than planned."
+      ],
+      "answerIndex": 2,
+      "feedback": "Already ready today contrasts with an expectation that it would be ready tomorrow."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "She still works in the same small shop near the station.",
+      "prompt": "Type the one-word time expression immediately before 'works'.",
+      "acceptedAnswers": [
+        "still"
+      ],
+      "feedback": "Still before works says the job continues from an earlier time."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Have the students received their exam results yet?",
+      "prompt": "Type the final word in the question.",
+      "acceptedAnswers": [
+        "yet"
+      ],
+      "feedback": "Yet at the end asks whether an expected event has happened up to now."
+    }
+  ]
+}

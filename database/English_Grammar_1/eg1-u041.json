@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u041",
+  "title": "Short Reactions and Question Tags",
+  "level": "A2",
+  "topicId": "short-reactions-question-tags",
+  "summary": "React to news with a short auxiliary question. Add a question tag to a statement to ask someone to agree or confirm information.",
+  "learningObjectives": [
+    "Use a matching auxiliary and subject to react to positive or negative statements.",
+    "Choose do, does or did in reactions when the statement has no other auxiliary.",
+    "Add a negative question tag to an affirmative statement.",
+    "Add a positive question tag to a negative statement."
+  ],
+  "explanation": [
+    {
+      "heading": "React to interesting or surprising news",
+      "body": "When someone tells you something, you can respond with a short question. Repeat the relevant auxiliary verb and put it before the subject pronoun. Use am, is, are, was, were, have, has, can, will and similar verbs when they appear in the news. These short questions can show interest rather than request a detailed answer.",
+      "example": "“Our garden is very small.” “Is it? Do you grow any flowers?”"
+    },
+    {
+      "heading": "Keep the positive or negative form in reactions",
+      "body": "A short reaction usually follows the positive or negative form of the original statement. For negative news, a negative reaction is natural: “I am not ready.” “Aren’t you?” This differs from the usual opposite-polarity pattern of question tags.",
+      "example": "“My brother cannot swim.” “Can’t he? I can teach him.”"
+    },
+    {
+      "heading": "Use do, does and did for simple tenses",
+      "body": "When an affirmative present-simple statement uses an ordinary verb, react with do or does. Use did for the past simple. Negative simple-tense statements already have do, does or did, so use that same auxiliary in the reaction.",
+      "example": "“Nina walks to work.” “Does she? That sounds healthy.”"
+    },
+    {
+      "heading": "Positive statement, negative tag",
+      "body": "A question tag comes at the end of your own sentence. After a positive statement, make the tag negative. Match its auxiliary to the verb, then use a short subject pronoun. Use do, does or did when the statement has no auxiliary.",
+      "example": "“Your parcel arrived this morning, didn’t it?”"
+    },
+    {
+      "heading": "Negative statement, positive tag",
+      "body": "After a negative statement, use a positive tag. Keep the same tense or modal, and replace a named person or noun phrase with its pronoun. A tag often asks the listener to confirm what you think is true.",
+      "example": "“Emma hasn’t called yet, has she?”"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Short reaction or question tag?",
+      "left": {
+        "label": "Reaction to someone else",
+        "example": "“Leo is on holiday.” “Is he?”",
+        "note": "A separate short question responds to another speaker’s news."
+      },
+      "right": {
+        "label": "Tag on your own sentence",
+        "example": "“Leo is on holiday, isn’t he?”",
+        "note": "The tag follows a statement and normally has opposite polarity."
+      }
+    },
+    {
+      "title": "The two tag patterns",
+      "left": {
+        "label": "Affirmative + negative tag",
+        "example": "“They live nearby, don’t they?”",
+        "note": "Use a negative tag after a positive main clause."
+      },
+      "right": {
+        "label": "Negative + affirmative tag",
+        "example": "“They don’t live nearby, do they?”",
+        "note": "Use a positive tag after a negative main clause."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "“I have lost my umbrella.” “Have you? Where did you last see it?”",
+      "note": "The reaction uses have from the present-perfect statement."
+    },
+    {
+      "sentence": "“Our teacher was absent on Monday.” “Was she? I hope she is well.”",
+      "note": "The reaction uses was for past be."
+    },
+    {
+      "sentence": "“Zoe doesn’t eat eggs.” “Doesn’t she? What does she have for breakfast?”",
+      "note": "A negative present-simple statement produces a negative reaction."
+    },
+    {
+      "sentence": "“The children are upstairs, aren’t they?”",
+      "note": "A positive statement takes a negative tag with are."
+    },
+    {
+      "sentence": "“You won’t forget the tickets, will you?”",
+      "note": "A negative statement with will takes a positive will tag."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "“Your brother plays chess.” “Is he?”",
+      "correct": "“Your brother plays chess.” “Does he?”",
+      "why": "The verb plays is present simple; its short reaction uses does, not is."
+    },
+    {
+      "incorrect": "The lights are on, don’t they?",
+      "correct": "The lights are on, aren’t they?",
+      "why": "With be, the tag repeats the be auxiliary."
+    },
+    {
+      "incorrect": "Alice didn’t arrive, didn’t she?",
+      "correct": "Alice didn’t arrive, did she?",
+      "why": "A negative main clause takes a positive question tag."
+    },
+    {
+      "incorrect": "Peter has finished, hasn’t Peter?",
+      "correct": "Peter has finished, hasn’t he?",
+      "why": "A tag normally uses the subject pronoun, not the full name again."
+    }
+  ],
+  "studyTips": [
+    "For a reaction, listen for the first speaker’s auxiliary and subject; say them in question order.",
+    "For a question tag, check whether the main statement is positive or negative before choosing the tag.",
+    "If the main clause has a simple verb such as walks or arrived, build the tag with does or did."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A friend says, “My brother works at night.” Which short reply shows interest?",
+      "choices": [
+        "Does he?",
+        "Is he?",
+        "Has he?"
+      ],
+      "answerIndex": 0,
+      "feedback": "Works is present simple, so the interested reaction uses does he."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Someone says, “My aunt wasn’t at home yesterday.” Which reply shows surprise?",
+      "choices": [
+        "Isn’t she?",
+        "Wasn’t she?",
+        "Didn’t she?"
+      ],
+      "answerIndex": 1,
+      "feedback": "Wasn’t she matches the negative past form of be in the news."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct tag: “You can help us, ___?”",
+      "choices": [
+        "do you",
+        "can you",
+        "can’t you"
+      ],
+      "answerIndex": 2,
+      "feedback": "A positive statement with can takes a negative tag: can’t you."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct tag: “Olivia didn’t call, ___?”",
+      "choices": [
+        "did she",
+        "does she",
+        "didn’t she"
+      ],
+      "answerIndex": 0,
+      "feedback": "The negative past-simple statement takes the positive tag did she."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "A: “Your dad is a baker.” B: “___? I didn’t know that.” Write the two-word reaction.",
+      "acceptedAnswers": [
+        "Is he?"
+      ],
+      "feedback": "The statement uses is with a male subject, so the reaction is Is he?"
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "A: “I don’t take the bus to work.” B: “___? I usually do.” Write the two-word reaction.",
+      "acceptedAnswers": [
+        "Don’t you?"
+      ],
+      "feedback": "The reaction repeats the negative present-simple auxiliary with you: Don’t you?"
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Our neighbours have got a new puppy, ___? Write the two-word tag.",
+      "acceptedAnswers": [
+        "haven’t they?"
+      ],
+      "feedback": "Have got uses have as the auxiliary, and the positive statement takes a negative tag."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Ryan will be at the station, ___? Write the two-word tag.",
+      "acceptedAnswers": [
+        "won’t he?"
+      ],
+      "feedback": "A positive statement with will takes won’t followed by the pronoun he."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The library is open today, doesn’t it?",
+      "acceptedAnswers": [
+        "The library is open today, isn’t it?"
+      ],
+      "feedback": "The main verb is is, so the tag must be isn’t it."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Emily didn’t bring her bag, didn’t she?",
+      "acceptedAnswers": [
+        "Emily didn’t bring her bag, did she?"
+      ],
+      "feedback": "Didn’t makes the statement negative; use a positive did she tag."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Jon rides his bike to work, isn’t he?",
+      "acceptedAnswers": [
+        "Jon rides his bike to work, doesn’t he?"
+      ],
+      "feedback": "Rides is present simple, so the tag needs doesn’t he rather than isn’t he."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: You’ve finished the report, don’t you?",
+      "acceptedAnswers": [
+        "You’ve finished the report, haven’t you?"
+      ],
+      "feedback": "You’ve finished is present perfect, so the negative tag uses haven’t you."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Your friend says, “My sister can speak Japanese.” Show interest with one short question using can.",
+      "acceptedAnswers": [
+        "Can she?",
+        "Oh, can she?"
+      ],
+      "feedback": "The short reaction uses can before she."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say this as one complete sentence with a negative question tag: “The meeting starts at nine.”",
+      "acceptedAnswers": [
+        "The meeting starts at nine, doesn’t it?"
+      ],
+      "feedback": "Starts is present simple, so the negative tag uses doesn’t it."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say this as one complete sentence with a positive question tag: “Your cousins aren’t at home.”",
+      "acceptedAnswers": [
+        "Your cousins aren’t at home, are they?"
+      ],
+      "feedback": "Aren’t is negative, so the confirming tag is positive: are they."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A friend says, \"My parents have bought a new car.\" Show interest with only a two-word question using have.",
+      "acceptedAnswers": [
+        "Have they?"
+      ],
+      "feedback": "Have they? repeats the present-perfect auxiliary and uses they for parents."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this positive statement into a confirmation question by adding a negative question tag. Say the complete sentence: \"Ella has finished the puzzle.\"",
+      "acceptedAnswers": [
+        "Ella has finished the puzzle, hasn't she?"
+      ],
+      "feedback": "The positive present-perfect statement takes the negative tag hasn’t she."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend says, \"I didn’t sleep well last night.\" React with only the two-word negative past-simple question.",
+      "acceptedAnswers": [
+        "Didn't you?"
+      ],
+      "feedback": "Didn’t you? uses the same negative past-simple auxiliary and changes I to you."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the question tag and say the whole sentence: \"Those shops are closed today, don’t they?\" Keep the statement unchanged and use a two-word contracted tag.",
+      "acceptedAnswers": [
+        "Those shops are closed today, aren't they?"
+      ],
+      "feedback": "Are closed uses be, so the matching negative tag is aren’t they, not don’t they."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Confirm that your friends will not be late tomorrow. Add a positive question tag to \"Your friends won’t be late tomorrow.\" You may also say \"will not\" instead of \"won’t\".",
+      "acceptedAnswers": [
+        "Your friends won't be late tomorrow, will they?",
+        "Your friends will not be late tomorrow, will they?"
+      ],
+      "feedback": "A negative statement with won’t takes the positive question tag will they."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Our new neighbours moved in yesterday.",
+      "prompt": "Which short reaction correctly responds to the news?",
+      "choices": [
+        "Are they?",
+        "Did they?",
+        "Have they?"
+      ],
+      "answerIndex": 1,
+      "feedback": "Moved is past simple, so the reaction uses did they."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Marta isn’t coming to dinner tonight.",
+      "prompt": "Which short reply shows surprise using the same auxiliary?",
+      "choices": [
+        "Doesn’t she?",
+        "Did she?",
+        "Isn’t she?"
+      ],
+      "answerIndex": 2,
+      "feedback": "Isn’t she repeats the negative auxiliary from the present-continuous statement."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The train leaves at six, doesn’t it?",
+      "prompt": "Listen and type only the two-word question tag at the end.",
+      "acceptedAnswers": [
+        "doesn’t it"
+      ],
+      "feedback": "Leaves is present simple with it, so the negative tag is doesn’t it."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Your sister is coming to the party, isn't she?",
+      "prompt": "What is the speaker trying to do?",
+      "choices": [
+        "Ask someone to organise a party.",
+        "Confirm an expected guest is coming.",
+        "Explain why a guest cannot come."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker expects the sister to come and uses isn’t she to ask for confirmation."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The buses didn't run on Sunday, did they?",
+      "prompt": "What does the speaker believe about Sunday?",
+      "choices": [
+        "The bus service did not operate.",
+        "The buses were unusually crowded.",
+        "The buses arrived early."
+      ],
+      "answerIndex": 0,
+      "feedback": "The negative statement suggests that the buses did not run; did they asks for confirmation."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Your dog doesn't like the rain, does it?",
+      "prompt": "Which idea is the speaker checking?",
+      "choices": [
+        "The dog enjoys playing in rain.",
+        "The dog is outside right now.",
+        "The dog dislikes rainy weather."
+      ],
+      "answerIndex": 2,
+      "feedback": "Doesn’t like gives a negative idea, and does it is the positive tag asking for confirmation."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The new printer has arrived, hasn't it?",
+      "prompt": "Type only the two-word question tag at the end of the sentence.",
+      "acceptedAnswers": [
+        "hasn't it"
+      ],
+      "feedback": "A positive present-perfect statement with has takes the negative tag hasn’t it."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "You didn't leave the lights on, did you?",
+      "prompt": "Type only the two-word question tag you hear at the end.",
+      "acceptedAnswers": [
+        "did you"
+      ],
+      "feedback": "A negative past-simple statement with didn’t takes the positive tag did you."
+    }
+  ]
+}

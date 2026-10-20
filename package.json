@@ -1,10 +1,13 @@
 {
   "name": "vocablab",
-  "version": "1.3.0",
+  "version": "1.4.1",
   "private": true,
   "type": "module",
   "scripts": {
     "test": "node --test tests/*.test.mjs",
-    "catalog": "node scripts/build-catalog.mjs"
+    "catalog": "node scripts/build-catalog.mjs",
+    "audit:books": "node scripts/audit-books.mjs",
+    "catalog:grammar": "node scripts/build-grammar-catalog.mjs",
+    "catalog:all": "node scripts/build-catalog.mjs && node scripts/build-grammar-catalog.mjs"
   }
 }

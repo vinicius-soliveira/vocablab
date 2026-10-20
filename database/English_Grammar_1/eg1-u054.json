@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u054",
+  "title": "Explaining Purpose with To and For",
+  "level": "A2",
+  "topicId": "purpose-to-for-and-wait",
+  "summary": "Explain why you do something using to + base verb or for + noun. Use wait for, wait to and wait for someone or something to when talking about people, events and actions you are waiting for.",
+  "learningObjectives": [
+    "Explain the purpose of an action using to + base verb.",
+    "Choose to + verb or for + noun after verbs of movement and need.",
+    "Use wait for + noun and wait to + verb correctly.",
+    "Form a sentence with wait for + person or thing + to + verb."
+  ],
+  "explanation": [
+    {
+      "heading": "To + verb explains why",
+      "body": "Use to + base verb to give the reason for an action. It answers the question Why? In a sentence such as She opened her bag to find her keys, the infinitive describes her purpose.",
+      "example": "We got up early to catch the first bus."
+    },
+    {
+      "heading": "To + verb, but for + noun",
+      "body": "Use to before an action: to buy, to see, to ask. Use for before a noun or noun phrase: for milk, for a meeting, for a holiday. Do not use for + base verb to express purpose in these patterns.",
+      "example": "I went to the bakery for a loaf of bread."
+    },
+    {
+      "heading": "Time or money for a planned action",
+      "body": "After expressions such as have time or need money, use to + verb when describing what the time or money is needed to do. If you name only the thing needed, you can use for + noun instead.",
+      "example": "I need some time to clean the kitchen."
+    },
+    {
+      "heading": "Wait for a person or thing; wait to act",
+      "body": "Use wait for when the next words name a person or thing. Use wait to + base verb when the next words describe the action you are ready or expecting to do.",
+      "example": "We waited for the delivery at home."
+    },
+    {
+      "heading": "Wait for someone or something to act",
+      "body": "When you are waiting for another person or thing to do something, use wait for + person/thing + to + base verb. The action belongs to the named person or thing.",
+      "example": "The children waited for the rain to stop."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Purpose: an action or a thing",
+      "left": {
+        "label": "To + verb",
+        "example": "We visited the market to buy fruit.",
+        "note": "To buy gives the purpose as an action."
+      },
+      "right": {
+        "label": "For + noun",
+        "example": "We visited the market for fresh fruit.",
+        "note": "For fresh fruit names the thing we wanted."
+      }
+    },
+    {
+      "title": "Waiting to act or for another action",
+      "left": {
+        "label": "Wait to + verb",
+        "example": "I waited to speak to the manager.",
+        "note": "I am the person who wants to speak."
+      },
+      "right": {
+        "label": "Wait for + person + to + verb",
+        "example": "I waited for the manager to speak.",
+        "note": "The manager is the person expected to speak."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I switched on the lamp to read my letter.",
+      "note": "To read tells us why the lamp was switched on."
+    },
+    {
+      "sentence": "We stopped at the corner shop for some orange juice.",
+      "note": "For is followed by a noun phrase, not a base verb."
+    },
+    {
+      "sentence": "Do you have enough time to finish the puzzle?",
+      "note": "Time + to + verb describes what the time is needed for."
+    },
+    {
+      "sentence": "The customers waited to pay at the counter.",
+      "note": "Wait to + verb describes what the customers wanted to do."
+    },
+    {
+      "sentence": "I waited for the bus driver to open the door.",
+      "note": "Wait for + person + to + verb describes an action by someone else."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I came here for meet my tutor.",
+      "correct": "I came here to meet my tutor.",
+      "why": "Use to + verb for purpose, not for + base verb."
+    },
+    {
+      "incorrect": "We went to the market to some fruit.",
+      "correct": "We went to the market for some fruit.",
+      "why": "Fruit is a noun, so use for before it."
+    },
+    {
+      "incorrect": "I waited my sister outside.",
+      "correct": "I waited for my sister outside.",
+      "why": "Wait needs for before the person being waited for."
+    },
+    {
+      "incorrect": "They waited for the doors open.",
+      "correct": "They waited for the doors to open.",
+      "why": "Use wait for + thing + to + verb."
+    }
+  ],
+  "studyTips": [
+    "Ask yourself: Am I naming an action or a thing? Choose to + verb for an action and for + noun for a thing.",
+    "Learn the three useful waiting patterns together: wait for the bus; wait to board; wait for the bus to arrive.",
+    "When using to for purpose, keep the second verb in its base form: to meet, to learn, to help."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly explains why Lena called?",
+      "choices": [
+        "Lena called to confirm the time.",
+        "Lena called for confirm the time.",
+        "Lena called to confirmation the time."
+      ],
+      "answerIndex": 0,
+      "feedback": "To confirm is an infinitive of purpose; for confirm is incorrect."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: We went to the pharmacy ___ some soap.",
+      "choices": [
+        "to",
+        "for",
+        "so"
+      ],
+      "answerIndex": 1,
+      "feedback": "Some soap is a noun phrase, so use for."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct ending: We waited ___.",
+      "choices": [
+        "the waiter to bring our food.",
+        "for the waiter bring our food.",
+        "for the waiter to bring our food."
+      ],
+      "answerIndex": 2,
+      "feedback": "The full pattern is wait for + person + to + verb."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the sentence that correctly describes people who cannot enter yet.",
+      "choices": [
+        "They are waiting to enter.",
+        "They are waiting for enter.",
+        "They are waiting enter."
+      ],
+      "answerIndex": 0,
+      "feedback": "When waiting to perform an action, use wait to + base verb."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "I need some money ___ (buy) a bus ticket.",
+      "acceptedAnswers": [
+        "to buy"
+      ],
+      "feedback": "Money needed for an action is followed by to + base verb: to buy."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The children went to the lake ___ (a picnic).",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "A picnic is a noun phrase; use for, not to."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We are waiting ___ (our taxi).",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "Wait for is the pattern before a person or thing."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "I waited for the bread ___ (cool) before cutting it.",
+      "acceptedAnswers": [
+        "to cool"
+      ],
+      "feedback": "The bread is the thing expected to cool, so say waited for the bread to cool."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I opened the app for check the train times.",
+      "acceptedAnswers": [
+        "I opened the app to check the train times."
+      ],
+      "feedback": "To check describes the purpose of opening the app."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We walked to the market to fresh fruit.",
+      "acceptedAnswers": [
+        "We walked to the market for fresh fruit."
+      ],
+      "feedback": "Fresh fruit is a noun phrase, so for is needed."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Please wait me outside the bank.",
+      "acceptedAnswers": [
+        "Please wait for me outside the bank."
+      ],
+      "feedback": "Wait for + person is the correct pattern."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: They waited for the show begin.",
+      "acceptedAnswers": [
+        "They waited for the show to begin."
+      ],
+      "feedback": "Wait for + thing + to + base verb describes the expected event."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Use these cues to make a complete sentence showing purpose: Amir / went / to the library / borrow / a book.",
+      "acceptedAnswers": [
+        "Amir went to the library to borrow a book."
+      ],
+      "feedback": "The infinitive to borrow gives Amir’s reason for going."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Join these ideas using for + noun: “We stopped at the bakery. We wanted some bread.”",
+      "acceptedAnswers": [
+        "We stopped at the bakery for some bread."
+      ],
+      "feedback": "For some bread gives the purpose as a noun phrase."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Combine the ideas with wait for someone to: “We waited. The shop assistant was coming back.”",
+      "acceptedAnswers": [
+        "We waited for the shop assistant to come back."
+      ],
+      "feedback": "The shop assistant is the person whose action you are waiting for."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Nora packed an umbrella because she wanted to stay dry. Join these facts in one sentence beginning 'Nora packed an umbrella' and using 'to stay dry'.",
+      "acceptedAnswers": [
+        "Nora packed an umbrella to stay dry."
+      ],
+      "feedback": "The infinitive to stay explains why Nora packed the umbrella."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change 'Pia went to the chemist to buy a thermometer.' into a sentence using 'for a thermometer' instead of the purpose infinitive. Keep the rest of the sentence unchanged.",
+      "acceptedAnswers": [
+        "Pia went to the chemist for a thermometer."
+      ],
+      "feedback": "Use for before a noun phrase such as a thermometer, rather than to + verb."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You are at the ticket office because you need to buy a ticket. Tell a friend what you are waiting to do. Start with 'I am waiting' or 'I'm waiting'. Say one sentence.",
+      "acceptedAnswers": [
+        "I am waiting to buy a ticket.",
+        "I'm waiting to buy a ticket."
+      ],
+      "feedback": "Wait to + base verb describes the action you want to do yourself."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Yesterday you waited for a driver to start a car; you were not going to start it yourself. Change 'I waited to start the car.' so the driver performs the action. Begin 'I waited for the driver'.",
+      "acceptedAnswers": [
+        "I waited for the driver to start the car."
+      ],
+      "feedback": "Wait for + person + to + verb shows that the driver, not you, was expected to start the car."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You came to the hardware shop for new batteries, but the cashier is away. Say exactly two sentences. Begin the first with 'I came to the hardware shop' and use 'for new batteries'. Begin the second with 'I am waiting' or 'I'm waiting' and finish with 'for the cashier to return'.",
+      "acceptedAnswers": [
+        "I came to the hardware shop for new batteries. I am waiting for the cashier to return.",
+        "I came to the hardware shop for new batteries. I'm waiting for the cashier to return."
+      ],
+      "feedback": "For new batteries names the item needed; waiting for the cashier to return names another person's expected action."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We stopped at the petrol station for a bottle of water.",
+      "prompt": "Why did the speakers stop?",
+      "choices": [
+        "To find a map.",
+        "For a bottle of water.",
+        "To check a tyre."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker uses for + noun phrase to say what they needed."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I waited for the oven to heat up before putting in the cake.",
+      "prompt": "What did the speaker wait for?",
+      "choices": [
+        "The cake to cool.",
+        "The guests to arrive.",
+        "The oven to heat up."
+      ],
+      "answerIndex": 2,
+      "feedback": "Waited for the oven to heat up names an action expected from the oven."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I went to the post office to send a birthday card.",
+      "prompt": "Complete what you hear: “I went to the post office ___ a birthday card.” Type only the missing words.",
+      "acceptedAnswers": [
+        "to send"
+      ],
+      "feedback": "To send shows the purpose of the visit."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Daniel bought a notebook to write down new English words.",
+      "prompt": "Why did Daniel buy the notebook?",
+      "choices": [
+        "To practise vocabulary.",
+        "To draw a picture.",
+        "To send a message."
+      ],
+      "answerIndex": 0,
+      "feedback": "To write down new English words explains his purpose: learning or practising vocabulary."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The children waited for their grandfather to unlock the garden gate.",
+      "prompt": "What were the children expecting?",
+      "choices": [
+        "A ride home.",
+        "A meal to be ready.",
+        "Someone to open the gate."
+      ],
+      "answerIndex": 2,
+      "feedback": "They waited for their grandfather to unlock the gate so that it could be opened."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I wasn't waiting for the bus. I was waiting to meet my sister near the stop.",
+      "prompt": "Why was the speaker near the stop?",
+      "choices": [
+        "To catch a bus.",
+        "To meet a family member.",
+        "To buy a ticket."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker was waiting to meet a sister, not waiting for a bus."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "I put a reminder on my phone to call the doctor tomorrow.",
+      "prompt": "Type the two-word purpose phrase immediately after 'phone'.",
+      "acceptedAnswers": [
+        "to call"
+      ],
+      "feedback": "To call explains the purpose of setting the reminder."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The family waited for the fireworks to begin after sunset.",
+      "prompt": "Type the single preposition immediately after 'waited'.",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "Wait for + a thing + to + verb is used when waiting for an event to happen."
+    }
+  ]
+}

@@ -1,0 +1,399 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u087",
+  "title": "Comparatives 1: Forms of Adjectives",
+  "level": "A2",
+  "topicId": "comparatives-form-er-more-irregular",
+  "summary": "Form comparative adjectives to describe differences. Learn when to add -er, when to use more, how spelling changes, and which common words have irregular forms.",
+  "learningObjectives": [
+    "Form regular -er comparatives of short adjectives, including final -e and doubled final consonants.",
+    "Change an adjective ending in consonant + y to the comparative ending -ier.",
+    "Use more before longer adjectives instead of adding -er.",
+    "Recognise the irregular comparative forms better, worse and further."
+  ],
+  "explanation": [
+    {
+      "heading": "Short adjectives: add -er",
+      "body": "For most one-syllable adjectives, add -er: short becomes shorter and cold becomes colder. If the adjective already ends in -e, just add -r: large becomes larger. A comparative often appears with another person or thing, but you can also use it when the comparison is already clear.",
+      "example": "The newer chairs are near the window."
+    },
+    {
+      "heading": "Spelling changes: double a letter or change y",
+      "body": "For a short adjective ending in consonant–vowel–consonant, double the last consonant when appropriate: big becomes bigger and thin becomes thinner. If an adjective ends in consonant + y, change y to i before adding -er: busy becomes busier and happy becomes happier.",
+      "example": "The street is busier in the morning."
+    },
+    {
+      "heading": "Longer adjectives: use more",
+      "body": "Use more before many adjectives with two or more syllables, especially longer ones such as useful, comfortable, expensive and important. Do not use more together with an -er comparative. Some two-syllable adjectives have special patterns; focus here on the common forms taught in this lesson.",
+      "example": "This seat is more comfortable."
+    },
+    {
+      "heading": "Irregular forms",
+      "body": "Some comparative forms do not follow the usual pattern. Good and well become better; bad becomes worse; and far can become further. Learn these as complete words rather than adding -er or more.",
+      "example": "I feel better after some rest."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Short and long adjective patterns",
+      "left": {
+        "label": "-er with short adjectives",
+        "example": "The second parcel is lighter.",
+        "note": "Light is short, so add -er."
+      },
+      "right": {
+        "label": "more with longer adjectives",
+        "example": "The second route is more interesting.",
+        "note": "Interesting takes more, not -er."
+      }
+    },
+    {
+      "title": "Regular versus irregular",
+      "left": {
+        "label": "Regular comparative",
+        "example": "Today is colder.",
+        "note": "Cold changes to colder."
+      },
+      "right": {
+        "label": "Irregular comparative",
+        "example": "Today is better.",
+        "note": "Good changes to better, not gooder."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The small suitcase is lighter than the black one.",
+      "note": "Light takes the ending -er."
+    },
+    {
+      "sentence": "The garden looks bigger after we cut the bushes.",
+      "note": "The final g is doubled in bigger."
+    },
+    {
+      "sentence": "This question is easier than the first one.",
+      "note": "Easy changes -y to -ier."
+    },
+    {
+      "sentence": "The new menu is more interesting.",
+      "note": "A longer adjective takes more."
+    },
+    {
+      "sentence": "The weather is worse this afternoon.",
+      "note": "Worse is the comparative of bad."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "This chair is more soft.",
+      "correct": "This chair is softer.",
+      "why": "The usual comparative of the short adjective soft is softer."
+    },
+    {
+      "incorrect": "This bedroom is more smaller.",
+      "correct": "This bedroom is smaller.",
+      "why": "Smaller already contains the comparative ending -er, so more is unnecessary."
+    },
+    {
+      "incorrect": "My bag is heavyer.",
+      "correct": "My bag is heavier.",
+      "why": "Change the consonant + y ending in heavy to -ier."
+    },
+    {
+      "incorrect": "I feel gooder now.",
+      "correct": "I feel better now.",
+      "why": "Good has the irregular comparative better."
+    }
+  ],
+  "studyTips": [
+    "When you learn a new adjective, write its comparative beside it: hot → hotter; easy → easier; useful → more useful.",
+    "Check spelling carefully when a short adjective ends in a consonant or in consonant + y.",
+    "Practise the irregular groups good/well → better, bad → worse and far → further aloud."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correctly spelt comparative form of thin.",
+      "choices": [
+        "thinner",
+        "thiner",
+        "thinnest"
+      ],
+      "answerIndex": 0,
+      "feedback": "Thin has a short vowel followed by a final consonant; double n and add -er."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the comparative form of expensive.",
+      "choices": [
+        "expensiver",
+        "more expensive",
+        "most expensive"
+      ],
+      "answerIndex": 1,
+      "feedback": "Expensive is a longer adjective; use more expensive for the comparative."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The situation was bad earlier, and now it is even ___.",
+      "choices": [
+        "badder",
+        "more bad",
+        "worse"
+      ],
+      "answerIndex": 2,
+      "feedback": "Bad has the irregular comparative worse; even emphasises the change."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which is the comparative form of big?",
+      "choices": [
+        "bigger",
+        "biggest",
+        "biger"
+      ],
+      "answerIndex": 0,
+      "feedback": "Big doubles its final g before -er; biggest is a superlative."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The bedroom is ___ after we closed the window. (warm: comparative)",
+      "acceptedAnswers": [
+        "warmer"
+      ],
+      "feedback": "Warm is a short adjective, so add -er to make warmer."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "These instructions are ___ to understand than the old ones. (easy: comparative)",
+      "acceptedAnswers": [
+        "easier"
+      ],
+      "feedback": "Easy ends in consonant + y, so its comparative is easier."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The next town is ___ away than I thought. (far: use the form taught here)",
+      "acceptedAnswers": [
+        "further"
+      ],
+      "feedback": "Further is the comparative of far used in this unit."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "This armchair is ___ than the wooden chair. (comfortable: comparative)",
+      "acceptedAnswers": [
+        "more comfortable"
+      ],
+      "feedback": "Comfortable is a longer adjective and takes more."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the comparative only: This box is more small than mine.",
+      "acceptedAnswers": [
+        "This box is smaller than mine."
+      ],
+      "feedback": "Small is short; use smaller, not more small."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the comparative spelling only: Their new fridge is biger than ours.",
+      "acceptedAnswers": [
+        "Their new fridge is bigger than ours."
+      ],
+      "feedback": "Double the final consonant in big before adding -er."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the comparative spelling only: The second task looks easyer.",
+      "acceptedAnswers": [
+        "The second task looks easier."
+      ],
+      "feedback": "In easy, y changes to i before -er."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the comparative form only: This backpack is expensiver than that one.",
+      "acceptedAnswers": [
+        "This backpack is more expensive than that one."
+      ],
+      "feedback": "Use more expensive, not expensiver."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say the corrected full sentence: 'This suitcase is more heavy.'",
+      "acceptedAnswers": [
+        "This suitcase is heavier."
+      ],
+      "feedback": "Heavy ends in consonant + y, so change -y to -ier."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say a full sentence. Complete: 'I feel ___ today.' Use the comparative of good.",
+      "acceptedAnswers": [
+        "I feel better today."
+      ],
+      "feedback": "Good has the irregular comparative better."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say the complete sentence using the comparative of expensive: 'The blue coat is ___.'",
+      "acceptedAnswers": [
+        "The blue coat is more expensive."
+      ],
+      "feedback": "The longer adjective expensive uses more."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The old chair was small, but the replacement takes up more space. Say one sentence beginning \"The new chair is\" and complete it with the comparative of big. Do not add a comparison phrase.",
+      "acceptedAnswers": [
+        "The new chair is bigger."
+      ],
+      "feedback": "Big doubles its final g before -er: bigger."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "A window is wider after a change. Transform \"The window is wide.\" into a comparative sentence. Keep all the other words the same.",
+      "acceptedAnswers": [
+        "The window is wider."
+      ],
+      "feedback": "Wide already ends in -e, so add only -r to make wider."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks, \"Is today's puzzle harder than yesterday's?\" It is easier. Reply in one sentence beginning \"No, today's puzzle\" and do not add a than-clause.",
+      "acceptedAnswers": [
+        "No, today's puzzle is easier."
+      ],
+      "feedback": "Easy changes its final y to i and takes -er: easier."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Someone says, \"The second film was badder.\" Correct only the comparative and say the complete sentence.",
+      "acceptedAnswers": [
+        "The second film was worse."
+      ],
+      "feedback": "The comparative of bad is the irregular form worse, not badder."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "The old map is useful, but the new map helps visitors more. Tell a visitor in one sentence beginning \"The new map is\" and ending \"the old one\". Use the comparative of useful.",
+      "acceptedAnswers": [
+        "The new map is more useful than the old one."
+      ],
+      "feedback": "Useful normally takes more to form the comparative: more useful."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "My new pillow is softer.",
+      "prompt": "Which comparative adjective describes the pillow?",
+      "choices": [
+        "softest",
+        "softer",
+        "more soft"
+      ],
+      "answerIndex": 1,
+      "feedback": "Softer is the comparative adjective heard after is; softest is a superlative."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "This chair is more comfortable.",
+      "prompt": "Which comparative expression does the speaker use?",
+      "choices": [
+        "comfortabler",
+        "most comfortable",
+        "more comfortable"
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker says more comfortable, the comparative of comfortable."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The desk lamp is brighter now.",
+      "prompt": "Type the comparative adjective you hear.",
+      "acceptedAnswers": [
+        "brighter"
+      ],
+      "feedback": "Bright is short, so its comparative is brighter."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I used to walk to the swimming pool, but cycling is quicker.",
+      "prompt": "Which way of travelling would save the speaker time?",
+      "choices": [
+        "Riding a bicycle",
+        "Going there on foot",
+        "Both take the same time"
+      ],
+      "answerIndex": 0,
+      "feedback": "Cycling is quicker, so going by bicycle would take less time than walking."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The grey box was heavy, but the orange one was lighter.",
+      "prompt": "Which box weighed less?",
+      "choices": [
+        "The grey box",
+        "They weighed the same",
+        "The orange box"
+      ],
+      "answerIndex": 2,
+      "feedback": "The orange box was lighter, so it weighed less than the grey one."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I expected the weather to improve, but it's worse this evening.",
+      "prompt": "What does the speaker say about the weather this evening?",
+      "choices": [
+        "The conditions have improved",
+        "The conditions are less pleasant",
+        "The conditions have not changed"
+      ],
+      "answerIndex": 1,
+      "feedback": "Worse is the irregular comparative of bad and describes a change for the worse."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "My little brother is happier at his new school.",
+      "prompt": "Type the one-word comparative describing the brother's feelings.",
+      "acceptedAnswers": [
+        "happier"
+      ],
+      "feedback": "You heard happier. The adjective happy changes y to i before -er."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The museum is more interesting with a guide.",
+      "prompt": "Type the two-word comparative expression describing the museum.",
+      "acceptedAnswers": [
+        "more interesting"
+      ],
+      "feedback": "You heard more interesting. Longer adjectives such as interesting use more."
+    }
+  ]
+}

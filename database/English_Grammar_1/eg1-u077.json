@@ -1,0 +1,408 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u077",
+  "title": "Not Any, No and None",
+  "level": "A2",
+  "topicId": "negative-any-no-none",
+  "summary": "Express zero quantities using not any, no and none. Choose the right form before a noun, after a negative verb or as a short answer.",
+  "learningObjectives": [
+    "Form equivalent negative statements with not any and no.",
+    "Place no before a noun and use none without a following noun.",
+    "Answer how much or how many questions with none.",
+    "Distinguish none, which expresses zero quantity, from no-one, which refers to a person."
+  ],
+  "explanation": [
+    {
+      "heading": "Negative verb + any",
+      "body": "Use any after a negative verb such as do not, does not, did not, is not or are not to say that the quantity is zero. Any can be followed by a plural countable noun, an uncountable noun or no noun when its meaning is already clear.",
+      "example": "We did not see any taxis outside the station."
+    },
+    {
+      "heading": "Positive verb + no + noun",
+      "body": "Use no directly before a noun to express the same zero quantity without a negative verb. With singular countable nouns, no can also mean not a. No is especially common with have and there is or there are.",
+      "example": "The guest room has no windows."
+    },
+    {
+      "heading": "No before a noun; none on its own",
+      "body": "No needs a noun immediately after it: no chairs, no butter, no answer. Use none without a following noun when the subject of the conversation already makes the missing item clear.",
+      "example": "We ordered extra napkins, but the café had none."
+    },
+    {
+      "heading": "None answers how much and how many",
+      "body": "None can be a short answer to a question about the number or amount of things, including people as a quantity. For a who question about a person, use no-one or nobody instead.",
+      "example": "How many spare keys are there? None."
+    },
+    {
+      "heading": "Avoid two negatives for one negative meaning",
+      "body": "In standard English, do not combine a negative verb with no to mean zero. Choose a negative verb with any, or a positive verb with no. This is a choice of structure, not a difference in quantity.",
+      "example": "There are no buses after midnight."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Two ways to express zero",
+      "left": {
+        "label": "Negative verb + any",
+        "example": "The kitchen does not have any windows.",
+        "note": "Does not have carries the negative; any goes before the plural noun."
+      },
+      "right": {
+        "label": "Positive verb + no",
+        "example": "The kitchen has no windows.",
+        "note": "Has stays positive; no carries the negative meaning."
+      }
+    },
+    {
+      "title": "No, none and no-one",
+      "left": {
+        "label": "No before a noun",
+        "example": "There are no biscuits left.",
+        "note": "No must be followed by biscuits."
+      },
+      "right": {
+        "label": "None without a noun",
+        "example": "How many biscuits are left? None.",
+        "note": "None stands alone and means zero biscuits."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "We have no cash, but the café accepts cards.",
+      "note": "No goes before the uncountable noun cash."
+    },
+    {
+      "sentence": "The library does not have any copies of that novel.",
+      "note": "Not any expresses a zero quantity with a plural noun."
+    },
+    {
+      "sentence": "Is there any hot water? No, there is none.",
+      "note": "None replaces hot water without repeating the noun."
+    },
+    {
+      "sentence": "Our apartment has no balcony.",
+      "note": "No before a singular countable noun means not a balcony."
+    },
+    {
+      "sentence": "How many neighbours joined the meeting? None.",
+      "note": "None is a quantity answer even when the counted items are people."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "We do not have no batteries.",
+      "correct": "We do not have any batteries.",
+      "why": "In standard English, use any after a negative verb to mean zero batteries."
+    },
+    {
+      "incorrect": "The shop has none umbrellas.",
+      "correct": "The shop has no umbrellas.",
+      "why": "No, not none, comes directly before a noun."
+    },
+    {
+      "incorrect": "How many letters arrived? No.",
+      "correct": "How many letters arrived? None.",
+      "why": "Use none as a standalone zero-quantity answer."
+    },
+    {
+      "incorrect": "Who was at the door? None.",
+      "correct": "Who was at the door? No-one.",
+      "why": "A who question asks about people; no-one or nobody is the natural short answer."
+    }
+  ],
+  "studyTips": [
+    "Find the negative word first: if the verb is negative, any is usually the simplest choice.",
+    "Look after the blank: use no when a noun follows, but use none when the quantity stands alone.",
+    "Practise equivalent pairs aloud: “We have no cups” and “We do not have any cups”."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The desk drawer is empty. There are ___ pens inside.",
+      "choices": [
+        "no",
+        "none",
+        "any"
+      ],
+      "answerIndex": 0,
+      "feedback": "No must go before the plural noun pens when the verb are is positive."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "I checked the cupboard, but I could not find ___ clean mugs.",
+      "choices": [
+        "no",
+        "any",
+        "none"
+      ],
+      "answerIndex": 1,
+      "feedback": "Could not is already negative; any goes before clean mugs."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "How much petrol is left in the tank? ___ .",
+      "choices": [
+        "No",
+        "Not any",
+        "None"
+      ],
+      "answerIndex": 2,
+      "feedback": "None is a complete short answer meaning no petrol remains."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The small office has ___ printer, so we use one in the next room.",
+      "choices": [
+        "no",
+        "any",
+        "none"
+      ],
+      "answerIndex": 0,
+      "feedback": "No before the singular noun printer means that the office does not have a printer."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Use no or any: We do not have ___ ice in the freezer.",
+      "acceptedAnswers": [
+        "any"
+      ],
+      "feedback": "Do not have is a negative verb phrase, so use any."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Use no or none: We looked for spare seats, but there were ___.",
+      "acceptedAnswers": [
+        "none"
+      ],
+      "feedback": "None stands without a following noun and replaces spare seats."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Use no or any: There is ___ electricity in the cabin, so we use lanterns.",
+      "acceptedAnswers": [
+        "no"
+      ],
+      "feedback": "The verb is is positive; no before electricity expresses the absence of power."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Use no or none: How much luggage did the family bring? ___.",
+      "acceptedAnswers": [
+        "none"
+      ],
+      "feedback": "None answers a how much question without repeating luggage."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence by replacing no with any: The reception desk does not have no maps.",
+      "acceptedAnswers": [
+        "The reception desk does not have any maps.",
+        "The reception desk doesn't have any maps."
+      ],
+      "feedback": "A negative verb and any correctly express zero maps."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence by changing only the quantity word: We found none mistakes in the report.",
+      "acceptedAnswers": [
+        "We found no mistakes in the report."
+      ],
+      "feedback": "No, rather than none, comes directly before the plural noun mistakes."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the short answer: How much fuel is left? No.",
+      "acceptedAnswers": [
+        "How much fuel is left? None."
+      ],
+      "feedback": "None, not no, is a standalone answer to how much."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Keep the negative verb and correct the sentence: There are not no empty seats on this train.",
+      "acceptedAnswers": [
+        "There are not any empty seats on this train.",
+        "There aren't any empty seats on this train."
+      ],
+      "feedback": "Not any is the standard construction with the existing negative verb."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Change “There is not any pasta left” into a complete sentence with a positive verb and no.",
+      "acceptedAnswers": [
+        "There is no pasta left.",
+        "There's no pasta left."
+      ],
+      "feedback": "Use is with no pasta instead of is not with any pasta."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Answer “How many tickets are available?” using the complete sentence “There are none available.”",
+      "acceptedAnswers": [
+        "There are none available."
+      ],
+      "feedback": "None stands alone and means zero available tickets."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Change “The shop has no umbrellas” into a complete sentence with does not and any.",
+      "acceptedAnswers": [
+        "The shop does not have any umbrellas.",
+        "The shop doesn't have any umbrellas."
+      ],
+      "feedback": "Use does not have any with a plural noun."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The campsite has zero showers. Say one complete sentence beginning with 'The campsite' and using 'no' before the plural noun.",
+      "acceptedAnswers": [
+        "The campsite has no showers."
+      ],
+      "feedback": "Use a positive verb with no before the plural noun showers to express zero showers."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change 'There aren't any clean forks in the drawer' to a sentence beginning 'The drawer contains' and using 'no'.",
+      "acceptedAnswers": [
+        "The drawer contains no clean forks."
+      ],
+      "feedback": "Contains remains positive; no before clean forks gives the same zero quantity as aren't any."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your friend asks, 'How much change do you have for the parking meter?' You have zero. Reply in one complete sentence beginning 'I have', using 'none' without repeating 'change'.",
+      "acceptedAnswers": [
+        "I have none."
+      ],
+      "feedback": "None stands alone and means zero change; no would need a following noun."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the sign 'We don't have no parking spaces' into standard English. Keep 'don't have' and say the complete corrected sentence.",
+      "acceptedAnswers": [
+        "We don't have any parking spaces."
+      ],
+      "feedback": "A negative verb takes any, not no, when you mean that zero spaces are available."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "A vending machine has zero snacks. Tell your friend the problem and suggest going to the shop. Begin 'There are no snacks in the machine' and finish with 'so let's go to the shop'.",
+      "acceptedAnswers": [
+        "There are no snacks in the machine, so let's go to the shop."
+      ],
+      "feedback": "No comes directly before snacks; the second clause gives a natural suggestion."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "There were no empty tables when we arrived.",
+      "prompt": "Which sentence means the same as what you hear?",
+      "choices": [
+        "There were several empty tables.",
+        "There weren't any empty tables.",
+        "There was nobody working in the restaurant."
+      ],
+      "answerIndex": 1,
+      "feedback": "No empty tables and not any empty tables both mean zero free tables."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I asked for extra blankets, but the hotel had none.",
+      "prompt": "What did the hotel not have?",
+      "choices": [
+        "Any extra pillows",
+        "Any empty rooms",
+        "Any extra blankets"
+      ],
+      "answerIndex": 2,
+      "feedback": "None refers back to the extra blankets mentioned earlier."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "We brought three chairs, but none were needed.",
+      "prompt": "Type the single word that tells you how many of the chairs were needed.",
+      "acceptedAnswers": [
+        "none"
+      ],
+      "feedback": "None means zero of the three chairs were needed."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I wanted to print the tickets, but there was no paper in the printer.",
+      "prompt": "Why couldn't the speaker print the tickets?",
+      "choices": [
+        "The machine had run out of paper.",
+        "Someone else was using the printer.",
+        "The tickets had already been printed."
+      ],
+      "answerIndex": 0,
+      "feedback": "No paper means the printer had no paper available for printing."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "There are no trains to Rosehill on Sunday, so we'll take the bus instead.",
+      "prompt": "How will they travel to Rosehill on Sunday?",
+      "choices": [
+        "They will drive their own car.",
+        "They will travel by rail.",
+        "They will use a road-based public service."
+      ],
+      "answerIndex": 2,
+      "feedback": "With no trains running, the speakers plan to take a bus."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The kitchen has no eggs, but there are some apples on the table.",
+      "prompt": "Which description matches what the speaker says?",
+      "choices": [
+        "Neither fruit nor eggs are available.",
+        "Fruit is available, but eggs are not.",
+        "Eggs are available, but fruit is not."
+      ],
+      "answerIndex": 1,
+      "feedback": "No eggs means zero eggs; some apples shows that fruit is available."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "We didn't find any parking spaces near the hospital.",
+      "prompt": "Type the single quantity word immediately before 'parking spaces'.",
+      "acceptedAnswers": [
+        "any"
+      ],
+      "feedback": "Any follows didn't find to express that zero parking spaces were found."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I saved some cake for later, but none was left when I returned.",
+      "prompt": "Type the one word that tells how much cake remained.",
+      "acceptedAnswers": [
+        "none"
+      ],
+      "feedback": "None stands alone instead of repeating cake and means that no cake remained."
+    }
+  ]
+}

@@ -1,0 +1,399 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u032",
+  "title": "Should and Ought To: Advice",
+  "level": "A2",
+  "topicId": "should-ought-to-advice",
+  "summary": "Give positive and negative advice with should and shouldn't. Ask for an opinion with Do you think ... should ...? and use ought to as another way to recommend something.",
+  "learningObjectives": [
+    "Give a recommendation with should followed by a base verb.",
+    "Express negative advice with shouldn't or I don't think ... should ... .",
+    "Form questions asking for advice with Do you think ... should ...?",
+    "Recognise that must is stronger than should and form an equivalent recommendation with ought to."
+  ],
+  "explanation": [
+    {
+      "heading": "Should gives advice",
+      "body": "Use should + the base form of a verb to recommend an action or say that it is a good idea. Should does not change with the subject. Avoid to immediately after should and do not add -s to the main verb.",
+      "example": "You should charge your phone before the trip."
+    },
+    {
+      "heading": "Shouldn't gives negative advice",
+      "body": "Use shouldn't (should not) + base verb when you think an action is unwise. This is advice against doing something, not necessarily a rule that forbids it.",
+      "example": "You shouldn't carry so many bags at once."
+    },
+    {
+      "heading": "Giving and asking for opinions",
+      "body": "Use I think ... should ... to recommend something and I don't think ... should ... to advise against it. To ask for someone's opinion, use Do you think + subject + should + base verb? Keep statement word order after think: Do you think I should go?, not Do you think should I go?",
+      "example": "Do you think we should leave before the traffic gets busy?"
+    },
+    {
+      "heading": "Should, must and ought to",
+      "body": "Must often sounds stronger because it describes something important or necessary; should is a recommendation. Ought to + base verb is another way to give advice. Keep the to after ought, unlike should.",
+      "example": "The weather may change, so you ought to take a jacket."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Recommendation and stronger necessity",
+      "left": {
+        "label": "Should: good idea",
+        "example": "You should check the map before leaving.",
+        "note": "This is a useful recommendation."
+      },
+      "right": {
+        "label": "Must: necessary",
+        "example": "You must show your ticket at the entrance.",
+        "note": "Showing a ticket is a requirement."
+      }
+    },
+    {
+      "title": "Positive and negative advice",
+      "left": {
+        "label": "Should",
+        "example": "Leo should get some rest.",
+        "note": "Resting is recommended."
+      },
+      "right": {
+        "label": "Shouldn't",
+        "example": "Leo shouldn't stay awake all night.",
+        "note": "Staying awake all night is not recommended."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "You should make a list before going shopping.",
+      "note": "Should introduces practical advice."
+    },
+    {
+      "sentence": "I don't think we should take the car for such a short journey.",
+      "note": "I don't think ... should ... gives a negative recommendation."
+    },
+    {
+      "sentence": "Do you think I should ask for help with this box?",
+      "note": "The speaker asks another person for advice."
+    },
+    {
+      "sentence": "Visitors ought to bring comfortable shoes for the walk.",
+      "note": "Ought to is another way to make a recommendation."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "You should to ask the teacher.",
+      "correct": "You should ask the teacher.",
+      "why": "Use the base verb directly after should, without to."
+    },
+    {
+      "incorrect": "She shoulds eat more slowly.",
+      "correct": "She should eat more slowly.",
+      "why": "Should has the same form with every subject."
+    },
+    {
+      "incorrect": "Do you think should I take an umbrella?",
+      "correct": "Do you think I should take an umbrella?",
+      "why": "After Do you think, keep the order subject + should + verb."
+    },
+    {
+      "incorrect": "They ought bring extra water.",
+      "correct": "They ought to bring extra water.",
+      "why": "Ought is followed by to + base verb."
+    }
+  ],
+  "studyTips": [
+    "Practise advice in pairs: You should rest and You shouldn't work so late. Notice that the main verb does not change.",
+    "For questions beginning Do you think, say the subject before should: Do you think we should wait?",
+    "Compare should and must in the same situation to hear the difference between a suggestion and a requirement."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Your friend is tired after a long walk. Which sentence offers sensible advice?",
+      "choices": [
+        "You should to rest for a while.",
+        "You shoulds rest for a while.",
+        "You should rest for a while."
+      ],
+      "answerIndex": 2,
+      "feedback": "Should is followed directly by the base verb rest."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correctly formed sentence giving negative advice.",
+      "choices": [
+        "I don't think you should stay up late before your exam.",
+        "I don't think you should to stay up late before your exam.",
+        "I don't think should you stay up late before your exam."
+      ],
+      "answerIndex": 0,
+      "feedback": "I don't think + subject + should + base verb is the correct negative-advice pattern."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "You are uncertain whether to leave before the shop closes. Which question asks for advice?",
+      "choices": [
+        "Do you think should I leave now?",
+        "Do you think I should leave now?",
+        "Do you think I should to leave now?"
+      ],
+      "answerIndex": 1,
+      "feedback": "After Do you think, put I before should and use leave without to."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "You want to give a gentle recommendation, not a strict rule. Which sentence uses ought to correctly?",
+      "choices": [
+        "You ought taking a light jacket.",
+        "You mustn't take a light jacket.",
+        "You ought to take a light jacket."
+      ],
+      "answerIndex": 2,
+      "feedback": "Ought to + base verb gives a recommendation similar to should."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete using should: “You ___ check the opening hours before you leave.”",
+      "acceptedAnswers": [
+        "should"
+      ],
+      "feedback": "Should check makes a recommendation, followed by the base verb check."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete using shouldn't: “He ___ carry that heavy box alone. Someone can help.”",
+      "acceptedAnswers": [
+        "shouldn't",
+        "should not"
+      ],
+      "feedback": "Shouldn't carry advises against an unwise action."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete using ought to: “We ___ thank our neighbours for their help.”",
+      "acceptedAnswers": [
+        "ought to"
+      ],
+      "feedback": "Ought to thank is another way to recommend an action."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete using should: “Do you think I ___ invite our new colleague?”",
+      "acceptedAnswers": [
+        "should"
+      ],
+      "feedback": "In an embedded opinion question, use I should invite rather than should I invite."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “You should to call your parents more often.”",
+      "acceptedAnswers": [
+        "You should call your parents more often."
+      ],
+      "feedback": "Use the base verb call directly after should; remove to."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “I don't think she shoulds drive when she is this tired.”",
+      "acceptedAnswers": [
+        "I don't think she should drive when she is this tired."
+      ],
+      "feedback": "Should does not take -s with she."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “Do you think should we take another route?”",
+      "acceptedAnswers": [
+        "Do you think we should take another route?"
+      ],
+      "feedback": "After Do you think, use the order we should take."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “You ought carry some water on this walk.”",
+      "acceptedAnswers": [
+        "You ought to carry some water on this walk."
+      ],
+      "feedback": "The correct pattern is ought to + base verb."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Your friend is very tired. Give advice using 'should' and 'rest today'.",
+      "acceptedAnswers": [
+        "You should rest today."
+      ],
+      "feedback": "Should rest gives clear positive advice."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Advise someone against eating very quickly. Begin with 'I don't think you should'.",
+      "acceptedAnswers": [
+        "I don't think you should eat so quickly.",
+        "I do not think you should eat so quickly."
+      ],
+      "feedback": "I don't think you should eat expresses negative advice, not a prohibition."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Ask a friend for advice about buying this jacket. Begin with 'Do you think I should'.",
+      "acceptedAnswers": [
+        "Do you think I should buy this jacket?"
+      ],
+      "feedback": "Do you think + I should buy is the expected question pattern."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Your cousin has one afternoon in your town, and the park is beautiful. Recommend a visit. Start with 'You' and use 'should visit the park'.",
+      "acceptedAnswers": [
+        "You should visit the park."
+      ],
+      "feedback": "You should visit the park gives positive advice. Use should + base verb without to."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Say the same recommendation using 'ought to' instead of 'should': 'He should check the address before leaving.' Keep all the other words.",
+      "acceptedAnswers": [
+        "He ought to check the address before leaving."
+      ],
+      "feedback": "Ought to + check expresses advice similar to should check. Unlike should, ought is followed by to."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You and a friend are lost. Ask your friend whether the two of you should ask the guide for directions. Begin with 'Do you think' and use 'we should ask the guide for directions'.",
+      "acceptedAnswers": [
+        "Do you think we should ask the guide for directions?"
+      ],
+      "feedback": "After Do you think, keep statement word order: we should ask, not should we ask."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Someone says, 'You must wear a hat at the picnic.' But a hat is only recommended, not required. Correct the sentence using 'should' instead of 'must'; keep the other words.",
+      "acceptedAnswers": [
+        "You should wear a hat at the picnic."
+      ],
+      "feedback": "Should wear recommends a hat; must wear would communicate a much stronger necessity or requirement."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give two friends two short pieces of advice in this order: bring sunscreen, then avoid wearing new shoes. Start both sentences with 'You'. Use should in the first and shouldn't in the second.",
+      "acceptedAnswers": [
+        "You should bring sunscreen. You shouldn't wear new shoes.",
+        "You should bring sunscreen. You should not wear new shoes."
+      ],
+      "feedback": "Should bring recommends a good action; shouldn't wear advises against an unwise action. Both are advice, not absolute rules."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I don't think we should take the car. The station is very close.",
+      "prompt": "What does the speaker recommend?",
+      "choices": [
+        "They must take a car.",
+        "It is better not to take the car.",
+        "Using a car is forbidden."
+      ],
+      "answerIndex": 1,
+      "feedback": "I don't think we should take advises against taking the car."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "You ought to take your coat. It's cold outside.",
+      "prompt": "What is the speaker advising?",
+      "choices": [
+        "Take a coat because it is cold.",
+        "Leave your coat behind because it is warm.",
+        "Buy a new coat tomorrow."
+      ],
+      "answerIndex": 0,
+      "feedback": "Ought to take is a recommendation to bring the coat."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I think you should drink some water after the walk.",
+      "prompt": "Type the one-word modal used to give advice.",
+      "acceptedAnswers": [
+        "should"
+      ],
+      "feedback": "Should drink is a recommendation, not a strict rule."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The museum gets very busy in the afternoon. You should visit in the morning if you can.",
+      "prompt": "What time of day does the speaker recommend for a visit?",
+      "choices": [
+        "After the museum closes.",
+        "When the afternoon crowds arrive.",
+        "Earlier in the day."
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker recommends a morning visit because the museum is crowded later in the day."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I think Mia should call the dentist on Tuesday, not on Thursday, because Tuesday is quieter.",
+      "prompt": "When does the speaker suggest that Mia call?",
+      "choices": [
+        "Thursday.",
+        "Tuesday.",
+        "Saturday."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker thinks Tuesday is a better day for the call, not Thursday."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The sign says helmets are required for the ride. You must wear one, but you should also bring sunglasses.",
+      "prompt": "Which item is recommended but not required?",
+      "choices": [
+        "Sunglasses.",
+        "A helmet.",
+        "Both items."
+      ],
+      "answerIndex": 0,
+      "feedback": "A helmet is required: must wear one. Sunglasses are only advice: should also bring."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "You shouldn't use your phone while you cross the road, because it's distracting.",
+      "prompt": "Type the negative form of should used to advise against this action.",
+      "acceptedAnswers": [
+        "shouldn't",
+        "should not"
+      ],
+      "feedback": "Shouldn't use is negative advice. It means using your phone is unwise, not necessarily forbidden by a rule."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "You ought to check the time before you order a taxi tonight.",
+      "prompt": "Type the two-word expression used to give advice.",
+      "acceptedAnswers": [
+        "ought to"
+      ],
+      "feedback": "Ought to + check expresses a recommendation, just like should check."
+    }
+  ]
+}

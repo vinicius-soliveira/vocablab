@@ -1,0 +1,395 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u029",
+  "title": "Might and May: Possibility and Permission",
+  "level": "A2",
+  "topicId": "might-may-possibility-permission",
+  "summary": "Use might and may to describe things that are possible but not certain. Use May I ...? to ask politely for permission.",
+  "learningObjectives": [
+    "Build statements about uncertain events with might or may followed by a base verb.",
+    "Use might not or may not when something possibly will not happen.",
+    "Distinguish a possible plan from an arrangement that is already definite.",
+    "Ask for permission using May I followed by a base verb."
+  ],
+  "explanation": [
+    {
+      "heading": "Possibility with might",
+      "body": "Use might + the base form of a verb when an event is possible but you do not know whether it will happen. The form might does not change with the subject. Say she might travel, not she might travels or she might to travel. In a short reply, I might can stand alone when the action is already clear.",
+      "example": "We might visit the island on Sunday, but we have not decided."
+    },
+    {
+      "heading": "A possible negative event",
+      "body": "Use might not + base verb when it is possible that something will not happen. Might not is about uncertainty; it does not say that the event is definitely cancelled. Put not directly after might.",
+      "example": "Oliver might not finish his painting today."
+    },
+    {
+      "heading": "May expresses possibility too",
+      "body": "In statements about possibility, may + base verb often has the same meaning as might + base verb. May not is also possible. Do not add do, does or to after either modal. In this lesson, both choices describe something uncertain rather than an established plan.",
+      "example": "Our guests may arrive a little early."
+    },
+    {
+      "heading": "May I ...? asks for permission",
+      "body": "May I + base verb? is a polite way to ask whether you are allowed to do something. It has a different purpose from may in a possibility statement. Can I ...? is another common way to ask permission.",
+      "example": "May I leave my bag beside your desk?"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Possible plans and confirmed arrangements",
+      "left": {
+        "label": "Uncertain possibility",
+        "example": "I might meet Priya after work.",
+        "note": "Meeting Priya is only a possibility; nothing is confirmed."
+      },
+      "right": {
+        "label": "Confirmed arrangement",
+        "example": "I am meeting Priya at six.",
+        "note": "The speaker has arranged the meeting."
+      }
+    },
+    {
+      "title": "Possibility and permission with may",
+      "left": {
+        "label": "May = possible",
+        "example": "The shop may close early today.",
+        "note": "The speaker is uncertain about closing time."
+      },
+      "right": {
+        "label": "May I = permission",
+        "example": "May I take a chair?",
+        "note": "The speaker asks whether doing something is allowed."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "My aunt might come for lunch, but she has not called yet.",
+      "note": "Might expresses uncertainty about a visit."
+    },
+    {
+      "sentence": "This road may be busy after five.",
+      "note": "May describes a possible situation."
+    },
+    {
+      "sentence": "The bakery might not open tomorrow.",
+      "note": "Might not expresses a possible negative event."
+    },
+    {
+      "sentence": "May I look at your timetable for a moment?",
+      "note": "May I introduces a polite permission request."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "He might visits us on Thursday.",
+      "correct": "He might visit us on Thursday.",
+      "why": "After might, use the base form visit, not visits."
+    },
+    {
+      "incorrect": "We may to miss the train.",
+      "correct": "We may miss the train.",
+      "why": "May takes a base verb directly, without to."
+    },
+    {
+      "incorrect": "She might does not come tonight.",
+      "correct": "She might not come tonight.",
+      "why": "Put not immediately after might; do not add does."
+    },
+    {
+      "incorrect": "May I borrowing this book?",
+      "correct": "May I borrow this book?",
+      "why": "A permission question with May I takes the base verb borrow."
+    }
+  ],
+  "studyTips": [
+    "When a plan is uncertain, say a full sentence with might before the main verb, then compare it with a confirmed arrangement.",
+    "Practise might not and may not as two-word patterns; the next verb stays in its base form.",
+    "Listen for the difference between The café may open and May I open the window? The first expresses possibility; the second requests permission."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The group has not decided what to do on Sunday yet. “We ___ at the lake.”",
+      "choices": [
+        "are meeting",
+        "might meet",
+        "might to meet"
+      ],
+      "answerIndex": 1,
+      "feedback": "Might meet shows that meeting at the lake is possible, not arranged."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly says that Nora could possibly visit her cousin next month?",
+      "choices": [
+        "Nora may visit her cousin next month.",
+        "Nora may visits her cousin next month.",
+        "Nora may to visit her cousin next month."
+      ],
+      "answerIndex": 0,
+      "feedback": "May is followed by the base verb visit, without -s or to."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "You are uncertain whether Sami will attend dinner. Which sentence expresses the possibility that he will not?",
+      "choices": [
+        "Sami does not attend dinner.",
+        "Sami might not to attend dinner.",
+        "Sami might not attend dinner."
+      ],
+      "answerIndex": 2,
+      "feedback": "Might not attend means attending is uncertain and it is possible Sami will be absent."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correctly formed polite request for permission.",
+      "choices": [
+        "May I using your pencil?",
+        "May I borrow your pencil, please?",
+        "May borrow I your pencil, please?"
+      ],
+      "answerIndex": 1,
+      "feedback": "May I + base verb is the correct pattern for asking permission."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with might: “The delivery ___ arrive after lunch; the driver has not confirmed a time.”",
+      "acceptedAnswers": [
+        "might"
+      ],
+      "feedback": "Might indicates that the delivery time is uncertain."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with may: “It ___ not be warm enough for a picnic tomorrow.”",
+      "acceptedAnswers": [
+        "may"
+      ],
+      "feedback": "May not + base verb expresses a possible negative outcome."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete using the base form of be: “Lena might ___ late because the road is closed.”",
+      "acceptedAnswers": [
+        "be"
+      ],
+      "feedback": "Might is followed directly by the base verb be."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete using May: “___ I ask one more question, please?”",
+      "acceptedAnswers": [
+        "May"
+      ],
+      "feedback": "May I introduces a polite request for permission."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “My brother might goes to the museum tomorrow.”",
+      "acceptedAnswers": [
+        "My brother might go to the museum tomorrow."
+      ],
+      "feedback": "After might, use the base form go; the verb does not take -s."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “The parcel might not to arrive today.”",
+      "acceptedAnswers": [
+        "The parcel might not arrive today."
+      ],
+      "feedback": "After might not, use the base form arrive without to."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “May I to open the door?”",
+      "acceptedAnswers": [
+        "May I open the door?"
+      ],
+      "feedback": "May I is followed directly by the base verb open."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “They may don’t come to dinner tonight.”",
+      "acceptedAnswers": [
+        "They may not come to dinner tonight."
+      ],
+      "feedback": "Use may not + base verb for negative possibility, without does or doesn’t."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say that visiting your grandparents this weekend is possible, using “might”.",
+      "acceptedAnswers": [
+        "I might visit my grandparents this weekend."
+      ],
+      "feedback": "Might + visit communicates an uncertain plan."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say that your neighbour possibly will not be at home tonight, using “might not”.",
+      "acceptedAnswers": [
+        "My neighbour might not be at home tonight."
+      ],
+      "feedback": "Might not be expresses the possibility of someone being absent."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Ask politely for permission to use the computer. Begin with “May I”.",
+      "acceptedAnswers": [
+        "May I use the computer?"
+      ],
+      "feedback": "May I + use asks whether you have permission to use the computer."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Make one complete sentence from these cues about an uncertain event: The museum / may / close / early / tomorrow.",
+      "acceptedAnswers": [
+        "The museum may close early tomorrow."
+      ],
+      "feedback": "May is followed by the base verb close to express an uncertain possibility."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this sentence to an uncertain negative using might not. Keep the other words: “The ferry might leave at six.”",
+      "acceptedAnswers": [
+        "The ferry might not leave at six."
+      ],
+      "feedback": "Put not immediately after might, followed by the base verb leave."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks, “Will the train arrive before eight?” The time is not confirmed, but an early arrival is possible. Reply in one sentence beginning “The train might” and include “before eight”.",
+      "acceptedAnswers": [
+        "The train might arrive before eight."
+      ],
+      "feedback": "Might arrive describes a possible arrival rather than a definite one."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this sentence without changing its meaning: “My cousins may to arrive late.”",
+      "acceptedAnswers": [
+        "My cousins may arrive late."
+      ],
+      "feedback": "May takes the base verb arrive directly, without to."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You are discussing Saturday’s beach trip. Say two short sentences, in this order: it may rain on Saturday, and you might stay home. Begin with “It may” and then “We might”.",
+      "acceptedAnswers": [
+        "It may rain on Saturday. We might stay home."
+      ],
+      "feedback": "May rain and might stay both describe possibilities, not confirmed plans."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We might stay in the village for another night.",
+      "prompt": "What is possible according to the speaker?",
+      "choices": [
+        "They may stay an extra night.",
+        "They will certainly leave tonight.",
+        "They have already booked a full week."
+      ],
+      "answerIndex": 0,
+      "feedback": "Might stay means staying for another night is possible, not certain."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "May I take this seat, please?",
+      "prompt": "What is the speaker doing?",
+      "choices": [
+        "Describing an uncertain journey.",
+        "Predicting that a seat will be empty.",
+        "Politely asking permission to sit down."
+      ],
+      "answerIndex": 2,
+      "feedback": "May I take asks whether taking the seat is allowed."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Ella might not bring her bicycle tomorrow.",
+      "prompt": "Type the two-word expression that shows a negative possibility.",
+      "acceptedAnswers": [
+        "might not"
+      ],
+      "feedback": "Might not expresses that Ella possibly will not bring her bicycle."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I may take the earlier train, but I haven't bought a ticket yet.",
+      "prompt": "How certain is the speaker’s travel plan?",
+      "choices": [
+        "The journey has been cancelled.",
+        "The plan is still undecided.",
+        "The ticket is already booked."
+      ],
+      "answerIndex": 1,
+      "feedback": "May and the fact that no ticket has been bought show that the plan is not certain."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The garden party might start at four, but the organiser hasn't confirmed the time.",
+      "prompt": "What information is still uncertain?",
+      "choices": [
+        "Where the event will be held.",
+        "Who is organising the event.",
+        "When the event will begin."
+      ],
+      "answerIndex": 2,
+      "feedback": "The proposed starting time has not been confirmed, so it remains uncertain."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "May I borrow the blue folder for a few minutes, please?",
+      "prompt": "What is the speaker trying to do?",
+      "choices": [
+        "Ask for permission to use an item.",
+        "Predict when an item will arrive.",
+        "Explain how an item works."
+      ],
+      "answerIndex": 0,
+      "feedback": "May I introduces a polite request for permission rather than an uncertain prediction."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The weather looks bad, so our flight may not leave on time.",
+      "prompt": "Listen and type only the two-word modal expression immediately before “leave”.",
+      "acceptedAnswers": [
+        "may not"
+      ],
+      "feedback": "May not expresses the possibility that the flight will not depart on time."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I might go with them if I finish my homework early.",
+      "prompt": "Type only the one-word modal immediately before “go”.",
+      "acceptedAnswers": [
+        "might"
+      ],
+      "feedback": "Might shows that joining the others is possible, not certain."
+    }
+  ]
+}

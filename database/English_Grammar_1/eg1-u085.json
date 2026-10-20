@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u085",
+  "title": "Adjectives: Describing People and Things",
+  "level": "A1",
+  "topicId": "adjectives-position-and-form",
+  "summary": "Use adjectives to describe people and things. Put them before nouns or after be and verbs such as look, feel, smell, taste and sound.",
+  "learningObjectives": [
+    "Place an adjective before the noun it describes.",
+    "Keep adjectives in the same form with singular and plural nouns.",
+    "Use adjectives after forms of be to describe a subject.",
+    "Use an adjective after look, feel, smell, taste and sound when describing the subject."
+  ],
+  "explanation": [
+    {
+      "heading": "An adjective describes a noun",
+      "body": "Adjectives give information about people, places and things: size, colour, condition or opinion. When an adjective goes with a noun, it usually comes before that noun. It can follow a or an and other determiners.",
+      "example": "We found a quiet café near the river."
+    },
+    {
+      "heading": "Adjectives do not change for plural nouns",
+      "body": "Use the same adjective with one item or several items. Do not add -s to an adjective because the noun is plural: one empty box and three empty boxes.",
+      "example": "The shop sells bright umbrellas."
+    },
+    {
+      "heading": "Put adjectives after be",
+      "body": "An adjective can describe the subject after am, is, are, was or were. In this pattern, you do not need to put a noun after the adjective. For example, the room is warm, and the guests are happy.",
+      "example": "The seats were comfortable on the long journey."
+    },
+    {
+      "heading": "Use adjectives after look and feel",
+      "body": "After look and feel, use an adjective to describe how somebody or something seems or feels. These verbs connect the subject to its description; they do not tell us how someone performs an action.",
+      "example": "You look relaxed, and I feel calm."
+    },
+    {
+      "heading": "Use adjectives after sound, smell and taste",
+      "body": "Sound, smell and taste can also introduce a description of the subject. Say the music sounds beautiful, the flowers smell lovely and the fruit tastes sweet. The adjective describes the music, flowers or fruit.",
+      "example": "That plan sounds sensible to me."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Before a noun or after be",
+      "left": {
+        "label": "Before a noun",
+        "example": "We bought a soft blanket.",
+        "note": "Soft comes before the noun blanket."
+      },
+      "right": {
+        "label": "After be",
+        "example": "The blanket is soft.",
+        "note": "Soft describes the subject after is."
+      }
+    },
+    {
+      "title": "A description with a linking verb",
+      "left": {
+        "label": "Look + adjective",
+        "example": "The garden looks peaceful.",
+        "note": "Peaceful describes the garden."
+      },
+      "right": {
+        "label": "Smell + adjective",
+        "example": "The garden smells fresh.",
+        "note": "Fresh describes the smell of the garden."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The bakery sells warm bread every morning.",
+      "note": "Warm is an adjective before the noun bread."
+    },
+    {
+      "sentence": "We packed two heavy suitcases.",
+      "note": "Heavy does not change when the noun is plural."
+    },
+    {
+      "sentence": "The meeting room is quiet today.",
+      "note": "Quiet describes a subject after is."
+    },
+    {
+      "sentence": "My cousin looks tired after work.",
+      "note": "Tired describes how my cousin appears."
+    },
+    {
+      "sentence": "The orange juice tastes sour.",
+      "note": "Sour describes the taste after tastes."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "She bought a jacket blue.",
+      "correct": "She bought a blue jacket.",
+      "why": "An adjective normally comes before the noun it describes."
+    },
+    {
+      "incorrect": "We bought two heavies bags.",
+      "correct": "We bought two heavy bags.",
+      "why": "The adjective heavy stays unchanged before the plural noun bags."
+    },
+    {
+      "incorrect": "The children are happys.",
+      "correct": "The children are happy.",
+      "why": "An adjective does not take -s for a plural subject."
+    },
+    {
+      "incorrect": "This perfume smells nicely.",
+      "correct": "This perfume smells nice.",
+      "why": "After smells, use an adjective to describe the perfume."
+    }
+  ],
+  "studyTips": [
+    "Practise each adjective in two positions: a quiet room / the room is quiet.",
+    "Remember that a plural noun does not change an adjective: a clean plate / clean plates.",
+    "With look, feel, sound, smell and taste, ask what is being described. If it is the subject, use an adjective."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct description: We stayed in a ___ hotel.",
+      "choices": [
+        "comfortable",
+        "comfortably",
+        "comfort"
+      ],
+      "answerIndex": 0,
+      "feedback": "Comfortable is an adjective; it describes the noun hotel."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the word that completes the sentence: The fresh bread smells ___.",
+      "choices": [
+        "wonderfully",
+        "wonder",
+        "wonderful"
+      ],
+      "answerIndex": 2,
+      "feedback": "After smells, use the adjective wonderful to describe the bread."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct sentence.",
+      "choices": [
+        "My parents are busys.",
+        "My parents are busy.",
+        "My parents are busily."
+      ],
+      "answerIndex": 1,
+      "feedback": "Busy is an adjective after are. It has no plural -s or adverb ending."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the word that completes the sentence: We saw three ___ birds in the garden.",
+      "choices": [
+        "colourfully",
+        "colourful",
+        "colourfulness"
+      ],
+      "answerIndex": 1,
+      "feedback": "Colourful is an adjective that describes the plural noun birds; its form stays the same."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with the adjective 'bright': The kitchen is ___ in the morning.",
+      "acceptedAnswers": [
+        "bright"
+      ],
+      "feedback": "An adjective can follow is to describe the kitchen."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with the adjective 'green': There are two ___ bicycles outside.",
+      "acceptedAnswers": [
+        "green"
+      ],
+      "feedback": "Green comes before the plural noun bicycles and does not take -s."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with the adjective 'tired': I feel ___ after the long walk.",
+      "acceptedAnswers": [
+        "tired"
+      ],
+      "feedback": "Feel is followed by an adjective describing the speaker."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the adjective 'interesting': Your story sounds ___.",
+      "acceptedAnswers": [
+        "interesting"
+      ],
+      "feedback": "Sounds connects the subject, your story, to its description."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We live in a house large.",
+      "acceptedAnswers": [
+        "We live in a large house."
+      ],
+      "feedback": "The adjective large belongs before the noun house."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Their winter coats are reds.",
+      "acceptedAnswers": [
+        "Their winter coats are red."
+      ],
+      "feedback": "Red stays the same after are, even with plural coats."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The soup tastes deliciously.",
+      "acceptedAnswers": [
+        "The soup tastes delicious."
+      ],
+      "feedback": "Tastes takes an adjective when it describes the soup."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Our new manager is patiently.",
+      "acceptedAnswers": [
+        "Our new manager is patient."
+      ],
+      "feedback": "Use the adjective patient after is; patiently is an adverb."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say the corrected complete sentence: 'They have two blues bags.'",
+      "acceptedAnswers": [
+        "They have two blue bags."
+      ],
+      "feedback": "Blue is an adjective and has no plural -s."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Complete the sentence aloud using the adjective 'comfortable': 'That chair looks ___.'",
+      "acceptedAnswers": [
+        "That chair looks comfortable."
+      ],
+      "feedback": "Looks links the chair to the adjective comfortable."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Make a complete sentence in this order: 'a / friendly / neighbour / We / have'.",
+      "acceptedAnswers": [
+        "We have a friendly neighbour."
+      ],
+      "feedback": "Friendly is an adjective placed before neighbour."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Three puppies are playful. Say one complete sentence beginning 'The three puppies' and ending 'are playful'.",
+      "acceptedAnswers": [
+        "The three puppies are playful."
+      ],
+      "feedback": "Playful is an adjective after are. Its form does not change for a plural subject."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change 'The room is very quiet' to a sentence beginning 'It is a' and ending 'room'. Keep 'very quiet'.",
+      "acceptedAnswers": [
+        "It is a very quiet room."
+      ],
+      "feedback": "The adjective phrase very quiet comes before the noun room when you use it as a noun description."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks how the tea tastes. It is bitter. Reply with one sentence beginning 'The tea' and using 'tastes'.",
+      "acceptedAnswers": [
+        "The tea tastes bitter."
+      ],
+      "feedback": "After tastes, the adjective bitter describes the tea, not an action."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Someone says, 'The new pillows feel softly.' Correct the last word and say the whole sentence.",
+      "acceptedAnswers": [
+        "The new pillows feel soft."
+      ],
+      "feedback": "Use the adjective soft after feel when it describes the pillows."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Your new backpack is light and looks strong. Say exactly two short sentences. Begin the first with 'My backpack is' and the second with 'It looks'.",
+      "acceptedAnswers": [
+        "My backpack is light. It looks strong."
+      ],
+      "feedback": "Light follows is, and strong follows looks; both adjectives describe the backpack."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "My new trainers are light.",
+      "prompt": "Which word describes the trainers?",
+      "choices": [
+        "light",
+        "lightly",
+        "lightness"
+      ],
+      "answerIndex": 0,
+      "feedback": "Light is the adjective you hear after are; it describes the trainers."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The evening air smells fresh.",
+      "prompt": "Which word follows smells in the recording?",
+      "choices": [
+        "freshly",
+        "freshness",
+        "fresh"
+      ],
+      "answerIndex": 2,
+      "feedback": "Fresh is the adjective heard after the linking verb smells."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The plates are clean and ready to use.",
+      "prompt": "Type the adjective you hear immediately after are.",
+      "acceptedAnswers": [
+        "clean"
+      ],
+      "feedback": "Clean describes the plates after are."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The little boy looked afraid when the big dog barked.",
+      "prompt": "How did the boy seem to feel?",
+      "choices": [
+        "Hungry",
+        "Scared",
+        "Proud"
+      ],
+      "answerIndex": 1,
+      "feedback": "Looked afraid means he seemed scared; afraid describes the boy's feeling."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The blue container on the top shelf is empty, but the green container below is full.",
+      "prompt": "Which container has something inside?",
+      "choices": [
+        "The one on the top shelf",
+        "Neither container",
+        "The one on the lower shelf"
+      ],
+      "answerIndex": 2,
+      "feedback": "The lower container is full, while the one above it is empty."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The flowers smell lovely, but the old milk smells bad.",
+      "prompt": "What is different about the two smells?",
+      "choices": [
+        "Only one is pleasant.",
+        "Both are pleasant.",
+        "Neither is pleasant."
+      ],
+      "answerIndex": 0,
+      "feedback": "The flowers have a pleasant smell; the old milk does not. Lovely and bad are adjectives after smell."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "We sat in a quiet corner at the busy airport.",
+      "prompt": "Type the adjective you hear immediately before 'corner'.",
+      "acceptedAnswers": [
+        "quiet"
+      ],
+      "feedback": "Quiet describes the corner and comes before the noun."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "My neighbour's garden looks beautiful in spring.",
+      "prompt": "Type the describing word you hear immediately after 'looks'.",
+      "acceptedAnswers": [
+        "beautiful"
+      ],
+      "feedback": "Beautiful describes the garden after the linking verb looks."
+    }
+  ]
+}

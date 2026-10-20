@@ -1,0 +1,407 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u109",
+  "title": "Where Things Are: Position Prepositions",
+  "level": "A2",
+  "topicId": "position-prepositions",
+  "summary": "Describe where a person or object is in relation to others. Use prepositions for positions beside, between, behind, opposite, above and below something.",
+  "learningObjectives": [
+    "Describe neighbouring positions using next to, beside, between and by.",
+    "Distinguish in front of, behind and opposite when describing arrangements and facing positions.",
+    "Use under, above and below to describe vertical relationships.",
+    "Describe a position using on the left, on the right and in the middle."
+  ],
+  "explanation": [
+    {
+      "heading": "Next to, beside and between",
+      "body": "Next to and beside both describe two things close together. Use between when someone or something is in the space separating two people or things: between the chairs, or between Kim and Leo. Do not add to after between.",
+      "example": "The bicycle is between the green car and the gate."
+    },
+    {
+      "heading": "In front of, behind and opposite",
+      "body": "In front of means further forward than another thing; behind means at its back. Opposite means facing or located across from something, often with a road, table or open space between. A person in front of you may face away from you, while someone opposite you is across from you.",
+      "example": "Two friends sat opposite each other across the table."
+    },
+    {
+      "heading": "By: close beside",
+      "body": "By can mean next to or beside when it names a place or object: by the window, by the river or by the door. It describes closeness rather than a direction of travel.",
+      "example": "We sat by the window and watched the rain."
+    },
+    {
+      "heading": "Under, above and below",
+      "body": "Under locates something beneath another object, often with that object directly over it. Above means higher than, and below means lower than. Above and below do not have to describe objects touching or covering each other.",
+      "example": "A small cupboard is below the kitchen window."
+    },
+    {
+      "heading": "Left, right and middle",
+      "body": "Use on the left and on the right to place people or objects at the sides of a group, picture or road. Use in the middle (of something) for a central position. These phrases work well when giving clear directions or describing a drawing.",
+      "example": "The red chair is in the middle of the row."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "In front of or opposite?",
+      "left": {
+        "label": "In front of",
+        "example": "A van is parked in front of the shop.",
+        "note": "The van is further forward than the shop; facing is not the main idea."
+      },
+      "right": {
+        "label": "Opposite",
+        "example": "The bank is opposite the shop.",
+        "note": "The bank is on the other side, facing the shop."
+      }
+    },
+    {
+      "title": "Above or below?",
+      "left": {
+        "label": "Above",
+        "example": "The clock is above the doorway.",
+        "note": "The clock is higher than the doorway."
+      },
+      "right": {
+        "label": "Below",
+        "example": "The shoe rack is below the mirror.",
+        "note": "The rack is lower than the mirror."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The pharmacy is next to the flower shop.",
+      "note": "Next to shows that the two shops are neighbours."
+    },
+    {
+      "sentence": "My desk is between the window and the bookcase.",
+      "note": "Between names two things on either side."
+    },
+    {
+      "sentence": "The cinema is opposite the bus station.",
+      "note": "Opposite describes locations facing one another."
+    },
+    {
+      "sentence": "Our dog sleeps under the kitchen table.",
+      "note": "Under identifies a position beneath the table."
+    },
+    {
+      "sentence": "The smaller painting is on the right.",
+      "note": "On the right locates something at the side of a group."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The bench is in front the library.",
+      "correct": "The bench is in front of the library.",
+      "why": "The full preposition is in front of."
+    },
+    {
+      "incorrect": "The chair is between the sofa to the window.",
+      "correct": "The chair is between the sofa and the window.",
+      "why": "Use between X and Y for two reference points."
+    },
+    {
+      "incorrect": "The lights are above of the stage.",
+      "correct": "The lights are above the stage.",
+      "why": "Do not add of after above."
+    },
+    {
+      "incorrect": "The singer is on the middle of the group.",
+      "correct": "The singer is in the middle of the group.",
+      "why": "Use in the middle, not on the middle."
+    }
+  ],
+  "studyTips": [
+    "Draw three boxes in a row and label them to practise next to, between, on the left and on the right.",
+    "Imagine two people at a table: beside means next to someone; opposite means across from them.",
+    "Learn in front of as a three-word preposition, not just in front."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: Mia stands ___ her two brothers, one on each side of her.",
+      "choices": [
+        "between",
+        "behind",
+        "opposite"
+      ],
+      "answerIndex": 0,
+      "feedback": "Between is used when Mia is in the space separating her two brothers."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: The shed is ___ the house, on the side away from the street.",
+      "choices": [
+        "opposite",
+        "behind",
+        "above"
+      ],
+      "answerIndex": 1,
+      "feedback": "Behind places the shed at the back of the house."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: A light is hanging from the ceiling ___ the dining table.",
+      "choices": [
+        "under",
+        "below",
+        "above"
+      ],
+      "answerIndex": 2,
+      "feedback": "Above means higher than the dining table."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: They are facing each other across the table, so they are sitting ___ each other.",
+      "choices": [
+        "opposite",
+        "beside",
+        "behind"
+      ],
+      "answerIndex": 0,
+      "feedback": "People facing each other across a table are sitting opposite each other."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: The kitchen is ___ the bedroom and the bathroom, with one room on either side.",
+      "acceptedAnswers": [
+        "between"
+      ],
+      "feedback": "Between identifies the central position relative to two rooms."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: The bicycle is parked ___ the garage, on the side away from the road.",
+      "acceptedAnswers": [
+        "behind"
+      ],
+      "feedback": "Behind means at the back of the garage."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: The shoes are ___ the bed, directly beneath it.",
+      "acceptedAnswers": [
+        "under"
+      ],
+      "feedback": "Under describes a position directly beneath something."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: In the group photo, Daniel is ___ the middle, not at either side.",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "feedback": "The fixed phrase for a central position is in the middle."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The bench is in front the fountain.",
+      "acceptedAnswers": [
+        "The bench is in front of the fountain."
+      ],
+      "feedback": "Use the complete phrase in front of."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: There is a chair between the desk and to the window.",
+      "acceptedAnswers": [
+        "There is a chair between the desk and the window."
+      ],
+      "feedback": "The pattern is between one thing and another, without to."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The garage is in behind the house.",
+      "acceptedAnswers": [
+        "The garage is behind the house."
+      ],
+      "feedback": "Behind takes a noun directly; do not add in."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The clock hangs above of the doorway.",
+      "acceptedAnswers": [
+        "The clock hangs above the doorway."
+      ],
+      "feedback": "Above is followed directly by the noun phrase, without of."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say the complete sentence using by, meaning beside: 'The reading lamp is ___ the armchair.'",
+      "acceptedAnswers": [
+        "The reading lamp is by the armchair."
+      ],
+      "feedback": "By means next to or beside."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say the complete sentence using behind: 'The garage is ___ the house, away from the street.'",
+      "acceptedAnswers": [
+        "The garage is behind the house, away from the street."
+      ],
+      "feedback": "Behind locates the garage at the back of the house."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Correct this sentence aloud: 'The bench is in front the pond.'",
+      "acceptedAnswers": [
+        "The bench is in front of the pond."
+      ],
+      "feedback": "The phrase in front of always includes of."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "In a picture, a landscape is on the left, a portrait is on the right, and a small clock is in the space between them. Say where the clock is in one sentence beginning 'The small clock'. Use between.",
+      "acceptedAnswers": [
+        "The small clock is between the landscape and the portrait.",
+        "The small clock is between the portrait and the landscape."
+      ],
+      "feedback": "Use between followed by the two objects on either side of the clock. Either order of those objects is correct."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change the position in this sentence from behind to in front of, and say the complete new sentence: 'The plant is behind the sofa.'",
+      "acceptedAnswers": [
+        "The plant is in front of the sofa."
+      ],
+      "feedback": "In front of is a three-word expression meaning that the plant is ahead of the sofa, not behind it."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A customer asks where the tickets are. They are directly beneath the keyboard. Reply in one sentence beginning 'The tickets' and use under.",
+      "acceptedAnswers": [
+        "The tickets are under the keyboard.",
+        "The tickets are directly under the keyboard."
+      ],
+      "feedback": "Under places the tickets beneath the keyboard; directly under adds precision without changing the position."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Your friend says the library is beside the supermarket, but the two buildings face each other across the road. Correct the description using opposite. Begin 'The library'.",
+      "acceptedAnswers": [
+        "The library is opposite the supermarket."
+      ],
+      "feedback": "Opposite means on the other side, facing something. Beside would mean next to it."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "A photo shows three dancers in one row. Ella is at the left side and Max is in the centre. Give two short sentences in that order, starting with 'Ella' and 'Max'. Use on the left and in the middle.",
+      "acceptedAnswers": [
+        "Ella is on the left. Max is in the middle.",
+        "Ella is on the left, and Max is in the middle."
+      ],
+      "feedback": "Say on the left for a side position and in the middle for the central position."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "My seat is between Ruby and Noah.",
+      "prompt": "Where is the speaker’s seat?",
+      "choices": [
+        "Behind Ruby and Noah.",
+        "Between Ruby and Noah.",
+        "Opposite Ruby."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker says between Ruby and Noah, indicating a place in the middle."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "There is a small box under the kitchen chair.",
+      "prompt": "Where is the box?",
+      "choices": [
+        "On the chair.",
+        "Next to the chair.",
+        "Under the chair."
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker says under the kitchen chair."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The pharmacy is opposite the bakery.",
+      "prompt": "Type the position word you hear before “the bakery”.",
+      "acceptedAnswers": [
+        "opposite"
+      ],
+      "feedback": "Opposite describes the pharmacy across from the bakery."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The post office faces the bank across a narrow street.",
+      "prompt": "Where are the two buildings in relation to one another?",
+      "choices": [
+        "Across from each other.",
+        "Next to each other on the same side.",
+        "One directly behind the other."
+      ],
+      "answerIndex": 0,
+      "feedback": "The buildings face each other across a street, so they are opposite each other."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I put the blue folder on a shelf directly below the red box.",
+      "prompt": "Where should someone look for the blue folder?",
+      "choices": [
+        "Inside the red box.",
+        "On a shelf higher than the red box.",
+        "On a shelf beneath the red box."
+      ],
+      "answerIndex": 2,
+      "feedback": "Below means at a lower position, so the folder is on a shelf beneath the box."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Mila stood in front of the stage, but Tom waited behind it.",
+      "prompt": "How do Mila's and Tom's positions differ?",
+      "choices": [
+        "They are both standing at the back of the stage.",
+        "One is at the front and the other is at the back.",
+        "They are facing each other across a road."
+      ],
+      "answerIndex": 1,
+      "feedback": "In front of and behind describe different sides of the stage."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "A small bench stands beside the garden gate.",
+      "prompt": "Type the one position word you hear directly after 'stands'.",
+      "acceptedAnswers": [
+        "beside"
+      ],
+      "feedback": "Beside means next to, describing the bench's position near the gate."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The small picture hangs below the large photograph.",
+      "prompt": "Type the position word you hear immediately before 'the large photograph'.",
+      "acceptedAnswers": [
+        "below"
+      ],
+      "feedback": "Below means lower than; it does not require the two objects to touch."
+    }
+  ]
+}

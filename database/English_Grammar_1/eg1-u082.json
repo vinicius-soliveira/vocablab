@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u082",
+  "title": "Both, Either and Neither",
+  "level": "A2",
+  "topicId": "both-either-neither-two",
+  "summary": "Choose both when you mean two together, either when one of two is possible, and neither when both are excluded. Use the correct singular or plural noun form and refer clearly to a known pair.",
+  "learningObjectives": [
+    "Choose both, either or neither according to the meaning of a statement about two.",
+    "Use both with plural nouns and either or neither with singular nouns.",
+    "Form both of, either of and neither of with determiners and pronouns.",
+    "Use either, not neither, after a negative verb when rejecting both choices."
+  ],
+  "explanation": [
+    {
+      "heading": "Three ways to talk about two",
+      "body": "Both includes the two people or things. Either means one or the other is possible; it does not matter which. Neither means not the first and not the second. These meanings apply when there are exactly two choices or members in the group.",
+      "example": "Neither of the two bags is heavy."
+    },
+    {
+      "heading": "Choose singular or plural nouns",
+      "body": "Use both before a plural noun: both doors. Use either and neither before a singular noun: either door, neither door. With either and neither followed directly by a singular noun, use a singular verb.",
+      "example": "Either entrance leads to the garden."
+    },
+    {
+      "heading": "Use of with a defined pair",
+      "body": "Before the, these or a possessive, both can take of or omit it: both the cups and both of the cups. Either and neither need of before these words when referring to members of a pair: either of these cups, neither of my sisters.",
+      "example": "Both of those jackets are warm."
+    },
+    {
+      "heading": "Use of with pronouns",
+      "body": "When the pair is referred to by them, us or you, include of: both of them, either of us, neither of you. In careful elementary writing, a singular verb is a clear choice after either of or neither of; a plural noun follows of because the group contains two members.",
+      "example": "Neither of us is ready to leave."
+    },
+    {
+      "heading": "Avoid a double negative",
+      "body": "In standard English, use not + either when you reject both possibilities. You can also make a positive-form sentence with neither. Do not combine not and neither to express a single negative meaning.",
+      "example": "I don't want either dessert."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Either gives a choice; neither rejects the pair",
+      "left": {
+        "label": "Either",
+        "example": "Either chair is comfortable.",
+        "note": "The first chair or the second chair is acceptable."
+      },
+      "right": {
+        "label": "Neither",
+        "example": "Neither chair is comfortable.",
+        "note": "The first chair and the second chair are both uncomfortable."
+      }
+    },
+    {
+      "title": "Both with a plural noun; either with a singular noun",
+      "left": {
+        "label": "Both + plural",
+        "example": "Both paths are short.",
+        "note": "The statement is true of the two paths."
+      },
+      "right": {
+        "label": "Either + singular",
+        "example": "Either path is short enough.",
+        "note": "You can choose one path or the other."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Both our dogs like swimming.",
+      "note": "Both + plural noun includes the two dogs."
+    },
+    {
+      "sentence": "Either Saturday or Sunday is fine for a visit.",
+      "note": "Either ... or ... presents two acceptable alternatives."
+    },
+    {
+      "sentence": "Neither ticket includes breakfast.",
+      "note": "Neither + singular noun excludes both tickets."
+    },
+    {
+      "sentence": "I have not opened either of these envelopes.",
+      "note": "Not ... either of rejects both members of the specified pair."
+    },
+    {
+      "sentence": "Both of them work in the same building.",
+      "note": "Of them refers to two people already mentioned."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Both jacket are black.",
+      "correct": "Both jackets are black.",
+      "why": "Use a plural noun after both."
+    },
+    {
+      "incorrect": "Either buses goes to the museum.",
+      "correct": "Either bus goes to the museum.",
+      "why": "Use a singular noun after either when referring to one of two."
+    },
+    {
+      "incorrect": "Neither my two brothers has a car.",
+      "correct": "Neither of my two brothers has a car.",
+      "why": "Use neither of before a possessive phrase that identifies the pair."
+    },
+    {
+      "incorrect": "I don't need neither umbrella.",
+      "correct": "I don't need either umbrella.",
+      "why": "In standard English, use not ... either rather than not ... neither."
+    }
+  ],
+  "studyTips": [
+    "Draw two circles: shade both for both, show one possible choice for either, and cross out the two for neither.",
+    "Check noun number: both tickets, either ticket, neither ticket. Then practise both of them, either of them and neither of them.",
+    "When a sentence already has do not, practise replacing neither with either."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: ___ keys open this lock; I tested the two keys.",
+      "choices": [
+        "Both",
+        "Either",
+        "Neither"
+      ],
+      "answerIndex": 0,
+      "feedback": "Both takes the plural noun keys and says that the two keys work."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: There are two lifts, and ___ lift goes to the ground floor.",
+      "choices": [
+        "both",
+        "either",
+        "neither of"
+      ],
+      "answerIndex": 1,
+      "feedback": "Either + singular noun shows that either of the two lifts is possible."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: Both codes have expired, so ___ code works now.",
+      "choices": [
+        "both",
+        "either",
+        "neither"
+      ],
+      "answerIndex": 2,
+      "feedback": "Neither + singular noun means that neither expired code works."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: ___ my two teammates came to training; one was ill and the other was working.",
+      "choices": [
+        "Neither of",
+        "Both of",
+        "Either of"
+      ],
+      "answerIndex": 0,
+      "feedback": "Neither of selects zero members of the named pair; neither teammate attended."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with 'both' or 'either': I own two bicycles, and ___ bicycles are blue.",
+      "acceptedAnswers": [
+        "both"
+      ],
+      "feedback": "Both goes with the plural noun bicycles when the statement is true of two."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with 'either' or 'both': You can sit in ___ seat; both seats are free.",
+      "acceptedAnswers": [
+        "either"
+      ],
+      "feedback": "Either goes with singular seat and offers a choice of two."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with 'neither' or 'both': ___ of the two answers is correct; the teacher marked both wrong.",
+      "acceptedAnswers": [
+        "Neither"
+      ],
+      "feedback": "Neither of the two answers means zero correct answers."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with 'either' or 'neither': I didn't need ___ of the two notebooks.",
+      "acceptedAnswers": [
+        "either"
+      ],
+      "feedback": "Not ... either of is the standard way to reject both choices."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the noun form: Both shirt are too small.",
+      "acceptedAnswers": [
+        "Both shirts are too small."
+      ],
+      "feedback": "Both requires a plural noun: shirts."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Add the missing word: Either my two brothers can help.",
+      "acceptedAnswers": [
+        "Either of my two brothers can help."
+      ],
+      "feedback": "Use either of before the possessive my when choosing one member of a known pair."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the noun form: Neither of those two suitcase is mine.",
+      "acceptedAnswers": [
+        "Neither of those two suitcases is mine."
+      ],
+      "feedback": "The group after neither of contains two things, so the noun is plural: suitcases."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Replace only the incorrect quantifier: I don't like neither of those two hats.",
+      "acceptedAnswers": [
+        "I don't like either of those two hats."
+      ],
+      "feedback": "Not ... either of rejects both hats without a double negative."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make one sentence about these two facts, beginning 'Both the scarf and the hat ...': The scarf is green. The hat is green.",
+      "acceptedAnswers": [
+        "Both the scarf and the hat are green."
+      ],
+      "feedback": "Both ... and connects the two items, so the verb is plural: are."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say the complete sentence aloud, using 'Either': '___ seat is fine.'",
+      "acceptedAnswers": [
+        "Either seat is fine."
+      ],
+      "feedback": "Either + singular seat shows that one or the other is acceptable."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say one sentence beginning 'Neither soup ...': You tasted exactly two soups, and both tasted bad.",
+      "acceptedAnswers": [
+        "Neither soup was tasty.",
+        "Neither soup tasted good."
+      ],
+      "feedback": "Neither with singular soup means that neither of the two soups was good."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Two sisters, Eva and Jo, speak Spanish. Say a complete sentence beginning \"Both sisters\" and ending \"speak Spanish\".",
+      "acceptedAnswers": [
+        "Both sisters speak Spanish."
+      ],
+      "feedback": "Both includes the two sisters and takes the plural noun sisters and plural verb speak."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Two printers are broken. Rewrite \"Both of the printers are broken\" beginning \"Neither printer\" and using the positive verb \"works\".",
+      "acceptedAnswers": [
+        "Neither printer works."
+      ],
+      "feedback": "Neither printer means that not one of the two printers works. Neither takes a singular noun and verb."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A visitor can use the front door or the side door. Both lead to the lobby. Reply with one sentence beginning \"You can use\" and ending \"door\".",
+      "acceptedAnswers": [
+        "You can use either door."
+      ],
+      "feedback": "Either door means that one or the other of the two doors is acceptable."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this sentence in standard English while keeping \"don't want\": \"I don't want neither of these two desserts.\"",
+      "acceptedAnswers": [
+        "I don't want either of these two desserts."
+      ],
+      "feedback": "When a verb is already negative, either of rejects both options without a second negative."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Tell the caretaker two facts in exactly two sentences. First say \"I tested two keys.\" Then say neither works, starting with \"Neither key\".",
+      "acceptedAnswers": [
+        "I tested two keys. Neither key works."
+      ],
+      "feedback": "Neither key refers to zero of the two tested keys; it uses the singular verb works."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Both of my cousins live near the sea.",
+      "prompt": "How many of the two cousins live near the sea?",
+      "choices": [
+        "Neither cousin",
+        "Both cousins",
+        "Only one cousin"
+      ],
+      "answerIndex": 1,
+      "feedback": "Both of includes the first cousin and the second cousin."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "You can choose either of the two colours.",
+      "prompt": "Which statement matches the speaker’s meaning?",
+      "choices": [
+        "No colour is allowed",
+        "Only the first colour is allowed",
+        "Each colour is an acceptable option"
+      ],
+      "answerIndex": 2,
+      "feedback": "Either of the two colours allows a choice of one or the other."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Neither of the doors is locked.",
+      "prompt": "Type the first word you hear in the sentence.",
+      "acceptedAnswers": [
+        "Neither"
+      ],
+      "feedback": "Neither of means that not one of the two doors is locked."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Both lifts are out of order, so please use the stairs.",
+      "prompt": "What should visitors understand about the lifts?",
+      "choices": [
+        "One lift works normally.",
+        "Neither lift is available.",
+        "Both lifts are working."
+      ],
+      "answerIndex": 1,
+      "feedback": "Both lifts are out of order means the first lift and the second lift are unavailable."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "You can park on either side of this narrow road after six.",
+      "prompt": "Where may the listener leave a car after six?",
+      "choices": [
+        "Only on the left.",
+        "Only on the right.",
+        "On the left or the right."
+      ],
+      "answerIndex": 2,
+      "feedback": "Either side permits one side or the other; the driver may choose."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I do not like either of the two blue shirts in the window.",
+      "prompt": "How does the speaker feel about the shirts?",
+      "choices": [
+        "The speaker dislikes both.",
+        "The speaker likes exactly one.",
+        "The speaker likes both."
+      ],
+      "answerIndex": 0,
+      "feedback": "Not ... either of means neither of the two shirts is liked."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Neither of my sisters can drive at night.",
+      "prompt": "Type the single word at the beginning that excludes the two people.",
+      "acceptedAnswers": [
+        "neither"
+      ],
+      "feedback": "Neither of means not one and not the other; neither sister can drive at night."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Both of us have finished the first task.",
+      "prompt": "Type the three-word phrase that includes the speaker and one other person.",
+      "acceptedAnswers": [
+        "both of us"
+      ],
+      "feedback": "Both of us includes the two people and requires of before the pronoun us."
+    }
+  ]
+}

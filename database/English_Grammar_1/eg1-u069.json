@@ -1,0 +1,400 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u069",
+  "title": "A, An and The: Choosing the Right Article",
+  "level": "A2",
+  "topicId": "articles-indefinite-definite",
+  "summary": "Use a/an to introduce one non-specific person or thing and the when the listener can identify which one you mean. Learn how previous mentions, shared situations and unique descriptions affect your choice.",
+  "learningObjectives": [
+    "Choose a or an when introducing one unspecified singular countable noun.",
+    "Use the for a person or thing already identified in the conversation.",
+    "Use the when the setting makes the intended person or thing clear.",
+    "Choose the with unique descriptions and superlative forms."
+  ],
+  "explanation": [
+    {
+      "heading": "Introduce one person or thing with a/an",
+      "body": "Use a or an with a singular countable noun when you mean one person or thing, but not a particular one already known to the listener. Choose an before a vowel sound and a before a consonant sound. The noun may be new to the conversation.",
+      "example": "I saw an unusual bird near the river."
+    },
+    {
+      "heading": "Use the for a person or thing already mentioned",
+      "body": "After you introduce something, use the when you refer to that same thing again. A/an introduces it; the helps your listener recognise which one you mean. This also works when the listener already knows the particular item.",
+      "example": "We bought a small lamp. The lamp is beside the sofa."
+    },
+    {
+      "heading": "Use the when the situation identifies the item",
+      "body": "You can say the even on a first mention when the situation makes the item clear. In a shared room, the light may mean that room’s light. In a home, the bathroom may be the bathroom you both know. The speaker and listener need to understand which one is meant.",
+      "example": "Please leave your coat in the hall."
+    },
+    {
+      "heading": "Use the when the description picks out one",
+      "body": "Use the when the description identifies a unique item in the context, such as the only lift in a building or the captain of a particular team. Superlatives such as the youngest and the cheapest normally take the. A/an remains possible for one of several people or things.",
+      "example": "This is the quietest room in the hotel."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "First mention and later reference",
+      "left": {
+        "label": "Introducing an item",
+        "example": "I found a notebook on the train.",
+        "note": "A notebook introduces one unspecified notebook."
+      },
+      "right": {
+        "label": "Identifying that item",
+        "example": "The notebook has a green cover.",
+        "note": "The notebook refers to the same notebook already mentioned."
+      }
+    },
+    {
+      "title": "Any suitable item or one specific item",
+      "left": {
+        "label": "One of several",
+        "example": "Could you bring me a cup?",
+        "note": "Any suitable cup will do."
+      },
+      "right": {
+        "label": "A known item",
+        "example": "Could you bring me the blue cup?",
+        "note": "Blue identifies which particular cup is wanted."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "We saw a bicycle outside the shop, and the bicycle had a yellow seat.",
+      "note": "The second reference identifies the bicycle introduced earlier."
+    },
+    {
+      "sentence": "There is an art gallery near my office.",
+      "note": "An introduces one gallery that is not already identified."
+    },
+    {
+      "sentence": "Could you open the fridge, please?",
+      "note": "The shared kitchen makes the fridge identifiable."
+    },
+    {
+      "sentence": "Jade is the oldest player on our team.",
+      "note": "The is used before a superlative."
+    },
+    {
+      "sentence": "I need a map, but I cannot find the map you lent me.",
+      "note": "A map means any map; the map you lent me means a particular one."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I saw a owl near the fence.",
+      "correct": "I saw an owl near the fence.",
+      "why": "Owl starts with a vowel sound, so use an."
+    },
+    {
+      "incorrect": "Leo bought a new backpack. A backpack is black.",
+      "correct": "Leo bought a new backpack. The backpack is black.",
+      "why": "The second mention refers to the backpack already introduced."
+    },
+    {
+      "incorrect": "Could you close door to the garden?",
+      "correct": "Could you close the door to the garden?",
+      "why": "The description identifies a specific door."
+    },
+    {
+      "incorrect": "This is a cheapest ticket for the concert.",
+      "correct": "This is the cheapest ticket for the concert.",
+      "why": "Superlatives such as cheapest normally take the."
+    }
+  ],
+  "studyTips": [
+    "Ask whether you are introducing one item or identifying an item already known to both speakers.",
+    "When choosing between a and an, listen to the first sound of the next word rather than only looking at its first letter.",
+    "Look for clues such as earlier mentions, a shared room, only one, and superlatives."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Last night I saw ___ owl in a tree. I had never seen it before.",
+      "choices": [
+        "a",
+        "an",
+        "the"
+      ],
+      "answerIndex": 1,
+      "feedback": "Owl begins with a vowel sound. An introduces one bird for the first time."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "I borrowed a bicycle from Ella. ___ bicycle has a small basket.",
+      "choices": [
+        "The",
+        "A",
+        "An"
+      ],
+      "answerIndex": 0,
+      "feedback": "The bicycle identifies the particular bicycle mentioned in the first sentence."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "This village has only one post office. Where is ___ post office?",
+      "choices": [
+        "an",
+        "a",
+        "the"
+      ],
+      "answerIndex": 2,
+      "feedback": "The post office is identifiable because the village has only one."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Mina is ___ youngest member of our music group.",
+      "choices": [
+        "a",
+        "the",
+        "an"
+      ],
+      "answerIndex": 1,
+      "feedback": "The is normally used with superlatives such as youngest."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "We need ___ chair for our new desk. Any comfortable chair will do. (Write a, an or the.)",
+      "acceptedAnswers": [
+        "a"
+      ],
+      "feedback": "A chair means one unspecified chair; chair begins with a consonant sound."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "I found a scarf on the bus. ___ scarf is red. (Write a, an or the.)",
+      "acceptedAnswers": [
+        "the"
+      ],
+      "feedback": "The refers back to the particular scarf in the first sentence."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Our flat has one balcony door. Please open ___ balcony door. (Write a, an or the.)",
+      "acceptedAnswers": [
+        "the"
+      ],
+      "feedback": "There is only one balcony door in this flat, so the listener knows which one."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Lena wants to become ___ architect. (Write a, an or the.)",
+      "acceptedAnswers": [
+        "an"
+      ],
+      "feedback": "Architect begins with a vowel sound, so use an for one profession."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I saw a old bicycle outside the café.",
+      "acceptedAnswers": [
+        "I saw an old bicycle outside the café."
+      ],
+      "feedback": "Use an before old because it begins with a vowel sound."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We found a dog in the park. A dog was very friendly.",
+      "acceptedAnswers": [
+        "We found a dog in the park. The dog was very friendly."
+      ],
+      "feedback": "On the second mention, the identifies the same dog."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: This flat has only one bathroom. Please clean a bathroom before the guests arrive.",
+      "acceptedAnswers": [
+        "This flat has only one bathroom. Please clean the bathroom before the guests arrive."
+      ],
+      "feedback": "There is only one bathroom in the flat, so use the."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: This is a cheapest train ticket available.",
+      "acceptedAnswers": [
+        "This is the cheapest train ticket available."
+      ],
+      "feedback": "Cheapest is a superlative, normally used with the."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say that you bought one umbrella yesterday. Begin with “I bought”.",
+      "acceptedAnswers": [
+        "I bought an umbrella yesterday."
+      ],
+      "feedback": "An is used because umbrella begins with a vowel sound."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "You bought a red hat. Say the same hat is on your bed. Begin with “The hat”.",
+      "acceptedAnswers": [
+        "The hat is on my bed."
+      ],
+      "feedback": "The identifies the hat that has already been mentioned."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say that Ella is the youngest member of the team. Begin with “Ella”.",
+      "acceptedAnswers": [
+        "Ella is the youngest member of the team."
+      ],
+      "feedback": "Use the with the superlative youngest."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You see a blue notebook on a shelf for the first time. Say so in one sentence, beginning with 'There is' and ending with 'on the shelf'.",
+      "acceptedAnswers": [
+        "There is a blue notebook on the shelf.",
+        "There's a blue notebook on the shelf."
+      ],
+      "feedback": "Use a before blue notebook to introduce one new, unspecified countable item."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "You found one small boat. In these two sentences, correct only the article in the second sentence so it means the same boat: 'I found a small boat. A boat was empty.' Say both sentences.",
+      "acceptedAnswers": [
+        "I found a small boat. The boat was empty."
+      ],
+      "feedback": "The boat refers back to the boat introduced in the first sentence."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You and a friend are in a room with only one window. Ask your friend to open it. Begin with 'Could you open' and finish with 'please'.",
+      "acceptedAnswers": [
+        "Could you open the window, please?"
+      ],
+      "feedback": "The window identifies the only window in the shared room."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A friend says 'I need the pencil', but any pencil will do. Correct only the article and say the whole sentence.",
+      "acceptedAnswers": [
+        "I need a pencil."
+      ],
+      "feedback": "A pencil means any one suitable pencil; the pencil would identify a particular one."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "A house has three bedrooms, and the blue bedroom is the quietest. Make one sentence starting 'The blue bedroom' and ending with the exact words 'the quietest room in the house'.",
+      "acceptedAnswers": [
+        "The blue bedroom is the quietest room in the house."
+      ],
+      "feedback": "Use the with the superlative quietest when identifying one room in a group."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I noticed a small cat outside, and the cat followed me home.",
+      "prompt": "Which phrase refers to the same animal after its first mention?",
+      "choices": [
+        "A cat",
+        "Another cat",
+        "The cat"
+      ],
+      "answerIndex": 2,
+      "feedback": "The cat is the second reference to the cat already introduced."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Please put the keys on the kitchen table before you leave.",
+      "prompt": "Where should the keys be put?",
+      "choices": [
+        "On the kitchen table",
+        "On a chair",
+        "In a drawer"
+      ],
+      "answerIndex": 0,
+      "feedback": "The kitchen table identifies the place named by the speaker."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "There is an envelope under your notebook.",
+      "prompt": "Type the article heard immediately before “envelope”.",
+      "acceptedAnswers": [
+        "an"
+      ],
+      "feedback": "An is used before the vowel sound at the beginning of envelope."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I bought a small camera at the market. The camera still works, so I'll take pictures with it.",
+      "prompt": "What will the speaker use to take pictures?",
+      "choices": [
+        "A borrowed phone",
+        "A camera bought at the market",
+        "A broken tablet"
+      ],
+      "answerIndex": 1,
+      "feedback": "The camera is the same working camera the speaker introduced with a small camera."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "This building has two lifts, but only the lift by the main door goes to the top floor.",
+      "prompt": "Which lift can take someone to the highest floor?",
+      "choices": [
+        "The lift by the main entrance",
+        "Either of the two lifts",
+        "The lift far from the main door"
+      ],
+      "answerIndex": 0,
+      "feedback": "Only the lift by the main door goes to the top floor; the description identifies that particular lift."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Please do not take the red plate. You can use any white plate for your lunch.",
+      "prompt": "Which choice follows the instruction?",
+      "choices": [
+        "Take the red plate",
+        "Leave all the plates alone",
+        "Choose a white plate"
+      ],
+      "answerIndex": 2,
+      "feedback": "The red plate is a particular plate to avoid, but any white plate is acceptable."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "I found a small key this morning. The key opens the garden gate.",
+      "prompt": "Type the article you hear before the second mention of the object that was found.",
+      "acceptedAnswers": [
+        "the"
+      ],
+      "feedback": "The is used on the second mention because the listener now knows which key is meant."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "An excellent guide showed us the way to the museum.",
+      "prompt": "Type the article heard immediately before the adjective describing the guide.",
+      "acceptedAnswers": [
+        "an"
+      ],
+      "feedback": "An comes before excellent because the next word begins with a vowel sound."
+    }
+  ]
+}

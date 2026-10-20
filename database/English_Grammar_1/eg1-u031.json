@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u031",
+  "title": "Must, Mustn't and Don't Need To",
+  "level": "A2",
+  "topicId": "must-prohibition-no-necessity",
+  "summary": "Use must for something necessary, mustn't for something prohibited, and don't need to when an action is optional. Describe a past necessity with had to.",
+  "learningObjectives": [
+    "Form present and future statements of necessity with must followed by a base verb.",
+    "Use had to, rather than must, to describe a necessity in the past.",
+    "Distinguish a prohibition with mustn't from a lack of necessity with don't need to.",
+    "Choose must, mustn't, had to or don't need to from clear everyday contexts."
+  ],
+  "explanation": [
+    {
+      "heading": "Must: something necessary",
+      "body": "Use must + the base form of a verb when you feel that doing something is necessary or very important. The verb after must has no to and no -s, even with he or she. Must can refer to an important action now or in the future.",
+      "example": "It's getting dark. We must return to the campsite soon."
+    },
+    {
+      "heading": "Past necessity: had to",
+      "body": "For something that was necessary at a past time, use had to + base verb. Do not use must as the ordinary past form of this meaning. The expression had to works with all subjects.",
+      "example": "The road was closed yesterday, so we had to take a different route."
+    },
+    {
+      "heading": "Mustn't: something is not allowed",
+      "body": "Use mustn't (must not) + base verb for a prohibition or a strong reason not to do something. It says that the action is wrong or forbidden. Put not after must, and do not use to before the main verb.",
+      "example": "You mustn't feed the birds in this area."
+    },
+    {
+      "heading": "Don't need to: no necessity",
+      "body": "Use don't need to + base verb when an action is unnecessary. With he, she or it, say doesn't need to. Don't have to and doesn't have to express the same lack of necessity here. Unlike mustn't, these forms do not forbid the action: you can choose whether to do it.",
+      "example": "You don't need to bring plates; there are plenty in the kitchen."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Forbidden or simply unnecessary?",
+      "left": {
+        "label": "Prohibition",
+        "example": "You mustn't park in front of the gate.",
+        "note": "Parking there is not allowed."
+      },
+      "right": {
+        "label": "No need",
+        "example": "You don't need to park outside; there is space inside.",
+        "note": "Parking outside is optional, not forbidden."
+      }
+    },
+    {
+      "title": "Necessity now and in the past",
+      "left": {
+        "label": "Present necessity",
+        "example": "I must finish this form today.",
+        "note": "The speaker has something important to do now."
+      },
+      "right": {
+        "label": "Past necessity",
+        "example": "I had to finish the form yesterday.",
+        "note": "The necessary action belongs to the past."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "We must leave early to catch the first bus.",
+      "note": "Must expresses something necessary for a plan."
+    },
+    {
+      "sentence": "Last night I had to call a taxi because the buses had stopped.",
+      "note": "Had to reports necessity in the past."
+    },
+    {
+      "sentence": "You mustn't enter this room without permission.",
+      "note": "Mustn't expresses a prohibition."
+    },
+    {
+      "sentence": "Ella doesn't need to buy a ticket because she already has one.",
+      "note": "Doesn't need to says that buying another ticket is unnecessary."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "He musts clean his shoes.",
+      "correct": "He must clean his shoes.",
+      "why": "Must stays the same with all subjects."
+    },
+    {
+      "incorrect": "I must to finish this today.",
+      "correct": "I must finish this today.",
+      "why": "Must is followed by a base verb without to."
+    },
+    {
+      "incorrect": "We must leave early yesterday.",
+      "correct": "We had to leave early yesterday.",
+      "why": "Had to expresses past necessity."
+    },
+    {
+      "incorrect": "You mustn't bring a cup; we have extra cups if you want one.",
+      "correct": "You don't need to bring a cup; we have extra cups if you want one.",
+      "why": "An optional action calls for don't need to, not a prohibition."
+    }
+  ],
+  "studyTips": [
+    "Make two short rules for the same place: one action people must do and one action they mustn't do.",
+    "Say mustn't means forbidden and don't need to means optional; try changing one to the other and notice the different meaning.",
+    "When a necessary action happened yesterday or last week, practise replacing must with had to."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A sign at the wildlife centre says 'No photography'. Visitors ___ take photos.",
+      "choices": [
+        "mustn't",
+        "don't need to",
+        "had to"
+      ],
+      "answerIndex": 0,
+      "feedback": "Mustn't states a prohibition: taking photos is not allowed."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The last bus leaves in five minutes. We ___ hurry or we'll miss it.",
+      "choices": [
+        "don't need to",
+        "mustn't",
+        "must"
+      ],
+      "answerIndex": 2,
+      "feedback": "Must hurry expresses an urgent necessity."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Yesterday the lift was broken, so my grandmother ___ use the stairs.",
+      "choices": [
+        "must",
+        "had to",
+        "doesn't need to"
+      ],
+      "answerIndex": 1,
+      "feedback": "Had to use describes something necessary yesterday."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The concert is free. You ___ pay for a ticket.",
+      "choices": [
+        "don't need to",
+        "mustn't",
+        "must"
+      ],
+      "answerIndex": 0,
+      "feedback": "Don't need to pay says that payment is not necessary; it is not forbidden."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete using must: “This is an important letter. I ___ post it today.”",
+      "acceptedAnswers": [
+        "must"
+      ],
+      "feedback": "Must + post expresses an important action that needs to happen."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete using had to: “The restaurant was full last night, so we ___ wait for a table.”",
+      "acceptedAnswers": [
+        "had to"
+      ],
+      "feedback": "Had to wait reports a necessity in the past."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete using mustn't: “The floor is wet. You ___ run here.”",
+      "acceptedAnswers": [
+        "mustn't",
+        "must not"
+      ],
+      "feedback": "Mustn't run gives a strong instruction not to do something."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete using don't need to: “You ___ bring a towel; the hotel provides them.”",
+      "acceptedAnswers": [
+        "don't need to",
+        "do not need to"
+      ],
+      "feedback": "Don't need to bring means bringing a towel is unnecessary, not prohibited."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “You must to wear your seat belt in the car.”",
+      "acceptedAnswers": [
+        "You must wear your seat belt in the car."
+      ],
+      "feedback": "After must, use the base verb wear directly, without to."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “You don't need bring a chair; we have enough.”",
+      "acceptedAnswers": [
+        "You don't need to bring a chair; we have enough."
+      ],
+      "feedback": "Need requires to before the base verb in don't need to bring."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “We must take a taxi to the station yesterday.”",
+      "acceptedAnswers": [
+        "We had to take a taxi to the station yesterday."
+      ],
+      "feedback": "Yesterday requires the past necessity form had to, not must."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “The museum sign says 'No touching', so visitors don't need to touch the sculptures.”",
+      "acceptedAnswers": [
+        "The museum sign says 'No touching', so visitors mustn't touch the sculptures.",
+        "The museum sign says 'No touching', so visitors must not touch the sculptures."
+      ],
+      "feedback": "A no-touching sign is a prohibition, so use mustn't instead of don't need to."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Your train leaves soon. Say that leaving now is necessary. Begin with 'I must'.",
+      "acceptedAnswers": [
+        "I must leave now."
+      ],
+      "feedback": "Must + leave expresses a present necessity."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Tell a visitor that bringing bicycles into this room is forbidden. Begin with 'You mustn't'.",
+      "acceptedAnswers": [
+        "You mustn't bring bicycles into this room.",
+        "You must not bring bicycles into this room."
+      ],
+      "feedback": "Mustn't bring describes an action that is not allowed."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "There are notebooks for everyone. Tell a friend that bringing a notebook is unnecessary, using 'don't need to'.",
+      "acceptedAnswers": [
+        "You don't need to bring a notebook.",
+        "You do not need to bring a notebook."
+      ],
+      "feedback": "Don't need to bring says the action is not necessary."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The library closes in two minutes. Tell your friend that both of you need to leave now. Start with 'We' and use 'must leave now'.",
+      "acceptedAnswers": [
+        "We must leave now."
+      ],
+      "feedback": "We must leave now uses must followed directly by the base verb leave to express an immediate necessity."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this sentence to the past: 'Maya must take the train today.' Keep Maya as the subject, replace today with yesterday, and use 'had to'.",
+      "acceptedAnswers": [
+        "Maya had to take the train yesterday."
+      ],
+      "feedback": "For a necessity yesterday, use had to + base verb: Maya had to take the train yesterday."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A parent asks whether her four-year-old son needs to buy a ticket. Children under six enter free. Reply with a sentence starting 'He' and using 'doesn't need to buy a ticket'.",
+      "acceptedAnswers": [
+        "He doesn't need to buy a ticket.",
+        "He does not need to buy a ticket."
+      ],
+      "feedback": "He doesn't need to buy a ticket means buying one is unnecessary. With he, use doesn't need to, not don't need to."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A swimming pool sign says 'No diving'. Correct this mistaken rule: 'You don't need to dive here.' Start with 'You' and use mustn't to express the prohibition.",
+      "acceptedAnswers": [
+        "You mustn't dive here.",
+        "You must not dive here."
+      ],
+      "feedback": "Mustn't means diving is forbidden. Don't need to would mean that diving is optional, which is not what the sign says."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give a visitor two short instructions, in this order: keeping the ticket is required, but printing a map is unnecessary. Start both sentences with 'You'. Use 'must keep your ticket' and 'don't need to print a map'.",
+      "acceptedAnswers": [
+        "You must keep your ticket. You don't need to print a map.",
+        "You must keep your ticket. You do not need to print a map."
+      ],
+      "feedback": "Must keep states a requirement; don't need to print says printing a map is optional. The two expressions have different meanings."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "You mustn't leave bags in front of the emergency exit.",
+      "prompt": "What rule does the speaker give?",
+      "choices": [
+        "Everyone must bring a bag.",
+        "Bags can stay in front of the exit.",
+        "Leaving bags in front of the exit is forbidden."
+      ],
+      "answerIndex": 2,
+      "feedback": "Mustn't leave expresses a prohibition, not a choice."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We had to wait outside for half an hour yesterday.",
+      "prompt": "What does had to tell you about waiting?",
+      "choices": [
+        "It will be necessary tomorrow.",
+        "It was necessary in the past.",
+        "It is forbidden now."
+      ],
+      "answerIndex": 1,
+      "feedback": "Had to wait expresses past necessity; yesterday confirms the past time."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "You don't need to print the form because the office has copies.",
+      "prompt": "Type the expression that says printing is unnecessary.",
+      "acceptedAnswers": [
+        "don't need to",
+        "do not need to"
+      ],
+      "feedback": "Don't need to says printing is optional because copies are available."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "On Saturdays, you don't need to wear a uniform at the club. You can wear one if you want.",
+      "prompt": "What can club members decide for themselves on Saturdays?",
+      "choices": [
+        "Whether to go to the club at all.",
+        "Whether the club has a uniform.",
+        "Whether to wear their uniform."
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker says wearing a uniform is not necessary, but it is allowed. Members may choose whether to wear it."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The bridge was closed after the storm, so we had to drive through the next town to get home.",
+      "prompt": "How did the people travel home?",
+      "choices": [
+        "They drove through another town.",
+        "They drove across the closed bridge.",
+        "They waited for the bridge to open."
+      ],
+      "answerIndex": 0,
+      "feedback": "Because the bridge was closed, they had to take a route through the next town. Had to describes this past necessity."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "You mustn't bring snacks into the computer room, but you don't need to leave your water bottle outside.",
+      "prompt": "Which action is forbidden by the room rules?",
+      "choices": [
+        "Leaving a water bottle outside.",
+        "Taking snacks into the computer room.",
+        "Taking a water bottle into the room."
+      ],
+      "answerIndex": 1,
+      "feedback": "Mustn't bring snacks prohibits food. Don't need to leave your bottle outside means leaving it outside is not necessary."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "We must return the library books before Friday because another class needs them.",
+      "prompt": "Type the one-word modal that makes returning the books necessary.",
+      "acceptedAnswers": [
+        "must"
+      ],
+      "feedback": "Must + return expresses an obligation to bring the books back before Friday."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "My bike had a flat tyre, so I had to walk to work yesterday.",
+      "prompt": "Type the two-word expression showing that walking was necessary in the past.",
+      "acceptedAnswers": [
+        "had to"
+      ],
+      "feedback": "Had to walk describes a necessity in the past, not a present rule."
+    }
+  ]
+}

@@ -1,0 +1,396 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u030",
+  "title": "Can and Could: Ability, Requests and Permission",
+  "level": "A2",
+  "topicId": "can-could-ability-requests-permission",
+  "summary": "Use can for present ability or practical possibility and could for ability or possibility in the past. Ask for help, things or permission with can and could.",
+  "learningObjectives": [
+    "Use can, cannot and can’t followed by a base verb to describe present ability or practical possibility.",
+    "Use could and couldn’t to describe what someone was able or unable to do in the past.",
+    "Make clear requests with Can you ...? and Could you ...?",
+    "Ask for something or request permission using Can I ...? or Could I ...?"
+  ],
+  "explanation": [
+    {
+      "heading": "Can and can’t in the present",
+      "body": "Use can + base verb when someone has a skill or when something is possible for them. Use cannot or can’t for a negative. Can does not change with he, she or it: say she can sing, not she cans sing. Never put to after can.",
+      "example": "Our new neighbour can speak three languages."
+    },
+    {
+      "heading": "Could and couldn’t for the past",
+      "body": "To talk about an ability or practical possibility in the past, use could + base verb. Use couldn’t when it was not possible. These forms refer to a past situation, so time words such as when I was younger and last night help to make the meaning clear.",
+      "example": "At fourteen, I could swim across the small lake."
+    },
+    {
+      "heading": "Requests for another person’s help",
+      "body": "Can you + base verb? asks a person to do something. Could you + base verb? is often a little more polite or less direct. In these requests, could is not necessarily about the past; it is a present request. Please can be added for politeness.",
+      "example": "Could you move your bag, please?"
+    },
+    {
+      "heading": "Asking for things and permission",
+      "body": "Use Can I have ...? or Can I get ...? to ask someone to give you something. Use Can I ...? or Could I ...? to ask whether you may do an action. In a question, put can or could before the subject and follow it with a base verb.",
+      "example": "Could I use the phone for a minute?"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Ability now and ability before",
+      "left": {
+        "label": "Present ability",
+        "example": "Mia can drive now.",
+        "note": "Driving is a skill Mia has in the present."
+      },
+      "right": {
+        "label": "Past inability",
+        "example": "Mia couldn’t drive when she was sixteen.",
+        "note": "At that earlier time, she did not have the ability."
+      }
+    },
+    {
+      "title": "Asking someone to act or asking permission",
+      "left": {
+        "label": "Request to another person",
+        "example": "Could you lend me a pencil?",
+        "note": "The speaker asks the other person to do something."
+      },
+      "right": {
+        "label": "Request for permission",
+        "example": "Could I use your pencil?",
+        "note": "The speaker asks whether they are allowed to do something."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I can hear the music from the garden.",
+      "note": "Can describes what is possible for the speaker now."
+    },
+    {
+      "sentence": "We couldn’t find the address yesterday.",
+      "note": "Couldn’t describes a past difficulty."
+    },
+    {
+      "sentence": "Can you explain this word again, please?",
+      "note": "Can you introduces a request for help."
+    },
+    {
+      "sentence": "Could I sit by the window?",
+      "note": "Could I introduces a polite request for permission."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "She can speaks French.",
+      "correct": "She can speak French.",
+      "why": "The verb after can remains in its base form."
+    },
+    {
+      "incorrect": "I couldn’t to sleep last night.",
+      "correct": "I couldn’t sleep last night.",
+      "why": "Do not use to between couldn’t and the main verb."
+    },
+    {
+      "incorrect": "Can you to help me?",
+      "correct": "Can you help me?",
+      "why": "A request with Can you takes a base verb without to."
+    },
+    {
+      "incorrect": "Can I borrowing your dictionary?",
+      "correct": "Can I borrow your dictionary?",
+      "why": "Can I is followed by a base verb, not an -ing form."
+    }
+  ],
+  "studyTips": [
+    "Make two short sentences about the same skill: one with can now and one with could or couldn’t in the past.",
+    "Practise the pair Could you help me? and Could I use your phone? to notice who performs the action.",
+    "Remember that could in a polite request can refer to the present, even though could often describes a past ability."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Hugo has learned to read maps. He ___ read maps now, but he couldn’t when he was six.",
+      "choices": [
+        "can to",
+        "could",
+        "can"
+      ],
+      "answerIndex": 2,
+      "feedback": "Can read describes Hugo’s present ability; the base form read follows can."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Last year Leila ___ cycle long distances, but she cannot now because her bike is broken.",
+      "choices": [
+        "could",
+        "can",
+        "can to"
+      ],
+      "answerIndex": 0,
+      "feedback": "Could describes an ability that Leila had in the past."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which sentence is a correctly formed polite request for someone to close the window?",
+      "choices": [
+        "Could I close the window, please?",
+        "Could you close the window, please?",
+        "Could you to close the window, please?"
+      ],
+      "answerIndex": 1,
+      "feedback": "Could you asks the other person to close the window; the verb stays in its base form."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which question asks permission to borrow someone’s charger?",
+      "choices": [
+        "Could I borrow your charger, please?",
+        "Could you borrow your charger, please?",
+        "I can borrow your charger, please?"
+      ],
+      "answerIndex": 0,
+      "feedback": "Could I asks for permission for the speaker to borrow the charger."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with can: “My sister ___ swim across the pool now.”",
+      "acceptedAnswers": [
+        "can"
+      ],
+      "feedback": "Can + base verb describes a present skill."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with couldn’t: “Last winter, we ___ see the hills through the thick fog.”",
+      "acceptedAnswers": [
+        "couldn’t"
+      ],
+      "feedback": "Couldn’t see describes something that was impossible at that past time."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete using Could: “___ you help me move this chair, please?”",
+      "acceptedAnswers": [
+        "Could"
+      ],
+      "feedback": "Could you makes a polite request to another person."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete using Can: “___ I have a cup of tea, please?”",
+      "acceptedAnswers": [
+        "Can"
+      ],
+      "feedback": "Can I have ...? is a natural way to request something."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “Sam can plays chess very well.”",
+      "acceptedAnswers": [
+        "Sam can play chess very well."
+      ],
+      "feedback": "The verb after can is the base form play, not plays."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “When I was seven, I can’t ride a bike.”",
+      "acceptedAnswers": [
+        "When I was seven, I couldn’t ride a bike."
+      ],
+      "feedback": "Couldn’t describes lack of ability at a past age."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “Could you to check this address, please?”",
+      "acceptedAnswers": [
+        "Could you check this address, please?"
+      ],
+      "feedback": "A request with Could you is followed directly by the base verb check."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “Can I borrowing your pen for a minute?”",
+      "acceptedAnswers": [
+        "Can I borrow your pen for a minute?"
+      ],
+      "feedback": "Can I + base verb is the correct form for requesting permission."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say that your brother has the ability to cook, using “can”.",
+      "acceptedAnswers": [
+        "My brother can cook."
+      ],
+      "feedback": "Can cook describes a present ability."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say that you had the ability to ride a bicycle at the age of ten, using “could”.",
+      "acceptedAnswers": [
+        "I could ride a bicycle when I was ten."
+      ],
+      "feedback": "Could ride describes a skill you had in the past."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Politely ask someone to repeat the number. Begin with “Could you”.",
+      "acceptedAnswers": [
+        "Could you repeat the number, please?",
+        "Could you repeat the number?"
+      ],
+      "feedback": "Could you + base verb makes a polite request for help."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Make a complete sentence from these cues to describe a present inability: My sister / cannot / join / us / today. Use cannot as one word.",
+      "acceptedAnswers": [
+        "My sister cannot join us today."
+      ],
+      "feedback": "Cannot is followed by the base verb join to express present inability."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change “I can lift this box.” to say you were unable to do it last year. Use couldn’t and add “last year”.",
+      "acceptedAnswers": [
+        "I couldn't lift this box last year."
+      ],
+      "feedback": "Couldn’t lift expresses inability in the past; lift remains in its base form."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A visitor asks whether the lift is available. It is working now. Reply with one sentence beginning “You can” and using “use the lift now”.",
+      "acceptedAnswers": [
+        "You can use the lift now."
+      ],
+      "feedback": "Can use expresses practical possibility in the present."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A friend says, “Could I help you with the bags?” but wants to ask you to help them instead. Make the polite request beginning “Could you” and ending with “please”.",
+      "acceptedAnswers": [
+        "Could you help me with the bags, please?"
+      ],
+      "feedback": "Could you asks another person for help; could I offers help or asks permission for the speaker."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You are on a phone call. Say two short sentences in this order: you can’t hear the other person clearly, and you politely ask them to speak more slowly. Begin “I can’t” and then “Could you”; finish the request with “please”.",
+      "acceptedAnswers": [
+        "I can't hear you clearly. Could you speak more slowly, please?"
+      ],
+      "feedback": "Can’t expresses present inability; Could you introduces a polite request."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I could read music when I was nine.",
+      "prompt": "What could the speaker do at the age of nine?",
+      "choices": [
+        "Swim long distances.",
+        "Read musical notation.",
+        "Draw portraits."
+      ],
+      "answerIndex": 1,
+      "feedback": "Could read music means the speaker had that skill at nine."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Could you pass me the salt, please?",
+      "prompt": "What is the speaker doing?",
+      "choices": [
+        "Asking permission to leave.",
+        "Describing a skill from childhood.",
+        "Politely asking another person to pass something."
+      ],
+      "answerIndex": 2,
+      "feedback": "Could you pass is a polite request directed to another person."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I can see the sea from this window.",
+      "prompt": "Type the one-word modal that describes present ability.",
+      "acceptedAnswers": [
+        "can"
+      ],
+      "feedback": "Can see describes what the speaker is able to see now."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Marta couldn't read the small sign without her glasses yesterday.",
+      "prompt": "What was Marta unable to do?",
+      "choices": [
+        "Understand the words on a sign.",
+        "Find her glasses in a shop.",
+        "Write a new sign for someone."
+      ],
+      "answerIndex": 0,
+      "feedback": "Couldn’t read means Marta lacked the ability to read the sign without her glasses at that time."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I can bring the spare chairs on Friday, but I can't come on Thursday.",
+      "prompt": "On which day is the speaker available to help?",
+      "choices": [
+        "Thursday.",
+        "Saturday.",
+        "Friday."
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker can bring the chairs on Friday but cannot come on Thursday."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Could I leave my bike inside the building until lunch?",
+      "prompt": "Why is the person asking this question?",
+      "choices": [
+        "To ask for help repairing a bicycle.",
+        "To request permission to leave something indoors.",
+        "To describe a bicycle they used to own."
+      ],
+      "answerIndex": 1,
+      "feedback": "Could I asks whether the speaker is allowed to leave the bicycle inside."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The lights were off, so Ben couldn't find his keys.",
+      "prompt": "Type only the negative modal expression immediately before “find”.",
+      "acceptedAnswers": [
+        "couldn't"
+      ],
+      "feedback": "Couldn’t find describes Ben’s inability to find his keys in the past."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "When I was six, I could already count to a hundred.",
+      "prompt": "Type only the one-word modal expressing the past ability.",
+      "acceptedAnswers": [
+        "could"
+      ],
+      "feedback": "Could expresses an ability the speaker had at the age of six."
+    }
+  ]
+}

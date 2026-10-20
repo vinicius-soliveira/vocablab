@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u075",
+  "title": "One and Ones: Replacing Nouns",
+  "level": "A2",
+  "topicId": "pronouns-one-ones",
+  "summary": "Use one or ones to avoid repeating a countable noun. Choose the singular or plural form and add words that make clear which person or thing you mean.",
+  "learningObjectives": [
+    "Replace a previously mentioned singular countable noun with one.",
+    "Select one or ones to agree with a singular or plural noun.",
+    "Identify people or things with expressions such as the red one, the larger ones and another one.",
+    "Ask and answer which one or which ones without repeating a noun."
+  ],
+  "explanation": [
+    {
+      "heading": "One replaces a singular countable noun",
+      "body": "After a singular countable noun is clear from the conversation, one can take its place. This avoids repeating the noun, especially after a request or question. You can say “I need a charger. Do you have one?” rather than repeating charger. Do not put a or an immediately before this standalone one.",
+      "example": "I left my umbrella at home. Could I borrow one?"
+    },
+    {
+      "heading": "Use one for one item and ones for several",
+      "body": "One replaces a singular countable noun; ones replaces a plural countable noun. In a choice, ask “Which one?” for one item and “Which ones?” for several. Ones typically appears with a determiner or description such as the, these or green.",
+      "example": "These gloves are too small. Where are the larger ones?"
+    },
+    {
+      "heading": "Make the choice clear with the or a description",
+      "body": "Use the one or the ones when both speakers know which item or group is intended. A following phrase can identify it: the one near the window or the ones on the shelf. An adjective usually comes before one or ones: the yellow one, the newest ones.",
+      "example": "My room is the one at the end of the corridor."
+    },
+    {
+      "heading": "Choose this one, that one and similar forms",
+      "body": "This one and that one refer to single items. For plural items, these and those are often enough, but these ones and those ones are also possible in informal English. Other one means the alternative; another one means one more or a different single item.",
+      "example": "This bag is heavy. I will carry that one instead."
+    },
+    {
+      "heading": "Use a/an or some before a described replacement",
+      "body": "A singular replacement with an adjective normally takes a or an: a lighter one, an older one. A plural replacement can use some or the: some smaller ones, the small ones. One and ones do not normally replace uncountable nouns such as water or music.",
+      "example": "I do not like these biscuits. Have you got some softer ones?"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Singular or plural replacement",
+      "left": {
+        "label": "One item: one",
+        "example": "Which scarf is yours? The blue one.",
+        "note": "One replaces a single scarf."
+      },
+      "right": {
+        "label": "Several items: ones",
+        "example": "Which scarves are yours? The blue ones.",
+        "note": "Ones replaces several scarves."
+      }
+    },
+    {
+      "title": "An unspecified item or an identified item",
+      "left": {
+        "label": "An unspecified item",
+        "example": "I need a plate. Is there one in the kitchen?",
+        "note": "One means a plate, without choosing a particular plate."
+      },
+      "right": {
+        "label": "A particular item",
+        "example": "I need the plate with the flower. Is that the one?",
+        "note": "The one refers to a specific plate identified by context."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "My headphones are missing. I will buy some new ones.",
+      "note": "Ones replaces plural headphones after the description new."
+    },
+    {
+      "sentence": "We have two spare rooms. The quiet one is upstairs.",
+      "note": "The quiet one identifies a particular singular room."
+    },
+    {
+      "sentence": "Which cups should I wash, these ones or those ones?",
+      "note": "These ones and those ones point to groups of cups."
+    },
+    {
+      "sentence": "I finished the first puzzle. Could I try another one?",
+      "note": "Another one means an additional or different puzzle."
+    },
+    {
+      "sentence": "These notebooks are expensive. Do you have cheaper ones?",
+      "note": "An adjective and ones refer to cheaper notebooks."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I need a charger. Have you got a one?",
+      "correct": "I need a charger. Have you got one?",
+      "why": "Standalone one already means a charger, so do not add a."
+    },
+    {
+      "incorrect": "These shoes are too big. I need smaller one.",
+      "correct": "These shoes are too big. I need smaller ones.",
+      "why": "Shoes is plural, so use ones."
+    },
+    {
+      "incorrect": "That jacket is too thin. I need warmer one.",
+      "correct": "That jacket is too thin. I need a warmer one.",
+      "why": "A singular descriptive replacement usually needs a or an."
+    },
+    {
+      "incorrect": "Which ones is your suitcase?",
+      "correct": "Which one is your suitcase?",
+      "why": "Suitcase refers to one item; use the singular one and is."
+    }
+  ],
+  "studyTips": [
+    "Before choosing one or ones, identify the noun you are replacing and check whether it is singular or plural.",
+    "Practise comparing two things aloud: “I prefer the dark one” and “I prefer the dark ones”.",
+    "Remember the useful patterns a new one, another one, the other one and some new ones."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "I am looking for a spoon. Have you got ___?",
+      "choices": [
+        "one",
+        "ones",
+        "a one"
+      ],
+      "answerIndex": 0,
+      "feedback": "A spoon is one countable item; one replaces the repeated noun without an extra article."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Those sweaters are too large. I prefer the smaller ___ on this rack.",
+      "choices": [
+        "one",
+        "a one",
+        "ones"
+      ],
+      "answerIndex": 2,
+      "feedback": "The replacement refers to several sweaters, so the plural ones follows smaller."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Two rooms are available. Which room is yours? The ___ beside the stairs.",
+      "choices": [
+        "ones",
+        "one",
+        "a one"
+      ],
+      "answerIndex": 1,
+      "feedback": "The one identifies a specific single room; the phrase beside the stairs makes it clear."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "These plates are chipped. Could you bring some clean ___?",
+      "choices": [
+        "ones",
+        "one",
+        "a one"
+      ],
+      "answerIndex": 0,
+      "feedback": "Plates is plural, and some clean ones means some clean plates."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Choose one or ones: There are three coats here. Which ___ is yours?",
+      "acceptedAnswers": [
+        "one"
+      ],
+      "feedback": "Each person is choosing a single coat, so ask which one."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Choose one or ones: My socks have holes. I am going to buy some new ___.",
+      "acceptedAnswers": [
+        "ones"
+      ],
+      "feedback": "The noun socks is plural, so the replacement is ones."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Choose one or ones: This phone is slow, but that ___ is very fast.",
+      "acceptedAnswers": [
+        "one"
+      ],
+      "feedback": "That one refers to one other phone."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Choose one or ones: The green grapes are ripe, but the purple ___ are not.",
+      "acceptedAnswers": [
+        "ones"
+      ],
+      "feedback": "The plural verb are and grapes show that ones is required."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: These oranges look fresh. I will buy the larger one. (The speaker means several larger oranges.)",
+      "acceptedAnswers": [
+        "These oranges look fresh. I will buy the larger ones."
+      ],
+      "feedback": "Use ones for several oranges; one would refer to a single orange."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I need a torch. Do you have a one?",
+      "acceptedAnswers": [
+        "I need a torch. Do you have one?"
+      ],
+      "feedback": "One replaces a torch; an extra a is incorrect."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: There are two cafés on this road. The quiet ones is my favourite. (The speaker means one café.)",
+      "acceptedAnswers": [
+        "There are two cafés on this road. The quiet one is my favourite."
+      ],
+      "feedback": "A single café requires one; the singular verb is already correct."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My boots are worn out, so I want a new ones.",
+      "acceptedAnswers": [
+        "My boots are worn out, so I want new ones."
+      ],
+      "feedback": "Ones replaces plural boots; remove the singular article a."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Your mug is dirty. Ask politely for a clean replacement. Say the complete sentence using “a clean one” and “Could I have”.",
+      "acceptedAnswers": [
+        "Could I have a clean one, please?",
+        "Could I have a clean one?"
+      ],
+      "feedback": "One replaces one mug, and a clean one is the correct singular phrase."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "You are choosing several striped socks instead of the plain socks. Say exactly: “I want the striped ...” Complete the sentence.",
+      "acceptedAnswers": [
+        "I want the striped ones."
+      ],
+      "feedback": "Ones refers to several socks after the adjective striped."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "You lost one key and someone offers you a spare. Reply with the complete sentence: “Yes, I need ...” Use one.",
+      "acceptedAnswers": [
+        "Yes, I need one."
+      ],
+      "feedback": "One replaces the singular noun key in a short response."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "There is a blue backpack and a red backpack on the shelf. You want the blue backpack. Say one sentence starting with “I want” and replace “backpack” with “one”.",
+      "acceptedAnswers": [
+        "I want the blue one."
+      ],
+      "feedback": "The blue one identifies one particular backpack without repeating the singular noun."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Answer “Which gloves are yours?” by transforming “The yellow gloves are mine.” Replace “gloves” with “ones”, and say the complete sentence.",
+      "acceptedAnswers": [
+        "The yellow ones are mine."
+      ],
+      "feedback": "Ones replaces the plural noun gloves, while the yellow tells us which pair or group."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks which chair is free. Only the chair by the door is free. Reply in one sentence beginning “The one” and ending “is free”.",
+      "acceptedAnswers": [
+        "The one by the door is free."
+      ],
+      "feedback": "The one refers to a particular singular chair; by the door makes the choice clear."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Your friend points to a scratched watch and asks, “Do you want this one?” You want the other watch. Correct your friend, starting with “No,” and using “the other one”.",
+      "acceptedAnswers": [
+        "No, I want the other one.",
+        "No, the other one."
+      ],
+      "feedback": "The other one means the alternative single watch, not the scratched watch."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You have eaten one apple and would like one more. Politely ask for it, starting “Could I have”, using “another one”, and ending with “please”.",
+      "acceptedAnswers": [
+        "Could I have another one, please?"
+      ],
+      "feedback": "Another one means one more apple; there is no need to repeat the noun."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The striped ones are less expensive than the plain ones.",
+      "prompt": "Which group costs less?",
+      "choices": [
+        "The plain items",
+        "One plain item",
+        "The striped items"
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker describes the striped ones as less expensive; ones refers to plural items."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I forgot my water bottle, but I can borrow one from Nina.",
+      "prompt": "What will the speaker borrow?",
+      "choices": [
+        "Several water bottles",
+        "One water bottle",
+        "A shopping bag"
+      ],
+      "answerIndex": 1,
+      "feedback": "One replaces the singular expression water bottle."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The small ones are in the cupboard.",
+      "prompt": "Type the word after “small” that refers to several items.",
+      "acceptedAnswers": [
+        "ones"
+      ],
+      "feedback": "Ones is the plural replacement after the adjective small."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The black suitcase belongs to my brother. Mine is the green one beside the bench.",
+      "prompt": "Which suitcase belongs to the speaker?",
+      "choices": [
+        "The black suitcase",
+        "Both suitcases",
+        "The green suitcase"
+      ],
+      "answerIndex": 2,
+      "feedback": "Mine identifies the speaker’s suitcase; the green one refers to the green suitcase."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I bought two red notebooks, but I need another one for my brother.",
+      "prompt": "How many notebooks will the speaker have after getting the extra notebook?",
+      "choices": [
+        "Three",
+        "Two",
+        "Four"
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker already has two notebooks and needs another one, making three in total."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We need four cups for the picnic. Please take the clean ones, but leave the cracked one here.",
+      "prompt": "What should the listener take?",
+      "choices": [
+        "The cracked cup",
+        "Several clean cups",
+        "No cups"
+      ],
+      "answerIndex": 1,
+      "feedback": "The clean ones means multiple clean cups; the cracked one is a single cup that must stay."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "This coat is too heavy. Could you show me a lighter one?",
+      "prompt": "Type the two-word expression describing the replacement coat requested.",
+      "acceptedAnswers": [
+        "lighter one"
+      ],
+      "feedback": "A lighter one replaces the singular noun coat and identifies a coat that weighs less."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I want the other one because this umbrella has a hole in it.",
+      "prompt": "Type the three-word expression identifying the alternative umbrella.",
+      "acceptedAnswers": [
+        "the other one"
+      ],
+      "feedback": "The other one refers to the alternative umbrella rather than the damaged one."
+    }
+  ]
+}

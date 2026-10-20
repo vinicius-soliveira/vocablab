@@ -1,0 +1,837 @@
+{
+  "format": "vocablab-content-package",
+  "version": 1,
+  "id": "eciu-int-2ed-units-51-52-reviewed",
+  "title": "English Collocations in Use — Intermediate (2nd Edition) · Units 51–52",
+  "bookId": "english-collocations-in-use-intermediate-2ed",
+  "publisher": "Cambridge University Press",
+  "level": "B1–B2",
+  "description": "Natural expressions for starting and finishing events and for describing achievements, successful progress, setbacks and failure.",
+  "coverage": "source-checked-reviewed",
+  "sourceNotice": "Prepared for personal study from the user-supplied book. Target phrases are based on the teaching pages, practice material and answer key; all translations, usage notes and full teaching example sentences are newly written. Original exercise prompts, passages and illustrations are not reproduced.",
+  "audit": {
+    "includedUnits": [
+      51,
+      52
+    ],
+    "scope": "Teaching pages, exercise pages, visual layout and the relevant answer-key entries for units 51 and 52 were examined; only meaningful collocations were selected.",
+    "bookPrintedPages": [
+      106,
+      107,
+      108,
+      109
+    ],
+    "pdfPages": [
+      110,
+      111,
+      112,
+      113
+    ],
+    "answerKeyPdfPages": [
+      156,
+      157
+    ],
+    "pronunciation": "Broad British IPA not supplied when a reliable transcription has not been independently verified; no connected-speech transcription is claimed.",
+    "languagePolicy": "English for all titles, metadata, examples and notes; Brazilian Portuguese only in pt.",
+    "reviewMethod": "Source-page and answer-key comparison, page-layout visual inspection, originally written examples and notes, static JSON schema and content lint.",
+    "editorialStatus": "reviewed",
+    "limitations": "No live VocabLab importer, audio, TTS or browser testing was performed. IPA fields are intentionally empty; optional personal dictionary exercises were not independently researched.",
+    "itemCounts": {
+      "unit51": 21,
+      "unit52": 37,
+      "total": 58
+    },
+    "canonicalPolicy": "Stable item IDs are unique within each unit. Each record stores a full expression, original context, Portuguese meaning, English usage note, editorial source category and optional British IPA."
+  },
+  "units": [
+    {
+      "id": "eciu-int-2ed-u51",
+      "number": 51,
+      "title": "Unit 51 — Starting and finishing",
+      "level": "B1–B2",
+      "source": "English Collocations in Use — Intermediate (2nd Edition); printed pages 106–107 (PDF pages 110–111).",
+      "bookId": "english-collocations-in-use-intermediate-2ed",
+      "bookTitle": "English Collocations in Use — Intermediate (2nd Edition)",
+      "category": "Functions · starting and finishing",
+      "sourcePage": 110,
+      "coverage": "source-checked",
+      "learningObjectives": [
+        "Use natural expressions to describe promising, early and disappointing beginnings.",
+        "Describe close or tense finishes and distinguish finishing touches from the end result.",
+        "Contrast get started, make a start, come to an end, draw to a close and bring something to an end.",
+        "Avoid the learner error of using finish instead of end for holidays and journeys."
+      ],
+      "items": [
+        {
+          "id": "make-a-promising-start",
+          "word": "make a promising start",
+          "pt": "começar de maneira promissora",
+          "ipa": "",
+          "section": "A · Starting",
+          "example": "The new research partnership could make a promising start with this pilot study.",
+          "note": "Use make with start when describing an encouraging beginning; a promising start suggests potential, not certain success.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "make-an-early-start",
+          "word": "make an early start",
+          "pt": "começar cedo; sair cedo",
+          "ipa": "",
+          "section": "A · Starting",
+          "example": "We should make an early start to avoid the busiest roads.",
+          "note": "An early start means beginning an activity or journey earlier than usual; use make, not do.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "an-absolute-beginner",
+          "word": "an absolute beginner",
+          "pt": "iniciante absoluto; pessoa sem conhecimentos prévios",
+          "ipa": "",
+          "section": "A · Starting",
+          "example": "The course is suitable for an absolute beginner who has never studied German.",
+          "note": "Absolute intensifies beginner to indicate no previous knowledge or experience.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "get-off-to-a-good-start",
+          "word": "get off to a good start",
+          "pt": "começar bem; ter um bom começo",
+          "ipa": "",
+          "section": "A · Starting",
+          "example": "Our presentation got off to a good start with a clear introduction.",
+          "note": "Get off to a good start is an idiomatic way to describe the initial stage of an activity, event or relationship.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "a-close-finish",
+          "word": "a close finish",
+          "pt": "disputa acirrada na chegada; final apertado",
+          "ipa": "",
+          "section": "B · Finishing",
+          "example": "The cycling race ended in a close finish between two teammates.",
+          "note": "A close finish is an outcome in which competitors are separated by very little, especially in sport.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-nail-biting-finish",
+          "word": "a nail-biting finish",
+          "pt": "final emocionante; desfecho de tirar o fôlego",
+          "ipa": "",
+          "section": "B · Finishing",
+          "example": "The final set gave spectators a nail-biting finish to the tennis match.",
+          "note": "Nail-biting describes excitement and tension when the outcome is uncertain until the end.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "put-the-finishing-touches-to-a-report",
+          "word": "put the finishing touches to a report",
+          "pt": "dar os retoques finais em um relatório",
+          "ipa": "",
+          "section": "B · Finishing",
+          "example": "We need to put the finishing touches to a report before sending it.",
+          "note": "British English often uses put the finishing touches to; put the finishing touches on is also common.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "bring-a-strike-to-an-end",
+          "word": "bring a strike to an end",
+          "pt": "pôr fim a uma greve",
+          "ipa": "",
+          "section": "B · Finishing",
+          "example": "A signed agreement can bring a strike to an end.",
+          "note": "Bring something to an end means cause it to stop; unlike come to an end, it names an active cause.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "mark-the-beginning-of-the-end",
+          "word": "mark the beginning of the end",
+          "pt": "marcar o começo do fim",
+          "ipa": "",
+          "section": "C · More ways to start and finish",
+          "example": "Losing its main sponsor could mark the beginning of the end for the team.",
+          "note": "This expression signals the first sign that something is likely to decline or cease.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "the-end-result",
+          "word": "the end result",
+          "pt": "o resultado final",
+          "ipa": "",
+          "section": "C · More ways to start and finish",
+          "example": "The end result of the redesign was a lighter and more reliable device.",
+          "note": "End result refers to the final outcome, not the act of finishing.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-perfect-end-to-a-holiday",
+          "word": "a perfect end to a holiday",
+          "pt": "um encerramento perfeito para as férias",
+          "ipa": "",
+          "section": "C · More ways to start and finish",
+          "example": "A quiet evening by the sea was a perfect end to a holiday.",
+          "note": "The noun end commonly takes to when it means the conclusion of an experience.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "make-a-start",
+          "word": "make a start",
+          "pt": "dar início; começar",
+          "ipa": "",
+          "section": "C · More ways to start and finish",
+          "example": "Everyone is ready, so we can make a start on the installation.",
+          "note": "Make a start means begin, often after preparation or a delay; do a start is unnatural.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "get-started",
+          "word": "get started",
+          "pt": "começar; dar início",
+          "ipa": "",
+          "section": "C · More ways to start and finish",
+          "example": "We can get started as soon as the equipment is ready.",
+          "note": "Get started is a conversational way of inviting or telling people to begin.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "come-to-an-end",
+          "word": "come to an end",
+          "pt": "chegar ao fim; terminar",
+          "ipa": "",
+          "section": "C · More ways to start and finish",
+          "example": "The training programme will come to an end next Friday.",
+          "note": "Come to an end is intransitive: it describes the event ending without naming the person who ends it.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "draw-to-a-close",
+          "word": "draw to a close",
+          "pt": "aproximar-se do fim; chegar ao encerramento",
+          "ipa": "",
+          "section": "C · More ways to start and finish",
+          "example": "As the discussion began to draw to a close, we agreed on the next steps.",
+          "note": "A moderately formal alternative to come to an end, especially for meetings, periods or events.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "an-abrupt-end",
+          "word": "an abrupt end",
+          "pt": "um fim repentino; encerramento abrupto",
+          "ipa": "",
+          "section": "C · More ways to start and finish",
+          "example": "The funding cut brought the project to an abrupt end.",
+          "note": "Abrupt suggests something ends suddenly, often unexpectedly or without preparation.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-late-start",
+          "word": "a late start",
+          "pt": "um começo tardio; início mais tarde",
+          "ipa": "",
+          "section": "D · Practice and learner-error contrasts",
+          "example": "After a late start, the walkers reached the campsite at sunset.",
+          "note": "Contrasts with an early start; make a late start is also possible.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "get-off-to-a-disappointing-start",
+          "word": "get off to a disappointing start",
+          "pt": "começar de maneira decepcionante; começar mal",
+          "ipa": "",
+          "section": "D · Practice and learner-error contrasts",
+          "example": "The launch got off to a disappointing start because of repeated technical problems.",
+          "note": "Get off to describes how something begins; a good, promising or disappointing start is possible.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "bring-a-career-to-an-abrupt-end",
+          "word": "bring a career to an abrupt end",
+          "pt": "encerrar uma carreira abruptamente",
+          "ipa": "",
+          "section": "D · Practice and learner-error contrasts",
+          "example": "An unexpected injury can bring a career to an abrupt end.",
+          "note": "This is the causative counterpart of come to an end. A noun such as career, discussion or event normally replaces something.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "an-absolute-beginners-class",
+          "word": "an absolute beginners’ class",
+          "pt": "turma para iniciantes absolutos",
+          "ipa": "",
+          "section": "D · Practice and learner-error contrasts",
+          "example": "My neighbour joined an absolute beginners’ class in Italian.",
+          "note": "The plural possessive beginners’ identifies a class intended for people with no prior experience.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "the-journey-ended",
+          "word": "the journey ended",
+          "pt": "a viagem terminou",
+          "ipa": "",
+          "section": "D · Practice and learner-error contrasts",
+          "example": "Our journey ended at a small station near the coast.",
+          "note": "For a journey, trip, holiday or meal, ended is normally more idiomatic than finished.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        }
+      ],
+      "sourceAudit": {
+        "sectionsChecked": [
+          "A · Starting: news-style collocations and absolute beginners",
+          "B · Finishing: close/nail-biting outcomes, final touches and ending a strike",
+          "C · More collocations for starting and finishing",
+          "Common mistakes · trips, journeys, holidays and meals end",
+          "Exercises 51.1–51.4 and answer key"
+        ],
+        "printedPages": [
+          106,
+          107
+        ],
+        "pdfPages": [
+          110,
+          111
+        ],
+        "answerKeyPdfPages": [
+          156
+        ],
+        "editorialScope": "Significant target collocations and expressions in the source teaching and exercises; incidental vocabulary excluded. Pragmatic differences and common error contrasts are explicitly noted.",
+        "exercisePolicy": "Original examples and explanations are newly written; exercises, source paragraphs and answer text are not reproduced.",
+        "itemCount": 21,
+        "targetTypes": {
+          "collocation": 12,
+          "expression": 8,
+          "semantic-contrast": 1
+        }
+      }
+    },
+    {
+      "id": "eciu-int-2ed-u52",
+      "number": 52,
+      "title": "Unit 52 — Talking about success and failure",
+      "level": "B1–B2",
+      "source": "English Collocations in Use — Intermediate (2nd Edition); printed pages 108–109 (PDF pages 112–113).",
+      "bookId": "english-collocations-in-use-intermediate-2ed",
+      "bookTitle": "English Collocations in Use — Intermediate (2nd Edition)",
+      "category": "Functions · success and failure",
+      "sourcePage": 112,
+      "coverage": "source-checked",
+      "learningObjectives": [
+        "Discuss achievement, improvement, progress and effective contributions with natural collocations.",
+        "Distinguish breakthrough, crowning achievement, a great success and successful performance.",
+        "Describe degrees and types of failure, including flop, dismal failure and doomed to failure.",
+        "Use figurative expressions such as dash hopes, lose your nerve and miss the point appropriately."
+      ],
+      "items": [
+        {
+          "id": "make-a-breakthrough",
+          "word": "make a breakthrough",
+          "pt": "conseguir um avanço importante; alcançar uma descoberta significativa",
+          "ipa": "",
+          "section": "A · Success",
+          "example": "The engineers hope to make a breakthrough in battery performance.",
+          "note": "A breakthrough is an important advance after difficulty or sustained effort; make is the standard verb.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-remarkable-achievement",
+          "word": "a remarkable achievement",
+          "pt": "uma conquista notável; um feito extraordinário",
+          "ipa": "",
+          "section": "A · Success",
+          "example": "Completing the project in six weeks was a remarkable achievement.",
+          "note": "Remarkable emphasises how unusual or impressive an accomplishment is.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-dramatic-improvement",
+          "word": "a dramatic improvement",
+          "pt": "uma melhora expressiva; uma melhoria marcante",
+          "ipa": "",
+          "section": "A · Success",
+          "example": "There has been a dramatic improvement in the software’s response time.",
+          "note": "Dramatic here means very large and noticeable, not theatrical.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "the-crowning-achievement",
+          "word": "the crowning achievement",
+          "pt": "maior realização; conquista culminante",
+          "ipa": "",
+          "section": "A · Success",
+          "example": "Winning the research prize was the crowning achievement of her career.",
+          "note": "A crowning achievement is someone’s greatest or most satisfying success, often after many other achievements.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "an-excellent-grasp-of-english",
+          "word": "an excellent grasp of English",
+          "pt": "um excelente domínio do inglês; ótima compreensão do inglês",
+          "ipa": "",
+          "section": "A · Success",
+          "example": "She has an excellent grasp of the fundamentals of electronics.",
+          "note": "Grasp here means understanding or command of a subject, not physical holding.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "come-in-useful",
+          "word": "come in useful",
+          "pt": "ser útil; vir a calhar",
+          "ipa": "",
+          "section": "A · Success",
+          "example": "Your programming experience may come in useful during the internship.",
+          "note": "Informal but standard British English expression: a skill or object proves useful when needed.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "take-advantage-of-an-opportunity",
+          "word": "take advantage of an opportunity",
+          "pt": "aproveitar uma oportunidade",
+          "ipa": "",
+          "section": "A · Success",
+          "example": "Students should take advantage of an opportunity to practise speaking.",
+          "note": "Usually means make good use of an opportunity; it can also mean exploit someone unfairly in other contexts.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "pass-an-exam",
+          "word": "pass an exam",
+          "pt": "passar em uma prova; ser aprovado em um exame",
+          "ipa": "",
+          "section": "A · Success",
+          "example": "You must pass an exam before receiving the certificate.",
+          "note": "Pass an exam contrasts with fail an exam; do an exam means sit or take the test, not necessarily succeed.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "guaranteed-success",
+          "word": "guaranteed success",
+          "pt": "sucesso garantido",
+          "ipa": "",
+          "section": "A · Success",
+          "example": "Careful planning helps, but it does not mean guaranteed success.",
+          "note": "Guaranteed describes an outcome presented as certain; avoid using it for merely likely success.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "make-good-progress",
+          "word": "make good progress",
+          "pt": "progredir bem; fazer bons progressos",
+          "ipa": "",
+          "section": "A · Success",
+          "example": "The trainee continues to make good progress in technical English.",
+          "note": "Progress is normally uncountable in this meaning; make progress, not do progress.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "gain-good-marks",
+          "word": "gain good marks",
+          "pt": "tirar boas notas; obter boas notas",
+          "ipa": "",
+          "section": "A · Success",
+          "example": "He worked hard all term to gain good marks in physics.",
+          "note": "British English uses marks for grades or scores in school; get good marks is also common.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-great-success",
+          "word": "a great success",
+          "pt": "um grande sucesso",
+          "ipa": "",
+          "section": "A · Success",
+          "example": "The community science event was a great success.",
+          "note": "A success refers to something that succeeds; success alone is usually uncountable when used generally.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "highly-effective",
+          "word": "highly effective",
+          "pt": "altamente eficaz",
+          "ipa": "",
+          "section": "A · Success",
+          "example": "The new training method proved highly effective for beginners.",
+          "note": "Highly, rather than very highly or strongly, is a natural intensifier with effective.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "make-useful-contributions",
+          "word": "make useful contributions",
+          "pt": "dar contribuições úteis; contribuir de forma relevante",
+          "ipa": "",
+          "section": "A · Success",
+          "example": "Several volunteers make useful contributions to the discussion each week.",
+          "note": "Make a contribution is standard; useful describes an input that helps a discussion, project or community.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "have-the-ability-to-learn",
+          "word": "have the ability to learn",
+          "pt": "ter capacidade de aprender",
+          "ipa": "",
+          "section": "A · Success",
+          "example": "Many people have the ability to learn complex skills with practice.",
+          "note": "Ability is commonly followed by to plus an infinitive; compare have the skills to.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "effective-ways-of-working",
+          "word": "effective ways of working",
+          "pt": "formas eficazes de trabalhar",
+          "ipa": "",
+          "section": "A · Success",
+          "example": "The team explored effective ways of working across different time zones.",
+          "note": "Effective ways of working describes methods that achieve the intended result.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-brilliant-success",
+          "word": "a brilliant success",
+          "pt": "um sucesso extraordinário",
+          "ipa": "",
+          "section": "A · Success",
+          "example": "The pilot programme was a brilliant success despite its limited budget.",
+          "note": "Brilliant is enthusiastic and somewhat informal, stronger than a basic positive assessment.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "enjoy-the-fruits-of-hard-work",
+          "word": "enjoy the fruits of hard work",
+          "pt": "colher os frutos do trabalho árduo",
+          "ipa": "",
+          "section": "A · Success",
+          "example": "After years of training, she can finally enjoy the fruits of hard work.",
+          "note": "Fruits is figurative: the benefits or rewards produced by effort.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "bring-out-the-best-in-people",
+          "word": "bring out the best in people",
+          "pt": "despertar o melhor nas pessoas",
+          "ipa": "",
+          "section": "A · Success",
+          "example": "A supportive manager can bring out the best in people.",
+          "note": "The phrase describes helping someone show their strongest qualities or performance.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "win-the-respect-of-others",
+          "word": "win the respect of others",
+          "pt": "conquistar o respeito dos outros",
+          "ipa": "",
+          "section": "A · Success",
+          "example": "You can win the respect of others by keeping your promises.",
+          "note": "Win respect means earn it through actions; respect is not literally awarded as a prize.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "fail-miserably",
+          "word": "fail miserably",
+          "pt": "fracassar completamente; falhar de maneira desastrosa",
+          "ipa": "",
+          "section": "B · Failure",
+          "example": "The advertising campaign could fail miserably if the message is unclear.",
+          "note": "Miserably is a strong intensifier meaning very badly; it does not imply sadness in this use.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-spectacular-failure",
+          "word": "a spectacular failure",
+          "pt": "um fracasso retumbante; fracasso espetacular",
+          "ipa": "",
+          "section": "B · Failure",
+          "example": "The expensive prototype turned out to be a spectacular failure.",
+          "note": "Spectacular modifies failure to emphasise an especially striking or public lack of success.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "the-play-flopped",
+          "word": "the play flopped",
+          "pt": "a peça de teatro fracassou",
+          "ipa": "",
+          "section": "B · Failure",
+          "example": "The play flopped despite positive reviews.",
+          "note": "Flop is informal and commonly describes unsuccessful shows, films, books or products.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "hopes-were-dashed",
+          "word": "hopes were dashed",
+          "pt": "as esperanças foram destruídas; as expectativas foram frustradas",
+          "ipa": "",
+          "section": "B · Failure",
+          "example": "Their hopes were dashed when the grant application was rejected.",
+          "note": "Dash someone’s hopes means suddenly destroy expectations or plans; a fixed passive pattern is common.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "fail-your-final-exams",
+          "word": "fail your final exams",
+          "pt": "reprovar nas provas finais",
+          "ipa": "",
+          "section": "B · Failure",
+          "example": "If you fail your final exams, the school may offer another chance.",
+          "note": "Fail takes an exam as its object; this contrasts with pass your exams.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "go-badly-wrong",
+          "word": "go badly wrong",
+          "pt": "dar muito errado",
+          "ipa": "",
+          "section": "B · Failure",
+          "example": "The expedition could go badly wrong without suitable equipment.",
+          "note": "Go wrong means develop problems; badly intensifies the extent of the failure.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "be-doomed-to-failure",
+          "word": "be doomed to failure",
+          "pt": "estar condenado ao fracasso",
+          "ipa": "",
+          "section": "B · Failure",
+          "example": "Without a clear plan, the negotiation may be doomed to failure.",
+          "note": "A strong prediction that an effort is virtually certain not to succeed.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "a-dismal-failure",
+          "word": "a dismal failure",
+          "pt": "um fracasso total; um fiasco",
+          "ipa": "",
+          "section": "B · Failure",
+          "example": "The first attempt was a dismal failure, but the second worked well.",
+          "note": "Dismal conveys very poor results and disappointment; dismal fail is ungrammatical here.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "go-out-of-business",
+          "word": "go out of business",
+          "pt": "fechar as portas; encerrar as atividades comerciais",
+          "ipa": "",
+          "section": "B · Failure",
+          "example": "Small shops may go out of business when costs rise too quickly.",
+          "note": "Used when a company or shop stops trading, particularly for financial reasons.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "a-recipe-for-disaster",
+          "word": "a recipe for disaster",
+          "pt": "receita para o desastre; situação com grande risco de dar errado",
+          "ipa": "",
+          "section": "B · Failure",
+          "example": "Skipping safety checks is a recipe for disaster in a laboratory.",
+          "note": "A figurative expression for a plan or combination of conditions very likely to cause serious problems.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "lose-your-nerve",
+          "word": "lose your nerve",
+          "pt": "perder a coragem; amarelar",
+          "ipa": "",
+          "section": "B · Failure",
+          "example": "Do not lose your nerve just before the interview.",
+          "note": "Lose your nerve means suddenly become too frightened or hesitant to do what you intended.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "miss-the-point",
+          "word": "miss the point",
+          "pt": "não entender o ponto principal; não captar a ideia",
+          "ipa": "",
+          "section": "B · Failure",
+          "example": "You miss the point if you focus only on the price and ignore reliability.",
+          "note": "Means misunderstand the central idea; miss the point is different from make a point.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "make-an-enormous-contribution",
+          "word": "make an enormous contribution",
+          "pt": "dar uma contribuição enorme; contribuir imensamente",
+          "ipa": "",
+          "section": "C · Expressions reinforced in exercises",
+          "example": "Her mentor continues to make an enormous contribution to local education.",
+          "note": "Use make with contribution; enormous strongly emphasises its extent.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-complete-flop",
+          "word": "a complete flop",
+          "pt": "um fiasco completo",
+          "ipa": "",
+          "section": "C · Expressions reinforced in exercises",
+          "example": "The first version of the app was a complete flop with users.",
+          "note": "Flop is a noun for an unsuccessful effort or product; an informal alternative to failure.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "high-hopes",
+          "word": "high hopes",
+          "pt": "grandes esperanças; expectativas elevadas",
+          "ipa": "",
+          "section": "C · Expressions reinforced in exercises",
+          "example": "We had high hopes for the new scheme, but the results were disappointing.",
+          "note": "High naturally combines with hopes; the phrase expresses optimistic expectations.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-brilliant-language-learner",
+          "word": "a brilliant language learner",
+          "pt": "alguém excepcional no aprendizado de idiomas",
+          "ipa": "",
+          "section": "C · Expressions reinforced in exercises",
+          "example": "Everyone expected him to be a brilliant language learner after his first course.",
+          "note": "Brilliant is a strong, positive adjective for ability or performance; this item is from the exercise context.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "fail-at-school",
+          "word": "fail at school",
+          "pt": "ir mal na escola; fracassar nos estudos",
+          "ipa": "",
+          "section": "C · Expressions reinforced in exercises",
+          "example": "Children who fail at school may succeed in practical training.",
+          "note": "Fail at school means perform poorly overall, whereas fail an exam identifies a particular test.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "collocation"
+        }
+      ],
+      "sourceAudit": {
+        "sectionsChecked": [
+          "A · Success: school-report collocations",
+          "B · Failure: news-style collocations",
+          "Exercises 52.1–52.3 and answer key"
+        ],
+        "printedPages": [
+          108,
+          109
+        ],
+        "pdfPages": [
+          112,
+          113
+        ],
+        "answerKeyPdfPages": [
+          157
+        ],
+        "editorialScope": "Significant target collocations and expressions in the source teaching and exercises; incidental vocabulary excluded. Pragmatic differences and common error contrasts are explicitly noted.",
+        "exercisePolicy": "Original examples and explanations are newly written; exercises, source paragraphs and answer text are not reproduced.",
+        "itemCount": 37,
+        "targetTypes": {
+          "collocation": 27,
+          "expression": 10
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u113",
+  "title": "Verb and Preposition Patterns",
+  "level": "A2",
+  "topicId": "verb-preposition-patterns",
+  "summary": "Use common verbs with the prepositions they need. Distinguish looking at, looking for and looking after, and avoid extra prepositions after phone, text and email.",
+  "learningObjectives": [
+    "Choose suitable prepositions after common verbs such as listen, belong, ask, thank and wait.",
+    "Distinguish look at, look for and look after in everyday situations.",
+    "Use phone, text and email with a direct object and use depend on for conditions.",
+    "Recognise when think about and think of are both natural."
+  ],
+  "explanation": [
+    {
+      "heading": "Verbs have their own patterns",
+      "body": "Some verbs regularly take a particular preposition: listen to something, belong to someone, happen to someone or something, ask someone for something, thank someone for something, and wait for someone or something. Memorise the verb and its preposition as one expression.",
+      "example": "We waited for the last bus after the concert."
+    },
+    {
+      "heading": "Talk and think",
+      "body": "We talk or speak to a person and can talk or speak about a subject. Think about and think of often have similar meanings, especially when considering plans; either can be used in many ordinary contexts.",
+      "example": "I spoke to Maya about the school trip."
+    },
+    {
+      "heading": "Look at, look for and look after",
+      "body": "Look at means direct your eyes towards something. Look for means try to find something. Look after means take care of a person, animal or thing. Changing the preposition changes the meaning.",
+      "example": "Jo is looking after her neighbour’s cat this week."
+    },
+    {
+      "heading": "Some verbs take no preposition before a person",
+      "body": "Call, phone, text and email normally take a direct object for the person contacted. Do not insert to between these verbs and the person. You can still use other prepositions elsewhere in the sentence.",
+      "example": "Could you text Leo the address?"
+    },
+    {
+      "heading": "Depend on",
+      "body": "Use depend on followed by a noun or noun phrase when something changes according to a condition. Before words such as what, where and how, on can sometimes be omitted: It depends where we go.",
+      "example": "The picnic depends on the weather."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Three meanings of look",
+      "left": {
+        "label": "Look for",
+        "example": "I am looking for my blue scarf.",
+        "note": "I cannot find it."
+      },
+      "right": {
+        "label": "Look after",
+        "example": "I am looking after my niece today.",
+        "note": "I am taking care of her."
+      }
+    },
+    {
+      "title": "Contact verbs with and without a preposition",
+      "left": {
+        "label": "Speak to",
+        "example": "I spoke to Nora yesterday.",
+        "note": "Speak needs to before the listener."
+      },
+      "right": {
+        "label": "Phone",
+        "example": "I phoned Nora yesterday.",
+        "note": "Phone takes the person directly, without to."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Please listen to the safety instructions.",
+      "note": "Listen to introduces what you hear attentively."
+    },
+    {
+      "sentence": "That red bicycle belongs to my uncle.",
+      "note": "Belong to identifies an owner."
+    },
+    {
+      "sentence": "We asked the receptionist for another key.",
+      "note": "Ask a person for a thing."
+    },
+    {
+      "sentence": "I looked at the timetable while we waited for the train.",
+      "note": "Look at and wait for use different prepositions."
+    },
+    {
+      "sentence": "The cost depends on the number of guests.",
+      "note": "Depend on introduces a condition."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "She is listening the teacher.",
+      "correct": "She is listening to the teacher.",
+      "why": "Listen normally needs to before its object."
+    },
+    {
+      "incorrect": "I am looking at my missing bag.",
+      "correct": "I am looking for my missing bag.",
+      "why": "Use look for when trying to find something, not look at."
+    },
+    {
+      "incorrect": "Please email to me the details.",
+      "correct": "Please email me the details.",
+      "why": "Email can take the recipient directly."
+    },
+    {
+      "incorrect": "It depends of the weather.",
+      "correct": "It depends on the weather.",
+      "why": "The usual preposition after depend is on."
+    }
+  ],
+  "studyTips": [
+    "Keep short pairs together when reviewing vocabulary: wait for, belong to, listen to and depend on.",
+    "Imagine a picture for each meaning of look: watching, searching and caring.",
+    "Compare speak to a friend with phone a friend; notice the missing preposition after phone."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: We should listen ___ the instructions before we start.",
+      "choices": [
+        "to",
+        "at",
+        "for"
+      ],
+      "answerIndex": 0,
+      "feedback": "Listen takes to before the thing being heard."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: These keys belong ___ my neighbour.",
+      "choices": [
+        "for",
+        "to",
+        "with"
+      ],
+      "answerIndex": 1,
+      "feedback": "Belong to introduces the owner."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: The children are looking ___ their missing football.",
+      "choices": [
+        "at",
+        "after",
+        "for"
+      ],
+      "answerIndex": 2,
+      "feedback": "Looking for means trying to find the missing ball."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: The final price depends ___ the number of people.",
+      "choices": [
+        "on",
+        "of",
+        "for"
+      ],
+      "answerIndex": 0,
+      "feedback": "Depend on connects the result to a condition."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Could you wait ___ us outside the cinema?",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "Wait for introduces the people you are waiting for."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Please look ___ the puppy while I go to the shop.",
+      "acceptedAnswers": [
+        "after"
+      ],
+      "feedback": "Look after means care for an animal or person."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "My aunt thanked me ___ helping her carry the bags.",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "Thank someone for something, including an -ing action."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Nora is thinking ___ taking a cooking course next month.",
+      "acceptedAnswers": [
+        "about",
+        "of"
+      ],
+      "feedback": "Think about and think of are both natural before an -ing verb when considering a plan."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I listened at the announcement twice.",
+      "acceptedAnswers": [
+        "I listened to the announcement twice."
+      ],
+      "feedback": "Use listen to, not listen at, before the announcement."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Can you phone to the dentist before lunch?",
+      "acceptedAnswers": [
+        "Can you phone the dentist before lunch?"
+      ],
+      "feedback": "Phone takes a direct object for the person; remove to."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: They asked to the teacher for another worksheet.",
+      "acceptedAnswers": [
+        "They asked the teacher for another worksheet."
+      ],
+      "feedback": "The pattern is ask somebody for something, without to before the person."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: That bicycle belongs for my cousin.",
+      "acceptedAnswers": [
+        "That bicycle belongs to my cousin."
+      ],
+      "feedback": "Use belong to to say who owns something."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "You cannot find your wallet. Say a complete sentence beginning 'I am ...' using look for.",
+      "acceptedAnswers": [
+        "I am looking for my wallet.",
+        "I'm looking for my wallet."
+      ],
+      "feedback": "Look for means try to find a missing item."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say the complete sentence: That laptop / belong / to / Noor. Use the present simple.",
+      "acceptedAnswers": [
+        "That laptop belongs to Noor."
+      ],
+      "feedback": "Belongs to is the third-person singular form of belong to."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say the complete sentence in the present continuous: We / wait for / the bus / now.",
+      "acceptedAnswers": [
+        "We are waiting for the bus now.",
+        "We're waiting for the bus now."
+      ],
+      "feedback": "Use waiting for and the present continuous for an action happening now."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Use these facts to make one past-simple sentence: We / asked / the librarian / for / a map. Start with 'We'.",
+      "acceptedAnswers": [
+        "We asked the librarian for a map."
+      ],
+      "feedback": "Ask somebody for something is the correct pattern; asked is the past-simple form."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Make this sentence negative. Keep the present continuous and the other words: 'I am listening to the radio.'",
+      "acceptedAnswers": [
+        "I am not listening to the radio.",
+        "I'm not listening to the radio."
+      ],
+      "feedback": "The negative of am listening is am not listening; keep to after listen."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your sister is taking care of your rabbit today. Tell a friend using 'look after' in the present continuous. Start with 'My sister'.",
+      "acceptedAnswers": [
+        "My sister is looking after my rabbit today."
+      ],
+      "feedback": "Looking after means taking care of someone or something; use is looking after for now."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Remove only the unnecessary word and say the corrected instruction: 'Please email to Sam the photo.'",
+      "acceptedAnswers": [
+        "Please email Sam the photo."
+      ],
+      "feedback": "Email can take the recipient directly: email Sam the photo, not email to Sam the photo."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Yesterday, you discussed a lost parcel with Mia. Tell a friend in one past-simple sentence. Start with 'I spoke' and include 'to Mia', 'about the lost parcel' and 'yesterday'.",
+      "acceptedAnswers": [
+        "I spoke to Mia about the lost parcel yesterday."
+      ],
+      "feedback": "Speak to identifies the listener; about introduces the subject of the conversation."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I'm looking after my little brother this afternoon.",
+      "prompt": "What is the speaker doing this afternoon?",
+      "choices": [
+        "Trying to find a younger brother.",
+        "Taking care of a younger brother.",
+        "Simply looking towards a younger brother."
+      ],
+      "answerIndex": 1,
+      "feedback": "Looking after someone means taking care of them."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I texted Mara before breakfast.",
+      "prompt": "How did the speaker contact Mara?",
+      "choices": [
+        "By visiting her.",
+        "By calling her.",
+        "By sending her a message."
+      ],
+      "answerIndex": 2,
+      "feedback": "Texted takes a person directly and means sent a text message."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Our plan depends on the weather tomorrow.",
+      "prompt": "Type the preposition you hear immediately after depends.",
+      "acceptedAnswers": [
+        "on"
+      ],
+      "feedback": "Depends on introduces the condition that affects the plan."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The woman at the door asked the guests for their tickets before letting them in.",
+      "prompt": "What did the guests need to do to enter?",
+      "choices": [
+        "Show proof that they could enter.",
+        "Help carry some bags.",
+        "Wait for a taxi."
+      ],
+      "answerIndex": 0,
+      "feedback": "The woman requested tickets before allowing entry, so the guests needed to show proof of entry."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I emailed Lucy the timetable, but I phoned Ben because he doesn't read messages.",
+      "prompt": "How did the speaker contact Ben?",
+      "choices": [
+        "With a letter.",
+        "With a telephone call.",
+        "With an email."
+      ],
+      "answerIndex": 1,
+      "feedback": "Phoned Ben means contacted Ben by telephone, without a preposition before his name."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I'm not searching for the red bag. I'm looking after it while its owner is away.",
+      "prompt": "What is the speaker doing with the bag?",
+      "choices": [
+        "Trying to find it.",
+        "Planning to buy it.",
+        "Taking care of it."
+      ],
+      "answerIndex": 2,
+      "feedback": "Looking after means taking care of something, rather than searching for it."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Please listen to the short message before you leave the room.",
+      "prompt": "Type the two-word verb phrase used to ask someone to pay attention to sounds.",
+      "acceptedAnswers": [
+        "listen to"
+      ],
+      "feedback": "Listen to is followed by the thing a person hears attentively."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I thought about taking the later train, but I decided to stay here.",
+      "prompt": "Type the two-word past-tense verb phrase that introduces the idea the speaker considered.",
+      "acceptedAnswers": [
+        "thought about"
+      ],
+      "feedback": "Thought about introduces a possible action; taking correctly follows the preposition about."
+    }
+  ]
+}

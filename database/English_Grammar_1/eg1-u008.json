@@ -1,0 +1,409 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u008",
+  "title": "Present Simple or Present Continuous?",
+  "level": "A2",
+  "topicId": "present-simple-vs-continuous",
+  "summary": "Choose the present continuous for actions happening now and the present simple for habits and general situations. Learn why verbs such as know and want normally stay in the present simple.",
+  "learningObjectives": [
+    "Use am/is/are + -ing for actions in progress at the time of speaking.",
+    "Use the present simple for regular activities and general facts.",
+    "Choose the correct tense in affirmative, negative and question forms.",
+    "Use common state verbs, including want, need and know, in the present simple."
+  ],
+  "explanation": [
+    {
+      "heading": "Use the present continuous for what is happening now",
+      "body": "When an action is in progress at the time you speak, use am, is or are + verb-ing. This form often appears with now, right now, at the moment or Look! It can show something temporary that is happening around the present time.",
+      "example": "My brother is washing his bike outside right now."
+    },
+    {
+      "heading": "Use the present simple for routines and facts",
+      "body": "Choose the present simple for what happens regularly, is generally true or describes a continuing habit. Every day, on Tuesdays, often and usually commonly appear with this tense. With he, she or it, remember the -s or -es ending in affirmative sentences.",
+      "example": "My brother washes his bike every Sunday."
+    },
+    {
+      "heading": "Compare what someone does with what they are doing",
+      "body": "A person may have a regular activity but be doing something else now. Ask Do they work here? for a general fact, but Are they working now? for an action in progress. Choose the tense by the meaning of the situation, not just by one time word.",
+      "example": "Ella usually walks to work, but today she is taking the bus."
+    },
+    {
+      "heading": "Choose the correct helpers in questions and negatives",
+      "body": "The present continuous uses am/is/are with -ing: Is Ben cooking? He isn't cooking. The present simple uses do/does for most questions and negatives: Does Ben cook? He doesn't cook. Do not mix does with an -ing verb when asking about habits.",
+      "example": "Are the children studying now, or do they study in the evening?"
+    },
+    {
+      "heading": "Keep common state verbs in the present simple",
+      "body": "At this level, use the present simple with verbs such as like, prefer, want, need, know, understand, remember, forget, mean and believe, even if the situation is true right now. These verbs usually describe a state, not an action in progress.",
+      "example": "I need my glasses because I can't read this sign."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Now versus a regular habit",
+      "left": {
+        "label": "In progress now",
+        "example": "The children are drawing in the kitchen.",
+        "note": "Are drawing describes an action happening at this moment."
+      },
+      "right": {
+        "label": "Regularly",
+        "example": "The children draw after dinner.",
+        "note": "Draw describes something that happens as a routine."
+      }
+    },
+    {
+      "title": "Two different kinds of question",
+      "left": {
+        "label": "Present continuous",
+        "example": "Is Mina reading the menu now?",
+        "note": "Is + -ing asks about an action currently in progress."
+      },
+      "right": {
+        "label": "Present simple",
+        "example": "Does Mina read in English often?",
+        "note": "Does + base verb asks about a regular activity."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Listen! Someone is playing the piano upstairs.",
+      "note": "Listen! points to an action happening now."
+    },
+    {
+      "sentence": "We visit the market on the first Saturday of every month.",
+      "note": "The present simple describes a repeated visit."
+    },
+    {
+      "sentence": "My neighbour is planting flowers today, but she usually grows vegetables.",
+      "note": "A temporary activity contrasts with a usual one."
+    },
+    {
+      "sentence": "I don't understand this instruction.",
+      "note": "Understand is normally used in the simple form, not understanding."
+    },
+    {
+      "sentence": "Are you wearing your new shoes today?",
+      "note": "Are + wearing asks about a situation happening now."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "As a normal habit, I am drinking tea every morning.",
+      "correct": "As a normal habit, I drink tea every morning.",
+      "why": "A usual routine takes the present simple."
+    },
+    {
+      "incorrect": "Look! The dog runs across the garden.",
+      "correct": "Look! The dog is running across the garden.",
+      "why": "Look! indicates an action in progress right now."
+    },
+    {
+      "incorrect": "She is knowing the answer.",
+      "correct": "She knows the answer.",
+      "why": "Know normally takes the present simple, even for a current state."
+    },
+    {
+      "incorrect": "Does Mateo working on Saturdays?",
+      "correct": "Does Mateo work on Saturdays?",
+      "why": "A present simple question uses does + the base verb work."
+    }
+  ],
+  "studyTips": [
+    "Ask yourself: Is this happening right now, or is it someone's usual activity?",
+    "Practise pairs with the same verb: I read every night. I'm reading now.",
+    "Make a short list of state verbs such as want, need, know and prefer; practise them in the present simple."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Right now, the children ___ a kite in the park.",
+      "choices": [
+        "fly",
+        "flies",
+        "are flying"
+      ],
+      "answerIndex": 2,
+      "feedback": "Right now shows an action in progress; use are + flying with children."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Our baker ___ fresh bread every morning.",
+      "choices": [
+        "makes",
+        "is making",
+        "make"
+      ],
+      "answerIndex": 0,
+      "feedback": "Every morning describes a regular activity, and the singular subject takes makes."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "I ___ this song. It is my favourite.",
+      "choices": [
+        "am liking",
+        "like",
+        "likes"
+      ],
+      "answerIndex": 1,
+      "feedback": "Like normally describes a state, so use the present simple with I."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which sentence describes something happening at this moment?",
+      "choices": [
+        "Nora walks to school each morning.",
+        "Nora likes walking.",
+        "Nora is walking to school now."
+      ],
+      "answerIndex": 2,
+      "feedback": "Is walking and now refer to an action currently in progress."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Use the verb in brackets: Quiet, please. The baby ___ (sleep) right now.",
+      "acceptedAnswers": [
+        "is sleeping"
+      ],
+      "feedback": "The baby is singular, and right now calls for is sleeping."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Use the verb in brackets: Ellie ___ (take) the train to work every Monday.",
+      "acceptedAnswers": [
+        "takes"
+      ],
+      "feedback": "Every Monday is a regular habit, so use the present simple takes."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Use the verb in brackets: I ___ (need) a pen at the moment.",
+      "acceptedAnswers": [
+        "need"
+      ],
+      "feedback": "Need is a state verb and normally stays in the present simple."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: Why ___ they talking so quietly right now?",
+      "acceptedAnswers": [
+        "are"
+      ],
+      "feedback": "Present continuous questions use are + subject + verb-ing with they."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: As a family routine, my grandparents are visiting us every Sunday.",
+      "acceptedAnswers": [
+        "As a family routine, my grandparents visit us every Sunday."
+      ],
+      "feedback": "The sentence describes a regular visit, so choose the present simple visit."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Look! A dog runs across the garden.",
+      "acceptedAnswers": [
+        "Look! A dog is running across the garden."
+      ],
+      "feedback": "The action is happening as we speak, so use is running."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I am not understanding this word.",
+      "acceptedAnswers": [
+        "I don't understand this word.",
+        "I do not understand this word."
+      ],
+      "feedback": "Understand is normally a state verb; use the present simple negative."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the question: Does Mateo working on Saturdays?",
+      "acceptedAnswers": [
+        "Does Mateo work on Saturdays?"
+      ],
+      "feedback": "This asks about a habit: does + Mateo + the base verb work."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say what Mum is doing now using: Mum / cook / dinner / right now.",
+      "acceptedAnswers": [
+        "Mum is cooking dinner right now."
+      ],
+      "feedback": "Use is cooking for an action in progress right now."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Describe a routine using: my brother / cycle / to work / every day.",
+      "acceptedAnswers": [
+        "My brother cycles to work every day."
+      ],
+      "feedback": "Every day means a habit, so use the present simple cycles."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say a complete negative sentence using: I / not / know / her address.",
+      "acceptedAnswers": [
+        "I don't know her address.",
+        "I do not know her address."
+      ],
+      "feedback": "Know normally takes the present simple; use don't know with I."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Describe an action happening right now. Use all these cues in order: Alex / carry / two bags / to the car / right now.",
+      "acceptedAnswers": [
+        "Alex is carrying two bags to the car right now.",
+        "Alex’s carrying two bags to the car right now."
+      ],
+      "feedback": "Use is carrying for an action in progress; carry becomes carrying."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this habitual statement into an action happening now: Leo takes the train to work every day. Keep the train to work and finish with right now.",
+      "acceptedAnswers": [
+        "Leo is taking the train to work right now.",
+        "Leo’s taking the train to work right now."
+      ],
+      "feedback": "Replace the habitual takes with is taking to describe a journey happening right now."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A colleague asks, \"What do you need?\" You need a charger. Reply with one complete sentence using I and need, without adding other information.",
+      "acceptedAnswers": [
+        "I need a charger."
+      ],
+      "feedback": "Need is a state verb here, so use the present simple I need, not I am needing."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this sentence without changing the meaning: I am wanting some water now.",
+      "acceptedAnswers": [
+        "I want some water now."
+      ],
+      "feedback": "Want normally expresses a state, so use the present simple even when the need exists now."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Make one sentence about Omar, using but right now to contrast these facts: he usually reads on the bus; at this moment he is listening to music there. Begin with Omar usually.",
+      "acceptedAnswers": [
+        "Omar usually reads on the bus, but right now he is listening to music.",
+        "Omar usually reads on the bus, but right now he’s listening to music."
+      ],
+      "feedback": "Usually reads describes a habit; is listening describes an action happening at this moment."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I usually take the metro, but today I'm cycling to work.",
+      "prompt": "How is the speaker travelling to work today?",
+      "choices": [
+        "By bicycle",
+        "By car",
+        "By metro"
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker normally uses the metro, but is cycling today."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Tina needs a new umbrella because hers is broken.",
+      "prompt": "Which verb form expresses Tina's current need?",
+      "choices": [
+        "is needing",
+        "needs",
+        "need"
+      ],
+      "answerIndex": 1,
+      "feedback": "Needs is the present simple form used for this state."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "My neighbours are painting their front door today.",
+      "prompt": "Type the two-word present continuous verb phrase you hear.",
+      "acceptedAnswers": [
+        "are painting"
+      ],
+      "feedback": "Are painting describes what the neighbours are doing today."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I normally work at the flower shop, but I’m helping at the bakery today.",
+      "prompt": "Where can someone find the speaker at work today?",
+      "choices": [
+        "At the flower shop",
+        "At the library",
+        "At the bakery"
+      ],
+      "answerIndex": 2,
+      "feedback": "The flower shop is the speaker’s usual workplace, but today the speaker is helping at the bakery."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Our science teacher usually gives us a quiz on Friday, but this week she’s giving it on Wednesday.",
+      "prompt": "When is the quiz taking place this week?",
+      "choices": [
+        "On Monday",
+        "On Wednesday",
+        "On Friday"
+      ],
+      "answerIndex": 1,
+      "feedback": "Usually indicates the regular Friday schedule, but this week the quiz is on Wednesday."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I don’t like cold tea, but I’m drinking it today because I’m thirsty.",
+      "prompt": "What is unusual about the speaker’s action?",
+      "choices": [
+        "They are drinking something they dislike",
+        "They are making tea for a friend",
+        "They are refusing to have a drink"
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker does not like cold tea, a general preference, but is drinking some today, an action in progress."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The builders are putting a new roof on the house today.",
+      "prompt": "Type the two-word verb phrase immediately after The builders.",
+      "acceptedAnswers": [
+        "are putting"
+      ],
+      "feedback": "Are putting describes a temporary activity happening today; put doubles the final t before -ing."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "My sister doesn’t remember the password for this computer.",
+      "prompt": "Type the two-word negative verb phrase immediately after My sister.",
+      "acceptedAnswers": [
+        "doesn’t remember"
+      ],
+      "feedback": "Remember is a state verb here, so the speaker uses the present simple negative doesn’t remember."
+    }
+  ]
+}

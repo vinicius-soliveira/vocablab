@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u005",
+  "title": "Present Simple: Habits and Facts",
+  "level": "A1",
+  "topicId": "present-simple-statements",
+  "summary": "Use the present simple to describe routines, repeated actions and general facts. Choose the correct verb ending and place frequency words naturally.",
+  "learningObjectives": [
+    "Make present simple statements with I, you, we, they and plural subjects.",
+    "Use -s, -es, -ies and irregular has correctly with he, she, it and singular nouns.",
+    "Describe habits and general facts with the present simple.",
+    "Place always, usually, often, sometimes and never before the main verb."
+  ],
+  "explanation": [
+    {
+      "heading": "Use the present simple for habits and facts",
+      "body": "The present simple describes things that happen regularly, things we like or know, and facts that are generally true. It does not normally describe an action in progress at this moment. Words such as every morning, on Mondays and often can show a routine.",
+      "example": "We share a meal with our neighbours every Friday."
+    },
+    {
+      "heading": "Keep the base form with I, you, we and they",
+      "body": "With I, you, we and they, use the base form of the verb: I read, you work, we live, they play. Plural noun subjects follow the same pattern. Do not add -s to the verb with these subjects.",
+      "example": "My classmates take the bus to college."
+    },
+    {
+      "heading": "Add -s or -es with he, she and it",
+      "body": "Use an -s ending after he, she, it or one person or thing: she sings, it costs, my uncle drives. After -s, -sh, -ch and similar endings, the spelling often adds -es, as in washes or watches. Go becomes goes and do becomes does.",
+      "example": "The bakery closes at six on weekdays."
+    },
+    {
+      "heading": "Know -y endings and the form has",
+      "body": "When a consonant comes before -y, change y to -ies: study becomes studies and try becomes tries. When a vowel comes before -y, add -s: play becomes plays. The he/she/it form of have is has.",
+      "example": "Ella studies Spanish and has an online lesson once a week."
+    },
+    {
+      "heading": "Put frequency words before the main verb",
+      "body": "In ordinary present simple statements, put always, usually, often, sometimes or never before the main verb: often walk, usually eats. These words tell us how regularly something happens. With the verb be, the position is different: she is often early.",
+      "example": "My parents usually shop for vegetables on Saturday."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Plural and singular subjects",
+      "left": {
+        "label": "I / we / they",
+        "example": "They walk to the library.",
+        "note": "The verb stays in its base form with they."
+      },
+      "right": {
+        "label": "He / she / it",
+        "example": "He walks to the library.",
+        "note": "Add -s because the subject is he."
+      }
+    },
+    {
+      "title": "Simple present verb endings",
+      "left": {
+        "label": "Vowel + y",
+        "example": "Sam plays chess after dinner.",
+        "note": "Keep the y and add -s to play."
+      },
+      "right": {
+        "label": "Consonant + y",
+        "example": "Sam studies after dinner.",
+        "note": "Change the final y to -ies in study."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I take the same train every Tuesday.",
+      "note": "I uses the base form take in a weekly routine."
+    },
+    {
+      "sentence": "My neighbour fixes bicycles in his free time.",
+      "note": "A singular subject takes fixes, ending in -es."
+    },
+    {
+      "sentence": "The children enjoy the new playground.",
+      "note": "Children is plural, so enjoy has no -s ending."
+    },
+    {
+      "sentence": "My cousin has a small vegetable garden.",
+      "note": "Has is the singular present simple form of have."
+    },
+    {
+      "sentence": "We sometimes make soup for lunch.",
+      "note": "Sometimes goes before the main verb make."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "My mother work in a hotel.",
+      "correct": "My mother works in a hotel.",
+      "why": "Add -s to the present simple verb with a singular subject."
+    },
+    {
+      "incorrect": "They plays basketball on Thursdays.",
+      "correct": "They play basketball on Thursdays.",
+      "why": "With they, use the base verb without -s."
+    },
+    {
+      "incorrect": "Leo studys in the evening.",
+      "correct": "Leo studies in the evening.",
+      "why": "With a consonant before -y, change y to -ies."
+    },
+    {
+      "incorrect": "Rosa cooks often at home.",
+      "correct": "Rosa often cooks at home.",
+      "why": "Often normally comes before the present simple main verb."
+    }
+  ],
+  "studyTips": [
+    "Underline the subject first. Add -s or -es only if it means he, she, it or one person or thing.",
+    "Build a small spelling list with goes, does, washes, studies, plays and has.",
+    "Practise one sentence about a daily routine with usually, often, sometimes and never."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "My sister ___ the bus to college every morning.",
+      "choices": [
+        "takes",
+        "take",
+        "taking"
+      ],
+      "answerIndex": 0,
+      "feedback": "My sister is singular, so take becomes takes."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The two cafés ___ at seven every morning.",
+      "choices": [
+        "opens",
+        "open",
+        "opening"
+      ],
+      "answerIndex": 1,
+      "feedback": "The two cafés is plural, so use the base form open."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Jack ___ his football shirt after every match.",
+      "choices": [
+        "wash",
+        "washing",
+        "washes"
+      ],
+      "answerIndex": 2,
+      "feedback": "After Jack, use washes: wash takes -es in the he/she/it form."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Sara ___ before dinner.",
+      "choices": [
+        "usually finishes her homework",
+        "finishes usually her homework",
+        "usually finish her homework"
+      ],
+      "answerIndex": 0,
+      "feedback": "Usually comes before the main verb, and Sara takes finishes."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "My younger brother ___ French at school. (study)",
+      "acceptedAnswers": [
+        "studies"
+      ],
+      "feedback": "Study changes to studies with he, she or one singular person."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "I ___ breakfast at home most days. (have)",
+      "acceptedAnswers": [
+        "have"
+      ],
+      "feedback": "With I, use the base form have, not has."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Their dog ___ to the door when someone arrives. (go)",
+      "acceptedAnswers": [
+        "goes"
+      ],
+      "feedback": "Go becomes goes after a singular subject such as their dog."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Our new teacher ___ a bicycle. (have)",
+      "acceptedAnswers": [
+        "has"
+      ],
+      "feedback": "A singular subject takes has, not have."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My father cook dinner on Fridays.",
+      "acceptedAnswers": [
+        "My father cooks dinner on Fridays."
+      ],
+      "feedback": "My father is singular; add -s to cook."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She studys English after lunch.",
+      "acceptedAnswers": [
+        "She studies English after lunch."
+      ],
+      "feedback": "Study has consonant + y, so the singular form is studies."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I goes to the swimming pool on Wednesdays.",
+      "acceptedAnswers": [
+        "I go to the swimming pool on Wednesdays."
+      ],
+      "feedback": "Use the base form go with I."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Nora takes always the early train.",
+      "acceptedAnswers": [
+        "Nora always takes the early train."
+      ],
+      "feedback": "Always normally goes before the present simple main verb takes."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say a complete present simple sentence using: my grandfather / read / the newspaper / every morning.",
+      "acceptedAnswers": [
+        "My grandfather reads the newspaper every morning."
+      ],
+      "feedback": "A singular subject takes reads with -s."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say a complete sentence using: I / often / cook / pasta / on Fridays.",
+      "acceptedAnswers": [
+        "I often cook pasta on Fridays."
+      ],
+      "feedback": "Put often before the base verb cook with I."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say a complete sentence using: the museum / close / at five / every day.",
+      "acceptedAnswers": [
+        "The museum closes at five every day."
+      ],
+      "feedback": "The museum is singular, so close becomes closes."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Say one complete sentence about this weekly routine. Use these exact facts: Lena / have / a violin lesson / every Wednesday.",
+      "acceptedAnswers": [
+        "Lena has a violin lesson every Wednesday."
+      ],
+      "feedback": "Lena is one person, so have changes to has in the present simple."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this sentence from plural to singular: “The boys carry boxes to school every Friday.” Start with “The boy” and keep the other facts.",
+      "acceptedAnswers": [
+        "The boy carries boxes to school every Friday."
+      ],
+      "feedback": "With the singular subject the boy, carry changes to carries (consonant + y becomes -ies)."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks, “What does Ravi do every Sunday?” The fact is: Ravi fixes his bicycle every Sunday. Answer in one complete statement beginning with “Ravi”.",
+      "acceptedAnswers": [
+        "Ravi fixes his bicycle every Sunday."
+      ],
+      "feedback": "Use fixes with the singular subject Ravi; fix takes -es in the present simple."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the word order in this sentence and say the whole sentence: “My sister goes never to the library.” Keep every other word.",
+      "acceptedAnswers": [
+        "My sister never goes to the library."
+      ],
+      "feedback": "Never normally comes before the main verb goes in a present simple statement."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Combine these two Saturday routines in one sentence using “and”: Nina goes to the gym; her parents go to the park. Mention “every Saturday” once, at the end.",
+      "acceptedAnswers": [
+        "Nina goes to the gym and her parents go to the park every Saturday."
+      ],
+      "feedback": "Use goes for Nina (singular) and go for her parents (plural)."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "My cousin studies music after school.",
+      "prompt": "What subject does the speaker’s cousin study?",
+      "choices": [
+        "Science",
+        "Music",
+        "History"
+      ],
+      "answerIndex": 1,
+      "feedback": "The cousin studies music; studies is the singular form of study."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We usually walk to the market on Saturdays.",
+      "prompt": "On which day do they usually walk to the market?",
+      "choices": [
+        "Fridays",
+        "Sundays",
+        "Saturdays"
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker says Saturdays; usually comes before walk."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "He has two bicycles at home.",
+      "prompt": "Type the one-word present simple verb of possession that you hear.",
+      "acceptedAnswers": [
+        "has"
+      ],
+      "feedback": "With he, the present simple of have is has."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "My uncle works at a small bakery, and he starts at six every morning.",
+      "prompt": "What is true about his work routine?",
+      "choices": [
+        "He starts after lunch.",
+        "He begins work early.",
+        "He only works at night."
+      ],
+      "answerIndex": 1,
+      "feedback": "Starting at six every morning means he begins his working day early."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Every Saturday, Hana visits her grandparents, but her brother stays at home.",
+      "prompt": "Who spends Saturdays with the grandparents?",
+      "choices": [
+        "Both children",
+        "Only the brother",
+        "Only the sister"
+      ],
+      "answerIndex": 2,
+      "feedback": "Hana visits her grandparents; her brother stays at home, so only the sister visits."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Ben usually takes the train to work, but he drives his car on Fridays.",
+      "prompt": "What changes on Fridays?",
+      "choices": [
+        "How Ben travels to work",
+        "Where Ben works",
+        "Who Ben works with"
+      ],
+      "answerIndex": 0,
+      "feedback": "He normally uses the train, but on Fridays he travels by car."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "My little sister catches the school bus at half past seven every morning.",
+      "prompt": "Type the single present-simple action verb you hear.",
+      "acceptedAnswers": [
+        "catches"
+      ],
+      "feedback": "Catches is the he/she/it form of catch; verbs ending in -ch take -es."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Sam sometimes brings fruit for his classmates at lunchtime.",
+      "prompt": "Type the one-word frequency adverb you hear.",
+      "acceptedAnswers": [
+        "sometimes"
+      ],
+      "feedback": "Sometimes says that this happens on some occasions, not every time."
+    }
+  ]
+}

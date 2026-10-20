@@ -1,0 +1,403 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u098",
+  "title": "When and Other Time Clauses",
+  "level": "A2",
+  "topicId": "when-before-while-after-until-clauses",
+  "summary": "Use when, before, while, after and until to show how events relate in time. Describe future plans with a present form in the time clause.",
+  "learningObjectives": [
+    "Place when-clauses before or after a main clause with appropriate punctuation.",
+    "Use when, before, after and while to show the order or overlap of actions.",
+    "Use a present-tense verb after when and similar time words for future situations.",
+    "Use until to say how long an action will continue."
+  ],
+  "explanation": [
+    {
+      "heading": "When links an event to a time",
+      "body": "A when-clause tells us the time at which another event happens or happened. It can come at the beginning or at the end of a sentence. The main idea remains the same if you change the order.",
+      "example": "We started dinner when our guests arrived."
+    },
+    {
+      "heading": "Comma when the time clause comes first",
+      "body": "When the sentence begins with a time clause, put a comma after it. Normally no comma is needed when the time clause follows the main clause.",
+      "example": "When our guests arrived, we started dinner."
+    },
+    {
+      "heading": "Before, after, while and until",
+      "body": "Before shows an earlier action; after shows a later action; while describes actions that overlap in time. Until marks the time when an activity or situation ends. These time clauses can often appear at the start or end of a sentence.",
+      "example": "I read a magazine while my sister prepared lunch."
+    },
+    {
+      "heading": "Future time clauses use the present",
+      "body": "If the main clause refers to the future, use the present simple after when, before, after and until—not will. Use will or be going to in the main clause as needed. A time clause with while can also use a present form for a future situation.",
+      "example": "I will check the address before I leave tomorrow."
+    },
+    {
+      "heading": "Different tenses for past and future",
+      "body": "Choose the tense according to the situation. For a finished event in the past, use past forms; for a future time clause, use a present form. Do not put will in the time clause just because the event is in the future.",
+      "example": "When the film ended last night, everyone stood up."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Time clause position and punctuation",
+      "left": {
+        "label": "Time clause first",
+        "example": "When the bell rang, the pupils left.",
+        "note": "A comma separates the opening time clause from the main clause."
+      },
+      "right": {
+        "label": "Time clause last",
+        "example": "The pupils left when the bell rang.",
+        "note": "Usually no comma is needed."
+      }
+    },
+    {
+      "title": "Future time: main clause versus time clause",
+      "left": {
+        "label": "Future main clause",
+        "example": "I will call you after the appointment.",
+        "note": "Will places the main action in the future."
+      },
+      "right": {
+        "label": "Future when-clause",
+        "example": "I will call you when the appointment ends.",
+        "note": "Ends is present simple in the time clause, not will end."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I put my phone away when the performance began.",
+      "note": "Both actions happened in the past."
+    },
+    {
+      "sentence": "Before you open the box, read the label.",
+      "note": "The before-clause comes first and is followed by a comma."
+    },
+    {
+      "sentence": "The lights went out while we were having dinner.",
+      "note": "While links the power failure to an activity in progress."
+    },
+    {
+      "sentence": "We will visit the market after it opens on Saturday.",
+      "note": "Opens is present simple even though Saturday is in the future."
+    },
+    {
+      "sentence": "I will wait in the lobby until you return.",
+      "note": "Until shows when the waiting will end; return is present simple."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I will message you when I will finish work.",
+      "correct": "I will message you when I finish work.",
+      "why": "Use present simple after when for a future time."
+    },
+    {
+      "incorrect": "Before you will start the exercise, read the instructions.",
+      "correct": "Before you start the exercise, read the instructions.",
+      "why": "A future time clause after before normally takes the present form."
+    },
+    {
+      "incorrect": "I will stay here until the train will arrive.",
+      "correct": "I will stay here until the train arrives.",
+      "why": "Use present simple after until to describe a future stopping point."
+    }
+  ],
+  "studyTips": [
+    "Mark each sentence as past or future before selecting the tense of the time clause.",
+    "Practise both orders: “When the lesson starts, we will listen” and “We will listen when the lesson starts.”",
+    "Check for a comma after a time clause at the beginning, and check for present simple after when or until in future sentences."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the sentence with the correct future time clause.",
+      "choices": [
+        "I will email you when I arrive.",
+        "I will email you when I will arrive.",
+        "I will email you when will I arrive."
+      ],
+      "answerIndex": 0,
+      "feedback": "Use present simple arrive after when even though the email will be sent later."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which sentence follows the usual punctuation rule for an opening when-clause?",
+      "choices": [
+        "When the show finished we went for tea.",
+        "When the show finished, we went for tea.",
+        "When, the show finished we went for tea."
+      ],
+      "answerIndex": 1,
+      "feedback": "A comma normally follows a when-clause at the beginning of a sentence."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which expression introduces an activity that can overlap with another action?",
+      "choices": [
+        "after I washed the dishes",
+        "before I washed the dishes",
+        "while I was washing the dishes"
+      ],
+      "answerIndex": 2,
+      "feedback": "While describes a period during which another event can happen."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct sentence about waiting for a future event.",
+      "choices": [
+        "I will wait until she returns.",
+        "I will wait until she will return.",
+        "I will wait until will she return."
+      ],
+      "answerIndex": 0,
+      "feedback": "Use returns, not will return, after until in a future time clause."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with the present simple form of get: “I will put the groceries away when I ___ home.”",
+      "acceptedAnswers": [
+        "get"
+      ],
+      "feedback": "The future time clause after when uses present simple get."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with the present simple form of leave: “Please lock the gate before you ___.”",
+      "acceptedAnswers": [
+        "leave"
+      ],
+      "feedback": "After before, use present simple leave for a future action."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with the past form of be: “While she ___ reading, the doorbell rang.”",
+      "acceptedAnswers": [
+        "was"
+      ],
+      "feedback": "Was reading describes an activity in progress when the bell rang."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the present simple form of finish: “After we ___ dinner tomorrow, we will watch a film.”",
+      "acceptedAnswers": [
+        "finish"
+      ],
+      "feedback": "After introduces a future time clause, so use present simple finish."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the verb in the when-clause: “When I will finish my shift, I will call you.”",
+      "acceptedAnswers": [
+        "When I finish my shift, I will call you."
+      ],
+      "feedback": "Use finish, not will finish, after when for a future time."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the verb in the before-clause: “Before you will go to bed, turn off the lights.”",
+      "acceptedAnswers": [
+        "Before you go to bed, turn off the lights."
+      ],
+      "feedback": "Use present simple go after before in this instruction."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the verb in the after-clause: “After the guests will arrive, we will serve lunch.”",
+      "acceptedAnswers": [
+        "After the guests arrive, we will serve lunch."
+      ],
+      "feedback": "Use arrive in the time clause even though the event is in the future."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the verb in the until-clause: “I will stay here until you will return.”",
+      "acceptedAnswers": [
+        "I will stay here until you return."
+      ],
+      "feedback": "Use present simple return after until to describe a future endpoint."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Join these sentences into one, beginning with “When”: “The alarm rang. I checked the door.”",
+      "acceptedAnswers": [
+        "When the alarm rang, I checked the door."
+      ],
+      "feedback": "Use a comma after the opening when-clause."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Make a complete sentence using these words and the contracted form I'll: “I / text you / when / I / arrive”.",
+      "acceptedAnswers": [
+        "I'll text you when I arrive."
+      ],
+      "feedback": "Use I'll in the main clause and present simple arrive after when."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Arrange these words as a complete sentence beginning with Before: “before / you / start cooking / wash / your hands”.",
+      "acceptedAnswers": [
+        "Before you start cooking, wash your hands."
+      ],
+      "feedback": "The before-clause comes first, followed by a comma and the instruction."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You plan to collect a parcel at the time the post office opens tomorrow. Begin with “I will collect the parcel” and add a when-clause about the post office opening.",
+      "acceptedAnswers": [
+        "I will collect the parcel when the post office opens.",
+        "I’ll collect the parcel when the post office opens."
+      ],
+      "feedback": "Use will in the main clause, but present simple opens after when for a future event."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Move the time clause to the beginning, starting with “After”: “We will cook dinner after Dad comes home.” Keep the meaning and tense unchanged.",
+      "acceptedAnswers": [
+        "After Dad comes home, we will cook dinner.",
+        "After Dad comes home, we’ll cook dinner."
+      ],
+      "feedback": "An opening after-clause is followed by a comma; comes stays in the present simple."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You are waiting for Sarah, who is out. Tell a friend that you will stop waiting when Sarah returns. Start “I will wait here” and use until.",
+      "acceptedAnswers": [
+        "I will wait here until Sarah returns.",
+        "I’ll wait here until Sarah returns."
+      ],
+      "feedback": "Until gives the endpoint of the waiting; returns is present simple even though the event is future."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the future time clause and say the entire sentence: “I will water the plants before I will go out.”",
+      "acceptedAnswers": [
+        "I will water the plants before I go out.",
+        "I’ll water the plants before I go out."
+      ],
+      "feedback": "After before, use present simple go to refer to a future event; keep will in the main clause."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Yesterday, Dan was washing the dishes when the phone rang. Make one sentence beginning “While Dan”, using past continuous for washing and past simple for the phone ringing.",
+      "acceptedAnswers": [
+        "While Dan was washing the dishes, the phone rang."
+      ],
+      "feedback": "While introduces an activity in progress, and the past simple describes the event that happened during it."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "When the lesson finished, Sam packed his bag.",
+      "prompt": "What did Sam do when the lesson ended?",
+      "choices": [
+        "He opened a window.",
+        "He packed his bag.",
+        "He made a phone call."
+      ],
+      "answerIndex": 1,
+      "feedback": "The second clause tells us that Sam packed his bag."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I will water the plants before I leave for the weekend.",
+      "prompt": "When will the speaker water the plants?",
+      "choices": [
+        "After coming home.",
+        "While travelling.",
+        "Before leaving."
+      ],
+      "answerIndex": 2,
+      "feedback": "Before indicates that watering the plants will happen earlier than leaving."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I will take a short walk when the rain stops.",
+      "prompt": "Type the present-simple verb that follows the words “the rain” in the recording.",
+      "acceptedAnswers": [
+        "stops"
+      ],
+      "feedback": "The verb is stops, a present form used for a future time clause."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "When the bakery opens at eight, I will buy some fresh bread.",
+      "prompt": "What needs to happen before the speaker can make the purchase?",
+      "choices": [
+        "The shop needs to open.",
+        "The speaker needs to finish lunch.",
+        "The bread needs to cool down."
+      ],
+      "answerIndex": 0,
+      "feedback": "The purchase will happen when the bakery opens, at eight."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I fed the cat before I left for work this morning.",
+      "prompt": "Which action happened first?",
+      "choices": [
+        "The speaker arrived at work.",
+        "The speaker gave the cat food.",
+        "The speaker came home again."
+      ],
+      "answerIndex": 1,
+      "feedback": "Before tells us that feeding the cat happened earlier than leaving for work."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Please keep the door closed until the children finish their lesson.",
+      "prompt": "When is it okay to open the door?",
+      "choices": [
+        "While the children are still learning.",
+        "Before the lesson begins.",
+        "Once the lesson has ended."
+      ],
+      "answerIndex": 2,
+      "feedback": "Until marks the end of the period when the door must remain closed."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "I was washing the car while my sister cleaned the windows.",
+      "prompt": "Type the one-word time connector indicating that the activities overlapped.",
+      "acceptedAnswers": [
+        "while"
+      ],
+      "feedback": "While connects two actions that happened during the same period."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We will lock the door before the shop closes.",
+      "prompt": "Type the present-simple verb you hear immediately after “the shop”.",
+      "acceptedAnswers": [
+        "closes"
+      ],
+      "feedback": "Closes is present simple in the future time clause after before."
+    }
+  ]
+}

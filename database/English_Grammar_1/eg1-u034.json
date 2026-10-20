@@ -1,0 +1,409 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u034",
+  "title": "Would Like: Offers, Invitations and Wishes",
+  "level": "A2",
+  "topicId": "would-like-offers-invitations",
+  "summary": "Offer things, invite others and state wishes politely with would like. Distinguish what someone wants now from what they generally like.",
+  "learningObjectives": [
+    "Make a polite offer using Would you like + noun phrase?",
+    "Invite someone with Would you like to + base verb? and recognise common polite replies.",
+    "State a wish or request with I’d like + noun phrase or I’d like to + base verb.",
+    "Choose between Do you like…? for general preferences and Would you like…? for a specific offer or wish."
+  ],
+  "explanation": [
+    {
+      "heading": "Offers: Would you like + thing?",
+      "body": "Use Would you like + a noun or noun phrase when offering someone something. It asks whether the person wants that thing now, not whether they like it in general. Short answers such as Yes, please and No, thank you sound natural.",
+      "example": "Would you like some fresh fruit?"
+    },
+    {
+      "heading": "Invitations: Would you like to + verb?",
+      "body": "When inviting a person to take part in an activity, use Would you like to + base verb. The to is necessary before the action verb. A warm acceptance is Yes, I’d love to; a refusal can be No, thank you.",
+      "example": "Would you like to join us for breakfast on Sunday?"
+    },
+    {
+      "heading": "I’d like: polite wishes and requests",
+      "body": "I’d like means I would like. Use I’d like + a thing when making a polite request, and I’d like to + base verb when talking about an action you want to do. Do not put to immediately before a noun.",
+      "example": "I’d like to reserve two seats, please."
+    },
+    {
+      "heading": "Do you like or would you like?",
+      "body": "Do you like…? asks about usual tastes or general preferences. Would you like…? refers to a particular offer or wish, often now or at a specific future time. Compare Do you like hot drinks? with Would you like a hot drink? for this moment.",
+      "example": "Do you like board games, or would you like to try this one tonight?"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A general preference or an offer?",
+      "left": {
+        "label": "General preference",
+        "example": "Do you like soup?",
+        "note": "The speaker asks about your taste in soup generally."
+      },
+      "right": {
+        "label": "Specific offer",
+        "example": "Would you like some soup?",
+        "note": "The speaker offers you soup now."
+      }
+    },
+    {
+      "title": "A thing or an activity?",
+      "left": {
+        "label": "A thing: no to",
+        "example": "I’d like a glass of lemonade, please.",
+        "note": "A noun phrase follows like."
+      },
+      "right": {
+        "label": "An activity: use to",
+        "example": "I’d like to sit by the window.",
+        "note": "To + base verb expresses a wished-for action."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Would you like a seat near the window?",
+      "note": "Would you like + noun phrase offers a particular thing."
+    },
+    {
+      "sentence": "Would you like to visit the art market with me tomorrow?",
+      "note": "To + base verb creates an invitation."
+    },
+    {
+      "sentence": "I’d like some bread with my lunch, please.",
+      "note": "I’d like is a polite way to request an item."
+    },
+    {
+      "sentence": "We’d like to leave after breakfast.",
+      "note": "Would like to introduces an intended or desired action."
+    },
+    {
+      "sentence": "Do you like cycling in the countryside?",
+      "note": "Do you like asks about a general preference."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Would you like to a biscuit?",
+      "correct": "Would you like a biscuit?",
+      "why": "Use would like + noun phrase without to."
+    },
+    {
+      "incorrect": "Would you like come for dinner?",
+      "correct": "Would you like to come for dinner?",
+      "why": "An invitation to an activity uses would like to + base verb."
+    },
+    {
+      "incorrect": "I’d like buy a notebook.",
+      "correct": "I’d like to buy a notebook.",
+      "why": "Use to before an action verb after would like."
+    },
+    {
+      "incorrect": "Do you like some water now?",
+      "correct": "Would you like some water now?",
+      "why": "A specific offer uses Would you like rather than a question about general tastes."
+    }
+  ],
+  "studyTips": [
+    "Listen for the word after like: a noun for an offered item, or to + verb for an activity.",
+    "Practise responding to offers with Yes, please or No, thank you, and to invitations with Yes, I’d love to.",
+    "Make a pair of questions about the same food: Do you like…? for tastes, then Would you like…? for an offer."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "You are offering a friend a slice of cake now. What is the natural polite question?",
+      "choices": [
+        "Do you like a slice of cake?",
+        "Would you like a slice of cake?",
+        "Would you like to a slice of cake?"
+      ],
+      "answerIndex": 1,
+      "feedback": "Would you like + noun phrase makes a specific polite offer."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "You want to know someone’s general taste in music. ___ jazz?",
+      "choices": [
+        "Do you like",
+        "Would you like",
+        "Would you like to"
+      ],
+      "answerIndex": 0,
+      "feedback": "Do you like asks about a general preference, not an immediate offer."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the natural polite request at a café.",
+      "choices": [
+        "I like buying a coffee, please.",
+        "I’d like to coffee, please.",
+        "I’d like a coffee, please."
+      ],
+      "answerIndex": 2,
+      "feedback": "I’d like + noun phrase politely asks for a thing without to."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "You want to invite a colleague to eat with your group. ___ have lunch with us tomorrow?",
+      "choices": [
+        "Would you like to",
+        "Do you like to",
+        "Would you like"
+      ],
+      "answerIndex": 0,
+      "feedback": "Would you like to + base verb is the form for an invitation."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete the polite offer using would like: “___ some cold water?”",
+      "acceptedAnswers": [
+        "Would you like"
+      ],
+      "feedback": "Would you like + noun phrase politely offers a drink."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete the invitation: “Would you like ___ come to our book club on Friday?”",
+      "acceptedAnswers": [
+        "to"
+      ],
+      "feedback": "Use to between would like and the base verb come."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "“What would you like to drink?” “___ a glass of apple juice, please.”",
+      "acceptedAnswers": [
+        "I'd like",
+        "I would like"
+      ],
+      "feedback": "I’d like + noun phrase is a polite request for a drink."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Ask about a general preference: “___ you like tea?” (Use the present simple auxiliary.)",
+      "acceptedAnswers": [
+        "Do"
+      ],
+      "feedback": "Do you like refers to a usual taste rather than an offer."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Would you like to some orange juice?",
+      "acceptedAnswers": [
+        "Would you like some orange juice?"
+      ],
+      "feedback": "Remove to before the noun phrase some orange juice."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I’d like buy a new notebook, please.",
+      "acceptedAnswers": [
+        "I'd like to buy a new notebook, please.",
+        "I would like to buy a new notebook, please."
+      ],
+      "feedback": "Put to before the action verb buy."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Would you like come to our barbecue on Sunday?",
+      "acceptedAnswers": [
+        "Would you like to come to our barbecue on Sunday?"
+      ],
+      "feedback": "An invitation takes would like to + base verb."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Do you like a cup of coffee now?",
+      "acceptedAnswers": [
+        "Would you like a cup of coffee now?"
+      ],
+      "feedback": "This is an offer for now, so use Would you like rather than Do you like."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Offer your visitor a cup of tea. Start with 'Would you like'.",
+      "acceptedAnswers": [
+        "Would you like a cup of tea?"
+      ],
+      "feedback": "Would you like followed by a noun phrase makes a polite offer."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Invite Kim to watch a film tonight. Start with 'Would you like'.",
+      "acceptedAnswers": [
+        "Would you like to watch a film tonight?"
+      ],
+      "feedback": "An invitation uses would like to followed by the base verb watch."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "In a café, politely ask for a sandwich. Start with 'I'd like'.",
+      "acceptedAnswers": [
+        "I'd like a sandwich, please.",
+        "I would like a sandwich, please."
+      ],
+      "feedback": "I’d like + noun phrase asks for an item politely."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "At a travel office, say politely that you want to book a ticket for Friday. Begin with 'I'd like to' and use the action 'book a ticket for Friday'.",
+      "acceptedAnswers": [
+        "I'd like to book a ticket for Friday.",
+        "I would like to book a ticket for Friday."
+      ],
+      "feedback": "Would like to + base verb expresses a polite wish to do something."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this question about a general taste into an offer for right now: 'Do you like lemonade?' Begin with 'Would you like' and use 'some lemonade'.",
+      "acceptedAnswers": [
+        "Would you like some lemonade?"
+      ],
+      "feedback": "Would you like some lemonade? makes a specific offer; Do you like lemonade? asks about a general preference."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend invites you to play chess after lunch. Accept the invitation with a short polite reply beginning 'Yes' and including 'love to'.",
+      "acceptedAnswers": [
+        "Yes, I'd love to.",
+        "Yes, I would love to."
+      ],
+      "feedback": "I'd love to is a natural and enthusiastic reply to an invitation."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A friend says, 'Would you like football this afternoon?' They mean to invite you to play. Correct the invitation using 'Would you like to' and 'play football this afternoon'.",
+      "acceptedAnswers": [
+        "Would you like to play football this afternoon?"
+      ],
+      "feedback": "An invitation to an activity needs would like to + base verb, not would like + noun alone."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "At a restaurant, say two short sentences. First, request a bowl of soup politely and end with 'please'. Second, say you want to sit outside. Start both sentences with 'I'd like' or 'I would like'.",
+      "acceptedAnswers": [
+        "I'd like a bowl of soup, please. I'd like to sit outside.",
+        "I would like a bowl of soup, please. I would like to sit outside.",
+        "I'd like a bowl of soup, please. I would like to sit outside.",
+        "I would like a bowl of soup, please. I'd like to sit outside."
+      ],
+      "feedback": "Use would like + a noun for the soup, and would like to + verb for the action of sitting outside."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Would you like a biscuit with your tea?",
+      "prompt": "What is the speaker doing?",
+      "choices": [
+        "Asking about someone’s usual preferences.",
+        "Offering a biscuit.",
+        "Inviting someone to bake biscuits."
+      ],
+      "answerIndex": 1,
+      "feedback": "Would you like a biscuit? is a specific polite offer."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I like hiking, but I’d like to stay indoors today.",
+      "prompt": "What does the speaker want to do today?",
+      "choices": [
+        "Go hiking outdoors.",
+        "Buy some walking shoes.",
+        "Stay indoors."
+      ],
+      "answerIndex": 2,
+      "feedback": "I’d like to stay indoors describes what the speaker wants today, although they like hiking generally."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I’d like a ticket for tomorrow morning, please.",
+      "prompt": "Type the two-word polite expression the customer uses to ask for a ticket.",
+      "acceptedAnswers": [
+        "I'd like",
+        "I would like"
+      ],
+      "feedback": "I’d like is the polite contracted form of I would like."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I know you love oranges. Would you like some orange juice with breakfast?",
+      "prompt": "Why does the speaker ask the second question?",
+      "choices": [
+        "To offer a drink with the meal.",
+        "To ask which fruit the person usually prefers.",
+        "To invite the listener to make juice tomorrow."
+      ],
+      "answerIndex": 0,
+      "feedback": "Would you like some orange juice? offers a drink for this breakfast, rather than asking about general tastes."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I'd like to reserve a table for four at seven on Saturday evening.",
+      "prompt": "Which reservation does the speaker want?",
+      "choices": [
+        "A table for two on Sunday at seven.",
+        "A table for four on Saturday at six.",
+        "A table for four on Saturday at seven."
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker wants a table for four people at seven o'clock on Saturday."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Do you like music? Would you like to come to a concert on Friday?",
+      "prompt": "How are the two questions different?",
+      "choices": [
+        "Both ask about general preferences.",
+        "The first asks about general taste; the second is an invitation.",
+        "The first is an invitation; the second asks about usual tastes."
+      ],
+      "answerIndex": 1,
+      "feedback": "Do you like asks about general interests; would you like to come invites someone to a specific event."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Do you like puzzles, or do you prefer card games?",
+      "prompt": "Type the three words at the beginning of the question about general preferences.",
+      "acceptedAnswers": [
+        "Do you like"
+      ],
+      "feedback": "Do you like asks about what someone enjoys in general, not what they want right now."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We'd like to see the old castle before lunch.",
+      "prompt": "Type the short polite expression at the start of the sentence, before 'to see'.",
+      "acceptedAnswers": [
+        "We'd like",
+        "We would like"
+      ],
+      "feedback": "We'd like is a contraction of we would like; the following to introduces the desired action."
+    }
+  ]
+}

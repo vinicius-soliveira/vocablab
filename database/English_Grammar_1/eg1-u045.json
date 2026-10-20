@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u045",
+  "title": "Who and What: Subject and Object Questions",
+  "level": "A2",
+  "topicId": "subject-object-who-what-questions",
+  "summary": "Ask who performs an action or who receives it, and ask what happens or what someone does to a thing. Notice when a question needs do, does or did and when it does not.",
+  "learningObjectives": [
+    "Distinguish questions about the subject from questions about the object of a verb.",
+    "Form simple-tense subject questions with who or what without adding do, does or did.",
+    "Use do, does or did plus a base verb in simple-tense object questions.",
+    "Use who for people and what for things or events, while keeping an existing auxiliary when the verb form needs it."
+  ],
+  "explanation": [
+    {
+      "heading": "Who or what is the subject?",
+      "body": "The subject is the person or thing that performs the action or is responsible for an event. When who or what asks about that subject in the present simple or past simple, put the main verb directly after the question word. Do not add an ordinary question auxiliary such as do, does or did.",
+      "example": "Who left the kitchen light on?"
+    },
+    {
+      "heading": "Who or what is the object?",
+      "body": "The object is the person or thing affected by the action. If you already know the subject and ask about its object in the present simple, use do or does before the subject and then a base verb. In the past simple, use did and the base verb.",
+      "example": "What did Ruben put in the cupboard?"
+    },
+    {
+      "heading": "Compare the same action from two sides",
+      "body": "Ask about the subject when you want to know who did something. Ask about the object when you know who acted but want to know which person or thing was involved. Compare the position of the person’s name and the use of did.",
+      "example": "Who emailed Rosa? / Who did Rosa email?"
+    },
+    {
+      "heading": "Keep auxiliaries that belong to the verb form",
+      "body": "The no-do rule applies to simple-tense subject questions. Other verb forms still use their normal auxiliaries: who is leaving, what has changed, or who can help. Do not remove is, has or can when it is part of the intended verb form.",
+      "example": "Who is bringing the extra chairs?"
+    },
+    {
+      "heading": "Choose who for people and what for things",
+      "body": "Use who when you are asking about a person and what when you are asking about an object, event or idea. In a question about the present or past simple, also check whether the answer would be the subject or the object.",
+      "example": "What caused the strange sound?"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "The person doing an action and the person receiving it",
+      "left": {
+        "label": "Subject question",
+        "example": "Who greeted Nina at the station?",
+        "note": "Who is the person who greeted Nina; no did is needed."
+      },
+      "right": {
+        "label": "Object question",
+        "example": "Who did Nina greet at the station?",
+        "note": "Nina is the subject; did introduces the question about the other person."
+      }
+    },
+    {
+      "title": "Present-simple subject and object questions",
+      "left": {
+        "label": "Subject question",
+        "example": "What makes this toy move?",
+        "note": "What is the subject; makes agrees with the singular subject."
+      },
+      "right": {
+        "label": "Object question",
+        "example": "What does the toy make?",
+        "note": "The toy is the subject, so does comes before it and make stays in its base form."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Who painted the small table in the hall?",
+      "note": "Who is the subject of the past-simple question."
+    },
+    {
+      "sentence": "What did the children build in the garden?",
+      "note": "The children are the subject; what asks about the object."
+    },
+    {
+      "sentence": "What wakes you up so early?",
+      "note": "What asks about the subject of a present-simple action."
+    },
+    {
+      "sentence": "Who are the neighbours inviting to lunch?",
+      "note": "Who is the object; are remains necessary for the present continuous."
+    },
+    {
+      "sentence": "Who has taken the spare key?",
+      "note": "The present perfect retains has in a subject question."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Who did damaged the fence?",
+      "correct": "Who damaged the fence?",
+      "why": "A past-simple question about the subject uses the past verb directly, without did."
+    },
+    {
+      "incorrect": "What does Farah needs?",
+      "correct": "What does Farah need?",
+      "why": "An object question with does takes the base form need."
+    },
+    {
+      "incorrect": "Who you called on Monday?",
+      "correct": "Who did you call on Monday?",
+      "why": "A direct past-simple object question needs did before the subject."
+    },
+    {
+      "incorrect": "Who playing music upstairs?",
+      "correct": "Who is playing music upstairs?",
+      "why": "The present continuous requires is even when who is the subject."
+    }
+  ],
+  "studyTips": [
+    "Answer the question in your head: if the missing information is the doer, it is a subject question.",
+    "For simple-tense object questions, use who or what + do/does/did + subject + base verb.",
+    "Do not remove is, are or has from continuous or perfect verb forms just because the question begins with who."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Someone knocked over a flowerpot. Which question correctly asks about that person?",
+      "choices": [
+        "Who knocked over the flowerpot?",
+        "Who did knocked over the flowerpot?",
+        "Who was knock over the flowerpot?"
+      ],
+      "answerIndex": 0,
+      "feedback": "Who is the subject, so a past-simple subject question uses knocked without did."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Your friend met someone at the library yesterday. Which question asks about that person?",
+      "choices": [
+        "Who your friend met at the library yesterday?",
+        "Who did your friend meet at the library yesterday?",
+        "Who met did your friend at the library yesterday?"
+      ],
+      "answerIndex": 1,
+      "feedback": "Your friend is the subject, so ask about the object with did + subject + base verb meet."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Something makes the door squeak. Choose the correct subject question.",
+      "choices": [
+        "What does makes the door squeak?",
+        "What is makes the door squeak?",
+        "What makes the door squeak?"
+      ],
+      "answerIndex": 2,
+      "feedback": "What is the subject in the present simple, so makes follows it directly."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Amina collects postcards. Choose the correct question about the things she collects.",
+      "choices": [
+        "What does Amina collect?",
+        "What Amina collects?",
+        "What does Amina collects?"
+      ],
+      "answerIndex": 0,
+      "feedback": "The object question needs does before Amina and the base verb collect."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Someone lost a glove outside. Complete the past-simple subject question: “Who ___ a glove outside?”",
+      "acceptedAnswers": [
+        "lost"
+      ],
+      "feedback": "Who is the subject, so the past form lost follows it without did."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Dario reads magazines at lunch. Complete the question about the thing: “What ___ Dario read at lunch?”",
+      "acceptedAnswers": [
+        "does"
+      ],
+      "feedback": "Dario is the subject of a present-simple object question, so use does."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Someone is playing the piano downstairs. Complete the subject question: “Who ___ playing the piano downstairs?”",
+      "acceptedAnswers": [
+        "is"
+      ],
+      "feedback": "The present continuous keeps is even when who asks about its subject."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Alina invited someone to dinner last Friday. Complete the object question: “Who ___ Alina invite to dinner last Friday?”",
+      "acceptedAnswers": [
+        "did"
+      ],
+      "feedback": "A past-simple object question uses did before Alina, followed by invite."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the question: “Who did broke the kitchen clock?”",
+      "acceptedAnswers": [
+        "Who broke the kitchen clock?"
+      ],
+      "feedback": "Who asks about the subject, so use broke without adding did."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the question: “What did Leo brought to the picnic?”",
+      "acceptedAnswers": [
+        "What did Leo bring to the picnic?"
+      ],
+      "feedback": "Did already marks the past, so the main verb must be bring."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the question: “What does keeps this soup warm?”",
+      "acceptedAnswers": [
+        "What keeps this soup warm?"
+      ],
+      "feedback": "What is the subject; the present-simple verb keeps does not need does."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the question: “Who your brother did call this morning?”",
+      "acceptedAnswers": [
+        "Who did your brother call this morning?"
+      ],
+      "feedback": "In an object question, put did before the subject your brother."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Someone washed the windows before lunch. Ask about the person who washed them. Begin with Who and say the full question.",
+      "acceptedAnswers": [
+        "Who washed the windows before lunch?"
+      ],
+      "feedback": "Who is the subject, so washed follows it directly."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ethan fixed the bicycle yesterday. Ask what Ethan fixed, beginning with What. Say the full question.",
+      "acceptedAnswers": [
+        "What did Ethan fix yesterday?"
+      ],
+      "feedback": "Use did before Ethan and the base verb fix in this object question."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Iris visits her aunt every Sunday. Ask who Iris visits, beginning with Who and using does. Say the full question.",
+      "acceptedAnswers": [
+        "Who does Iris visit every Sunday?"
+      ],
+      "feedback": "For the present-simple object question, use does + Iris + visit."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A visitor left a green umbrella on the bus. You want to know which person left it. Ask one past-simple question beginning with Who and containing \"a green umbrella on the bus\".",
+      "acceptedAnswers": [
+        "Who left a green umbrella on the bus?"
+      ],
+      "feedback": "Who is the subject of left, so use the past-simple verb directly, without did."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change \"Olivia ordered a salad at lunch\" into a question asking what Olivia ordered. Begin with What and keep \"at lunch\".",
+      "acceptedAnswers": [
+        "What did Olivia order at lunch?"
+      ],
+      "feedback": "The question asks about the object, so use did + Olivia + the base verb order."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Someone is carrying the cake into the room. Ask which person is doing it. Begin with Who, keep the present continuous, and include \"the cake into the room\".",
+      "acceptedAnswers": [
+        "Who is carrying the cake into the room?",
+        "Who's carrying the cake into the room?"
+      ],
+      "feedback": "The present continuous needs is after Who; the contraction Who’s is also correct."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A learner asks, \"Who Eva invited to the concert?\" Correct this past-simple direct question without changing its meaning.",
+      "acceptedAnswers": [
+        "Who did Eva invite to the concert?"
+      ],
+      "feedback": "Eva is the subject, so a question about the person she invited needs did + Eva + invite."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Every evening, something makes the shop lights flicker. Ask what causes this. Begin with What, use make in the present simple, and include \"the shop lights flicker every evening\".",
+      "acceptedAnswers": [
+        "What makes the shop lights flicker every evening?"
+      ],
+      "feedback": "What is the subject, so the present-simple verb is makes, with no auxiliary does."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Who repaired the gate this morning?",
+      "prompt": "What information does the question ask for?",
+      "choices": [
+        "The thing that was repaired.",
+        "The person who did the repair.",
+        "The time the gate was repaired."
+      ],
+      "answerIndex": 1,
+      "feedback": "Who is the subject of repaired: the speaker asks who performed the action."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "What did Ella draw in her notebook?",
+      "prompt": "Which question matches the audio exactly?",
+      "choices": [
+        "What drew Ella in her notebook?",
+        "What Ella did draw in her notebook?",
+        "What did Ella draw in her notebook?"
+      ],
+      "answerIndex": 2,
+      "feedback": "The recording asks about the object with What + did + Ella + draw."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Who is watering the plants on the balcony?",
+      "prompt": "Listen and type only the auxiliary immediately after Who.",
+      "acceptedAnswers": [
+        "is"
+      ],
+      "feedback": "The recording uses the present continuous: Who is watering."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Who packed the picnic basket before the bus arrived?",
+      "prompt": "What does the speaker want to find out?",
+      "choices": [
+        "Which bus arrived first.",
+        "What food was inside the basket.",
+        "The person who prepared the basket."
+      ],
+      "answerIndex": 2,
+      "feedback": "The question begins with subject Who and asks for the person who packed the basket."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Nadia sent a postcard to her uncle, but who did her uncle send one to?",
+      "prompt": "Which missing detail does the speaker ask about?",
+      "choices": [
+        "The person who received a postcard from Nadia’s uncle.",
+        "The person who received Nadia’s postcard.",
+        "The number of postcards Nadia bought."
+      ],
+      "answerIndex": 0,
+      "feedback": "The unknown person received a postcard from the uncle; who is the object of send."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "What wakes the baby at six every morning?",
+      "prompt": "What information is missing?",
+      "choices": [
+        "The time the baby wakes up.",
+        "The thing that causes the baby to wake up.",
+        "The place where the baby sleeps."
+      ],
+      "answerIndex": 1,
+      "feedback": "Six o’clock is already given. What asks about the cause of the baby waking up."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "What did Mila put beside the front door?",
+      "prompt": "Type only the past-simple question auxiliary that you hear.",
+      "acceptedAnswers": [
+        "did"
+      ],
+      "feedback": "Did introduces this past-simple object question; put stays in its base form."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Who has moved the boxes into the garage?",
+      "prompt": "Type only the auxiliary immediately after Who.",
+      "acceptedAnswers": [
+        "has"
+      ],
+      "feedback": "The speaker uses the present perfect has moved. A subject question keeps has."
+    }
+  ]
+}

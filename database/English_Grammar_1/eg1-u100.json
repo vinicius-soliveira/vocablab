@@ -1,0 +1,413 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u100",
+  "title": "If: Imaginary Situations and Would",
+  "level": "A2",
+  "topicId": "if-hypothetical-situations",
+  "summary": "Imagine a situation that is not true now or is unlikely, and say what would happen. Use if + past form with would or could, including common advice with if I were you.",
+  "learningObjectives": [
+    "Express an unreal or imagined present situation using if + past simple.",
+    "Describe the imagined result with would, would not or could + base verb.",
+    "Use the contractions I would/I'd and would not/wouldn't appropriately.",
+    "Recognise both was and were after if for imagined states, including the common advice phrase if I were you.",
+    "Contrast real future possibilities with hypothetical situations."
+  ],
+  "explanation": [
+    {
+      "heading": "An imagined situation, not necessarily a past event",
+      "body": "Use a past form after if to imagine a present situation that is not true or is unlikely. Although the verb looks past, the meaning is often about now. Use would + base verb to describe the imagined result.",
+      "example": "If I lived beside the sea, I would go swimming before work."
+    },
+    {
+      "heading": "Would and could in the result",
+      "body": "Would explains what you think you would do or what would happen. Could explains an imagined possibility or ability. Use the base form after would or could, without to. Would not can be contracted to wouldn't.",
+      "example": "If the room had a window, we could get more daylight."
+    },
+    {
+      "heading": "Word order and short forms",
+      "body": "You may put the if-clause before or after the result. Use a comma after an opening if-clause. In conversation, I'd, you'd, he'd and we'd are common contractions of would in this pattern.",
+      "example": "I'd take the morning train if I lived nearer the station."
+    },
+    {
+      "heading": "Was, were and advice",
+      "body": "For imagined states, you can say if I/he/she/it was or were. The phrase if I were you is especially common when offering advice; if I was you is also heard in informal English. The result often uses would or wouldn't.",
+      "example": "If I were you, I would ask for a receipt."
+    },
+    {
+      "heading": "Real possibilities versus imagined situations",
+      "body": "Use if + present and will when the event may really happen. Use if + past and would for a situation that you are imagining rather than expecting. The choice changes the meaning, not just the tense.",
+      "example": "If I had a free afternoon today, I would visit the museum, but I have to work."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Possible future versus imagined present",
+      "left": {
+        "label": "Real possibility",
+        "example": "If I finish work early, I will cook dinner.",
+        "note": "Finishing early may really happen today."
+      },
+      "right": {
+        "label": "Imagined situation",
+        "example": "If I finished work early every day, I would cook more often.",
+        "note": "This imagines a different regular situation."
+      }
+    },
+    {
+      "title": "Would versus could",
+      "left": {
+        "label": "Would: imagined outcome",
+        "example": "If Maya knew the answer, she would tell us.",
+        "note": "This describes her expected action in the imagined situation."
+      },
+      "right": {
+        "label": "Could: imagined ability",
+        "example": "If Maya knew the answer, she could help us.",
+        "note": "This highlights what she would be able to do."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "If I knew my neighbour's number, I'd invite her to dinner.",
+      "note": "Knew is an unreal present condition; I'd means I would."
+    },
+    {
+      "sentence": "We would cycle to work if there were a safer route.",
+      "note": "The imagined result comes before the if-clause."
+    },
+    {
+      "sentence": "If the kitchen were larger, we could eat there.",
+      "note": "Could expresses a possibility created by the imagined situation."
+    },
+    {
+      "sentence": "I wouldn't buy that sofa if I were you.",
+      "note": "If I were you is a familiar form for advice."
+    },
+    {
+      "sentence": "If Oliver had a dog, he would take it for walks every day.",
+      "note": "Had refers to an imagined possession now, not a past purchase."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "If I would know the address, I would send a card.",
+      "correct": "If I knew the address, I would send a card.",
+      "why": "Use a past form such as knew in the hypothetical if-clause; would belongs in the result."
+    },
+    {
+      "incorrect": "If I lived nearer, I will visit more often.",
+      "correct": "If I lived nearer, I would visit more often.",
+      "why": "Use would for the result of an imagined condition."
+    },
+    {
+      "incorrect": "If I had more time, I would to practise daily.",
+      "correct": "If I had more time, I would practise daily.",
+      "why": "Would is followed by the base verb without to."
+    },
+    {
+      "incorrect": "If I were you, I won't take the offer.",
+      "correct": "If I were you, I wouldn't take the offer.",
+      "why": "Hypothetical advice uses would or would not, rather than will or will not."
+    }
+  ],
+  "studyTips": [
+    "Ask whether the condition is realistic today (if I have ..., I will ...) or imagined (if I had ..., I would ...).",
+    "Read imaginary conditions as being about now: “If I knew” often means “I do not know”.",
+    "Check the two parts separately: if + past form; would/could + base verb."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Sofia does not own a bicycle. Which sentence imagines a different situation now?",
+      "choices": [
+        "If Sofia had a bicycle, she would ride to work.",
+        "If Sofia has a bicycle, she will ride to work.",
+        "If Sofia would have a bicycle, she would ride to work."
+      ],
+      "answerIndex": 0,
+      "feedback": "Had + would ride expresses the unreal present condition and imagined result."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Complete the imagined result: If I knew his email address, I ___ write to him.",
+      "choices": [
+        "will",
+        "would",
+        "am"
+      ],
+      "answerIndex": 1,
+      "feedback": "Would + base verb expresses the result of an imagined situation."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which sentence gives advice using the common expression for an imagined situation?",
+      "choices": [
+        "If I am you, I would ask for help.",
+        "If I would be you, I would ask for help.",
+        "If I were you, I would ask for help."
+      ],
+      "answerIndex": 2,
+      "feedback": "If I were you is a common expression for hypothetical advice."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly uses could for an imagined possibility?",
+      "choices": [
+        "If the library were nearer, we could walk there.",
+        "If the library would be nearer, we could walk there.",
+        "If the library were nearer, we could to walk there."
+      ],
+      "answerIndex": 0,
+      "feedback": "Use were in the imagined if-clause and could + base verb for the resulting possibility."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with the correct form of 'know': If I ___ the answer, I would tell you.",
+      "acceptedAnswers": [
+        "knew"
+      ],
+      "feedback": "Knew is a past form used for a hypothetical present condition."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with the correct form of 'have': If my sister ___ a bigger flat, she could host us all.",
+      "acceptedAnswers": [
+        "had"
+      ],
+      "feedback": "Had expresses the imagined possession; could introduces a possible result."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete using the modal 'would': If the weather were milder, we ___ have lunch outdoors.",
+      "acceptedAnswers": [
+        "would"
+      ],
+      "feedback": "Would + have expresses the imagined result of a different weather condition."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the correct form of 'live': If we ___ closer to the market, we would walk there.",
+      "acceptedAnswers": [
+        "lived"
+      ],
+      "feedback": "Lived is the past form used for the hypothetical condition."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the verb in the if-clause: If I would have more free time, I would learn to paint.",
+      "acceptedAnswers": [
+        "If I had more free time, I would learn to paint."
+      ],
+      "feedback": "Use had, not would have, in this hypothetical if-clause."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the verb in the if-clause: I would visit the island if I will live nearer.",
+      "acceptedAnswers": [
+        "I would visit the island if I lived nearer."
+      ],
+      "feedback": "Use lived after if to imagine a different present living situation."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Change only the incorrect modal will: If my room was bigger, I will buy a desk.",
+      "acceptedAnswers": [
+        "If my room was bigger, I would buy a desk."
+      ],
+      "feedback": "Use would, rather than will, for this imagined result. Was is acceptable in the if-clause."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Change only the incorrect modal will not: If I were you, I will not accept the offer.",
+      "acceptedAnswers": [
+        "If I were you, I would not accept the offer.",
+        "If I were you, I wouldn't accept the offer."
+      ],
+      "feedback": "Use would not or wouldn't in hypothetical advice."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Imagine that you do not own a car. Begin with “If”: I had a car. I would drive to the coast.",
+      "acceptedAnswers": [
+        "If I had a car, I would drive to the coast.",
+        "If I had a car, I'd drive to the coast."
+      ],
+      "feedback": "The imagined condition uses had; the result uses would or its contraction."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Give advice using exactly this idea. Begin with “If I were you”: I would keep the receipt.",
+      "acceptedAnswers": [
+        "If I were you, I would keep the receipt.",
+        "If I were you, I'd keep the receipt."
+      ],
+      "feedback": "If I were you is a common way to introduce hypothetical advice."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Combine these ideas as a single sentence, beginning “We could”: We could visit more often. We lived nearer.",
+      "acceptedAnswers": [
+        "We could visit more often if we lived nearer."
+      ],
+      "feedback": "Could + base verb gives the imagined possibility, followed by if + past form."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Imagine you do not have a balcony. Begin with 'If I had a balcony' and say that you would grow herbs there.",
+      "acceptedAnswers": [
+        "If I had a balcony, I would grow herbs there.",
+        "If I had a balcony, I'd grow herbs there."
+      ],
+      "feedback": "Had describes an imagined situation now; would grow describes the imagined result."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Put the imagined result first, keeping the same meaning: 'If the apartment had a lift, my grandfather could visit more easily.'",
+      "acceptedAnswers": [
+        "My grandfather could visit more easily if the apartment had a lift."
+      ],
+      "feedback": "An imagined result with could can come first, followed by if and the past form had."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A tourist needs directions in Spanish, but you don't speak Spanish. Address the tourist and say you could help if you spoke Spanish. Begin with 'If I spoke Spanish'.",
+      "acceptedAnswers": [
+        "If I spoke Spanish, I could help you."
+      ],
+      "feedback": "Spoke describes an imagined present ability; could help describes what that ability would make possible."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Make this an imaginary situation rather than a real future possibility. Correct both verb forms: 'If I have more free time, I will learn the piano.'",
+      "acceptedAnswers": [
+        "If I had more free time, I would learn the piano.",
+        "If I had more free time, I'd learn the piano."
+      ],
+      "feedback": "For this imagined present condition, use if + had and would + base verb, not have + will."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Imagine an outdoor market with a roof. Say that customers would not get wet in the rain. Begin with 'If the market had a roof'.",
+      "acceptedAnswers": [
+        "If the market had a roof, the customers wouldn't get wet in the rain.",
+        "If the market had a roof, the customers would not get wet in the rain.",
+        "If the market had a roof, customers wouldn't get wet in the rain.",
+        "If the market had a roof, customers would not get wet in the rain."
+      ],
+      "feedback": "Use had in the imagined condition and wouldn't get or would not get for the imagined negative result."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "If I had a garden, I would grow tomatoes.",
+      "prompt": "Does the speaker describe owning a garden now?",
+      "choices": [
+        "Yes, it is a current fact.",
+        "No, it is an imagined situation.",
+        "Yes, but the garden is small."
+      ],
+      "answerIndex": 1,
+      "feedback": "If I had a garden suggests the speaker is imagining a situation that is not true now."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "If I were you, I wouldn't take that late train.",
+      "prompt": "What is the speaker doing?",
+      "choices": [
+        "Describing a trip that already happened.",
+        "Confirming a ticket purchase.",
+        "Giving advice about a train."
+      ],
+      "answerIndex": 2,
+      "feedback": "If I were you is a common form for offering advice."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I'd help you if I could.",
+      "prompt": "Type the last word spoken, which expresses an imagined ability.",
+      "acceptedAnswers": [
+        "could"
+      ],
+      "feedback": "Could describes an ability the speaker does not have in this imagined situation."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "If I knew the Wi-Fi password, I could connect my tablet, but nobody has told me.",
+      "prompt": "Why is the speaker unable to connect the tablet?",
+      "choices": [
+        "The tablet is broken",
+        "They lack some login information",
+        "The battery is empty"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker does not know the Wi-Fi password, so connecting the tablet is only an imagined possibility."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "If our house had a bigger kitchen, we would invite six friends for dinner.",
+      "prompt": "How many guests would they invite in the imagined situation?",
+      "choices": [
+        "Four",
+        "Eight",
+        "Six"
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker imagines inviting six friends if the kitchen were bigger."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "If I had more time, I would take a photography class, but if I owned a camera, I could practise at home.",
+      "prompt": "What would having the equipment make possible?",
+      "choices": [
+        "Practising without leaving home",
+        "Attending an evening course",
+        "Buying a different camera"
+      ],
+      "answerIndex": 0,
+      "feedback": "Could describes the ability to practise at home if the speaker owned a camera; would describes a separate imagined choice."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "If I were taller, I could reach that shelf without a chair.",
+      "prompt": "Type the single verb immediately after 'I' in the opening condition.",
+      "acceptedAnswers": [
+        "were"
+      ],
+      "feedback": "Were is used here after if to express an imagined present state."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I wouldn't use that ladder if its steps were broken.",
+      "prompt": "Type the contracted negative word immediately after 'I'.",
+      "acceptedAnswers": [
+        "wouldn't"
+      ],
+      "feedback": "Wouldn't is the contraction of would not and introduces the imagined negative result."
+    }
+  ]
+}

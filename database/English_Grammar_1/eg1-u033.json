@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u033",
+  "title": "Have To: Obligations and Necessity",
+  "level": "A2",
+  "topicId": "have-to-obligation-present-past",
+  "summary": "Explain requirements and necessities with have to, has to and had to. Ask about obligations and say when an action is not necessary.",
+  "learningObjectives": [
+    "Describe current requirements using have to or has to followed by a base verb.",
+    "Report past necessity using had to, regardless of the subject.",
+    "Form present and past questions with do, does and did + subject + have to.",
+    "Distinguish do not have to from a prohibition and recognise the difference between external requirements and personal judgements."
+  ],
+  "explanation": [
+    {
+      "heading": "Present necessity: have to and has to",
+      "body": "Use have to + base verb when something is necessary or required. With he, she or it, use has to. These forms often describe responsibilities, rules or circumstances outside your control. Never add -s to the main verb after to.",
+      "example": "Nora has to wear a uniform at her new job."
+    },
+    {
+      "heading": "Past necessity: had to",
+      "body": "Use had to + base verb for an obligation or necessary action in the past. Had to is the same with all subjects. Do not use had to for the present, or must as a simple past substitute in this meaning.",
+      "example": "We had to walk for twenty minutes when the bus broke down."
+    },
+    {
+      "heading": "Questions and negatives use do, does and did",
+      "body": "In present questions, use Do/Does + subject + have to + verb? In past questions, use Did + subject + have to + verb? For negatives, use don’t/doesn’t/didn’t have to + verb. After does or did, write have, not has or had. A negative means there is no requirement; the action is still possible.",
+      "example": "Does your cousin have to travel for work?"
+    },
+    {
+      "heading": "Have to and must",
+      "body": "Must and have to can both express strong necessity. Have to is especially natural when you report an existing rule or practical obligation. Must commonly shows what the speaker personally thinks is important. The forms often overlap, but do not replace a past had to with must.",
+      "example": "The building closes at six, so we have to leave before then."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Requirement or personal judgement?",
+      "left": {
+        "label": "Existing requirement",
+        "example": "Visitors have to show a pass at the gate.",
+        "note": "An external rule requires a pass."
+      },
+      "right": {
+        "label": "Personal importance",
+        "example": "I must remember to call my grandmother.",
+        "note": "The speaker feels this action is important."
+      }
+    },
+    {
+      "title": "Requirement and no requirement",
+      "left": {
+        "label": "Necessary",
+        "example": "I have to bring my own towel.",
+        "note": "Bringing a towel is required."
+      },
+      "right": {
+        "label": "Not necessary",
+        "example": "I don’t have to bring soap.",
+        "note": "Bringing soap is optional, not forbidden."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Owen has to take two buses to get to work.",
+      "note": "Has to agrees with a singular third-person subject."
+    },
+    {
+      "sentence": "I have to collect the parcel before five o’clock.",
+      "note": "Have to describes a present requirement with I."
+    },
+    {
+      "sentence": "Last Saturday, they had to cancel their picnic because of the storm.",
+      "note": "Had to reports a past necessity."
+    },
+    {
+      "sentence": "Did you have to pay to enter the museum?",
+      "note": "Did introduces a past question; have stays in its base form."
+    },
+    {
+      "sentence": "You don’t have to finish the whole book tonight.",
+      "note": "A negative form removes the requirement."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "She have to leave by eight.",
+      "correct": "She has to leave by eight.",
+      "why": "With she in affirmative present statements, use has to."
+    },
+    {
+      "incorrect": "Does he has to sign the form?",
+      "correct": "Does he have to sign the form?",
+      "why": "Does already marks the subject; use have after it."
+    },
+    {
+      "incorrect": "We didn’t had to wait.",
+      "correct": "We didn’t have to wait.",
+      "why": "Use the base form have after didn’t."
+    },
+    {
+      "incorrect": "I must stay late yesterday.",
+      "correct": "I had to stay late yesterday.",
+      "why": "Had to expresses a necessary action at a past time."
+    }
+  ],
+  "studyTips": [
+    "Write one requirement for yourself and one for another person, changing have to to has to.",
+    "Practise the question pattern as a block: Does she have to…? and Did she have to…?",
+    "Compare have to and don’t have to in the same situation; the negative means optional, not forbidden."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Mia is a chef. She ___ wear clean work clothes every day.",
+      "choices": [
+        "has to",
+        "have to",
+        "had to"
+      ],
+      "answerIndex": 0,
+      "feedback": "She is singular, so the present affirmative form is has to."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Why ___ you have to take a taxi yesterday?",
+      "choices": [
+        "do",
+        "does",
+        "did"
+      ],
+      "answerIndex": 2,
+      "feedback": "Yesterday makes this a past question: Did + subject + have to."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Leo already has a ticket, so he ___ buy another one.",
+      "choices": [
+        "don’t have to",
+        "doesn’t have to",
+        "didn’t have to"
+      ],
+      "answerIndex": 1,
+      "feedback": "Doesn’t have to shows that buying another ticket is unnecessary for Leo now."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The road was closed last night, so we ___ use a different road.",
+      "choices": [
+        "has to",
+        "have to",
+        "had to"
+      ],
+      "answerIndex": 2,
+      "feedback": "Had to expresses a necessity caused by a past situation."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "My sister starts work at six. She ___ get up very early. (Use have to in the present.)",
+      "acceptedAnswers": [
+        "has to"
+      ],
+      "feedback": "She is third-person singular, so use has to."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The lift was broken yesterday. We ___ use the stairs. (Express past necessity.)",
+      "acceptedAnswers": [
+        "had to"
+      ],
+      "feedback": "Had to + base verb describes a necessary action yesterday."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "___ your brother have to attend the meeting on Monday? (Complete with one present-tense auxiliary.)",
+      "acceptedAnswers": [
+        "Does"
+      ],
+      "feedback": "Use Does + singular subject + have to for a present question about a requirement."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The meal is included in the price, so you ___ pay for dinner. (Express no necessity.)",
+      "acceptedAnswers": [
+        "don't have to",
+        "do not have to"
+      ],
+      "feedback": "Don’t have to indicates that payment is not necessary; it does not mean that payment is forbidden."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Anna have to take the early train.",
+      "acceptedAnswers": [
+        "Anna has to take the early train."
+      ],
+      "feedback": "A singular third-person subject takes has to in affirmative statements."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Did they had to leave before lunch?",
+      "acceptedAnswers": [
+        "Did they have to leave before lunch?"
+      ],
+      "feedback": "After Did, the phrase is have to, not had to."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I didn’t had to book a seat yesterday.",
+      "acceptedAnswers": [
+        "I didn't have to book a seat yesterday.",
+        "I did not have to book a seat yesterday."
+      ],
+      "feedback": "After didn’t use have to + base verb."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Does Marcus has to bring his passport?",
+      "acceptedAnswers": [
+        "Does Marcus have to bring his passport?"
+      ],
+      "feedback": "After Does, use have to rather than has to."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say that a woman is required to check the doors every evening. Begin with 'She has to'.",
+      "acceptedAnswers": [
+        "She has to check the doors every evening."
+      ],
+      "feedback": "Has to + base verb expresses a duty for she."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask whether Noah is required to work this Saturday. Begin with 'Does Noah'.",
+      "acceptedAnswers": [
+        "Does Noah have to work this Saturday?"
+      ],
+      "feedback": "Does + subject + have to forms a present question about a requirement."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say that booking a table was unnecessary for us yesterday. Begin with 'We didn’t'.",
+      "acceptedAnswers": [
+        "We didn't have to book a table yesterday.",
+        "We did not have to book a table yesterday."
+      ],
+      "feedback": "Didn’t have to means there was no requirement in the past."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "At the library, visitors are required to leave their bags at the entrance. Say the rule in one sentence beginning 'Visitors have to'.",
+      "acceptedAnswers": [
+        "Visitors have to leave their bags at the entrance."
+      ],
+      "feedback": "Use have to + base verb with the plural subject visitors to describe an existing rule."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this present requirement to the past: 'I have to show my ID at reception.' Begin with 'Last Monday, I' and keep the action the same.",
+      "acceptedAnswers": [
+        "Last Monday, I had to show my ID at reception."
+      ],
+      "feedback": "Use had to, not have to, when the required action happened last Monday."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A classmate asks if your group must bring its own pencils. The teacher gives everyone a pencil. Answer using 'No, we' and 'bring our own pencils'.",
+      "acceptedAnswers": [
+        "No, we don't have to bring our own pencils.",
+        "No, we do not have to bring our own pencils."
+      ],
+      "feedback": "Don't have to means there is no requirement; it does not mean bringing pencils is forbidden."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this question without changing its meaning: 'Does Clara has to clean the room?' Say only the corrected question.",
+      "acceptedAnswers": [
+        "Does Clara have to clean the room?"
+      ],
+      "feedback": "After does, use have to rather than has to, even with a singular subject."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Report yesterday's shift in exactly two short sentences: you were required to stay until nine; Sam was not required to stay late. Begin the sentences with 'I' and 'Sam'.",
+      "acceptedAnswers": [
+        "I had to stay until nine. Sam didn't have to stay late.",
+        "I had to stay until nine. Sam did not have to stay late."
+      ],
+      "feedback": "Had to reports a past requirement; didn't have to says the requirement did not apply to Sam."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Maya has to leave for work at half past six.",
+      "prompt": "Which verb phrase describes Maya’s obligation?",
+      "choices": [
+        "has to leave",
+        "had to leave",
+        "doesn’t have to leave"
+      ],
+      "answerIndex": 0,
+      "feedback": "You hear has to leave, which expresses a present requirement for Maya."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We didn’t have to bring food to the picnic.",
+      "prompt": "What does the speaker say about bringing food?",
+      "choices": [
+        "They were required to bring it.",
+        "Bringing it was not necessary.",
+        "Bringing it was forbidden."
+      ],
+      "answerIndex": 1,
+      "feedback": "Didn’t have to says there was no requirement to bring food, not that it was forbidden."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "They had to change trains at noon.",
+      "prompt": "Type the two-word expression that says the action was necessary in the past.",
+      "acceptedAnswers": [
+        "had to"
+      ],
+      "feedback": "Had to expresses a requirement at a past time."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The school kitchen serves lunch for everyone, so students don't have to pack food.",
+      "prompt": "What can students choose not to do?",
+      "choices": [
+        "Eat food at school.",
+        "Bring lunch from home.",
+        "Attend school in the morning."
+      ],
+      "answerIndex": 1,
+      "feedback": "The school provides lunch, so packing food is optional rather than required."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The front door was locked this morning, so Ava had to use the side entrance.",
+      "prompt": "How did Ava enter the building?",
+      "choices": [
+        "Through the front entrance.",
+        "Through a basement door.",
+        "Through the side entrance."
+      ],
+      "answerIndex": 2,
+      "feedback": "Because the front door was locked, Ava had to enter through the side entrance."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Ben has to wear safety glasses in the workshop, but he doesn't have to wear a helmet.",
+      "prompt": "Which statement is true about the workshop requirements?",
+      "choices": [
+        "The glasses are required, but the helmet is optional.",
+        "Both the glasses and the helmet are required.",
+        "Wearing a helmet is forbidden."
+      ],
+      "answerIndex": 0,
+      "feedback": "Has to makes the glasses compulsory; doesn't have to makes the helmet optional, not forbidden."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Does Lara have to bring her passport to the appointment?",
+      "prompt": "Type the two-word expression you hear immediately after 'Lara'.",
+      "acceptedAnswers": [
+        "have to"
+      ],
+      "feedback": "In a question beginning with does, use have to, not has to."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We didn't have to buy new tickets because our old ones were still valid.",
+      "prompt": "Type the short expression before 'buy new tickets' that means there was no requirement.",
+      "acceptedAnswers": [
+        "didn't have to",
+        "did not have to"
+      ],
+      "feedback": "Didn't have to expresses a lack of necessity in the past."
+    }
+  ]
+}

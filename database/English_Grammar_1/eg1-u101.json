@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u101",
+  "title": "Relative Clauses: Who, That and Which",
+  "level": "A2",
+  "topicId": "relative-clauses-subject",
+  "summary": "Use relative clauses to identify people and things. Choose who, that or which when the relative word is the subject of the clause.",
+  "learningObjectives": [
+    "Join two short sentences by adding a relative clause after a person or thing.",
+    "Choose who for people and that or which for things in subject relative clauses.",
+    "Keep the relative word when it performs the subject role and avoid repeating its subject.",
+    "Use the correct singular or plural verb after the relative word."
+  ],
+  "explanation": [
+    {
+      "heading": "Add information about a noun",
+      "body": "A relative clause follows a noun and tells us which person or thing we mean. Instead of repeating a subject in a second sentence, link the ideas with a relative word. Put the clause immediately after the noun it describes.",
+      "example": "The neighbour who lives upstairs teaches music."
+    },
+    {
+      "heading": "Use who for people",
+      "body": "When the relative clause describes a person, who is the usual choice. That is also possible in these simple identifying clauses, but which is not used for people.",
+      "example": "The driver who takes us to school is very patient."
+    },
+    {
+      "heading": "Use that or which for things",
+      "body": "For objects, animals and other things, use that or which. Both can introduce an identifying clause in which the relative word is the subject. Do not use who for ordinary objects.",
+      "example": "The window that faces the garden is open."
+    },
+    {
+      "heading": "Do not leave out a subject relative word",
+      "body": "When who, that or which does the action in the relative clause, it is the subject and cannot be omitted. Do not add another subject pronoun after it: say 'the friend who visits', not 'the friend who she visits'.",
+      "example": "The flowers which grow by the gate need water."
+    },
+    {
+      "heading": "Match the verb to the noun",
+      "body": "The verb in a subject relative clause agrees with the noun it describes: one person or thing takes a singular verb; several take a plural verb.",
+      "example": "The workers who open the shop arrive early."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Describing a person or a thing",
+      "left": {
+        "label": "Person: who",
+        "example": "The artist who painted this lives nearby.",
+        "note": "Who refers to a person; that is also possible."
+      },
+      "right": {
+        "label": "Thing: that or which",
+        "example": "The painting which hangs here is new.",
+        "note": "Which or that refers to a thing."
+      }
+    },
+    {
+      "title": "One subject, not two",
+      "left": {
+        "label": "Correct relative clause",
+        "example": "The child who sits here likes puzzles.",
+        "note": "Who is already the subject of sits."
+      },
+      "right": {
+        "label": "Separate sentences",
+        "example": "The child sits here. She likes puzzles.",
+        "note": "In separate sentences, each sentence has its own subject."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "My aunt knows a baker who makes excellent bread.",
+      "note": "Who describes a person and is the subject of makes."
+    },
+    {
+      "sentence": "The train that stops at this platform goes to Bristol.",
+      "note": "That introduces information about a train."
+    },
+    {
+      "sentence": "We have a plant which grows well without much light.",
+      "note": "Which is a subject relative word for a thing."
+    },
+    {
+      "sentence": "The children who play in this park are from our street.",
+      "note": "The plural noun children takes play, not plays."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I have a friend which lives in Cardiff.",
+      "correct": "I have a friend who lives in Cardiff.",
+      "why": "Use who for a person, not which."
+    },
+    {
+      "incorrect": "The kettle who makes that noise is old.",
+      "correct": "The kettle that makes that noise is old.",
+      "why": "A kettle is a thing; that or which is appropriate."
+    },
+    {
+      "incorrect": "The woman who she teaches art is my neighbour.",
+      "correct": "The woman who teaches art is my neighbour.",
+      "why": "Who is already the subject, so she must not be repeated."
+    },
+    {
+      "incorrect": "The bus goes to the airport is late.",
+      "correct": "The bus that goes to the airport is late.",
+      "why": "A subject relative clause needs that or which before goes."
+    }
+  ],
+  "studyTips": [
+    "First find the noun you want to describe, then put the relative clause directly after it.",
+    "Ask whether the noun means a person or a thing before choosing who or which.",
+    "Read the relative clause aloud without adding he, she or it after the relative word."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the relative word: A neighbour ___ lives above us has a puppy.",
+      "choices": [
+        "which",
+        "who",
+        "whose"
+      ],
+      "answerIndex": 1,
+      "feedback": "Who refers to a person and is the subject of lives."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the relative word: I bought a lamp ___ uses very little electricity.",
+      "choices": [
+        "which",
+        "who",
+        "where"
+      ],
+      "answerIndex": 0,
+      "feedback": "Which refers to the lamp, a thing, and is the subject of uses."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the relative word: The volunteers ___ help at the library are friendly.",
+      "choices": [
+        "where",
+        "which",
+        "that"
+      ],
+      "answerIndex": 2,
+      "feedback": "That can describe people; here it is the subject of help. Which is not for people."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the relative word: The dog ___ sleeps under that chair is mine.",
+      "choices": [
+        "where",
+        "whom",
+        "that"
+      ],
+      "answerIndex": 2,
+      "feedback": "That identifies the dog and performs the subject role before sleeps."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Use who to complete the sentence: The musician ___ plays at our café is from Leeds.",
+      "acceptedAnswers": [
+        "who"
+      ],
+      "feedback": "Who is the subject of plays and refers to the musician."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Use which to complete the sentence: The phone ___ belongs to Iris is on the shelf.",
+      "acceptedAnswers": [
+        "which"
+      ],
+      "feedback": "Which refers to the phone and acts as the subject of belongs."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Use that to complete the sentence: The bus ___ stops here goes to the market.",
+      "acceptedAnswers": [
+        "that"
+      ],
+      "feedback": "That is needed because it acts as the subject of stops."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Use who to complete the sentence: The people ___ run the small bakery are sisters.",
+      "acceptedAnswers": [
+        "who"
+      ],
+      "feedback": "Who refers to people; run agrees with the plural noun people."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the relative word: The teacher which helps us on Tuesdays is very kind.",
+      "acceptedAnswers": [
+        "The teacher who helps us on Tuesdays is very kind.",
+        "The teacher that helps us on Tuesdays is very kind."
+      ],
+      "feedback": "A teacher is a person, so use who or that, not which."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the relative word: That's a machine who cleans the floor.",
+      "acceptedAnswers": [
+        "That's a machine that cleans the floor.",
+        "That's a machine which cleans the floor.",
+        "That is a machine that cleans the floor.",
+        "That is a machine which cleans the floor."
+      ],
+      "feedback": "A machine is a thing, so its subject relative word is that or which."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Remove the repeated subject: My cousin who she lives in York is visiting us.",
+      "acceptedAnswers": [
+        "My cousin who lives in York is visiting us."
+      ],
+      "feedback": "Who already acts as the subject of lives; she is unnecessary."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Add the missing relative word: I need a charger works with this phone.",
+      "acceptedAnswers": [
+        "I need a charger that works with this phone.",
+        "I need a charger which works with this phone."
+      ],
+      "feedback": "The subject relative clause needs that or which before works."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Combine these ideas into one sentence using who: 'A nurse lives next door. She works at night.' Begin: 'The nurse ...'",
+      "acceptedAnswers": [
+        "The nurse who lives next door works at night."
+      ],
+      "feedback": "Who replaces the subject she and introduces the information about the nurse."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Combine these ideas using which: 'A cupboard is in the kitchen. It has blue doors.' Begin: 'The cupboard ...'",
+      "acceptedAnswers": [
+        "The cupboard which is in the kitchen has blue doors."
+      ],
+      "feedback": "Which introduces a subject relative clause about the cupboard."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Make one sentence using that: 'Some flowers grow here. They smell lovely.' Begin: 'The flowers ...'",
+      "acceptedAnswers": [
+        "The flowers that grow here smell lovely."
+      ],
+      "feedback": "That is the subject of grow and links the description to flowers."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Two baskets contain apples and are heavy. Begin 'The baskets', use 'that' to identify them, and end with 'are heavy'.",
+      "acceptedAnswers": [
+        "The baskets that contain apples are heavy."
+      ],
+      "feedback": "That introduces a subject relative clause. The plural noun baskets takes contain and are."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this sentence to the plural, including both verbs. Begin 'The players': 'The player who trains here is ready.'",
+      "acceptedAnswers": [
+        "The players who train here are ready."
+      ],
+      "feedback": "The plural noun players needs train and are. Who remains the subject of train."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A customer asks, 'Which mechanic can fix my bicycle?' Say that the mechanic works on Saturdays and can fix the customer's bicycle. Begin 'The mechanic' and use 'who' and 'your bicycle'.",
+      "acceptedAnswers": [
+        "The mechanic who works on Saturdays can fix your bicycle."
+      ],
+      "feedback": "Who identifies the mechanic and is the subject of works; there is no extra he."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the sentence by deleting only the unnecessary subject pronoun: 'The gardener who he waters the roses works here.'",
+      "acceptedAnswers": [
+        "The gardener who waters the roses works here."
+      ],
+      "feedback": "Who is already the subject of waters, so he must not appear after it."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two sentences in order. First begin 'Leo is the technician', say he repairs computers, and use 'who'. Then begin 'The computer', say it is on the desk and needs a new battery, and use 'which'.",
+      "acceptedAnswers": [
+        "Leo is the technician who repairs computers. The computer which is on the desk needs a new battery."
+      ],
+      "feedback": "Who describes Leo, a person; which describes the computer, a thing. Both are subjects in their clauses."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "My friend who works at the bakery starts early.",
+      "prompt": "Who starts early?",
+      "choices": [
+        "The speaker's friend",
+        "The speaker's brother",
+        "The speaker's neighbour"
+      ],
+      "answerIndex": 0,
+      "feedback": "The relative clause who works at the bakery identifies the speaker's friend."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The clock that hangs in the kitchen is five minutes slow.",
+      "prompt": "Which thing is slow?",
+      "choices": [
+        "The oven",
+        "The clock",
+        "The calendar"
+      ],
+      "answerIndex": 1,
+      "feedback": "The clock is identified by the subject relative clause that hangs in the kitchen."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I know a woman who repairs old bicycles.",
+      "prompt": "Type the relative word used to describe the person you hear.",
+      "acceptedAnswers": [
+        "who"
+      ],
+      "feedback": "Who introduces information about a woman and is the subject of repairs."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The volunteers who clean the beach meet outside the station every Saturday, then walk to the shore together.",
+      "prompt": "Why does the group go to the shore?",
+      "choices": [
+        "To buy train tickets",
+        "To help clean the beach",
+        "To attend a music lesson"
+      ],
+      "answerIndex": 1,
+      "feedback": "The relative clause who clean the beach explains the volunteers' activity."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The children who practise the violin arrive at six, but the choir comes at half past six.",
+      "prompt": "Which group arrives later?",
+      "choices": [
+        "The singers",
+        "The violin players",
+        "Both groups arrive together"
+      ],
+      "answerIndex": 0,
+      "feedback": "The choir, the group of singers, arrives at half past six, after the violin players."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The screens that show a red light need repair, but the screens that show a green light are ready to use.",
+      "prompt": "Which screens can someone use now?",
+      "choices": [
+        "Either group",
+        "The red-light screens",
+        "The green-light screens"
+      ],
+      "answerIndex": 2,
+      "feedback": "The screens identified by that show a green light are ready; the red-light screens need repair."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The bakery that opens at dawn sells warm rolls to the neighbours.",
+      "prompt": "Type the two words immediately after 'bakery'.",
+      "acceptedAnswers": [
+        "that opens"
+      ],
+      "feedback": "That opens begins a subject relative clause about the bakery. The singular bakery takes opens."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The jackets which keep you warm are hanging by the entrance.",
+      "prompt": "Type the two words immediately after 'jackets'.",
+      "acceptedAnswers": [
+        "which keep"
+      ],
+      "feedback": "Which keep introduces a subject relative clause. The plural jackets takes keep, not keeps."
+    }
+  ]
+}

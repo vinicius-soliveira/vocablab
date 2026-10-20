@@ -1,0 +1,410 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u036",
+  "title": "Used To: Former Habits and Situations",
+  "level": "A2",
+  "topicId": "used-to-past-habits",
+  "summary": "Describe habits and situations that were true in the past but are different now. Make statements, negatives and questions with used to, and contrast past routines with present ones.",
+  "learningObjectives": [
+    "Use used to + base verb for former habits or situations that are no longer true.",
+    "Make negative statements using didn’t use to + base verb.",
+    "Ask about past habits with did + subject + use to + base verb.",
+    "Choose present simple forms for current routines instead of using used to as a present tense."
+  ],
+  "explanation": [
+    {
+      "heading": "Used to describes a different past",
+      "body": "Use used to + base verb when something was true or happened regularly in the past, but things have changed. It can describe an old habit or an old situation. It often helps to add a sentence about what is true now.",
+      "example": "We used to live beside a river, but now we live near the station."
+    },
+    {
+      "heading": "The same form for every subject",
+      "body": "I, you, he, she, it, we and they all take used to + base verb. Do not put a past tense verb after used to. The following verb stays in its base form.",
+      "example": "My uncle used to own a small bookshop."
+    },
+    {
+      "heading": "Negative form: didn’t use to",
+      "body": "For something that was not true or did not happen regularly in the past, use didn’t use to + base verb. After didn’t, write use without -d. You can also write did not use to.",
+      "example": "I didn’t use to enjoy olives, but I eat them now."
+    },
+    {
+      "heading": "Questions: Did ... use to?",
+      "body": "Use did + subject + use to + base verb to ask about an old routine or situation. Put the question word before did when needed. Use use, not used, after did.",
+      "example": "Did your family use to visit the beach in summer?"
+    },
+    {
+      "heading": "Past routines versus present routines",
+      "body": "Used to refers only to the past. For habits that are true now, use the present simple with words such as usually or every day. Do not write I use to for a current routine.",
+      "example": "I used to cycle to the library. These days I usually walk there."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "What was true before and what is true now?",
+      "left": {
+        "label": "Former habit",
+        "example": "Ada used to walk to work.",
+        "note": "Walking to work was her past routine, not her present one."
+      },
+      "right": {
+        "label": "Current habit",
+        "example": "Ada drives to work now.",
+        "note": "The present simple describes her routine today."
+      }
+    },
+    {
+      "title": "Positive and negative past habits",
+      "left": {
+        "label": "Past habit existed",
+        "example": "We used to eat breakfast together.",
+        "note": "Used to + base verb describes a former habit."
+      },
+      "right": {
+        "label": "Past habit did not exist",
+        "example": "We didn’t use to eat breakfast together.",
+        "note": "Didn’t use to describes something that did not happen habitually then."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "My cousins used to spend every summer at their grandparents’ house.",
+      "note": "Used to describes a past repeated activity."
+    },
+    {
+      "sentence": "Rita used to have a bicycle, but she sold it last year.",
+      "note": "Used to can describe a past situation, not only an action."
+    },
+    {
+      "sentence": "I didn’t use to eat spicy food, but now I love it.",
+      "note": "Didn’t use to describes a former preference that has changed."
+    },
+    {
+      "sentence": "Did your brother use to play the drums at school?",
+      "note": "Use to follows did in a question about a past habit."
+    },
+    {
+      "sentence": "We used to buy bread at the corner shop; now we bake it at home.",
+      "note": "The past situation contrasts with a present simple routine."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "She used to worked in a hotel.",
+      "correct": "She used to work in a hotel.",
+      "why": "The verb after used to must be in its base form."
+    },
+    {
+      "incorrect": "I didn’t used to enjoy cycling.",
+      "correct": "I didn’t use to enjoy cycling.",
+      "why": "After didn’t, write use to without -d."
+    },
+    {
+      "incorrect": "Did they used to have a garden?",
+      "correct": "Did they use to have a garden?",
+      "why": "Did already marks the past; the following form is use to."
+    },
+    {
+      "incorrect": "I use to have tea every morning now.",
+      "correct": "I have tea every morning now.",
+      "why": "For a present routine, use the present simple rather than used to."
+    }
+  ],
+  "studyTips": [
+    "Make a before-and-now pair: I used to ..., but now I ... .",
+    "Check the auxiliary: no did means used to; after did or didn’t, write use to.",
+    "When describing today, replace used to with a present simple form such as usually walk or work."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "When Leo was ten, he ___ to school. Now he takes the bus.",
+      "choices": [
+        "used to walk",
+        "uses to walk",
+        "used to walked"
+      ],
+      "answerIndex": 0,
+      "feedback": "Used to + base verb describes Leo’s former routine."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Years ago, my aunt ___ in a small village. Now she lives in a city.",
+      "choices": [
+        "use to live",
+        "used to live",
+        "used to lived"
+      ],
+      "answerIndex": 1,
+      "feedback": "Used to live describes a situation that has changed."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "As a child, Mia ___ like mushrooms. Now she enjoys them.",
+      "choices": [
+        "didn’t used to",
+        "doesn’t use to",
+        "didn’t use to"
+      ],
+      "answerIndex": 2,
+      "feedback": "After didn’t, the correct form is use to + base verb."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "___ own a bicycle when you were younger?",
+      "choices": [
+        "Did you use to",
+        "Did you used to",
+        "Do you used to"
+      ],
+      "answerIndex": 0,
+      "feedback": "A question about a former situation begins Did you use to ...?"
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Before he bought a car, Arlo ___ to work every day. Now he drives. (use: cycle)",
+      "acceptedAnswers": [
+        "used to cycle"
+      ],
+      "feedback": "Used to cycle describes a repeated habit that stopped."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "In the past, we ___ a television. Now we do. (use: not / have)",
+      "acceptedAnswers": [
+        "didn’t use to have",
+        "did not use to have"
+      ],
+      "feedback": "The negative past construction is didn’t use to + base verb."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete the question about childhood: “Where ___ when you were a child?” (use: you / live)",
+      "acceptedAnswers": [
+        "did you use to live"
+      ],
+      "feedback": "Did + subject + use to + base verb forms a question about the past."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Mila used to go shopping on Saturdays. Now she ___ online instead. (use: shop; present simple)",
+      "acceptedAnswers": [
+        "shops"
+      ],
+      "feedback": "The current routine needs the present simple shops, not used to."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the former habit: “He used to played football at weekends.”",
+      "acceptedAnswers": [
+        "He used to play football at weekends."
+      ],
+      "feedback": "Use the base form play after used to."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the negative past habit: “We didn’t used to cook at home.”",
+      "acceptedAnswers": [
+        "We didn’t use to cook at home.",
+        "We did not use to cook at home."
+      ],
+      "feedback": "Write use to, not used to, after did not or didn’t."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the question about the past: “Did you used to have a dog?”",
+      "acceptedAnswers": [
+        "Did you use to have a dog?"
+      ],
+      "feedback": "Use did + subject + use to + base verb in questions."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the present routine: “Nowadays I use to drink tea every morning.”",
+      "acceptedAnswers": [
+        "Nowadays I drink tea every morning.",
+        "Nowadays I usually drink tea every morning."
+      ],
+      "feedback": "Used to is for the past; the present simple describes a current routine."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Nora walked to school every day as a child, but now she takes the bus. Say one sentence beginning “Nora used to” about her old routine.",
+      "acceptedAnswers": [
+        "Nora used to walk to school every day."
+      ],
+      "feedback": "Used to walk describes Nora’s former daily routine."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ben did not like onions as a child, but he likes them now. Describe his old preference using “Ben didn’t use to” or “Ben did not use to”.",
+      "acceptedAnswers": [
+        "Ben didn’t use to like onions.",
+        "Ben did not use to like onions."
+      ],
+      "feedback": "Didn’t use to + base verb describes a former negative preference."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Ask a friend whether they played chess when they were younger. Begin “Did you use to” and finish with “when you were younger?”",
+      "acceptedAnswers": [
+        "Did you use to play chess when you were younger?"
+      ],
+      "feedback": "In a used to question, did comes before the subject and use has no -d."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Tia had long hair when she was at school, but she has short hair now. Describe her past appearance. Begin with 'Tia used to' and use 'have long hair'.",
+      "acceptedAnswers": [
+        "Tia used to have long hair."
+      ],
+      "feedback": "Used to have describes a past situation that is different now; have stays in the base form."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this former habit into a negative past-habit sentence without changing anything else: 'Max used to ride his bike to the shop.'",
+      "acceptedAnswers": [
+        "Max didn't use to ride his bike to the shop.",
+        "Max did not use to ride his bike to the shop."
+      ],
+      "feedback": "After didn't or did not, use the base form use to, not used to."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks about your mother's old Sunday routine. She visited her aunt every Sunday in the past, but she no longer does. Begin your answer with 'She used to'.",
+      "acceptedAnswers": [
+        "She used to visit her aunt every Sunday."
+      ],
+      "feedback": "Used to visit describes a repeated activity in the past that has stopped."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this question about a former job without changing the name or job: 'Did Rosa used to work at the bakery?'",
+      "acceptedAnswers": [
+        "Did Rosa use to work at the bakery?"
+      ],
+      "feedback": "After did in a question, write use to, without the final d."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Leo rode a scooter to work in the past, but now he walks to work. Say exactly two sentences. Begin the first with 'Leo used to' and use 'ride a scooter to work'. Begin the second with 'Now he' and use 'walks to work'.",
+      "acceptedAnswers": [
+        "Leo used to ride a scooter to work. Now he walks to work."
+      ],
+      "feedback": "Used to ride describes the old routine; walks is the present simple for what Leo does now."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "My grandfather used to grow tomatoes, but he buys them now.",
+      "prompt": "What did the speaker’s grandfather do in the past?",
+      "choices": [
+        "He sold tomatoes every week.",
+        "He grew tomatoes.",
+        "He bought tomatoes."
+      ],
+      "answerIndex": 1,
+      "feedback": "Used to grow tells us that growing tomatoes was his former habit."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Did you use to take the train to work?",
+      "prompt": "What kind of sentence do you hear?",
+      "choices": [
+        "A statement about a current routine.",
+        "A negative statement about the past.",
+        "A question about a former habit."
+      ],
+      "answerIndex": 2,
+      "feedback": "Did you use to ...? asks about a past routine."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "We didn’t use to have a garden when I was little.",
+      "prompt": "Type the negative expression you hear immediately before “have a garden”.",
+      "acceptedAnswers": [
+        "didn’t use to",
+        "did not use to"
+      ],
+      "feedback": "Didn’t use to is the negative expression for a former situation."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "We used to eat dinner at six, but these days we eat at eight.",
+      "prompt": "How is their dinner routine different now?",
+      "choices": [
+        "They eat later in the evening.",
+        "They eat earlier in the evening.",
+        "They no longer eat dinner."
+      ],
+      "answerIndex": 0,
+      "feedback": "Dinner has moved from six to eight, so their present dinner time is later."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "When I was little, I used to spend every Friday afternoon at my aunt's shop.",
+      "prompt": "Where did the speaker regularly spend time as a child?",
+      "choices": [
+        "At a sports centre.",
+        "At a school.",
+        "At a relative’s shop."
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker spent Friday afternoons at an aunt's shop, making it a regular childhood visit."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I didn't use to enjoy swimming, but now I love going to the pool.",
+      "prompt": "What has changed about the speaker?",
+      "choices": [
+        "The speaker liked swimming only in the past.",
+        "The speaker likes swimming now.",
+        "The speaker has never been swimming."
+      ],
+      "answerIndex": 1,
+      "feedback": "Didn't use to enjoy describes the earlier feeling, while love going to the pool expresses the positive feeling now."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Did your neighbours use to play music on Friday evenings?",
+      "prompt": "Type the short expression immediately before 'play music'.",
+      "acceptedAnswers": [
+        "use to"
+      ],
+      "feedback": "After did in a question, the correct expression is use to, with no final d."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "There used to be a little bridge across this river, but it is gone now.",
+      "prompt": "Type the two-word expression immediately before 'be a little bridge'.",
+      "acceptedAnswers": [
+        "used to"
+      ],
+      "feedback": "Used to describes an earlier situation that is no longer true."
+    }
+  ]
+}

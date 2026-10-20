@@ -5,6 +5,7 @@ import {resolve,dirname,join} from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {evaluateSpokenAnswer,normalizeSpokenAnswer} from '../js/grammar/speaking.js';
 import {validateGrammarUnit,validateGrammarManifest} from '../js/grammar/schema.js';
+import {exampleUnit,fixtureEntry,fixtureManifest} from './fixtures/grammar-fixture.mjs';
 import {recordGrammarAttempt,getGrammarProgress,dueSpeakingExercises,summarizeSpeakingUnit,
   summarizeGrammarCatalog,dueGrammarUnitIds,exportGrammarProgress,importGrammarProgress,GRAMMAR_PROGRESS_KEY}
   from '../js/grammar/progress.js';
@@ -25,36 +26,105 @@ test('Speaking accepts an explicit complete model answer, including alternate AS
   assert.equal(evaluateSpokenAnswer(exercise,'').correct,false);
   assert.equal(evaluateSpokenAnswer(exercise,'I have worked').correct,false);
 });
-test('Speaking corpus supplies three unique, valid, answerable prompts for each of ten units',async()=>{
-  const manifest=validateGrammarManifest(await read('grammar/manifest.json'));
-  assert.equal(manifest.length,10);
-  let total=0;
-  for(const entry of manifest){
-    const unit=validateGrammarUnit(await read(entry.path));
-    assert.equal(entry.speakingCount,3,entry.id);
-    assert.equal(unit.speakingExercises.length,entry.speakingCount,entry.id);
-    assert.equal(unit.exercises.length,12,entry.id);
-    const ids=[...unit.exercises,...unit.speakingExercises].map(e=>e.id);
-    assert.equal(ids.length,new Set(ids).size,entry.id);
-    for(const e of unit.speakingExercises){
-      assert.ok(e.prompt.length>10 && e.feedback.length>10,e.id);
-      for(const answer of e.acceptedAnswers){
-        assert.ok(evaluateSpokenAnswer(e,answer).correct,`${entry.id} ${e.id}: ${answer}`);
+
+test('Speaking corpus supplies eight valid, answerable prompts per published unit', async () => {
+  const manifest = validateGrammarManifest(
+    await read('database/grammar-manifest.json')
+  );
+
+  assert.ok(Array.isArray(manifest));
+
+  const expectedSpeakingIds = Array.from(
+    { length: 8 },
+    (_, i) => `sp-${String(i + 1).padStart(2, '0')}`
+  );
+
+  let total = 0;
+
+  for (const entry of manifest) {
+    const unit = validateGrammarUnit(await read(entry.path));
+
+    // Validate exercise counts
+    assert.equal(unit.exercises.length, 12, unit.id);
+    assert.equal(unit.speakingExercises.length, 8, unit.id);
+    assert.equal(unit.listeningExercises.length, 8, unit.id);
+
+    // Manifest must reflect the actual corpus
+    assert.equal(entry.speakingCount, 8, entry.id);
+    assert.equal(
+      entry.speakingCount,
+      unit.speakingExercises.length,
+      entry.id
+    );
+
+    // Verify Speaking IDs and their order
+    assert.deepEqual(
+      unit.speakingExercises.map(e => e.id),
+      expectedSpeakingIds,
+      unit.id
+    );
+
+    // Check ID uniqueness across all three skills
+    const ids = [
+      ...unit.exercises,
+      ...unit.speakingExercises,
+      ...unit.listeningExercises
+    ].map(e => e.id);
+
+    assert.equal(
+      ids.length,
+      new Set(ids).size,
+      unit.id
+    );
+
+    // Validate each Speaking exercise
+    for (const e of unit.speakingExercises) {
+      assert.ok(
+        e.prompt.length > 10 &&
+        e.feedback.length > 10,
+        `${unit.id}: ${e.id}`
+      );
+
+      assert.ok(
+        Array.isArray(e.acceptedAnswers) &&
+        e.acceptedAnswers.length > 0,
+        `${unit.id}: ${e.id}`
+      );
+
+      // Every accepted answer must be recognized
+      for (const answer of e.acceptedAnswers) {
+        assert.ok(
+          evaluateSpokenAnswer(e, answer).correct,
+          `${entry.id} ${e.id}: ${answer}`
+        );
       }
     }
-    total+=unit.speakingExercises.length;
+
+    total += unit.speakingExercises.length;
   }
-  assert.equal(total,30);
+
+  // Verify the aggregate against the manifest
+  assert.equal(
+    total,
+    manifest.reduce(
+      (n, entry) => n + entry.speakingCount,
+      0
+    )
+  );
+
+  // Current corpus: eight Speaking exercises per unit
+  assert.equal(total, manifest.length * 8);
 });
+
 test('Schema rejects malformed speaking prompts and duplicate IDs, old units stay valid',async()=>{
-  const unit=await read('grammar/units/grammar-b1-present-perfect.json');
+  const unit=exampleUnit();
   const {speakingExercises,...oldUnit}=unit;
   assert.equal(validateGrammarUnit(oldUnit).id,unit.id);
   assert.throws(()=>validateGrammarUnit({...unit,speakingExercises:[{...unit.speakingExercises[0],id:unit.exercises[0].id}]}),/Duplicate/);
   assert.throws(()=>validateGrammarUnit({...unit,speakingExercises:[{...unit.speakingExercises[0],acceptedAnswers:[]}]}),/Invalid speaking/);
 });
 test('Speaking attempts and due dates remain separate from written grammar and vocabulary',async()=>{
-  const storage=fakeStorage();const unit=await read('grammar/units/grammar-b1-present-perfect.json');
+  const storage=fakeStorage();const unit=exampleUnit();
   storage.setItem('vocablab.progress.v1','{"keep":true}');
   const result=recordGrammarAttempt(unit.id,'sp-01','speaking',false,storage,1000);
   assert.equal(result.due,301000);
@@ -65,14 +135,14 @@ test('Speaking attempts and due dates remain separate from written grammar and v
   assert.equal(storage.getItem('vocablab.progress.v1'),' {"keep":true}'.trim());
 });
 test('Catalog distinguishes speaking totals and written review queues',async()=>{
-  const manifest=(await read('grammar/manifest.json')).units;
+  const manifest=fixtureManifest([fixtureEntry()]).units;
   const storage=fakeStorage();
   recordGrammarAttempt(manifest[0].id,'sp-01','speaking',false,storage,0);
   recordGrammarAttempt(manifest[0].id,'written-01','production',false,storage,0);
   const stats=summarizeGrammarCatalog(manifest,storage,300000);
-  assert.equal(stats.exercises,120);
+  assert.equal(stats.exercises,12);
   assert.equal(stats.practiced,1);
-  assert.equal(stats.speaking.total,30);
+  assert.equal(stats.speaking.total,3);
   assert.equal(stats.speaking.practiced,1);
   assert.equal(stats.speaking.due,1);
   assert.equal(stats.due,1);

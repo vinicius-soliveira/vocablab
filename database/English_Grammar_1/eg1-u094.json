@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u094",
+  "title": "Word Order 2: Frequency and Other Adverbs",
+  "level": "A2",
+  "topicId": "word-order-frequency-auxiliaries",
+  "summary": "Place frequency words such as always, often and never in the usual position in a sentence. Learn how their position changes with be, auxiliary verbs and the group words both and all.",
+  "learningObjectives": [
+    "Place frequency words before a main verb such as go, eat or work.",
+    "Place frequency words after forms of be such as is and were.",
+    "Put frequency and similar adverbs between an auxiliary or modal and the main verb.",
+    "Use both and all naturally with simple and auxiliary verb forms."
+  ],
+  "explanation": [
+    {
+      "heading": "Before an ordinary main verb",
+      "body": "Words such as always, usually, often, sometimes, rarely, seldom and never usually go before the main verb. They tell us how frequently something happens. Sometimes can also begin a sentence: Sometimes we cook together.",
+      "example": "Harper usually walks to work."
+    },
+    {
+      "heading": "After the verb be",
+      "body": "When the verb is am, is, are, was or were, put these frequency words after be: is often, are always, was never. This differs from the pattern with other main verbs.",
+      "example": "The library is usually quiet in the afternoon."
+    },
+    {
+      "heading": "Between two verbs",
+      "body": "When a sentence has an auxiliary or modal and a following main verb, the frequency word normally goes between them. This includes can never find, will often call, do not usually eat, and have just finished. The auxiliary carries the tense or question form.",
+      "example": "I can rarely hear the music from upstairs."
+    },
+    {
+      "heading": "Also, both and all",
+      "body": "Also often comes before a main verb, or after be. With two verbs, it normally comes after the first auxiliary. Both and all commonly follow be, but come before an ordinary main verb; they can appear between an auxiliary and another verb, as in: They have all arrived.",
+      "example": "My cousins are both nurses, and they both work in the city."
+    },
+    {
+      "heading": "Never and questions",
+      "body": "Never already makes a clause negative, so do not add a second negative with do not. In questions, a frequency word normally follows the subject after do, does or did: Do you often... ? Ever is common in questions with have.",
+      "example": "Have you ever tried making bread?"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Ordinary verb versus be",
+      "left": {
+        "label": "Before a main verb",
+        "example": "They often cook at home.",
+        "note": "Often stands before the main verb cook."
+      },
+      "right": {
+        "label": "After be",
+        "example": "They are often busy.",
+        "note": "Often stands after the verb are."
+      }
+    },
+    {
+      "title": "One verb versus two",
+      "left": {
+        "label": "One main verb",
+        "example": "I never forget my lunch.",
+        "note": "Never stands before forget."
+      },
+      "right": {
+        "label": "Auxiliary + main verb",
+        "example": "I will never forget that trip.",
+        "note": "Never stands after will and before forget."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Our neighbours sometimes bring us fresh bread.",
+      "note": "Sometimes stands before the main verb bring."
+    },
+    {
+      "sentence": "The streets are rarely empty at lunchtime.",
+      "note": "Rarely follows the verb are."
+    },
+    {
+      "sentence": "I have already sent the invitation.",
+      "note": "Already fits between have and sent."
+    },
+    {
+      "sentence": "My parents both enjoy gardening.",
+      "note": "Both stands before the ordinary main verb enjoy."
+    },
+    {
+      "sentence": "The two bedrooms are both upstairs.",
+      "note": "Both comes after are."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Emil goes usually to work by bicycle.",
+      "correct": "Emil usually goes to work by bicycle.",
+      "why": "Usually normally comes before an ordinary main verb."
+    },
+    {
+      "incorrect": "Our kitchen always is warm.",
+      "correct": "Our kitchen is always warm.",
+      "why": "Place always after the verb is."
+    },
+    {
+      "incorrect": "I can find never my glasses.",
+      "correct": "I can never find my glasses.",
+      "why": "With can and a main verb, never goes between them."
+    },
+    {
+      "incorrect": "I don’t never eat breakfast.",
+      "correct": "I never eat breakfast.",
+      "why": "Never already gives a negative meaning, so a second negative is unnecessary in standard English."
+    }
+  ],
+  "studyTips": [
+    "Find the first verb: use often go, but is often and can often go.",
+    "Memorise short word-order patterns: usually eat, are usually ready and have already left.",
+    "Remember that sometimes can also go at the beginning of a statement."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "My sister ___ drinks water with dinner.",
+      "choices": [
+        "usually",
+        "is usually",
+        "usually is"
+      ],
+      "answerIndex": 0,
+      "feedback": "Usually stands before the ordinary main verb drinks."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Their dogs ___ hungry after a walk.",
+      "choices": [
+        "always",
+        "are always",
+        "have always"
+      ],
+      "answerIndex": 1,
+      "feedback": "With the verb be, say are always followed by the adjective hungry."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "You can ___ find seats here after six.",
+      "choices": [
+        "find usually",
+        "be usually",
+        "usually"
+      ],
+      "answerIndex": 2,
+      "feedback": "The frequency adverb goes after can and before find."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "They ___ play board games together.",
+      "choices": [
+        "often",
+        "are often",
+        "have often"
+      ],
+      "answerIndex": 0,
+      "feedback": "Often is placed before the simple present main verb play."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with the bracketed words in the correct order: Leo ___ early. (is / usually)",
+      "acceptedAnswers": [
+        "is usually"
+      ],
+      "feedback": "Usually follows the form of be, is."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with the bracketed words in the correct order: Our neighbours ___ us on Fridays. (often / visit)",
+      "acceptedAnswers": [
+        "often visit"
+      ],
+      "feedback": "Often goes before the main verb visit."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with the bracketed words in the correct order: My sisters ___ teachers. (are / both)",
+      "acceptedAnswers": [
+        "are both"
+      ],
+      "feedback": "Both normally follows the verb are."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the bracketed words in the correct order: We ___ this restaurant before. (have / never / tried)",
+      "acceptedAnswers": [
+        "have never tried"
+      ],
+      "feedback": "Never goes between the auxiliary have and the past participle tried."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Clara goes usually by train.",
+      "acceptedAnswers": [
+        "Clara usually goes by train."
+      ],
+      "feedback": "Usually comes before the main verb goes."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The supermarket is busy always on Sundays.",
+      "acceptedAnswers": [
+        "The supermarket is always busy on Sundays."
+      ],
+      "feedback": "With be, put always immediately after is."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I can remember never that password.",
+      "acceptedAnswers": [
+        "I can never remember that password."
+      ],
+      "feedback": "Never comes between can and remember."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: They have finished already their homework.",
+      "acceptedAnswers": [
+        "They have already finished their homework."
+      ],
+      "feedback": "With present perfect, already normally appears between have and finished."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make a complete sentence using “always” in the normal position: “I / take / my keys / to work”.",
+      "acceptedAnswers": [
+        "I always take my keys to work."
+      ],
+      "feedback": "Always goes before the ordinary verb take."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Correct the word order and say the whole sentence in the normal neutral order: “Maya never is late for class.”",
+      "acceptedAnswers": [
+        "Maya is never late for class."
+      ],
+      "feedback": "Never normally comes after is."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Make one complete sentence from these words: “They / have / already / arrived”.",
+      "acceptedAnswers": [
+        "They have already arrived."
+      ],
+      "feedback": "Already goes between have and arrived."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Make one complete sentence from these cues in the present simple: 'Arun / usually / takes / a walk / after dinner'. Put usually in its normal position.",
+      "acceptedAnswers": [
+        "Arun usually takes a walk after dinner."
+      ],
+      "feedback": "Usually comes before the ordinary main verb takes."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this to a future statement with will, keeping often and the other words: 'We often visit our aunt.' Say the complete new sentence.",
+      "acceptedAnswers": [
+        "We will often visit our aunt.",
+        "We'll often visit our aunt."
+      ],
+      "feedback": "With a modal auxiliary, often goes after will and before the main verb visit."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks, 'Are the classrooms usually empty at noon?' You know they are busy at noon. Give one full sentence beginning 'The classrooms' and use usually.",
+      "acceptedAnswers": [
+        "The classrooms are usually busy at noon."
+      ],
+      "feedback": "With are, the adverb usually follows the verb be: are usually busy."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Your friend says, 'Our parents both are teachers.' Correct only the position of both and say the whole sentence.",
+      "acceptedAnswers": [
+        "Our parents are both teachers."
+      ],
+      "feedback": "Both normally comes after the verb are, not before it."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Tell the coach that all five players have finished training. Begin 'The five players' and put all between have and finished.",
+      "acceptedAnswers": [
+        "The five players have all finished training."
+      ],
+      "feedback": "With an auxiliary and a participle, all can stand between have and finished."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Our teacher is usually cheerful in the morning.",
+      "prompt": "How often is the teacher cheerful in the morning?",
+      "choices": [
+        "Never",
+        "Usually",
+        "Rarely"
+      ],
+      "answerIndex": 1,
+      "feedback": "Usually follows is and indicates the typical situation."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Lena can sometimes work from home on Fridays.",
+      "prompt": "Which word describes how often Lena can work from home?",
+      "choices": [
+        "Always",
+        "Never",
+        "Sometimes"
+      ],
+      "answerIndex": 2,
+      "feedback": "Sometimes is the frequency word between can and work."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "My parents have both returned from their trip.",
+      "prompt": "Type the single word immediately after “have”.",
+      "acceptedAnswers": [
+        "both"
+      ],
+      "feedback": "Both is placed between the auxiliary have and returned."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Our shop is often crowded after school, but it is quiet early in the morning.",
+      "prompt": "When is the shop described as quiet?",
+      "choices": [
+        "Just after school",
+        "Early in the day",
+        "Late in the evening"
+      ],
+      "answerIndex": 1,
+      "feedback": "It is quiet early in the morning; after school is when it is often crowded."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Ella sometimes rides her bike to work, but she takes the bus on rainy days.",
+      "prompt": "How does Ella travel when it rains?",
+      "choices": [
+        "She walks",
+        "She cycles",
+        "She uses public transport"
+      ],
+      "answerIndex": 2,
+      "feedback": "On rainy days, Ella takes the bus, which is a form of public transport."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "My brothers are both interested in art, but only Daniel paints.",
+      "prompt": "Which statement matches what you heard?",
+      "choices": [
+        "Both brothers like art, but only one paints",
+        "Neither brother likes art",
+        "Both brothers paint"
+      ],
+      "answerIndex": 0,
+      "feedback": "Both follows are and includes both brothers; only Daniel is said to paint."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Our grandparents will always call us on our birthdays.",
+      "prompt": "Type the single frequency word you hear between 'will' and 'call'.",
+      "acceptedAnswers": [
+        "always"
+      ],
+      "feedback": "Always is between the auxiliary will and the main verb call."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The supermarket is rarely open after ten at night.",
+      "prompt": "Type the single frequency word you hear immediately after 'is'.",
+      "acceptedAnswers": [
+        "rarely"
+      ],
+      "feedback": "Rarely follows is and means that being open after ten does not happen often."
+    }
+  ]
+}

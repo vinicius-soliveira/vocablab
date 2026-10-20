@@ -1,0 +1,411 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u079",
+  "title": "Somebody, Anything, Nowhere and More",
+  "level": "A2",
+  "topicId": "indefinite-people-things-places",
+  "summary": "Talk about people, things and places without naming them. Use indefinite words in statements, questions and negatives, and place describing words or to-infinitives after them.",
+  "learningObjectives": [
+    "Select an appropriate indefinite word for a person, thing or place.",
+    "Use some-, any- and no- forms in clear positive, question and negative contexts.",
+    "Place adjectives after indefinite words such as something and somewhere.",
+    "Use an indefinite word followed by to + base verb to describe a purpose or possibility."
+  ],
+  "explanation": [
+    {
+      "heading": "People: -body and -one",
+      "body": "Use somebody or someone when you mean a person but do not say who. In ordinary questions and negatives, anybody or anyone is common. Nobody and no one mean that there are no people. The endings -body and -one have the same meaning in these pairs.",
+      "example": "Someone has left a blue glove by the entrance."
+    },
+    {
+      "heading": "Things: -thing",
+      "body": "Something refers to an unspecified thing. Anything is common in questions and after not; nothing means no thing. For standard negative sentences, use not + anything or a positive verb with nothing, rather than using not + nothing.",
+      "example": "I could not find anything in the drawer."
+    },
+    {
+      "heading": "Places: -where",
+      "body": "Somewhere means a place that is not identified. Anywhere often appears in questions and negatives. Nowhere means no place. Choose the ending by whether you mean a person, a thing or a place.",
+      "example": "We need somewhere to store our bicycles."
+    },
+    {
+      "heading": "Put adjectives after indefinite words",
+      "body": "When an adjective describes somebody, something or somewhere, it comes after the indefinite word. Say someone friendly, something useful or somewhere peaceful. Do not put the adjective before these indefinite words.",
+      "example": "She wants to visit somewhere peaceful this summer."
+    },
+    {
+      "heading": "Use to + verb for a purpose or option",
+      "body": "An indefinite word can be followed by to + the base form of a verb. Something to read is a thing you can read; somebody to help is a person who can help; somewhere to sit is a place where you can sit.",
+      "example": "There is nowhere to charge my phone on this train."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "An unknown person versus an unknown thing",
+      "left": {
+        "label": "Person",
+        "example": "I spoke to somebody at reception.",
+        "note": "Somebody refers to a person."
+      },
+      "right": {
+        "label": "Thing",
+        "example": "I left something at reception.",
+        "note": "Something refers to a thing."
+      }
+    },
+    {
+      "title": "Two ways to express no person",
+      "left": {
+        "label": "Negative + any-",
+        "example": "I did not meet anyone at the office.",
+        "note": "Not + anyone expresses absence."
+      },
+      "right": {
+        "label": "No- word",
+        "example": "I met nobody at the office.",
+        "note": "Nobody itself expresses absence, so do not add not."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Somebody is playing music in the next room.",
+      "note": "The speaker does not know or identify the person."
+    },
+    {
+      "sentence": "I have not seen anything unusual today.",
+      "note": "Anything is natural after a negative verb."
+    },
+    {
+      "sentence": "There is nowhere to park near this building.",
+      "note": "Nowhere to park means no available place for a car."
+    },
+    {
+      "sentence": "Do you know anyone helpful in this neighbourhood?",
+      "note": "The adjective helpful follows anyone."
+    },
+    {
+      "sentence": "We brought something to share with our neighbours.",
+      "note": "To share explains what the unspecified thing is for."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I have not seen nobody today.",
+      "correct": "I have not seen anybody today.",
+      "why": "In standard English, a negative verb normally combines with anybody, not nobody."
+    },
+    {
+      "incorrect": "We need a quiet somewhere to study.",
+      "correct": "We need somewhere quiet to study.",
+      "why": "An adjective follows somewhere, rather than preceding it."
+    },
+    {
+      "incorrect": "There is somebody to helping us.",
+      "correct": "There is somebody to help us.",
+      "why": "After to, use the base verb help, not helping."
+    },
+    {
+      "incorrect": "Nobody are waiting outside.",
+      "correct": "Nobody is waiting outside.",
+      "why": "Nobody refers to people but takes a singular verb."
+    }
+  ],
+  "studyTips": [
+    "First choose the ending: -body/-one for people, -thing for things and -where for places.",
+    "Practise equivalent pairs: I saw nobody. / I did not see anyone.",
+    "Read useful chunks aloud: something useful, someone friendly, somewhere quiet, nothing to eat."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The office is empty. There is ___ here.",
+      "choices": [
+        "nobody",
+        "anybody",
+        "somebody"
+      ],
+      "answerIndex": 0,
+      "feedback": "Nobody means that no person is there; the office is empty."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "I cannot find my scarf ___, although I have checked every room.",
+      "choices": [
+        "somewhere",
+        "anywhere",
+        "nowhere"
+      ],
+      "answerIndex": 1,
+      "feedback": "Not + anywhere says that the scarf is in no place you have checked."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The glass is completely empty. There is ___ in it.",
+      "choices": [
+        "something",
+        "anything",
+        "nothing"
+      ],
+      "answerIndex": 2,
+      "feedback": "Nothing means there is no thing in the glass."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "I can hear a voice outside, but I cannot see who it is. ___ is calling my name.",
+      "choices": [
+        "Somebody",
+        "Anything",
+        "Somewhere"
+      ],
+      "answerIndex": 0,
+      "feedback": "Somebody refers to an unidentified person; the other options refer to a thing or a place."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete using an indefinite place word: We did not go ___ after dinner; we stayed at home.",
+      "acceptedAnswers": [
+        "anywhere"
+      ],
+      "feedback": "Anywhere is the usual place word after a negative verb."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete using one word: I need something ___ drink after my walk.",
+      "acceptedAnswers": [
+        "to"
+      ],
+      "feedback": "To + base verb describes what something is for."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with the adjective in brackets: I have found something ___ (useful) in this guide.",
+      "acceptedAnswers": [
+        "useful"
+      ],
+      "feedback": "An adjective comes after something."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the person word meaning no one: ___ answered the doorbell; the house was empty.",
+      "acceptedAnswers": [
+        "Nobody",
+        "No one",
+        "No-one"
+      ],
+      "feedback": "Nobody, no one and no-one mean that no person answered."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the negative sentence, keeping 'didn't': I didn't find nothing in the bag.",
+      "acceptedAnswers": [
+        "I didn't find anything in the bag.",
+        "I did not find anything in the bag."
+      ],
+      "feedback": "A standard negative with did not normally uses anything, rather than nothing."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the verb after to: We need somewhere quiet to resting.",
+      "acceptedAnswers": [
+        "We need somewhere quiet to rest."
+      ],
+      "feedback": "Use to + base verb, so to rest is correct."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the adjective position: He bought interesting something at the market.",
+      "acceptedAnswers": [
+        "He bought something interesting at the market."
+      ],
+      "feedback": "The describing word comes after something."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the adjective form: We are looking for somewhere comfortably to sit.",
+      "acceptedAnswers": [
+        "We are looking for somewhere comfortable to sit."
+      ],
+      "feedback": "Somewhere is followed by an adjective such as comfortable, not the adverb comfortably."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say that there is no person in the kitchen. Start with 'There is' and use 'nobody'.",
+      "acceptedAnswers": [
+        "There is nobody in the kitchen."
+      ],
+      "feedback": "Nobody names no person and works with singular is."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say that you did not hear any sound. Start with 'I didn't' and use 'anything'.",
+      "acceptedAnswers": [
+        "I didn't hear anything.",
+        "I did not hear anything."
+      ],
+      "feedback": "Use anything after a negative verb."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say a complete sentence beginning 'We need' and using 'somewhere quiet to rest'.",
+      "acceptedAnswers": [
+        "We need somewhere quiet to rest."
+      ],
+      "feedback": "Put the adjective after somewhere and use to + base verb."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A helpful person is at the reception desk. Make a sentence using 'there is' or 'there's' and 'someone helpful'. End with 'at reception'.",
+      "acceptedAnswers": [
+        "There is someone helpful at reception.",
+        "There's someone helpful at reception."
+      ],
+      "feedback": "Someone refers to one unspecified person. Put the describing word helpful after someone."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Rewrite 'We found nothing in the suitcase' using 'did not' or 'didn't' and 'anything'. Keep the subject and place unchanged.",
+      "acceptedAnswers": [
+        "We did not find anything in the suitcase.",
+        "We didn't find anything in the suitcase."
+      ],
+      "feedback": "Use did not find anything instead of found nothing. After did not, use the base verb find."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your friend asks where you can wait. There is a warm place inside. Reply with one sentence beginning 'We can wait' and using 'somewhere warm inside'.",
+      "acceptedAnswers": [
+        "We can wait somewhere warm inside."
+      ],
+      "feedback": "Somewhere refers to an unspecified place, and the adjective warm comes after it."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the word order in this sentence and say it aloud: 'I brought useful something to read.' Do not change the other words.",
+      "acceptedAnswers": [
+        "I brought something useful to read."
+      ],
+      "feedback": "The adjective useful follows something; to read explains the purpose of the item."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You searched every room of your house for your wallet, but it is still missing. Tell a friend in one sentence beginning 'I cannot find' or 'I can't find' and ending 'anywhere in the house'.",
+      "acceptedAnswers": [
+        "I cannot find my wallet anywhere in the house.",
+        "I can't find my wallet anywhere in the house."
+      ],
+      "feedback": "Anywhere is natural after cannot or can't when no location has the missing item."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I need something warm to drink.",
+      "prompt": "What does the speaker want?",
+      "choices": [
+        "A place to sit",
+        "A warm drink",
+        "A person to call"
+      ],
+      "answerIndex": 1,
+      "feedback": "Something warm to drink refers to a drink, not a person or place."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We could not find anyone at the ticket desk.",
+      "prompt": "Who was at the ticket desk?",
+      "choices": [
+        "Somebody helpful",
+        "A large crowd",
+        "Nobody"
+      ],
+      "answerIndex": 2,
+      "feedback": "Could not find anyone means there was no person there."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "We want to go somewhere peaceful this weekend.",
+      "prompt": "Type the one-word indefinite place expression you hear.",
+      "acceptedAnswers": [
+        "somewhere"
+      ],
+      "feedback": "Somewhere refers to an unidentified place."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Somebody left a small parcel for Leo at the front desk.",
+      "prompt": "What happened to the parcel?",
+      "choices": [
+        "An unidentified person left it for Leo.",
+        "Leo sent it back to the shop.",
+        "A worker opened it before Leo arrived."
+      ],
+      "answerIndex": 0,
+      "feedback": "The parcel was left for Leo by a person whose identity the speaker does not give."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "We found somewhere to sit behind the library, near the little garden.",
+      "prompt": "Where could the speakers rest?",
+      "choices": [
+        "Inside a train station.",
+        "Beside a garden near a library.",
+        "In a hotel room."
+      ],
+      "answerIndex": 1,
+      "feedback": "The place to sit was behind the library and close to a garden."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I couldn't find anyone to help, but my sister found someone at reception.",
+      "prompt": "Which statement fits the situation?",
+      "choices": [
+        "Both people found someone.",
+        "Neither person met anybody.",
+        "Only the sister found a person."
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker found no one, while the sister found a person at reception."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "I picked up something useful for our camping trip.",
+      "prompt": "Type the two-word phrase describing the item the speaker got.",
+      "acceptedAnswers": [
+        "something useful"
+      ],
+      "feedback": "The speaker says something useful, with the adjective after the indefinite word."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "There is nowhere to leave our bags until check-in.",
+      "prompt": "Type the single word expressing that no suitable place exists.",
+      "acceptedAnswers": [
+        "nowhere"
+      ],
+      "feedback": "Nowhere means no place is available; to leave describes the needed action."
+    }
+  ]
+}

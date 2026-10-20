@@ -1,0 +1,416 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u019",
+  "title": "For, Since and Ago: Talking About Time",
+  "level": "A2",
+  "topicId": "for-since-ago-time",
+  "summary": "Use for to express a length of time, since to identify when a continuing situation began, and ago to say how long before now something happened. Choose the right expression for ongoing situations and finished events.",
+  "learningObjectives": [
+    "Choose for before a period of time and since before a starting point.",
+    "Use for and since to describe situations that continue up to the present.",
+    "Use ago with the past simple to describe events before now.",
+    "Distinguish how long something has continued from when an event happened."
+  ],
+  "explanation": [
+    {
+      "heading": "For tells us how long",
+      "body": "Use for before a duration: for ten minutes, for two weeks, for a year or for a long time. It measures the length of a period, not its starting date. We often use it with the present perfect to describe something that is still true.",
+      "example": "I have had this bicycle for four years."
+    },
+    {
+      "heading": "Since tells us when it started",
+      "body": "Use since before a starting point: since Tuesday, since 2021, since breakfast or since I moved here. The situation continues from that point up to now. A clause after since can contain a past simple verb.",
+      "example": "Nora has worked at the shop since she left college."
+    },
+    {
+      "heading": "For and since with continuing actions",
+      "body": "The present perfect and present perfect continuous can tell us how long something has continued. Use for with the total period and since with its starting point. Do not put since directly before a duration such as three hours.",
+      "example": "We have been waiting for twenty minutes, since half past two."
+    },
+    {
+      "heading": "Ago means before now",
+      "body": "Place ago after a period of time to say how far back a finished event happened: two days ago, an hour ago. Use a past form for the event. Do not normally use the present perfect with an expression ending in ago.",
+      "example": "I sent the parcel five days ago."
+    },
+    {
+      "heading": "Time elapsed versus time continuing",
+      "body": "Use a past verb and ago to say when an event occurred. Use the present perfect with for to measure a continuing state. The two expressions can describe the same timeline from different viewpoints.",
+      "example": "The class began six weeks ago, and I have been attending it for six weeks."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Duration versus starting point",
+      "left": {
+        "label": "for + duration",
+        "example": "Our neighbours have lived here for eight months.",
+        "note": "Eight months is the length of the period."
+      },
+      "right": {
+        "label": "since + start",
+        "example": "Our neighbours have lived here since February.",
+        "note": "February marks when the period began."
+      }
+    },
+    {
+      "title": "A finished event versus a continuing situation",
+      "left": {
+        "label": "past + ago",
+        "example": "I joined the club two years ago.",
+        "note": "The joining happened at one point in the past."
+      },
+      "right": {
+        "label": "present perfect + for",
+        "example": "I have been a club member for two years.",
+        "note": "Membership started in the past and continues now."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "They have owned their flat for six months.",
+      "note": "For introduces a period of six months."
+    },
+    {
+      "sentence": "My aunt has taught music since 2018.",
+      "note": "Since marks the year the continuing work began."
+    },
+    {
+      "sentence": "I have known her since we were children.",
+      "note": "Since can introduce a past-time clause."
+    },
+    {
+      "sentence": "We ate lunch forty minutes ago.",
+      "note": "Ago goes after the duration and accompanies a past event."
+    },
+    {
+      "sentence": "The workshop began an hour ago, and we have been here for an hour.",
+      "note": "Ago dates a past start; for measures how long people have been present."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I have waited since thirty minutes.",
+      "correct": "I have waited for thirty minutes.",
+      "why": "Thirty minutes is a duration, so it takes for."
+    },
+    {
+      "incorrect": "She has lived here for last September.",
+      "correct": "She has lived here since last September.",
+      "why": "Last September identifies the starting point."
+    },
+    {
+      "incorrect": "They arrived since two hours.",
+      "correct": "They arrived two hours ago.",
+      "why": "Use ago after the duration for a finished past arrival."
+    },
+    {
+      "incorrect": "I have bought this notebook four days ago.",
+      "correct": "I bought this notebook four days ago.",
+      "why": "A finished time with ago normally requires the past simple."
+    }
+  ],
+  "studyTips": [
+    "Ask “How long?” for a duration (for) and “Since when?” for the starting point (since).",
+    "Remember the word order: for three weeks, since Wednesday, three weeks ago.",
+    "Check the verb form when you use ago: the event normally needs the past simple."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The bakery has been open ___ seven o’clock this morning.",
+      "choices": [
+        "since",
+        "for",
+        "ago"
+      ],
+      "answerIndex": 0,
+      "feedback": "Seven o’clock is the starting point of the opening period, so use since."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "I met my new neighbours three days ___.",
+      "choices": [
+        "since",
+        "ago",
+        "for"
+      ],
+      "answerIndex": 1,
+      "feedback": "The meeting happened three days before now; ago follows the duration."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "We have waited outside ___ half an hour.",
+      "choices": [
+        "ago",
+        "since",
+        "for"
+      ],
+      "answerIndex": 2,
+      "feedback": "Half an hour is a duration, so for is the correct preposition."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Nadia has known Omar ___ they started school together.",
+      "choices": [
+        "since",
+        "for",
+        "ago"
+      ],
+      "answerIndex": 0,
+      "feedback": "Since can introduce a clause identifying when the continuing relationship began."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with for or since: “The children have been asleep ___ nine o’clock.”",
+      "acceptedAnswers": [
+        "since"
+      ],
+      "feedback": "Nine o’clock is a specific starting time."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with for or since: “I have played the guitar ___ five years.”",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "Five years measures a length of time."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with for, since or ago: “The bus left ten minutes ___.”",
+      "acceptedAnswers": [
+        "ago"
+      ],
+      "feedback": "The bus left at a finished point in the past; use ago after the duration."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with for or since: “Eli has worked remotely ___ he changed jobs.”",
+      "acceptedAnswers": [
+        "since"
+      ],
+      "feedback": "A past event can define the beginning of the continuing period after since."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I’ve worked at the bakery since six months.",
+      "acceptedAnswers": [
+        "I've worked at the bakery for six months.",
+        "I have worked at the bakery for six months."
+      ],
+      "feedback": "Six months is a duration. Change since to for without changing the present perfect."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We moved into this flat for three years ago.",
+      "acceptedAnswers": [
+        "We moved into this flat three years ago."
+      ],
+      "feedback": "Remove for. Ago already marks how long before now the move took place."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Ravi has been at the clinic for Monday.",
+      "acceptedAnswers": [
+        "Ravi has been at the clinic since Monday."
+      ],
+      "feedback": "Monday is the starting point of the visit, so use since."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I have seen that film two nights ago.",
+      "acceptedAnswers": [
+        "I saw that film two nights ago."
+      ],
+      "feedback": "The finished time two nights ago requires the past simple saw, not have seen."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Maya moved to Bristol five years ago and still lives there. Say one full sentence about Maya using “for five years”.",
+      "acceptedAnswers": [
+        "Maya has lived in Bristol for five years.",
+        "Maya's lived in Bristol for five years."
+      ],
+      "feedback": "For introduces the duration, and has lived shows the situation still continues."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "The museum opened in 2019 and is still open. Say one full sentence using “since 2019”.",
+      "acceptedAnswers": [
+        "The museum has been open since 2019."
+      ],
+      "feedback": "Since introduces the year when this continuing state began."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "You arrived home twenty minutes before now. Say when using “ago”.",
+      "acceptedAnswers": [
+        "I got home twenty minutes ago.",
+        "I got home 20 minutes ago.",
+        "I arrived home twenty minutes ago.",
+        "I arrived home 20 minutes ago."
+      ],
+      "feedback": "Use a past verb and put ago after the elapsed time."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Jules began waiting at 8:00. It is now 8:15, and Jules is still waiting. Say one sentence beginning “Jules has been waiting” and use for with the number of minutes.",
+      "acceptedAnswers": [
+        "Jules has been waiting for fifteen minutes.",
+        "Jules has been waiting for 15 minutes."
+      ],
+      "feedback": "Use has been waiting for an ongoing activity and for fifteen minutes to express its duration."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "The road became blocked on Monday and is still blocked today, Thursday. Change “The road has been blocked for three days” to one sentence using since Monday.",
+      "acceptedAnswers": [
+        "The road has been blocked since Monday."
+      ],
+      "feedback": "Since Monday identifies the starting point of a state that continues now."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks when Ben started his new job. He started it two months before now. Reply in one sentence beginning “Ben started his new job” and using ago.",
+      "acceptedAnswers": [
+        "Ben started his new job two months ago.",
+        "Ben started his new job 2 months ago."
+      ],
+      "feedback": "Use the past simple started and put ago after the time period."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this sentence by changing only the wrong time word: “I’ve had these glasses since six months.” Say the complete corrected sentence.",
+      "acceptedAnswers": [
+        "I've had these glasses for six months.",
+        "I have had these glasses for six months."
+      ],
+      "feedback": "Six months is a duration, so use for; since needs a starting point."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Ava gave you a note two days ago, and you still have it. Say one sentence beginning “Ava gave me a note”, then add “and I have kept it since then”. Use ago for the first event.",
+      "acceptedAnswers": [
+        "Ava gave me a note two days ago, and I have kept it since then.",
+        "Ava gave me a note two days ago, and I've kept it since then.",
+        "Ava gave me a note 2 days ago, and I have kept it since then.",
+        "Ava gave me a note 2 days ago, and I've kept it since then."
+      ],
+      "feedback": "Ago dates the completed act of giving; have kept ... since then describes a situation continuing to now."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "My sister has worked at the bakery since April.",
+      "prompt": "Which description matches the time expression you hear?",
+      "choices": [
+        "She stopped working at the bakery in April.",
+        "She started in April and still works there.",
+        "She has worked there for exactly four weeks."
+      ],
+      "answerIndex": 1,
+      "feedback": "Since April identifies the starting point, and has worked indicates a continuing situation."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We collected our tickets half an hour ago.",
+      "prompt": "When did the ticket collection happen?",
+      "choices": [
+        "It will happen in half an hour.",
+        "It has been happening for an hour.",
+        "It happened thirty minutes before now."
+      ],
+      "answerIndex": 2,
+      "feedback": "Ago places a completed action in the past relative to now."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I have been on this bus for forty minutes.",
+      "prompt": "Type only the duration mentioned after the time preposition.",
+      "acceptedAnswers": [
+        "forty minutes",
+        "40 minutes"
+      ],
+      "feedback": "For is followed by the duration forty minutes, not a starting point."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I have owned this backpack for eight months, and I still use it every day.",
+      "prompt": "What is true about the speaker and the backpack?",
+      "choices": [
+        "The speaker sold it months ago.",
+        "The speaker will buy it next week.",
+        "It still belongs to the speaker and gets regular use."
+      ],
+      "answerIndex": 2,
+      "feedback": "Have owned ... for eight months and still use it tell us the backpack is part of the speaker’s life now."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Sofia has taken the bus to work since January, but she only started walking home last week.",
+      "prompt": "Which daily routine began earlier?",
+      "choices": [
+        "Travelling to work by bus.",
+        "Walking home from work.",
+        "Both began at the same time."
+      ],
+      "answerIndex": 0,
+      "feedback": "The bus routine started in January; walking home only began last week."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Theo repaired his bicycle three days ago. He has ridden it to school every day since then.",
+      "prompt": "Which description matches what happened and what continues now?",
+      "choices": [
+        "The bicycle repair has not happened yet.",
+        "The repair was completed earlier, and the bicycle is in regular use now.",
+        "Theo has been repairing the bicycle every day."
+      ],
+      "answerIndex": 1,
+      "feedback": "Repaired ... ago is a finished past event; has ridden ... since then describes repeated use up to now."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The little café has stayed open for five years.",
+      "prompt": "Type only the time preposition immediately before the length of time.",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "For introduces a duration: five years."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I fixed my desk lamp about an hour ago, and it works now.",
+      "prompt": "Type only the word immediately after “an hour” in the recording.",
+      "acceptedAnswers": [
+        "ago"
+      ],
+      "feedback": "Ago follows the time period and locates a completed event before now."
+    }
+  ]
+}

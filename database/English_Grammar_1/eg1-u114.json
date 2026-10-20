@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u114",
+  "title": "Phrasal Verbs: Movement and Direction",
+  "level": "A2",
+  "topicId": "phrasal-verbs-movement-direction",
+  "summary": "Learn everyday phrasal verbs that combine a verb with a short direction word. Use these combinations to describe entering, leaving, moving, returning and changing position.",
+  "learningObjectives": [
+    "Use common combinations with in, out, on and off to describe entering and leaving.",
+    "Choose up and down correctly with stand, get, sit, lie, look and fall.",
+    "Distinguish moving away from coming back or going back.",
+    "Understand phrasal verbs with over and round or around."
+  ],
+  "explanation": [
+    {
+      "heading": "A verb and a small direction word",
+      "body": "A phrasal verb combines a verb with a short word such as in, out, up or back. In this lesson these combinations mainly describe movement or direction. Learn the whole expression and its meaning.",
+      "example": "The door was open, so we went in."
+    },
+    {
+      "heading": "In, out, on and off",
+      "body": "Go in and get in describe entering; go out and get out describe leaving an enclosed space. Get on and get off are common for buses and trains. Fall off means fall from a raised surface or vehicle.",
+      "example": "The train stopped, and the passengers got off."
+    },
+    {
+      "heading": "Up and down",
+      "body": "Stand up moves you to a standing position; sit down or lie down moves you to a lower position. Get up can mean leave bed, while look up means direct your eyes upwards. Fall down describes movement to a lower place.",
+      "example": "Mila stood up when the visitor arrived."
+    },
+    {
+      "heading": "Away and back",
+      "body": "Run away, drive away and go away describe leaving a place. Come back and go back describe returning. Be away means be somewhere else; be back means have returned.",
+      "example": "I went to the library and came back before lunch."
+    },
+    {
+      "heading": "Over and round or around",
+      "body": "Climb over means go across the top of something; turn over means move something to its other side. Turn round and turn around both mean change the direction you face, and look round or look around means look in several directions.",
+      "example": "We turned around when we reached the closed gate."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Entering and leaving a bus",
+      "left": {
+        "label": "Get on",
+        "example": "Owen got on the bus at the market.",
+        "note": "He boarded the bus."
+      },
+      "right": {
+        "label": "Get off",
+        "example": "Owen got off the bus at the library.",
+        "note": "He left the bus."
+      }
+    },
+    {
+      "title": "Leaving and returning",
+      "left": {
+        "label": "Go away",
+        "example": "I am going away for two days.",
+        "note": "I will be somewhere else."
+      },
+      "right": {
+        "label": "Come back",
+        "example": "I will come back on Sunday.",
+        "note": "I will return to this place."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The children went out to play in the garden.",
+      "note": "Went out describes leaving the building."
+    },
+    {
+      "sentence": "Please sit down and make yourself comfortable.",
+      "note": "Sit down is a change to a sitting position."
+    },
+    {
+      "sentence": "I looked up when I heard a bird above me.",
+      "note": "Looked up means looking towards a higher point."
+    },
+    {
+      "sentence": "We looked out of the window when it started to snow.",
+      "note": "Looked out means directed our eyes to what was outside."
+    },
+    {
+      "sentence": "She looked around the classroom for her bag.",
+      "note": "Look around and look round can describe checking the area."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The passengers got in the bus at the stop.",
+      "correct": "The passengers got on the bus at the stop.",
+      "why": "Use get on for boarding a bus in ordinary English."
+    },
+    {
+      "incorrect": "He stood down when the teacher entered.",
+      "correct": "He stood up when the teacher entered.",
+      "why": "Stand up describes moving from sitting to standing."
+    },
+    {
+      "incorrect": "I will come away to the office after lunch.",
+      "correct": "I will come back to the office after lunch.",
+      "why": "Come back means return to a place."
+    },
+    {
+      "incorrect": "The book fell up from the shelf.",
+      "correct": "The book fell down from the shelf.",
+      "why": "Down expresses the direction of a fall."
+    }
+  ],
+  "studyTips": [
+    "Learn opposite pairs together: in/out, on/off, up/down and away/back.",
+    "Act out stand up, sit down and turn around to remember the directions.",
+    "Study these direction expressions separately from object-placement rules such as put it on, which are covered in the next unit."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the phrasal-verb particle: The room was hot, so I went ___ for some fresh air.",
+      "choices": [
+        "out",
+        "in",
+        "up"
+      ],
+      "answerIndex": 0,
+      "feedback": "Go out means leave the room or building."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the particle: The train stopped, and the passengers got ___.",
+      "choices": [
+        "up",
+        "off",
+        "over"
+      ],
+      "answerIndex": 1,
+      "feedback": "Get off is the usual expression for leaving a train."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the particle: The audience stood ___ when the singer entered the room.",
+      "choices": [
+        "out",
+        "back",
+        "up"
+      ],
+      "answerIndex": 2,
+      "feedback": "Stand up means rise to a standing position."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the particle: The path was blocked, so we turned ___ and walked back.",
+      "choices": [
+        "round",
+        "down",
+        "on"
+      ],
+      "answerIndex": 0,
+      "feedback": "Turn round means change direction; turned around would also be natural."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "I was asleep until nine, and then I got ___.",
+      "acceptedAnswers": [
+        "up"
+      ],
+      "feedback": "Get up can mean leave bed after sleeping."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The cyclist lost his balance and fell ___ his bike.",
+      "acceptedAnswers": [
+        "off"
+      ],
+      "feedback": "Fall off describes falling from a bicycle."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The café was closed, so we went ___ home.",
+      "acceptedAnswers": [
+        "back"
+      ],
+      "feedback": "Went back home describes returning home."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The bus driver asked everyone to sit ___ before the journey began.",
+      "acceptedAnswers": [
+        "down"
+      ],
+      "feedback": "Sit down means move into a sitting position."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The passengers got in the bus at the station.",
+      "acceptedAnswers": [
+        "The passengers got on the bus at the station."
+      ],
+      "feedback": "Use got on for boarding a bus."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Lena heard a helicopter directly above her and looked down to see it.",
+      "acceptedAnswers": [
+        "Lena heard a helicopter directly above her and looked up to see it."
+      ],
+      "feedback": "Looking up means looking towards something overhead."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The picture fell up and landed on the floor.",
+      "acceptedAnswers": [
+        "The picture fell down and landed on the floor."
+      ],
+      "feedback": "Fell down describes its downward movement."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The woman came away to collect the bag she had forgotten.",
+      "acceptedAnswers": [
+        "The woman came back to collect the bag she had forgotten."
+      ],
+      "feedback": "Come back means return to a place to do something."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say this complete sentence using the past form of stand up: When the teacher came in, we / stand up.",
+      "acceptedAnswers": [
+        "When the teacher came in, we stood up."
+      ],
+      "feedback": "Stood up is the past form of stand up."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say the complete sentence in the past: The driver / get out of / the taxi.",
+      "acceptedAnswers": [
+        "The driver got out of the taxi."
+      ],
+      "feedback": "Got out of is natural for leaving a car or taxi."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say the complete sentence using looked around: Ben / look around / the room. Use the past simple.",
+      "acceptedAnswers": [
+        "Ben looked around the room."
+      ],
+      "feedback": "Looked around describes examining the area in several directions."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The door is open and two visitors are outside. Invite them to enter using 'come in'. Say the short polite instruction beginning 'Please'.",
+      "acceptedAnswers": [
+        "Please come in."
+      ],
+      "feedback": "Come in means enter; please makes the instruction polite."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this sentence to the past simple without changing the other words: 'She goes away on Monday.'",
+      "acceptedAnswers": [
+        "She went away on Monday."
+      ],
+      "feedback": "The past form of go away is went away."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your friend is tired and needs to rest flat on the sofa. Give a polite instruction using 'lie down'. Begin with 'Please' and include 'on the sofa'.",
+      "acceptedAnswers": [
+        "Please lie down on the sofa."
+      ],
+      "feedback": "Lie down means move into a resting, horizontal position."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct only the direction word immediately after 'got' in this sentence: 'We got on the train and walked onto the platform.' The people are leaving the train.",
+      "acceptedAnswers": [
+        "We got off the train and walked onto the platform."
+      ],
+      "feedback": "Get off is the phrase for leaving a train; get on means boarding it."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "The visitors left at five and returned to the same place at six. Report this in one sentence starting 'The visitors' using 'went away' and 'came back' in that order.",
+      "acceptedAnswers": [
+        "The visitors went away at five and came back at six."
+      ],
+      "feedback": "Went away means left; came back shows that the visitors returned to the place."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "After dinner, Carla went back to her office.",
+      "prompt": "What did Carla do after dinner?",
+      "choices": [
+        "She left her office for good.",
+        "She returned to her office.",
+        "She went upstairs."
+      ],
+      "answerIndex": 1,
+      "feedback": "Went back means returned to a place."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The children climbed over the low wall.",
+      "prompt": "How did the children pass the wall?",
+      "choices": [
+        "They went through a door.",
+        "They walked around it.",
+        "They went over the top."
+      ],
+      "answerIndex": 2,
+      "feedback": "Climbed over describes moving over the top of something."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I sat down because my legs were tired.",
+      "prompt": "Type the word you hear directly after sat.",
+      "acceptedAnswers": [
+        "down"
+      ],
+      "feedback": "Sit down means change to a sitting position."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The alarm rang at six, but Max didn't get up until half past seven.",
+      "prompt": "What happened at half past seven?",
+      "choices": [
+        "Max finally left his bed.",
+        "Max set his alarm.",
+        "Max went to sleep."
+      ],
+      "answerIndex": 0,
+      "feedback": "Did not get up until half past seven means he stayed in bed until then."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "We got on the bus near the library and got off beside the cinema.",
+      "prompt": "Where did the passengers leave the bus?",
+      "choices": [
+        "Near a place for borrowing books.",
+        "Outside a place that shows films.",
+        "Beside a sports ground."
+      ],
+      "answerIndex": 1,
+      "feedback": "Got off means left the bus; the cinema was the place where they got off."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Lily looked up because a plane was flying overhead, while Tom looked down at his shoes.",
+      "prompt": "What did Lily do?",
+      "choices": [
+        "She lowered her eyes.",
+        "She turned away from the plane.",
+        "She raised her eyes towards the sky."
+      ],
+      "answerIndex": 2,
+      "feedback": "Looked up describes raising your eyes towards something overhead."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Please stand up when your group is called to the front of the room.",
+      "prompt": "Type the two-word instruction telling the listeners to rise to their feet.",
+      "acceptedAnswers": [
+        "stand up"
+      ],
+      "feedback": "Stand up means change from a sitting position to a standing position."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "As soon as the dog heard thunder, it ran away from the garden.",
+      "prompt": "Type the two-word past-tense phrase describing how the dog left quickly.",
+      "acceptedAnswers": [
+        "ran away"
+      ],
+      "feedback": "Ran away describes moving quickly away from a place."
+    }
+  ]
+}

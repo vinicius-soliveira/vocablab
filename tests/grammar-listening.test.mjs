@@ -5,6 +5,7 @@ import {resolve,dirname,join} from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {evaluateListeningAnswer} from '../js/grammar/listening.js';
 import {validateGrammarUnit,validateGrammarManifest} from '../js/grammar/schema.js';
+import {exampleUnit,fixtureEntry,fixtureManifest} from './fixtures/grammar-fixture.mjs';
 import {recordGrammarAttempt,dueListeningExercises,summarizeListeningUnit,dueGrammarUnitIds,
  summarizeGrammarCatalog,getGrammarProgress,exportGrammarProgress,importGrammarProgress,GRAMMAR_PROGRESS_KEY} from '../js/grammar/progress.js';
 const root=resolve(dirname(fileURLToPath(import.meta.url)),'..');
@@ -24,27 +25,86 @@ test('Listening transcription accepts case, punctuation and common contractions 
  for(const answer of ['not finished','finished','have not',''])
   assert.equal(evaluateListeningAnswer(gap,answer).correct,false,answer);
 });
-test('Listening corpus has three well-formed exercises per lesson with unique IDs',async()=>{
- const manifest=validateGrammarManifest(await read('grammar/manifest.json'));
- assert.equal(manifest.length,10);
- for(const item of manifest){
-  const unit=validateGrammarUnit(await read(item.path));
-  assert.equal(item.listeningCount,3,unit.id);
-  assert.equal(unit.listeningExercises.length,3,unit.id);
-  assert.equal(unit.speakingExercises.length,3,unit.id);
-  assert.equal(unit.exercises.length,12,unit.id);
-  const ids=[...unit.exercises,...unit.speakingExercises,...unit.listeningExercises].map(x=>x.id);
-  assert.equal(new Set(ids).size,ids.length,unit.id);
-  assert.deepEqual(unit.listeningExercises.map(e=>e.type),['multiple-choice','multiple-choice','gap-fill']);
-  for(const e of unit.listeningExercises){
-   assert.ok(e.audioText.length>10 && e.prompt.length>15 && e.feedback.length>10,e.id);
-   if(e.type==='multiple-choice') assert.equal(evaluateListeningAnswer(e,e.answerIndex).correct,true);
-   else for(const answer of e.acceptedAnswers) assert.equal(evaluateListeningAnswer(e,answer).correct,true,unit.id);
+
+test('Listening corpus has eight well-formed exercises per lesson with unique IDs', async () => {
+  const manifest = validateGrammarManifest(
+    await read('database/grammar-manifest.json')
+  );
+
+  assert.ok(Array.isArray(manifest));
+
+  const expectedListeningIds = Array.from(
+    { length: 8 },
+    (_, i) => `li-${String(i + 1).padStart(2, '0')}`
+  );
+
+  for (const item of manifest) {
+    const unit = validateGrammarUnit(await read(item.path));
+
+    // Validate exercise counts
+    assert.equal(unit.exercises.length, 12, unit.id);
+    assert.equal(unit.speakingExercises.length, 8, unit.id);
+    assert.equal(unit.listeningExercises.length, 8, unit.id);
+
+    // Manifest must match actual unit content
+    assert.equal(
+      item.listeningCount,
+      unit.listeningExercises.length,
+      unit.id
+    );
+
+    // Ensure all expected Listening IDs exist in order
+    assert.deepEqual(
+      unit.listeningExercises.map(e => e.id),
+      expectedListeningIds,
+      unit.id
+    );
+
+    // Ensure uniqueness across all exercise types
+    const ids = [
+      ...unit.exercises,
+      ...unit.speakingExercises,
+      ...unit.listeningExercises
+    ].map(e => e.id);
+
+    assert.equal(new Set(ids).size, ids.length, unit.id);
+
+    // Validate Listening types and answers
+    assert.ok(
+      unit.listeningExercises.every(
+        e => ['multiple-choice', 'gap-fill'].includes(e.type)
+      ),
+      unit.id
+    );
+
+    for (const e of unit.listeningExercises) {
+      assert.ok(
+        e.audioText.length > 10 &&
+        e.prompt.length > 15 &&
+        e.feedback.length > 10,
+        `${unit.id}: ${e.id}`
+      );
+
+      if (e.type === 'multiple-choice') {
+        assert.equal(
+          evaluateListeningAnswer(e, e.answerIndex).correct,
+          true,
+          `${unit.id}: ${e.id}`
+        );
+      } else {
+        for (const answer of e.acceptedAnswers) {
+          assert.equal(
+            evaluateListeningAnswer(e, answer).correct,
+            true,
+            `${unit.id}: ${e.id}`
+          );
+        }
+      }
+    }
   }
- }
 });
 test('Old units without listeningExercises stay valid and malformed content is rejected',async()=>{
- const unit=await read('grammar/units/grammar-b1-present-perfect.json');
+ const unit=exampleUnit();
  const {listeningExercises,...oldUnit}=unit;
  assert.equal(validateGrammarUnit(oldUnit).id,unit.id);
  assert.throws(()=>validateGrammarUnit({...unit,listeningExercises:[{...unit.listeningExercises[0],id:unit.speakingExercises[0].id}]}),/Duplicate/);
@@ -53,13 +113,13 @@ test('Old units without listeningExercises stay valid and malformed content is r
  assert.throws(()=>validateGrammarUnit({...unit,listeningExercises:[{...unit.listeningExercises[0],answerIndex:6}]}),/Invalid/);
 });
 test('Catalog rejects mismatched listeningCount',async()=>{
- const cat=await read('grammar/manifest.json');
+ const cat=fixtureManifest();
  assert.throws(()=>validateGrammarManifest({...cat,units:[{...cat.units[0],listeningCount:-2}]}),/Invalid/);
  const noCount={...cat.units[0]};delete noCount.listeningCount;
  assert.equal(validateGrammarManifest({...cat,units:[noCount]}).length,1);
 });
 test('Listening review scheduling stays distinct from spoken and written queues',async()=>{
- const unit=await read('grammar/units/grammar-b1-articles.json');
+ const unit=exampleUnit();
  const db=storage();db.setItem('vocablab.progress.v1','{"keep":true}');
  const got=recordGrammarAttempt(unit.id,'li-01','listening',false,db,1000);
  assert.equal(got.due,301000);
@@ -68,7 +128,7 @@ test('Listening review scheduling stays distinct from spoken and written queues'
  assert.equal(summarizeListeningUnit(unit,db,301000).attempts,1);
  assert.equal(summarizeListeningUnit(unit,db,301000).due,1);
  assert.equal(db.getItem('vocablab.progress.v1'),'{"keep":true}');
- const manifest=(await read('grammar/manifest.json')).units;
+ const manifest=fixtureManifest([fixtureEntry()]).units;
  assert.deepEqual(dueGrammarUnitIds(manifest,db,301000),[]);
  const stats=summarizeGrammarCatalog(manifest,db,301000);
  assert.equal(stats.listening.practiced,1);

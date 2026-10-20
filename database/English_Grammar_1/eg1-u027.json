@@ -1,0 +1,407 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u027",
+  "title": "Will and Shall: Future Predictions",
+  "level": "A2",
+  "topicId": "will-shall-future-predictions",
+  "summary": "Use will to talk about what you expect to happen in the future. Make future statements, negatives and questions, and recognise shall as an alternative to will with I and we.",
+  "learningObjectives": [
+    "Build affirmative, negative and question forms with will and a base verb.",
+    "Make simple future predictions with expressions such as I think and probably.",
+    "Distinguish an expectation about the future from a plan already arranged.",
+    "Recognise shall in future statements with I and we."
+  ],
+  "explanation": [
+    {
+      "heading": "Will followed by a base verb",
+      "body": "Use will + the base form of a verb for a future situation or expectation. The form will is the same for every subject. In everyday speech, I will, she will and they will are often shortened to I’ll, she’ll and they’ll. Do not add -s or to after will.",
+      "example": "Our neighbours will return on Tuesday."
+    },
+    {
+      "heading": "Negative statements and questions",
+      "body": "Use will not or won’t for a negative future statement. For a question, put will before the subject: Will + subject + base verb? In both patterns, the main verb stays in its base form.",
+      "example": "Will the café be open tomorrow? No, it won’t."
+    },
+    {
+      "heading": "Predictions, opinions and uncertainty",
+      "body": "We often use will with I think, I don’t think, probably or perhaps when we are guessing what will happen. I don’t think she will come is a natural way to express a negative expectation. Will alone does not say how certain the speaker is.",
+      "example": "I think the journey will take about an hour."
+    },
+    {
+      "heading": "Will, arranged plans and shall",
+      "body": "When something has already been arranged, the present continuous usually gives the plan more clearly; going to can express a decision made earlier. Will is common for predictions rather than describing those arrangements. In some British English, shall can replace will in a future statement with I or we, but not normally with he, she, it, you or they. Questions such as Shall we ...? are covered in the next unit.",
+      "example": "We’re meeting Omar on Friday, and I think he’ll enjoy the café."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A future prediction or an arranged plan?",
+      "left": {
+        "label": "Prediction with will",
+        "example": "I think Maya will visit us next month.",
+        "note": "This expresses an expectation, not a confirmed arrangement."
+      },
+      "right": {
+        "label": "Arrangement with present continuous",
+        "example": "Maya is visiting us next Saturday.",
+        "note": "The visit has already been organised."
+      }
+    },
+    {
+      "title": "Positive and negative futures",
+      "left": {
+        "label": "Will",
+        "example": "The parcel will arrive tomorrow.",
+        "note": "The speaker expects a future event."
+      },
+      "right": {
+        "label": "Won’t",
+        "example": "The parcel won’t arrive before Friday.",
+        "note": "The speaker expects the event not to happen before Friday."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "You’ll feel better after a good night’s sleep.",
+      "note": "You’ll is the short form of you will."
+    },
+    {
+      "sentence": "The shop won’t close early tomorrow.",
+      "note": "Won’t means will not."
+    },
+    {
+      "sentence": "Will your parents stay for dinner?",
+      "note": "In questions, will comes before the subject."
+    },
+    {
+      "sentence": "I don’t think the roads will be busy on Sunday.",
+      "note": "I don’t think introduces a negative expectation."
+    },
+    {
+      "sentence": "We shall probably need an extra chair.",
+      "note": "Shall can replace will with we in some British English."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "He will goes home soon.",
+      "correct": "He will go home soon.",
+      "why": "The verb after will is always in the base form."
+    },
+    {
+      "incorrect": "Will be they here at six?",
+      "correct": "Will they be here at six?",
+      "why": "Put the subject directly after will in a question."
+    },
+    {
+      "incorrect": "I will not to forget.",
+      "correct": "I will not forget.",
+      "why": "There is no to between will not and the main verb."
+    },
+    {
+      "incorrect": "Shall she be here before lunch?",
+      "correct": "Will she be here before lunch?",
+      "why": "Use will for ordinary future questions with she; this lesson uses shall with I and we."
+    }
+  ],
+  "studyTips": [
+    "Practise each prediction as a statement, a negative and a question: will arrive, won’t arrive, Will ... arrive?",
+    "After will or won’t, check that the main verb is the base form, even when the subject is he or she.",
+    "Say a planned appointment with the present continuous and an uncertain expectation with I think ... will."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Complete the prediction: “Nina studies regularly. I think she ___ next week’s test.”",
+      "choices": [
+        "passes",
+        "is passing",
+        "will pass"
+      ],
+      "answerIndex": 2,
+      "feedback": "Will pass expresses an expectation about a future test; pass remains in its base form."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correctly formed future question.",
+      "choices": [
+        "Will they be ready by six tomorrow?",
+        "They will be ready by six tomorrow?",
+        "Will be they ready by six tomorrow?"
+      ],
+      "answerIndex": 0,
+      "feedback": "A will question begins with will, then the subject, then the base verb be."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct negative future sentence.",
+      "choices": [
+        "We won’t leaving early.",
+        "We won’t leave early.",
+        "We don’t will leave early."
+      ],
+      "answerIndex": 1,
+      "feedback": "Won’t is the negative of will and must be followed by leave, not leaving."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which sentence uses the present continuous to describe a booked journey?",
+      "choices": [
+        "I’m travelling to Leeds on Friday; my ticket is booked.",
+        "I’ll travel to Leeds on Friday; my ticket is booked.",
+        "I travelled to Leeds on Friday; my ticket is booked."
+      ],
+      "answerIndex": 0,
+      "feedback": "Am travelling is present continuous; it naturally describes a future arrangement already made."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete the prediction with will: “I think our team ___ win the final.”",
+      "acceptedAnswers": [
+        "will"
+      ],
+      "feedback": "Will + win expresses a prediction; win does not change its form."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with the negative of will: “I ___ be at home on Monday; I’ll be away.”",
+      "acceptedAnswers": [
+        "won’t",
+        "will not"
+      ],
+      "feedback": "Won’t (will not) makes a negative prediction about Monday."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete the future question: “___ your sister be here tomorrow?”",
+      "acceptedAnswers": [
+        "will"
+      ],
+      "feedback": "Will goes before the subject your sister in a future question."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Use shall as an alternative to will: “We ___ probably need more chairs.”",
+      "acceptedAnswers": [
+        "shall"
+      ],
+      "feedback": "Shall is an alternative to will with we in some British English."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She will arrives early tomorrow.",
+      "acceptedAnswers": [
+        "She will arrive early tomorrow."
+      ],
+      "feedback": "Use the base verb arrive, without -s, after will."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We won’t to be late for the bus.",
+      "acceptedAnswers": [
+        "We won’t be late for the bus."
+      ],
+      "feedback": "The infinitive marker to is not used after won’t."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Shall they be back by eight tomorrow?",
+      "acceptedAnswers": [
+        "Will they be back by eight tomorrow?"
+      ],
+      "feedback": "Use will rather than shall for an ordinary future question with they."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Do you think he will likes the film?",
+      "acceptedAnswers": [
+        "Do you think he will like the film?"
+      ],
+      "feedback": "After will, use the base form like without -s."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Predict that your cousin will enjoy the film. Begin with “I think”.",
+      "acceptedAnswers": [
+        "I think my cousin will enjoy the film."
+      ],
+      "feedback": "I think + subject + will + base verb makes a prediction."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask whether your friends will be at school tomorrow.",
+      "acceptedAnswers": [
+        "Will your friends be at school tomorrow?"
+      ],
+      "feedback": "In a future question, will comes before your friends."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Use shall with we to say that the group will be there soon.",
+      "acceptedAnswers": [
+        "We shall be there soon."
+      ],
+      "feedback": "In British English, we shall can replace we will in a future statement."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A new café opens next week. Predict that it will be popular. Start with 'I think' and use 'the new café' as the subject.",
+      "acceptedAnswers": [
+        "I think the new café will be popular."
+      ],
+      "feedback": "I think + the new café + will be expresses an expectation, not a confirmed plan."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this future statement to a negative prediction, keeping the same subject and time: 'The shop will close early tomorrow.'",
+      "acceptedAnswers": [
+        "The shop won't close early tomorrow.",
+        "The shop will not close early tomorrow."
+      ],
+      "feedback": "Use won't (will not) + close. The verb after will remains in its base form."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Someone asks, 'Will the delivery arrive before lunch?' You expect it to arrive later. Answer in one full sentence starting 'I don't think' and using 'the delivery'.",
+      "acceptedAnswers": [
+        "I don't think the delivery will arrive before lunch.",
+        "I do not think the delivery will arrive before lunch."
+      ],
+      "feedback": "I don't think + subject + will expresses a negative expectation about the future."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Someone says, 'I think Eva will come to the picnic on Saturday.' Eva has already agreed to come. State her confirmed arrangement, starting with 'Eva' and using the present continuous.",
+      "acceptedAnswers": [
+        "Eva is coming to the picnic on Saturday.",
+        "Eva's coming to the picnic on Saturday."
+      ],
+      "feedback": "Is coming expresses an arranged visit; will come with I think suggests an expectation."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "A neighbour asks when the guests will arrive. Predict that they will arrive at seven and will not be late. Give two short sentences. Start the first with 'I think the guests' and the second with 'They'.",
+      "acceptedAnswers": [
+        "I think the guests will arrive at seven. They won't be late.",
+        "I think the guests will arrive at seven. They will not be late.",
+        "I think the guests will arrive at 7. They won't be late.",
+        "I think the guests will arrive at 7. They will not be late."
+      ],
+      "feedback": "Will arrive gives your expectation; won't be late adds the negative future prediction."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I won’t need my umbrella tomorrow because the forecast says clear skies.",
+      "prompt": "What does the speaker expect for tomorrow?",
+      "choices": [
+        "They will need an umbrella.",
+        "They will not need an umbrella.",
+        "They have bought a new umbrella."
+      ],
+      "answerIndex": 1,
+      "feedback": "Won’t need means the speaker expects not to need an umbrella."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I think the bus will arrive before eight.",
+      "prompt": "Which verb phrase expresses the speaker’s future prediction?",
+      "choices": [
+        "am arriving",
+        "arrived",
+        "will arrive"
+      ],
+      "answerIndex": 2,
+      "feedback": "Will arrive expresses what the speaker expects to happen."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "She won’t forget the address.",
+      "prompt": "Type the contracted negative auxiliary you hear.",
+      "acceptedAnswers": [
+        "won’t"
+      ],
+      "feedback": "Won’t is the spoken contraction of will not."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I think my neighbours will grow vegetables in their garden next summer instead of building a shed.",
+      "prompt": "What does the speaker expect the neighbours to do?",
+      "choices": [
+        "Move to another house.",
+        "Put up a new garden building.",
+        "Use the garden to produce food."
+      ],
+      "answerIndex": 2,
+      "feedback": "The prediction is about growing vegetables, rather than building a shed."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I think the train will reach Oxford around ten, not at nine as we first expected.",
+      "prompt": "At what time does the speaker now expect the train to arrive?",
+      "choices": [
+        "Around ten.",
+        "Around nine.",
+        "Around eleven."
+      ],
+      "answerIndex": 0,
+      "feedback": "The expected arrival has changed from nine to about ten."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We've booked our seats, and we're seeing the play on Friday. I think my brother will join us next time.",
+      "prompt": "Which activity is already arranged?",
+      "choices": [
+        "The brother's visit to a future show.",
+        "Going to the theatre on Friday.",
+        "Both activities are only guesses."
+      ],
+      "answerIndex": 1,
+      "feedback": "The seats are booked and we're seeing the play: it is an arrangement. The brother joining is only expected."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The gardener won't water the plants if it rains tomorrow.",
+      "prompt": "Type only the negative future verb phrase you hear before 'the plants'.",
+      "acceptedAnswers": [
+        "won't water",
+        "will not water"
+      ],
+      "feedback": "Won't water (will not water) expresses a negative future action; water stays in the base form."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We shall probably need another table for the school fair next week.",
+      "prompt": "Type the one-word future auxiliary immediately before 'probably'.",
+      "acceptedAnswers": [
+        "shall"
+      ],
+      "feedback": "Shall is an alternative to will with we in some British English."
+    }
+  ]
+}

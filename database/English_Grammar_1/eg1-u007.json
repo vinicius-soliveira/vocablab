@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u007",
+  "title": "Present Simple: Questions and Short Answers",
+  "level": "A1",
+  "topicId": "present-simple-questions",
+  "summary": "Ask about routines, facts and regular activities using do or does. Form information questions and give short answers without repeating the main verb.",
+  "learningObjectives": [
+    "Make present simple yes/no questions with do and does.",
+    "Use the base form of the main verb after do or does.",
+    "Put question words and frequency adverbs in the correct position.",
+    "Give positive and negative short answers with the right auxiliary."
+  ],
+  "explanation": [
+    {
+      "heading": "Start yes/no questions with do or does",
+      "body": "For routines and general facts, put do or does before the subject. Use do with I, you, we, they and plural nouns. Use does with he, she, it and singular nouns. The basic pattern is do/does + subject + main verb.",
+      "example": "Do your neighbours grow vegetables?"
+    },
+    {
+      "heading": "Use the base verb after the auxiliary",
+      "body": "A question with does does not add -s or -es to the main verb. Compare she rides with Does she ride? This also applies to common verbs such as have and do: Does your cousin have a bicycle? What does he do?",
+      "example": "Does Priya take the train on Fridays?"
+    },
+    {
+      "heading": "Put question words first",
+      "body": "To ask for information, place where, what, when, why or how before do/does + subject + base verb. Phrases such as how often, what time and how much work in the same way. The question What do you do? can ask about someone's job.",
+      "example": "Where do your friends play football?"
+    },
+    {
+      "heading": "Keep frequency words in the usual position",
+      "body": "In these questions, words such as always and usually normally come after the subject and before the main verb. For example, ask Does your brother usually cook dinner? rather than putting usually between does and the subject.",
+      "example": "What do you usually eat for breakfast?"
+    },
+    {
+      "heading": "Answer with do, does, don't or doesn't",
+      "body": "A short answer repeats the auxiliary, not the main verb. Say Yes, I do; Yes, she does; No, we don't; or No, it doesn't. Match the answer to the person or thing in the question. You do not need to repeat the full action.",
+      "example": "Does this shop open early? No, it doesn't."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Choose the auxiliary for the subject",
+      "left": {
+        "label": "Do + plural subject",
+        "example": "Do the children walk to school?",
+        "note": "Use do with a plural subject, then the base verb walk."
+      },
+      "right": {
+        "label": "Does + singular subject",
+        "example": "Does the child walk to school?",
+        "note": "Use does with one child, but keep walk without -s."
+      }
+    },
+    {
+      "title": "A statement and a question",
+      "left": {
+        "label": "Statement",
+        "example": "Luca visits his aunt every month.",
+        "note": "The present simple statement has -s with one person."
+      },
+      "right": {
+        "label": "Question",
+        "example": "Does Luca visit his aunt every month?",
+        "note": "Does goes before the subject; visit returns to its base form."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Do you keep your bicycle indoors?",
+      "note": "Do begins a yes/no question with you."
+    },
+    {
+      "sentence": "Does the post office close at five?",
+      "note": "A singular subject takes does, followed by close."
+    },
+    {
+      "sentence": "How often do they meet for coffee?",
+      "note": "How often introduces a question about frequency."
+    },
+    {
+      "sentence": "What does your sister do?",
+      "note": "This common question asks about someone's work."
+    },
+    {
+      "sentence": "Do your friends sing in a band? Yes, they do.",
+      "note": "The short answer uses do with they."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Does she takes the train?",
+      "correct": "Does she take the train?",
+      "why": "After does, use the base form take, not takes."
+    },
+    {
+      "incorrect": "Where you do buy bread?",
+      "correct": "Where do you buy bread?",
+      "why": "Put do before the subject in a question with where."
+    },
+    {
+      "incorrect": "Does Hugo always works on Saturdays?",
+      "correct": "Does Hugo always work on Saturdays?",
+      "why": "Does already marks the singular subject; work must have no -s."
+    },
+    {
+      "incorrect": "Yes, she do.",
+      "correct": "Yes, she does.",
+      "why": "A positive short answer about she uses does."
+    }
+  ],
+  "studyTips": [
+    "For each statement with he or she, make a question and remove -s from the main verb.",
+    "Practise question order aloud: question word, do or does, subject, base verb.",
+    "Answer routine questions with short forms first: Yes, I do. No, she doesn't."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "___ your neighbours have a dog?",
+      "choices": [
+        "Do",
+        "Does",
+        "Are"
+      ],
+      "answerIndex": 0,
+      "feedback": "Neighbours is plural, so begin the present simple question with Do."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Where ___ your uncle live?",
+      "choices": [
+        "do",
+        "does",
+        "is"
+      ],
+      "answerIndex": 1,
+      "feedback": "Your uncle is one person, so use does before the subject and live after it."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct question about a daily habit.",
+      "choices": [
+        "Does Mia cooks at home?",
+        "Do Mia cook at home?",
+        "Does Mia cook at home?"
+      ],
+      "answerIndex": 2,
+      "feedback": "With Mia, use does + the base verb cook, never does cooks."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which question correctly asks about the regular arrival of a bus?",
+      "choices": [
+        "How often does your bus arrive?",
+        "How often your bus arrives?",
+        "How often do your bus arrive?"
+      ],
+      "answerIndex": 0,
+      "feedback": "How often comes before does + singular subject + base verb."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: ___ your cousins visit you in the summer?",
+      "acceptedAnswers": [
+        "Do"
+      ],
+      "feedback": "Cousins is plural, so the question starts with do."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: What time ___ Leo start work?",
+      "acceptedAnswers": [
+        "does"
+      ],
+      "feedback": "Leo is singular, so use does with the base verb start."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: Where does Nina ___ her bicycle?",
+      "acceptedAnswers": [
+        "keep"
+      ],
+      "feedback": "The main verb stays in its base form after does."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the short answer with one word: 'Does this café sell soup?' 'Yes, it ___.'",
+      "acceptedAnswers": [
+        "does"
+      ],
+      "feedback": "The singular subject it takes does in a positive short answer."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the question: Does your dad drives to work every day?",
+      "acceptedAnswers": [
+        "Does your dad drive to work every day?"
+      ],
+      "feedback": "After does, the main verb is drive, without -s."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the question: Where your classmates do eat lunch?",
+      "acceptedAnswers": [
+        "Where do your classmates eat lunch?"
+      ],
+      "feedback": "The correct order is where + do + subject + base verb."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the reply to 'Do the twins live nearby?': Yes, they does.",
+      "acceptedAnswers": [
+        "Yes, they do."
+      ],
+      "feedback": "They is plural, so the short answer is Yes, they do."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the question: Does Rosa always goes swimming on Saturdays?",
+      "acceptedAnswers": [
+        "Does Rosa always go swimming on Saturdays?"
+      ],
+      "feedback": "Always follows the subject here, and go stays in its base form after does."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Ask a complete yes/no question using: your neighbours / own / a cat.",
+      "acceptedAnswers": [
+        "Do your neighbours own a cat?"
+      ],
+      "feedback": "Use Do + your neighbours + the base verb own."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask a complete question using: what time / the library / open / every day.",
+      "acceptedAnswers": [
+        "What time does the library open every day?"
+      ],
+      "feedback": "Use What time + does + the singular subject + open."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Give a negative short answer to: 'Does your brother ride the bus to school?'",
+      "acceptedAnswers": [
+        "No, he doesn't.",
+        "No, he does not."
+      ],
+      "feedback": "With he, a negative short answer is No, he doesn't."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Ask whether Maya usually studies English in the evening. Make one present simple yes/no question.",
+      "acceptedAnswers": [
+        "Does Maya usually study English in the evening?"
+      ],
+      "feedback": "Start with Does for Maya, place usually after the subject and use the base form study."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this statement into a yes/no question, keeping the same action and time: The children do their homework after lunch.",
+      "acceptedAnswers": [
+        "Do the children do their homework after lunch?"
+      ],
+      "feedback": "Use Do before the plural subject the children; the main verb do stays in its base form."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks, \"Does Ben play chess on Fridays?\" The class schedule confirms that he does. Give a positive short answer only.",
+      "acceptedAnswers": [
+        "Yes, he does."
+      ],
+      "feedback": "With Ben, use he does in a positive short answer, not he do."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this question without changing its meaning: Does Paula goes to school by bus?",
+      "acceptedAnswers": [
+        "Does Paula go to school by bus?"
+      ],
+      "feedback": "After Does, use the base verb go rather than goes."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You want to know how frequently the drawing class meets. Ask one complete present simple question beginning with How often, and include the drawing class.",
+      "acceptedAnswers": [
+        "How often does the drawing class meet?"
+      ],
+      "feedback": "How often is followed by does + the singular subject + the base verb meet."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Does your sister usually walk to college?",
+      "prompt": "Which regular journey does the speaker ask about?",
+      "choices": [
+        "Driving to college",
+        "Walking to college",
+        "Walking to work"
+      ],
+      "answerIndex": 1,
+      "feedback": "Usually walk to college asks about a regular journey on foot."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Yes, they do. They visit every winter.",
+      "prompt": "Which short answer do you hear?",
+      "choices": [
+        "Yes, she does.",
+        "No, they don't.",
+        "Yes, they do."
+      ],
+      "answerIndex": 2,
+      "feedback": "The answer uses they do, which matches a plural subject."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "What time does your science class start?",
+      "prompt": "Type the one-word question auxiliary you hear.",
+      "acceptedAnswers": [
+        "does"
+      ],
+      "feedback": "Science class is singular, so the speaker uses does."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Does the bakery on King Street deliver bread on Sundays?",
+      "prompt": "What is the speaker trying to find out?",
+      "choices": [
+        "The bakery’s exact address",
+        "Whether weekend deliveries are available",
+        "The price of a loaf of bread"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker wants to know whether the bakery offers a delivery service on Sunday."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "How often does your grandmother visit the library during the summer?",
+      "prompt": "Which information does the speaker want?",
+      "choices": [
+        "The reason for the visits",
+        "The way she travels there",
+        "The frequency of her visits"
+      ],
+      "answerIndex": 2,
+      "feedback": "How often asks about the regularity of the visits, not the reason or travel method."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Do the children walk to school, or does their father drive them?",
+      "prompt": "Which two possibilities is the speaker comparing?",
+      "choices": [
+        "Going on foot or getting a lift by car",
+        "Taking a bus or riding bicycles",
+        "Going with a teacher or staying home"
+      ],
+      "answerIndex": 0,
+      "feedback": "The question contrasts the children going on foot with their father taking them by car. Notice do with children and does with father."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Why does your cousin call you every evening?",
+      "prompt": "Type the first two words of the question you hear.",
+      "acceptedAnswers": [
+        "Why does"
+      ],
+      "feedback": "Why introduces the question and does is the auxiliary for the singular subject your cousin."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Do they usually have breakfast together on weekdays?",
+      "prompt": "Type the first three words of the question you hear.",
+      "acceptedAnswers": [
+        "Do they usually"
+      ],
+      "feedback": "The question begins Do + they, followed by usually before the main verb have."
+    }
+  ]
+}

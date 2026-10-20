@@ -1,0 +1,410 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u022",
+  "title": "Passive: In Progress and Completed",
+  "level": "A2",
+  "topicId": "passive-continuous-perfect",
+  "summary": "Use is/are being done for an action in progress and has/have been done for a completed action with a present result. Contrast these forms with the simple passive.",
+  "learningObjectives": [
+    "Build present continuous passive statements with am/is/are being + a past participle.",
+    "Build present perfect passive statements with has/have been + a past participle.",
+    "Choose between an action in progress and a completed action with a present result.",
+    "Use negative and question forms of the present perfect and present continuous passive."
+  ],
+  "explanation": [
+    {
+      "heading": "Passive actions in progress",
+      "body": "Use am/is/are + being + past participle when someone is doing something to the subject now or around now. Being is essential: without it, a present simple passive normally describes a routine rather than an action in progress.",
+      "example": "The balcony is being painted this afternoon."
+    },
+    {
+      "heading": "Regular actions versus actions happening now",
+      "body": "The present simple passive describes habits or regular arrangements. The present continuous passive describes an activity that is underway. Words such as every week and at the moment often help you choose.",
+      "example": "The towels are changed every Friday, but the beds are being made right now."
+    },
+    {
+      "heading": "A completed action with a result now",
+      "body": "Use has/have + been + past participle to focus on a finished action that matters now. Has agrees with one person or thing; have agrees with plural subjects and I or you. You do not need to say exactly when it happened.",
+      "example": "The invitations have been printed, so we can post them."
+    },
+    {
+      "heading": "Negatives and questions",
+      "body": "To make a present perfect passive negative, put not after has or have. For its questions, move has or have before the subject. In continuous passive questions, move am, is or are before the subject and keep being.",
+      "example": "Has the hall been booked? No, it has not been booked yet."
+    },
+    {
+      "heading": "Completed result versus a definite past time",
+      "body": "Present perfect passive connects a completed action to the present. Past simple passive names an action at a finished past time, often with yesterday or last week. An action in progress uses being instead of been.",
+      "example": "The tickets have been sold. They were sold on Monday."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Action underway versus completed result",
+      "left": {
+        "label": "Still in progress",
+        "example": "The café walls are being painted.",
+        "note": "Are being painted means the painting is taking place."
+      },
+      "right": {
+        "label": "Finished, relevant now",
+        "example": "The café walls have been painted.",
+        "note": "Have been painted means the painting is finished."
+      }
+    },
+    {
+      "title": "Present perfect versus past simple passive",
+      "left": {
+        "label": "Present result",
+        "example": "The broken lamp has been replaced.",
+        "note": "The replacement is complete, and that matters now."
+      },
+      "right": {
+        "label": "Specific past time",
+        "example": "The broken lamp was replaced on Tuesday.",
+        "note": "On Tuesday tells us when the past action occurred."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "A new cycle path is being built near the river.",
+      "note": "A current building project is in progress."
+    },
+    {
+      "sentence": "The menus have been updated for this week.",
+      "note": "A completed update with a present result."
+    },
+    {
+      "sentence": "Is the roof being inspected today?",
+      "note": "Question about an action happening around now."
+    },
+    {
+      "sentence": "The delivery has not been collected yet.",
+      "note": "Negative present perfect passive with yet."
+    },
+    {
+      "sentence": "These chairs are cleaned every evening, but they are being repaired today.",
+      "note": "Contrast a regular passive action with one in progress."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The posters are putting up now.",
+      "correct": "The posters are being put up now.",
+      "why": "A present continuous passive needs being before the past participle."
+    },
+    {
+      "incorrect": "My bicycle has being fixed.",
+      "correct": "My bicycle has been fixed.",
+      "why": "Use been, not being, after has in the present perfect passive."
+    },
+    {
+      "incorrect": "These forms has been signed.",
+      "correct": "These forms have been signed.",
+      "why": "A plural subject takes have, not has."
+    },
+    {
+      "incorrect": "The equipment has been delivered last night.",
+      "correct": "The equipment was delivered last night.",
+      "why": "A finished time such as last night normally takes past simple, not present perfect."
+    }
+  ],
+  "studyTips": [
+    "Look for being to recognise a passive action that is still in progress.",
+    "Look for has been or have been to recognise a finished action with a present result.",
+    "Use a definite finished time, such as yesterday, with was/were + past participle instead of present perfect."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Look! New lights ___ in the hall right now.",
+      "choices": [
+        "are being installed",
+        "have been installed",
+        "were installed"
+      ],
+      "answerIndex": 0,
+      "feedback": "Right now and Look! indicate an ongoing action: are being installed."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The lost dog is safe at home. It ___ by a neighbour.",
+      "choices": [
+        "is being found",
+        "has been found",
+        "has being found"
+      ],
+      "answerIndex": 1,
+      "feedback": "The dog is already safe, so has been found describes the completed action and its result now."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "___ the chairs been arranged for the meeting?",
+      "choices": [
+        "Are",
+        "Has",
+        "Have"
+      ],
+      "answerIndex": 2,
+      "feedback": "A present perfect passive question begins Have + plural subject + been + past participle."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "You can see two workers washing the kitchen floor through the doorway. The floor ___ right now.",
+      "choices": [
+        "is being washed",
+        "has been washed",
+        "was washed"
+      ],
+      "answerIndex": 0,
+      "feedback": "The workers are washing the floor now, so the passive describes an action in progress: is being washed."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with the present continuous passive of 'repair': The lift ___ at the moment, so take the stairs.",
+      "acceptedAnswers": [
+        "is being repaired"
+      ],
+      "feedback": "The lift is singular and the work is happening now: is being repaired."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with the present perfect passive of 'deliver': Good news! All the books ___.",
+      "acceptedAnswers": [
+        "have been delivered"
+      ],
+      "feedback": "Plural books takes have; been delivered shows the delivery is complete."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with the negative present perfect passive of 'approve': The plan ___ yet, so we cannot start.",
+      "acceptedAnswers": [
+        "has not been approved",
+        "hasn't been approved"
+      ],
+      "feedback": "The plan is singular. Has not been approved expresses that approval is still missing."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the present continuous passive question: ___ the street lights being replaced today?",
+      "acceptedAnswers": [
+        "Are"
+      ],
+      "feedback": "Plural street lights needs Are before the subject; being replaced signals the continuous passive."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My laptop is being repair at the moment.",
+      "acceptedAnswers": [
+        "My laptop is being repaired at the moment."
+      ],
+      "feedback": "Use the past participle repaired after is being."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The new seats have being fitted.",
+      "acceptedAnswers": [
+        "The new seats have been fitted."
+      ],
+      "feedback": "Present perfect passive is have been + past participle."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The parcel has been delivered yesterday.",
+      "acceptedAnswers": [
+        "The parcel was delivered yesterday."
+      ],
+      "feedback": "Use past simple passive with the finished time yesterday."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Has the tables been cleaned yet?",
+      "acceptedAnswers": [
+        "Have the tables been cleaned yet?"
+      ],
+      "feedback": "Plural tables needs Have in this present perfect passive question."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one full sentence using the present continuous passive: 'the playground / paint / today'.",
+      "acceptedAnswers": [
+        "The playground is being painted today."
+      ],
+      "feedback": "The action is in progress: is being painted."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Report a finished result using the present perfect passive: 'all the chairs / move / into the hall'.",
+      "acceptedAnswers": [
+        "All the chairs have been moved into the hall."
+      ],
+      "feedback": "Plural chairs needs have been, followed by the past participle moved."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Answer in a full negative sentence: 'Has the cake been cut yet?' Say that it has not.",
+      "acceptedAnswers": [
+        "The cake hasn't been cut yet.",
+        "The cake has not been cut yet.",
+        "No, the cake hasn't been cut yet.",
+        "No, the cake has not been cut yet."
+      ],
+      "feedback": "Use has not been cut, or the contraction has not → hasn’t, to report an unfinished result."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The café tables are being washed now, but the chairs are not. Say one negative present continuous passive sentence about the chairs. Start with 'The chairs' and include 'right now' and the verb wash.",
+      "acceptedAnswers": [
+        "The chairs are not being washed right now.",
+        "The chairs aren't being washed right now."
+      ],
+      "feedback": "Use are not being washed (or aren't being washed) for an action that is not in progress."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Transform this active sentence into the present perfect passive: 'A technician has replaced the broken screen.' Start with 'The broken screen' and end with 'by a technician'.",
+      "acceptedAnswers": [
+        "The broken screen has been replaced by a technician."
+      ],
+      "feedback": "Has been replaced is the present perfect passive for one screen."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your friend asks, 'Can I ride the bike now?' A mechanic is fixing it. Answer with a complete sentence starting 'No, the bike', using the verb fix and 'right now'.",
+      "acceptedAnswers": [
+        "No, the bike is being fixed right now."
+      ],
+      "feedback": "Is being fixed tells us the bike is undergoing repair now, so it is not ready to ride."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Workers are installing a new camera right now. Correct this report to show that the job is still in progress: 'The new camera has been installed.' Begin 'The new camera' and end with 'right now'.",
+      "acceptedAnswers": [
+        "The new camera is being installed right now."
+      ],
+      "feedback": "Is being installed means the work is in progress; has been installed would imply it is finished."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Tell a manager two facts about a library in two short sentences. The windows are being cleaned at the moment, and the new chairs have already been delivered. Start with 'The windows' and then 'The new chairs'.",
+      "acceptedAnswers": [
+        "The windows are being cleaned at the moment. The new chairs have already been delivered.",
+        "The windows are being cleaned at the moment. The new chairs have been delivered already."
+      ],
+      "feedback": "Are being cleaned describes work underway; have been delivered describes a completed result."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The supermarket windows are being washed this morning.",
+      "prompt": "What does the speaker say about the windows?",
+      "choices": [
+        "They were washed yesterday.",
+        "They are being washed this morning.",
+        "They have already been washed."
+      ],
+      "answerIndex": 1,
+      "feedback": "Are being washed tells us the action is in progress, not already finished."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The camping equipment has been packed, so we're ready to leave.",
+      "prompt": "What is true now?",
+      "choices": [
+        "The equipment is still being packed.",
+        "The equipment is packed every morning.",
+        "The packing is finished."
+      ],
+      "answerIndex": 2,
+      "feedback": "Has been packed marks a completed action with a result now: the group is ready."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The meeting room has been booked for Friday.",
+      "prompt": "Type the missing words: 'The meeting room ___ booked for Friday.'",
+      "acceptedAnswers": [
+        "has been"
+      ],
+      "feedback": "Has been + past participle forms the present perfect passive for a singular subject."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The library computers are being updated, so visitors must use paper forms this afternoon.",
+      "prompt": "Why do visitors have to use paper forms?",
+      "choices": [
+        "The computers are temporarily unavailable.",
+        "The library has stopped using computers forever.",
+        "The forms have all been damaged."
+      ],
+      "answerIndex": 0,
+      "feedback": "Are being updated means the computers are undergoing work now, so visitors need an alternative."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Your order has been packed, but the driver hasn't collected it yet.",
+      "prompt": "What still needs to happen before the order can leave?",
+      "choices": [
+        "Someone needs to put the goods in a box.",
+        "The driver needs to pick up the order.",
+        "The customer needs to choose what to buy."
+      ],
+      "answerIndex": 1,
+      "feedback": "The packing is complete, but the driver has not collected the order yet."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The front gate is being repaired today, but the side gate has already been repaired.",
+      "prompt": "Which statement about the two gates is correct?",
+      "choices": [
+        "Both gates still need repairs.",
+        "The front gate has already been finished.",
+        "Work on the side gate is finished."
+      ],
+      "answerIndex": 2,
+      "feedback": "Has already been repaired shows that the side gate is finished; is being repaired shows the front gate is still in progress."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The hotel rooms are being prepared for the next guests.",
+      "prompt": "Type the three-word passive verb phrase describing the ongoing work.",
+      "acceptedAnswers": [
+        "are being prepared"
+      ],
+      "feedback": "Are being prepared is the present continuous passive for work in progress."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The parcel hasn't been opened because it's a birthday surprise.",
+      "prompt": "Type the three-word negative passive verb phrase you hear.",
+      "acceptedAnswers": [
+        "hasn't been opened"
+      ],
+      "feedback": "Hasn't been opened is the negative present perfect passive; the parcel remains unopened."
+    }
+  ]
+}

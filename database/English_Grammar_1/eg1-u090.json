@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u090",
+  "title": "Superlatives: The Biggest and the Best",
+  "level": "A2",
+  "topicId": "superlatives-est-most-irregular",
+  "summary": "Use superlatives to identify the person or thing at the top or bottom of a group. Form superlatives with -est, the most, and irregular forms such as the best and the worst.",
+  "learningObjectives": [
+    "Recognise the difference between comparing two items and identifying an extreme in a group.",
+    "Form short-adjective superlatives with -est and the relevant spelling changes.",
+    "Use the most with longer adjectives and the irregular forms the best and the worst.",
+    "Write superlative sentences with the, with or without a following noun, and recognise an ever clause."
+  ],
+  "explanation": [
+    {
+      "heading": "Comparatives and superlatives",
+      "body": "A comparative compares one person or thing with another: smaller, older, or more expensive. A superlative identifies the member of a group with the highest or lowest degree: the smallest, the oldest, or the most expensive. Name the group when it helps the meaning.",
+      "example": "Of the four cushions, the round one is the smallest."
+    },
+    {
+      "heading": "Short adjectives: the + -est",
+      "body": "Add -est to most short adjectives, and usually put the before the result: cold → the coldest. For adjectives ending in -e, add -st: nice → the nicest. Double the final consonant when appropriate: big → the biggest. For a consonant + y ending, change y to i: tidy → the tidiest.",
+      "example": "Saturday was the hottest day of the week."
+    },
+    {
+      "heading": "Longer adjectives: the most",
+      "body": "For many longer adjectives, put the most before the unchanged adjective: the most useful, the most comfortable, the most interesting. Do not combine most with an -est ending. When describing a member of a group, use the before the superlative.",
+      "example": "This is the most comfortable seat in the waiting room."
+    },
+    {
+      "heading": "Irregular superlatives",
+      "body": "Good and well have the irregular superlative best; bad has worst. They are not formed with -est or most. Use the best or the worst when identifying an extreme in a group.",
+      "example": "That was the best part of our weekend."
+    },
+    {
+      "heading": "Superlatives without a noun and with ever",
+      "body": "A superlative can stand alone when the noun is clear: “Which cake is the sweetest?” “The small one is the sweetest.” To describe a personal experience, you can follow a superlative with an “I’ve ever ...” or “we’ve ever ...” clause, using the present perfect.",
+      "example": "This is the most peaceful place I’ve ever visited."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Comparative versus superlative",
+      "left": {
+        "label": "Comparative: a difference",
+        "example": "The red candle is taller than the blue one.",
+        "note": "Taller than compares two candles."
+      },
+      "right": {
+        "label": "Superlative: an extreme",
+        "example": "The red candle is the tallest of the five.",
+        "note": "The tallest identifies one candle in a group."
+      }
+    },
+    {
+      "title": "Short and long adjective patterns",
+      "left": {
+        "label": "Short adjective: -est",
+        "example": "This is the lightest suitcase.",
+        "note": "Light normally takes -est."
+      },
+      "right": {
+        "label": "Long adjective: most",
+        "example": "This is the most practical suitcase.",
+        "note": "Practical takes the most."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The third drawer is the deepest of the three.",
+      "note": "Deep is a short adjective, so use the deepest."
+    },
+    {
+      "sentence": "That is the prettiest scarf in the shop.",
+      "note": "Pretty changes its final y to i before -est."
+    },
+    {
+      "sentence": "It was the most exciting match of the weekend.",
+      "note": "The longer adjective exciting uses the most."
+    },
+    {
+      "sentence": "The morning was the worst part of the journey.",
+      "note": "Bad becomes worst in the superlative."
+    },
+    {
+      "sentence": "This is the tastiest soup I’ve ever made.",
+      "note": "A superlative can describe an extreme across your experiences."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Tariq is the most tall person in our group.",
+      "correct": "Tariq is the tallest person in our group.",
+      "why": "Tall is short, so form its superlative with -est."
+    },
+    {
+      "incorrect": "This is the beautifullest picture in the gallery.",
+      "correct": "This is the most beautiful picture in the gallery.",
+      "why": "Beautiful is a longer adjective; use the most beautiful."
+    },
+    {
+      "incorrect": "The blue suitcase is the heavyest.",
+      "correct": "The blue suitcase is the heaviest.",
+      "why": "Heavy ends in consonant + y, so change y to i and add -est."
+    },
+    {
+      "incorrect": "That is best view from this balcony.",
+      "correct": "That is the best view from this balcony.",
+      "why": "Normally use the before a superlative when identifying the extreme member of a group."
+    }
+  ],
+  "studyTips": [
+    "Ask “Compared with what group?” A superlative usually has a group in mind, even if it is not named.",
+    "Keep an -est and -iest spelling list; check whether a word ends in -e or consonant + y.",
+    "Memorise the irregular set good → better → best and bad → worse → worst."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Three shelves are 60, 80 and 100 centimetres long. The 100-centimetre shelf is ___.",
+      "choices": [
+        "longer",
+        "more long",
+        "the longest"
+      ],
+      "answerIndex": 2,
+      "feedback": "The longest identifies the longest shelf among all three."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correctly spelt superlative of happy.",
+      "choices": [
+        "the happiest",
+        "the happyest",
+        "the most happiest"
+      ],
+      "answerIndex": 0,
+      "feedback": "Happy ends in consonant + y; change y to i and add -est."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Of the three routes, this is ___ route.",
+      "choices": [
+        "more convenient",
+        "the most convenient",
+        "the convenientest"
+      ],
+      "answerIndex": 1,
+      "feedback": "Convenient is a longer adjective; use the most convenient."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Of three attempts, the first was bad, the second was worse, and the third was the ___.",
+      "choices": [
+        "baddest",
+        "more bad",
+        "worst"
+      ],
+      "answerIndex": 2,
+      "feedback": "Bad → worse → worst is an irregular set."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The blue balloon is ___ smallest of the four. (Supply the article.)",
+      "acceptedAnswers": [
+        "the"
+      ],
+      "feedback": "Use the before the superlative smallest."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Friday is the ___ (busy: superlative) day at our shop.",
+      "acceptedAnswers": [
+        "busiest"
+      ],
+      "feedback": "Busy ends in consonant + y; change y to i and add -est."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Our school has three gardens. The front garden is ___ (large: superlative).",
+      "acceptedAnswers": [
+        "the largest"
+      ],
+      "feedback": "Large ends in -e, so add -st; the is normally needed before a superlative."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "That was the ___ (good: superlative) meal I’ve had this month.",
+      "acceptedAnswers": [
+        "best"
+      ],
+      "feedback": "Good has the irregular superlative best."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the superlative form only: She is the most tall player on the team.",
+      "acceptedAnswers": [
+        "She is the tallest player on the team."
+      ],
+      "feedback": "Tall is a short adjective: use tallest, not most tall."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the superlative form only: This is the beautifullest garden on our street.",
+      "acceptedAnswers": [
+        "This is the most beautiful garden on our street."
+      ],
+      "feedback": "Beautiful is a longer adjective, so its superlative uses most."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the spelling only: Of the three bags, this one is the heavyest.",
+      "acceptedAnswers": [
+        "Of the three bags, this one is the heaviest."
+      ],
+      "feedback": "Heavy changes y to i before -est."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Add the missing word only: That is best view from this window.",
+      "acceptedAnswers": [
+        "That is the best view from this window."
+      ],
+      "feedback": "Use the before best when it identifies a superlative."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "A house has three rooms. The kitchen is bigger than the other two. Start with “The kitchen” and say a sentence using “the biggest room”.",
+      "acceptedAnswers": [
+        "The kitchen is the biggest room in the house."
+      ],
+      "feedback": "The biggest describes the largest room among the three."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Correct and say the full sentence: “This is the most easy question in the test.”",
+      "acceptedAnswers": [
+        "This is the easiest question in the test."
+      ],
+      "feedback": "Easy ends in consonant + y, so its superlative is the easiest."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Of all your meals this week, Saturday’s dinner was the best. Begin “Saturday’s dinner” and say the full sentence using “the best meal of the week”.",
+      "acceptedAnswers": [
+        "Saturday’s dinner was the best meal of the week."
+      ],
+      "feedback": "The best is the irregular superlative of good."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Three plants are 15, 30 and 45 centimetres tall. The fern is 45 centimetres tall. Begin with “The fern” and identify it using “the tallest of the three plants”.",
+      "acceptedAnswers": [
+        "The fern is the tallest of the three plants."
+      ],
+      "feedback": "The tallest identifies the one plant with the greatest height in the group."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this comparison to a superlative: “The green route is more difficult than the other two routes.” Start with “The green route” and use “the most difficult of the three”.",
+      "acceptedAnswers": [
+        "The green route is the most difficult of the three."
+      ],
+      "feedback": "Use the most difficult to identify the hardest route among all three."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "In a game, Jo scored four points, Amy scored seven and Raj scored nine. A friend asks who had the highest score. Answer with one sentence beginning “Raj got” and ending “of the three”. Use the best score.",
+      "acceptedAnswers": [
+        "Raj got the best score of the three."
+      ],
+      "feedback": "Best is the irregular superlative of good and identifies the highest score."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A learner says, “The yellow box is the bigest of the four.” Correct only the spelling error, and say the whole sentence.",
+      "acceptedAnswers": [
+        "The yellow box is the biggest of the four."
+      ],
+      "feedback": "Double the final g of big before adding -est to make biggest."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You have visited several museums. The space museum is more interesting than every other one you have visited. Begin with “The space museum” and use “the most interesting museum I’ve ever visited”. You may say “I have” instead of “I’ve”.",
+      "acceptedAnswers": [
+        "The space museum is the most interesting museum I’ve ever visited.",
+        "The space museum is the most interesting museum I have ever visited."
+      ],
+      "feedback": "Use the most interesting for the extreme and I’ve ever visited for experience up to now."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Of all our neighbours, Ava is the friendliest.",
+      "prompt": "Which superlative adjective do you hear?",
+      "choices": [
+        "friendliest",
+        "friendlier",
+        "the most friendly"
+      ],
+      "answerIndex": 0,
+      "feedback": "The spoken superlative is friendliest, ending in -iest."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "This is the most colourful picture in the room.",
+      "prompt": "What does the speaker describe as the most colourful?",
+      "choices": [
+        "The room",
+        "A picture",
+        "A shirt"
+      ],
+      "answerIndex": 1,
+      "feedback": "The phrase the most colourful describes a picture."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "My favourite café serves the best hot chocolate in town.",
+      "prompt": "Type the irregular superlative adjective you hear.",
+      "acceptedAnswers": [
+        "best"
+      ],
+      "feedback": "Best is the irregular superlative form of good."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "We tried the lemon tart, the apple pie and the chocolate cake. The lemon tart was the sweetest.",
+      "prompt": "Which dessert had the highest level of sweetness?",
+      "choices": [
+        "The apple pie",
+        "The lemon tart",
+        "The chocolate cake"
+      ],
+      "answerIndex": 1,
+      "feedback": "The sweetest identifies the lemon tart as the sweetest of the three desserts."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Monday was cold, Tuesday was colder, and Wednesday was the coldest day of the week.",
+      "prompt": "What can you conclude about Wednesday’s temperature?",
+      "choices": [
+        "It was warmer than Tuesday.",
+        "It was the same as Monday.",
+        "It was lower than on both earlier days."
+      ],
+      "answerIndex": 2,
+      "feedback": "The coldest means Wednesday had the lowest temperature in the week."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The wooden chair is comfortable. The blue chair is more comfortable, but the red chair is the most comfortable.",
+      "prompt": "Which statement best matches what the speaker said?",
+      "choices": [
+        "The blue chair is between the other two in comfort.",
+        "The wooden chair is the most comfortable.",
+        "The red chair is less comfortable than the wooden one."
+      ],
+      "answerIndex": 0,
+      "feedback": "The blue chair is more comfortable than the wooden chair but less comfortable than the red chair."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The biggest parcel arrived at our door this morning.",
+      "prompt": "Type the two-word superlative phrase describing the parcel.",
+      "acceptedAnswers": [
+        "the biggest"
+      ],
+      "feedback": "The biggest uses the before the superlative of big, with the final g doubled."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "This is the funniest film I’ve ever seen with my family.",
+      "prompt": "Type the two words immediately after “film” in the audio.",
+      "acceptedAnswers": [
+        "I’ve ever"
+      ],
+      "feedback": "The phrase I’ve ever introduces a present-perfect experience after the superlative."
+    }
+  ]
+}

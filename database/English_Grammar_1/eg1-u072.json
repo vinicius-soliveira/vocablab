@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u072",
+  "title": "Talking About Things in General",
+  "level": "A2",
+  "topicId": "zero-article-general-nouns",
+  "summary": "Talk about people, things, activities and subjects in general without the. Use the to identify a particular group, thing or amount that is clear from the context.",
+  "learningObjectives": [
+    "Use plural and uncountable nouns without the when speaking generally.",
+    "Use sport, game, language and school-subject names without the in ordinary general statements.",
+    "Choose the for specific things or groups identified by an earlier mention or a phrase.",
+    "Distinguish general meanings from specific meanings with the same noun."
+  ],
+  "explanation": [
+    {
+      "heading": "General plural and uncountable nouns",
+      "body": "When you talk about a whole category rather than particular members, plural countable nouns usually have no article: dogs, books, neighbours. Uncountable nouns also usually have no article when you mean them generally: music, water, coffee, or happiness.",
+      "example": "Books can teach us about other places."
+    },
+    {
+      "heading": "Sports and games",
+      "body": "In normal sentences about playing, enjoying or watching a sport or game as an activity, do not add the to its name. Say play tennis, love football and enjoy chess.",
+      "example": "My cousin plays volleyball after school."
+    },
+    {
+      "heading": "Languages and school subjects",
+      "body": "Names of languages and subjects usually appear without the when you discuss learning or studying them: Italian, Arabic, biology, history, geography and maths.",
+      "example": "Nadia studies chemistry and speaks Spanish."
+    },
+    {
+      "heading": "The for an identifiable group or thing",
+      "body": "Use the if you mean particular people or things that a listener can identify. A phrase such as in this room, from our garden, or that we bought yesterday can identify them. Earlier conversation can identify them too.",
+      "example": "I watered the plants on our balcony this morning."
+    },
+    {
+      "heading": "The same noun can change meaning",
+      "body": "A noun can be general in one sentence and specific in another. Coffee is popular means coffee in general. The coffee in my cup means one particular drink. Similarly, history is a school subject, but the history of a town is the story of that particular town.",
+      "example": "I like tea, but the tea in this mug is too hot."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "People or things in general versus a particular group",
+      "left": {
+        "label": "General",
+        "example": "Birds sing in the morning.",
+        "note": "Birds means birds as a general group, so it takes no article."
+      },
+      "right": {
+        "label": "Specific",
+        "example": "The birds outside my window are singing.",
+        "note": "The identifies the birds in this particular place."
+      }
+    },
+    {
+      "title": "A general substance versus a known amount",
+      "left": {
+        "label": "General",
+        "example": "I drink water with every meal.",
+        "note": "Water is an uncountable noun used generally."
+      },
+      "right": {
+        "label": "Specific",
+        "example": "The water in this bottle is warm.",
+        "note": "The phrase in this bottle identifies particular water."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Dogs need exercise and attention.",
+      "note": "Plural dogs refers to dogs in general."
+    },
+    {
+      "sentence": "I enjoy listening to classical music.",
+      "note": "Music is an uncountable noun used generally."
+    },
+    {
+      "sentence": "My friend plays badminton every weekend.",
+      "note": "Do not use the with a sport name here."
+    },
+    {
+      "sentence": "We study geography on Thursdays.",
+      "note": "Geography is a subject name and normally has no article."
+    },
+    {
+      "sentence": "I washed the cups we used at breakfast.",
+      "note": "The cups identifies the particular cups from breakfast."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "My favourite kind of music is the jazz.",
+      "correct": "My favourite kind of music is jazz.",
+      "why": "A music genre used generally, such as jazz, normally has no article."
+    },
+    {
+      "incorrect": "My sister plays the badminton.",
+      "correct": "My sister plays badminton.",
+      "why": "The sport name badminton is normally used without the."
+    },
+    {
+      "incorrect": "Leo is studying the history at school.",
+      "correct": "Leo is studying history at school.",
+      "why": "History as a school subject usually has no article."
+    },
+    {
+      "incorrect": "I baked some biscuits. Biscuits are on the table.",
+      "correct": "I baked some biscuits. The biscuits are on the table.",
+      "why": "The biscuits points back to the particular biscuits just mentioned."
+    }
+  ],
+  "studyTips": [
+    "Before choosing an article, ask whether you mean a general category or a particular group you can identify.",
+    "Practise paired examples such as I like coffee and The coffee in this cup is strong.",
+    "Remember sport, language and school-subject names as no-article patterns in ordinary sentences."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "To make a statement about cats in general, complete: ___ often sleep during the day.",
+      "choices": [
+        "Cats",
+        "The cats",
+        "A cats"
+      ],
+      "answerIndex": 0,
+      "feedback": "Cats without an article names the whole category in a general statement."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "My favourite sport is ___.",
+      "choices": [
+        "the tennis",
+        "tennis",
+        "a tennis"
+      ],
+      "answerIndex": 1,
+      "feedback": "Tennis is a sport name and normally appears without an article."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Eli is studying ___ at college.",
+      "choices": [
+        "the biology",
+        "a biology",
+        "biology"
+      ],
+      "answerIndex": 2,
+      "feedback": "Biology is a school or college subject and usually has no article."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "We have just painted the kitchen. ___ walls are bright yellow now.",
+      "choices": [
+        "A",
+        "No article",
+        "The"
+      ],
+      "answerIndex": 2,
+      "feedback": "The walls refers to the particular walls of the kitchen."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with “music” and any article needed: I enjoy listening to ___ while I cook.",
+      "acceptedAnswers": [
+        "music"
+      ],
+      "feedback": "Music refers to music in general here, so no article is needed."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with “geography” and any article needed: Daniel studies ___ at school.",
+      "acceptedAnswers": [
+        "geography"
+      ],
+      "feedback": "Geography is a subject name, so we normally use it without the."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with the correct article: I bought some apples yesterday. ___ apples are in the kitchen.",
+      "acceptedAnswers": [
+        "the"
+      ],
+      "feedback": "The apples refers to the particular apples already mentioned."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Use the correct article with “history”: I want to learn about ___ history of this town.",
+      "acceptedAnswers": [
+        "the"
+      ],
+      "feedback": "The history of this town refers to a particular place’s history and needs the."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I really enjoy the basketball.",
+      "acceptedAnswers": [
+        "I really enjoy basketball."
+      ],
+      "feedback": "A sport name normally has no article when you mean the activity."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She is learning the German at evening classes.",
+      "acceptedAnswers": [
+        "She is learning German at evening classes."
+      ],
+      "feedback": "Language names such as German normally do not take the."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I bought three oranges. Oranges are in the fridge.",
+      "acceptedAnswers": [
+        "I bought three oranges. The oranges are in the fridge."
+      ],
+      "feedback": "The oranges refers to the three oranges already mentioned."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I met your cousins yesterday. Cousins were very friendly.",
+      "acceptedAnswers": [
+        "I met your cousins yesterday. The cousins were very friendly."
+      ],
+      "feedback": "The cousins identifies the particular people you just mentioned."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say that you enjoy music. Begin with “I”.",
+      "acceptedAnswers": [
+        "I enjoy music."
+      ],
+      "feedback": "Music is used without the when you mean music generally."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say that your friend studies French. Begin with “My friend”.",
+      "acceptedAnswers": [
+        "My friend studies French."
+      ],
+      "feedback": "French is a language name, so no article is needed."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say that the flowers in this garden are beautiful. Begin with “The flowers”.",
+      "acceptedAnswers": [
+        "The flowers in this garden are beautiful."
+      ],
+      "feedback": "The identifies the flowers in a specific garden."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "State this general fact about the whole animal group: dolphins are mammals. Begin with 'Dolphins', use the present simple, and do not add an article.",
+      "acceptedAnswers": [
+        "Dolphins are mammals."
+      ],
+      "feedback": "Plural nouns can describe entire categories without the: dolphins are mammals."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this sentence from a particular group to bicycles in general. Remove only the unnecessary article and say the whole sentence: 'The bicycles need regular maintenance.'",
+      "acceptedAnswers": [
+        "Bicycles need regular maintenance."
+      ],
+      "feedback": "Bicycles without the refers to the general category rather than a known group."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks which school subject Maya studies. The subject is economics. Reply with one sentence beginning 'Maya studies' and do not add an article.",
+      "acceptedAnswers": [
+        "Maya studies economics."
+      ],
+      "feedback": "A school subject such as economics does not usually take an article."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Contrast these facts in one sentence: coffee in general is popular; the coffee in this mug is cold. Begin with 'Coffee is', join the facts with 'but', and use full forms.",
+      "acceptedAnswers": [
+        "Coffee is popular, but the coffee in this mug is cold."
+      ],
+      "feedback": "Coffee without an article means coffee generally; the coffee in this mug identifies one particular drink."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Tell a friend that you enjoy football generally, but dislike the specific match on TV. Begin with 'I enjoy football', join the ideas with 'but', and use 'do not like' rather than a contraction.",
+      "acceptedAnswers": [
+        "I enjoy football, but I do not like the match on TV."
+      ],
+      "feedback": "Football as a sport has no article; the match on TV identifies a particular match."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I really enjoy jazz, but my sister prefers rock music.",
+      "prompt": "Which kind of music does the speaker enjoy?",
+      "choices": [
+        "Rock music",
+        "Jazz",
+        "Classical music"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker says enjoy jazz, without the, to talk about a type of music generally."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We visited a small park, and the trees there were very tall.",
+      "prompt": "What was especially tall?",
+      "choices": [
+        "The trees in the park",
+        "Trees everywhere",
+        "The park benches"
+      ],
+      "answerIndex": 0,
+      "feedback": "The trees there points to the trees at the particular park."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I like tea, but the tea in this cup is too sweet.",
+      "prompt": "Type the two-word phrase used for the particular drink, including its article.",
+      "acceptedAnswers": [
+        "the tea"
+      ],
+      "feedback": "The tea points to the tea in this specific cup, unlike tea in general."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Ben loves dogs, but the dogs in his neighbour's garden keep him awake at night.",
+      "prompt": "Which statement best describes Ben's opinion?",
+      "choices": [
+        "He dislikes every dog.",
+        "He likes dogs generally but is bothered by a particular group.",
+        "He prefers his neighbour's dogs to all others."
+      ],
+      "answerIndex": 1,
+      "feedback": "Dogs without the names the group generally; the dogs in a particular garden are the ones causing trouble."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Mira studies French after school, and her brother studies the history of their village.",
+      "prompt": "What is Mira's brother learning about?",
+      "choices": [
+        "The past of one particular place.",
+        "A foreign language.",
+        "A science course at school."
+      ],
+      "answerIndex": 0,
+      "feedback": "The history of their village is a specific place's past, whereas French is a language name."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Music helps me concentrate, but the music coming from upstairs is too loud.",
+      "prompt": "What contrast does the speaker make?",
+      "choices": [
+        "All music makes concentration impossible.",
+        "Music from upstairs is the speaker's favourite.",
+        "Music usually helps, but a particular source is distracting."
+      ],
+      "answerIndex": 2,
+      "feedback": "Music is general in the first clause; the music coming from upstairs is specific."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Lena studies physics twice a week, and she finds it interesting.",
+      "prompt": "Type the one-word school subject heard immediately after 'studies'.",
+      "acceptedAnswers": [
+        "physics"
+      ],
+      "feedback": "Physics is the name of a subject and appears without the."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The students in our building enjoy volleyball, and they practise after school.",
+      "prompt": "Type the two-word phrase that identifies the specific group, including its article.",
+      "acceptedAnswers": [
+        "the students"
+      ],
+      "feedback": "The students points to a particular group, while volleyball names a sport without the."
+    }
+  ]
+}

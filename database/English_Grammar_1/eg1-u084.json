@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u084",
+  "title": "Small Quantities: (A) Little and (A) Few",
+  "level": "A2",
+  "topicId": "a-little-a-few-little-few",
+  "summary": "Describe small amounts and small numbers using (a) little and (a) few. Understand how removing a changes the meaning from some to almost none.",
+  "learningObjectives": [
+    "Choose (a) little with uncountable nouns and (a) few with plural countable nouns.",
+    "Explain the difference between a little/a few and little/few without a.",
+    "Use very little and very few to emphasise a very small amount or number.",
+    "Give short, clear answers using a little or a few when the noun is understood."
+  ],
+  "explanation": [
+    {
+      "heading": "Little goes with amounts; few goes with numbers",
+      "body": "Use little or a little before uncountable nouns such as oil, time and flour. Use few or a few before plural countable nouns such as biscuits, tickets and days. The article a changes the meaning, not the type of noun.",
+      "example": "We have a little butter and a few tomatoes."
+    },
+    {
+      "heading": "A little and a few mean some",
+      "body": "A little means some, but not much. A few means some, but not many. These expressions often suggest that a small amount or number is available or useful. You can answer A little or A few without repeating a clear noun.",
+      "example": "I have a few spare batteries, so you can take one."
+    },
+    {
+      "heading": "Little and few mean almost none",
+      "body": "Without a, little and few emphasise a very small amount or number, almost none. They often suggest a shortage or difficulty. Little is for uncountable amounts; few is for countable plural items.",
+      "example": "Few shops stay open in this village at night."
+    },
+    {
+      "heading": "Make the small quantity even smaller with very",
+      "body": "Use very little for an amount and very few for a number. Keep the noun type the same: very little shade but very few trees. You can also use these expressions without a noun when the meaning is clear.",
+      "example": "There is very little shade on this path."
+    },
+    {
+      "heading": "Choose a or no a for the meaning",
+      "body": "A little time can mean there is some time to act; little time suggests there is almost no time. A few seats are still available, but few seats means the number is very small. Always decide whether the speaker means some or almost none.",
+      "example": "The hall has few empty chairs, so we should arrive early."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A small amount of something uncountable",
+      "left": {
+        "label": "A little = some",
+        "example": "There is a little juice left.",
+        "note": "A small amount remains; it is not zero."
+      },
+      "right": {
+        "label": "Little = almost none",
+        "example": "There is little juice left.",
+        "note": "The amount remaining is extremely small."
+      }
+    },
+    {
+      "title": "A small number of countable things",
+      "left": {
+        "label": "A few = some",
+        "example": "We have a few spare chairs.",
+        "note": "A small number of chairs are available."
+      },
+      "right": {
+        "label": "Few = almost none",
+        "example": "We have few spare chairs.",
+        "note": "There are hardly any spare chairs."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Could you add a little lemon juice to the salad?",
+      "note": "A little introduces a small amount of uncountable juice."
+    },
+    {
+      "sentence": "A few boats were still on the lake at sunset.",
+      "note": "A few describes a small number of plural boats."
+    },
+    {
+      "sentence": "We have little petrol left, so we must stop soon.",
+      "note": "Little suggests a serious shortage of uncountable petrol."
+    },
+    {
+      "sentence": "Few customers visited the café during the storm.",
+      "note": "Few means the number of customers was very small."
+    },
+    {
+      "sentence": "Very little light reaches this hallway.",
+      "note": "Very little emphasises an extremely small amount of light."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Please bring a few bread for the picnic.",
+      "correct": "Please bring a little bread for the picnic.",
+      "why": "Bread is uncountable, so use a little instead of a few."
+    },
+    {
+      "incorrect": "Little tickets were left for the concert.",
+      "correct": "Few tickets were left for the concert.",
+      "why": "Tickets is plural and countable, so use few rather than little."
+    },
+    {
+      "incorrect": "There are a little cups in the cupboard.",
+      "correct": "There are a few cups in the cupboard.",
+      "why": "A few modifies the plural countable noun cups."
+    },
+    {
+      "incorrect": "I have very few patience with rude callers.",
+      "correct": "I have very little patience with rude callers.",
+      "why": "Patience is uncountable, so the expression is very little."
+    }
+  ],
+  "studyTips": [
+    "Start with the noun: a little milk, a few oranges. Then decide whether you mean some or almost none.",
+    "Compare pairs aloud with different meanings: I have a little time / I have little time; I have a few ideas / I have few ideas.",
+    "Use very little and very few when you want to emphasise a shortage, and do not put a before these expressions."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the best expression: We have ___ milk for two cups of tea—not a lot, but enough.",
+      "choices": [
+        "few",
+        "a little",
+        "little"
+      ],
+      "answerIndex": 1,
+      "feedback": "A little means some milk is available; milk is uncountable. Little would suggest almost none."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the expression meaning almost no: ___ people were waiting at the bus stop.",
+      "choices": [
+        "A little",
+        "A few",
+        "Few"
+      ],
+      "answerIndex": 2,
+      "feedback": "Few people means almost no people. A few means some people."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct expression: There are ___ pears left, so you can take one.",
+      "choices": [
+        "a few",
+        "a little",
+        "little"
+      ],
+      "answerIndex": 0,
+      "feedback": "Pears is plural and countable, so use a few for a small number that is available."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct word: She has ___ patience for long queues; almost none.",
+      "choices": [
+        "little",
+        "a few",
+        "few"
+      ],
+      "answerIndex": 0,
+      "feedback": "Patience is uncountable. Little expresses almost no patience."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "We still have ___ flour—enough for one small loaf. (Use the two-word expression meaning some.)",
+      "acceptedAnswers": [
+        "a little"
+      ],
+      "feedback": "A little is used for a small but available amount of uncountable flour."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "___ neighbours came to the meeting; almost nobody attended. (Use one word.)",
+      "acceptedAnswers": [
+        "Few"
+      ],
+      "feedback": "Few goes with plural countable neighbours and means almost none."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Can you bring me ___ paper clips? I only need three. (Use the two-word expression.)",
+      "acceptedAnswers": [
+        "a few"
+      ],
+      "feedback": "A few expresses a small number of countable paper clips."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "There is ___ daylight left; it will be dark in a minute. (Use one word.)",
+      "acceptedAnswers": [
+        "little"
+      ],
+      "feedback": "Little suggests that almost no daylight remains."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I have a few information about the bus route.",
+      "acceptedAnswers": [
+        "I have a little information about the bus route."
+      ],
+      "feedback": "Information is uncountable, so use a little, not a few."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Very little guests arrived before noon.",
+      "acceptedAnswers": [
+        "Very few guests arrived before noon."
+      ],
+      "feedback": "Guests is plural and countable, so the correct expression is very few."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: There are a little biscuits in the tin.",
+      "acceptedAnswers": [
+        "There are a few biscuits in the tin."
+      ],
+      "feedback": "Biscuits is a plural countable noun, so use a few."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We have few time to finish the game.",
+      "acceptedAnswers": [
+        "We have little time to finish the game."
+      ],
+      "feedback": "Time is uncountable, so little means nearly no time remains."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say the completed sentence using a little: 'There is ___ honey left in the jar.'",
+      "acceptedAnswers": [
+        "There is a little honey left in the jar."
+      ],
+      "feedback": "Honey is uncountable; a little means some remains."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say the completed sentence using a few: 'I bought ___ postcards.'",
+      "acceptedAnswers": [
+        "I bought a few postcards."
+      ],
+      "feedback": "Postcards is a plural countable noun, so use a few."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say the completed sentence using very few: '___ trains stop here after midnight.'",
+      "acceptedAnswers": [
+        "Very few trains stop here after midnight."
+      ],
+      "feedback": "Very few means that almost no trains stop here."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You have some spare change, but not much. Say the complete sentence “I have ___ change.” Use a little.",
+      "acceptedAnswers": [
+        "I have a little change."
+      ],
+      "feedback": "Change is uncountable here. A little means a small but available amount."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "The library has almost no computers available. Rewrite this as a complete sentence beginning “The library has” and using very few.",
+      "acceptedAnswers": [
+        "The library has very few computers available."
+      ],
+      "feedback": "Very few with plural computers expresses an extremely small number."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend offers you more soup. You want only a small amount. Reply with one short sentence starting “Just” and ending “please”.",
+      "acceptedAnswers": [
+        "Just a little, please."
+      ],
+      "feedback": "A little stands alone when the uncountable noun soup is already understood."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this sentence to mean that a small number of tickets are available: “We have a little tickets left.” Keep the words “We have” and “tickets left”.",
+      "acceptedAnswers": [
+        "We have a few tickets left."
+      ],
+      "feedback": "A few, not a little, goes before the plural countable noun tickets."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "At a picnic you have a small amount of lemonade and three sandwiches. Say one complete sentence beginning “We have” and joining “a little lemonade” and “a few sandwiches” with and.",
+      "acceptedAnswers": [
+        "We have a little lemonade and a few sandwiches."
+      ],
+      "feedback": "A little is for uncountable lemonade; a few is for plural countable sandwiches."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I put a little cream in my soup.",
+      "prompt": "Which expression describes the amount of cream?",
+      "choices": [
+        "little",
+        "a little",
+        "a few"
+      ],
+      "answerIndex": 1,
+      "feedback": "A little means a small amount of the uncountable noun cream."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Very few houses on this road have gardens.",
+      "prompt": "Which expression do you hear immediately before houses?",
+      "choices": [
+        "very little",
+        "a few",
+        "very few"
+      ],
+      "answerIndex": 2,
+      "feedback": "Very few comes before the plural countable noun houses and means almost none."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "We have very little time before the shop closes.",
+      "prompt": "Type the two-word quantity expression you hear immediately before time.",
+      "acceptedAnswers": [
+        "very little"
+      ],
+      "feedback": "Very little emphasises an extremely small amount of time."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "There are a few blankets in the cupboard, so we can give one to the guest.",
+      "prompt": "Can the guest receive a blanket?",
+      "choices": [
+        "Yes, at least one is available.",
+        "No, the cupboard is empty.",
+        "No, all the blankets are damaged."
+      ],
+      "answerIndex": 0,
+      "feedback": "A few means a small number are available, so one can be given to the guest."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "There is little water in the tank, and the garden plants still need watering.",
+      "prompt": "What is the speaker concerned about?",
+      "choices": [
+        "The tank is too large.",
+        "There may not be enough water.",
+        "The garden has too many plants to count."
+      ],
+      "answerIndex": 1,
+      "feedback": "Little water suggests a shortage when the plants still need water."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "A few people came early, but very few stayed until the end.",
+      "prompt": "What happened by the end of the event?",
+      "choices": [
+        "A large crowd arrived.",
+        "Everyone stayed until it finished.",
+        "Only a very small number remained."
+      ],
+      "answerIndex": 2,
+      "feedback": "Very few says that almost nobody remained until the end."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Could you put a little sugar in my tea?",
+      "prompt": "Type the two-word quantity expression you hear immediately before “sugar”.",
+      "acceptedAnswers": [
+        "a little"
+      ],
+      "feedback": "A little describes a small amount of the uncountable noun sugar."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Very few buses run along this road on Sundays.",
+      "prompt": "Type the two-word quantity expression you hear immediately before “buses”.",
+      "acceptedAnswers": [
+        "very few"
+      ],
+      "feedback": "Very few goes before plural countable buses and emphasises a very small number."
+    }
+  ]
+}

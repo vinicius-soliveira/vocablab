@@ -1,0 +1,419 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u039",
+  "title": "It: Time, Weather, Distance and Descriptions",
+  "level": "A1",
+  "topicId": "it-time-weather-distance",
+  "summary": "Use it to talk naturally about the time, the day, the weather and distances. Build useful descriptions with It is + adjective + to + verb and distinguish it from there.",
+  "learningObjectives": [
+    "Say what time or day it is using it as the subject.",
+    "Ask about distances and describe whether a place is near or far.",
+    "Describe weather with it in simple and continuous forms.",
+    "Choose between it for a situation and there for the existence of something.",
+    "Form statements with It is + adjective + to + base verb."
+  ],
+  "explanation": [
+    {
+      "heading": "Time, days and dates need it",
+      "body": "English normally places it before the verb when we say the time, day or date. Put is before it in a direct question: What time is it? Use was for a past day or time. We do not omit it just because the meaning is clear.",
+      "example": "It's nearly seven, so the market will close soon."
+    },
+    {
+      "heading": "Distance: how far is it?",
+      "body": "Use How far is it from A to B? to ask about distance. Answer with It's + distance or It's a long way. For a short distance, say It isn't far. The word it refers to the distance, not to a person or object.",
+      "example": "It's about two kilometres from the campsite to the river."
+    },
+    {
+      "heading": "Weather uses it, too",
+      "body": "Use It's + a weather adjective for conditions: It's humid. Use It's + verb-ing for weather happening now: It's snowing. For regular conditions, use It + present simple: It snows here in winter. Use It rained for a finished time in the past.",
+      "example": "It's drizzling outside, so take a light jacket."
+    },
+    {
+      "heading": "It describes; there introduces",
+      "body": "Use it to describe the weather or a known situation. Use there is or there are to say that something exists or is present. Compare It's foggy with There's a lot of fog. These sentences describe similar conditions but have different subjects and structures.",
+      "example": "There is some ice on the path, and it's slippery."
+    },
+    {
+      "heading": "It is + adjective + to + verb",
+      "body": "To give an opinion about an action, use It is + adjective + to + base verb. Common adjectives include easy, hard, safe, dangerous, useful and pleasant. You can also use a negative or past form: It wasn't easy to find the address.",
+      "example": "It's useful to check the bus times before you leave."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Weather description or existence?",
+      "left": {
+        "label": "It + weather description",
+        "example": "It's windy near the harbour today.",
+        "note": "It describes the weather."
+      },
+      "right": {
+        "label": "There + noun",
+        "example": "There's a strong wind near the harbour today.",
+        "note": "There introduces a weather-related thing."
+      }
+    },
+    {
+      "title": "Near or far?",
+      "left": {
+        "label": "Short distance",
+        "example": "It isn't far to the supermarket.",
+        "note": "Use not far for a short distance."
+      },
+      "right": {
+        "label": "Long distance",
+        "example": "It's a long way to the mountain village.",
+        "note": "A long way is natural in an affirmative sentence."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "It's Tuesday, and our language class starts at six.",
+      "note": "It identifies the day."
+    },
+    {
+      "sentence": "How far is it from the bus stop to your office?",
+      "note": "It is the subject of a distance question."
+    },
+    {
+      "sentence": "It didn't snow here last winter.",
+      "note": "It is needed in a weather statement in the past."
+    },
+    {
+      "sentence": "There is a lot of sunshine in this room, so it's bright.",
+      "note": "There introduces something; it describes the room."
+    },
+    {
+      "sentence": "It's difficult to hear the guide from the back of the group.",
+      "note": "An adjective followed by to + verb evaluates an action."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Is getting dark outside.",
+      "correct": "It's getting dark outside.",
+      "why": "A weather or light-related statement needs the subject it."
+    },
+    {
+      "incorrect": "How far it is from the café to the library?",
+      "correct": "How far is it from the café to the library?",
+      "why": "In a direct question, put is before it."
+    },
+    {
+      "incorrect": "There is cold in the mountains today.",
+      "correct": "It's cold in the mountains today.",
+      "why": "Use it, not there, before a weather adjective."
+    },
+    {
+      "incorrect": "It's enjoyable walk beside the canal.",
+      "correct": "It's enjoyable to walk beside the canal.",
+      "why": "Use to + base verb after the adjective."
+    }
+  ],
+  "studyTips": [
+    "Practise saying the time and day aloud using a complete sentence that begins with It.",
+    "Connect weather forms to meaning: It rains (usually), It is raining (now), It rained (past).",
+    "For distance, remember the complete pattern How far is it from ... to ...?"
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct start to describe the weather: “___ cold and foggy this morning.”",
+      "choices": [
+        "It's",
+        "There's",
+        "They're"
+      ],
+      "answerIndex": 0,
+      "feedback": "It is the normal subject before a weather adjective such as cold."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Complete the question about the calendar: “What ___ today?”",
+      "choices": [
+        "day it is",
+        "day is it",
+        "is day it"
+      ],
+      "answerIndex": 1,
+      "feedback": "The direct question is What day is it today?, with is before it."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Ask about the distance between two places: “___ from the post office to the park?”",
+      "choices": [
+        "How long does it",
+        "How much is it",
+        "How far is it"
+      ],
+      "answerIndex": 2,
+      "feedback": "How far is it from ... to ...? asks about distance."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct start: “I like this neighbourhood. ___ easy to walk to the shops.”",
+      "choices": [
+        "It's",
+        "There's",
+        "Is"
+      ],
+      "answerIndex": 0,
+      "feedback": "The structure It is + adjective + to + verb describes an action."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete using the two full words it is: “___ nearly midnight. We should go home.”",
+      "acceptedAnswers": [
+        "It is"
+      ],
+      "feedback": "Time statements need the subject it followed by is."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with the past simple of rain: “It ___ all night yesterday. The grass is still wet.”",
+      "acceptedAnswers": [
+        "rained"
+      ],
+      "feedback": "The finished past time yesterday calls for the past simple rained after it."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with it and a negative form of be: “We can walk to the café; ___ far from here.”",
+      "acceptedAnswers": [
+        "it isn't",
+        "it is not",
+        "it's not"
+      ],
+      "feedback": "Not far is a natural expression for a short distance."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the full words there is: “___ a lot of fog outside this morning.”",
+      "acceptedAnswers": [
+        "There is"
+      ],
+      "feedback": "There is introduces the noun phrase a lot of fog; It is foggy would describe the weather."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the question: “How far it is from the hotel to the museum?”",
+      "acceptedAnswers": [
+        "How far is it from the hotel to the museum?"
+      ],
+      "feedback": "In a direct distance question, invert is and it."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “Is getting chilly in the garden.”",
+      "acceptedAnswers": [
+        "It is getting chilly in the garden.",
+        "It's getting chilly in the garden."
+      ],
+      "feedback": "Weather and temperature statements need the subject it."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “There is sunny at the beach today.”",
+      "acceptedAnswers": [
+        "It is sunny at the beach today.",
+        "It's sunny at the beach today."
+      ],
+      "feedback": "A weather adjective such as sunny takes it as its subject."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “It is useful check the map before a walk.”",
+      "acceptedAnswers": [
+        "It is useful to check the map before a walk.",
+        "It's useful to check the map before a walk."
+      ],
+      "feedback": "After useful, an action is expressed with to + verb: to check."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "The clock reads 8:30. Say the time using “half past”. Begin with “It”.",
+      "acceptedAnswers": [
+        "It's half past eight.",
+        "It is half past eight."
+      ],
+      "feedback": "It is introduces the time; half past eight means 8:30."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "The museum is three kilometres from the hotel. Give the distance, beginning “It’s three kilometres”.",
+      "acceptedAnswers": [
+        "It's three kilometres from the hotel to the museum.",
+        "It is three kilometres from the hotel to the museum."
+      ],
+      "feedback": "It is refers to the distance between the hotel and the museum."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Rain is falling right now. Describe the weather in one sentence ending “now”.",
+      "acceptedAnswers": [
+        "It's raining now.",
+        "It is raining now."
+      ],
+      "feedback": "Use it + is + raining for weather happening at this moment."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Today is Friday. Say the day in one sentence beginning with 'It's'.",
+      "acceptedAnswers": [
+        "It's Friday.",
+        "It is Friday."
+      ],
+      "feedback": "Use it as the subject when you say the day: It's Friday."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change 'There is a lot of fog outside' into a weather description using 'It's', the adjective 'foggy', and 'outside'.",
+      "acceptedAnswers": [
+        "It's foggy outside.",
+        "It is foggy outside."
+      ],
+      "feedback": "There is introduces fog as a noun; it is foggy describes the weather with an adjective."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your friend asks whether the station is far from the library. The distance is short. Answer with one sentence beginning 'It isn't' and include 'from the library to the station'.",
+      "acceptedAnswers": [
+        "It isn't far from the library to the station.",
+        "It is not far from the library to the station.",
+        "It's not far from the library to the station."
+      ],
+      "feedback": "It isn't far describes a short distance. Use it as the subject rather than there."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this distance question, keeping both places: 'How far it is from the shop to the bank?' Say the complete corrected question.",
+      "acceptedAnswers": [
+        "How far is it from the shop to the bank?"
+      ],
+      "feedback": "In a direct question, the verb comes before the subject: How far is it ...?"
+    },
+    {
+      "id": "sp-08",
+      "prompt": "The path is slippery. Say that running on the path is dangerous. Begin with 'It's dangerous to' and use 'run on the path'.",
+      "acceptedAnswers": [
+        "It's dangerous to run on the path.",
+        "It is dangerous to run on the path."
+      ],
+      "feedback": "The pattern it is + adjective + to + base verb evaluates an action: dangerous to run."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "It's quite windy near the lake today.",
+      "prompt": "What is the speaker describing?",
+      "choices": [
+        "The time of day",
+        "The weather",
+        "The distance to the lake"
+      ],
+      "answerIndex": 1,
+      "feedback": "It is + windy describes present weather conditions."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "It's difficult to read this small sign from the road.",
+      "prompt": "What does the speaker say about reading the sign?",
+      "choices": [
+        "It is easy from the road.",
+        "It happened yesterday.",
+        "It is difficult from the road."
+      ],
+      "answerIndex": 2,
+      "feedback": "The phrase It is difficult to read evaluates an action."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "It's easy to forget your umbrella on a busy morning.",
+      "prompt": "Type the two-word infinitive after the adjective.",
+      "acceptedAnswers": [
+        "to forget"
+      ],
+      "feedback": "To forget follows the adjective easy in the pattern It is + adjective + to + verb."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "It's a quarter to six now, and the bakery closes at six.",
+      "prompt": "How soon will the bakery close?",
+      "choices": [
+        "In fifteen minutes.",
+        "In forty-five minutes.",
+        "It closed fifteen minutes ago."
+      ],
+      "answerIndex": 0,
+      "feedback": "A quarter to six means 5:45. The bakery closes at 6:00, fifteen minutes later."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "It's about four kilometres from the village to the beach, so we'll cycle.",
+      "prompt": "What distance does the speaker give?",
+      "choices": [
+        "About forty kilometres.",
+        "Less than one kilometre.",
+        "About four kilometres."
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker says the beach is about four kilometres from the village."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "There's a thick layer of ice on the steps, and it's dangerous to walk there.",
+      "prompt": "What should someone understand about the steps?",
+      "choices": [
+        "They have just been cleaned.",
+        "Walking on them is unsafe.",
+        "They are far from the building."
+      ],
+      "answerIndex": 1,
+      "feedback": "There is introduces the ice; it's dangerous describes the unsafe situation."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "It's snowing outside, but the children still want to play in the garden.",
+      "prompt": "Type the short weather expression you hear at the beginning.",
+      "acceptedAnswers": [
+        "It's snowing",
+        "It is snowing"
+      ],
+      "feedback": "It's snowing uses it + is + verb-ing for weather happening now."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "It's important to wear comfortable shoes on the rocky path.",
+      "prompt": "Type the two-word infinitive phrase you hear after 'important'.",
+      "acceptedAnswers": [
+        "to wear"
+      ],
+      "feedback": "To wear completes the pattern it is + adjective + to + base verb."
+    }
+  ]
+}

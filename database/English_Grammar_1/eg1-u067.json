@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u067",
+  "title": "Countable and Uncountable Nouns: Basics",
+  "level": "A1",
+  "topicId": "nouns-countable-uncountable-1",
+  "summary": "Distinguish things you can count from substances and other uncountable nouns. Use articles, quantity words and expressions such as a bag of flour correctly.",
+  "learningObjectives": [
+    "Identify whether a familiar noun is countable or uncountable in an everyday sentence.",
+    "Use a/an with singular countable nouns and avoid it with uncountable nouns.",
+    "Choose the correct plural or quantity expression for countable and uncountable nouns.",
+    "Use basic measuring expressions such as a bag of and a glass of."
+  ],
+  "explanation": [
+    {
+      "heading": "Countable nouns: one or several",
+      "body": "A countable noun names something you can count as separate items. It can be singular or plural. Say a/an with one unspecified item, or use a number or a plural expression for more than one. A singular countable noun normally needs an article or another determiner; do not leave it on its own.",
+      "example": "A visitor left two notebooks on the bench."
+    },
+    {
+      "heading": "Uncountable nouns: an amount, not a number",
+      "body": "Uncountable nouns commonly name materials, liquids, and activities or ideas considered as a whole. They do not usually have a plural form or take a/an in these meanings. Words such as water, flour, luggage, money and music can follow some, much or a possessive such as my.",
+      "example": "We have some flour, but we do not have much sugar."
+    },
+    {
+      "heading": "Many for items, much for amounts",
+      "body": "Use many before plural countable nouns when talking about their number, and much before uncountable nouns when talking about their amount. Both are especially common in questions and negative statements. Some works with both plural countable nouns and uncountable nouns.",
+      "example": "Are there many cups, or is there much tea left?"
+    },
+    {
+      "heading": "Count a container or a portion instead",
+      "body": "You can talk about a definite quantity of an uncountable substance by adding a countable measuring word. The measuring word becomes plural after a number greater than one: a jar of jam, two jars of jam; a slice of cheese, three slices of cheese. The substance itself normally stays unchanged.",
+      "example": "We bought two bags of flour for the bakery."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "An individual item versus a substance",
+      "left": {
+        "label": "Countable item",
+        "example": "A candle is on the table.",
+        "note": "Candle can be counted; one unspecified candle takes a."
+      },
+      "right": {
+        "label": "Uncountable material",
+        "example": "There is some wax on the table.",
+        "note": "Wax is treated as a material, so use some rather than a."
+      }
+    },
+    {
+      "title": "Number of objects versus amount of liquid",
+      "left": {
+        "label": "Countable",
+        "example": "How many bottles do we need?",
+        "note": "Bottles are separate objects and take many."
+      },
+      "right": {
+        "label": "Uncountable",
+        "example": "How much water do we need?",
+        "note": "Water is a substance and takes much."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "A postcard arrived for you this morning.",
+      "note": "Postcard is singular and countable, so an indefinite article is needed."
+    },
+    {
+      "sentence": "There are six candles on the birthday cake.",
+      "note": "Six combines with the plural form of a countable noun."
+    },
+    {
+      "sentence": "There is some sand in my shoes.",
+      "note": "Sand is uncountable when it means the material."
+    },
+    {
+      "sentence": "We do not have much petrol in the car.",
+      "note": "Much is used with an uncountable noun in a negative statement."
+    },
+    {
+      "sentence": "He ordered two glasses of lemonade.",
+      "note": "Glasses identifies countable servings of the uncountable drink."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I need notebook for the class.",
+      "correct": "I need a notebook for the class.",
+      "why": "An unspecified singular countable noun normally takes a/an."
+    },
+    {
+      "incorrect": "She put three butters in the bowl.",
+      "correct": "She put some butter in the bowl.",
+      "why": "Butter names an uncountable substance here; use an amount expression rather than a plural."
+    },
+    {
+      "incorrect": "There isn’t many water in the jug.",
+      "correct": "There isn’t much water in the jug.",
+      "why": "Water is uncountable in this meaning, so use much rather than many."
+    },
+    {
+      "incorrect": "I bought two bag of flour.",
+      "correct": "I bought two bags of flour.",
+      "why": "After two, the countable measuring noun bag must be plural."
+    }
+  ],
+  "studyTips": [
+    "Ask yourself whether the noun names separate objects or an amount of material before choosing its grammar.",
+    "Remember the pairs many cups / much coffee and a cup / some coffee.",
+    "Practise measuring uncountable foods with countable containers: a jar of jam, two jars of jam."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Each visitor needs ___ to enter the museum.",
+      "choices": [
+        "a ticket",
+        "ticket",
+        "a tickets"
+      ],
+      "answerIndex": 0,
+      "feedback": "Ticket is singular and countable, so it needs a here."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "There isn’t ___ flour left in the cupboard.",
+      "choices": [
+        "many",
+        "much",
+        "a"
+      ],
+      "answerIndex": 1,
+      "feedback": "Flour is uncountable, so much is the correct quantity word in this negative sentence."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "We packed three ___ for the picnic.",
+      "choices": [
+        "milk",
+        "milks",
+        "cartons of milk"
+      ],
+      "answerIndex": 2,
+      "feedback": "Cartons is the plural countable container; milk stays uncountable."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which sentence is correct?",
+      "choices": [
+        "We need some rice.",
+        "We need a rice.",
+        "We need two rices."
+      ],
+      "answerIndex": 0,
+      "feedback": "Rice is uncountable when referring to the food in general, so some rice is natural."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "There is ___ notebook on my desk. (Write a or an.)",
+      "acceptedAnswers": [
+        "a"
+      ],
+      "feedback": "Notebook begins with a consonant sound and is a singular countable noun."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The shop has five ___ of juice on the shelf. (Write the plural of bottle.)",
+      "acceptedAnswers": [
+        "bottles"
+      ],
+      "feedback": "The countable container is plural after five; juice stays unchanged."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "I need a ___ of soap for the bathroom. (Write the three-letter measure word.)",
+      "acceptedAnswers": [
+        "bar"
+      ],
+      "feedback": "A bar of soap refers to one countable piece of the substance."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "There isn’t ___ sugar in this bowl. (Write much or many.)",
+      "acceptedAnswers": [
+        "much"
+      ],
+      "feedback": "Sugar is uncountable, so much expresses the amount."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I need pencil for the exam.",
+      "acceptedAnswers": [
+        "I need a pencil for the exam."
+      ],
+      "feedback": "The singular countable noun pencil needs an article."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We have three bag of rice.",
+      "acceptedAnswers": [
+        "We have three bags of rice."
+      ],
+      "feedback": "The countable container bag becomes bags after three."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: There isn’t many oil in the bottle.",
+      "acceptedAnswers": [
+        "There isn’t much oil in the bottle.",
+        "There is not much oil in the bottle."
+      ],
+      "feedback": "Oil is uncountable here, so use much rather than many."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She enjoys listening to musics.",
+      "acceptedAnswers": [
+        "She enjoys listening to music."
+      ],
+      "feedback": "Music is normally uncountable when referring to the activity or art form."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say you have one bicycle. Begin with “I have” and use “a bicycle”.",
+      "acceptedAnswers": [
+        "I have a bicycle."
+      ],
+      "feedback": "Bicycle is singular and countable, so use a."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say there is not much space in the cupboard. Begin with “There”.",
+      "acceptedAnswers": [
+        "There isn’t much space in the cupboard.",
+        "There is not much space in the cupboard."
+      ],
+      "feedback": "Space is uncountable in this meaning, so much describes the amount."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Ask for one glass of orange juice. Begin with “I’d like”.",
+      "acceptedAnswers": [
+        "I’d like a glass of orange juice.",
+        "I would like a glass of orange juice."
+      ],
+      "feedback": "A glass of makes one serving of the uncountable drink countable."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Use 'We have' to say there are exactly four oranges in the kitchen. Say one complete sentence.",
+      "acceptedAnswers": [
+        "We have four oranges in the kitchen."
+      ],
+      "feedback": "Oranges are individual countable items, so use the plural after four."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change 'There are many chairs in the room' into a negative statement using 'not many'. Say the complete sentence.",
+      "acceptedAnswers": [
+        "There aren't many chairs in the room.",
+        "There are not many chairs in the room."
+      ],
+      "feedback": "Use aren't or are not before many with the plural countable noun chairs."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You are ordering milk. Politely ask for exactly one carton, using 'a carton of milk' and beginning with 'I'd like'.",
+      "acceptedAnswers": [
+        "I'd like a carton of milk.",
+        "I would like a carton of milk."
+      ],
+      "feedback": "A carton of counts one container; milk itself remains uncountable."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the quantity word in 'We don't have many butter'. Say the complete corrected sentence.",
+      "acceptedAnswers": [
+        "We don't have much butter.",
+        "We do not have much butter."
+      ],
+      "feedback": "Use much, not many, with the uncountable noun butter in a negative statement."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Tell a friend what you need for breakfast: two slices of bread, then some jam. Begin with 'We need' and join the items with 'and'.",
+      "acceptedAnswers": [
+        "We need two slices of bread and some jam."
+      ],
+      "feedback": "Slices are countable portions, while bread and jam are uncountable foods in this context."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We need two rolls of paper for the art class.",
+      "prompt": "How is the paper measured in the sentence?",
+      "choices": [
+        "As one sheet",
+        "As two rolls",
+        "As three sheets"
+      ],
+      "answerIndex": 1,
+      "feedback": "Two rolls counts the containers or units; paper stays uncountable."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "There isn’t much time before the train leaves.",
+      "prompt": "Which word describes the amount of time?",
+      "choices": [
+        "Many",
+        "A",
+        "Much"
+      ],
+      "answerIndex": 2,
+      "feedback": "Much modifies the uncountable noun time in the negative statement."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "A bag of flour is on the kitchen shelf.",
+      "prompt": "Type the container word heard immediately before “of flour”.",
+      "acceptedAnswers": [
+        "bag"
+      ],
+      "feedback": "Bag is a countable container word used with uncountable flour."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "We have enough soup for everyone, but there is only one spoon for three people.",
+      "prompt": "What is the problem at the meal?",
+      "choices": [
+        "They do not have enough spoons.",
+        "They do not have enough soup.",
+        "There are too many spoons."
+      ],
+      "answerIndex": 0,
+      "feedback": "One spoon for three people means they lack enough countable spoons; the soup is sufficient."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "We bought three bottles of water and one large bag of rice for the picnic.",
+      "prompt": "Which item did they buy in just one container?",
+      "choices": [
+        "The water only.",
+        "The rice only.",
+        "Both the water and the rice."
+      ],
+      "answerIndex": 1,
+      "feedback": "There was one bag of rice, but three bottles of water."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We have plenty of cups, but only a little tea, so please bring more tea.",
+      "prompt": "What does the speaker want someone to bring?",
+      "choices": [
+        "More cups.",
+        "More glasses.",
+        "More tea."
+      ],
+      "answerIndex": 2,
+      "feedback": "The number of cups is sufficient, but the amount of tea is too small."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "How many onions do you need for the vegetable soup?",
+      "prompt": "Type the quantity word you hear immediately after 'how'.",
+      "acceptedAnswers": [
+        "many"
+      ],
+      "feedback": "Many is used to ask about the number of countable items, such as onions."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Please put two jars of honey near the kitchen door.",
+      "prompt": "Type the two words you hear immediately after 'two'.",
+      "acceptedAnswers": [
+        "jars of"
+      ],
+      "feedback": "Jars of names countable containers used to measure the uncountable substance honey."
+    }
+  ]
+}

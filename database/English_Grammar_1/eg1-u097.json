@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u097",
+  "title": "Joining Ideas: And, But, Or, So and Because",
+  "level": "A2",
+  "topicId": "conjunctions-and-but-or-so-because",
+  "summary": "Join simple ideas with conjunctions. Show an addition, contrast, choice, result or reason using the appropriate word.",
+  "learningObjectives": [
+    "Use and to add information or join actions and items in a list.",
+    "Use but to introduce a contrast and or to present a choice.",
+    "Use so to introduce a result and because to explain a reason.",
+    "Combine related clauses and use a comma clearly when it helps readability."
+  ],
+  "explanation": [
+    {
+      "heading": "And adds information",
+      "body": "Use and to join related statements or actions. If the subject is the same in both parts, you can often say it only once. In a list of three or more things, separate the earlier items with commas and put and before the final item.",
+      "example": "Lena put on her coat and stepped into the garden."
+    },
+    {
+      "heading": "But contrasts; or offers a choice",
+      "body": "Use but when the second idea is different from, or unexpected after, the first. Use or when you present alternatives. In a question, or often asks the listener to choose between two possibilities.",
+      "example": "The jacket fits well, but I do not like the colour."
+    },
+    {
+      "heading": "So introduces a result",
+      "body": "Use so when the second part tells what happened because of the first part. Think of the order as situation first, result second. A comma often separates the two complete clauses.",
+      "example": "The path was muddy, so we took another route."
+    },
+    {
+      "heading": "Because introduces a reason",
+      "body": "Use because before the reason for an action or situation. A because-clause can follow the main clause or come first. If the sentence starts with the because-clause, add a comma after it.",
+      "example": "Because the shop was closed, we went to the market."
+    },
+    {
+      "heading": "Combining more than two ideas",
+      "body": "You can join several related ideas, but keep each connection clear. For example, and can add an event, while so shows the result of the events. Avoid using a connector that changes the meaning you want to express.",
+      "example": "I packed my lunch and filled my bottle, so I was ready to leave."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Result versus reason",
+      "left": {
+        "label": "So: result",
+        "example": "The hall was full, so we waited outside.",
+        "note": "Waiting outside is the result of the full hall."
+      },
+      "right": {
+        "label": "Because: reason",
+        "example": "We waited outside because the hall was full.",
+        "note": "The full hall explains why we waited."
+      }
+    },
+    {
+      "title": "Additional information versus contrast",
+      "left": {
+        "label": "And",
+        "example": "I ordered soup and drank some water.",
+        "note": "Two actions are added together."
+      },
+      "right": {
+        "label": "But",
+        "example": "I ordered soup, but it was too salty.",
+        "note": "The second clause introduces a problem or contrast."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Amir washed the cups and put them away.",
+      "note": "The same person does two actions, so the subject need not be repeated."
+    },
+    {
+      "sentence": "For the salad, we need carrots, beans and tomatoes.",
+      "note": "The final item in a list is introduced by and."
+    },
+    {
+      "sentence": "We can take the train or travel by coach.",
+      "note": "Or presents two alternatives."
+    },
+    {
+      "sentence": "The museum was small, but the exhibition was fascinating.",
+      "note": "But contrasts the size with the experience."
+    },
+    {
+      "sentence": "I missed the early bus because I left home late.",
+      "note": "Because gives the reason for missing the bus."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The shops were shut, because we went home.",
+      "correct": "The shops were shut, so we went home.",
+      "why": "Going home was the result, not the reason the shops were shut."
+    },
+    {
+      "incorrect": "I took a coat so the weather was cold.",
+      "correct": "I took a coat because the weather was cold.",
+      "why": "The cold weather explains the reason for taking a coat."
+    },
+    {
+      "incorrect": "Would you like an apple but a pear?",
+      "correct": "Would you like an apple or a pear?",
+      "why": "Use or, not but, to offer a choice between two things."
+    }
+  ],
+  "studyTips": [
+    "Before choosing a connector, decide whether the second clause adds, contrasts, offers an alternative, gives a result or gives a reason.",
+    "Practise a cause and its effect in both orders: “It was late, so we left” and “We left because it was late.”",
+    "For a list, read it aloud with and before the final item."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the connector that presents the second clause as the result: “The bus was delayed, ___ we arrived after nine.”",
+      "choices": [
+        "so",
+        "because",
+        "or"
+      ],
+      "answerIndex": 0,
+      "feedback": "So introduces arriving late as the result of the delay."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the connector that clearly signals a contrast: “I liked the design, ___ the screen was too small.”",
+      "choices": [
+        "and",
+        "but",
+        "or"
+      ],
+      "answerIndex": 1,
+      "feedback": "But contrasts a positive opinion with a problem."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the connector that introduces the reason: “We moved the picnic indoors ___ the sky was getting dark.”",
+      "choices": [
+        "so",
+        "or",
+        "because"
+      ],
+      "answerIndex": 2,
+      "feedback": "Because introduces the darkening sky as the reason for moving indoors."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the connector that completes a choice: “Would you prefer a window seat ___ an aisle seat?”",
+      "choices": [
+        "or",
+        "so",
+        "because"
+      ],
+      "answerIndex": 0,
+      "feedback": "Or asks someone to choose between two alternatives."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with and, but, or, so or because. Use the word meaning “in addition”: “I chopped the vegetables ___ heated the oil.”",
+      "acceptedAnswers": [
+        "and"
+      ],
+      "feedback": "And adds a second action by the same person."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with the contrast connector: “The shoes were comfortable, ___ they were too expensive.”",
+      "acceptedAnswers": [
+        "but"
+      ],
+      "feedback": "But introduces a contrasting problem after positive information."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with the result connector: “The road was flooded, ___ the buses took a different route.”",
+      "acceptedAnswers": [
+        "so"
+      ],
+      "feedback": "So introduces the different route as the consequence of flooding."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the reason connector: “Owen went home early ___ he had a headache.”",
+      "acceptedAnswers": [
+        "because"
+      ],
+      "feedback": "Because explains why Owen went home early."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the connector so that the second clause gives the result: “The room was cold, because we turned on the heater.”",
+      "acceptedAnswers": [
+        "The room was cold, so we turned on the heater."
+      ],
+      "feedback": "Use so to connect the cold room to the action it caused."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the connector so that the second clause gives the reason: “I did not open the window, so it was raining heavily.”",
+      "acceptedAnswers": [
+        "I did not open the window because it was raining heavily.",
+        "I didn't open the window because it was raining heavily."
+      ],
+      "feedback": "Because introduces the heavy rain as the reason for keeping the window closed."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the connector to show a contrast: “The route looked short, or the walk took two hours.”",
+      "acceptedAnswers": [
+        "The route looked short, but the walk took two hours."
+      ],
+      "feedback": "But expresses the contrast between a short-looking route and a long walk."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the connector in this question offering a choice: “Would you like the blue notebook but the green one?”",
+      "acceptedAnswers": [
+        "Would you like the blue notebook or the green one?"
+      ],
+      "feedback": "Or is the usual word for a choice between two items."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Join these two sentences with but, keeping the original words: “The bag is light. It is very strong.”",
+      "acceptedAnswers": [
+        "The bag is light, but it is very strong.",
+        "The bag is light but it is very strong."
+      ],
+      "feedback": "But contrasts the low weight with the surprising strength."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Join with so, keeping the original words: “The door was locked. We waited outside.”",
+      "acceptedAnswers": [
+        "The door was locked, so we waited outside.",
+        "The door was locked so we waited outside."
+      ],
+      "feedback": "So introduces waiting outside as the result of the locked door."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Join into one full sentence using because, beginning with “I stayed”: “I stayed home. I felt unwell.”",
+      "acceptedAnswers": [
+        "I stayed home because I felt unwell."
+      ],
+      "feedback": "Because introduces feeling unwell as the reason for staying home."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Omar washed the apples. Omar put them in a bowl. Start with “Omar”, join the actions with and, and do not repeat the subject.",
+      "acceptedAnswers": [
+        "Omar washed the apples and put them in a bowl."
+      ],
+      "feedback": "And joins two actions by Omar. When the subject stays the same, you can say it once."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Rewrite this sentence using so to show the result. Begin with “The phone battery was empty”: “I could not call because the phone battery was empty.”",
+      "acceptedAnswers": [
+        "The phone battery was empty, so I could not call.",
+        "The phone battery was empty, so I couldn’t call."
+      ],
+      "feedback": "So introduces the result: the empty battery meant the speaker could not make a call."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your friend can take bus 3 or bus 5 to the station. Tell your friend both choices in one sentence beginning “You can take”.",
+      "acceptedAnswers": [
+        "You can take bus 3 or bus 5.",
+        "You can take either bus 3 or bus 5."
+      ],
+      "feedback": "Or connects two alternatives that are both possible."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the connector and say the full sentence to show a contrast: “The cake looked delicious, or it tasted awful.”",
+      "acceptedAnswers": [
+        "The cake looked delicious, but it tasted awful."
+      ],
+      "feedback": "But shows the surprising contrast between how the cake looked and how it tasted."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "The rain became heavy. Zoe closed the window and moved her bag away from it. Start with “The rain became heavy”, use so for the result and and for Zoe’s two actions, without adding a second subject.",
+      "acceptedAnswers": [
+        "The rain became heavy, so Zoe closed the window and moved her bag away from it."
+      ],
+      "feedback": "So introduces the response to the rain, and and joins the two actions Zoe took."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I packed sandwiches and fruit for our trip.",
+      "prompt": "What did the speaker pack?",
+      "choices": [
+        "Only sandwiches",
+        "Sandwiches and fruit",
+        "Only fruit"
+      ],
+      "answerIndex": 1,
+      "feedback": "And links the two foods in the recording."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The café had no free tables, so we went somewhere else.",
+      "prompt": "What did the speakers do as a result of the situation?",
+      "choices": [
+        "They sat at the café.",
+        "They booked for tomorrow.",
+        "They went somewhere else."
+      ],
+      "answerIndex": 2,
+      "feedback": "So introduces going elsewhere as the result of the café having no free tables."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I chose the early train because I had a morning meeting.",
+      "prompt": "Type the connector you hear that introduces the reason.",
+      "acceptedAnswers": [
+        "because"
+      ],
+      "feedback": "Because introduces the morning meeting as the reason."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The tickets were cheap, but all the seats were uncomfortable.",
+      "prompt": "What problem did the speaker mention?",
+      "choices": [
+        "There were no tickets available.",
+        "The tickets cost too much.",
+        "Sitting there was unpleasant."
+      ],
+      "answerIndex": 2,
+      "feedback": "The ticket price was good, but the seats were uncomfortable, so sitting was unpleasant."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The bus did not stop near our hotel, so we walked another ten minutes.",
+      "prompt": "What did the travellers do after getting off the bus?",
+      "choices": [
+        "They walked for ten more minutes.",
+        "They returned to the bus station.",
+        "They took a taxi to the hotel."
+      ],
+      "answerIndex": 0,
+      "feedback": "The bus stop was not close to the hotel, so they continued on foot for ten minutes."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We planned to visit the museum, but it was closed, so we went to the park.",
+      "prompt": "Why did the group change its plan?",
+      "choices": [
+        "The park was closing early.",
+        "Their first destination was not open.",
+        "They had already visited the park."
+      ],
+      "answerIndex": 1,
+      "feedback": "But introduces the problem with the museum, and so introduces their new plan."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Would you like tea or lemonade with your lunch today?",
+      "prompt": "Type the one-word connector linking the two drink choices.",
+      "acceptedAnswers": [
+        "or"
+      ],
+      "feedback": "Or links the two options offered to the listener."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "It was snowing heavily, so the buses ran slowly.",
+      "prompt": "Type the one-word connector that introduces the consequence of the snow.",
+      "acceptedAnswers": [
+        "so"
+      ],
+      "feedback": "So introduces the slower bus journeys as a result of the weather."
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u053",
+  "title": "Asking and Telling Someone to Do Something",
+  "level": "A2",
+  "topicId": "verb-person-to-and-let-make",
+  "summary": "Use a person or thing between certain verbs and an infinitive to express wishes, requests and instructions. Learn when to use to, when to say not to, and when make, let and let’s take a verb without to.",
+  "learningObjectives": [
+    "Make a clear request or express a wish with want or would like + person + to + verb.",
+    "Report instructions and requests with tell or ask + person + to or not to + verb.",
+    "Use make and let + person + base verb without to.",
+    "Make a simple group suggestion with let’s + base verb."
+  ],
+  "explanation": [
+    {
+      "heading": "Want someone to do something",
+      "body": "When the action is for another person, put that person between want and to + base verb. You can also use would like in the same pattern to make a polite request. Compare I want to leave (my action) with I want you to leave (your action).",
+      "example": "I would like my cousin to visit us next month."
+    },
+    {
+      "heading": "Ask, tell and other verbs with a person",
+      "body": "Ask, tell, advise, expect, persuade and teach can be followed by a person and to + base verb. The person is the one expected, invited or instructed to act. Use object pronouns such as me, him, her, us and them in this position.",
+      "example": "The receptionist asked me to write my name."
+    },
+    {
+      "heading": "Negative instructions: not to",
+      "body": "To report a negative instruction, put not before to: tell/ask + person + not to + verb. Do not put do not between the person and the infinitive in this structure.",
+      "example": "The nurse told visitors not to use their phones."
+    },
+    {
+      "heading": "Make and let: no to",
+      "body": "Use make + person + base verb when someone causes another person to do something. Use let + person + base verb when someone allows it. In these active patterns, do not add to before the second verb.",
+      "example": "The funny video made my aunt smile."
+    },
+    {
+      "heading": "Let’s for a shared suggestion",
+      "body": "Let’s means let us and is followed directly by the base form of a verb. Use it to suggest an activity you and other people can do together.",
+      "example": "Let’s bring sandwiches for the trip."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Your action or another person’s action",
+      "left": {
+        "label": "Want + to + verb",
+        "example": "I want to take a short walk.",
+        "note": "I am the person who will walk."
+      },
+      "right": {
+        "label": "Want + person + to + verb",
+        "example": "I want my brother to take a short walk.",
+        "note": "My brother is the person who will walk."
+      }
+    },
+    {
+      "title": "A request or permission",
+      "left": {
+        "label": "Ask + person + to",
+        "example": "Nora asked Ben to open the gate.",
+        "note": "To is necessary after asked Ben."
+      },
+      "right": {
+        "label": "Let + person + base verb",
+        "example": "Nora let Ben open the gate.",
+        "note": "Let shows permission and takes open, without to."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The coach expects us to arrive before eight.",
+      "note": "Expect + object pronoun + to + verb."
+    },
+    {
+      "sentence": "Could you ask Nina to bring an extra cup?",
+      "note": "Ask + person + to for a polite request."
+    },
+    {
+      "sentence": "My dad told me not to touch the wet paint.",
+      "note": "Not to gives a negative reported instruction."
+    },
+    {
+      "sentence": "Our friends let us use their picnic table.",
+      "note": "Let + person + base verb without to."
+    },
+    {
+      "sentence": "Let’s walk along the river after lunch.",
+      "note": "Let’s + base verb makes a group suggestion."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I want that you help me.",
+      "correct": "I want you to help me.",
+      "why": "For this wish, use want + person + to + verb, not want that + clause."
+    },
+    {
+      "incorrect": "She asked him not leave early.",
+      "correct": "She asked him not to leave early.",
+      "why": "A negative request needs not to before the verb."
+    },
+    {
+      "incorrect": "My friend let me to ride his bike.",
+      "correct": "My friend let me ride his bike.",
+      "why": "Let is followed by the person and a base verb without to."
+    },
+    {
+      "incorrect": "Let's to start now.",
+      "correct": "Let's start now.",
+      "why": "Let's takes the base form directly."
+    }
+  ],
+  "studyTips": [
+    "Look for the person who must do the action. After want, ask and tell, place that person before to + verb.",
+    "Practise positive and negative instructions as a pair: told me to stay / told me not to stay.",
+    "Remember the two exceptions in this lesson: make me laugh and let me try, both without to."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which sentence gives a correct request?",
+      "choices": [
+        "Mara asked Leo to carry the chairs.",
+        "Mara asked Leo for carry the chairs.",
+        "Mara asked Leo carry the chairs."
+      ],
+      "answerIndex": 0,
+      "feedback": "After asked Leo, use to + base verb: to carry."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the grammatically correct sentence about permission.",
+      "choices": [
+        "Dad let me to use the bicycle.",
+        "Dad let me use the bicycle.",
+        "Dad let me using the bicycle."
+      ],
+      "answerIndex": 1,
+      "feedback": "Let + person takes the base verb use, without to or -ing."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Complete the reported instruction: The guide told everyone ___ photographs inside the gallery.",
+      "choices": [
+        "don’t take",
+        "not take",
+        "not to take"
+      ],
+      "answerIndex": 2,
+      "feedback": "A negative instruction with told everyone is followed by not to + base verb."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which sentence is a correct suggestion to the group?",
+      "choices": [
+        "Let's sit near the window.",
+        "Let's to sit near the window.",
+        "Let's sitting near the window."
+      ],
+      "answerIndex": 0,
+      "feedback": "Let's is followed directly by the base verb sit."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Tariq wants his sister ___ (join) the team.",
+      "acceptedAnswers": [
+        "to join"
+      ],
+      "feedback": "Want + a person takes to + base verb: to join."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The film made us ___ (laugh) for ages.",
+      "acceptedAnswers": [
+        "laugh"
+      ],
+      "feedback": "Make + object takes the base verb laugh without to."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Our neighbour asked us ___ (not park) across her driveway.",
+      "acceptedAnswers": [
+        "not to park"
+      ],
+      "feedback": "A negative request uses asked us not to + base verb."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The art teacher taught Olivia ___ (draw) faces.",
+      "acceptedAnswers": [
+        "to draw"
+      ],
+      "feedback": "Teach + person can take to + infinitive: to draw."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My manager wants that I finish the report today.",
+      "acceptedAnswers": [
+        "My manager wants me to finish the report today."
+      ],
+      "feedback": "Use wants + me + to finish for an action the manager wants another person to do."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The lifeguard told the swimmers not enter the deep water.",
+      "acceptedAnswers": [
+        "The lifeguard told the swimmers not to enter the deep water."
+      ],
+      "feedback": "After told + person, a negative instruction needs not to + verb."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My cousin let me to try her skateboard.",
+      "acceptedAnswers": [
+        "My cousin let me try her skateboard."
+      ],
+      "feedback": "After let me, use the base verb try without to."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Let's to check the address before we leave.",
+      "acceptedAnswers": [
+        "Let's check the address before we leave."
+      ],
+      "feedback": "Let's is followed by the base form check, not to check."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one complete sentence from these cues: Paula / want / her friend / to wait / outside.",
+      "acceptedAnswers": [
+        "Paula wants her friend to wait outside."
+      ],
+      "feedback": "The person her friend goes between wants and to wait."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Jules gave you the instruction “Bring a jacket.” Report it, beginning “Jules told me”.",
+      "acceptedAnswers": [
+        "Jules told me to bring a jacket."
+      ],
+      "feedback": "Told me is followed by to + base verb: to bring."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Change “The teacher allowed us to leave early” into a complete sentence using let.",
+      "acceptedAnswers": [
+        "The teacher let us leave early."
+      ],
+      "feedback": "Let us is followed directly by leave, with no to."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You would like Maya to turn off the kitchen light. Say one sentence beginning 'I would like Maya', using 'turn off the kitchen light'. You may contract I would.",
+      "acceptedAnswers": [
+        "I would like Maya to turn off the kitchen light.",
+        "I'd like Maya to turn off the kitchen light."
+      ],
+      "feedback": "Use would like + person + to + base verb: Maya to turn off the light."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "The librarian said to Emma, 'Don't eat in the reading room.' Report this instruction in one sentence beginning 'The librarian told Emma'. Use not to.",
+      "acceptedAnswers": [
+        "The librarian told Emma not to eat in the reading room."
+      ],
+      "feedback": "Use told + person + not to + base verb when reporting a negative instruction."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Someone asks what Sara expects her team to do. The required action is to arrive early. Answer in one full sentence beginning 'Sara expects her team'.",
+      "acceptedAnswers": [
+        "Sara expects her team to arrive early."
+      ],
+      "feedback": "Expect + person is followed by to + base verb: expects her team to arrive."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this sentence without changing its meaning: 'The joke made the children to laugh.' Say the complete corrected sentence.",
+      "acceptedAnswers": [
+        "The joke made the children laugh."
+      ],
+      "feedback": "Make + person takes the base verb without to: made the children laugh."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Suggest a shared walk in the park after dinner. Say one sentence beginning 'Let's' and use the verb walk.",
+      "acceptedAnswers": [
+        "Let's walk in the park after dinner."
+      ],
+      "feedback": "Let's + base verb makes a suggestion for the group: Let's walk."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The receptionist asked us to sign the visitor book.",
+      "prompt": "What were the visitors asked to do?",
+      "choices": [
+        "Leave the building.",
+        "Sign the visitor book.",
+        "Wait outside."
+      ],
+      "answerIndex": 1,
+      "feedback": "Asked us to sign describes the action requested of the visitors."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "My older brother let me borrow his headphones.",
+      "prompt": "Which form of the verb follows let me?",
+      "choices": [
+        "To borrow",
+        "Borrowing",
+        "Borrow"
+      ],
+      "answerIndex": 2,
+      "feedback": "Let me is followed by the base form borrow, not to borrow."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The conductor told the passengers not to stand near the doors.",
+      "prompt": "Complete what you hear: “The conductor told the passengers ___ near the doors.” Type only the missing words.",
+      "acceptedAnswers": [
+        "not to stand"
+      ],
+      "feedback": "The negative reported instruction is not to stand."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The swimming instructor asked Clara to wear a life jacket during the lesson.",
+      "prompt": "What did Clara need for the lesson?",
+      "choices": [
+        "A pair of running shoes.",
+        "Something to help her float.",
+        "A notebook for writing."
+      ],
+      "answerIndex": 1,
+      "feedback": "The life jacket helps Clara float, and the instructor asked her to wear it."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The music teacher told the twins not to touch the piano until the lesson began.",
+      "prompt": "How many people were told not to use the instrument yet?",
+      "choices": [
+        "Three people.",
+        "One person.",
+        "Two people."
+      ],
+      "answerIndex": 2,
+      "feedback": "The twins are two people, and both received the instruction not to touch the piano yet."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "My aunt let us bake the biscuits, but she made us clean the kitchen afterwards.",
+      "prompt": "Which action was required rather than simply allowed?",
+      "choices": [
+        "Eating the biscuits.",
+        "Cleaning the kitchen.",
+        "Baking the biscuits."
+      ],
+      "answerIndex": 1,
+      "feedback": "Let us bake means permission; made us clean means we had to clean."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The travel agent advised my parents to check their passports before leaving.",
+      "prompt": "Type the two-word action phrase immediately after 'my parents'.",
+      "acceptedAnswers": [
+        "to check"
+      ],
+      "feedback": "Advised + person takes to + base verb, so the phrase is to check."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Let's take the early train to the seaside.",
+      "prompt": "Type the opening contraction used to suggest a shared plan.",
+      "acceptedAnswers": [
+        "let's"
+      ],
+      "feedback": "Let's means let us and takes the base verb take without to."
+    }
+  ]
+}

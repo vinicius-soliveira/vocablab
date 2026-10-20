@@ -1,0 +1,407 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u002",
+  "title": "Be: Questions and Short Answers",
+  "level": "A1",
+  "topicId": "be-present-questions",
+  "summary": "Ask yes/no and information questions with am, is and are. Use the right word order and give natural short answers.",
+  "learningObjectives": [
+    "Form yes/no questions by putting am, is or are before the subject.",
+    "Ask for information with where, what, who, how and why.",
+    "Recognise question-word contractions such as what’s and where’s.",
+    "Give short positive and negative answers with the appropriate form of be."
+  ],
+  "explanation": [
+    {
+      "heading": "Start yes/no questions with be",
+      "body": "To change a statement with be into a yes/no question, put am, is or are before the subject. The pattern is am/is/are + subject + the rest of the sentence. Use am with I, is with one person or thing, and are with you or plural subjects. Do not add do or does.",
+      "example": "Are your cousins at the café?"
+    },
+    {
+      "heading": "Keep the whole subject together",
+      "body": "When the subject is a name or a longer noun phrase, place the whole subject after am, is or are. Put the adjective, location or other information after the subject.",
+      "example": "Is the small grocery shop open today?"
+    },
+    {
+      "heading": "Ask a question with a question word",
+      "body": "To ask for specific information, put where, what, who, how or why first. Then use am, is or are + subject. How old asks about age; how much asks about price. The word order after the question word is the same as in a yes/no question.",
+      "example": "How old is your niece?"
+    },
+    {
+      "heading": "Use short forms with question words",
+      "body": "What is can become what’s; who is becomes who’s; where is becomes where’s; and how is becomes how’s. These contractions are common in conversation. The full forms are also correct, and the question still needs the right order.",
+      "example": "Where’s the nearest pharmacy?"
+    },
+    {
+      "heading": "Give short yes and no answers",
+      "body": "Repeat the subject pronoun and am, is or are after Yes: Yes, I am; Yes, he is; Yes, they are. Do not end a positive short answer with I’m, he’s or they’re alone. For No, use not: No, I’m not; No, she isn’t or she’s not; No, we aren’t or we’re not.",
+      "example": "Is the garden quiet? Yes, it is."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Statement and yes/no question",
+      "left": {
+        "label": "Statement",
+        "example": "Your jacket is dry.",
+        "note": "Is follows the subject your jacket."
+      },
+      "right": {
+        "label": "Question",
+        "example": "Is your jacket dry?",
+        "note": "Is comes before the whole subject."
+      }
+    },
+    {
+      "title": "Yes/no and information questions",
+      "left": {
+        "label": "Yes/no",
+        "example": "Are the cafés open?",
+        "note": "This question asks whether something is true."
+      },
+      "right": {
+        "label": "Information",
+        "example": "Why are the cafés open?",
+        "note": "Why asks for a reason before the same question structure."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Am I in the right room?",
+      "note": "Am comes before I in a question."
+    },
+    {
+      "sentence": "Is your little sister at home?",
+      "note": "Put is before the complete singular subject."
+    },
+    {
+      "sentence": "Where are your trainers?",
+      "note": "Where asks for a place; the plural subject takes are."
+    },
+    {
+      "sentence": "Who’s the person beside Alex?",
+      "note": "Who’s is short for who is."
+    },
+    {
+      "sentence": "Are the chairs comfortable? No, they aren’t.",
+      "note": "Use the pronoun they and the negative short answer aren’t."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Are she your neighbour?",
+      "correct": "Is she your neighbour?",
+      "why": "Use is, not are, with she."
+    },
+    {
+      "incorrect": "Is near the river your hotel?",
+      "correct": "Is your hotel near the river?",
+      "why": "Put the whole subject your hotel immediately after is."
+    },
+    {
+      "incorrect": "Where your sister is?",
+      "correct": "Where is your sister?",
+      "why": "In a direct information question, put is before the subject."
+    },
+    {
+      "incorrect": "Yes, she’s.",
+      "correct": "Yes, she is.",
+      "why": "A positive short answer ends with the full form is, not the contraction ’s."
+    }
+  ],
+  "studyTips": [
+    "Find am, is or are in a statement and move it in front of the subject to make a yes/no question.",
+    "For information questions, say the question word first, then am/is/are, then the complete subject.",
+    "Practise matching short answers to the question: Is he ...? → Yes, he is. / No, he isn’t."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "___ your brother at the bakery?",
+      "choices": [
+        "Is",
+        "Are",
+        "Am"
+      ],
+      "answerIndex": 0,
+      "feedback": "Your brother is singular, so the question starts with Is."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct direct question?",
+      "choices": [
+        "Where the cinema is?",
+        "Where is the cinema?",
+        "Where does the cinema is?"
+      ],
+      "answerIndex": 1,
+      "feedback": "Use Where + is + the cinema; do not use statement order or add does."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "___ these plates clean?",
+      "choices": [
+        "Is",
+        "Am",
+        "Are"
+      ],
+      "answerIndex": 2,
+      "feedback": "These plates is plural; start the question with Are."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "“Is Nora ready?” “Yes, ___.”",
+      "choices": [
+        "she is",
+        "she's",
+        "is she"
+      ],
+      "answerIndex": 0,
+      "feedback": "A positive short answer uses she is; do not finish it with the contraction she’s."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "___ I in the right queue? (Choose am, is or are.)",
+      "acceptedAnswers": [
+        "Am"
+      ],
+      "feedback": "A question with I starts with Am."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Where ___ your phone? (Choose am, is or are.)",
+      "acceptedAnswers": [
+        "is"
+      ],
+      "feedback": "Your phone is singular, so use is after where."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Why ___ the shops closed today? (Choose am, is or are.)",
+      "acceptedAnswers": [
+        "are"
+      ],
+      "feedback": "The shops is plural; the correct order is why + are + the shops."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the contraction of “who is”: ___ the person at the door?",
+      "acceptedAnswers": [
+        "Who's"
+      ],
+      "feedback": "Who’s is short for who is."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the question: Are your aunt from Peru?",
+      "acceptedAnswers": [
+        "Is your aunt from Peru?"
+      ],
+      "feedback": "Your aunt refers to one person, so use Is."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the question: Is at home your father?",
+      "acceptedAnswers": [
+        "Is your father at home?"
+      ],
+      "feedback": "The subject your father comes directly after Is."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the question: What your favourite snack is?",
+      "acceptedAnswers": [
+        "What is your favourite snack?",
+        "What's your favourite snack?"
+      ],
+      "feedback": "Use What + is + subject; What’s is a common contraction of What is."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct only the short answer: “Are the rooms ready?” — “Yes, they’re.”",
+      "acceptedAnswers": [
+        "Yes, they are."
+      ],
+      "feedback": "A positive short answer must end with are, not the contracted form ’re."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Ask a yes/no question using: the restaurant / open / now.",
+      "acceptedAnswers": [
+        "Is the restaurant open now?"
+      ],
+      "feedback": "Put Is before the whole subject the restaurant."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask a question beginning with Where using: your friends / from.",
+      "acceptedAnswers": [
+        "Where are your friends from?"
+      ],
+      "feedback": "Use Where + are + your friends + from."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Give a negative short answer to: Is your train late?",
+      "acceptedAnswers": [
+        "No, it isn't.",
+        "No, it is not.",
+        "No, it's not."
+      ],
+      "feedback": "The subject train becomes it; use is not, isn’t or ’s not."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "In a clothes shop, ask about a jacket's colour. Use 'what colour', 'is', and 'the jacket' in that order.",
+      "acceptedAnswers": [
+        "What colour is the jacket?"
+      ],
+      "feedback": "For an information question, use What colour + is + the jacket."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change 'This painting is expensive.' into a yes/no question. Keep all the same words.",
+      "acceptedAnswers": [
+        "Is this painting expensive?"
+      ],
+      "feedback": "Put is before the complete subject this painting to make a yes/no question."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your friend asks, 'Are the new towels clean?' You know they are clean. Give only a positive short answer.",
+      "acceptedAnswers": [
+        "Yes, they are."
+      ],
+      "feedback": "The plural towels becomes they. A positive short answer ends with the full form are."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this direct question by moving only the verb 'is': 'Where the nearest exit is?' Say the complete question.",
+      "acceptedAnswers": [
+        "Where is the nearest exit?"
+      ],
+      "feedback": "A direct information question has Where + is + the whole subject."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "At a ticket desk, ask the price of two cinema tickets. Begin with 'How much are' and include 'the two cinema tickets'.",
+      "acceptedAnswers": [
+        "How much are the two cinema tickets?"
+      ],
+      "feedback": "How much asks for a price. Use are before the plural subject the two cinema tickets."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Are the biscuits in the kitchen?",
+      "prompt": "What is the speaker asking about?",
+      "choices": [
+        "Whether the biscuits are fresh",
+        "Whether the biscuits are in the kitchen",
+        "Whether the kitchen is big"
+      ],
+      "answerIndex": 1,
+      "feedback": "The question begins with Are and asks about the location of the biscuits."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "How old is your cousin?",
+      "prompt": "What information does the speaker want?",
+      "choices": [
+        "The cousin’s address",
+        "The cousin’s name",
+        "The cousin’s age"
+      ],
+      "answerIndex": 2,
+      "feedback": "How old asks about age, with is before your cousin."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "No, I'm not.",
+      "prompt": "Type the two-word negative phrase after “No” in the audio.",
+      "acceptedAnswers": [
+        "I'm not"
+      ],
+      "feedback": "I’m not is a natural negative short answer with I."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Is this your umbrella, or is it your sister's?",
+      "prompt": "What does the speaker want to find out?",
+      "choices": [
+        "Whether it needs repairing",
+        "Where it was left",
+        "Who owns the umbrella"
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker offers two possible owners: you or your sister."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Are the tickets for the morning show? No, they're for the evening show.",
+      "prompt": "When can the ticket holders see the show?",
+      "choices": [
+        "Later in the day",
+        "Before lunchtime",
+        "At midday"
+      ],
+      "answerIndex": 0,
+      "feedback": "No rejects the morning show; they're for the evening show gives the correct time."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Where is the library, and is it open this evening?",
+      "prompt": "Which two things does the speaker need to know?",
+      "choices": [
+        "The cost of joining and the number of books",
+        "Its location and whether it is available later",
+        "The librarian's name and phone number"
+      ],
+      "answerIndex": 1,
+      "feedback": "Where is asks for the library's location; is it open asks for a yes/no answer about opening."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Why are the gates closed so early today?",
+      "prompt": "Type the first two words of the question.",
+      "acceptedAnswers": [
+        "Why are"
+      ],
+      "feedback": "Why asks for a reason, and are comes before the plural subject the gates."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Who's the visitor near the information desk?",
+      "prompt": "Type the opening contraction that asks about a person.",
+      "acceptedAnswers": [
+        "Who's"
+      ],
+      "feedback": "Who's is the short form of who is at the start of this question."
+    }
+  ]
+}

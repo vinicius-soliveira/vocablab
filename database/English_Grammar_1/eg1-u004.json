@@ -1,0 +1,408 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u004",
+  "title": "Present Continuous: Questions",
+  "level": "A1",
+  "topicId": "present-continuous-questions",
+  "summary": "Ask about actions in progress with am, is or are before the subject. Use question words and give accurate short yes/no answers.",
+  "learningObjectives": [
+    "Change a present continuous statement into a yes/no question by placing am, is or are before the subject.",
+    "Form present continuous questions with what, where, why and other question words.",
+    "Keep names and longer noun phrases together in the correct question word order.",
+    "Answer present continuous yes/no questions with appropriate positive or negative short answers."
+  ],
+  "explanation": [
+    {
+      "heading": "Ask yes/no questions",
+      "body": "To ask whether an action is happening, put am, is or are before the subject, then use the -ing form. The pattern is am/is/are + subject + verb-ing. Do not add do or does.",
+      "example": "Are the musicians practising upstairs?"
+    },
+    {
+      "heading": "Add a question word",
+      "body": "Put what, where, why, who or another question word before am, is or are. Keep the usual question order after it: question word + am/is/are + subject + verb-ing. You can ask about an action, its place or its reason.",
+      "example": "Why is Leo carrying two bags?"
+    },
+    {
+      "heading": "Keep the subject together",
+      "body": "A subject may be one word or a longer phrase. In a question, place the whole subject after am, is or are, and put the -ing verb after the subject. Do not split a name or noun phrase with the verb.",
+      "example": "Where are your two cousins staying?"
+    },
+    {
+      "heading": "Give positive short answers",
+      "body": "For yes answers, say Yes + subject pronoun + am/is/are: Yes, I am; Yes, he is; Yes, they are. Use the full final verb in these short positive answers, not an ending such as Yes, he’s.",
+      "example": "“Is Ruby working today?” “Yes, she is.”"
+    },
+    {
+      "heading": "Give negative short answers",
+      "body": "For no answers, use No + subject pronoun + am/is/are + not. Natural forms include No, I’m not; No, it isn’t; No, it’s not; No, we aren’t; and No, we’re not.",
+      "example": "“Are the shops closing?” “No, they aren’t.”"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Statement versus yes/no question",
+      "left": {
+        "label": "Statement",
+        "example": "Your cousin is studying.",
+        "note": "The subject comes before is."
+      },
+      "right": {
+        "label": "Question",
+        "example": "Is your cousin studying?",
+        "note": "Is moves before the whole subject."
+      }
+    },
+    {
+      "title": "Yes/no versus question-word question",
+      "left": {
+        "label": "Yes/no",
+        "example": "Are the guests leaving?",
+        "note": "The answer can begin with Yes or No."
+      },
+      "right": {
+        "label": "Question word",
+        "example": "When are the guests leaving?",
+        "note": "When asks for information about the time."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Am I speaking too quietly?",
+      "note": "In a question with I, am comes first."
+    },
+    {
+      "sentence": "Is the dog hiding behind the chair?",
+      "note": "Is comes before the whole singular subject the dog."
+    },
+    {
+      "sentence": "What are the workers fixing?",
+      "note": "What comes first, followed by are + subject + fixing."
+    },
+    {
+      "sentence": "“Are you enjoying the music?” “Yes, I am.”",
+      "note": "The positive short answer uses I am, not I’m."
+    },
+    {
+      "sentence": "“Is your brother coming?” “No, he’s not.”",
+      "note": "A negative short answer can use he’s not."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Are waiting you for Anna?",
+      "correct": "Are you waiting for Anna?",
+      "why": "Put the subject you before the -ing verb."
+    },
+    {
+      "incorrect": "Is they cooking dinner?",
+      "correct": "Are they cooking dinner?",
+      "why": "They takes are, not is."
+    },
+    {
+      "incorrect": "What you are drawing?",
+      "correct": "What are you drawing?",
+      "why": "After the question word, put are before you."
+    },
+    {
+      "incorrect": "Yes, she’s.",
+      "correct": "Yes, she is.",
+      "why": "Do not contract is at the end of a positive short answer."
+    }
+  ],
+  "studyTips": [
+    "Turn a statement into a question by moving only am, is or are to the front; leave the subject before the -ing verb.",
+    "For a question with where or why, say the question word first and then follow the same am/is/are + subject + -ing order.",
+    "Practise short pairs: “Is he working?” “Yes, he is.” / “No, he isn’t.”"
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "___ you listening to the guide right now?",
+      "choices": [
+        "Are",
+        "Is",
+        "Do"
+      ],
+      "answerIndex": 0,
+      "feedback": "With you, a present continuous question begins with Are."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which present continuous question has the correct word order?",
+      "choices": [
+        "Where they are going?",
+        "Where are they going?",
+        "Where are going they?"
+      ],
+      "answerIndex": 1,
+      "feedback": "Use Where + are + they + going."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "___ your brother watching the match?",
+      "choices": [
+        "Are",
+        "Do",
+        "Is"
+      ],
+      "answerIndex": 2,
+      "feedback": "Your brother is singular, so begin the question with Is."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "“Are your classmates coming now?” Choose the correct positive short answer.",
+      "choices": [
+        "Yes, they are.",
+        "Yes, they’re.",
+        "Yes, they do."
+      ],
+      "answerIndex": 0,
+      "feedback": "The positive short answer ends with are, not a contraction or do."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "___ your sister talking to the doctor?",
+      "acceptedAnswers": [
+        "Is"
+      ],
+      "feedback": "Your sister is singular, so put Is before the subject."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "What ___ the neighbours building next door?",
+      "acceptedAnswers": [
+        "are"
+      ],
+      "feedback": "Neighbours is plural, so the question needs are before the subject."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Where is Lily ___ now? (go)",
+      "acceptedAnswers": [
+        "going"
+      ],
+      "feedback": "After is + subject, use the -ing form going."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "“Is Noah making tea?” “No, he ___.”",
+      "acceptedAnswers": [
+        "isn’t",
+        "is not"
+      ],
+      "feedback": "A negative short answer with he uses is not or isn’t."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the question: Why you are carrying an umbrella?",
+      "acceptedAnswers": [
+        "Why are you carrying an umbrella?"
+      ],
+      "feedback": "Put are before the subject you."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the question: Are speaking your parents to the teacher?",
+      "acceptedAnswers": [
+        "Are your parents speaking to the teacher?"
+      ],
+      "feedback": "Place the complete subject your parents before speaking."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the question: Is the cats sleeping under the table?",
+      "acceptedAnswers": [
+        "Are the cats sleeping under the table?"
+      ],
+      "feedback": "Cats is plural, so the question must start with Are."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct only the short answer: “Is Adam coming?” “Yes, he’s.”",
+      "acceptedAnswers": [
+        "Yes, he is."
+      ],
+      "feedback": "In a positive short answer, say he is rather than he’s."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Ask a complete yes/no question using: your friends / wait / outside / now.",
+      "acceptedAnswers": [
+        "Are your friends waiting outside now?"
+      ],
+      "feedback": "Put Are before your friends, followed by waiting."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask a complete question beginning with What using: your mother / bake / now.",
+      "acceptedAnswers": [
+        "What is your mother baking now?",
+        "What’s your mother baking now?"
+      ],
+      "feedback": "Use What + is + your mother + baking; What’s can mean What is."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Give a negative short answer to: “Are the students having lunch now?”",
+      "acceptedAnswers": [
+        "No, they aren’t.",
+        "No, they are not.",
+        "No, they’re not."
+      ],
+      "feedback": "The students becomes they; negative short answers use are not, aren’t or ’re not."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "At a music lesson, you want to know whether Daniel is playing the piano right now. Ask one complete yes/no question starting with 'Is' and ending with 'right now'.",
+      "acceptedAnswers": [
+        "Is Daniel playing the piano right now?"
+      ],
+      "feedback": "A present continuous yes/no question uses Is + Daniel + playing."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Turn the statement 'The passengers are boarding the bus now.' into a yes/no question. Keep all the original words.",
+      "acceptedAnswers": [
+        "Are the passengers boarding the bus now?"
+      ],
+      "feedback": "Move are before the complete subject the passengers, and keep boarding after the subject."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A colleague asks, 'Is Emma talking to a customer now?' You know the answer is yes. Give only a positive short answer.",
+      "acceptedAnswers": [
+        "Yes, she is."
+      ],
+      "feedback": "Use she for Emma, and end a positive short answer with the full form is, not she's."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A learner asks, 'Why the waiter is carrying two plates?' Correct only the word order. Say the complete question without contractions.",
+      "acceptedAnswers": [
+        "Why is the waiter carrying two plates?"
+      ],
+      "feedback": "After Why, put is before the complete subject the waiter, followed by carrying."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You are calling about Felix. Ask two present continuous questions in this order: first, whether Felix is working today; second, where Felix is working today. Use full forms and include 'today' in both questions.",
+      "acceptedAnswers": [
+        "Is Felix working today? Where is Felix working today?"
+      ],
+      "feedback": "Use Is Felix working for the yes/no question and Where is Felix working for the information question."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Why are the children whispering?",
+      "prompt": "What does the speaker want to know?",
+      "choices": [
+        "Where the children are",
+        "Why the children are whispering",
+        "What the children are reading"
+      ],
+      "answerIndex": 1,
+      "feedback": "Why asks for a reason, and are the children whispering is question word order."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Is your sister travelling by train?",
+      "prompt": "Which form of transport is mentioned in the question?",
+      "choices": [
+        "A bus",
+        "A bicycle",
+        "A train"
+      ],
+      "answerIndex": 2,
+      "feedback": "The question asks about travelling by train."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "When is Oliver arriving?",
+      "prompt": "Type the first three words of the question you hear.",
+      "acceptedAnswers": [
+        "When is Oliver"
+      ],
+      "feedback": "The question starts with When + is + the subject Oliver."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Are you taking the early bus, or are you walking to work today?",
+      "prompt": "What does the speaker want to find out?",
+      "choices": [
+        "How the listener is getting to work",
+        "Whether the listener has finished work",
+        "What time work starts"
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker asks the listener to choose between travelling by bus and walking."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Is Malik driving the blue van to the airport tonight?",
+      "prompt": "What is the speaker checking?",
+      "choices": [
+        "Whether Malik knows where the airport is",
+        "Whether Malik is travelling in a particular vehicle",
+        "Whether Malik can repair a van"
+      ],
+      "answerIndex": 1,
+      "feedback": "The yes/no question asks if Malik is using the blue van for his journey to the airport."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Is Naomi playing her violin? No, she isn't. She's tuning it before the concert.",
+      "prompt": "What is Naomi doing?",
+      "choices": [
+        "Performing on stage",
+        "Packing away her instrument",
+        "Getting her instrument ready to play"
+      ],
+      "answerIndex": 2,
+      "feedback": "No, she isn't rejects the first suggestion. Tuning a violin means getting it ready to play."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Is Patrick bringing his guitar to the picnic?",
+      "prompt": "Type the auxiliary and the person's name at the start of the question.",
+      "acceptedAnswers": [
+        "Is Patrick"
+      ],
+      "feedback": "The question begins Is Patrick: is comes before the singular subject in a present continuous question."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Is Rosa leaving now? No, she isn't. She's waiting for her friend.",
+      "prompt": "Type the three-word negative short answer following the question.",
+      "acceptedAnswers": [
+        "No, she isn't"
+      ],
+      "feedback": "No, she isn't is a complete negative short answer to Is Rosa leaving now?"
+    }
+  ]
+}

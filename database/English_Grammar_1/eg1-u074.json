@@ -1,0 +1,399 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u074",
+  "title": "This, That, These and Those",
+  "level": "A1",
+  "topicId": "demonstratives-this-that-these-those",
+  "summary": "Choose demonstratives to identify one or more people or things near or farther away. Use this and that naturally when introducing people, talking on the phone or responding to news.",
+  "learningObjectives": [
+    "Select this, that, these or those using distance and singular or plural meaning.",
+    "Use demonstratives both before a noun and independently as pronouns.",
+    "Use that to refer to something said or done, and this is to introduce a person or identify yourself on the phone."
+  ],
+  "explanation": [
+    {
+      "heading": "Choose by distance and number",
+      "body": "Use this for one person or thing near you and these for more than one near you. Use that for one person or thing farther away and those for more than one farther away. The difference is about what the speaker treats as near or distant.",
+      "example": "This cup beside me is clean, but those cups on the far shelf are dusty."
+    },
+    {
+      "heading": "Before a noun or on their own",
+      "body": "The four words can come before a noun (this chair, those bags) or stand alone (This is heavy; Those are mine). Use singular is with this and that, and plural are with these and those.",
+      "example": "These are the keys I found beside the door."
+    },
+    {
+      "heading": "That for past events and what somebody says",
+      "body": "Use that to comment on a recent event or respond to what another person has just said. Common replies include That was fun, That is good news and I did not know that. Here that points back to an event or idea, not a distant object.",
+      "example": "“I passed the exam!” “That is fantastic!”"
+    },
+    {
+      "heading": "Phone calls and introductions",
+      "body": "When you introduce yourself on a phone call, a standard expression is This is plus your name. To ask about the other person, Is that plus a name? is common, especially in British English. We also say This is when introducing one person to another face to face.",
+      "example": "“Hello, this is Nina speaking.” “Hello, Nina!”"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Near and far",
+      "left": {
+        "label": "Near the speaker",
+        "example": "These biscuits here are fresh.",
+        "note": "These points to several nearby things."
+      },
+      "right": {
+        "label": "Farther away",
+        "example": "Those biscuits on the top shelf are fresh.",
+        "note": "Those points to several more distant things."
+      }
+    },
+    {
+      "title": "With a noun and without a noun",
+      "left": {
+        "label": "With a noun",
+        "example": "That jacket looks warm.",
+        "note": "That comes before the singular noun jacket."
+      },
+      "right": {
+        "label": "Without a noun",
+        "example": "That looks warm.",
+        "note": "That stands alone when the jacket is already clear."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "This notebook in my hand is for you.",
+      "note": "This refers to one thing near the speaker."
+    },
+    {
+      "sentence": "Those houses across the valley have red roofs.",
+      "note": "Those refers to several things far away."
+    },
+    {
+      "sentence": "Are these your gloves on the chair beside you?",
+      "note": "These appears before a plural noun for nearby objects."
+    },
+    {
+      "sentence": "“We won the match yesterday.” “That is great!”",
+      "note": "That refers to information just shared."
+    },
+    {
+      "sentence": "Ella, this is my colleague Dan.",
+      "note": "This is introduces another person."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "This shoes beside me are new.",
+      "correct": "These shoes beside me are new.",
+      "why": "Shoes is plural, so choose these for nearby objects."
+    },
+    {
+      "incorrect": "Those car across the street is red.",
+      "correct": "That car across the street is red.",
+      "why": "Car is singular, so choose that for one distant object."
+    },
+    {
+      "incorrect": "These is my favourite book.",
+      "correct": "This is my favourite book.",
+      "why": "This is singular; these is plural and takes are."
+    },
+    {
+      "incorrect": "Hello, Alex. That is Maya speaking.",
+      "correct": "Hello, Alex. This is Maya speaking.",
+      "why": "On the phone, speakers commonly identify themselves with This is."
+    }
+  ],
+  "studyTips": [
+    "Make a small two-by-two chart: near singular this, far singular that, near plural these, far plural those.",
+    "Practise both patterns: This photo is nice and This is a nice photo.",
+    "Memorise This is ... for introductions and That is ... for reacting to something someone has said."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "I am holding one notebook in my hand. ___ notebook is new.",
+      "choices": [
+        "This",
+        "These",
+        "Those"
+      ],
+      "answerIndex": 0,
+      "feedback": "This is singular and points to a nearby object."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Look at the two kites high above us, far away. ___ kites are colourful.",
+      "choices": [
+        "That",
+        "Those",
+        "This"
+      ],
+      "answerIndex": 1,
+      "feedback": "Those points to several distant things."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "You are pointing to one bicycle across the road. ___ bicycle belongs to Sam.",
+      "choices": [
+        "These",
+        "This",
+        "That"
+      ],
+      "answerIndex": 2,
+      "feedback": "That refers to a single object farther away."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "At the start of a phone call, introduce yourself: “Hello, ___ is Mina.”",
+      "choices": [
+        "this",
+        "that",
+        "these"
+      ],
+      "answerIndex": 0,
+      "feedback": "The standard phone introduction uses This is followed by your name."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "I am holding two tickets in my hand. ___ tickets are for tonight.",
+      "acceptedAnswers": [
+        "These"
+      ],
+      "feedback": "These is plural and refers to things near the speaker."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Your friend says, “I finally got the job!” Complete your reply with the contracted form of that is: “___ wonderful!”",
+      "acceptedAnswers": [
+        "That's"
+      ],
+      "feedback": "That refers to news just shared, and That’s is the contracted form of That is."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We are looking at one house on the other side of the lake. ___ house looks beautiful.",
+      "acceptedAnswers": [
+        "That"
+      ],
+      "feedback": "That is singular and refers to something farther away."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Please look at ___ pictures on my phone, right here beside you.",
+      "acceptedAnswers": [
+        "these"
+      ],
+      "feedback": "These goes before a plural noun for things nearby."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: This books on my desk are for you.",
+      "acceptedAnswers": [
+        "These books on my desk are for you."
+      ],
+      "feedback": "The plural noun books needs these, not this."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Those car over there is blue.",
+      "acceptedAnswers": [
+        "That car over there is blue."
+      ],
+      "feedback": "One distant car takes the singular demonstrative that."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Look! That birds on the roof are singing.",
+      "acceptedAnswers": [
+        "Look! Those birds on the roof are singing."
+      ],
+      "feedback": "Birds is plural, so use those for several distant birds."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence spoken on the phone: Hello, Sam. That is Priya speaking.",
+      "acceptedAnswers": [
+        "Hello, Sam. This is Priya speaking."
+      ],
+      "feedback": "A speaker identifies themselves on a call with This is."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "You are holding one green scarf. Say the complete sentence: “___ scarf is green.” Use the word for one nearby thing.",
+      "acceptedAnswers": [
+        "This scarf is green."
+      ],
+      "feedback": "This refers to one item near the speaker."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Two cars are far away. Say the complete sentence: “___ cars are far away.”",
+      "acceptedAnswers": [
+        "Those cars are far away."
+      ],
+      "feedback": "Those refers to more than one distant object."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Introduce Alex to Noor. Say the whole sentence: “Noor, ___ Alex.”",
+      "acceptedAnswers": [
+        "Noor, this is Alex."
+      ],
+      "feedback": "This is is the natural pattern for introductions."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You are holding two heavy bags. Say one sentence about them, using a demonstrative on its own without a noun. Begin with the demonstrative and end with 'are heavy'.",
+      "acceptedAnswers": [
+        "These are heavy."
+      ],
+      "feedback": "These refers to two or more nearby things and takes the plural verb are."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this sentence to plural. The pencils are still far away: 'That pencil is broken.' Say the complete plural sentence.",
+      "acceptedAnswers": [
+        "Those pencils are broken."
+      ],
+      "feedback": "That changes to those for distant plural things, and is changes to are."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You are calling Leo. Ask if Leo has answered, using a single question that begins 'Is that'.",
+      "acceptedAnswers": [
+        "Is that Leo?"
+      ],
+      "feedback": "Is that ...? is a natural way to check who is on the phone, especially in British English."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Your friend says, 'I passed my driving test!' Respond in one short sentence using that and the adjective wonderful.",
+      "acceptedAnswers": [
+        "That's wonderful.",
+        "That is wonderful."
+      ],
+      "feedback": "That refers to the news your friend has just shared; That is and That's both work."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "One chair beside you is brown. Two chairs across the room are blue. Say one sentence starting 'This chair' and continuing with 'but those chairs'. Include both colours.",
+      "acceptedAnswers": [
+        "This chair is brown, but those chairs are blue."
+      ],
+      "feedback": "This chair refers to one nearby chair, while those chairs refers to two distant chairs."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "These boxes beside me are ready to go.",
+      "prompt": "Where are the boxes?",
+      "choices": [
+        "Across the street",
+        "Beside the speaker",
+        "In another room"
+      ],
+      "answerIndex": 1,
+      "feedback": "These and beside me place the boxes near the speaker."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "That was a brilliant concert last night.",
+      "prompt": "What is the speaker talking about?",
+      "choices": [
+        "A concert tomorrow",
+        "Someone being introduced",
+        "A concert that has already happened"
+      ],
+      "answerIndex": 2,
+      "feedback": "That refers back to a concert that happened last night."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Hello, this is Eva speaking.",
+      "prompt": "Type the two-word expression the speaker uses to identify themselves on the phone.",
+      "acceptedAnswers": [
+        "this is"
+      ],
+      "feedback": "This is introduces the speaker on a telephone call."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "These plates beside me are clean, but those on the windowsill still need washing.",
+      "prompt": "Which plates need to be washed?",
+      "choices": [
+        "The ones close to the speaker.",
+        "All of them.",
+        "The ones near the window."
+      ],
+      "answerIndex": 2,
+      "feedback": "Those refers to the plates on the windowsill, which still need washing."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Hello, this is Oliver. Is that Priya? I'm calling about tomorrow's meeting.",
+      "prompt": "What is Oliver trying to find out?",
+      "choices": [
+        "Whether he is speaking to Priya.",
+        "Whether the meeting happened yesterday.",
+        "Whether someone is beside him."
+      ],
+      "answerIndex": 0,
+      "feedback": "Is that Priya? checks the other person's identity on the phone."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Mia said she got the job. That's fantastic news, and I want to congratulate her.",
+      "prompt": "What does the speaker's reaction refer to?",
+      "choices": [
+        "A person standing far away.",
+        "A phone call to a stranger.",
+        "Information Mia has just shared."
+      ],
+      "answerIndex": 2,
+      "feedback": "That refers to Mia's news about getting a job, not a distant object."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "This jacket here is mine, but that coat by the window is yours.",
+      "prompt": "Type the two-word phrase that identifies the distant item of clothing.",
+      "acceptedAnswers": [
+        "that coat"
+      ],
+      "feedback": "That coat identifies one item farther away from the speaker."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Those paintings over there are new, and these are from last year.",
+      "prompt": "Type the demonstrative word you hear immediately before 'are from last year'.",
+      "acceptedAnswers": [
+        "these"
+      ],
+      "feedback": "These can stand alone for nearby plural items without repeating the noun paintings."
+    }
+  ]
+}

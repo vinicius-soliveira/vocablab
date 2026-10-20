@@ -1,0 +1,409 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u020",
+  "title": "Present Perfect or Past Simple: Time Matters",
+  "level": "A2",
+  "topicId": "present-perfect-vs-past-simple",
+  "summary": "Choose the past simple for finished times and the present perfect for experiences or situations that reach the present. Ask about the exact past time with the past simple.",
+  "learningObjectives": [
+    "Use the past simple with finished-time expressions such as yesterday and last weekend.",
+    "Use the present perfect for past experiences without a specified finished time and for current results.",
+    "Form When and What time questions about finished events in the past simple.",
+    "Distinguish a continuing period from a period that ended in the past."
+  ],
+  "explanation": [
+    {
+      "heading": "Finished time: past simple",
+      "body": "Use the past simple with an event at a finished time, such as yesterday, on Tuesday, last year or two days ago. Do not use the present perfect with these explicit finished-time expressions.",
+      "example": "We watched a documentary on Saturday night."
+    },
+    {
+      "heading": "Time up to now: present perfect",
+      "body": "Use have or has plus the past participle to describe experiences up to now, or past actions whose result matters now, without placing the action at a finished time. Ever and yet often appear in this use.",
+      "example": "Have you ever ridden a horse?"
+    },
+    {
+      "heading": "Ask when with the past simple",
+      "body": "Use When did ...? or What time did ...? to ask for a particular completed past time. After did, use the base form of the main verb, not its past participle.",
+      "example": "What time did the match finish?"
+    },
+    {
+      "heading": "Current result versus past detail",
+      "body": "A present perfect sentence can introduce a recent development or a present result. When you add a finished past time, switch to the past simple. A conversation may naturally use both forms.",
+      "example": "I have found my headphones. They were under the sofa yesterday."
+    },
+    {
+      "heading": "Still true or already finished",
+      "body": "Present perfect with for or since can describe how long a situation has continued until now. The past simple describes how long a situation lasted when it is over. Make the timeline clear in your choice.",
+      "example": "Nora has worked here for a year, but her brother worked here for a year and then moved away."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Experience up to now versus a finished visit",
+      "left": {
+        "label": "present perfect",
+        "example": "Have you ever tried kayaking?",
+        "note": "The question covers experiences at any time up to now."
+      },
+      "right": {
+        "label": "past simple",
+        "example": "Did you try kayaking on your holiday last month?",
+        "note": "The question is about a particular completed time."
+      }
+    },
+    {
+      "title": "Situation continuing versus situation ended",
+      "left": {
+        "label": "still true now",
+        "example": "Farah has lived in Leeds for four years.",
+        "note": "She lives in Leeds now."
+      },
+      "right": {
+        "label": "finished in the past",
+        "example": "Farah lived in York for four years.",
+        "note": "She no longer lives in York."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I bought my new coat last Friday.",
+      "note": "Last Friday is a finished time, so use the past simple."
+    },
+    {
+      "sentence": "My uncle has travelled to several countries.",
+      "note": "The sentence describes his experience up to now without specifying when."
+    },
+    {
+      "sentence": "When did you first meet your neighbour?",
+      "note": "A When question about a particular past event uses did plus the base verb."
+    },
+    {
+      "sentence": "The parcel has arrived, so we can open it now.",
+      "note": "The completed arrival matters because of its result now."
+    },
+    {
+      "sentence": "My parents lived near the coast for ten years, but they moved inland in 2021.",
+      "note": "A completed period uses the past simple, even though it lasted many years."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I have visited my cousins yesterday.",
+      "correct": "I visited my cousins yesterday.",
+      "why": "Yesterday is a finished time, so the verb must be past simple."
+    },
+    {
+      "incorrect": "When have you sent the message?",
+      "correct": "When did you send the message?",
+      "why": "To ask about the specific past time, use did plus the base form send."
+    },
+    {
+      "incorrect": "I live here since 2022.",
+      "correct": "I have lived here since 2022.",
+      "why": "A situation beginning in the past and still true now uses the present perfect."
+    },
+    {
+      "incorrect": "Have you ever went camping?",
+      "correct": "Have you ever gone camping?",
+      "why": "The present perfect uses have plus the past participle gone, not the past form went."
+    }
+  ],
+  "studyTips": [
+    "Look for an explicit finished-time expression: yesterday, last month and ago usually require the past simple.",
+    "Use the question “When exactly?” to recognise when the past simple is needed.",
+    "Ask whether a situation still continues: if it does, the present perfect with for or since is often appropriate."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "I ___ my jacket on the bus yesterday.",
+      "choices": [
+        "left",
+        "have left",
+        "leave"
+      ],
+      "answerIndex": 0,
+      "feedback": "Yesterday is a finished time, so use the past simple left."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "I ___ in this neighbourhood since 2022, and I still live here.",
+      "choices": [
+        "lived",
+        "have lived",
+        "was living"
+      ],
+      "answerIndex": 1,
+      "feedback": "Since 2022 together with still live describes a situation continuing up to now."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "What time ___ the last bus last night?",
+      "choices": [
+        "has it left",
+        "it has left",
+        "did it leave"
+      ],
+      "answerIndex": 2,
+      "feedback": "Last night is a finished time. Ask What time did it leave? using the base verb."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "___ before noon yesterday?",
+      "choices": [
+        "Did your train arrive",
+        "Has your train arrived",
+        "Does your train arrived"
+      ],
+      "answerIndex": 0,
+      "feedback": "Yesterday requires a past-simple question with did and the base form arrive."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with the past simple of buy: “We ___ this sofa last Saturday.”",
+      "acceptedAnswers": [
+        "bought"
+      ],
+      "feedback": "Last Saturday specifies a finished past time, so use bought."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with the present perfect of visit, including the auxiliary: “I ___ that museum several times in my life.”",
+      "acceptedAnswers": [
+        "have visited"
+      ],
+      "feedback": "The sentence summarises experiences up to now without a specific finished time."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete the past-simple question with did and the correct verb: “When ___ your new colleague?”",
+      "acceptedAnswers": [
+        "did you meet"
+      ],
+      "feedback": "When asks about a finished past event; did takes the base form meet."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the negative present perfect of finish: “Lara ___ her dinner yet.”",
+      "acceptedAnswers": [
+        "hasn't finished",
+        "has not finished"
+      ],
+      "feedback": "Yet focuses on what has not happened up to now, so use has not finished."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We have watched a film last Friday.",
+      "acceptedAnswers": [
+        "We watched a film last Friday."
+      ],
+      "feedback": "Last Friday is a finished time; change have watched to watched."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Did you ever been to Wales?",
+      "acceptedAnswers": [
+        "Have you ever been to Wales?"
+      ],
+      "feedback": "An experience up to now uses have you ever been, not did you ever been."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Have you bought your laptop yesterday?",
+      "acceptedAnswers": [
+        "Did you buy your laptop yesterday?"
+      ],
+      "feedback": "A question about yesterday uses Did you buy, not Have you bought."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Max has lived in Rome for two years, but he moved to Dublin last month.",
+      "acceptedAnswers": [
+        "Max lived in Rome for two years, but he moved to Dublin last month."
+      ],
+      "feedback": "His time in Rome has ended; use the past simple lived for that completed period."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Leo lost his phone yesterday. Report this finished past event in one sentence.",
+      "acceptedAnswers": [
+        "Leo lost his phone yesterday."
+      ],
+      "feedback": "Yesterday marks a finished time, so use the past simple lost."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Mina started working here in 2023 and still works here. Say one sentence using the present perfect and since.",
+      "acceptedAnswers": [
+        "Mina has worked here since 2023.",
+        "Mina's worked here since 2023."
+      ],
+      "feedback": "Has worked describes a situation continuing to now; since marks the starting year."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Ask a friend about the experience of trying skiing at any time in their life. Use ever and the present perfect.",
+      "acceptedAnswers": [
+        "Have you ever tried skiing?"
+      ],
+      "feedback": "Have you ever tried asks about experience up to the present, with no finished time."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The train is at the station now. Report this new result in one sentence beginning “The train”, using the present perfect of arrive.",
+      "acceptedAnswers": [
+        "The train has arrived.",
+        "The train's arrived."
+      ],
+      "feedback": "Has arrived reports a completed action with a present result: the train is here now."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change “Dina has painted the door” into a sentence saying the action happened last Friday. Use the past simple and keep the same subject and object.",
+      "acceptedAnswers": [
+        "Dina painted the door last Friday."
+      ],
+      "feedback": "Last Friday is a finished time, so use the past simple painted."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks, “When did Nora leave?” Nora left at seven last night. Answer in one sentence beginning “Nora left” and give the time.",
+      "acceptedAnswers": [
+        "Nora left at seven last night.",
+        "Nora left at 7 last night."
+      ],
+      "feedback": "Use left, the past simple of leave, for a specific completed time last night."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "You want to know the exact date when a new bridge opened. Correct this question: “When have they opened the new bridge?” Say the entire question with did.",
+      "acceptedAnswers": [
+        "When did they open the new bridge?"
+      ],
+      "feedback": "For a specific past time, ask When did ...? and use the base form open after did."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "A package is at your house now; it came yesterday morning. Say exactly two sentences beginning “The package” and “It”. First report its arrival using the present perfect. Then say when it came using the past simple.",
+      "acceptedAnswers": [
+        "The package has arrived. It came yesterday morning.",
+        "The package's arrived. It came yesterday morning."
+      ],
+      "feedback": "Has arrived announces a result now; came yesterday morning gives the finished past-time detail."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I haven't read that book yet.",
+      "prompt": "What does the speaker mean?",
+      "choices": [
+        "The speaker finished the book last week.",
+        "The speaker has not read it up to now.",
+        "The speaker read it yesterday."
+      ],
+      "answerIndex": 1,
+      "feedback": "Haven't read ... yet describes something that has not happened up to now."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We visited the aquarium on Tuesday afternoon.",
+      "prompt": "When did the visit take place?",
+      "choices": [
+        "At an unspecified time in the speaker’s life.",
+        "At some point in the future.",
+        "On a particular afternoon in the past."
+      ],
+      "answerIndex": 2,
+      "feedback": "On Tuesday afternoon identifies a completed past time, so the speaker uses visited."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I haven't sent the invitations yet.",
+      "prompt": "Type only the final word you hear.",
+      "acceptedAnswers": [
+        "yet"
+      ],
+      "feedback": "Yet in a negative present perfect sentence means the action has not happened up to now."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The neighbours have finally fixed the lift, so everyone can use it again.",
+      "prompt": "What has changed for people in the building?",
+      "choices": [
+        "They must wait for the repair to begin.",
+        "They can travel between floors in a working lift.",
+        "The lift has broken down for the first time."
+      ],
+      "answerIndex": 1,
+      "feedback": "Have fixed signals a completed repair with a result now: the lift can be used again."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I have seen that play twice, but I first saw it in May.",
+      "prompt": "What happened during the month mentioned?",
+      "choices": [
+        "The speaker saw the play for the first time.",
+        "The speaker decided never to watch the play.",
+        "The speaker bought tickets for a future show."
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker has seen the play twice in total; the first visit took place in May."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Kim worked at the station for two years before leaving last month. She has lived in this town for ten years.",
+      "prompt": "Which situation is still true now?",
+      "choices": [
+        "Kim still works at the station.",
+        "Kim left the town last month.",
+        "Kim continues to live in the town."
+      ],
+      "answerIndex": 2,
+      "feedback": "Worked ... before leaving describes an ended job, but has lived ... for ten years describes a continuing home."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "She's found the missing receipt, so we can leave now.",
+      "prompt": "Type only the contracted first word you hear, including its apostrophe.",
+      "acceptedAnswers": [
+        "She's"
+      ],
+      "feedback": "She’s means she has here, followed by the past participle found; it is present perfect."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We picked up the chairs after lunch yesterday.",
+      "prompt": "Type only the two-word past-simple verb phrase immediately after the subject.",
+      "acceptedAnswers": [
+        "picked up"
+      ],
+      "feedback": "Picked up is the past-simple verb phrase, appropriate with yesterday."
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u104",
+  "title": "Time Periods: From, Until, Since and For",
+  "level": "A2",
+  "topicId": "time-periods-from-until-since-for",
+  "summary": "Describe the beginning, end and length of a time period. Distinguish a starting point that continues to the present from the amount of time something lasts.",
+  "learningObjectives": [
+    "Use from ... to or from ... until to show the start and end of a period.",
+    "Use until or till for the point when a continuing activity or situation ends.",
+    "Use since with a starting point in the past when a situation continues to the present.",
+    "Use for with a length of time, and distinguish it from since."
+  ],
+  "explanation": [
+    {
+      "heading": "From ... to: a starting point and an ending point",
+      "body": "Use from ... to to show both limits of a period. From ... until is also possible. The limits can be days, dates or clock times.",
+      "example": "The gallery is open from Wednesday to Sunday."
+    },
+    {
+      "heading": "Until or till: an ending point",
+      "body": "Until tells us how long a situation continues by giving its endpoint. Till means the same thing and is common in informal English. If a future event follows until, use the present form: until the bus arrives.",
+      "example": "Please stay indoors until the storm passes."
+    },
+    {
+      "heading": "Since: a point in the past up to now",
+      "body": "Use since before the time or event when a situation began and still continues now. It commonly occurs with the present perfect: have or has plus a past participle.",
+      "example": "My aunt has lived in this town since 2016."
+    },
+    {
+      "heading": "For: how much time",
+      "body": "Use for before a duration such as two hours, five months or a long time. It works with past situations, future plans and situations that continue to the present.",
+      "example": "We stayed at the campsite for three nights."
+    },
+    {
+      "heading": "Ending time versus return time",
+      "body": "Until describes the endpoint of an ongoing situation. On specifies the day of an event, such as returning. A return on Sunday is different from remaining away until Sunday.",
+      "example": "I will be away until Sunday, and I will return on Sunday."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Starting point or length of time",
+      "left": {
+        "label": "Starting point",
+        "example": "I have known Sam since April.",
+        "note": "Since introduces when the relationship began."
+      },
+      "right": {
+        "label": "Duration",
+        "example": "I have known Sam for six months.",
+        "note": "For introduces how long the relationship has lasted."
+      }
+    },
+    {
+      "title": "Continuing until a day or acting on that day",
+      "left": {
+        "label": "End of a period",
+        "example": "The office is closed until Monday.",
+        "note": "The closure continues up to Monday."
+      },
+      "right": {
+        "label": "A scheduled day",
+        "example": "The office reopens on Monday.",
+        "note": "On identifies the day when reopening happens."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The morning market runs from six to eleven.",
+      "note": "From ... to gives the starting and ending clock times."
+    },
+    {
+      "sentence": "We played board games until midnight.",
+      "note": "Until marks when the activity ended."
+    },
+    {
+      "sentence": "I've owned this guitar since my eighteenth birthday.",
+      "note": "Since marks a past starting event that connects to now."
+    },
+    {
+      "sentence": "Our neighbours have lived here for four years.",
+      "note": "For gives the length of a period continuing up to now."
+    },
+    {
+      "sentence": "I am going to visit my brother for a week.",
+      "note": "For also describes the planned length of a future visit."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "He has worked at the shop for 2023.",
+      "correct": "He has worked at the shop since 2023.",
+      "why": "A year naming a starting point takes since."
+    },
+    {
+      "incorrect": "I have studied Spanish since five months.",
+      "correct": "I have studied Spanish for five months.",
+      "why": "An amount of time takes for, not since."
+    },
+    {
+      "incorrect": "The post office is open since Monday to Friday.",
+      "correct": "The post office is open from Monday to Friday.",
+      "why": "Use from ... to for a period with two endpoints."
+    },
+    {
+      "incorrect": "The children played outside until two hours.",
+      "correct": "The children played outside for two hours.",
+      "why": "Two hours is a duration; use for."
+    }
+  ],
+  "studyTips": [
+    "Ask “When did it begin?” for since, and “How long?” for for.",
+    "Look for two endpoints: use from with to or until when you name both.",
+    "If something continues to a closing time, use until; if it happens on a named day, use on."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the preposition: The art club meets ___ 6 pm to 7 pm on Thursdays.",
+      "choices": [
+        "since",
+        "for",
+        "from"
+      ],
+      "answerIndex": 2,
+      "feedback": "From combines with to to introduce a period with two endpoints."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the preposition: The library will stay open ___ 9 pm today.",
+      "choices": [
+        "since",
+        "until",
+        "for"
+      ],
+      "answerIndex": 1,
+      "feedback": "Until marks the ending time of a continuing situation."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the preposition: Nina has worked here ___ 2021.",
+      "choices": [
+        "since",
+        "for",
+        "until"
+      ],
+      "answerIndex": 0,
+      "feedback": "Since introduces the starting year of a situation continuing now."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the preposition: We stayed by the sea ___ four nights last summer.",
+      "choices": [
+        "since",
+        "for",
+        "until"
+      ],
+      "answerIndex": 1,
+      "feedback": "Four nights is a length of time, so use for."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with from, to, until, since or for: The service runs ___ Monday to Friday.",
+      "acceptedAnswers": [
+        "from"
+      ],
+      "feedback": "From pairs with to to show the beginning of a named range."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with from, to, until, since or for (till is also possible): Please wait here ___ the doctor calls your name.",
+      "acceptedAnswers": [
+        "until",
+        "till"
+      ],
+      "feedback": "Until or till introduces the event that ends the waiting."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with from, to, until, since or for: I have known Aisha ___ she joined our class.",
+      "acceptedAnswers": [
+        "since"
+      ],
+      "feedback": "Since introduces a past event that began the period continuing up to now."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with from, to, until, since or for: The students practised ___ forty minutes.",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "A duration such as forty minutes needs for."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I have lived here for 2020.",
+      "acceptedAnswers": [
+        "I have lived here since 2020."
+      ],
+      "feedback": "Since marks the starting year; for would need a length of time."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We have waited since two hours.",
+      "acceptedAnswers": [
+        "We have waited for two hours."
+      ],
+      "feedback": "Two hours is a duration, so use for."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The office is open since nine to five.",
+      "acceptedAnswers": [
+        "The office is open from nine to five."
+      ],
+      "feedback": "From begins a time range that ends with to."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We stayed at the café until two hours.",
+      "acceptedAnswers": [
+        "We stayed at the café for two hours."
+      ],
+      "feedback": "Use for with a duration such as two hours."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say this complete sentence using from and to: 'The art course runs ___ Monday ___ Thursday.'",
+      "acceptedAnswers": [
+        "The art course runs from Monday to Thursday."
+      ],
+      "feedback": "From ... to marks the two endpoints of the course schedule."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say this full sentence with the correct preposition: 'Elena has worked here ___ 2021.'",
+      "acceptedAnswers": [
+        "Elena has worked here since 2021."
+      ],
+      "feedback": "Since connects a starting year with a situation continuing now."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say this full sentence with the correct preposition: 'We stayed in the mountains ___ three days.'",
+      "acceptedAnswers": [
+        "We stayed in the mountains for three days."
+      ],
+      "feedback": "For introduces a duration, not a starting point."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The ticket office opens at eight and closes at noon. Tell a visitor the opening hours in one sentence, beginning 'The ticket office is open ...' and using from ... to.",
+      "acceptedAnswers": [
+        "The ticket office is open from eight to noon."
+      ],
+      "feedback": "From ... to connects the opening time and closing time."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Correct only the verb form after until and say the whole sentence: 'We will wait until the rain will stop.'",
+      "acceptedAnswers": [
+        "We will wait until the rain stops."
+      ],
+      "feedback": "After until, use the present simple stops for a future event, not will stop."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You are at a park and will leave when the rain starts. Tell your friend in one sentence beginning 'I'll stay here ...' and use until.",
+      "acceptedAnswers": [
+        "I'll stay here until the rain starts.",
+        "I will stay here until the rain starts."
+      ],
+      "feedback": "Until the rain starts marks the event that ends your stay."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say these two sentences in order, adding since or for as needed: 'Leo has been here ___ May. Leo has been here ___ five months.'",
+      "acceptedAnswers": [
+        "Leo has been here since May. Leo has been here for five months."
+      ],
+      "feedback": "Since introduces a starting point (May); for introduces a duration (five months)."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You cannot join a call at five because you are working until six. Tell a colleague in one sentence beginning 'I can't join the call at five ...' and explain why.",
+      "acceptedAnswers": [
+        "I can't join the call at five because I'm working until six.",
+        "I can't join the call at five because I am working until six.",
+        "I cannot join the call at five because I'm working until six.",
+        "I cannot join the call at five because I am working until six."
+      ],
+      "feedback": "Until six gives the time when your work ends, explaining why you cannot join at five."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The kitchen is closed until Sunday.",
+      "prompt": "Which word tells you when the closure ends?",
+      "choices": [
+        "since",
+        "for",
+        "until"
+      ],
+      "answerIndex": 2,
+      "feedback": "Until gives the end of the closure."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "My grandparents have lived in the same house for thirty years.",
+      "prompt": "Which preposition introduces the length of time?",
+      "choices": [
+        "for",
+        "since",
+        "until"
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker uses for before thirty years, a duration."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The market is open from Tuesday to Saturday.",
+      "prompt": "Type the word you hear between the starting weekday and the ending weekday.",
+      "acceptedAnswers": [
+        "to"
+      ],
+      "feedback": "To marks the end of the range introduced by from."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The small café will stay open until seven this evening, so we can get a late coffee.",
+      "prompt": "What will happen at seven?",
+      "choices": [
+        "The café will open",
+        "The café will close",
+        "The café will start serving breakfast"
+      ],
+      "answerIndex": 1,
+      "feedback": "Staying open until seven means the café closes at seven."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "My uncle has lived in this town since his university days, and he still lives here.",
+      "prompt": "What does the speaker say about the uncle?",
+      "choices": [
+        "He moved to the town last week",
+        "He plans to move away for university",
+        "He has lived there since he was a student"
+      ],
+      "answerIndex": 2,
+      "feedback": "Since his university days gives the starting period of a situation continuing now."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We visited the mountains for three days last year, but this year we're staying until Sunday.",
+      "prompt": "What does Sunday tell us about this year's visit?",
+      "choices": [
+        "When the visit ends",
+        "How many days the visit lasts",
+        "When last year's visit began"
+      ],
+      "answerIndex": 0,
+      "feedback": "Until Sunday identifies the endpoint this year, while for three days describes last year's duration."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "My neighbour has worked at the hospital since the beginning of April.",
+      "prompt": "Type the single preposition introducing the time when the job began.",
+      "acceptedAnswers": [
+        "since"
+      ],
+      "feedback": "Since marks the starting point of work that continues to the present."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "They borrowed the camping equipment for two weeks in the summer.",
+      "prompt": "Type the single preposition introducing how long they borrowed the equipment.",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "For introduces the duration of the loan: two weeks."
+    }
+  ]
+}

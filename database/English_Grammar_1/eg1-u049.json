@@ -1,0 +1,414 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u049",
+  "title": "Indirect Questions: Word Order and If/Whether",
+  "level": "A2",
+  "topicId": "indirect-questions-statement-order",
+  "summary": "Ask for information politely and say what you know or do not know using clauses with question words. Use statement word order inside the clause, and use if or whether for yes-or-no information.",
+  "learningObjectives": [
+    "Change direct questions with where, what, when, why and how into clauses with subject-before-verb order.",
+    "Remove do, does and did when forming indirect clauses about simple present and past events.",
+    "Introduce an indirect yes-or-no question with if or whether.",
+    "Use indirect clauses after expressions such as Do you know, Can you tell me and I do not remember."
+  ],
+  "explanation": [
+    {
+      "heading": "Keep statement order inside the question",
+      "body": "A direct question often puts the verb before the subject: Where is the station? After Do you know or Can you tell me, put the subject before the verb: where the station is. The whole sentence can be a question, but the clause inside it follows statement order.",
+      "example": "Could you tell me where the bicycle shop is?"
+    },
+    {
+      "heading": "Move question words into an indirect clause",
+      "body": "Use question words such as who, what, where, when, why and how to introduce the information you want. The same structure works after I know, I do not know and I cannot remember. Keep the auxiliary inside the clause when it belongs to the tense or verb phrase, as in where they have gone or when she will arrive.",
+      "example": "I cannot remember when the concert starts."
+    },
+    {
+      "heading": "Drop do, does and did in the inner clause",
+      "body": "In a direct present-simple or past-simple question, do, does or did helps form the question. Remove this question auxiliary in an indirect clause and put the main verb in the right form. Where does he work? becomes where he works; Why did they stop? becomes why they stopped.",
+      "example": "Do you know why the shop closed early?"
+    },
+    {
+      "heading": "Use if or whether for yes-or-no questions",
+      "body": "When the original question has a yes-or-no answer, use if or whether instead of a question word. Change Are the windows open? to Do you know if the windows are open? Do not use the direct-question order after if or whether.",
+      "example": "I do not know whether the library has a lift."
+    },
+    {
+      "heading": "Choose punctuation for the whole sentence",
+      "body": "End a request such as Could you tell me ...? with a question mark. End a statement such as I do not know ... with a full stop. The clause itself is not a separate question, so do not insert a second question mark inside the sentence.",
+      "example": "I am not sure how much the tickets cost."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Direct question and indirect question",
+      "left": {
+        "label": "Direct question",
+        "example": "Where is the swimming pool?",
+        "note": "The verb is comes before the subject."
+      },
+      "right": {
+        "label": "Indirect question",
+        "example": "Can you tell me where the swimming pool is?",
+        "note": "The subject comes before is inside the clause."
+      }
+    },
+    {
+      "title": "Question word or if/whether",
+      "left": {
+        "label": "Information question",
+        "example": "Do you know when the bus leaves?",
+        "note": "When asks for a time."
+      },
+      "right": {
+        "label": "Yes-or-no question",
+        "example": "Do you know if the bus has left?",
+        "note": "If introduces a yes-or-no possibility."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I do not know what Leo wants for breakfast.",
+      "note": "What Leo wants has statement word order and present-simple -s."
+    },
+    {
+      "sentence": "Could you tell me how far the park is from here?",
+      "note": "An indirect question can ask politely for a distance."
+    },
+    {
+      "sentence": "I cannot remember where I left my umbrella.",
+      "note": "A past-simple indirect clause does not use did."
+    },
+    {
+      "sentence": "Do you know whether the meeting is online?",
+      "note": "Whether introduces a yes-or-no question."
+    },
+    {
+      "sentence": "She knows where her friends have gone.",
+      "note": "The present-perfect auxiliary have stays after the subject."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Can you tell me where is the bakery?",
+      "correct": "Can you tell me where the bakery is?",
+      "why": "The inner clause uses subject + verb, not question inversion."
+    },
+    {
+      "incorrect": "I do not know what does Ben need.",
+      "correct": "I do not know what Ben needs.",
+      "why": "Remove question auxiliary does and use needs with Ben."
+    },
+    {
+      "incorrect": "Do you know if is the pool open?",
+      "correct": "Do you know if the pool is open?",
+      "why": "Place the subject before is after if."
+    },
+    {
+      "incorrect": "I cannot remember why did Carla leave.",
+      "correct": "I cannot remember why Carla left.",
+      "why": "Use the past main verb left instead of did + base verb."
+    }
+  ],
+  "studyTips": [
+    "To check an indirect question, read only the words after the question word: they are ready, not are they ready.",
+    "When you see do, does or did in a direct question, try removing it and changing the main verb to its correct form.",
+    "Practise one direct question as both a polite request and an I do not know statement."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the grammatically correct polite question about the entrance.",
+      "choices": [
+        "Do you know where the entrance is?",
+        "Do you know where is the entrance?",
+        "Do you know where the entrance?"
+      ],
+      "answerIndex": 0,
+      "feedback": "After where in an indirect question, put the subject the entrance before is."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Complete the request: Could you tell me ___?",
+      "choices": [
+        "what time does the bakery open",
+        "what time the bakery opens",
+        "what time opens the bakery"
+      ],
+      "answerIndex": 1,
+      "feedback": "The indirect clause uses the bakery opens, with no question auxiliary does."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct sentence when you are uncertain about whether the museum is open.",
+      "choices": [
+        "I do not know whether is the museum open today.",
+        "I do not know whether does the museum open today.",
+        "I do not know whether the museum is open today."
+      ],
+      "answerIndex": 2,
+      "feedback": "After whether, use the museum is in statement order."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Direct question: Why did Leo leave? Choose the correct indirect statement.",
+      "choices": [
+        "I do not remember why Leo left.",
+        "I do not remember why did Leo leave.",
+        "I do not remember why Leo did leave?"
+      ],
+      "answerIndex": 0,
+      "feedback": "In the indirect clause, did disappears and leave changes to left."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with the correct form of be: Could you tell me where the post office ___?",
+      "acceptedAnswers": [
+        "is"
+      ],
+      "feedback": "The post office is is the correct statement order inside an indirect question."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Direct question: How often does Amir swim? Complete: I do not know how often Amir ___.",
+      "acceptedAnswers": [
+        "swims"
+      ],
+      "feedback": "After removing does, use swims for the third-person singular subject Amir."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Direct question: Did the bus leave? Complete with the connecting word: I do not know ___ the bus left.",
+      "acceptedAnswers": [
+        "if",
+        "whether"
+      ],
+      "feedback": "If and whether both introduce an indirect yes-or-no question."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Direct question: What did Sara buy? Complete: I cannot remember what Sara ___.",
+      "acceptedAnswers": [
+        "bought"
+      ],
+      "feedback": "Do not use did in the indirect clause; use the past form bought."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I do not know where does Molly live.",
+      "acceptedAnswers": [
+        "I do not know where Molly lives.",
+        "I don't know where Molly lives."
+      ],
+      "feedback": "With where Molly lives, use statement order and lives rather than does live."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Can you tell me what time is the next train?",
+      "acceptedAnswers": [
+        "Can you tell me what time the next train is?"
+      ],
+      "feedback": "The subject the next train comes before is in the indirect question."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Do you know if are the seats free?",
+      "acceptedAnswers": [
+        "Do you know if the seats are free?"
+      ],
+      "feedback": "After if, use the seats are, not are the seats."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I do not remember when did the film start.",
+      "acceptedAnswers": [
+        "I do not remember when the film started.",
+        "I don't remember when the film started."
+      ],
+      "feedback": "Remove did and put the past tense on the main verb started."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Change “Where does Mina work?” into an indirect statement beginning “I do not know”.",
+      "acceptedAnswers": [
+        "I do not know where Mina works.",
+        "I don't know where Mina works."
+      ],
+      "feedback": "The indirect clause is where Mina works: no does, and works agrees with Mina."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Change “Is the door locked?” into an indirect question beginning “Do you know”.",
+      "acceptedAnswers": [
+        "Do you know if the door is locked?",
+        "Do you know whether the door is locked?"
+      ],
+      "feedback": "Use if or whether and keep the door is in statement order."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Change “Why did Alex leave early?” into a polite question beginning “Can you tell me”.",
+      "acceptedAnswers": [
+        "Can you tell me why Alex left early?"
+      ],
+      "feedback": "The indirect past question is why Alex left early, without did."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Change the direct question “When does the art class begin?” into a polite indirect question beginning “Could you tell me”. Keep the art class and the verb begin.",
+      "acceptedAnswers": [
+        "Could you tell me when the art class begins?"
+      ],
+      "feedback": "In the indirect clause, the art class comes before begins. Remove does and add -s to begin."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change “What did Jade order?” into a statement beginning “I cannot remember”. Keep Jade and the verb order.",
+      "acceptedAnswers": [
+        "I cannot remember what Jade ordered.",
+        "I can't remember what Jade ordered."
+      ],
+      "feedback": "Use what Jade ordered with statement word order. Remove did and use the past form ordered."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You want to ask a coworker whether the printer is working now. Ask one complete question beginning “Do you know”, using if or whether.",
+      "acceptedAnswers": [
+        "Do you know if the printer is working?",
+        "Do you know whether the printer is working?",
+        "Do you know if the printer is working now?",
+        "Do you know whether the printer is working now?"
+      ],
+      "feedback": "After if or whether, keep statement word order: the printer is working."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the word order in this polite question, keeping all the same words: “Can you tell me where are the toilets?”",
+      "acceptedAnswers": [
+        "Can you tell me where the toilets are?"
+      ],
+      "feedback": "In an indirect question, put the subject the toilets before are."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You do not know where the guests have gone. Say one sentence beginning “I do not know”, and keep have gone in the present perfect.",
+      "acceptedAnswers": [
+        "I do not know where the guests have gone.",
+        "I don't know where the guests have gone."
+      ],
+      "feedback": "The present perfect stays after the subject in the indirect clause: where the guests have gone."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Could you tell me where the nearest pharmacy is?",
+      "prompt": "Which word order does the speaker use after where?",
+      "choices": [
+        "Is the nearest pharmacy",
+        "The nearest pharmacy is",
+        "Does the nearest pharmacy is"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker uses the nearest pharmacy is, the statement order required in an indirect question."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I do not know whether the café has a garden.",
+      "prompt": "What does the speaker know about the garden?",
+      "choices": [
+        "The café definitely has one.",
+        "The café definitely has none.",
+        "It is not known whether the café has one."
+      ],
+      "answerIndex": 2,
+      "feedback": "I do not know whether expresses uncertainty about a yes-or-no fact."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Do you know if the front gate is open?",
+      "prompt": "Type the word you hear introducing the yes-or-no clause.",
+      "acceptedAnswers": [
+        "if"
+      ],
+      "feedback": "If introduces the indirect yes-or-no clause the front gate is open."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I do not know when the last bus leaves, but I know it stops outside the library.",
+      "prompt": "Which detail does the speaker need to find out?",
+      "choices": [
+        "The place where the bus stops.",
+        "Whether the bus stops at the library.",
+        "The time the bus departs."
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker knows the stop but does not know when the last bus leaves."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Could you tell me which door the doctor uses? I can see a red door and a white door.",
+      "prompt": "What is the listener being asked to identify?",
+      "choices": [
+        "The time of the appointment.",
+        "The correct door for the doctor.",
+        "The name of the doctor."
+      ],
+      "answerIndex": 1,
+      "feedback": "The indirect question asks which of the two doors the doctor uses."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I know where Marta lives, but I do not know if she is at home now.",
+      "prompt": "Which fact is the speaker explicitly unsure about?",
+      "choices": [
+        "Whether Marta is home now.",
+        "Where Marta lives.",
+        "Whether Marta has moved house."
+      ],
+      "answerIndex": 0,
+      "feedback": "If she is at home introduces the yes-or-no fact the speaker does not know."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Could you tell me how much the tickets cost on Friday?",
+      "prompt": "Type only the two words immediately after “me”.",
+      "acceptedAnswers": [
+        "how much"
+      ],
+      "feedback": "How much introduces an indirect question about price, followed by the tickets cost."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I cannot remember where the children have hidden the spare key.",
+      "prompt": "Type only the two-word verb phrase immediately after “children”.",
+      "acceptedAnswers": [
+        "have hidden"
+      ],
+      "feedback": "The indirect clause keeps the present perfect in statement order: the children have hidden."
+    }
+  ]
+}

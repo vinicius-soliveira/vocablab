@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u105",
+  "title": "Before, After, During and While",
+  "level": "A2",
+  "topicId": "time-before-after-during-while",
+  "summary": "Describe the order of events and what happens at the same time. Choose between a noun, a clause and an -ing form after common time expressions.",
+  "learningObjectives": [
+    "Use before and after to place an event earlier or later than another event.",
+    "Choose during before a noun phrase and while before a clause.",
+    "Distinguish a named event introduced by during from a duration introduced by for.",
+    "Use the -ing form after before and after when no separate subject is given."
+  ],
+  "explanation": [
+    {
+      "heading": "Before and after: the order of events",
+      "body": "Before places one action earlier than another; after places it later. They can be followed by a noun phrase, such as before breakfast or after the lesson.",
+      "example": "I fed the dog before breakfast."
+    },
+    {
+      "heading": "Before, after and while with a clause",
+      "body": "Before and after can also introduce a clause with a subject and verb. Use while to say that two actions or situations happen at the same time. A clause after while includes a subject and a verb.",
+      "example": "My sister made tea while I prepared the sandwiches."
+    },
+    {
+      "heading": "During: inside the time of an event",
+      "body": "During is followed by a noun phrase: during the meeting, during the trip, during the night. Do not put a complete subject-and-verb clause directly after during; use while for that structure.",
+      "example": "Nobody used their phones during the presentation."
+    },
+    {
+      "heading": "For: a length of time",
+      "body": "Use for before a duration, such as thirty minutes or two days. During usually names the occasion or period in which something happened; for measures how long the action lasted.",
+      "example": "We practised the song for half an hour."
+    },
+    {
+      "heading": "Before and after with -ing",
+      "body": "When the subject of both actions is the same, before and after can be followed by an -ing form instead of a full clause. Do not use to plus the base verb in this pattern.",
+      "example": "After cleaning her bicycle, Rosa put it away."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "During + noun versus while + clause",
+      "left": {
+        "label": "During an event",
+        "example": "The lights went out during the rehearsal.",
+        "note": "During is followed by a noun phrase."
+      },
+      "right": {
+        "label": "While something is happening",
+        "example": "The lights went out while we were rehearsing.",
+        "note": "While is followed by a subject and a verb."
+      }
+    },
+    {
+      "title": "An event versus a duration",
+      "left": {
+        "label": "During: occasion",
+        "example": "We heard music during the journey.",
+        "note": "The journey names the occasion."
+      },
+      "right": {
+        "label": "For: length of time",
+        "example": "We listened to music for an hour.",
+        "note": "An hour measures duration."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Before her appointment, Zara checked the address.",
+      "note": "Before comes before the noun phrase her appointment."
+    },
+    {
+      "sentence": "We took a short walk after lunch.",
+      "note": "After follows a finished event or meal."
+    },
+    {
+      "sentence": "The dog stayed indoors during the storm.",
+      "note": "During is followed by the noun phrase the storm."
+    },
+    {
+      "sentence": "I saw an old friend while I was buying vegetables.",
+      "note": "While introduces a full clause about an action in progress."
+    },
+    {
+      "sentence": "After sending the email, Hugo turned off his laptop.",
+      "note": "After can be followed by the -ing form."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I heard a strange sound during I was cooking.",
+      "correct": "I heard a strange sound while I was cooking.",
+      "why": "A subject-and-verb clause needs while, not during."
+    },
+    {
+      "incorrect": "The class was quiet while the test.",
+      "correct": "The class was quiet during the test.",
+      "why": "The test is a noun phrase, so during is the suitable choice."
+    },
+    {
+      "incorrect": "The children played outside during two hours.",
+      "correct": "The children played outside for two hours.",
+      "why": "Two hours is a duration, so use for."
+    },
+    {
+      "incorrect": "Before to leave, Nina checked the windows.",
+      "correct": "Before leaving, Nina checked the windows.",
+      "why": "Use the -ing form after before when there is no separate subject."
+    }
+  ],
+  "studyTips": [
+    "Look at the word immediately after the time expression: a noun often signals during, while a subject plus verb calls for while.",
+    "Ask whether the phrase names an occasion or measures elapsed time. Use during for the occasion and for for the duration.",
+    "Practise describing three actions in order with before and after, then describe two simultaneous actions with while."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct word: There was a sudden noise ___ the concert.",
+      "choices": [
+        "during",
+        "while",
+        "for"
+      ],
+      "answerIndex": 0,
+      "feedback": "During is followed by the noun phrase the concert."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct word: Maya got a message ___ she was waiting for the bus.",
+      "choices": [
+        "during",
+        "while",
+        "for"
+      ],
+      "answerIndex": 1,
+      "feedback": "While introduces the clause she was waiting for the bus."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct word: The group practised the dance ___ twenty minutes.",
+      "choices": [
+        "during",
+        "while",
+        "for"
+      ],
+      "answerIndex": 2,
+      "feedback": "Twenty minutes is a duration, so use for."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Ben completed his homework and then played football. Choose the word: ___ completing his homework, Ben played football.",
+      "choices": [
+        "Before",
+        "While",
+        "After"
+      ],
+      "answerIndex": 2,
+      "feedback": "After completing expresses the action that happened first."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with during or while: The baby slept ___ the journey.",
+      "acceptedAnswers": [
+        "during"
+      ],
+      "feedback": "The journey is a noun phrase, so use during."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with during or while: I listened to a podcast ___ I was washing the dishes.",
+      "acceptedAnswers": [
+        "while"
+      ],
+      "feedback": "While joins a clause containing the subject I and the verb was washing."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with for or during: Our walk lasted ___ an hour.",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "An hour is a length of time, introduced by for."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "First, Mia locked the office. Then she went home. Complete with before or after: Mia went home ___ locking the office.",
+      "acceptedAnswers": [
+        "after"
+      ],
+      "feedback": "She locked the office first, so going home happened after locking it."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the time word using while: I heard some music during I was studying.",
+      "acceptedAnswers": [
+        "I heard some music while I was studying."
+      ],
+      "feedback": "Use while, not during, before a clause with its own subject and verb."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the time word only: We stayed at the beach during three hours.",
+      "acceptedAnswers": [
+        "We stayed at the beach for three hours."
+      ],
+      "feedback": "Use for with a duration such as three hours."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the verb form after before, keeping the sentence structure: Before to leave the house, Sara checked the windows.",
+      "acceptedAnswers": [
+        "Before leaving the house, Sara checked the windows."
+      ],
+      "feedback": "Before plus an -ing form is correct; before to leave is not."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "The break lasted ten minutes, and we spoke during those ten minutes. Correct the time word in: We had a quiet chat while the break.",
+      "acceptedAnswers": [
+        "We had a quiet chat during the break."
+      ],
+      "feedback": "During is followed by the noun phrase the break; while needs a clause."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say the full sentence with while: 'I checked the map ___ my friend was driving.'",
+      "acceptedAnswers": [
+        "I checked the map while my friend was driving."
+      ],
+      "feedback": "While is followed by the complete clause my friend was driving."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say the full sentence with during: 'The children were quiet ___ the play.'",
+      "acceptedAnswers": [
+        "The children were quiet during the play."
+      ],
+      "feedback": "During introduces the noun phrase the play."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Combine the actions with after + -ing. Start with 'After washing': 'Lena washed the plates. Then Lena made tea.'",
+      "acceptedAnswers": [
+        "After washing the plates, Lena made tea."
+      ],
+      "feedback": "Use after washing because washing the plates happened first."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You left the house, and then it started raining. Say one sentence beginning 'It started raining...' Use after and the past simple 'I left the house'.",
+      "acceptedAnswers": [
+        "It started raining after I left the house."
+      ],
+      "feedback": "After I left the house is a clause that places the rain later than your departure."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "First, you checked your bag. Then you boarded the train. Tell a friend what you did, using I and beginning 'Before boarding...' Use the past simple for the other action.",
+      "acceptedAnswers": [
+        "Before boarding the train, I checked my bag."
+      ],
+      "feedback": "Before boarding uses an -ing form and shows that checking your bag happened first."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your friend asks when your phone rang. It rang as you were looking at a painting. Answer with one sentence beginning 'My phone rang...' and use while.",
+      "acceptedAnswers": [
+        "My phone rang while I was looking at a painting."
+      ],
+      "feedback": "While introduces the clause I was looking at a painting and links two simultaneous actions."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct only the time word and say the full sentence: 'The guide spoke while the tour.' Keep all the other words.",
+      "acceptedAnswers": [
+        "The guide spoke during the tour."
+      ],
+      "feedback": "During introduces the noun phrase the tour; while would need a full clause."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "On a school journey, the bus stopped for fifteen minutes. Tell a classmate in one sentence beginning 'The bus stopped...' Use both for fifteen minutes and during the journey.",
+      "acceptedAnswers": [
+        "The bus stopped for fifteen minutes during the journey.",
+        "The bus stopped during the journey for fifteen minutes."
+      ],
+      "feedback": "For fifteen minutes gives the duration; during the journey names the occasion."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "They kept the windows shut during the storm.",
+      "prompt": "Which time word introduces the named event?",
+      "choices": [
+        "during",
+        "while",
+        "for"
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker uses during before the noun phrase the storm."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Omar felt happier after talking to his sister.",
+      "prompt": "What happened first?",
+      "choices": [
+        "Omar felt happier.",
+        "Omar talked to his sister.",
+        "Omar went out."
+      ],
+      "answerIndex": 1,
+      "feedback": "After talking shows that the conversation came before the happier feeling."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "We waited for forty minutes outside the theatre.",
+      "prompt": "Type the preposition you hear immediately before the duration.",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "For introduces how long they waited."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Before the guests arrived, Leo put the plates on the table.",
+      "prompt": "What was true when the guests arrived?",
+      "choices": [
+        "The plates were already on the table.",
+        "Leo was still looking for the plates.",
+        "The guests had already eaten."
+      ],
+      "answerIndex": 0,
+      "feedback": "Leo put out the plates first. Before the guests arrived shows the order of events."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Nora answered the phone while her brother was making breakfast.",
+      "prompt": "What was her brother doing when Nora answered?",
+      "choices": [
+        "Walking to work.",
+        "Making the bed.",
+        "Preparing food."
+      ],
+      "answerIndex": 2,
+      "feedback": "Her brother was preparing breakfast at the same time Nora answered the phone."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We heard a loud noise during the film, but the film continued.",
+      "prompt": "When did the noise happen?",
+      "choices": [
+        "Before the film began.",
+        "While the film was playing.",
+        "After the cinema closed."
+      ],
+      "answerIndex": 1,
+      "feedback": "During the film means the noise happened while the film was playing."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "I called my dad after finishing my shift.",
+      "prompt": "Type the two-word time phrase that introduces the earlier action.",
+      "acceptedAnswers": [
+        "after finishing"
+      ],
+      "feedback": "After finishing links the completed shift to the later phone call."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "My coat got wet while I was walking to school.",
+      "prompt": "Type the first three words of the clause describing the action in progress.",
+      "acceptedAnswers": [
+        "while I was"
+      ],
+      "feedback": "While I was introduces a past action in progress when another event happened."
+    }
+  ]
+}

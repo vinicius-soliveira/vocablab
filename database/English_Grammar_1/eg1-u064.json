@@ -1,0 +1,398 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u064",
+  "title": "Possession with Apostrophes and Of",
+  "level": "A2",
+  "topicId": "possessive-apostrophe-s-of",
+  "summary": "Use an apostrophe to connect people with things and relationships. Distinguish singular and plural possessive forms, omit a repeated noun when it is clear, and use of in common expressions about things and places.",
+  "learningObjectives": [
+    "Form the possessive of a singular person with apostrophe s.",
+    "Write plural possessives correctly, including irregular plurals such as children.",
+    "Use a possessive form without a repeated noun when the meaning is clear.",
+    "Choose natural expressions with of for parts of things and locations."
+  ],
+  "explanation": [
+    {
+      "heading": "Show a connection to one person with 's",
+      "body": "Add apostrophe s ('s) to a singular name or noun to show ownership or a relationship: a person's coat, a friend's sister, or a teacher's desk. This form usually comes directly before the noun. Some names already end in s; a form such as James's is common.",
+      "example": "Aisha's brother works in a bakery."
+    },
+    {
+      "heading": "Plural possessives have two patterns",
+      "body": "If a plural already ends in s, add only an apostrophe: the students' bags or my neighbours' garden. If a plural does not end in s, add apostrophe s: the children's coats or the men's room. Check whether the owner is one person or several.",
+      "example": "The children's bikes are outside."
+    },
+    {
+      "heading": "The noun can be left out when it is understood",
+      "body": "You do not always need to repeat the noun after a possessive. If the context names two coats, hers may be different from her sister's, meaning her sister's coat. We also use a person's possessive form alone to mean their home in expressions such as at Rosa's.",
+      "example": "We had coffee at Mateo's on Sunday."
+    },
+    {
+      "heading": "Use of in many expressions about things and places",
+      "body": "For parts of objects, positions and place names, English often uses of: the front of the bus, the end of the road, or the centre of the town. Do not assume that every noun takes an apostrophe; learn common of expressions as complete phrases.",
+      "example": "The handle of this suitcase is broken."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "One owner or more than one owner",
+      "left": {
+        "label": "One friend",
+        "example": "My friend's bicycle is blue.",
+        "note": "Friend's describes one friend who owns the bicycle."
+      },
+      "right": {
+        "label": "Several friends",
+        "example": "My friends' bicycles are blue.",
+        "note": "Friends' refers to two or more friends."
+      }
+    },
+    {
+      "title": "People and parts of objects",
+      "left": {
+        "label": "A person",
+        "example": "Nadia's phone is on the shelf.",
+        "note": "Apostrophe s is the ordinary form for a person's possession."
+      },
+      "right": {
+        "label": "Part of an object",
+        "example": "The screen of the phone is cracked.",
+        "note": "Of is a natural choice for identifying a part of a thing."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I borrowed my cousin's raincoat.",
+      "note": "Cousin's identifies one person connected with the raincoat."
+    },
+    {
+      "sentence": "The workers' bicycles are behind the office.",
+      "note": "Workers' is plural because the bicycles belong to several workers."
+    },
+    {
+      "sentence": "Mila's bag is smaller than Theo's.",
+      "note": "Theo's stands for Theo's bag, so bag does not need to be repeated."
+    },
+    {
+      "sentence": "There is a café at the end of the street.",
+      "note": "The end of the street is a common expression with of."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "This is Maria bag.",
+      "correct": "This is Maria's bag.",
+      "why": "Add apostrophe s to Maria to express possession."
+    },
+    {
+      "incorrect": "Our parents's house is nearby.",
+      "correct": "Our parents' house is nearby.",
+      "why": "The regular plural parents already ends in s, so add only an apostrophe."
+    },
+    {
+      "incorrect": "The childrens' toys are upstairs.",
+      "correct": "The children's toys are upstairs.",
+      "why": "Children is an irregular plural without final s, so use children's."
+    },
+    {
+      "incorrect": "I spent the afternoon at Noah house.",
+      "correct": "I spent the afternoon at Noah's house.",
+      "why": "Use Noah's before house to identify whose house it is."
+    }
+  ],
+  "studyTips": [
+    "First decide how many owners there are: one teacher's desk, two teachers' desks, or the children's desks.",
+    "For familiar people, practise using 's with names and family words: Ben's cousin, my aunt's shop and our parents' garden.",
+    "Learn common phrases with of, such as the middle of the page and the top of the hill, as whole expressions."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "One student owns this laptop. It's the ___ laptop.",
+      "choices": [
+        "student's",
+        "students'",
+        "students"
+      ],
+      "answerIndex": 0,
+      "feedback": "Student's is singular because only one student owns the laptop."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The twins share a bedroom. It is the ___ bedroom.",
+      "choices": [
+        "twin's",
+        "twins'",
+        "twins's"
+      ],
+      "answerIndex": 1,
+      "feedback": "Twins is a plural ending in s, so the possessive is twins'."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "These toys belong to the children. They are the ___ toys.",
+      "choices": [
+        "childrens",
+        "childrens'",
+        "children's"
+      ],
+      "answerIndex": 2,
+      "feedback": "Children is an irregular plural without final s, so the possessive is children's."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "We stayed at ___ last night. (Lara invited us to her home.)",
+      "choices": [
+        "Lara's",
+        "Laras",
+        "Lara"
+      ],
+      "answerIndex": 0,
+      "feedback": "At Lara's can mean at Lara's home without repeating the word home."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "My uncle has a dog. This is my ___ dog.",
+      "acceptedAnswers": [
+        "uncle's"
+      ],
+      "feedback": "Uncle's is the possessive form for one uncle."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "My two neighbours share a garden. It's my ___ garden. (Both neighbours own it.)",
+      "acceptedAnswers": [
+        "neighbours'"
+      ],
+      "feedback": "Neighbours' ends in an apostrophe because the garden belongs to both neighbours."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The boys have one football between them. It's the ___ football.",
+      "acceptedAnswers": [
+        "boys'"
+      ],
+      "feedback": "Boys' shows shared possession by more than one boy."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The cover ___ this magazine has a photograph of a mountain.",
+      "acceptedAnswers": [
+        "of"
+      ],
+      "feedback": "The cover of this magazine identifies a part of an object, using of."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I borrowed my sisters coat. (I have one sister.)",
+      "acceptedAnswers": [
+        "I borrowed my sister's coat."
+      ],
+      "feedback": "With one sister, put apostrophe s after sister."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: These are my parents's suitcases.",
+      "acceptedAnswers": [
+        "These are my parents' suitcases."
+      ],
+      "feedback": "For regular plural parents, write the apostrophe after the final s."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The childrens' playground is behind the school.",
+      "acceptedAnswers": [
+        "The children's playground is behind the school."
+      ],
+      "feedback": "The irregular plural children needs apostrophe s, not s apostrophe."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We ate lunch at Dylan house.",
+      "acceptedAnswers": [
+        "We ate lunch at Dylan's house."
+      ],
+      "feedback": "Use Dylan's before house to express a person's possession."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say this camera belongs to Hannah. Start with 'This is' and use the possessive form.",
+      "acceptedAnswers": [
+        "This is Hannah's camera."
+      ],
+      "feedback": "Hannah's identifies the person who owns the camera."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say that the bicycles belong to your two brothers. Start with 'These are'.",
+      "acceptedAnswers": [
+        "These are my brothers' bicycles."
+      ],
+      "feedback": "Brothers' is the possessive for two brothers."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say you spent last Saturday evening at Nora's house, without saying 'house'. Start with 'I was'.",
+      "acceptedAnswers": [
+        "I was at Nora's last Saturday evening."
+      ],
+      "feedback": "At Nora's uses a person's possessive form to mean at Nora's home."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Mr Lee has a daughter who works in his shop. Tell a visitor who she is, beginning with 'She is' and using a possessive name.",
+      "acceptedAnswers": [
+        "She is Mr Lee's daughter.",
+        "She's Mr Lee's daughter."
+      ],
+      "feedback": "Add apostrophe s to Mr Lee to describe his family relationship: Mr Lee's daughter."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change 'The child's coats are wet' so that the coats belong to several children. Say the whole sentence.",
+      "acceptedAnswers": [
+        "The children's coats are wet."
+      ],
+      "feedback": "Children is an irregular plural, so its possessive form is children's; this is different from child's."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Three men share a van for work. Someone asks, 'Whose van is parked outside?' Reply using 'men's', beginning with 'It's'.",
+      "acceptedAnswers": [
+        "It's the men's van.",
+        "It is the men's van."
+      ],
+      "feedback": "Men is an irregular plural, so the possessive is men's, not mens'."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Express 'The bicycle's front wheel is bent' with an 'of' phrase instead of apostrophe s. Start with 'The front wheel'.",
+      "acceptedAnswers": [
+        "The front wheel of the bicycle is bent."
+      ],
+      "feedback": "For a part of an object, the front wheel of the bicycle is a natural expression."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Sara's coat is black, and Ben's coat is blue. Combine the facts in one sentence beginning 'Sara's coat' and do not repeat the word 'coat'.",
+      "acceptedAnswers": [
+        "Sara's coat is black, but Ben's is blue.",
+        "Sara's coat is black, and Ben's is blue."
+      ],
+      "feedback": "Ben's can stand alone because the noun coat is already understood."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "My friends' flat is close to the park, and they share the rent.",
+      "prompt": "How many friends does the speaker mean?",
+      "choices": [
+        "Exactly one",
+        "At least two",
+        "Nobody"
+      ],
+      "answerIndex": 1,
+      "feedback": "Friends' refers to more than one friend who share the flat."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We met at Clara's after the concert and made some tea.",
+      "prompt": "Where did they meet?",
+      "choices": [
+        "At the concert hall",
+        "At a tea shop",
+        "At Clara's home"
+      ],
+      "answerIndex": 2,
+      "feedback": "At Clara's means at Clara's home; the meeting happened after the concert."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The children's shoes are under the bench.",
+      "prompt": "Type the possessive word that comes immediately before 'shoes'.",
+      "acceptedAnswers": [
+        "children's"
+      ],
+      "feedback": "Children's is the possessive form of the irregular plural children."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "My brother's keys are in the drawer, but Mum's are next to the kettle.",
+      "prompt": "Who owns the keys near the kettle?",
+      "choices": [
+        "The speaker’s brother.",
+        "The speaker’s mother.",
+        "The speaker’s neighbour."
+      ],
+      "answerIndex": 1,
+      "feedback": "Mum's means Mum's keys; the brother's keys are in a different place."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The children's coach waited outside the gym, but the parents' cars were in the car park.",
+      "prompt": "Which vehicles were in the car park?",
+      "choices": [
+        "Cars belonging to the parents.",
+        "Cars belonging to the coaches.",
+        "Buses belonging to the children."
+      ],
+      "answerIndex": 0,
+      "feedback": "The audio says the parents' cars were in the car park; the coach waited outside the gym."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The handle of the suitcase came off, so Lena took it to the repair shop.",
+      "prompt": "What part needed repair?",
+      "choices": [
+        "A wheel on the suitcase.",
+        "The shop door.",
+        "The part used to carry the suitcase."
+      ],
+      "answerIndex": 2,
+      "feedback": "The handle of the suitcase is the part used to carry it; of identifies a part of an object."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The women's changing room is on the first floor, near the stairs.",
+      "prompt": "Type the possessive word you hear immediately before 'changing room'.",
+      "acceptedAnswers": [
+        "women's"
+      ],
+      "feedback": "Women's is the possessive form of the irregular plural women."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The bottom of the swimming pool is painted bright blue.",
+      "prompt": "Type the short word you hear between 'bottom' and 'the swimming pool'.",
+      "acceptedAnswers": [
+        "of"
+      ],
+      "feedback": "Of connects the part, bottom, with the whole object, the swimming pool."
+    }
+  ]
+}

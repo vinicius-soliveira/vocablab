@@ -1,0 +1,403 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u073",
+  "title": "The with Names of Places",
+  "level": "A2",
+  "topicId": "articles-geographical-place-names",
+  "summary": "Choose when to use the before the names of countries, regions, waterways and landmarks. Learn which common street, station and building names normally appear without an article.",
+  "learningObjectives": [
+    "Use no article with most country, city, continent and street names.",
+    "Use the with plural place names, selected country names and named rivers, seas and oceans.",
+    "Distinguish common building-name patterns and use the with names containing of and compass regions."
+  ],
+  "explanation": [
+    {
+      "heading": "Most countries and cities have no article",
+      "body": "We normally say Brazil, Italy, Kenya, London or Asia without the. A few country names contain words such as Kingdom, States or Republic; these normally take the: the United Kingdom and the United States. Learn country names as complete expressions.",
+      "example": "My cousin moved from Mexico to the United Kingdom."
+    },
+    {
+      "heading": "Plural names and bodies of water",
+      "body": "Use the with plural geographical names such as the Netherlands, the Philippines, the Alps and the Canary Islands. Names of rivers, seas, oceans and canals normally take the too: the Thames, the Red Sea, the Indian Ocean and the Panama Canal.",
+      "example": "We travelled through the Alps before reaching the coast."
+    },
+    {
+      "heading": "Streets, stations, airports and universities",
+      "body": "Street and square names usually have no article: Baker Street and Trafalgar Square. The same is usually true of named airports and stations, such as Heathrow Airport and Victoria Station, and names such as Oxford University. The name of a building, not simply its type, determines the form.",
+      "example": "Our bus stopped near Victoria Station."
+    },
+    {
+      "heading": "Hotels, museums, theatres and cinemas",
+      "body": "Use the before the names of most hotels, museums, theatres and cinemas: the Hilton Hotel, the British Museum and the National Theatre. These are common patterns, not rules for every proper name; check unfamiliar official names.",
+      "example": "We spent the afternoon at the British Museum."
+    },
+    {
+      "heading": "Names with of and areas of a place",
+      "body": "Names built with of normally take the, such as the University of Edinburgh and the Tower of London. Use the when naming a part of a region with a compass direction: the north of Spain or the east of France. Do not confuse this with South America or North Korea, where the direction is part of the geographical name.",
+      "example": "Our friends live in the south of Portugal."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Different types of country names",
+      "left": {
+        "label": "No article",
+        "example": "She works in Canada.",
+        "note": "A simple country name normally has no article."
+      },
+      "right": {
+        "label": "The",
+        "example": "She works in the Netherlands.",
+        "note": "This plural country name normally takes the."
+      }
+    },
+    {
+      "title": "Station name versus museum name",
+      "left": {
+        "label": "No article",
+        "example": "Let’s meet outside Paddington Station.",
+        "note": "Named stations generally do not take the."
+      },
+      "right": {
+        "label": "The",
+        "example": "Let’s meet outside the British Museum.",
+        "note": "The is normally used with named museums."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "My neighbour is from Chile, but her parents live in the United States.",
+      "note": "Chile has no article; the United States takes the."
+    },
+    {
+      "sentence": "The Danube flows through several European countries.",
+      "note": "Rivers normally take the."
+    },
+    {
+      "sentence": "You can find our flat on King Street.",
+      "note": "Street names normally have no article."
+    },
+    {
+      "sentence": "We booked a room at the Grand Hotel.",
+      "note": "Most named hotels take the."
+    },
+    {
+      "sentence": "The west of Ireland gets a lot of rain.",
+      "note": "A named part of a region takes the before a compass direction."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "My friend is from the Argentina.",
+      "correct": "My friend is from Argentina.",
+      "why": "Most country names, including Argentina, take no article."
+    },
+    {
+      "incorrect": "We crossed Atlantic Ocean by plane.",
+      "correct": "We crossed the Atlantic Ocean by plane.",
+      "why": "Oceans normally take the."
+    },
+    {
+      "incorrect": "The train leaves from the Victoria Station.",
+      "correct": "The train leaves from Victoria Station.",
+      "why": "Named railway stations usually have no article."
+    },
+    {
+      "incorrect": "They visited British Museum on Saturday.",
+      "correct": "They visited the British Museum on Saturday.",
+      "why": "The is normally part of a museum name."
+    }
+  ],
+  "studyTips": [
+    "Group place names by type: countries, plural place names, waterways, streets and major buildings.",
+    "Learn frequent exceptions as full phrases: the United Kingdom, the Netherlands and the Philippines.",
+    "When you see a building name with of, check whether it needs the: the University of Edinburgh."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "My aunt lives in ___ Netherlands.",
+      "choices": [
+        "the",
+        "a",
+        "an"
+      ],
+      "answerIndex": 0,
+      "feedback": "The Netherlands is a plural place name and normally takes the."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "We flew into ___ Heathrow Airport last night.",
+      "choices": [
+        "the",
+        "(no article)",
+        "an"
+      ],
+      "answerIndex": 1,
+      "feedback": "Named airports such as Heathrow Airport normally take no article."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "They took a boat trip on ___ River Thames.",
+      "choices": [
+        "a",
+        "(no article)",
+        "the"
+      ],
+      "answerIndex": 2,
+      "feedback": "Named rivers normally take the, including the River Thames."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "My sister studies at ___ University of Manchester.",
+      "choices": [
+        "the",
+        "a",
+        "(no article)"
+      ],
+      "answerIndex": 0,
+      "feedback": "University names with of normally use the: the University of Manchester."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete the place name, adding the if needed: They sailed across ___ last summer. (Atlantic Ocean)",
+      "acceptedAnswers": [
+        "the Atlantic Ocean"
+      ],
+      "feedback": "Oceans normally take the, so the full name is the Atlantic Ocean."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete the street name, adding the if needed: Our new office is on ___. (King Street)",
+      "acceptedAnswers": [
+        "King Street"
+      ],
+      "feedback": "Street names generally appear without the: on King Street."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete the place name, adding the if needed: We visited ___ on Saturday. (National Gallery)",
+      "acceptedAnswers": [
+        "the National Gallery"
+      ],
+      "feedback": "Named galleries and museums commonly use the, as in the National Gallery."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the place name, adding the if needed: My brother studied at ___. (Edinburgh University)",
+      "acceptedAnswers": [
+        "Edinburgh University"
+      ],
+      "feedback": "Named universities without of commonly take no article: Edinburgh University."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My uncle lives in the Portugal.",
+      "acceptedAnswers": [
+        "My uncle lives in Portugal."
+      ],
+      "feedback": "Portugal is a country name normally used without the."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We went hiking in Alps last July.",
+      "acceptedAnswers": [
+        "We went hiking in the Alps last July."
+      ],
+      "feedback": "The Alps is a plural mountain-range name and requires the."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Our flight arrives at the Manchester Airport tomorrow.",
+      "acceptedAnswers": [
+        "Our flight arrives at Manchester Airport tomorrow."
+      ],
+      "feedback": "The proper name Manchester Airport normally has no article."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: They spent the afternoon at National Museum of Scotland.",
+      "acceptedAnswers": [
+        "They spent the afternoon at the National Museum of Scotland."
+      ],
+      "feedback": "Use the with this museum name."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say this as one sentence with the correct country name: Leo / lives / in / Brazil.",
+      "acceptedAnswers": [
+        "Leo lives in Brazil."
+      ],
+      "feedback": "Brazil takes no article."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say this as one complete sentence: We / visit / the Netherlands / every spring.",
+      "acceptedAnswers": [
+        "We visit the Netherlands every spring."
+      ],
+      "feedback": "The is part of the usual name the Netherlands."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say that the museum is on King Street. Start with “The museum”.",
+      "acceptedAnswers": [
+        "The museum is on King Street."
+      ],
+      "feedback": "King Street is a street name, so there is no the before King Street."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The river is named Seine. Nora took a boat trip on it yesterday. Start with 'Nora', use 'took a boat trip on', give the river name with the correct article, and end with 'yesterday'.",
+      "acceptedAnswers": [
+        "Nora took a boat trip on the Seine yesterday."
+      ],
+      "feedback": "Named rivers normally take the, so we say the Seine."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Correct only the missing article and say the full sentence: 'Emma visited Natural History Museum on Tuesday.'",
+      "acceptedAnswers": [
+        "Emma visited the Natural History Museum on Tuesday."
+      ],
+      "feedback": "Most named museums take the: the Natural History Museum."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your grandparents live in a country named United Arab Emirates. Answer 'Where do your grandparents live?' Begin with 'They live in'.",
+      "acceptedAnswers": [
+        "They live in the United Arab Emirates."
+      ],
+      "feedback": "The is used with the country name the United Arab Emirates."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct only the incorrect article in this sentence: 'The plane flew from the Madrid to the United Kingdom.' Say the complete corrected sentence.",
+      "acceptedAnswers": [
+        "The plane flew from Madrid to the United Kingdom."
+      ],
+      "feedback": "City names such as Madrid take no article, but the United Kingdom requires the."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give one instruction. You will meet outside a museum named City Art Museum, on River Street, at noon. Begin with 'Meet me outside' and give the museum, street, and time in that order.",
+      "acceptedAnswers": [
+        "Meet me outside the City Art Museum on River Street at noon."
+      ],
+      "feedback": "Use the with the museum name and no article with River Street."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We spent three days in the United Kingdom last month.",
+      "prompt": "Which country did the speakers visit?",
+      "choices": [
+        "Canada",
+        "The United Kingdom",
+        "France"
+      ],
+      "answerIndex": 1,
+      "feedback": "The name the United Kingdom includes the."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The art gallery is on Market Street, opposite the town hall.",
+      "prompt": "Which street is the gallery on?",
+      "choices": [
+        "Park Street",
+        "Hill Road",
+        "Market Street"
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker names Market Street without an article."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "My grandparents live in the Philippines.",
+      "prompt": "Type the place name you hear, including any article.",
+      "acceptedAnswers": [
+        "the Philippines"
+      ],
+      "feedback": "The Philippines is a plural country name, so it begins with the."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "After our flight arrived at Oslo Airport, we checked into the Harbour Hotel.",
+      "prompt": "What did the travellers do after arriving?",
+      "choices": [
+        "They toured a museum.",
+        "They went to their accommodation.",
+        "They left on another plane."
+      ],
+      "answerIndex": 1,
+      "feedback": "They checked into a hotel after arriving at the airport."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "On Monday, we visited the National Maritime Museum. On Tuesday, we walked along Church Street.",
+      "prompt": "What did the travellers do on the second day?",
+      "choices": [
+        "They visited a museum.",
+        "They took a boat trip.",
+        "They went for a walk in town."
+      ],
+      "answerIndex": 2,
+      "feedback": "The walk along Church Street happened on Tuesday, the second day."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The tickets are for the Riverside Theatre, but let's meet first at Riverside Station.",
+      "prompt": "Where should they meet before the event?",
+      "choices": [
+        "At a railway station.",
+        "At a hotel.",
+        "Inside a theatre."
+      ],
+      "answerIndex": 0,
+      "feedback": "They will meet at Riverside Station, not at the Riverside Theatre. Station names usually have no the."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Our boat travelled along the Suez Canal at night.",
+      "prompt": "Type the single word you hear immediately before 'Suez Canal'.",
+      "acceptedAnswers": [
+        "the"
+      ],
+      "feedback": "Canal names usually take the: the Suez Canal."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We drove through the south of France to see our friends.",
+      "prompt": "Type the three-word direction phrase immediately before 'France'.",
+      "acceptedAnswers": [
+        "the south of"
+      ],
+      "feedback": "We say the south of France when naming a part of a country."
+    }
+  ]
+}

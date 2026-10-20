@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u068",
+  "title": "Countable and Uncountable Nouns: A, An and Some",
+  "level": "A2",
+  "topicId": "nouns-countable-uncountable-2",
+  "summary": "Use a/an and some with different types of nouns, including words that can name either whole items or materials. Recognise common uncountable nouns such as advice and furniture.",
+  "learningObjectives": [
+    "Select a/an for singular countable nouns and some for plural countable or uncountable nouns.",
+    "Explain how context changes the meaning of nouns such as cake, chicken and paper.",
+    "Avoid pluralising common uncountable nouns, including advice, information, furniture and news.",
+    "Distinguish a job from work when describing employment and activity."
+  ],
+  "explanation": [
+    {
+      "heading": "A/an with one item; some with several or an amount",
+      "body": "Use a or an before a singular countable noun. Use some before a plural countable noun when you mean an unspecified number, and before an uncountable noun when you mean an unspecified amount. These forms are common when offering food, making requests and describing purchases.",
+      "example": "We bought a melon, some grapes and some yoghurt."
+    },
+    {
+      "heading": "The same word can describe a whole item or a portion",
+      "body": "Some food words change their grammar with the meaning. A cake can mean one whole cake, while some cake means an unspecified amount to eat. A chicken can mean one animal, while some chicken can mean meat. Choose the form that matches what the speaker means.",
+      "example": "They shared some cake after buying a cake for the celebration."
+    },
+    {
+      "heading": "Paper can refer to an object or material",
+      "body": "Paper may be countable when it means a newspaper, an exam paper or a written document. It is uncountable when it means the material used for drawing, printing or wrapping. The setting tells you which meaning is intended.",
+      "example": "I found a paper on the train and wrote a note on some paper from my bag."
+    },
+    {
+      "heading": "Common nouns without a regular plural",
+      "body": "In their usual everyday meanings, advice, bread, furniture, information, news, weather and work are uncountable. Use some advice, some information or nice weather, not an advice or informations. Hair is normally uncountable when describing someone’s hairstyle, although individual hairs can be counted in other contexts. Use a piece of or another measure when needed.",
+      "example": "The hotel website gives useful information about local transport."
+    },
+    {
+      "heading": "A job and work have different forms",
+      "body": "A job is a countable position of employment: one job, two jobs. Work is normally uncountable when it means the tasks or effort involved. Say a new job, but some work or a lot of work.",
+      "example": "Maya found a job at a café, and she enjoys the work."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A whole cake versus an amount of cake",
+      "left": {
+        "label": "One complete item",
+        "example": "We made a cake for the school fair.",
+        "note": "A cake refers to one complete, countable cake."
+      },
+      "right": {
+        "label": "An unspecified portion",
+        "example": "I saved some cake for my neighbour.",
+        "note": "Some cake refers to an amount rather than a whole item."
+      }
+    },
+    {
+      "title": "Employment versus tasks",
+      "left": {
+        "label": "Countable position",
+        "example": "Omar has a part-time job.",
+        "note": "Job names one position and takes a."
+      },
+      "right": {
+        "label": "Uncountable activity",
+        "example": "Omar has some work to finish.",
+        "note": "Work refers to tasks or effort and does not take a."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Would you like an apricot or some cherries?",
+      "note": "An is used with one countable fruit; some is used with a plural noun."
+    },
+    {
+      "sentence": "I need some paint to finish the wall.",
+      "note": "Paint is treated as an uncountable material here."
+    },
+    {
+      "sentence": "They keep three chickens in the garden.",
+      "note": "Chickens means three whole animals, so it is countable."
+    },
+    {
+      "sentence": "Could I have some chicken with my rice?",
+      "note": "Chicken names the meat, which is uncountable in this use."
+    },
+    {
+      "sentence": "She sent me some useful advice about the interview.",
+      "note": "Advice is uncountable, even when it contains several suggestions."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Please bring a clean towels.",
+      "correct": "Please bring some clean towels.",
+      "why": "Towels is plural countable; use some rather than a."
+    },
+    {
+      "incorrect": "The guide gave us three informations.",
+      "correct": "The guide gave us some information.",
+      "why": "Information is uncountable in this meaning and cannot take a regular plural."
+    },
+    {
+      "incorrect": "We bought new furnitures yesterday.",
+      "correct": "We bought new furniture yesterday.",
+      "why": "Furniture is uncountable even when it refers to several items."
+    },
+    {
+      "incorrect": "I am looking for a work in town.",
+      "correct": "I am looking for a job in town.",
+      "why": "A job is a countable position; work is uncountable for employment or tasks."
+    }
+  ],
+  "studyTips": [
+    "Before choosing a/an or some, decide whether the noun is singular countable, plural countable or uncountable.",
+    "Learn words such as furniture, advice and information with some, not with plural -s.",
+    "Use context to distinguish a whole chicken from some chicken, or a cake from some cake."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Please bring ___ clean plates for the guests.",
+      "choices": [
+        "some",
+        "a",
+        "an"
+      ],
+      "answerIndex": 0,
+      "feedback": "Plates is plural countable, so some is appropriate for an unspecified number."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The living room needs ___ new sofa.",
+      "choices": [
+        "some",
+        "a",
+        "an"
+      ],
+      "answerIndex": 1,
+      "feedback": "Sofa is singular and countable and begins with a consonant sound."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Could you give me ___ about this bus route?",
+      "choices": [
+        "an advice",
+        "two advices",
+        "some advice"
+      ],
+      "answerIndex": 2,
+      "feedback": "Advice is uncountable in this meaning; some advice is the correct form."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "I need ___ to wrap this present.",
+      "choices": [
+        "some paper",
+        "a paper",
+        "some papers"
+      ],
+      "answerIndex": 0,
+      "feedback": "Paper means wrapping material here, so it is uncountable."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Please add ___ butter to the potatoes. (Choose a, an or some.)",
+      "acceptedAnswers": [
+        "some"
+      ],
+      "feedback": "Butter is an uncountable food here, so use some."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "There is ___ orange on the table. (Choose a, an or some.)",
+      "acceptedAnswers": [
+        "an"
+      ],
+      "feedback": "Orange is one countable fruit and begins with a vowel sound."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The office needs some new ___. (Choose furniture or furnitures.)",
+      "acceptedAnswers": [
+        "furniture"
+      ],
+      "feedback": "Furniture is usually uncountable and has no regular plural form."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "My cousin found a new ___. (Choose job or work.)",
+      "acceptedAnswers": [
+        "job"
+      ],
+      "feedback": "A job is one countable employment position; work is uncountable here."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My brother bought some furnitures yesterday.",
+      "acceptedAnswers": [
+        "My brother bought some furniture yesterday."
+      ],
+      "feedback": "Furniture is uncountable even when it means several objects."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She gave me an advice about the journey.",
+      "acceptedAnswers": [
+        "She gave me some advice about the journey.",
+        "She gave me a piece of advice about the journey."
+      ],
+      "feedback": "Advice is uncountable: use some advice, or count one piece of advice."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She bought some new chair for the kitchen.",
+      "acceptedAnswers": [
+        "She bought some new chairs for the kitchen."
+      ],
+      "feedback": "After some, a countable noun referring to several items must be plural."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We had lovely weathers on our holiday.",
+      "acceptedAnswers": [
+        "We had lovely weather on our holiday."
+      ],
+      "feedback": "Weather is normally uncountable and does not take plural -s."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Offer someone orange juice. Begin with “Would you like” and use some.",
+      "acceptedAnswers": [
+        "Would you like some orange juice?"
+      ],
+      "feedback": "Orange juice is uncountable as a drink, so some fits the offer."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say you need some information about the museum. Begin with “I need”.",
+      "acceptedAnswers": [
+        "I need some information about the museum."
+      ],
+      "feedback": "Information is an uncountable noun."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say you bought one whole cake for a party. Begin with “I bought”.",
+      "acceptedAnswers": [
+        "I bought a cake for a party."
+      ],
+      "feedback": "A cake refers to one complete countable cake."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Say you purchased one apple and an unspecified number of pears. Begin with 'I bought' and use 'an' and 'some'.",
+      "acceptedAnswers": [
+        "I bought an apple and some pears."
+      ],
+      "feedback": "An is used before the singular countable apple; some introduces plural pears."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change 'We ate a whole chicken for dinner' so that it means an unspecified amount of chicken meat. Replace 'a whole chicken' with 'some chicken' and say the complete sentence.",
+      "acceptedAnswers": [
+        "We ate some chicken for dinner."
+      ],
+      "feedback": "Some chicken means an amount of meat rather than one whole animal."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A coworker asks whether you are looking for employment. Answer yes in a complete sentence beginning with 'I'm looking for', using 'a job'.",
+      "acceptedAnswers": [
+        "I'm looking for a job.",
+        "I am looking for a job."
+      ],
+      "feedback": "A job is one countable employment position; work usually names an uncountable activity."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the verb in 'The news are good today'. Say the complete sentence.",
+      "acceptedAnswers": [
+        "The news is good today."
+      ],
+      "feedback": "News is uncountable and takes a singular verb despite its final s."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Tell a friend what you need for an art lesson: some paper and three pens. Start with 'We need' and put paper first.",
+      "acceptedAnswers": [
+        "We need some paper and three pens for the art lesson."
+      ],
+      "feedback": "Paper is uncountable as a material, but pens are countable and take a plural after three."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We bought some fresh vegetables and a loaf of bread for dinner.",
+      "prompt": "Which food in the sentence is uncountable?",
+      "choices": [
+        "Vegetables",
+        "Bread",
+        "Neither"
+      ],
+      "answerIndex": 1,
+      "feedback": "Bread is normally uncountable; a loaf of bread identifies one unit."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I have a new job, but there is a lot of work to do.",
+      "prompt": "Which word names the speaker’s employment position?",
+      "choices": [
+        "Work",
+        "Home",
+        "Job"
+      ],
+      "answerIndex": 2,
+      "feedback": "A job is a countable employment position; work refers to the activity."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I have some good news about the trip.",
+      "prompt": "Type the uncountable noun spoken immediately after “good”.",
+      "acceptedAnswers": [
+        "news"
+      ],
+      "feedback": "News is uncountable and takes singular agreement, despite ending in -s."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "My sister baked a cake for the party, but I only ate a small piece after lunch.",
+      "prompt": "What did the speaker personally eat?",
+      "choices": [
+        "The entire dessert.",
+        "Only part of the dessert.",
+        "No dessert at all."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker ate a small piece, not the whole cake."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I fed the two chickens in the garden, then cooked some chicken for dinner.",
+      "prompt": "Which part of the story refers to living animals?",
+      "choices": [
+        "The animals in the garden.",
+        "The food prepared for dinner.",
+        "Both parts of the story."
+      ],
+      "answerIndex": 0,
+      "feedback": "Two chickens means two whole birds; some chicken refers to meat."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I finished my work early, but my brother is still looking for a job.",
+      "prompt": "Which statement is true?",
+      "choices": [
+        "Both people are seeking employment.",
+        "The speaker has more tasks to finish.",
+        "The brother is seeking an employment position."
+      ],
+      "answerIndex": 2,
+      "feedback": "The brother is looking for a job; work describes the speaker's tasks."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The receptionist gave us some useful information about the city.",
+      "prompt": "Type the quantity word you hear immediately before 'useful information'.",
+      "acceptedAnswers": [
+        "some"
+      ],
+      "feedback": "Some expresses an unspecified amount of the uncountable noun information."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I need a piece of advice about my new job.",
+      "prompt": "Type the two words you hear immediately after 'a'.",
+      "acceptedAnswers": [
+        "piece of"
+      ],
+      "feedback": "A piece of makes one item of advice countable; advice itself is uncountable."
+    }
+  ]
+}

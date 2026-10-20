@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u047",
+  "title": "Asking with What, Which and How",
+  "level": "A2",
+  "topicId": "what-which-how-questions",
+  "summary": "Choose what for general information, which for a limited set of choices, and who for a person. Use how and how with adjectives or adverbs to ask about methods, measurements and frequency.",
+  "learningObjectives": [
+    "Use what on its own and with nouns such as colour, size, time and kind to request information.",
+    "Distinguish which for a defined choice from what for a more open question.",
+    "Use which with or without a noun for things and who without a noun for people.",
+    "Form questions with how and expressions such as how far, how often and how much."
+  ],
+  "explanation": [
+    {
+      "heading": "What for information and categories",
+      "body": "Use what when the question has many possible answers or asks for information generally. Put a noun after what when you want a particular kind of detail: what size, what time, what colour or what kind of food. You can also use what by itself before the rest of the question.",
+      "example": "What size gloves do you need?"
+    },
+    {
+      "heading": "Which for a known set of choices",
+      "body": "Choose which when the listener can select from a small or clearly defined group. You can use which with a noun or alone when the choices are things: Which jacket? or Which is yours? For a general question with no particular set of options, what is usually more natural.",
+      "example": "Which chair would you like, the wooden one or the blue one?"
+    },
+    {
+      "heading": "Ask about a person with who",
+      "body": "Use who when you ask which person, without putting a noun immediately after the question word. In a question about objects, use which when the set is known. To ask about people with which, include a noun such as person or student.",
+      "example": "Who is joining us, Mia or Lucas?"
+    },
+    {
+      "heading": "How for a method or experience",
+      "body": "How can ask about the way something happens or how an experience was. It often appears with do, does or did in questions about a method. It also appears with be when someone asks how an event went.",
+      "example": "How do you usually travel to the library?"
+    },
+    {
+      "heading": "How plus an adjective or adverb",
+      "body": "Add an adjective or adverb after how to ask for a measurement or amount: how old for age, how tall for height, how far for distance, how much for price, how often for frequency, and how long for duration. Keep the normal question order after the phrase.",
+      "example": "How often does your cousin visit?"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "General information or a limited choice",
+      "left": {
+        "label": "What: open question",
+        "example": "What kind of juice do you like?",
+        "note": "There are many possible kinds of juice."
+      },
+      "right": {
+        "label": "Which: given options",
+        "example": "Which juice do you want, orange or apple?",
+        "note": "The listener chooses between two offered drinks."
+      }
+    },
+    {
+      "title": "People and things without a following noun",
+      "left": {
+        "label": "Who: person",
+        "example": "Who is the new team leader?",
+        "note": "The answer names a person."
+      },
+      "right": {
+        "label": "Which: item from a group",
+        "example": "Which is yours, the striped bag or the plain one?",
+        "note": "The answer identifies one of two bags."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "What time does the bakery close on Sundays?",
+      "note": "What time asks for a specific type of information."
+    },
+    {
+      "sentence": "Which notebook is yours, the green one or the purple one?",
+      "note": "Which introduces a choice between known notebooks."
+    },
+    {
+      "sentence": "Who is coming to dinner with Emma?",
+      "note": "Who asks for a person without a following noun."
+    },
+    {
+      "sentence": "How was your first day at the new school?",
+      "note": "How asks about an experience."
+    },
+    {
+      "sentence": "How far is the nearest bus stop?",
+      "note": "How far asks for distance."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "What colour your bicycle is?",
+      "correct": "What colour is your bicycle?",
+      "why": "Place is before the subject in a direct question."
+    },
+    {
+      "incorrect": "Which is the new manager, please?",
+      "correct": "Who is the new manager, please?",
+      "why": "Ask who when the missing information is a person, with no noun after the question word."
+    },
+    {
+      "incorrect": "How often your neighbours have guests?",
+      "correct": "How often do your neighbours have guests?",
+      "why": "A present-simple question with your neighbours requires do."
+    },
+    {
+      "incorrect": "How much far is the supermarket?",
+      "correct": "How far is the supermarket?",
+      "why": "Use how far for distance; do not add much before far."
+    }
+  ],
+  "studyTips": [
+    "Decide whether you want general information (what) or one option from a known list (which).",
+    "Remember the pair who for a person and which for a thing when no noun follows the question word.",
+    "Learn how expressions as chunks: how far, how often, how much and how old."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A shop has two umbrella colours: silver and blue. Choose the correct question about a preference.",
+      "choices": [
+        "Which colour do you prefer?",
+        "Which do you colour prefer?",
+        "Which colour you prefer?"
+      ],
+      "answerIndex": 0,
+      "feedback": "A choice between two stated colours naturally uses which colour + do + subject + base verb."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct question about today’s day of the week.",
+      "choices": [
+        "How day is it today?",
+        "What day is it today?",
+        "What is day it today?"
+      ],
+      "answerIndex": 1,
+      "feedback": "What day asks for the day of the week, followed by is + subject."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct question about the frequency of a hobby.",
+      "choices": [
+        "How long you practise yoga?",
+        "How much often do you practise yoga?",
+        "How often do you practise yoga?"
+      ],
+      "answerIndex": 2,
+      "feedback": "How often asks about frequency; a present-simple question with you uses do."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "You want to know the person who carried a parcel. Choose the natural question.",
+      "choices": [
+        "Which carried the parcel?",
+        "Who carried the parcel?",
+        "How carried the parcel?"
+      ],
+      "answerIndex": 1,
+      "feedback": "Who asks for a person. As the subject here, it is followed directly by carried."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "___ route should we take, the one through the park or the one past the shops?",
+      "acceptedAnswers": [
+        "Which"
+      ],
+      "feedback": "Which asks the listener to choose between the two routes already mentioned."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "___ size are your running shoes?",
+      "acceptedAnswers": [
+        "What"
+      ],
+      "feedback": "What size requests general information about a size, without offering a small set of choices."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "___ do you get to the swimming pool? By bicycle.",
+      "acceptedAnswers": [
+        "How"
+      ],
+      "feedback": "How asks about the method of travel; by bicycle gives that method."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "___ far is the cinema from here?",
+      "acceptedAnswers": [
+        "How"
+      ],
+      "feedback": "How far is the correct opening expression for a question about distance."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: How old your sister is?",
+      "acceptedAnswers": [
+        "How old is your sister?"
+      ],
+      "feedback": "A direct question with be places is before your sister."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: How many often does Lara run?",
+      "acceptedAnswers": [
+        "How often does Lara run?"
+      ],
+      "feedback": "Use how often, not how many often, to ask about frequency."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Which bag you prefer, the blue one or the grey one?",
+      "acceptedAnswers": [
+        "Which bag do you prefer, the blue one or the grey one?"
+      ],
+      "feedback": "Use do before the subject you in a present-simple question."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Who colour is your helmet?",
+      "acceptedAnswers": [
+        "What colour is your helmet?"
+      ],
+      "feedback": "What colour asks for a colour; who asks for a person."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Ask about the price of this notebook. Begin with “How much is” and finish with “this notebook”.",
+      "acceptedAnswers": [
+        "How much is this notebook?"
+      ],
+      "feedback": "How much + is + a singular item is a natural price question."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "A shop offers green and brown jackets. Ask which colour someone prefers. Begin with “Which colour”.",
+      "acceptedAnswers": [
+        "Which colour do you prefer?"
+      ],
+      "feedback": "Use which for the two available options and do before you."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Ask how frequently Ben takes the bus to work. Begin with “How often”.",
+      "acceptedAnswers": [
+        "How often does Ben take the bus to work?"
+      ],
+      "feedback": "The present-simple question uses how often + does + Ben + take."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You want to know the size of the red suitcase. Ask one complete question starting with 'What size'.",
+      "acceptedAnswers": [
+        "What size is the red suitcase?"
+      ],
+      "feedback": "Use What size to request a measurement or category, followed by is before the singular subject."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "A shop has two maps: the paper one and the digital one. Change 'What map do you want?' into a choice question. Use Which map and name both options in that order.",
+      "acceptedAnswers": [
+        "Which map do you want, the paper one or the digital one?"
+      ],
+      "feedback": "Which is natural when the listener chooses from a limited set, such as two specified maps."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A visitor asks, 'How do you get to the office?' You travel by train. Answer in one sentence using I get to the office and by train.",
+      "acceptedAnswers": [
+        "I get to the office by train."
+      ],
+      "feedback": "How asks about a method. By train gives the means of transport."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A learner asks, 'How much far is the airport?' Correct only the error and say the whole question about distance.",
+      "acceptedAnswers": [
+        "How far is the airport?"
+      ],
+      "feedback": "Use How far, not How much far, to ask about distance."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Ask two questions about the evening class, in this order: first its starting time, then how frequently it meets. Use 'the evening class' and the verb start in your first question, then 'it' and the verb meet in your second.",
+      "acceptedAnswers": [
+        "What time does the evening class start? How often does it meet?"
+      ],
+      "feedback": "What time requests a starting time; How often requests frequency. Both present-simple questions need does before the subject."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Which coat do you prefer, the yellow one or the navy one?",
+      "prompt": "What does the speaker ask the listener to choose?",
+      "choices": [
+        "The size of a coat.",
+        "The price of a coat.",
+        "One of two coats."
+      ],
+      "answerIndex": 2,
+      "feedback": "Which and the two colours show that the speaker is offering a choice between coats."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "How far is the swimming pool from here?",
+      "prompt": "What does the speaker want to know?",
+      "choices": [
+        "The distance to the swimming pool.",
+        "The pool’s opening time.",
+        "The price of entry."
+      ],
+      "answerIndex": 0,
+      "feedback": "How far asks about distance, not opening hours or price."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "What kind of soup do they serve on Fridays?",
+      "prompt": "Type the opening three-word question expression you hear.",
+      "acceptedAnswers": [
+        "what kind of"
+      ],
+      "feedback": "What kind of asks about a category or type of soup."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "How did Nora send the documents, by email or by post?",
+      "prompt": "What does the speaker want to find out?",
+      "choices": [
+        "When Nora sent the documents.",
+        "Who received the documents.",
+        "How Nora sent the documents."
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker asks about the method of sending, not the time or the recipient."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "How often does the art class meet? It meets every Tuesday and Thursday evening.",
+      "prompt": "How many classes are held in a normal week?",
+      "choices": [
+        "One.",
+        "Two.",
+        "Three."
+      ],
+      "answerIndex": 1,
+      "feedback": "Tuesday and Thursday are two different days, so the class meets twice each week."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "You can have the lemon cake or the chocolate cake. Which cake would you like?",
+      "prompt": "What does the listener need to do?",
+      "choices": [
+        "Choose between two offered cakes.",
+        "Describe the ingredients of a cake.",
+        "Say how much the cakes cost."
+      ],
+      "answerIndex": 0,
+      "feedback": "Which asks the listener to select one item from the two named options."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "How much is the return ticket for one adult?",
+      "prompt": "Type only the first two words used to ask about the fare.",
+      "acceptedAnswers": [
+        "how much"
+      ],
+      "feedback": "How much asks about the price of something."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The blue backpack is light, but the black one is stronger. Which one would you choose?",
+      "prompt": "Type only the first two words of the question at the end.",
+      "acceptedAnswers": [
+        "which one"
+      ],
+      "feedback": "Which one asks someone to select an item from a set of known alternatives."
+    }
+  ]
+}

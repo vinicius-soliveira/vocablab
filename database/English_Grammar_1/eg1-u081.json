@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u081",
+  "title": "Quantifiers: Groups and Parts",
+  "level": "A2",
+  "topicId": "quantifiers-groups-and-parts",
+  "summary": "Use all, most, some, any, no and none to describe whole groups, parts of groups and zero quantities. Choose the correct form when you name a general group or a particular group.",
+  "learningObjectives": [
+    "Use all, most and some directly before a noun to describe people or things in general.",
+    "Add of where necessary when a quantifier refers to a defined group.",
+    "Distinguish no before a noun from none of before a specific group.",
+    "Use quantifier + of + object pronoun to refer back to people or things."
+  ],
+  "explanation": [
+    {
+      "heading": "Talk about things in general",
+      "body": "When you mean a general group, use all, most or some directly before a plural noun or an uncountable noun. Do not insert of before a noun with no determiner. For example, most visitors refers to visitors generally, not to a particular set.",
+      "example": "Most gardens need water in summer."
+    },
+    {
+      "heading": "Talk about a particular group",
+      "body": "Use most of, some of or any of before the, this, these, my and similar words. These expressions select people or things from a group you can identify. The form is quantifier + of + determiner + noun.",
+      "example": "Some of my classmates walk to school."
+    },
+    {
+      "heading": "Use all with or without of",
+      "body": "With a defined group, all the and all of the have the same basic meaning. All my neighbours and all of my neighbours are both possible. With a general plural noun, use all without of.",
+      "example": "All of the windows in our flat face the garden."
+    },
+    {
+      "heading": "Express zero with no, none and not any",
+      "body": "Use no directly before a noun: no tickets. Use none of before a defined group: none of these tickets. In standard English, a negative verb normally takes any, not no: I do not have any tickets. None can also stand alone as a short answer.",
+      "example": "None of the cups on this shelf is clean."
+    },
+    {
+      "heading": "Refer back with of + pronoun",
+      "body": "After all, most, some, any or none, use of before it, them, us or you. Use them for a plural group and it for an uncountable amount or one thing. Do not say most them or none us.",
+      "example": "I invited six friends, and most of them came."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "General group or particular group",
+      "left": {
+        "label": "General",
+        "example": "Most travellers carry a small bag.",
+        "note": "No of before travellers when speaking generally."
+      },
+      "right": {
+        "label": "Particular",
+        "example": "Most of our travellers arrived early.",
+        "note": "Use of before our to select a known group."
+      }
+    },
+    {
+      "title": "No before a noun; none of before a group",
+      "left": {
+        "label": "No + noun",
+        "example": "We have no clean towels.",
+        "note": "No comes directly before the noun phrase."
+      },
+      "right": {
+        "label": "None of + group",
+        "example": "None of these towels is clean.",
+        "note": "None of refers to a defined set of towels."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Some cafés open early on Sundays.",
+      "note": "Some describes part of a general group."
+    },
+    {
+      "sentence": "Most of the seats near the window are free.",
+      "note": "Of the identifies the seats being discussed."
+    },
+    {
+      "sentence": "All our guests have arrived.",
+      "note": "All can precede a possessive directly."
+    },
+    {
+      "sentence": "I have not used any of these plates.",
+      "note": "Any of refers to items in a particular group in a negative sentence."
+    },
+    {
+      "sentence": "We bought three oranges and ate all of them.",
+      "note": "Of them replaces a previously mentioned plural noun."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Most of tourists carry a camera.",
+      "correct": "Most tourists carry a camera.",
+      "why": "Leave out of when the plural noun describes people generally."
+    },
+    {
+      "incorrect": "Some my neighbours work at night.",
+      "correct": "Some of my neighbours work at night.",
+      "why": "Use of between some and the possessive my."
+    },
+    {
+      "incorrect": "No of these apples is ripe.",
+      "correct": "None of these apples is ripe.",
+      "why": "Use none of, not no of, before a defined group."
+    },
+    {
+      "incorrect": "I do not have no free time.",
+      "correct": "I do not have any free time.",
+      "why": "In standard negative sentences, not pairs with any; no is used without not."
+    }
+  ],
+  "studyTips": [
+    "Look at the word after the quantifier: a bare noun usually takes no of; the, these or my usually calls for of after most, some or any.",
+    "Practise the pairs no + noun and none of + group. Say a full sentence for each pair.",
+    "When replacing a group with a pronoun, remember the of: some of it, most of them, none of us."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct beginning: ___ musicians practise regularly.",
+      "choices": [
+        "Most",
+        "Most of",
+        "All of"
+      ],
+      "answerIndex": 0,
+      "feedback": "Most + a bare plural noun describes musicians in general."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: ___ my cousins live nearby.",
+      "choices": [
+        "Most",
+        "Most of",
+        "The most of"
+      ],
+      "answerIndex": 1,
+      "feedback": "Most of is required before a possessive such as my."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: There is not ___ juice in the fridge.",
+      "choices": [
+        "no",
+        "none",
+        "any"
+      ],
+      "answerIndex": 2,
+      "feedback": "Not any is the normal standard negative form before an uncountable noun."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: ___ the postcards on this table are from Italy.",
+      "choices": [
+        "Some of",
+        "Some",
+        "A few"
+      ],
+      "answerIndex": 0,
+      "feedback": "Some of the refers to a specific collection of postcards."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with 'none' or 'no': ___ of these postcards belongs to me; they all belong to Eva.",
+      "acceptedAnswers": [
+        "None"
+      ],
+      "feedback": "None of is used for zero items in a defined group."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with 'no' or 'none': We have ___ clean glasses, so please wash a few.",
+      "acceptedAnswers": [
+        "no"
+      ],
+      "feedback": "No goes directly before the noun phrase clean glasses."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with 'some' or 'some of': ___ of us are going by train; the others are driving.",
+      "acceptedAnswers": [
+        "Some"
+      ],
+      "feedback": "Some of us means a part of our group."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with 'most' or 'most of': ___ the tables in the café are occupied.",
+      "acceptedAnswers": [
+        "Most of"
+      ],
+      "feedback": "The identifies a particular set of tables, so use most of."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Remove the unnecessary word: Most of tourists visit the market.",
+      "acceptedAnswers": [
+        "Most tourists visit the market."
+      ],
+      "feedback": "Most goes directly before a plural noun that represents people in general."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Add the missing word: Some my colleagues cycle to work.",
+      "acceptedAnswers": [
+        "Some of my colleagues cycle to work."
+      ],
+      "feedback": "Use some of before the possessive my."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Replace the incorrect quantifier: No of these rooms has a balcony.",
+      "acceptedAnswers": [
+        "None of these rooms has a balcony."
+      ],
+      "feedback": "None of, not no of, means zero within a specific set."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Replace only the incorrect quantifier: I don't have no clean socks.",
+      "acceptedAnswers": [
+        "I don't have any clean socks."
+      ],
+      "feedback": "After do not, use any before the noun in standard English."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say the completed sentence aloud, using 'Most': '___ dogs enjoy a walk.'",
+      "acceptedAnswers": [
+        "Most dogs enjoy a walk."
+      ],
+      "feedback": "Most goes directly before the general plural noun dogs."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say one sentence starting 'None of the bags ...': There are three bags, and zero belong to Nina.",
+      "acceptedAnswers": [
+        "None of the bags belongs to Nina.",
+        "None of the bags belong to Nina."
+      ],
+      "feedback": "None of identifies zero items from the three bags; both singular and plural agreement occur in usage."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say the completed sentence aloud, including 'all of': 'We finished ___ the work.'",
+      "acceptedAnswers": [
+        "We finished all of the work."
+      ],
+      "feedback": "All of the refers to the complete amount of a specific task."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "In a box of five notebooks, two have labels and three do not. Say one complete sentence beginning \"Some of the notebooks\" and ending \"have labels\".",
+      "acceptedAnswers": [
+        "Some of the notebooks have labels."
+      ],
+      "feedback": "Some of the identifies part of a particular group of notebooks. The plural subject takes have."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Rewrite \"There are no blue plates in this box\" using \"None of the plates\" and the plural verb \"are\". Keep the place and colour.",
+      "acceptedAnswers": [
+        "None of the plates in this box are blue."
+      ],
+      "feedback": "None of the plates identifies zero blue plates in the specific group. Use none of, not no of."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You ate part of the cake Mia brought, but not the whole cake. Tell Mia what you ate. Begin \"I ate\" and use \"some of the cake\".",
+      "acceptedAnswers": [
+        "I ate some of the cake."
+      ],
+      "feedback": "Some of the refers to part of a particular cake. The article the makes the group specific."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this sentence and say it aloud: \"I invited eight friends, and most them came.\" Change only what is necessary.",
+      "acceptedAnswers": [
+        "I invited eight friends, and most of them came."
+      ],
+      "feedback": "A quantifier followed by the object pronoun them needs of: most of them."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two short sentences. First: \"I bought four peaches.\" Then say that two are ripe, beginning \"Some of them\" and ending \"are ripe\".",
+      "acceptedAnswers": [
+        "I bought four peaches. Some of them are ripe."
+      ],
+      "feedback": "Some of them refers back to part of the group of four peaches, without repeating the noun."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Most of the shops on this street close at six.",
+      "prompt": "Which group does the speaker describe?",
+      "choices": [
+        "Shops around the world",
+        "The shops on one street",
+        "Every shop in the city"
+      ],
+      "answerIndex": 1,
+      "feedback": "Most of the shops on this street refers to a particular local group."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "None of our chairs is broken.",
+      "prompt": "How many of the chairs are broken?",
+      "choices": [
+        "A few chairs",
+        "All the chairs",
+        "Zero chairs"
+      ],
+      "answerIndex": 2,
+      "feedback": "None of our chairs means not one chair in that group."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I have no spare batteries at home.",
+      "prompt": "Type the one word immediately before “spare batteries” in the audio.",
+      "acceptedAnswers": [
+        "no"
+      ],
+      "feedback": "No directly before a noun phrase expresses zero quantity."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "All the bedrooms in our guest house have large windows.",
+      "prompt": "What can a guest expect in any bedroom?",
+      "choices": [
+        "A room without windows.",
+        "A window only in the largest bedroom.",
+        "A large window in every bedroom."
+      ],
+      "answerIndex": 2,
+      "feedback": "All the bedrooms describes the whole specific group, so no bedroom is without a large window."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I checked eight lanterns, and most of them still work.",
+      "prompt": "How many of the checked items are still working?",
+      "choices": [
+        "Exactly one.",
+        "More than half.",
+        "None of them."
+      ],
+      "answerIndex": 1,
+      "feedback": "Most of them means a majority of the eight lanterns, so more than four still work."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I bought five greeting cards, but I did not send any of them.",
+      "prompt": "What happened to the cards?",
+      "choices": [
+        "All five remain unsent.",
+        "Only one was sent.",
+        "All five were sent."
+      ],
+      "answerIndex": 0,
+      "feedback": "Did not send any of them means zero cards in that particular group were sent."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Some of those hikers are still on the mountain.",
+      "prompt": "Type the two-word quantifier immediately before \"those hikers\".",
+      "acceptedAnswers": [
+        "some of"
+      ],
+      "feedback": "Some of introduces a part of a specified group: those hikers."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We had four sandwiches and ate all of them before noon.",
+      "prompt": "Type the three-word expression indicating the entire group was eaten.",
+      "acceptedAnswers": [
+        "all of them"
+      ],
+      "feedback": "All of them means the complete previously mentioned group of sandwiches."
+    }
+  ]
+}

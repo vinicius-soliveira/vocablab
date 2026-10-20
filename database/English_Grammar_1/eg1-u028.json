@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u028",
+  "title": "Will for Decisions; Shall for Suggestions",
+  "level": "A2",
+  "topicId": "will-spontaneous-decisions-shall-suggestions",
+  "summary": "Use will when you decide or offer to do something at the moment of speaking. Use Shall I ...? to offer help and Shall we ...? to suggest doing something together.",
+  "learningObjectives": [
+    "Make an immediate decision or offer with I will or I’ll and a base verb.",
+    "Choose a form for a new decision rather than a previously arranged plan.",
+    "Offer to do something by asking Shall I ...?",
+    "Suggest a shared activity by asking Shall we ...?"
+  ],
+  "explanation": [
+    {
+      "heading": "An offer made now",
+      "body": "When you notice someone needs help, you can offer to act using I’ll (I will) + the base form of a verb. The offer is made as you speak. Will does not need to or an -ing ending before the main verb.",
+      "example": "Those plates look heavy. I’ll carry two of them."
+    },
+    {
+      "heading": "A decision made at this moment",
+      "body": "Use I’ll when you make a decision during the conversation. I think I’ll ... and I don’t think I’ll ... are common ways to express that decision. Will can also introduce a promise or commitment made as you speak.",
+      "example": "This room is noisy. I think I’ll work in the kitchen."
+    },
+    {
+      "heading": "Decided earlier or decided now?",
+      "body": "Going to is useful for an intention decided before speaking. The present continuous often describes an appointment or arrangement already made. In contrast, I’ll is especially natural for a new decision, offer or promise made now. These are typical choices, not a claim that will is impossible in every planned-future sentence.",
+      "example": "I booked my appointment yesterday, so I’m seeing the nurse on Friday."
+    },
+    {
+      "heading": "Shall I ...? and Shall we ...?",
+      "body": "Use Shall I + base verb to offer to do something or ask what you should do. Use Shall we + base verb when suggesting an activity for yourself and one or more other people. Put shall before I or we, and do not add to before the verb.",
+      "example": "Shall we take the stairs, or shall I call the lift?"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A new decision or an earlier plan?",
+      "left": {
+        "label": "Decision now",
+        "example": "The phone is ringing. I’ll answer it.",
+        "note": "The speaker decides to answer as the phone rings."
+      },
+      "right": {
+        "label": "Plan decided earlier",
+        "example": "I’m going to call my sister after lunch.",
+        "note": "The speaker had this intention before speaking."
+      }
+    },
+    {
+      "title": "Offering help or suggesting something together",
+      "left": {
+        "label": "Shall I ...?",
+        "example": "Shall I bring you a glass of water?",
+        "note": "One person offers to do something."
+      },
+      "right": {
+        "label": "Shall we ...?",
+        "example": "Shall we sit in the garden?",
+        "note": "The speaker suggests an activity for the group."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "You can keep your seat. I’ll stand.",
+      "note": "The speaker makes a decision at the moment."
+    },
+    {
+      "sentence": "I’ll send you the directions tonight, I promise.",
+      "note": "I’ll send expresses a promise made during the conversation."
+    },
+    {
+      "sentence": "I don’t think I’ll watch another episode tonight.",
+      "note": "The speaker decides against an action."
+    },
+    {
+      "sentence": "Shall I close the curtains?",
+      "note": "Shall I introduces an offer or a request for guidance."
+    },
+    {
+      "sentence": "Where shall we eat this evening?",
+      "note": "Where shall we asks the group to decide together."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I’ll to help you with that.",
+      "correct": "I’ll help you with that.",
+      "why": "Use the base verb directly after I’ll."
+    },
+    {
+      "incorrect": "Shall we going home now?",
+      "correct": "Shall we go home now?",
+      "why": "The verb after shall we must be its base form."
+    },
+    {
+      "incorrect": "Shall I opens the box for you?",
+      "correct": "Shall I open the box for you?",
+      "why": "The base form open follows shall, even with I."
+    },
+    {
+      "incorrect": "I think I go and get some water.",
+      "correct": "I think I’ll go and get some water.",
+      "why": "Use I’ll, not the present simple, for this decision made now."
+    }
+  ],
+  "studyTips": [
+    "Think of a new problem and practise a quick offer: “I’ll help”, “I’ll check” or “I’ll get it”.",
+    "Remember the distinction: Shall I ...? offers your help; Shall we ...? invites other people to act with you.",
+    "After will or shall, use the base form: carry, call, go and help."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A colleague spills some water. Which response is a spontaneous offer?",
+      "choices": [
+        "I brought a towel yesterday.",
+        "I’ll bring you a towel.",
+        "I bring you a towel every week."
+      ],
+      "answerIndex": 1,
+      "feedback": "I’ll bring expresses help offered at the moment the problem appears."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which speaker decides what to do at the moment of speaking?",
+      "choices": [
+        "I’ve booked our table for Saturday.",
+        "I’m going to cook pasta tomorrow; I planned it earlier.",
+        "I think I’ll make some tea now."
+      ],
+      "answerIndex": 2,
+      "feedback": "I think I’ll make expresses a decision being made now."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The room is dark. Which question offers to help?",
+      "choices": [
+        "Shall I turn on the light?",
+        "Shall we turned on the light?",
+        "Will I turning on the light?"
+      ],
+      "answerIndex": 0,
+      "feedback": "Shall I + base verb is a natural offer to do something."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which question suggests an activity for the speaker and a friend?",
+      "choices": [
+        "Will I go for a swim?",
+        "Shall he go for a swim?",
+        "Shall we go for a swim?"
+      ],
+      "answerIndex": 2,
+      "feedback": "Shall we proposes a shared activity."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete the immediate offer with will: “That bag is heavy. I ___ carry it for you.”",
+      "acceptedAnswers": [
+        "will"
+      ],
+      "feedback": "I will carry is an offer made as the speaker notices the heavy bag."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete the decision with I’ll or I will: “It’s nearly midnight. I think ___ go home now.”",
+      "acceptedAnswers": [
+        "I’ll",
+        "I will"
+      ],
+      "feedback": "I think I’ll go describes a decision made now."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Offer to open the window: “___ I open the window?”",
+      "acceptedAnswers": [
+        "shall"
+      ],
+      "feedback": "Shall I ...? asks whether the speaker should do something."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Suggest a short rest together: “___ we take a break?”",
+      "acceptedAnswers": [
+        "shall"
+      ],
+      "feedback": "Shall we ...? is used to suggest something for a group."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I will to bring you a blanket.",
+      "acceptedAnswers": [
+        "I will bring you a blanket."
+      ],
+      "feedback": "Use bring, not to bring, after will."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Shall we to have lunch now?",
+      "acceptedAnswers": [
+        "Shall we have lunch now?"
+      ],
+      "feedback": "Shall we is followed directly by the base verb have."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Shall I opens the door for you?",
+      "acceptedAnswers": [
+        "Shall I open the door for you?"
+      ],
+      "feedback": "Use open without -s after shall."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I think I will answering the phone.",
+      "acceptedAnswers": [
+        "I think I will answer the phone."
+      ],
+      "feedback": "Will is followed by answer, the base form, not answering."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Your friend cannot see the map. Offer to show it using “I’ll”.",
+      "acceptedAnswers": [
+        "I’ll show you the map.",
+        "I will show you the map."
+      ],
+      "feedback": "I’ll show is a short, natural offer made immediately."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Suggest that you and a friend sit outside. Begin with “Shall we”.",
+      "acceptedAnswers": [
+        "Shall we sit outside?"
+      ],
+      "feedback": "Shall we + base verb suggests a shared activity."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Ask for advice about the guests’ meal. Use these words: What / shall / I / cook / for / the guests?",
+      "acceptedAnswers": [
+        "What shall I cook for the guests?"
+      ],
+      "feedback": "What shall I ...? asks another person to help you decide."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A cold wind is coming through the open door. You decide now to close it. Offer this action in one full sentence using 'I'll' or 'I will' and the words 'close the door'.",
+      "acceptedAnswers": [
+        "I'll close the door.",
+        "I will close the door."
+      ],
+      "feedback": "I'll close describes a decision and offer made right now; close is the base verb."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this immediate decision into a negative one, keeping all the other words: 'I'll buy a snack now.'",
+      "acceptedAnswers": [
+        "I won't buy a snack now.",
+        "I will not buy a snack now."
+      ],
+      "feedback": "Won't buy (will not buy) expresses a decision not to do something; buy stays in its base form."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your friend is carrying six shopping bags. Offer to carry one of their bags. Ask a complete question beginning 'Shall I' and using 'carry one of your bags'.",
+      "acceptedAnswers": [
+        "Shall I carry one of your bags?"
+      ],
+      "feedback": "Shall I + carry offers to perform the action yourself."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "The buses have stopped running. You had not planned to take a taxi, but you decide now. Say 'I think' followed by 'I'll' or 'I will' and 'call a taxi'.",
+      "acceptedAnswers": [
+        "I think I'll call a taxi.",
+        "I think I will call a taxi."
+      ],
+      "feedback": "I think I'll call expresses a new decision, unlike going to for a prior intention."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "The meeting room is too warm. In two questions, first offer to open the window with 'Shall I', then suggest getting some water together with 'Shall we'. Use those exact actions in that order.",
+      "acceptedAnswers": [
+        "Shall I open the window? Shall we get some water?"
+      ],
+      "feedback": "Shall I asks about an action you can do; Shall we suggests a shared activity."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "That box looks heavy. I’ll lift it for you.",
+      "prompt": "What does the speaker offer to do?",
+      "choices": [
+        "Help lift a box.",
+        "Book a taxi.",
+        "Carry some water."
+      ],
+      "answerIndex": 0,
+      "feedback": "I’ll lift it is an immediate offer to help with the box."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We have a free afternoon. Shall we visit the botanical garden?",
+      "prompt": "What does the speaker suggest?",
+      "choices": [
+        "Going to work.",
+        "Visiting the garden together.",
+        "Staying indoors."
+      ],
+      "answerIndex": 1,
+      "feedback": "Shall we proposes an activity for the speaker and the other person."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The music is very loud. Shall I turn it down?",
+      "prompt": "Type the two-word opening used to offer help.",
+      "acceptedAnswers": [
+        "Shall I"
+      ],
+      "feedback": "Shall I introduces the offer to lower the music."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I can't find my gloves. I'll ask at reception before we leave.",
+      "prompt": "What does the speaker decide to do?",
+      "choices": [
+        "Buy replacement gloves tomorrow.",
+        "Leave immediately without checking.",
+        "Ask staff about a missing item."
+      ],
+      "answerIndex": 2,
+      "feedback": "I'll ask is a decision made now to seek help from reception."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The soup smells great. Shall I put another bowl on the table for you?",
+      "prompt": "What help does the speaker offer?",
+      "choices": [
+        "Set out an extra dish.",
+        "Cook another kind of soup.",
+        "Clean the dining table."
+      ],
+      "answerIndex": 0,
+      "feedback": "Shall I put another bowl on the table? is an offer to set out an extra dish."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I'm going to visit my uncle tomorrow; I planned that last night. The doorbell's ringing, so I'll answer it.",
+      "prompt": "Which action is a decision made at the moment of speaking?",
+      "choices": [
+        "Visiting the uncle tomorrow.",
+        "Responding to the visitor at the door.",
+        "Both decisions were made last night."
+      ],
+      "answerIndex": 1,
+      "feedback": "The uncle visit was planned earlier; I'll answer is a decision made when the doorbell rings."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The café is busy. Shall we wait outside for a few minutes?",
+      "prompt": "Type the two-word opening used to suggest an action together.",
+      "acceptedAnswers": [
+        "Shall we"
+      ],
+      "feedback": "Shall we introduces a suggestion for the speaker and another person."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Don't worry about the missing ticket. I'll email you a copy tonight.",
+      "prompt": "Type only the future verb phrase expressing the offer to send a copy.",
+      "acceptedAnswers": [
+        "I'll email",
+        "I will email"
+      ],
+      "feedback": "I'll email (I will email) expresses an immediate offer or promise."
+    }
+  ]
+}

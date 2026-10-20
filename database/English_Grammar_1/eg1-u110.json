@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u110",
+  "title": "Movement: Into, Through, Across and More",
+  "level": "A2",
+  "topicId": "movement-direction-prepositions",
+  "summary": "Use common prepositions to describe where movement starts, which way it goes and the route it follows. Distinguish going inside, crossing, passing, climbing and moving around places.",
+  "learningObjectives": [
+    "Use to, from, into and out of to describe destinations and movement into or out of spaces.",
+    "Describe movement onto or away from surfaces with on and off.",
+    "Use up, down, over and under to explain vertical movement and routes.",
+    "Distinguish through, round or around, along, across and past when describing a route."
+  ],
+  "explanation": [
+    {
+      "heading": "To, from, into and out of",
+      "body": "To names a destination and from names a starting point: from the station to the park. Use into when someone or something moves from outside to inside a place; use out of when it leaves that space. In normally describes a position, and put something in a bag is usually more natural than put something into a bag.",
+      "example": "A little bird flew into our kitchen through the open door."
+    },
+    {
+      "heading": "On and off",
+      "body": "On can describe movement to a surface or onto certain forms of transport; off describes movement away from a surface. With public transport, we often say get on the bus and get off the bus. Take something off a shelf means remove it from the shelf.",
+      "example": "My scarf fell off the chair and onto the floor."
+    },
+    {
+      "heading": "Up, down, over and under",
+      "body": "Use up for movement towards a higher point and down for movement towards a lower one. Over describes crossing something from above, such as a low fence. Under describes a path below another object, such as going under a bridge.",
+      "example": "The runners went up the steep path to the viewpoint."
+    },
+    {
+      "heading": "Through and round or around",
+      "body": "Through describes passing into and across the inside of an opening, tunnel or area. Round (also around) describes following a curved path or going to the other side of something. A route can go through a park or around its edge: these are different paths.",
+      "example": "We walked through a long tunnel beneath the town."
+    },
+    {
+      "heading": "Along, across and past",
+      "body": "Along follows the length of a road, wall or river. Across goes from one side to the other. Past means going beyond a place or person on your way somewhere else. These words help make simple directions clear.",
+      "example": "Go along the lane and then walk past the post office."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Movement inside versus position inside",
+      "left": {
+        "label": "Into: movement",
+        "example": "The child ran into the room.",
+        "note": "The child moved from outside to inside the room."
+      },
+      "right": {
+        "label": "In: position",
+        "example": "The child is in the room.",
+        "note": "The child is already inside the room."
+      }
+    },
+    {
+      "title": "Across versus along",
+      "left": {
+        "label": "Across: one side to the other",
+        "example": "We walked across the field.",
+        "note": "Our route crossed the field."
+      },
+      "right": {
+        "label": "Along: following a line",
+        "example": "We walked along the edge of the field.",
+        "note": "Our route followed its edge rather than crossing it."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The guests came out of the hall after the concert.",
+      "note": "Out of marks movement from inside to outside."
+    },
+    {
+      "sentence": "The cyclist rode down the hill carefully.",
+      "note": "Down marks movement towards a lower place."
+    },
+    {
+      "sentence": "A small boat passed under the wooden bridge.",
+      "note": "Under describes movement beneath an object."
+    },
+    {
+      "sentence": "The children ran around the playground.",
+      "note": "Around can describe moving in a curved or circular route."
+    },
+    {
+      "sentence": "We took a short path across the garden.",
+      "note": "Across describes a route from one side to another."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "A rabbit jumped into of the box.",
+      "correct": "A rabbit jumped into the box.",
+      "why": "Into is one preposition; do not add of."
+    },
+    {
+      "incorrect": "The cyclist rode up to the hill to reach the top.",
+      "correct": "The cyclist rode up the hill to reach the top.",
+      "why": "Up the hill describes movement along the slope; up to the hill means reaching the hill."
+    },
+    {
+      "incorrect": "A child ran out the classroom.",
+      "correct": "A child ran out of the classroom.",
+      "why": "Out of is the normal phrase for leaving an enclosed space."
+    },
+    {
+      "incorrect": "We walked past of the theatre.",
+      "correct": "We walked past the theatre.",
+      "why": "Past takes the place name directly, without of."
+    }
+  ],
+  "studyTips": [
+    "Imagine drawing an arrow: into ends inside, out of starts inside, and across reaches the other side.",
+    "For directions, remember along the road, past the shop, through the tunnel and around the corner.",
+    "Compare get on a bus with get off a bus; compare go up a hill with go down a hill."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: The puppy ran ___ the kitchen when we opened the door.",
+      "choices": [
+        "into",
+        "out of",
+        "past"
+      ],
+      "answerIndex": 0,
+      "feedback": "Into shows the puppy moved from outside the kitchen to inside it."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct expression: Maya took a clean cup ___ the cupboard and carried it to the sink.",
+      "choices": [
+        "over",
+        "out of",
+        "along"
+      ],
+      "answerIndex": 1,
+      "feedback": "Out of indicates that Maya removed the cup from inside the cupboard."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: We cycled ___ the hill, from the valley to the top.",
+      "choices": [
+        "down",
+        "through",
+        "up"
+      ],
+      "answerIndex": 2,
+      "feedback": "Up shows movement from a lower point to a higher point."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: We swam ___ the river, from one bank to the other.",
+      "choices": [
+        "across",
+        "along",
+        "past"
+      ],
+      "answerIndex": 0,
+      "feedback": "Across describes travelling from one bank to the opposite bank."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: We walked ___ the cinema without stopping; the café was further down the road.",
+      "acceptedAnswers": [
+        "past",
+        "by"
+      ],
+      "feedback": "Past means going beyond a place; by is also natural in this sentence."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: We walked ___ the shore, following the coastline for an hour.",
+      "acceptedAnswers": [
+        "along"
+      ],
+      "feedback": "Along describes following the length of the shore."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: The ball rolled ___ the stairs, from the top step to the bottom.",
+      "acceptedAnswers": [
+        "down"
+      ],
+      "feedback": "Down expresses movement from the top to the bottom."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: The athlete jumped ___ the low wall and landed on the other side.",
+      "acceptedAnswers": [
+        "over"
+      ],
+      "feedback": "Over describes crossing an obstacle above it."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The kitten jumped into of the empty box.",
+      "acceptedAnswers": [
+        "The kitten jumped into the empty box."
+      ],
+      "feedback": "Into already means movement inside, so of is unnecessary."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Smoke came out at the open window.",
+      "acceptedAnswers": [
+        "Smoke came out of the open window."
+      ],
+      "feedback": "Use out of, not at, to describe smoke leaving through the window."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The book fell off from the top shelf.",
+      "acceptedAnswers": [
+        "The book fell off the top shelf."
+      ],
+      "feedback": "Off is sufficient to show movement away from the shelf."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We walked past of the bakery on our way home.",
+      "acceptedAnswers": [
+        "We walked past the bakery on our way home."
+      ],
+      "feedback": "Past takes the noun phrase directly; do not add of."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say the complete sentence using from and to: 'We walked ___ the station ___ the café.'",
+      "acceptedAnswers": [
+        "We walked from the station to the café."
+      ],
+      "feedback": "From is the starting point; to is the destination."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say the complete sentence using off: 'The notebook fell ___ the desk and landed on the floor.'",
+      "acceptedAnswers": [
+        "The notebook fell off the desk and landed on the floor."
+      ],
+      "feedback": "Off indicates that the notebook left the desk’s surface."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say the complete sentence using through: 'We drove ___ the tunnel before sunset.'",
+      "acceptedAnswers": [
+        "We drove through the tunnel before sunset."
+      ],
+      "feedback": "Through describes travelling inside the tunnel from one end towards the other."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A kitten runs from the hall to the inside of a cupboard. Describe its movement in one sentence. Begin 'The kitten ran', and include from the hall and into the cupboard.",
+      "acceptedAnswers": [
+        "The kitten ran from the hall into the cupboard."
+      ],
+      "feedback": "From gives the starting point; into shows movement from outside to inside the cupboard."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change the direction in this sentence from uphill to downhill. Keep every other word the same: 'The hikers walked up the hill.'",
+      "acceptedAnswers": [
+        "The hikers walked down the hill."
+      ],
+      "feedback": "Down shows movement towards a lower place; up would mean towards a higher place."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend needs to walk from one side of a narrow bridge to the other. Give one short instruction beginning 'Walk' and using across the bridge.",
+      "acceptedAnswers": [
+        "Walk across the bridge."
+      ],
+      "feedback": "Across describes a route from one side of the bridge to the other."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Someone says: 'We walked along the football field from one side to the other.' Correct only the direction word to match a route crossing the field. Say the complete corrected sentence.",
+      "acceptedAnswers": [
+        "We walked across the football field from one side to the other."
+      ],
+      "feedback": "Across means crossing from one side to another; along means following the length of something."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give two short walking directions. First follow Hill Road lengthwise. Then pass the bakery without stopping. Begin the first instruction with 'Walk along' and the second with 'Then walk past'.",
+      "acceptedAnswers": [
+        "Walk along Hill Road. Then walk past the bakery.",
+        "Walk along Hill Road, then walk past the bakery."
+      ],
+      "feedback": "Along describes following the road; past means continuing beyond the bakery."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Lina stepped off the bus at the next stop.",
+      "prompt": "What did Lina do?",
+      "choices": [
+        "She got on the bus.",
+        "She stepped off the bus.",
+        "She walked along the bus."
+      ],
+      "answerIndex": 1,
+      "feedback": "Stepped off the bus means Lina left the bus."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The cyclist went around the park instead of riding through it.",
+      "prompt": "Which route did the cyclist take?",
+      "choices": [
+        "Through the park.",
+        "Across the park.",
+        "Around the park."
+      ],
+      "answerIndex": 2,
+      "feedback": "The cyclist went around the park, not through it."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "We walked under the bridge to reach the riverside.",
+      "prompt": "Type the movement word you hear immediately after “walked”.",
+      "acceptedAnswers": [
+        "under"
+      ],
+      "feedback": "Under describes the route below the bridge."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The little rabbit ran into the shed and disappeared from view.",
+      "prompt": "What happened to the rabbit?",
+      "choices": [
+        "It came outside the shed.",
+        "It went inside the shed.",
+        "It climbed onto the roof."
+      ],
+      "answerIndex": 1,
+      "feedback": "Into indicates movement from outside to inside the shed."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Follow the path along the river for two minutes, then cross the wooden bridge.",
+      "prompt": "What should the walker do first?",
+      "choices": [
+        "Go over the bridge.",
+        "Walk around a building.",
+        "Follow the riverside path."
+      ],
+      "answerIndex": 2,
+      "feedback": "First the walker follows the river; crossing the bridge is the next step."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The cyclist rode over the bridge while a boat travelled under it.",
+      "prompt": "Which traveller took the lower route?",
+      "choices": [
+        "The boat.",
+        "The cyclist.",
+        "Both travellers."
+      ],
+      "answerIndex": 0,
+      "feedback": "The boat passed beneath the bridge, while the cyclist crossed on top of it."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The children climbed up the steps to the old tower.",
+      "prompt": "Type the one direction word you hear directly after 'climbed'.",
+      "acceptedAnswers": [
+        "up"
+      ],
+      "feedback": "Up shows movement towards a higher position on the steps."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Emma hurried out of the classroom when the bell rang.",
+      "prompt": "Type the two-word movement expression you hear directly after 'hurried'.",
+      "acceptedAnswers": [
+        "out of"
+      ],
+      "feedback": "Out of describes movement from inside a room to outside it."
+    }
+  ]
+}

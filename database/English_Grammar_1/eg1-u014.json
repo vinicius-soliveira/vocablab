@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u014",
+  "title": "Past Continuous and Past Simple",
+  "level": "A2",
+  "topicId": "past-continuous-vs-simple",
+  "summary": "Distinguish an action that was in progress from a completed past event. Use both past tenses to describe what was happening when something else occurred.",
+  "learningObjectives": [
+    "Identify completed past actions and actions in progress at a past time.",
+    "Combine past continuous and past simple to describe an event during another activity.",
+    "Use when and while naturally with the two tenses.",
+    "Choose the correct tense in questions, negatives and short past narratives."
+  ],
+  "explanation": [
+    {
+      "heading": "Use the past simple for a completed event",
+      "body": "The past simple tells us what happened in the past. It can describe an event from beginning to end or a series of finished actions. Regular verbs often end in -ed, while irregular verbs have special past forms such as went, saw and broke.",
+      "example": "Ravi locked the door and walked to the bus stop."
+    },
+    {
+      "heading": "Use the past continuous for an action already in progress",
+      "body": "The past continuous (was/were + -ing) describes an action that was happening at a particular past moment. The action began before that moment and might have continued afterwards. It often provides the background for the main event.",
+      "example": "At a quarter past three, the gardeners were planting flowers."
+    },
+    {
+      "heading": "Put an event inside a longer activity",
+      "body": "Use the past continuous for the activity that was already happening and the past simple for an event that occurred during it. The shorter event does not always stop the longer activity, but it happens while that activity is under way.",
+      "example": "I was carrying the shopping when a paper bag tore."
+    },
+    {
+      "heading": "Understand when and while",
+      "body": "When often introduces the event: The alarm rang when I was getting ready. While often introduces the activity in progress: While I was getting ready, the alarm rang. Either clause can come first; keep the verb form that fits the meaning.",
+      "example": "While Amira was watering the plants, her phone rang."
+    },
+    {
+      "heading": "Questions and negatives follow their own tense patterns",
+      "body": "Ask Did you hear the noise? about the finished event, but Were you sleeping? about the activity at that moment. Use didn’t + base verb for a past simple negative and wasn’t/weren’t + -ing for a past continuous negative.",
+      "example": "I didn’t notice the sign because I was looking at the map."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A completed activity and an activity in progress",
+      "left": {
+        "label": "Past simple",
+        "example": "We cleaned the kitchen yesterday.",
+        "note": "Cleaned reports a finished action in the past."
+      },
+      "right": {
+        "label": "Past continuous",
+        "example": "We were cleaning the kitchen at five yesterday.",
+        "note": "Were cleaning shows what was in progress at five."
+      }
+    },
+    {
+      "title": "The background and the event",
+      "left": {
+        "label": "Ongoing background",
+        "example": "Sam was carrying a tray.",
+        "note": "Was carrying sets the scene for what happened next."
+      },
+      "right": {
+        "label": "Completed event",
+        "example": "The tray slipped from his hands.",
+        "note": "Slipped tells us the event that occurred during that activity."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I was tying my shoes when the bus arrived.",
+      "note": "Was tying is in progress; arrived is the event that happened during it."
+    },
+    {
+      "sentence": "While the children were building a tower, the lights went out.",
+      "note": "While introduces the ongoing activity; went out is the completed event."
+    },
+    {
+      "sentence": "The waiter brought our food and returned to the kitchen.",
+      "note": "Two past simple forms tell a sequence of completed actions."
+    },
+    {
+      "sentence": "At ten, we were travelling through the mountains.",
+      "note": "Were travelling describes what was happening at ten."
+    },
+    {
+      "sentence": "Did you notice the message while you were studying?",
+      "note": "Did you notice asks about an event; were studying names the background activity."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I was taking a shower when the doorbell was ring.",
+      "correct": "I was taking a shower when the doorbell rang.",
+      "why": "The doorbell rang is a completed past event, so use the past simple form rang."
+    },
+    {
+      "incorrect": "While we were walk to the park, it started to rain.",
+      "correct": "While we were walking to the park, it started to rain.",
+      "why": "A past continuous activity needs the -ing form walking."
+    },
+    {
+      "incorrect": "I was saw a fox while I was cycling.",
+      "correct": "I saw a fox while I was cycling.",
+      "why": "Use the past simple saw for the event; was saw is not a grammatical verb form."
+    },
+    {
+      "incorrect": "Did you heard the crash while you were asleep?",
+      "correct": "Did you hear the crash while you were asleep?",
+      "why": "After did, the main verb stays in its base form hear."
+    }
+  ],
+  "studyTips": [
+    "Draw a long line for an ongoing activity and mark the moment when a shorter event occurred.",
+    "Retell a short story by first naming what was happening and then what happened.",
+    "Check your helpers: was/were + -ing for ongoing activity; did + base verb for a completed-event question."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "At that moment, I ___ the kettle when the doorbell rang.",
+      "choices": [
+        "fill",
+        "am filling",
+        "was filling"
+      ],
+      "answerIndex": 2,
+      "feedback": "At that moment and when the doorbell rang describe a past action already in progress, so use was filling."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which sentence tells two completed actions in order?",
+      "choices": [
+        "Evan opened the gate and walked into the garden.",
+        "Evan was opening the gate when he was walking into the garden.",
+        "Evan is opening the gate and was walking into the garden."
+      ],
+      "answerIndex": 0,
+      "feedback": "Opened and walked are past simple forms describing successive finished actions."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "When I arrived, Mira ___ lunch; she had started before I got there.",
+      "choices": [
+        "cooks",
+        "was cooking",
+        "cooked"
+      ],
+      "answerIndex": 1,
+      "feedback": "She had already started, so lunch preparation was in progress when I arrived."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "In “We were cycling when the rain began”, what does “began” show?",
+      "choices": [
+        "The cycling started after the rain.",
+        "The rain was a regular habit.",
+        "The rain started during the cycling."
+      ],
+      "answerIndex": 2,
+      "feedback": "The past simple began marks an event during the ongoing action were cycling."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with the verb in brackets: At 4:15, Luis ___ (repair) his bicycle. He finished at five.",
+      "acceptedAnswers": [
+        "was repairing"
+      ],
+      "feedback": "At 4:15 the repair was in progress, so use was repairing."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with the verb in brackets: While we were eating breakfast, the lights ___ (go) out.",
+      "acceptedAnswers": [
+        "went"
+      ],
+      "feedback": "The lights going out is the completed event, so use went."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with the verb in brackets: I ___ (drop) my phone when I stood up.",
+      "acceptedAnswers": [
+        "dropped"
+      ],
+      "feedback": "Dropped describes the completed event, and drop doubles p before -ed."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the verb in brackets: The streetlights ___ (shine) when I left the office.",
+      "acceptedAnswers": [
+        "were shining"
+      ],
+      "feedback": "Were shining describes what was happening when I left."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: While I was peeling potatoes, the knife was fall onto the floor.",
+      "acceptedAnswers": [
+        "While I was peeling potatoes, the knife fell onto the floor."
+      ],
+      "feedback": "The knife fell is a completed event during the longer activity."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: While she was walk home, it started to snow.",
+      "acceptedAnswers": [
+        "While she was walking home, it started to snow."
+      ],
+      "feedback": "The ongoing activity needs was walking, not was walk."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I was saw Daniel while I was waiting for the bus.",
+      "acceptedAnswers": [
+        "I saw Daniel while I was waiting for the bus."
+      ],
+      "feedback": "Saw is the past simple event; was saw is not a valid tense."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: While the children were playing in the yard, the phone ring.",
+      "acceptedAnswers": [
+        "While the children were playing in the yard, the phone rang."
+      ],
+      "feedback": "The phone ringing happened in the past; the past simple of ring is rang."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make a complete sentence using: I / carry groceries / when / a bag / break.",
+      "acceptedAnswers": [
+        "I was carrying groceries when a bag broke."
+      ],
+      "feedback": "Was carrying describes the longer activity; broke is the event."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Make a complete sentence using: they / watch a film / when / the power / go out.",
+      "acceptedAnswers": [
+        "They were watching a film when the power went out."
+      ],
+      "feedback": "Use were watching for the activity and went out for the event."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Describe two completed actions in order using: Zoya / shut the window / and / sit down.",
+      "acceptedAnswers": [
+        "Zoya shut the window and sat down."
+      ],
+      "feedback": "Shut and sat are the past simple forms of two finished actions."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "At three yesterday afternoon, the children were practising for the school play. Say one sentence about the activity in progress, starting with 'At three yesterday afternoon'.",
+      "acceptedAnswers": [
+        "At three yesterday afternoon, the children were practising for the school play."
+      ],
+      "feedback": "Were practising shows an activity already in progress at a particular past moment."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Rewrite this sentence starting with 'While' without changing the meaning: The dog barked when I was opening the front door.",
+      "acceptedAnswers": [
+        "While I was opening the front door, the dog barked."
+      ],
+      "feedback": "While introduces the background activity was opening; barked is the shorter past event."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks whether the bus left while you were buying your ticket. It did. Give one complete sentence beginning with 'The bus' and using 'while I was buying my ticket'.",
+      "acceptedAnswers": [
+        "The bus left while I was buying my ticket."
+      ],
+      "feedback": "Left is the completed event and was buying is the activity in progress."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this sentence to show that dropping the keys was one completed event: 'I was dropping my keys while I was walking home.' Keep the phrase 'while I was walking home'.",
+      "acceptedAnswers": [
+        "I dropped my keys while I was walking home."
+      ],
+      "feedback": "Use the past simple dropped for the completed event, and was walking for the background activity."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give a two-sentence report. Start the first sentence with 'At five yesterday afternoon': the staff / prepare / the hall (in progress). Start the second with 'At six': they / finish / the preparations (completed).",
+      "acceptedAnswers": [
+        "At five yesterday afternoon, the staff were preparing the hall. At six, they finished the preparations."
+      ],
+      "feedback": "Were preparing describes the work in progress at five; finished reports its completion at six."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We were setting the table when our guests arrived.",
+      "prompt": "What happened while the table was being set?",
+      "choices": [
+        "The guests arrived.",
+        "The guests left.",
+        "Someone started cooking."
+      ],
+      "answerIndex": 0,
+      "feedback": "Arrived tells us the event during the activity were setting."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Oscar was listening to the radio when the electricity went off.",
+      "prompt": "Which event happened during Oscar’s activity?",
+      "choices": [
+        "The radio programme ended.",
+        "The electricity went off.",
+        "Oscar left the house."
+      ],
+      "answerIndex": 1,
+      "feedback": "The electricity went off while Oscar was listening to the radio."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The children were dancing when the music stopped.",
+      "prompt": "Type the two-word past continuous verb phrase you hear.",
+      "acceptedAnswers": [
+        "were dancing"
+      ],
+      "feedback": "Were dancing identifies the activity in progress before the music stopped."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "While Farah was looking for her phone, her friend found it under a chair.",
+      "prompt": "Who discovered the missing item?",
+      "choices": [
+        "Farah herself",
+        "Farah's friend",
+        "A member of the family"
+      ],
+      "answerIndex": 1,
+      "feedback": "Farah was still searching, but her friend found the phone."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "It began to rain while the workers were painting the garden fence at lunchtime.",
+      "prompt": "What happened during the outdoor work?",
+      "choices": [
+        "Bad weather started",
+        "A delivery van arrived",
+        "The workers finished their lunch"
+      ],
+      "answerIndex": 0,
+      "feedback": "The rain began during the ongoing painting, introduced by while."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "At four, Maya was drawing a map. At five, she finished it and put her pencils away.",
+      "prompt": "Which statement is supported by the recording?",
+      "choices": [
+        "The map was finished before four",
+        "Maya was still working on the map at four",
+        "Maya started the map at five"
+      ],
+      "answerIndex": 1,
+      "feedback": "Was drawing describes work in progress at four; finished describes completion at five."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The waiter was carrying our drinks when he slipped on the wet floor.",
+      "prompt": "Type the two-word past continuous verb phrase describing the ongoing activity.",
+      "acceptedAnswers": [
+        "was carrying"
+      ],
+      "feedback": "Was carrying describes the action already happening when the waiter slipped."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "While I was looking for my ticket, the train left the station.",
+      "prompt": "Type the one-word past simple verb describing the train's completed action.",
+      "acceptedAnswers": [
+        "left"
+      ],
+      "feedback": "Left is the past simple form of leave and marks the event during the search."
+    }
+  ]
+}

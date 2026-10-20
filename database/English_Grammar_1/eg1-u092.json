@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u092",
+  "title": "Too: More Than Is Suitable",
+  "level": "A2",
+  "topicId": "too-excess-degree-quantity",
+  "summary": "Use too to describe a degree or quantity that is greater than wanted or suitable. Distinguish too from enough, and choose too much or too many for quantities.",
+  "learningObjectives": [
+    "Use too before an adjective or adverb to express an unsuitable degree.",
+    "Distinguish too much with uncountable nouns from too many with plural countable nouns.",
+    "Use too much without a noun for excessive activity or quantity.",
+    "Use too ... for somebody and too ... to do something to explain the resulting difficulty or inability.",
+    "Contrast too + adjective with not + adjective + enough."
+  ],
+  "explanation": [
+    {
+      "heading": "Too before an adjective or adverb",
+      "body": "Use too before an adjective or adverb to say that the degree exceeds what is wanted or possible. Too hot to touch means the heat prevents someone from touching something safely. Too is not simply the same as very: it often signals a problem.",
+      "example": "The music is too loud for us to talk."
+    },
+    {
+      "heading": "Too much and too many",
+      "body": "Use too much before an uncountable noun such as salt, traffic or work. Use too many before a plural countable noun such as messages, bags or people. Both suggest an unwanted excess.",
+      "example": "There are too many boxes in this hallway."
+    },
+    {
+      "heading": "Too much without a noun",
+      "body": "Too much can stand alone when the subject of the excess is clear. It can also describe an activity after a verb: eat too much, worry too much, or talk too much.",
+      "example": "I made enough tea, but I drank too much."
+    },
+    {
+      "heading": "Too ... for somebody; too ... to do something",
+      "body": "Use too + adjective/adverb + for + person to identify who is affected, or too + adjective/adverb + to + base verb to explain what cannot reasonably happen. For introduces a person; to introduces an action.",
+      "example": "The suitcase is too heavy for Sam to lift."
+    },
+    {
+      "heading": "Too versus not enough",
+      "body": "Too describes an excess; not enough describes a shortage. Sometimes both describe the same practical problem from opposite directions: the boots are too small; the boots are not big enough. Keep the word order different: too + adjective but adjective + enough.",
+      "example": "The doorway is too narrow, so it is not wide enough for the piano."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "More than suitable versus below the requirement",
+      "left": {
+        "label": "Too + adjective",
+        "example": "This coat is too small for me.",
+        "note": "Smallness makes the coat unsuitable."
+      },
+      "right": {
+        "label": "Not + adjective + enough",
+        "example": "This coat is not big enough for me.",
+        "note": "The coat does not meet the required size."
+      }
+    },
+    {
+      "title": "Uncountable versus plural countable quantities",
+      "left": {
+        "label": "Too much + uncountable",
+        "example": "There is too much smoke in the kitchen.",
+        "note": "Smoke is uncountable, so use much."
+      },
+      "right": {
+        "label": "Too many + plural",
+        "example": "There are too many shoes by the door.",
+        "note": "Shoes are separate countable items, so use many."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The soup is too spicy for my little brother.",
+      "note": "Too + adjective describes an excessive degree of heat or spice."
+    },
+    {
+      "sentence": "Our teacher spoke too quickly for me to take notes.",
+      "note": "Too follows an adverb pattern before quickly and explains the difficulty."
+    },
+    {
+      "sentence": "There is too much noise outside to concentrate.",
+      "note": "Much works with the uncountable noun noise."
+    },
+    {
+      "sentence": "I received too many emails this morning.",
+      "note": "Many works with the plural noun emails."
+    },
+    {
+      "sentence": "The cupboard is too high for my grandmother to reach.",
+      "note": "For + person + to + verb identifies who cannot easily do the action."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "This bag is heavy too to carry.",
+      "correct": "This bag is too heavy to carry.",
+      "why": "Too comes before an adjective."
+    },
+    {
+      "incorrect": "There is too many oil in the pan.",
+      "correct": "There is too much oil in the pan.",
+      "why": "Oil is uncountable, so use too much."
+    },
+    {
+      "incorrect": "There are too much plates on the table.",
+      "correct": "There are too many plates on the table.",
+      "why": "Plates is a plural countable noun, so use too many."
+    },
+    {
+      "incorrect": "The shelf is too high for reach.",
+      "correct": "The shelf is too high to reach.",
+      "why": "Use to + base verb for the action; for introduces a person or thing."
+    }
+  ],
+  "studyTips": [
+    "Ask “Is there more than wanted?” If so, too is often appropriate; very does not necessarily suggest a problem.",
+    "Count the nouns: too many with separate items, too much with uncountable substances or amounts.",
+    "Remember the word-order pair: “too noisy” versus “not quiet enough”."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The water is freezing, so the pool is ___ to swim in.",
+      "choices": [
+        "too cold",
+        "too much cold",
+        "cold too"
+      ],
+      "answerIndex": 0,
+      "feedback": "Too comes before an adjective such as cold."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "There are ___ messages on my phone to read today.",
+      "choices": [
+        "too much",
+        "too many",
+        "too"
+      ],
+      "answerIndex": 1,
+      "feedback": "Messages are plural and countable, so use too many."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "He is driving ___ for me to read the signs.",
+      "choices": [
+        "too much fast",
+        "fast too",
+        "too fast"
+      ],
+      "answerIndex": 2,
+      "feedback": "Too comes before the adverb fast."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "This tea has ___ sugar for me.",
+      "choices": [
+        "too much",
+        "too many",
+        "too"
+      ],
+      "answerIndex": 0,
+      "feedback": "Sugar is uncountable; too much describes an unwanted amount."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "It is ___ late to call my grandparents now. (One word.)",
+      "acceptedAnswers": [
+        "too"
+      ],
+      "feedback": "Too before late means the time is no longer suitable."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "There is too ___ salt in this sauce. (One word.)",
+      "acceptedAnswers": [
+        "much"
+      ],
+      "feedback": "Salt is uncountable; the pattern is too much salt."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "There are too ___ people on this small bus. (One word.)",
+      "acceptedAnswers": [
+        "many"
+      ],
+      "feedback": "People is plural and countable here; use too many."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "This chair is too low ___ my grandfather to sit comfortably. (One word.)",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "For introduces the person affected; to sit describes the action."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the position of too: This box is heavy too for me.",
+      "acceptedAnswers": [
+        "This box is too heavy for me."
+      ],
+      "feedback": "Put too before the adjective heavy."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the quantifier: There are too much cups on the shelf.",
+      "acceptedAnswers": [
+        "There are too many cups on the shelf."
+      ],
+      "feedback": "Cups are countable plural items, so use many."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the word introducing the action: The tea is too hot for drink.",
+      "acceptedAnswers": [
+        "The tea is too hot to drink."
+      ],
+      "feedback": "Use to followed by the base verb drink."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the pronoun only: The writing is too small for I to read.",
+      "acceptedAnswers": [
+        "The writing is too small for me to read."
+      ],
+      "feedback": "For takes the object pronoun me, not the subject pronoun I."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Correct and say the full sentence: “The soup is hot too to eat.”",
+      "acceptedAnswers": [
+        "The soup is too hot to eat."
+      ],
+      "feedback": "Place too before hot and to before eat."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say a complete sentence beginning “There are” using “too many chairs in the room”.",
+      "acceptedAnswers": [
+        "There are too many chairs in the room."
+      ],
+      "feedback": "Use too many before a plural countable noun such as chairs."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Make a complete sentence from these parts: “The box / too heavy / for Ana / to lift”.",
+      "acceptedAnswers": [
+        "The box is too heavy for Ana to lift."
+      ],
+      "feedback": "Use too + adjective + for + person + to + base verb."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Nora walked so quickly that you could not keep up. Begin with 'Nora walked' and use 'too quickly for me to keep up'.",
+      "acceptedAnswers": [
+        "Nora walked too quickly for me to keep up."
+      ],
+      "feedback": "Too goes before the adverb quickly; for me to keep up describes the action that was not possible."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Say the same idea using 'not big enough for Tom': 'These boots are too small for Tom.' Begin with 'These boots'.",
+      "acceptedAnswers": [
+        "These boots are not big enough for Tom.",
+        "These boots aren't big enough for Tom."
+      ],
+      "feedback": "Too small and not big enough can describe the same problem. Enough comes after big."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You drank so much juice that you feel sick. Tell your friend in one sentence, beginning 'I drank' and ending 'juice'. Use 'too much'.",
+      "acceptedAnswers": [
+        "I drank too much juice."
+      ],
+      "feedback": "Too much comes before the uncountable noun juice to describe an excessive quantity."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the quantity expression and say the complete sentence: 'There is too many traffic on the road.' Keep the other words unchanged.",
+      "acceptedAnswers": [
+        "There is too much traffic on the road."
+      ],
+      "feedback": "Traffic is uncountable, so the correct quantity expression is too much."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Your friends are playing loud music while you study. Ask them to reduce the volume in two short sentences, using exactly 'The music is too loud for me to study.' and 'Please turn it down.'",
+      "acceptedAnswers": [
+        "The music is too loud for me to study. Please turn it down."
+      ],
+      "feedback": "Too loud describes a problem, and for me to study identifies the affected person and activity."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "My bag is too heavy for me to carry upstairs.",
+      "prompt": "What is wrong with the bag?",
+      "choices": [
+        "It is too small.",
+        "It is too heavy.",
+        "It is too expensive."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker says the bag is too heavy."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "There are too many shoes by the front door.",
+      "prompt": "Which items are there too many of?",
+      "choices": [
+        "Coats",
+        "Bags",
+        "Shoes"
+      ],
+      "answerIndex": 2,
+      "feedback": "Too many is used with the plural noun shoes."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The queue was too long for us to wait in.",
+      "prompt": "Type the word immediately before “long” in the audio.",
+      "acceptedAnswers": [
+        "too"
+      ],
+      "feedback": "Too comes before long to express an excessive degree."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I wanted to buy the coat, but it was too expensive for my budget.",
+      "prompt": "Why didn't the speaker buy the coat?",
+      "choices": [
+        "The shop did not have their size.",
+        "They could not afford it.",
+        "They already had an identical coat."
+      ],
+      "answerIndex": 1,
+      "feedback": "Too expensive for my budget means the coat cost more than the speaker could spend."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "We had thirty guests but only twenty chairs, so there were too many people for the seats available.",
+      "prompt": "How many guests did not have a chair?",
+      "choices": [
+        "Thirty guests.",
+        "Twenty guests.",
+        "Ten guests."
+      ],
+      "answerIndex": 2,
+      "feedback": "There were thirty guests and twenty chairs, leaving ten people without a seat."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "This coffee is very hot, but I can drink it. That soup is too hot, so I must wait.",
+      "prompt": "Which item must cool down before the speaker can have it?",
+      "choices": [
+        "The soup.",
+        "The coffee.",
+        "Both the coffee and the soup."
+      ],
+      "answerIndex": 0,
+      "feedback": "The coffee is hot but drinkable. The soup is too hot, so the speaker has to wait."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The neighbour is playing music too loudly for us to sleep.",
+      "prompt": "Type the two-word expression describing how the music is being played.",
+      "acceptedAnswers": [
+        "too loudly"
+      ],
+      "feedback": "Too loudly uses too before the adverb to show that the noise prevents sleep."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We have too much luggage to fit into the car.",
+      "prompt": "Type the two-word quantity expression immediately before 'luggage'.",
+      "acceptedAnswers": [
+        "too much"
+      ],
+      "feedback": "Luggage is uncountable, so the quantity expression is too much."
+    }
+  ]
+}

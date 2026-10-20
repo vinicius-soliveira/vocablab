@@ -72,9 +72,8 @@ async function start() {
     try {
         catalogEntries = new Map((await loadCatalog()).map(entry => [entry.id, entry]));
         syncUnitsFromLibrary();
-        const response = await fetch('data/minimal-pairs.json');
-        if (!response.ok) throw new Error('Could not load pronunciation exercises.');
-        pairs = await response.json();
+        // Pronunciation practice is loaded separately from pronunciation.html.
+        // The vocabulary dashboard must not depend on a legacy minimal-pairs file.
         if (!units[activeUnitId]) activeUnitId = catalogEntries.keys().next().value || Object.keys(units)[0];
         if (!activeUnitId) throw new Error('No vocabulary units are available.');
         await ensureUnitLoaded(activeUnitId);

@@ -1,0 +1,402 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u059",
+  "title": "Subject and Object Pronouns",
+  "level": "A1",
+  "topicId": "subject-object-pronouns",
+  "summary": "Choose a subject pronoun for the person or thing doing an action and an object pronoun for the person or thing receiving it. Use object pronouns after prepositions and when passing things to someone.",
+  "learningObjectives": [
+    "Choose I, we, you, he, she, they or it to act as the subject of a sentence.",
+    "Choose me, us, you, him, her, them or it as the object of a verb.",
+    "Use object pronouns after prepositions such as with, for, at and to.",
+    "Replace repeated nouns with suitable pronouns, including in give it to someone patterns."
+  ],
+  "explanation": [
+    {
+      "heading": "Subject pronouns: who or what does the action?",
+      "body": "A subject pronoun normally comes before the main verb and tells us who or what does the action. Use I, we, you, he, she and they for people. Use it for one thing or animal when its identity is not important. A plural thing takes they.",
+      "example": "They walk to school together every morning."
+    },
+    {
+      "heading": "Object pronouns: who or what receives the action?",
+      "body": "An object pronoun follows a verb when someone or something receives the action. Use me, us, you, him, her, them and it. The forms you and it are the same as subject and object pronouns, but I changes to me, she to her and they to them.",
+      "example": "Maya calls him every Saturday."
+    },
+    {
+      "heading": "After prepositions",
+      "body": "After words such as to, for, with, at and on, use an object pronoun, not a subject pronoun. This works for people and things: with us, for her and on it.",
+      "example": "The shop assistant is speaking to us."
+    },
+    {
+      "heading": "Referring back without repeating nouns",
+      "body": "When the listener already knows who or what you mean, a pronoun avoids repeating a noun. Use it for one thing and them for more than one. With give, you can say give it to her or give them to him.",
+      "example": "These postcards are for Ben. Please give them to him."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "The same person as subject or object",
+      "left": {
+        "label": "Subject: she",
+        "example": "She knows my neighbours.",
+        "note": "She does the action, so it is the subject."
+      },
+      "right": {
+        "label": "Object: her",
+        "example": "My neighbours know her.",
+        "note": "Her receives the action, so it is the object."
+      }
+    },
+    {
+      "title": "One object or more than one",
+      "left": {
+        "label": "One: it",
+        "example": "I found the glove. Please take it.",
+        "note": "It replaces one object."
+      },
+      "right": {
+        "label": "More than one: them",
+        "example": "I found the gloves. Please take them.",
+        "note": "Them replaces plural objects."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "My friends live nearby. They visit me every Friday.",
+      "note": "They is the subject, while me is the object."
+    },
+    {
+      "sentence": "The children are hungry. Can you make lunch for them?",
+      "note": "Use them after the preposition for."
+    },
+    {
+      "sentence": "This is my scarf. I bought it on Saturday.",
+      "note": "It refers to one thing."
+    },
+    {
+      "sentence": "I saw Louise at the café, and she smiled at me.",
+      "note": "She acts as subject and me follows at."
+    },
+    {
+      "sentence": "These bags belong to Adam. Give them to him, please.",
+      "note": "Them replaces bags and him replaces Adam."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Him sits next to me on the bus.",
+      "correct": "He sits next to me on the bus.",
+      "why": "Use the subject pronoun he before the verb sits."
+    },
+    {
+      "incorrect": "I often visit she on Sundays.",
+      "correct": "I often visit her on Sundays.",
+      "why": "After the verb visit, use the object form her."
+    },
+    {
+      "incorrect": "Can you come with we?",
+      "correct": "Can you come with us?",
+      "why": "After the preposition with, use the object form us."
+    },
+    {
+      "incorrect": "I like these socks, so I bought they.",
+      "correct": "I like these socks, so I bought them.",
+      "why": "The plural object of bought is them, not they."
+    }
+  ],
+  "studyTips": [
+    "Test each pronoun by asking whether the person or thing does the action or receives it.",
+    "Practise short pairs such as he/him, she/her, we/us and they/them.",
+    "After a preposition, check for object forms: with me, for him, to her and about them."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: My brother is outside. ___ is waiting for us.",
+      "choices": [
+        "He",
+        "Him",
+        "His"
+      ],
+      "answerIndex": 0,
+      "feedback": "He is a subject pronoun and performs the action of waiting."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: I met Asha at the station, and I waved to ___.",
+      "choices": [
+        "she",
+        "her",
+        "hers"
+      ],
+      "answerIndex": 1,
+      "feedback": "Use her after the preposition to; she is a subject form."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: We bought some apples. Let’s put ___ in the fridge.",
+      "choices": [
+        "it",
+        "they",
+        "them"
+      ],
+      "answerIndex": 2,
+      "feedback": "Apples is plural and receives the action of put, so use them."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: ___ are ready for the trip, so we can leave now.",
+      "choices": [
+        "We",
+        "Us",
+        "Our"
+      ],
+      "answerIndex": 0,
+      "feedback": "We is the subject of are; us is an object and our needs a noun."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "My cousin Ben lives nearby. I often visit ___ at weekends.",
+      "acceptedAnswers": [
+        "him"
+      ],
+      "feedback": "Use him as the object of visit when referring to Ben."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Those two neighbours are friendly. ___ always say hello.",
+      "acceptedAnswers": [
+        "They"
+      ],
+      "feedback": "The neighbours are the plural subject, so use they."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The parcel is for Nadia. Please give it to ___.",
+      "acceptedAnswers": [
+        "her"
+      ],
+      "feedback": "Her is the object form used after to for Nadia."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "I cannot find my umbrella. Have you seen ___?",
+      "acceptedAnswers": [
+        "it"
+      ],
+      "feedback": "The singular thing umbrella is the object of seen, so use it."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Me like this song.",
+      "acceptedAnswers": [
+        "I like this song."
+      ],
+      "feedback": "I, not me, is the subject of like."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Her works at the café on Saturdays.",
+      "acceptedAnswers": [
+        "She works at the café on Saturdays."
+      ],
+      "feedback": "Use she as the subject before works."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The driver spoke to we about the delay.",
+      "acceptedAnswers": [
+        "The driver spoke to us about the delay."
+      ],
+      "feedback": "The preposition to must be followed by the object pronoun us."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: These shoes are new. I bought they last weekend.",
+      "acceptedAnswers": [
+        "These shoes are new. I bought them last weekend."
+      ],
+      "feedback": "Use them as the object of bought when referring to plural shoes."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Replace Mia with a subject pronoun and say the complete sentence: “Mia is reading in the garden.”",
+      "acceptedAnswers": [
+        "She is reading in the garden.",
+        "She's reading in the garden."
+      ],
+      "feedback": "Use she as the subject pronoun for Mia."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Replace Tom and Nina with an object pronoun and say the complete sentence: “I study with Tom and Nina.”",
+      "acceptedAnswers": [
+        "I study with them."
+      ],
+      "feedback": "Use them after with for two people."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Replace the blue notebooks and Leo with object pronouns: “Please give the blue notebooks to Leo.”",
+      "acceptedAnswers": [
+        "Please give them to him."
+      ],
+      "feedback": "Them replaces plural notebooks; him replaces Leo after to."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Mia and Noah call you every evening. Tell a friend about this from your point of view. Replace their names with a subject pronoun and use the object pronoun for yourself. Begin with 'They'.",
+      "acceptedAnswers": [
+        "They call me every evening."
+      ],
+      "feedback": "They replaces Mia and Noah as the subject; me is the object because they call you."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change 'She follows him after class.' so that you are the subject instead of 'she'. Keep the man as the object and use the present simple.",
+      "acceptedAnswers": [
+        "I follow him after class."
+      ],
+      "feedback": "I is the subject pronoun for the speaker, and him remains the object. With I, say follow, not follows."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks where to send a photo for your sister Rosa. Reply with a polite sentence beginning 'Please send'. Replace both 'the photo' and 'Rosa' with object pronouns.",
+      "acceptedAnswers": [
+        "Please send it to her."
+      ],
+      "feedback": "It refers to one photo, and her is the object pronoun for Rosa after to."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A friend says, 'My sister and me are late.' Correct the sentence by replacing 'my sister and me' with one subject pronoun. Keep 'are late'.",
+      "acceptedAnswers": [
+        "We are late.",
+        "We're late."
+      ],
+      "feedback": "We is the subject pronoun for the speaker and the speaker's sister; me cannot be the subject."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You and Sara are tired, and Noah has a car. Speak to Noah in two short sentences: first say you and Sara are tired, beginning with 'We'. Then ask Noah to drive both of you home, beginning with 'Can you'. Use a subject pronoun and an object pronoun.",
+      "acceptedAnswers": [
+        "We are tired. Can you drive us home?",
+        "We're tired. Can you drive us home?"
+      ],
+      "feedback": "We is the subject for you and Sara; us is the object of drive because Noah would drive both of you."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Daniel called his aunt, and she invited him for lunch.",
+      "prompt": "Who invited Daniel for lunch?",
+      "choices": [
+        "His uncle.",
+        "His aunt.",
+        "His neighbour."
+      ],
+      "answerIndex": 1,
+      "feedback": "She refers to Daniel’s aunt, who invited him for lunch."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The tickets are on the desk. Please put them in my bag.",
+      "prompt": "What should the listener put in the bag?",
+      "choices": [
+        "A wallet.",
+        "A phone.",
+        "The tickets."
+      ],
+      "answerIndex": 2,
+      "feedback": "Them refers to the plural noun tickets."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "This chair is broken, so please do not sit on it.",
+      "prompt": "Complete the ending you hear: “... please do not sit on ___.” Type one word.",
+      "acceptedAnswers": [
+        "it"
+      ],
+      "feedback": "It refers to the single chair and follows the preposition on."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Ella showed me a picture of her brother, but I didn't recognize him.",
+      "prompt": "Who did the speaker fail to recognize?",
+      "choices": [
+        "Ella herself.",
+        "Ella's brother.",
+        "The speaker's own brother."
+      ],
+      "answerIndex": 1,
+      "feedback": "Him refers to Ella's brother; the speaker did not recognize him in the picture."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The twins are waiting by the library. I promised to meet them at four.",
+      "prompt": "Who is the speaker going to meet?",
+      "choices": [
+        "The library staff.",
+        "One schoolteacher.",
+        "Two siblings."
+      ],
+      "answerIndex": 2,
+      "feedback": "Them refers to the twins, so the speaker is meeting two siblings."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "My cousin doesn't know your parents, but they know her.",
+      "prompt": "Which statement correctly describes the relationship?",
+      "choices": [
+        "The parents know the cousin, but the cousin does not know them.",
+        "The two sides already know each other.",
+        "The cousin knows the parents, but the parents do not know her."
+      ],
+      "answerIndex": 0,
+      "feedback": "They refers to your parents, and her refers to the speaker's cousin. Only the parents know the cousin."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The new students are shy, so our teacher sits with them at lunch.",
+      "prompt": "Type the two words you hear immediately after 'sits'.",
+      "acceptedAnswers": [
+        "with them"
+      ],
+      "feedback": "With is a preposition, so it takes the object pronoun them for the students."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Grace isn't coming to our party, but we invited her yesterday.",
+      "prompt": "Type the two words you hear immediately after 'we'.",
+      "acceptedAnswers": [
+        "invited her"
+      ],
+      "feedback": "Her is the object pronoun referring to Grace after the verb invited."
+    }
+  ]
+}

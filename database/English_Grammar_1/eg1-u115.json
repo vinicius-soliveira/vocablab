@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u115",
+  "title": "Phrasal Verbs: Objects and Word Order",
+  "level": "A2",
+  "topicId": "separable-phrasal-verbs-objects",
+  "summary": "Learn how to place an object with common phrasal verbs such as put on, turn off and pick up. Practise using nouns and object pronouns, including it and them, in natural everyday sentences.",
+  "learningObjectives": [
+    "Place a noun before or after the particle of a common separable phrasal verb.",
+    "Put object pronouns such as it and them between the verb and its particle.",
+    "Use common phrasal verbs for clothing, appliances, moving objects and returning things.",
+    "Distinguish related actions such as switching something on or off and picking something up or putting it down."
+  ],
+  "explanation": [
+    {
+      "heading": "Some phrasal verbs have an object",
+      "body": "A phrasal verb can combine a verb with a short word such as on, off, up, down or back. Many of these verbs take an object: the thing affected by the action. With common separable phrasal verbs, a noun object can go after the particle or between the verb and the particle. Both orders are correct.",
+      "example": "Nina picked up the parcel. Nina picked the parcel up."
+    },
+    {
+      "heading": "Put it and them in the middle",
+      "body": "When the object is an unstressed object pronoun such as it or them, it goes between the verb and particle: turn it off, pick them up, put it down. Do not put these pronouns after the particle. This word-order rule is important in both speaking and writing.",
+      "example": "Those bags are heavy. Please put them down."
+    },
+    {
+      "heading": "Clothes and things you can switch on or off",
+      "body": "Use put on for putting clothes onto your body and take off for removing them. Use turn on or switch on to start a light or machine; use turn off or switch off to stop it. These verb groups have the same flexible noun placement and fixed pronoun placement.",
+      "example": "It's getting cold. Put your jumper on, and switch the fan off."
+    },
+    {
+      "heading": "Pick up and put down",
+      "body": "Pick up means lift something from a lower place or surface. Put down means place something you are holding onto a surface. A noun can appear in either position, but a pronoun must appear in the middle.",
+      "example": "I picked the shopping bag up and put it down by the door."
+    },
+    {
+      "heading": "Bring, take, give and put back",
+      "body": "Bring something back means return with it; take something back means return it to a place, often a shop; give something back means return it to a person; put something back means return it to its former position. With pronouns, say bring it back, take it back, give it back and put it back. The words around the verb help explain where or to whom the thing returns.",
+      "example": "I borrowed Liam's pen, so I gave it back to him after lunch."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A noun object versus a pronoun object",
+      "left": {
+        "label": "Noun: two possible positions",
+        "example": "We turned on the heater. / We turned the heater on.",
+        "note": "The noun the heater can come after the particle or between the verb and particle."
+      },
+      "right": {
+        "label": "Pronoun: one position",
+        "example": "We turned it on.",
+        "note": "With it, the object must come before on. We cannot say turned on it."
+      }
+    },
+    {
+      "title": "Lifting versus placing",
+      "left": {
+        "label": "Pick up",
+        "example": "Ava picked up the basket.",
+        "note": "The basket moves from a surface into someone's hands."
+      },
+      "right": {
+        "label": "Put down",
+        "example": "Ava put the basket down.",
+        "note": "The basket moves from someone's hands onto a surface."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "You can leave your coat here and take it off if you're warm.",
+      "note": "The pronoun it stands between take and off."
+    },
+    {
+      "sentence": "Max switched the desk lamp on before he started reading.",
+      "note": "A noun object can separate switched and on."
+    },
+    {
+      "sentence": "I saw a scarf on the floor and picked it up.",
+      "note": "Pick up describes lifting something, and it stays in the middle."
+    },
+    {
+      "sentence": "After checking the note, Sofia put it back in her bag.",
+      "note": "Put back can mean return something to the place it was kept."
+    },
+    {
+      "sentence": "The jacket didn't fit, so we took it back to the shop.",
+      "note": "Take back describes returning an item to a shop."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Please turn off it.",
+      "correct": "Please turn it off.",
+      "why": "An object pronoun belongs between turn and off."
+    },
+    {
+      "incorrect": "I picked up them from the carpet.",
+      "correct": "I picked them up from the carpet.",
+      "why": "Them goes before up, not after it."
+    },
+    {
+      "incorrect": "She put back it on the shelf.",
+      "correct": "She put it back on the shelf.",
+      "why": "With a pronoun, put it back is the correct order."
+    },
+    {
+      "incorrect": "He took on his boots before going outside.",
+      "correct": "He put on his boots before going outside.",
+      "why": "Put on means dress in an item; take off means remove it."
+    }
+  ],
+  "studyTips": [
+    "Practise each new separable phrasal verb in three patterns: turn on the light, turn the light on, turn it on.",
+    "When checking your sentence, find the object. If it is it or them, move it between the verb and the particle.",
+    "Learn the action with a small real-life scene: pick up a book, put it down, and put it back on the shelf."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The room is dark and you want the lamp to start working. Choose the best request.",
+      "choices": [
+        "Please turn it on.",
+        "Please turn on it.",
+        "Please turn it off."
+      ],
+      "answerIndex": 0,
+      "feedback": "Turn it on starts the lamp. The pronoun it must appear between turn and on."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The shopping bag is on the floor. Choose a correct instruction to lift it.",
+      "choices": [
+        "Pick up it.",
+        "Pick it up.",
+        "Pick it down."
+      ],
+      "answerIndex": 1,
+      "feedback": "Pick it up means lift the bag; the pronoun it comes before up."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "You borrowed your friend's ruler and want to promise to return it. Which sentence is correct?",
+      "choices": [
+        "I'll give back it to you.",
+        "I'll give it up to you.",
+        "I'll give it back to you."
+      ],
+      "answerIndex": 2,
+      "feedback": "Give it back means return it to the owner. The pronoun goes between give and back."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose another correct way to say 'Rosa put the folder down.' without changing the meaning.",
+      "choices": [
+        "Rosa put down the folder.",
+        "Rosa put down it.",
+        "Rosa put the folder up."
+      ],
+      "answerIndex": 0,
+      "feedback": "With the noun the folder, both put the folder down and put down the folder are correct."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Before entering the living room, Maya took her muddy sandals ___.",
+      "acceptedAnswers": [
+        "off"
+      ],
+      "feedback": "Take off is used when removing shoes or other clothing."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "A pencil fell under the chair, so I picked it ___.",
+      "acceptedAnswers": [
+        "up"
+      ],
+      "feedback": "Picked it up means lifted the pencil from the floor. It must come before up."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The teacher lent Tom a marker. Tom promised to give it ___ to her after class.",
+      "acceptedAnswers": [
+        "back"
+      ],
+      "feedback": "Give it back means return the borrowed marker to the teacher."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The television is still playing, but nobody is watching. Please turn it ___ so the screen goes dark.",
+      "acceptedAnswers": [
+        "off"
+      ],
+      "feedback": "Turn it off stops the television. The pronoun comes before off."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My raincoat was on the chair, so I put on it.",
+      "acceptedAnswers": [
+        "My raincoat was on the chair, so I put it on."
+      ],
+      "feedback": "With a pronoun object, use put it on, not put on it."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The radio was noisy, so Ella switched off it.",
+      "acceptedAnswers": [
+        "The radio was noisy, so Ella switched it off."
+      ],
+      "feedback": "The pronoun it must separate switched and off."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The gloves were on the hall floor, so I picked up them.",
+      "acceptedAnswers": [
+        "The gloves were on the hall floor, so I picked them up."
+      ],
+      "feedback": "The object pronoun them goes between picked and up."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I borrowed the camera, and I'll give back it tomorrow.",
+      "acceptedAnswers": [
+        "I borrowed the camera, and I'll give it back tomorrow.",
+        "I borrowed the camera, and I will give it back tomorrow."
+      ],
+      "feedback": "Give it back places it before back and means return the camera."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say a complete sentence. Replace 'the boots' with them: 'Mila took off the boots after the walk.'",
+      "acceptedAnswers": [
+        "Mila took them off after the walk."
+      ],
+      "feedback": "Them must be placed between took and off."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say a complete sentence. Replace 'the fan' with it: 'We switched on the fan because the room was hot.'",
+      "acceptedAnswers": [
+        "We switched it on because the room was hot."
+      ],
+      "feedback": "With it, say switched it on, not switched on it."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say one complete past-tense sentence in this order: 'Rosa / pick up / the parcel / yesterday'.",
+      "acceptedAnswers": [
+        "Rosa picked up the parcel yesterday.",
+        "Rosa picked the parcel up yesterday."
+      ],
+      "feedback": "Both positions of the noun the parcel are correct with picked up."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Say the same sentence with the noun moved between the verb and particle: 'Maya turned on the lamp.' Keep all other words and the same tense.",
+      "acceptedAnswers": [
+        "Maya turned the lamp on."
+      ],
+      "feedback": "With a noun object, turn on is separable: turned the lamp on and turned on the lamp are both correct."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Replace 'the coats' with 'them' and say the full sentence: 'I put the coats back after lunch.'",
+      "acceptedAnswers": [
+        "I put them back after lunch."
+      ],
+      "feedback": "An object pronoun belongs between the verb and the particle: put them back."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "The radio is playing too loudly. Ask Jo politely to stop it using 'turn' and the pronoun 'it'. Start with 'Please'.",
+      "acceptedAnswers": [
+        "Please turn it off."
+      ],
+      "feedback": "Turn it off stops the radio; it must appear between turn and off."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct only the word order in the second sentence and say that sentence aloud: 'The toys were on the floor. The children picked up them.'",
+      "acceptedAnswers": [
+        "The children picked them up."
+      ],
+      "feedback": "With the object pronoun them, the order is picked them up, not picked up them."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You borrowed a book from Ella, and you returned that book to Ella this morning. Report what you did. Say one sentence starting 'I', using 'gave it back to Ella' and ending 'this morning'.",
+      "acceptedAnswers": [
+        "I gave it back to Ella this morning."
+      ],
+      "feedback": "Gave it back means returned the book; the pronoun it stays between gave and back."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The kitchen light was on, so I switched it off before bed.",
+      "prompt": "What did the speaker do to the kitchen light?",
+      "choices": [
+        "Made it brighter.",
+        "Turned it off.",
+        "Picked it up."
+      ],
+      "answerIndex": 1,
+      "feedback": "Switched it off means stopped the light from working. The object pronoun is in the middle."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I borrowed Dad's umbrella, but I gave it back this morning.",
+      "prompt": "What happened to the umbrella this morning?",
+      "choices": [
+        "It was left at a bus stop.",
+        "It was put inside a bag.",
+        "It was returned to its owner."
+      ],
+      "answerIndex": 2,
+      "feedback": "Gave it back means returned the umbrella to its owner."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "These books are heavy, so I put them down beside the door.",
+      "prompt": "Type the three-word verb expression you hear that describes placing the books on a surface.",
+      "acceptedAnswers": [
+        "put them down"
+      ],
+      "feedback": "Put them down means placed the books on a surface; them must be between put and down."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "As the sun came out, Nina took off her raincoat and put it in her bag.",
+      "prompt": "What did Nina do when the weather improved?",
+      "choices": [
+        "She removed some clothing.",
+        "She started a machine.",
+        "She bought a new bag."
+      ],
+      "answerIndex": 0,
+      "feedback": "Took off her raincoat means removed the item of clothing."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Before leaving the office, James turned the computer off and switched the lights on for the cleaner.",
+      "prompt": "Which thing was still switched on when James left?",
+      "choices": [
+        "The computer.",
+        "The lights.",
+        "Both the computer and the lights."
+      ],
+      "answerIndex": 1,
+      "feedback": "James stopped the computer but started the lights for the cleaner."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I picked up the books from the floor and put them down on the desk.",
+      "prompt": "Where were the books at the end?",
+      "choices": [
+        "Still on the floor.",
+        "Inside a drawer.",
+        "Resting on a desk."
+      ],
+      "answerIndex": 2,
+      "feedback": "Put them down on the desk means the books ended on that surface."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "When the video finished, I switched it off and put the tablet away.",
+      "prompt": "Type the three-word expression that describes stopping the device after the video.",
+      "acceptedAnswers": [
+        "switched it off"
+      ],
+      "feedback": "In switched it off, the object pronoun it comes between switched and off."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I found the library book in my bag, so I took it back the next morning.",
+      "prompt": "Type the three-word expression that means returned the book to its previous place.",
+      "acceptedAnswers": [
+        "took it back"
+      ],
+      "feedback": "Took it back expresses returning an item; the pronoun goes before back."
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u038",
+  "title": "There Was, Has Been and Will Be: Past and Future",
+  "level": "A2",
+  "topicId": "there-be-past-perfect-future",
+  "summary": "Describe what existed in the past, what has happened up to now and what will exist later. Choose the correct form of there + be from the time context.",
+  "learningObjectives": [
+    "Use there was and there were for past situations, including past negatives and questions.",
+    "Choose there has been or there have been when connecting earlier events with the present.",
+    "Avoid using present perfect with a specific finished past time such as last night.",
+    "Use there will be and there won’t be to describe expected future situations."
+  ],
+  "explanation": [
+    {
+      "heading": "Past situations: there was and there were",
+      "body": "Use there was for one thing or an uncountable amount in the past; use there were for two or more things. For negatives use there wasn’t / there weren’t. For questions put was or were first: Was there ...? / Were there ...?",
+      "example": "There were several bicycles outside the shop yesterday."
+    },
+    {
+      "heading": "Past questions and negatives",
+      "body": "A past question starts Was there for a singular noun and Were there for a plural noun. Short answers are Yes, there was / No, there wasn’t and Yes, there were / No, there weren’t. Any often appears in negative sentences and questions.",
+      "example": "Were there any visitors after lunch? No, there weren’t."
+    },
+    {
+      "heading": "Present perfect: there has or have been",
+      "body": "Use there has been for a singular event or situation and there have been for plural events or changes that matter now. There’s been is a natural contraction of there has been. The construction often appears with recently, today, this week or since a starting point.",
+      "example": "There have been two timetable changes this week."
+    },
+    {
+      "heading": "A finished past time or a link with now?",
+      "body": "Use there was or there were with a finished time such as yesterday, last Saturday or in 2022. Use there has been / have been to report news or changes up to the present without giving a specific finished time.",
+      "example": "There was a short power cut yesterday evening. There have been several more this month."
+    },
+    {
+      "heading": "Looking ahead: there will be",
+      "body": "Use there will be to say that something is expected to exist or happen in the future. It stays the same before singular and plural nouns. Use there won’t be (there will not be) for a negative prediction, and Will there be ...? for a question.",
+      "example": "There will be an extra bus on Friday evening."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "One or several things in the past",
+      "left": {
+        "label": "Singular past",
+        "example": "There was a concert last Saturday.",
+        "note": "Was matches one past concert."
+      },
+      "right": {
+        "label": "Plural past",
+        "example": "There were four musicians on stage.",
+        "note": "Were matches four musicians."
+      }
+    },
+    {
+      "title": "Finished time versus news up to now",
+      "left": {
+        "label": "Finished past",
+        "example": "There was a delay yesterday morning.",
+        "note": "Yesterday morning is a finished time."
+      },
+      "right": {
+        "label": "Up to the present",
+        "example": "There have been several delays this week.",
+        "note": "The period this week includes the present."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "There was a long queue outside the bakery on Tuesday.",
+      "note": "Was introduces one queue at a finished past time."
+    },
+    {
+      "sentence": "There weren’t any buses after ten last night.",
+      "note": "Weren’t describes an absence in the past."
+    },
+    {
+      "sentence": "Was there a meeting yesterday? Yes, there was.",
+      "note": "The question and short answer both use past singular was."
+    },
+    {
+      "sentence": "There has been a change to our schedule.",
+      "note": "Has been reports one change with a present result."
+    },
+    {
+      "sentence": "There won’t be any classes during next week’s holiday.",
+      "note": "Won’t be describes a future absence."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "There were a long queue at the shop yesterday.",
+      "correct": "There was a long queue at the shop yesterday.",
+      "why": "One queue needs was in the past."
+    },
+    {
+      "incorrect": "There was three empty rooms in the hotel.",
+      "correct": "There were three empty rooms in the hotel.",
+      "why": "Three rooms takes the plural past form were."
+    },
+    {
+      "incorrect": "There have been a change to the bus timetable.",
+      "correct": "There has been a change to the bus timetable.",
+      "why": "A change is singular, so use has been."
+    },
+    {
+      "incorrect": "There has been a concert in the park last Sunday.",
+      "correct": "There was a concert in the park last Sunday.",
+      "why": "Last Sunday is a finished past time, so use there was."
+    }
+  ],
+  "studyTips": [
+    "Identify the time first: last night points to was/were; this week can call for has/have been when the period is still ongoing.",
+    "Match was/has with a singular noun and were/have with plural nouns; will be works with both.",
+    "Try answering your sentence with a matching short answer: Was there? Yes, there was; Were there? Yes, there were."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct past form: “There ___ a concert in the square last night.”",
+      "choices": [
+        "has been",
+        "were",
+        "was"
+      ],
+      "answerIndex": 2,
+      "feedback": "One concert at a finished time requires there was."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Several seats were unoccupied yesterday: “There ___ many empty seats on the bus yesterday.”",
+      "choices": [
+        "was",
+        "were",
+        "has been"
+      ],
+      "answerIndex": 1,
+      "feedback": "Many seats is plural, and yesterday requires the past form were."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Since Monday, there ___ three changes to the timetable.",
+      "choices": [
+        "have been",
+        "has been",
+        "were"
+      ],
+      "answerIndex": 0,
+      "feedback": "The plural changes and the time period starting on Monday call for have been."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The organiser expects that there ___ enough chairs at tomorrow’s event.",
+      "choices": [
+        "were",
+        "has been",
+        "will be"
+      ],
+      "answerIndex": 2,
+      "feedback": "Will be refers to the future and works with plural chairs."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete using there and the correct past form: “___ a long queue outside the museum yesterday afternoon.”",
+      "acceptedAnswers": [
+        "There was"
+      ],
+      "feedback": "Queue is singular and yesterday afternoon is a finished past time."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete the past negative using there + be: “___ any free seats at the concert last Saturday.”",
+      "acceptedAnswers": [
+        "There weren't",
+        "There were not"
+      ],
+      "feedback": "Free seats is plural, and last Saturday is past, so use there weren’t."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with the present perfect form of there + be: “Up to now, ___ two cancellations this week.”",
+      "acceptedAnswers": [
+        "There have been"
+      ],
+      "feedback": "Two cancellations is plural, and up to now connects the events to the present."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the future form of there + be: “The forecast says ___ heavy rain tomorrow.”",
+      "acceptedAnswers": [
+        "there will be",
+        "there'll be"
+      ],
+      "feedback": "Future existence uses there will be, regardless of the noun’s number."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: There were a power cut last night.",
+      "acceptedAnswers": [
+        "There was a power cut last night."
+      ],
+      "feedback": "A power cut is singular, so the past form is there was."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: There was several visitors here yesterday.",
+      "acceptedAnswers": [
+        "There were several visitors here yesterday."
+      ],
+      "feedback": "Several visitors is plural, so choose there were."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: There have been a big change to the menu recently.",
+      "acceptedAnswers": [
+        "There has been a big change to the menu recently.",
+        "There's been a big change to the menu recently."
+      ],
+      "feedback": "A big change is singular; use there has been or there’s been."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: There will is a meeting next Tuesday.",
+      "acceptedAnswers": [
+        "There will be a meeting next Tuesday.",
+        "There'll be a meeting next Tuesday."
+      ],
+      "feedback": "The future structure is there will be, not there will is."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "One outdoor market took place in the park yesterday. Describe it, beginning “There was”.",
+      "acceptedAnswers": [
+        "There was an outdoor market in the park yesterday."
+      ],
+      "feedback": "There was introduces a singular event in the past."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Since Tuesday, our building has had two power cuts. Describe this using “There have been” and “in our building since Tuesday”.",
+      "acceptedAnswers": [
+        "There have been two power cuts in our building since Tuesday."
+      ],
+      "feedback": "There have been + plural noun reports events up to the present."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "A food market is planned for the park tomorrow. Say a sentence beginning “There will be”.",
+      "acceptedAnswers": [
+        "There will be a food market in the park tomorrow.",
+        "There'll be a food market in the park tomorrow."
+      ],
+      "feedback": "Use there will be for a future event."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "At the outdoor fair yesterday, there were four food stalls. Report this in one sentence beginning 'There were', using 'four food stalls at the outdoor fair yesterday'.",
+      "acceptedAnswers": [
+        "There were four food stalls at the outdoor fair yesterday."
+      ],
+      "feedback": "There were + plural noun describes four stalls at a finished past time."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this sentence into a negative sentence without changing the place or time: 'There was a delay on the airport shuttle last Friday.'",
+      "acceptedAnswers": [
+        "There wasn't a delay on the airport shuttle last Friday.",
+        "There was not a delay on the airport shuttle last Friday."
+      ],
+      "feedback": "There wasn't is the negative past form before singular a delay."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Someone asks, 'Were there any spare rooms at the hotel last night?' There were none. Give only a full negative short answer.",
+      "acceptedAnswers": [
+        "No, there weren't.",
+        "No, there were not."
+      ],
+      "feedback": "For a plural question beginning Were there, say No, there weren't."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "The town had two power cuts yesterday, and one more power cut has happened since then. Say exactly two sentences: begin the first with 'There were two power cuts' and the second with 'There has been another power cut'. Include 'in the town yesterday' in the first and 'since then' in the second.",
+      "acceptedAnswers": [
+        "There were two power cuts in the town yesterday. There has been another power cut since then."
+      ],
+      "feedback": "There were reports finished past events; there has been links a later event with the present."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "At tomorrow's festival, there will be one concert and no film screenings. Tell a visitor both facts in exactly two sentences. Mention 'at the festival tomorrow' in each sentence, using there will be and there won't be (or there will not be).",
+      "acceptedAnswers": [
+        "There will be one concert at the festival tomorrow. There won't be any film screenings at the festival tomorrow.",
+        "There will be one concert at the festival tomorrow. There will not be any film screenings at the festival tomorrow.",
+        "There'll be one concert at the festival tomorrow. There won't be any film screenings at the festival tomorrow.",
+        "There'll be one concert at the festival tomorrow. There will not be any film screenings at the festival tomorrow."
+      ],
+      "feedback": "There will be predicts a future event; there won't be predicts a future absence."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "There was a small concert in the garden yesterday.",
+      "prompt": "When did the concert take place?",
+      "choices": [
+        "Yesterday",
+        "Tomorrow",
+        "Today"
+      ],
+      "answerIndex": 0,
+      "feedback": "Was and yesterday place the concert in the past."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "There have been three delays on this line this week.",
+      "prompt": "How many delays has the line had this week?",
+      "choices": [
+        "One",
+        "Three",
+        "Five"
+      ],
+      "answerIndex": 1,
+      "feedback": "There have been three delays reports three events up to now."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "There won't be a bus after midnight.",
+      "prompt": "Type the negative future expression you hear immediately before “a bus”.",
+      "acceptedAnswers": [
+        "There won't be",
+        "There will not be"
+      ],
+      "feedback": "There won’t be is the negative of there will be."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "There were six people in the waiting room, but only two had appointments.",
+      "prompt": "How many of the people were expected for appointments?",
+      "choices": [
+        "Six",
+        "Two",
+        "Four"
+      ],
+      "answerIndex": 1,
+      "feedback": "Only two of the six people had appointments."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "There's been a change to the swimming pool's opening time, but the gym hours are the same.",
+      "prompt": "Which schedule has changed?",
+      "choices": [
+        "Only the swimming pool's",
+        "Both the pool and the gym",
+        "Only the gym's"
+      ],
+      "answerIndex": 0,
+      "feedback": "There's been a change refers to the swimming pool; the gym hours have stayed the same."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "There will be free classes next Saturday, but there won't be any on Sunday.",
+      "prompt": "When could someone attend a free class?",
+      "choices": [
+        "Sunday only",
+        "Both weekend days",
+        "Saturday only"
+      ],
+      "answerIndex": 2,
+      "feedback": "There will be classes on Saturday, but the negative future form rules out Sunday."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "There weren't any seats available at the theatre last night.",
+      "prompt": "Type the negative expression immediately before 'seats available'.",
+      "acceptedAnswers": [
+        "weren't any",
+        "were not any"
+      ],
+      "feedback": "Weren't any states that no seats were available in the past."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "There's been a new announcement about the concert today.",
+      "prompt": "Type the opening expression that reports a new development.",
+      "acceptedAnswers": [
+        "There's been",
+        "There has been"
+      ],
+      "feedback": "There's been is the contracted present perfect form of there has been."
+    }
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u050",
+  "title": "Reporting What People Said and Told You",
+  "level": "A2",
+  "topicId": "reported-speech-said-told",
+  "summary": "Report another person’s words with said (that) or told someone (that). Practise simple changes in verb forms and pronouns when reporting speech from an earlier time.",
+  "learningObjectives": [
+    "Report short statements with said (that) and told + person + (that).",
+    "Use common changes such as am/is to was, are to were, have/has to had, can to could and will to would.",
+    "Report a simple present statement with an appropriate past-tense form when looking back at earlier words.",
+    "Change I, we and you to the correct person when reporting someone else’s words."
+  ],
+  "explanation": [
+    {
+      "heading": "Report statements with said",
+      "body": "Use said to report what a person said earlier: Priya said (that) she was ready. That is optional in this structure. Do not put a person directly after said. If you name the listener, use said to me, said to him or said to another person.",
+      "example": "Hugo said that he needed a short break."
+    },
+    {
+      "heading": "Name the listener after told",
+      "body": "Use told when you say who received the information: told me, told her or told the neighbours. A person normally follows told in this reporting structure. Do not say told to me or told that without naming a listener.",
+      "example": "The guide told us that the museum was closing."
+    },
+    {
+      "heading": "Move present forms into the past",
+      "body": "When looking back at what someone said, it is common to change am and is to was, are to were, and present simple verbs to past simple verbs. Have or has can become had. The past verb describes the original words from the earlier point of view.",
+      "example": "Nora said she felt much better."
+    },
+    {
+      "heading": "Change can and will when reporting",
+      "body": "When reporting an earlier statement from a past point of view, can often changes to could and will to would. In negatives, cannot becomes could not or couldn’t, and will not becomes would not or wouldn’t. Keep the verb after could and would in the base form.",
+      "example": "Jamal said he would bring some water."
+    },
+    {
+      "heading": "Adjust pronouns to match the speaker",
+      "body": "A person’s original I or we may become he, she or they in reported speech. Their you may become me, us or another person, depending on whom they were speaking to. Check who said the words and who heard them before choosing a pronoun.",
+      "example": "Lena told me she could help me with the bags."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Said versus told",
+      "left": {
+        "label": "Said: focus on the message",
+        "example": "Marta said that the shop was busy.",
+        "note": "No listener is required directly after said."
+      },
+      "right": {
+        "label": "Told: include the listener",
+        "example": "Marta told me that the shop was busy.",
+        "note": "Me identifies the person who heard the information."
+      }
+    },
+    {
+      "title": "Original words and an earlier report",
+      "left": {
+        "label": "Direct statement",
+        "example": "“I am tired,” Leo said.",
+        "note": "Am is the speaker’s original present form."
+      },
+      "right": {
+        "label": "Reported statement",
+        "example": "Leo said that he was tired.",
+        "note": "I changes to he and am changes to was."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Amira said her coat was in the car.",
+      "note": "Said is followed by a reported clause; that is optional."
+    },
+    {
+      "sentence": "The receptionist told us the room was ready.",
+      "note": "Told directly names the listeners with us."
+    },
+    {
+      "sentence": "Oliver said that he had a new bicycle.",
+      "note": "Original have can become had in an earlier report."
+    },
+    {
+      "sentence": "Mina said she could not stay late.",
+      "note": "Cannot can change to could not when reporting earlier words."
+    },
+    {
+      "sentence": "Ben told his cousin that he would visit on Sunday.",
+      "note": "Would reports an earlier will statement."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Ravi said me that he was hungry.",
+      "correct": "Ravi told me that he was hungry.",
+      "why": "Use told me or said to me, not said me."
+    },
+    {
+      "incorrect": "The driver told that the train was late.",
+      "correct": "The driver said that the train was late.",
+      "why": "In this pattern, told needs a listener; said does not."
+    },
+    {
+      "incorrect": "My friend told to us she was at home.",
+      "correct": "My friend told us she was at home.",
+      "why": "Do not put to before the listener after told."
+    },
+    {
+      "incorrect": "Ella said she would brought some fruit.",
+      "correct": "Ella said she would bring some fruit.",
+      "why": "Use the base verb after would."
+    }
+  ],
+  "studyTips": [
+    "Before reporting, identify three things: who spoke, who listened and whether you are talking about an earlier time.",
+    "Remember the pair: said something; told someone something. If you include a listener after said, add to.",
+    "Practise changing one short statement with I into a report using he or she, then change the verb if needed."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose a correct report of: “I am at the station,” Nina said. Use said and a past reporting viewpoint.",
+      "choices": [
+        "Nina said that she was at the station.",
+        "Nina said me that she was at the station.",
+        "Nina said that she were at the station."
+      ],
+      "answerIndex": 0,
+      "feedback": "Said can introduce a clause without a listener, and I am changes to she was in this report."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Leo said to you: “I can’t use this printer.” Choose a correct report with told.",
+      "choices": [
+        "Leo told that he could not use the printer.",
+        "Leo told me that he could not use the printer.",
+        "Leo told to me that he could not use the printer."
+      ],
+      "answerIndex": 1,
+      "feedback": "Told must be followed directly by the listener me, and cannot becomes could not."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Maya said: “I will bring a torch.” Choose the sentence that correctly uses a past reporting viewpoint with would.",
+      "choices": [
+        "Maya said she would brought a torch.",
+        "Maya said she would bringing a torch.",
+        "Maya said she would bring a torch."
+      ],
+      "answerIndex": 2,
+      "feedback": "In a past report, will becomes would, followed by the base form bring."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Two friends said: “We are tired.” Choose a correct past report using said.",
+      "choices": [
+        "They said they were tired.",
+        "They told they were tired.",
+        "They said they was tired."
+      ],
+      "answerIndex": 0,
+      "feedback": "We changes to they, are to were, and said does not require a named listener."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Clara said: “I feel ill.” Complete using the past form of feel: Clara said she ___ ill.",
+      "acceptedAnswers": [
+        "felt"
+      ],
+      "feedback": "The present verb feel becomes felt when reporting the earlier statement."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Tom said: “I have a new laptop.” Complete using the reported form of have: Tom said he ___ a new laptop.",
+      "acceptedAnswers": [
+        "had"
+      ],
+      "feedback": "Have commonly changes to had in reported speech from an earlier viewpoint."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Rita said: “I can’t open the box.” Complete: Rita said she ___ open the box.",
+      "acceptedAnswers": [
+        "couldn't",
+        "could not"
+      ],
+      "feedback": "Cannot or can’t changes to could not or couldn’t in this past report."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Ben said: “I will come at six.” Complete using will to would: Ben said he ___ come at six.",
+      "acceptedAnswers": [
+        "would"
+      ],
+      "feedback": "Use would before the base verb come to report the earlier promise."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence using told: She said me that the door was open.",
+      "acceptedAnswers": [
+        "She told me that the door was open.",
+        "She told me the door was open."
+      ],
+      "feedback": "Told me names the listener; said me is not grammatical."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence using said: He told that he was hungry.",
+      "acceptedAnswers": [
+        "He said that he was hungry.",
+        "He said he was hungry."
+      ],
+      "feedback": "Said works without a listener; told requires a person after it in this structure."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence using told: My aunt told to us that she would visit.",
+      "acceptedAnswers": [
+        "My aunt told us that she would visit.",
+        "My aunt told us she would visit."
+      ],
+      "feedback": "Use told us without the preposition to."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence by changing can’t to its past reported form: Kim said she can’t stay for dinner.",
+      "acceptedAnswers": [
+        "Kim said she couldn't stay for dinner.",
+        "Kim said she could not stay for dinner."
+      ],
+      "feedback": "The expected backshift of can’t in this earlier report is could not or couldn’t."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Ella said, “I am busy.” Report this from a later point of view, beginning “Ella said”.",
+      "acceptedAnswers": [
+        "Ella said she was busy.",
+        "Ella said that she was busy."
+      ],
+      "feedback": "In this earlier report, I am becomes she was, with optional that."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Daniel said to you, “I will help you.” Report it, beginning “Daniel told me”.",
+      "acceptedAnswers": [
+        "Daniel told me he would help me.",
+        "Daniel told me that he would help me."
+      ],
+      "feedback": "Use told me for the listener, he for Daniel and would help me for will help you."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Correct the reported sentence using told: “Sara said me she was tired.”",
+      "acceptedAnswers": [
+        "Sara told me she was tired.",
+        "Sara told me that she was tired."
+      ],
+      "feedback": "Told me is correct; said me is not."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Mateo said yesterday, “I have a dog.” Report this from a past viewpoint in one sentence beginning “Mateo said”.",
+      "acceptedAnswers": [
+        "Mateo said he had a dog.",
+        "Mateo said that he had a dog."
+      ],
+      "feedback": "Change I to he and have to had when reporting Mateo’s earlier words. That is optional."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Nadia said to you yesterday, “I am late.” Report this with “Nadia told me” and a past reporting viewpoint.",
+      "acceptedAnswers": [
+        "Nadia told me she was late.",
+        "Nadia told me that she was late."
+      ],
+      "feedback": "Use told me to identify the listener; change I am to she was. That is optional."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Lily spoke for herself and Tom when she told you, “We are hungry.” Later, report her words beginning “Lily told me”, referring to Lily and Tom as they.",
+      "acceptedAnswers": [
+        "Lily told me they were hungry.",
+        "Lily told me that they were hungry."
+      ],
+      "feedback": "Use told me for the listener and change we are to they were in the past report."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this sentence using told, while keeping the original message: “The manager told to us that the office was shut.”",
+      "acceptedAnswers": [
+        "The manager told us that the office was shut.",
+        "The manager told us the office was shut."
+      ],
+      "feedback": "The listener follows told directly: told us, not told to us. That may be omitted."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Yesterday Leo said, “I cannot drive.” Report this later in one sentence beginning “Leo said”, using could not or couldn’t.",
+      "acceptedAnswers": [
+        "Leo said he could not drive.",
+        "Leo said that he could not drive.",
+        "Leo said he couldn't drive.",
+        "Leo said that he couldn't drive."
+      ],
+      "feedback": "Change I to he and cannot to could not or couldn’t when reporting Leo’s earlier words."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "He told his sister that he would arrive on Saturday.",
+      "prompt": "Who was given the information?",
+      "choices": [
+        "His brother.",
+        "His sister.",
+        "His friend."
+      ],
+      "answerIndex": 1,
+      "feedback": "Told his sister explicitly identifies the person who received the message."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Ava said she could not join the picnic.",
+      "prompt": "What did Ava report about the picnic?",
+      "choices": [
+        "She was organising it.",
+        "She would arrive early.",
+        "She was unable to join it."
+      ],
+      "answerIndex": 2,
+      "feedback": "Could not join means that Ava was unable to take part."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Omar said that the café was closed.",
+      "prompt": "Type the past form of be you hear after café.",
+      "acceptedAnswers": [
+        "was"
+      ],
+      "feedback": "Was is the past form heard in the reported clause the café was closed."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Nora said she needed an umbrella because the rain was heavy.",
+      "prompt": "Why did Nora need an umbrella?",
+      "choices": [
+        "Because her coat was missing.",
+        "Because it was raining hard.",
+        "Because she was going swimming."
+      ],
+      "answerIndex": 1,
+      "feedback": "Nora’s reported reason was the heavy rain."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The nurse told my father that his appointment was on Thursday morning.",
+      "prompt": "When was the appointment?",
+      "choices": [
+        "On Tuesday evening.",
+        "On Friday afternoon.",
+        "On Thursday morning."
+      ],
+      "answerIndex": 2,
+      "feedback": "The nurse told the speaker’s father that the appointment was on Thursday morning."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The coach said the players were ready, but he told me that the bus was late.",
+      "prompt": "What did the coach tell the speaker directly?",
+      "choices": [
+        "The transport was delayed.",
+        "The players were ready.",
+        "The match was cancelled."
+      ],
+      "answerIndex": 0,
+      "feedback": "Told me identifies the message delivered directly to the speaker: the bus was late."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The teacher told us that the test would start after lunch.",
+      "prompt": "Type only the two-word verb phrase immediately after “test”.",
+      "acceptedAnswers": [
+        "would start"
+      ],
+      "feedback": "The report uses would start, with the base verb start after would."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The guide said she could not see the path in the dark.",
+      "prompt": "Type only the three-word verb phrase immediately after “she”.",
+      "acceptedAnswers": [
+        "could not see"
+      ],
+      "feedback": "The past report uses could not see, with see in its base form after could not."
+    }
+  ]
+}

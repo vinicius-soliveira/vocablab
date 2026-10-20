@@ -1,0 +1,398 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u061",
+  "title": "Possession: Mine, Yours and Whose",
+  "level": "A2",
+  "topicId": "possessive-pronouns-whose",
+  "summary": "Use possessive pronouns when the owner is clear and you do not need to repeat a noun. Ask whose something is and describe personal connections with expressions such as a friend of mine.",
+  "learningObjectives": [
+    "Choose the correct possessive pronoun for a known owner.",
+    "Distinguish a possessive word before a noun from a possessive pronoun used alone.",
+    "Ask whose something is, with or without a following noun.",
+    "Use a friend of mine and similar expressions to describe relationships."
+  ],
+  "explanation": [
+    {
+      "heading": "A possessive pronoun stands on its own",
+      "body": "When a noun is already understood, use mine, yours, his, hers, ours or theirs instead of repeating the noun. They tell us who owns or is connected with something. His is the same form before a noun and on its own.",
+      "example": "My gloves are brown, and yours are grey."
+    },
+    {
+      "heading": "Use a different form before a noun",
+      "body": "Put my, your, his, her, our or their directly before a noun. Use mine, yours, his, hers, ours or theirs without a noun after them. For example, her is followed by a noun in her coat, but hers can replace her coat.",
+      "example": "Their balcony is small, but ours is large."
+    },
+    {
+      "heading": "Ask about an owner with whose",
+      "body": "Whose asks which person something belongs to. Say whose plus a noun, or use whose alone when the object is obvious. Use is for one item and are for more than one.",
+      "example": "Whose bicycles are these?"
+    },
+    {
+      "heading": "Talk about personal connections",
+      "body": "After expressions such as a friend of or a neighbour of, use a possessive pronoun: a friend of mine, a neighbour of hers, or friends of theirs. Do not put an object pronoun such as me or him in that position.",
+      "example": "Eva is a neighbour of ours."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Before the noun or instead of it?",
+      "left": {
+        "label": "Before a noun",
+        "example": "Is this your umbrella?",
+        "note": "Your comes before the noun umbrella."
+      },
+      "right": {
+        "label": "Without a noun",
+        "example": "No, the yellow one is yours.",
+        "note": "Yours replaces your umbrella."
+      }
+    },
+    {
+      "title": "Asking about one or several items",
+      "left": {
+        "label": "One item",
+        "example": "Whose is this notebook?",
+        "note": "Use is with one notebook."
+      },
+      "right": {
+        "label": "Several items",
+        "example": "Whose are these notebooks?",
+        "note": "Use are with more than one notebook."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The large bedroom is theirs, and the small one is ours.",
+      "note": "Theirs and ours replace the bedroom belonging to each group."
+    },
+    {
+      "sentence": "I have my bus ticket. Have you got yours?",
+      "note": "Yours avoids repeating bus ticket."
+    },
+    {
+      "sentence": "Whose coat is on the sofa?",
+      "note": "Whose introduces the noun coat."
+    },
+    {
+      "sentence": "I had lunch with two colleagues of mine.",
+      "note": "Of mine correctly expresses a personal connection."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "That phone is her.",
+      "correct": "That phone is hers.",
+      "why": "Use hers, not her, when no noun follows."
+    },
+    {
+      "incorrect": "Mine room has two windows.",
+      "correct": "My room has two windows.",
+      "why": "Use my directly before the noun room."
+    },
+    {
+      "incorrect": "Whose are this bag?",
+      "correct": "Whose is this bag?",
+      "why": "A single bag takes is, not are."
+    },
+    {
+      "incorrect": "Leo is a friend of me.",
+      "correct": "Leo is a friend of mine.",
+      "why": "After a friend of, use the possessive pronoun mine."
+    }
+  ],
+  "studyTips": [
+    "Say each pair aloud: my–mine, your–yours, her–hers, our–ours, and their–theirs. Remember that his does not change.",
+    "When you want to avoid repeating a noun, first identify its owner and then choose the matching possessive pronoun.",
+    "Practise both forms of a whose question: Whose bag is this? and Whose is this?"
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Maya left her red scarf here. The scarf is ___.",
+      "choices": [
+        "hers",
+        "her",
+        "she"
+      ],
+      "answerIndex": 0,
+      "feedback": "Hers replaces her scarf; her alone needs a noun after it."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "My cousins own the small boat. It is ___.",
+      "choices": [
+        "their",
+        "theirs",
+        "them"
+      ],
+      "answerIndex": 1,
+      "feedback": "Theirs is the possessive pronoun and does not need a following noun."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "___ keys are on the chair? They belong to Ben.",
+      "choices": [
+        "Who",
+        "Who's",
+        "Whose"
+      ],
+      "answerIndex": 2,
+      "feedback": "Whose asks who owns the keys; who and who is do not express possession here."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Omar is ___ friend of mine.",
+      "choices": [
+        "a",
+        "an",
+        "my"
+      ],
+      "answerIndex": 0,
+      "feedback": "A friend of mine is the standard pattern; a is used before the consonant sound in friend."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "I own this bicycle. It is ___.",
+      "acceptedAnswers": [
+        "mine"
+      ],
+      "feedback": "Mine means my bicycle when the noun is understood."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "We own both bikes. They are ___.",
+      "acceptedAnswers": [
+        "ours"
+      ],
+      "feedback": "Ours replaces our bikes without repeating the noun."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Leah owns that blue dress. It is ___.",
+      "acceptedAnswers": [
+        "hers"
+      ],
+      "feedback": "Hers refers to an item that belongs to Leah."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "I work with Leo. He is a colleague of ___.",
+      "acceptedAnswers": [
+        "mine"
+      ],
+      "feedback": "The expression a colleague of mine uses a possessive pronoun after of."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: These shoes are her.",
+      "acceptedAnswers": [
+        "These shoes are hers."
+      ],
+      "feedback": "Use hers by itself to show that the shoes belong to her."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Whose are this headphones?",
+      "acceptedAnswers": [
+        "Whose are these headphones?"
+      ],
+      "feedback": "These matches the plural noun headphones; whose can come before the noun."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Is this your or mine?",
+      "acceptedAnswers": [
+        "Is this yours or mine?"
+      ],
+      "feedback": "Yours replaces your item when no noun follows."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Nora is a friend of me.",
+      "acceptedAnswers": [
+        "Nora is a friend of mine."
+      ],
+      "feedback": "The phrase a friend of requires a possessive pronoun, not the object pronoun me."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say that the green jacket belongs to you. Start with 'The green jacket'.",
+      "acceptedAnswers": [
+        "The green jacket is mine."
+      ],
+      "feedback": "Mine replaces my jacket and stands after is."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "You are holding two bags. Ask who owns them, using 'whose' without saying 'bags'.",
+      "acceptedAnswers": [
+        "Whose are these?"
+      ],
+      "feedback": "Whose can stand alone, and are agrees with two bags."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say that Felix is one of your friends. Use 'a friend of'.",
+      "acceptedAnswers": [
+        "Felix is a friend of mine."
+      ],
+      "feedback": "Use a friend of mine, not a friend of me."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Ben owns the orange lunchbox. Say one sentence beginning 'The orange lunchbox' and ending with the correct possessive pronoun.",
+      "acceptedAnswers": [
+        "The orange lunchbox is his."
+      ],
+      "feedback": "His stands alone after is to show that the lunchbox belongs to Ben."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Replace the second 'bicycle' phrase with a possessive pronoun. Say the whole sentence: 'My bicycle is old, but their bicycle is new.'",
+      "acceptedAnswers": [
+        "My bicycle is old, but theirs is new.",
+        "My bicycle is old but theirs is new."
+      ],
+      "feedback": "Theirs replaces their bicycle; their cannot stand alone without a noun."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend points to a yellow water bottle that belongs to you and asks, 'Is this mine?' Reply using 'No, it' and a possessive pronoun.",
+      "acceptedAnswers": [
+        "No, it's mine.",
+        "No, it is mine."
+      ],
+      "feedback": "Mine stands alone to show the bottle belongs to the speaker, not the friend."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct both possessive forms in this sentence, keeping everything else: 'Hers phone is on the chair, but mine phone is on the desk.'",
+      "acceptedAnswers": [
+        "Her phone is on the chair, but my phone is on the desk.",
+        "Her phone is on the chair but my phone is on the desk."
+      ],
+      "feedback": "Use her and my before nouns; hers and mine are used without a following noun."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Lea owns the red trainers, and you own the blue trainers. Say two sentences starting 'The red trainers' and 'The blue trainers'. Use possessive pronouns instead of repeating the owners.",
+      "acceptedAnswers": [
+        "The red trainers are hers. The blue trainers are mine."
+      ],
+      "feedback": "Hers refers to Lea's trainers, and mine refers to the speaker's trainers; neither needs a noun after it."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "My sister's bag is blue, but the black bag is hers too.",
+      "prompt": "Who owns the black bag?",
+      "choices": [
+        "The speaker",
+        "The speaker's sister",
+        "A friend"
+      ],
+      "answerIndex": 1,
+      "feedback": "Hers refers back to my sister, so both bags belong to the sister."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Those cups on the table are ours, but the ones by the window are theirs.",
+      "prompt": "Which cups belong to the speaker's group?",
+      "choices": [
+        "The cups by the window",
+        "Both sets of cups",
+        "The cups on the table"
+      ],
+      "answerIndex": 2,
+      "feedback": "Ours marks the cups on the table as belonging to the speaker and their group."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The umbrella is hers, but the coat is yours.",
+      "prompt": "Type the final possessive pronoun you hear.",
+      "acceptedAnswers": [
+        "yours"
+      ],
+      "feedback": "Yours stands alone and means your coat."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I took my sister's hat by mistake. The green hat is hers, and mine is brown.",
+      "prompt": "Which hat belongs to the person speaking?",
+      "choices": [
+        "The brown hat",
+        "The green hat",
+        "Both hats"
+      ],
+      "answerIndex": 0,
+      "feedback": "Mine refers to the speaker's brown hat; hers refers to the sister's green one."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Our painting was ready on Tuesday, but theirs wasn't ready until Thursday.",
+      "prompt": "Which group finished its painting earlier?",
+      "choices": [
+        "The other group",
+        "Both groups finished together",
+        "The speaker's group"
+      ],
+      "answerIndex": 2,
+      "feedback": "Our painting was ready on Tuesday, while theirs was ready on Thursday; the speaker's group finished first."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I borrowed Liam's charger because mine stopped working. His is the one on the kitchen shelf.",
+      "prompt": "Why did the speaker borrow another charger?",
+      "choices": [
+        "The speaker's charger stopped working",
+        "Liam lost his charger",
+        "The speaker had no phone"
+      ],
+      "answerIndex": 0,
+      "feedback": "Mine refers to the speaker's charger, which had stopped working; his refers to Liam's."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Your seat is next to the window, and mine is beside the aisle.",
+      "prompt": "Type the possessive pronoun you hear immediately before 'is beside the aisle'.",
+      "acceptedAnswers": [
+        "mine"
+      ],
+      "feedback": "Mine means my seat and is used without repeating the noun seat."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Those bicycles belong to the neighbours, so the helmets over there are theirs too.",
+      "prompt": "Type the possessive pronoun you hear immediately after 'are' near the end.",
+      "acceptedAnswers": [
+        "theirs"
+      ],
+      "feedback": "Theirs means the neighbours' helmets and stands on its own without a noun."
+    }
+  ]
+}

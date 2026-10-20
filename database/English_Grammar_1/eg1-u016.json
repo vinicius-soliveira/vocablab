@@ -1,0 +1,410 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u016",
+  "title": "Present Perfect: Just, Already and Yet",
+  "level": "A2",
+  "topicId": "present-perfect-just-already-yet",
+  "summary": "Talk about very recent actions, results that happened earlier than expected and things that have not happened up to now. Use just, already and yet with the present perfect in natural positions.",
+  "learningObjectives": [
+    "Use just with the present perfect to describe a very recent action.",
+    "Use already to say that something happened before expected.",
+    "Use yet in negative present perfect sentences and questions.",
+    "Place these words correctly and use suitable short answers."
+  ],
+  "explanation": [
+    {
+      "heading": "Put just after have or has",
+      "body": "Just means a very short time before now. In the present perfect, put just between have/has and the past participle. Use it to report a very recent change or completion. The action is finished, but it happened only a moment ago.",
+      "example": "The guests have just walked through the door."
+    },
+    {
+      "heading": "Use already for something earlier than expected",
+      "body": "Already means that the action happened before now, often sooner than someone expected. Put already after have/has and before the past participle in this unit’s affirmative patterns. This often answers a question about whether something still needs to happen.",
+      "example": "I have already packed my bag, so I am ready to leave."
+    },
+    {
+      "heading": "Use yet for an unfinished expected action",
+      "body": "In a negative present perfect sentence, yet means that something has not happened up to now, but it may happen later. Yet normally comes at the end of the sentence. Keep not with have/has: haven’t finished yet or hasn’t arrived yet.",
+      "example": "The mechanic hasn’t called yet, so we are still waiting."
+    },
+    {
+      "heading": "Ask Have you ... yet?",
+      "body": "In a present perfect question, yet asks whether an expected action has happened by now. Put yet at the end: Have you sent the invitation yet? If it has not happened, a short natural answer is No, not yet. The complete negative answer is No, I haven’t sent it yet.",
+      "example": "Has the film started yet?"
+    },
+    {
+      "heading": "Choose the expression for your meaning",
+      "body": "Just focuses on how recently something happened; already focuses on an earlier-than-expected completion; yet in these beginner patterns asks whether something has happened or says it has not happened so far. All three are used with have/has + a past participle in this lesson.",
+      "example": "I’ve just arrived, but my friends have already ordered and my food hasn’t come yet."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Completed already versus not completed yet",
+      "left": {
+        "label": "Already completed",
+        "example": "The children have already eaten.",
+        "note": "Their meal is finished, perhaps sooner than expected."
+      },
+      "right": {
+        "label": "Not completed yet",
+        "example": "The children haven’t eaten yet.",
+        "note": "Their meal has not happened up to now."
+      }
+    },
+    {
+      "title": "A recent action versus an expected action",
+      "left": {
+        "label": "Very recent",
+        "example": "The taxi has just arrived.",
+        "note": "The arrival happened a moment ago."
+      },
+      "right": {
+        "label": "Checking progress",
+        "example": "Has the taxi arrived yet?",
+        "note": "The question asks whether the expected arrival has happened."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The doctor has just entered the room.",
+      "note": "Just indicates a very recent arrival."
+    },
+    {
+      "sentence": "Maya has already washed the dishes.",
+      "note": "The washing is done before it was expected."
+    },
+    {
+      "sentence": "We haven’t chosen a restaurant yet.",
+      "note": "The choice is still not made."
+    },
+    {
+      "sentence": "Have you paid the electricity bill yet?",
+      "note": "The question checks whether an expected payment has happened."
+    },
+    {
+      "sentence": "Has Oliver left yet? No, not yet.",
+      "note": "The question and short answer show the departure is still expected."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I have finished just my lunch.",
+      "correct": "I have just finished my lunch.",
+      "why": "Put just between have and the participle finished."
+    },
+    {
+      "incorrect": "She has posted already the letter.",
+      "correct": "She has already posted the letter.",
+      "why": "Do not put already between posted and its object the letter. Use has already posted."
+    },
+    {
+      "incorrect": "The children haven’t arrived already.",
+      "correct": "The children haven’t arrived yet.",
+      "why": "Use yet, not already, for a negative statement about an expected arrival."
+    },
+    {
+      "incorrect": "Have yet you opened the parcel?",
+      "correct": "Have you opened the parcel yet?",
+      "why": "Yet normally goes at the end of a present perfect question, not between have and you."
+    }
+  ],
+  "studyTips": [
+    "Think of three messages: just = a moment ago; already = sooner than expected; not ... yet = still waiting.",
+    "Say the common patterns aloud: have just finished; has already left; haven’t started yet.",
+    "Turn a negative into a question: It hasn’t arrived yet. Has it arrived yet?"
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The kettle stopped a moment ago. It has ___ boiled.",
+      "choices": [
+        "yet",
+        "already",
+        "just"
+      ],
+      "answerIndex": 2,
+      "feedback": "Just says the boiling finished only a moment ago."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "You are early, but we have ___ made the sandwiches.",
+      "choices": [
+        "already",
+        "yet",
+        "usually"
+      ],
+      "answerIndex": 0,
+      "feedback": "Already shows the sandwiches are finished sooner than expected."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The parcel is still missing. It hasn’t arrived ___.",
+      "choices": [
+        "already",
+        "yet",
+        "just"
+      ],
+      "answerIndex": 1,
+      "feedback": "Yet normally ends a negative present perfect statement about an expected arrival."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which is the correct present perfect question with yet?",
+      "choices": [
+        "Yet has Kim arrived?",
+        "Has yet Kim arrived?",
+        "Has Kim arrived yet?"
+      ],
+      "answerIndex": 2,
+      "feedback": "Put Has before the subject Kim and yet at the end."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "A moment ago, the driver stopped the car. The driver has ___ stopped the car. (One word.)",
+      "acceptedAnswers": [
+        "just"
+      ],
+      "feedback": "Just follows has and tells us the stopping happened very recently."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The cake is ready sooner than expected. We have ___ baked it. (One word.)",
+      "acceptedAnswers": [
+        "already"
+      ],
+      "feedback": "Already belongs after have and before the past participle baked."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We are still waiting for the bus. It hasn’t come ___. (One word.)",
+      "acceptedAnswers": [
+        "yet"
+      ],
+      "feedback": "Yet completes a negative about something expected but not here so far."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Ask whether Ben has completed the form up to now: Has Ben completed the form ___? (One word.)",
+      "acceptedAnswers": [
+        "yet"
+      ],
+      "feedback": "Yet at the end asks whether an expected action has happened."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the word order: I have finished just my homework.",
+      "acceptedAnswers": [
+        "I have just finished my homework."
+      ],
+      "feedback": "Put just between have and finished."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The children have eaten yet, so they are not hungry.",
+      "acceptedAnswers": [
+        "The children have already eaten, so they are not hungry."
+      ],
+      "feedback": "Already describes a completed action in an affirmative present perfect sentence; yet does not fit this meaning."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My parcel has not arrived already, so I am still waiting.",
+      "acceptedAnswers": [
+        "My parcel has not arrived yet, so I am still waiting."
+      ],
+      "feedback": "Use yet, not already, for something expected that has not happened so far."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the question: Have you called your parents already yet?",
+      "acceptedAnswers": [
+        "Have you called your parents yet?"
+      ],
+      "feedback": "For a neutral question checking progress, use yet once at the end; already is unnecessary here."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one sentence using: the train / just / leave.",
+      "acceptedAnswers": [
+        "The train has just left.",
+        "The train's just left."
+      ],
+      "feedback": "Use has just left to say the departure was very recent."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say one complete affirmative sentence using: we / already / buy / the tickets.",
+      "acceptedAnswers": [
+        "We have already bought the tickets.",
+        "We've already bought the tickets."
+      ],
+      "feedback": "Use have already bought with the irregular participle bought."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Give a complete negative sentence using: she / not / finish / her breakfast / yet.",
+      "acceptedAnswers": [
+        "She hasn't finished her breakfast yet.",
+        "She has not finished her breakfast yet."
+      ],
+      "feedback": "Put yet at the end of the negative present perfect sentence."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Your brother returned your keys a moment ago. Say one present-perfect sentence using: my brother / just / give / me / my keys / back.",
+      "acceptedAnswers": [
+        "My brother has just given me my keys back.",
+        "My brother's just given me my keys back."
+      ],
+      "feedback": "Use has just given: just follows has, and given is the past participle of give."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this sentence into an affirmative sentence with already, keeping the person and action: Olivia hasn't washed the cups yet. Use full verb forms.",
+      "acceptedAnswers": [
+        "Olivia has already washed the cups."
+      ],
+      "feedback": "Use has already washed for an action completed sooner than expected, rather than hasn’t washed ... yet."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A colleague asks, \"Has Liam paid for the tickets?\" He has not paid. Reply in a full sentence starting with \"No, he\" and ending with \"yet\".",
+      "acceptedAnswers": [
+        "No, he hasn't paid for the tickets yet.",
+        "No, he has not paid for the tickets yet."
+      ],
+      "feedback": "Hasn’t paid yet means the expected payment has not happened up to now."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct only the final word and say the full sentence: The technician hasn’t finished the repair already.",
+      "acceptedAnswers": [
+        "The technician hasn’t finished the repair yet."
+      ],
+      "feedback": "In this negative sentence, use yet at the end for an expected action that remains unfinished."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You checked the machine a moment ago. The engineers finished the report earlier than expected. Tell a colleague both facts in one sentence beginning with \"I\", joining the clauses with \"but\", and using just and already. Use full verb forms.",
+      "acceptedAnswers": [
+        "I have just checked the machine, but the engineers have already finished the report."
+      ],
+      "feedback": "Have just checked refers to a very recent action; have already finished refers to earlier-than-expected completion."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The gardener has just planted three roses outside.",
+      "prompt": "When did the gardener plant the roses?",
+      "choices": [
+        "Very recently",
+        "Last summer",
+        "Every week"
+      ],
+      "answerIndex": 0,
+      "feedback": "Just indicates that the planting finished a very short time ago."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We have already booked our seats, so we do not need to call the theatre.",
+      "prompt": "What has already happened?",
+      "choices": [
+        "They have bought snacks.",
+        "They have booked seats.",
+        "They have visited the theatre."
+      ],
+      "answerIndex": 1,
+      "feedback": "Already booked tells us the reservation was completed sooner than needed or expected."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Have the neighbours moved into their new flat yet?",
+      "prompt": "Type the one-word expression at the end of the question that you hear.",
+      "acceptedAnswers": [
+        "yet"
+      ],
+      "feedback": "Yet at the end asks whether the expected move has happened by now."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I've just switched off the oven, so the kitchen is safe now.",
+      "prompt": "How recently did the speaker turn off the oven?",
+      "choices": [
+        "Early last month.",
+        "At the same time every day.",
+        "Only a moment ago."
+      ],
+      "answerIndex": 2,
+      "feedback": "Just indicates that the action happened a very short time before now."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Ella has already returned the blue jacket, but she still has the red one.",
+      "prompt": "What has Ella kept?",
+      "choices": [
+        "Her red jacket.",
+        "Both jackets.",
+        "Her blue jacket."
+      ],
+      "answerIndex": 0,
+      "feedback": "The blue jacket has been returned, while the red one is still with Ella."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We haven't put the chairs outside yet. Please wait before opening the doors.",
+      "prompt": "What does the speaker mean about the chairs?",
+      "choices": [
+        "They are already outside.",
+        "They still need to be moved outside.",
+        "They were taken outside yesterday."
+      ],
+      "answerIndex": 1,
+      "feedback": "Haven’t ... yet means the expected action remains unfinished."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The children have already packed their schoolbags for tomorrow.",
+      "prompt": "Type the two words immediately after \"have\" in the audio.",
+      "acceptedAnswers": [
+        "already packed"
+      ],
+      "feedback": "Already is placed between have and the participle packed."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "He hasn't answered my message yet, so I'll call him later.",
+      "prompt": "Type the negative verb phrase immediately after \"He\". You may expand the contraction.",
+      "acceptedAnswers": [
+        "hasn't answered",
+        "has not answered"
+      ],
+      "feedback": "Hasn’t answered is the negative present perfect; yet shows the reply is still expected."
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u086",
+  "title": "Adverbs: How Things Happen",
+  "level": "A2",
+  "topicId": "adverbs-manner-and-irregular-forms",
+  "summary": "Use adverbs to say how actions happen. Form common -ly adverbs, recognise words that do not change, and distinguish good from well.",
+  "learningObjectives": [
+    "Form regular -ly adverbs from adjectives, including easy and heavy.",
+    "Choose an adverb rather than an adjective to describe how an action happens.",
+    "Use hard, fast, late and early as adverbs without adding -ly.",
+    "Choose good for a description and well for performing an action.",
+    "Recognise well as an adjective when talking about health."
+  ],
+  "explanation": [
+    {
+      "heading": "An adverb tells us how an action happens",
+      "body": "Use an adverb when you want to describe how somebody does something or how something happens. Many adverbs of manner end in -ly: move slowly, speak clearly or close a door carefully.",
+      "example": "The children listened quietly to the story."
+    },
+    {
+      "heading": "Form many adverbs with -ly",
+      "body": "Many adjectives become adverbs by adding -ly: calm → calmly and polite → politely. With an adjective ending in consonant + y, change y to i before -ly: easy → easily and heavy → heavily.",
+      "example": "The rain fell heavily during the night."
+    },
+    {
+      "heading": "Adjective or adverb?",
+      "body": "Use an adjective to describe a person or thing, often after be or feel: he was nervous. Use an adverb to describe the action: he spoke nervously. Do not automatically add -ly after look, feel, sound, smell or taste when these verbs describe their subject.",
+      "example": "The dancer was graceful and moved gracefully."
+    },
+    {
+      "heading": "Hard, fast, late and early do not need -ly",
+      "body": "Some words have the same form as an adjective and an adverb. Say work hard, run fast, arrive late and get up early. Hardly does not mean hard: it usually means almost not.",
+      "example": "The baker starts early and works hard."
+    },
+    {
+      "heading": "Good, well and health",
+      "body": "Good is an adjective; well is normally the corresponding adverb. Say a good singer but sing well. Well can also be an adjective meaning healthy: I am well today.",
+      "example": "The chef is good at her job and cooks well."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Describe the person or the action",
+      "left": {
+        "label": "Adjective",
+        "example": "The driver was careful.",
+        "note": "Careful describes the driver."
+      },
+      "right": {
+        "label": "Adverb",
+        "example": "The driver turned carefully.",
+        "note": "Carefully describes how the driver turned."
+      }
+    },
+    {
+      "title": "Good and well",
+      "left": {
+        "label": "Good = adjective",
+        "example": "That was a good performance.",
+        "note": "Good describes the noun performance."
+      },
+      "right": {
+        "label": "Well = adverb",
+        "example": "The actors performed well.",
+        "note": "Well describes how the actors performed."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The nurse explained the instructions clearly.",
+      "note": "Clearly describes how the nurse explained something."
+    },
+    {
+      "sentence": "My little sister learns new games easily.",
+      "note": "Easy changes to easily when it is an adverb."
+    },
+    {
+      "sentence": "The cyclist rode fast along the empty road.",
+      "note": "Fast has the same form as an adjective and an adverb."
+    },
+    {
+      "sentence": "We worked hard to finish the garden before dark.",
+      "note": "Hard is the correct adverb; hardly has a different meaning."
+    },
+    {
+      "sentence": "I was ill last week, but I am well now.",
+      "note": "Well can mean healthy when it follows am."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Please read the instructions careful.",
+      "correct": "Please read the instructions carefully.",
+      "why": "Carefully is an adverb describing the action of reading."
+    },
+    {
+      "incorrect": "We finished the puzzle easy.",
+      "correct": "We finished the puzzle easily.",
+      "why": "The adverb from easy is easily."
+    },
+    {
+      "incorrect": "My cousin speaks French good.",
+      "correct": "My cousin speaks French well.",
+      "why": "Well, not good, describes how someone speaks."
+    },
+    {
+      "incorrect": "Nina works hardly every day.",
+      "correct": "Nina works hard every day.",
+      "why": "Hard means with effort; hardly means almost not."
+    }
+  ],
+  "studyTips": [
+    "Ask what the word describes: a person or thing usually needs an adjective; an action usually needs an adverb.",
+    "Practise spelling: easy → easily, heavy → heavily, careful → carefully.",
+    "Remember the short set of adverbs with no -ly: work hard, run fast, arrive late and wake up early."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the word that completes the sentence: Please check the address ___ before you leave.",
+      "choices": [
+        "careful",
+        "carefulness",
+        "carefully"
+      ],
+      "answerIndex": 2,
+      "feedback": "Carefully is an adverb describing how to check the address."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the word that completes the sentence: Theo rides his bicycle ___.",
+      "choices": [
+        "fastly",
+        "fast",
+        "fastness"
+      ],
+      "answerIndex": 1,
+      "feedback": "Fast is already an adverb; fastly is not used here."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the word that completes the sentence: The musicians played ___ at the festival.",
+      "choices": [
+        "well",
+        "good",
+        "goodly"
+      ],
+      "answerIndex": 0,
+      "feedback": "Well is the adverb that describes how the musicians played."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct word: We arrived ___ for the first train.",
+      "choices": [
+        "earlily",
+        "earliness",
+        "early"
+      ],
+      "answerIndex": 2,
+      "feedback": "Early works as an adverb without an -ly ending."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with the adverb from 'easy': The children solved the puzzle ___.",
+      "acceptedAnswers": [
+        "easily"
+      ],
+      "feedback": "Easy changes to easily when it describes how an action happens."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with the adverb from 'heavy': Rain fell ___ during the storm.",
+      "acceptedAnswers": [
+        "heavily"
+      ],
+      "feedback": "The adverb from heavy changes y to i before -ly."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with the adverb from 'bad': The old radio worked ___ yesterday.",
+      "acceptedAnswers": [
+        "badly"
+      ],
+      "feedback": "Badly is the adverb from bad, describing how the radio worked."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the correct adverb from 'hard': At the bakery, Maya works ___ all morning.",
+      "acceptedAnswers": [
+        "hard"
+      ],
+      "feedback": "Hard is the adverb of effort; hardly would change the meaning."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Please speak slow so everyone can understand.",
+      "acceptedAnswers": [
+        "Please speak slowly so everyone can understand."
+      ],
+      "feedback": "Slowly describes how to speak."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The waiter carried the glasses very careful.",
+      "acceptedAnswers": [
+        "The waiter carried the glasses very carefully."
+      ],
+      "feedback": "Carefully is the adverb that modifies carried."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My brother can swim fastly.",
+      "acceptedAnswers": [
+        "My brother can swim fast."
+      ],
+      "feedback": "Fast is already an adverb; do not add -ly."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The singer performed good at the concert.",
+      "acceptedAnswers": [
+        "The singer performed well at the concert."
+      ],
+      "feedback": "Well is the adverb for how someone performed."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say the complete sentence using the adverb 'neatly': 'Mina writes ___.'",
+      "acceptedAnswers": [
+        "Mina writes neatly."
+      ],
+      "feedback": "Neatly is the adverb describing how Mina writes."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Correct this sentence aloud: 'My uncle drives fastly.'",
+      "acceptedAnswers": [
+        "My uncle drives fast."
+      ],
+      "feedback": "Fast already has the correct adverb form."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Complete the sentence aloud using 'well': 'Dalia plays the piano ___.'",
+      "acceptedAnswers": [
+        "Dalia plays the piano well."
+      ],
+      "feedback": "Well describes how Dalia plays the piano."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The guide explained the route in a clear way. Say the complete sentence beginning 'The guide explained the route' and ending with the adverb from 'clear'.",
+      "acceptedAnswers": [
+        "The guide explained the route clearly."
+      ],
+      "feedback": "Clearly is the adverb from clear. It describes how the guide explained the route."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change 'Sara is a careful driver' to a sentence beginning 'Sara drives' and using the adverb from 'careful'.",
+      "acceptedAnswers": [
+        "Sara drives carefully."
+      ],
+      "feedback": "Careful describes a driver; carefully describes how Sara drives."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks how the children learned the dance. They learned it without difficulty. Begin 'The children learned the dance' and end with the adverb from 'easy'.",
+      "acceptedAnswers": [
+        "The children learned the dance easily."
+      ],
+      "feedback": "Easy changes to easily: y becomes i before -ly."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A friend means that Leo puts in a lot of effort, but says 'Leo studies hardly every evening.' Correct the sentence, keeping 'Leo studies' and 'every evening'.",
+      "acceptedAnswers": [
+        "Leo studies hard every evening."
+      ],
+      "feedback": "Hard means with effort; hardly means almost not. Hard is correct for studying with effort."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Describe this bus trip in exactly two sentences: the driver drove slowly because the road was wet, and all passengers arrived safely. Begin with 'The driver', then 'All passengers'.",
+      "acceptedAnswers": [
+        "The driver drove slowly because the road was wet. All passengers arrived safely."
+      ],
+      "feedback": "Slowly tells how the driver drove, and safely tells how the passengers arrived."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The guests walked quietly into the library.",
+      "prompt": "Which word tells you how the guests walked?",
+      "choices": [
+        "quiet",
+        "quietly",
+        "quickly"
+      ],
+      "answerIndex": 1,
+      "feedback": "Quietly is the adverb you hear describing how the guests walked."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I got up early to catch the bus.",
+      "prompt": "Which adverb do you hear telling you when the speaker got up?",
+      "choices": [
+        "early",
+        "earlily",
+        "earlier"
+      ],
+      "answerIndex": 0,
+      "feedback": "Early is the adverb heard in the sentence; no -ly is added."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "She answered the difficult question correctly.",
+      "prompt": "Type the adverb that describes how she answered.",
+      "acceptedAnswers": [
+        "correctly"
+      ],
+      "feedback": "Correctly describes the way she answered the question."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The shop assistant replied politely when the customer asked for help.",
+      "prompt": "How did the assistant treat the customer?",
+      "choices": [
+        "By speaking rudely",
+        "With good manners",
+        "By refusing to answer"
+      ],
+      "answerIndex": 1,
+      "feedback": "Politely means with good manners; it describes the way the assistant replied."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Omar arrived late at the station, so he missed the first train.",
+      "prompt": "Why did Omar miss the train?",
+      "choices": [
+        "He arrived after it had gone.",
+        "He forgot his ticket.",
+        "He chose to stay at home."
+      ],
+      "answerIndex": 0,
+      "feedback": "Omar missed the first train because he arrived late, after it had left."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The soup tastes good, and the chef always cooks well.",
+      "prompt": "What does the speaker say about the chef?",
+      "choices": [
+        "The chef feels ill.",
+        "The chef prepares food too slowly.",
+        "The chef prepares food skilfully."
+      ],
+      "answerIndex": 2,
+      "feedback": "Cooks well means prepares food skilfully. Good describes the soup; well describes the cooking."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The rain fell heavily during the storm last night.",
+      "prompt": "Type the adverb you hear that describes how the rain fell.",
+      "acceptedAnswers": [
+        "heavily"
+      ],
+      "feedback": "Heavily is the adverb formed from heavy by changing y to i before -ly."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The students worked hard on the final exercise.",
+      "prompt": "Type the adverb you hear immediately after 'worked'.",
+      "acceptedAnswers": [
+        "hard"
+      ],
+      "feedback": "Hard describes working with effort. Hardly would mean almost not, which changes the meaning."
+    }
+  ]
+}

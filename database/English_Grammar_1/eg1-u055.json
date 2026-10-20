@@ -1,0 +1,402 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u055",
+  "title": "Going Places and Doing Activities with Go",
+  "level": "A2",
+  "topicId": "go-prepositions-and-activities",
+  "summary": "Learn when to say go to, go on, go for and go + -ing. Use these patterns to talk about destinations, trips and everyday activities.",
+  "learningObjectives": [
+    "Use go to for destinations and recognise go home without to.",
+    "Choose go on for holidays, tours, trips, cruises and strikes.",
+    "Use go for + an activity noun and go + -ing for common leisure activities.",
+    "Distinguish go to bed and go to sleep from go home."
+  ],
+  "explanation": [
+    {
+      "heading": "Go to a place; go home without to",
+      "body": "Use go to before many destinations, such as the office, a concert or the dentist. Use go to bed when you go to your bed to rest, and go to sleep for the moment you begin sleeping. Home is an exception: say go home, with no to.",
+      "example": "After the film, Nina went home and went to bed."
+    },
+    {
+      "heading": "Go on for holidays and organised events",
+      "body": "Use go on with a holiday, a trip, a tour or a cruise. Go on strike means that workers stop working as a protest. These are fixed combinations; do not replace on with to or for.",
+      "example": "Our neighbours are going on a walking tour tomorrow."
+    },
+    {
+      "heading": "Go for an activity expressed as a noun",
+      "body": "Use go for before noun phrases such as a walk, a run, a swim, a drink or a meal. You can add a destination: go for a walk in the park. The article a is part of many of these expressions.",
+      "example": "After lunch, we went for a short walk by the river."
+    },
+    {
+      "heading": "Go + -ing for sports and shopping",
+      "body": "Use go + an -ing verb for activities such as swimming, skiing, fishing, cycling and shopping. You can change the tense of go: we go swimming, we went swimming, she is going shopping. Do not add to or for before the -ing form in this pattern.",
+      "example": "My brother goes cycling on Sunday mornings."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Go to a destination, but go home",
+      "left": {
+        "label": "Go to + place",
+        "example": "I go to the library after work.",
+        "note": "Use to before the destination the library."
+      },
+      "right": {
+        "label": "Go home",
+        "example": "I go home after work.",
+        "note": "Home follows go directly; do not say to home."
+      }
+    },
+    {
+      "title": "A swim or swimming?",
+      "left": {
+        "label": "Go for + noun",
+        "example": "Let’s go for a swim.",
+        "note": "A swim is an activity expressed as a noun."
+      },
+      "right": {
+        "label": "Go + -ing",
+        "example": "Let’s go swimming.",
+        "note": "Swimming is the -ing activity form; both sentences invite the same activity."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Leila went to the theatre with her parents.",
+      "note": "Go to introduces a destination."
+    },
+    {
+      "sentence": "We went home before it started raining.",
+      "note": "There is no preposition before home."
+    },
+    {
+      "sentence": "The class is going on a day trip next Thursday.",
+      "note": "Go on is the normal pattern for a trip."
+    },
+    {
+      "sentence": "Shall we go for a drink after the match?",
+      "note": "Go for + a drink names a social activity."
+    },
+    {
+      "sentence": "I sometimes go fishing with my grandfather.",
+      "note": "Go + -ing describes a hobby or leisure activity."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I need to go to home now.",
+      "correct": "I need to go home now.",
+      "why": "Go home does not take the preposition to."
+    },
+    {
+      "incorrect": "We are going for holiday in July.",
+      "correct": "We are going on holiday in July.",
+      "why": "The usual expression is go on holiday."
+    },
+    {
+      "incorrect": "Do you want to go for shopping?",
+      "correct": "Do you want to go shopping?",
+      "why": "With shopping, use go + -ing without for."
+    },
+    {
+      "incorrect": "They went on a walk after breakfast.",
+      "correct": "They went for a walk after breakfast.",
+      "why": "Use go for a walk when walk is a noun."
+    }
+  ],
+  "studyTips": [
+    "Learn the go patterns as short chunks: go to the office; go on holiday; go for a run; go swimming.",
+    "Contrast noun and activity forms: go for a swim, but go swimming. Never use go for swimming for this meaning.",
+    "Remember the special endings: go home, go to bed and go to sleep."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: Mina goes ___ school by bicycle.",
+      "choices": [
+        "to",
+        "on",
+        "for"
+      ],
+      "answerIndex": 0,
+      "feedback": "School is the destination, so the usual expression is goes to school."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: The airport workers have gone ___ strike.",
+      "choices": [
+        "to",
+        "on",
+        "for"
+      ],
+      "answerIndex": 1,
+      "feedback": "The fixed expression for stopping work as a protest is go on strike."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly describes a regular weekend activity?",
+      "choices": [
+        "We go for shopping every Saturday.",
+        "We go to shopping every Saturday.",
+        "We go shopping every Saturday."
+      ],
+      "answerIndex": 2,
+      "feedback": "Shopping follows go directly as an -ing activity: go shopping."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct sentence about returning to your house.",
+      "choices": [
+        "We went home after the show.",
+        "We went to home after the show.",
+        "We went on home after the show."
+      ],
+      "answerIndex": 0,
+      "feedback": "Home follows the verb go without to or on."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "After dinner, Alex went ___ bed because he was tired.",
+      "acceptedAnswers": [
+        "to"
+      ],
+      "feedback": "The fixed destination expression is go to bed."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Every August, my neighbours go ___ holiday for two weeks.",
+      "acceptedAnswers": [
+        "on"
+      ],
+      "feedback": "Holiday is used with go on: go on holiday."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We went ___ a short walk around the lake.",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "A walk is a noun phrase; use go for a walk."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the -ing form of ski: They go ___ in the mountains every winter.",
+      "acceptedAnswers": [
+        "skiing"
+      ],
+      "feedback": "For this sport, use go + -ing: go skiing."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I am going to home straight after class.",
+      "acceptedAnswers": [
+        "I am going home straight after class.",
+        "I'm going home straight after class."
+      ],
+      "feedback": "Go home has no to before home."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My parents went in a cruise last summer.",
+      "acceptedAnswers": [
+        "My parents went on a cruise last summer."
+      ],
+      "feedback": "Use go on a cruise for this kind of holiday."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence using the word swimming: We went for swimming before lunch.",
+      "acceptedAnswers": [
+        "We went swimming before lunch."
+      ],
+      "feedback": "Use go + -ing without for: went swimming."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Shall we go on a meal after the concert?",
+      "acceptedAnswers": [
+        "Shall we go for a meal after the concert?"
+      ],
+      "feedback": "A meal is an activity noun here, so use go for a meal."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make one complete sentence in the past simple from these cues: Theo / go / to the dentist / yesterday.",
+      "acceptedAnswers": [
+        "Theo went to the dentist yesterday."
+      ],
+      "feedback": "Went to the dentist is the past form of go to + destination."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Use the present continuous and on in a complete sentence: We / go / on holiday / next week.",
+      "acceptedAnswers": [
+        "We're going on holiday next week.",
+        "We are going on holiday next week."
+      ],
+      "feedback": "Going on holiday uses on after go and the present continuous for a plan."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Make a complete present simple sentence: The children / go swimming / every Sunday.",
+      "acceptedAnswers": [
+        "The children go swimming every Sunday."
+      ],
+      "feedback": "For a repeated activity, use the present simple go swimming."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Use these cues to make one present-simple sentence: Zoe / go to bed / at nine / every night.",
+      "acceptedAnswers": [
+        "Zoe goes to bed at nine every night."
+      ],
+      "feedback": "Use goes to bed for Zoe’s nightly routine. Go to bed takes to, unlike go home."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this sentence to the past simple, keeping the other words: “My uncle goes for a walk after lunch.”",
+      "acceptedAnswers": [
+        "My uncle went for a walk after lunch."
+      ],
+      "feedback": "Change goes to went, and keep the expression for a walk."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks, “Where does the coach go after practice?” You know the coach returns home. Answer with one sentence beginning “The coach”.",
+      "acceptedAnswers": [
+        "The coach goes home after practice."
+      ],
+      "feedback": "Use goes home without to. The coach is singular, so use goes."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the preposition in this sentence about an organised city tour, without changing anything else: “We went to a city tour yesterday.”",
+      "acceptedAnswers": [
+        "We went on a city tour yesterday."
+      ],
+      "feedback": "Use go on a tour. Go for is used with activities such as a walk or a swim."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Invite a friend to go for a swim at the lake tomorrow morning. Begin with “Let’s”, use the expression “go for a swim”, and include the place and time.",
+      "acceptedAnswers": [
+        "Let's go for a swim at the lake tomorrow morning.",
+        "Let's go for a swim tomorrow morning at the lake."
+      ],
+      "feedback": "Use let’s go for a swim, with for before the activity noun a swim."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We're going on a boat trip tomorrow morning.",
+      "prompt": "What is planned for tomorrow morning?",
+      "choices": [
+        "A walk in the park.",
+        "A boat trip.",
+        "A skiing lesson."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker says they are going on a boat trip."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "After breakfast, Lewis went for a run in the park.",
+      "prompt": "What did Lewis do after breakfast?",
+      "choices": [
+        "He went to work.",
+        "He went shopping.",
+        "He went for a run."
+      ],
+      "answerIndex": 2,
+      "feedback": "Went for a run names the activity Lewis did."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "It's late, so I'm going home now.",
+      "prompt": "Complete what you hear: “It’s late, so I’m going ___ now.” Type only the missing word.",
+      "acceptedAnswers": [
+        "home"
+      ],
+      "feedback": "Go home uses no to; the word heard is home."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "We went to the bakery early to buy rolls for breakfast.",
+      "prompt": "Why did the people visit the shop?",
+      "choices": [
+        "To buy tickets for a show.",
+        "To meet a friend for lunch.",
+        "To get food for a morning meal."
+      ],
+      "answerIndex": 2,
+      "feedback": "They visited a bakery to buy food for breakfast. Went to introduces the destination."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "On Saturdays, Felix goes cycling by the river, but his sister goes shopping in town.",
+      "prompt": "Who does a sport on Saturdays?",
+      "choices": [
+        "Felix.",
+        "His sister.",
+        "Both of them."
+      ],
+      "answerIndex": 0,
+      "feedback": "Felix cycles, which is a sport; his sister shops. Both activities use go plus -ing."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "After the late film, Grace went home, but her cousin went to bed at the guesthouse.",
+      "prompt": "Which description matches what happened?",
+      "choices": [
+        "Both people returned to their own homes.",
+        "Grace returned home while her cousin stayed at the guesthouse.",
+        "Grace went to sleep at the guesthouse."
+      ],
+      "answerIndex": 1,
+      "feedback": "Went home describes Grace’s return, while her cousin went to bed at another place."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Next spring, my parents are going on a cruise around the islands.",
+      "prompt": "Type the three words you hear immediately after “going”.",
+      "acceptedAnswers": [
+        "on a cruise"
+      ],
+      "feedback": "Go on a cruise is the standard expression for this kind of trip."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "In summer, we often go for a swim in the lake after work.",
+      "prompt": "Type the three words you hear immediately after “go”.",
+      "acceptedAnswers": [
+        "for a swim"
+      ],
+      "feedback": "For a swim is an activity noun phrase after go; go swimming is another correct pattern."
+    }
+  ]
+}

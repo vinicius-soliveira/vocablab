@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u057",
+  "title": "Do and Make: Actions, Things and Expressions",
+  "level": "A2",
+  "topicId": "do-make-common-expressions",
+  "summary": "Choose do for many actions and routine tasks, and make for creating or producing something. Practise common combinations such as do homework, make a mistake and take a photo.",
+  "learningObjectives": [
+    "Distinguish general actions with do from producing or creating something with make.",
+    "Use do correctly in common expressions about study, work, household tasks and favours.",
+    "Use make correctly with mistakes, appointments, phone calls, lists, noise and beds.",
+    "Distinguish make a film from take a photo."
+  ],
+  "explanation": [
+    {
+      "heading": "Do for actions and tasks",
+      "body": "Use do when you mean perform an action or complete a task without naming a particular thing you produce. Do can also stand in for an action that is already clear. The question “What do you do?” often asks about your job.",
+      "example": "I have several things to do before our guests arrive."
+    },
+    {
+      "heading": "Make for things you create or produce",
+      "body": "Use make when the action creates, prepares or produces something. You can make food, clothes or a simple object. Do and make are not interchangeable in every sentence.",
+      "example": "We made some sandwiches for the train journey."
+    },
+    {
+      "heading": "Common expressions with do",
+      "body": "Learn fixed combinations such as do homework, do housework, do the shopping, do an exercise, do a course, do a test and do someone a favour. When the verb changes tense, the expression stays together: do homework, did homework, have done homework.",
+      "example": "Mira did the shopping while her partner cleaned the kitchen."
+    },
+    {
+      "heading": "Common expressions with make",
+      "body": "Say make a mistake, make an appointment, make a phone call, make a list, make a noise and make your bed. These phrases use make even when no physical object is produced.",
+      "example": "I made a list so I would not forget the ingredients."
+    },
+    {
+      "heading": "A useful contrast: films and photos",
+      "body": "We make a film, but we normally take a photo or take a picture. Memorise the whole combination rather than choosing only by the meaning of the verb.",
+      "example": "The students made a short film and took photos of the set."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Doing a task versus making something",
+      "left": {
+        "label": "Do an activity",
+        "example": "I did my homework after tea.",
+        "note": "Do focuses on completing an activity or task."
+      },
+      "right": {
+        "label": "Make something",
+        "example": "I made a small model after tea.",
+        "note": "Make focuses on creating an object."
+      }
+    },
+    {
+      "title": "A film versus a photo",
+      "left": {
+        "label": "Make a film",
+        "example": "They made a film about their town.",
+        "note": "Make is the usual verb for film production."
+      },
+      "right": {
+        "label": "Take a photo",
+        "example": "They took a photo of their town.",
+        "note": "Take is the usual verb with a photo or picture."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Could you do me a favour and close the window?",
+      "note": "Do someone a favour is a fixed phrase."
+    },
+    {
+      "sentence": "I made an appointment with the dentist for Friday.",
+      "note": "Use make with an appointment."
+    },
+    {
+      "sentence": "What do you do in the evenings?",
+      "note": "Do asks about activities in general."
+    },
+    {
+      "sentence": "Please do not make a noise while the baby is asleep.",
+      "note": "Make a noise is a common expression."
+    },
+    {
+      "sentence": "We did a short course and made a video together.",
+      "note": "Do a course, but make a video."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I need to make my homework now.",
+      "correct": "I need to do my homework now.",
+      "why": "Homework is an activity: use do homework."
+    },
+    {
+      "incorrect": "Please do your bed before school.",
+      "correct": "Please make your bed before school.",
+      "why": "The fixed expression is make your bed."
+    },
+    {
+      "incorrect": "He did a mistake in the report.",
+      "correct": "He made a mistake in the report.",
+      "why": "Use make a mistake, not do a mistake."
+    },
+    {
+      "incorrect": "We made a photo of the waterfall.",
+      "correct": "We took a photo of the waterfall.",
+      "why": "Use take a photo for photographing something."
+    }
+  ],
+  "studyTips": [
+    "Practise verb and noun together: do the washing-up, make a phone call and make a mistake.",
+    "When a phrase is new, check whether English normally pairs it with do, make or another verb.",
+    "Use past forms in short practice sentences: did homework, made lunch and took a photo."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: After dinner, we usually ___ the washing-up.",
+      "choices": [
+        "do",
+        "make",
+        "take"
+      ],
+      "answerIndex": 0,
+      "feedback": "Do the washing-up is the fixed expression for washing dishes."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: The children ___ a paper boat in art class yesterday.",
+      "choices": [
+        "did",
+        "made",
+        "took"
+      ],
+      "answerIndex": 1,
+      "feedback": "Made is the past of make; the children created a paper boat."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: You need to ___ an appointment before visiting this dentist.",
+      "choices": [
+        "do",
+        "take",
+        "make"
+      ],
+      "answerIndex": 2,
+      "feedback": "Make an appointment is the usual expression for arranging a visit."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the natural request.",
+      "choices": [
+        "Could you do me a favour?",
+        "Could you make me a favour?",
+        "Could you take me a favour?"
+      ],
+      "answerIndex": 0,
+      "feedback": "Do someone a favour is a fixed expression."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with the -ing form of do: My brother is ___ a cooking course this month.",
+      "acceptedAnswers": [
+        "doing"
+      ],
+      "feedback": "The expression is do a course; after is, use doing."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with the past form of make: I ___ a mistake in my email yesterday.",
+      "acceptedAnswers": [
+        "made"
+      ],
+      "feedback": "The past form of make is made; we make a mistake."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete using do or make: Please ___ your bed before breakfast.",
+      "acceptedAnswers": [
+        "make"
+      ],
+      "feedback": "Make your bed is a fixed expression."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the past form of do: We ___ the shopping last Saturday.",
+      "acceptedAnswers": [
+        "did"
+      ],
+      "feedback": "Do the shopping becomes did the shopping in the past."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Sara made her homework before lunch.",
+      "acceptedAnswers": [
+        "Sara did her homework before lunch."
+      ],
+      "feedback": "Use do homework; did is the past tense."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Liam did a delicious cake for the party.",
+      "acceptedAnswers": [
+        "Liam made a delicious cake for the party."
+      ],
+      "feedback": "Making a cake means preparing or creating it."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I need to do a phone call before I leave.",
+      "acceptedAnswers": [
+        "I need to make a phone call before I leave."
+      ],
+      "feedback": "The fixed expression is make a phone call."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We made a photo of the garden.",
+      "acceptedAnswers": [
+        "We took a photo of the garden."
+      ],
+      "feedback": "Say take a photo, not make a photo, when you photograph a place."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one complete sentence in the past from these cues: Noah / do / his homework / after lunch.",
+      "acceptedAnswers": [
+        "Noah did his homework after lunch."
+      ],
+      "feedback": "Use did, the past of do, with homework."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say one complete sentence from these cues: I / need to / make / an appointment / tomorrow.",
+      "acceptedAnswers": [
+        "I need to make an appointment tomorrow."
+      ],
+      "feedback": "Use the phrase make an appointment after need to."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say one complete sentence using the present continuous: Our neighbours / make / a cake / for the picnic.",
+      "acceptedAnswers": [
+        "Our neighbours are making a cake for the picnic."
+      ],
+      "feedback": "Are making shows an action in progress; make a cake is the correct combination."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Every Tuesday, Elena prepares a list of jobs. Begin with Elena and say one complete present-simple sentence using make a list of jobs and every Tuesday.",
+      "acceptedAnswers": [
+        "Elena makes a list of jobs every Tuesday."
+      ],
+      "feedback": "Make a list is the natural combination. Use makes with the singular subject Elena."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change 'Omar does the shopping on Mondays.' into a negative present-simple sentence. Begin with Omar, keep on Mondays, and use doesn't or does not.",
+      "acceptedAnswers": [
+        "Omar doesn't do the shopping on Mondays.",
+        "Omar does not do the shopping on Mondays."
+      ],
+      "feedback": "After does not or doesn't, use the base form do in the expression do the shopping."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks, 'What did you do during lunch?' You made a phone call to your cousin. Begin with I and give one sentence using made a phone call and during lunch.",
+      "acceptedAnswers": [
+        "I made a phone call to my cousin during lunch."
+      ],
+      "feedback": "Made a phone call is the correct past-tense expression for this activity."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this sentence using the past form of do, keeping all other words: 'Our class made a short course in photography last term.' Say the whole corrected sentence.",
+      "acceptedAnswers": [
+        "Our class did a short course in photography last term."
+      ],
+      "feedback": "Use did a course, not made a course. Did is the past form of do."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Tonight you must complete your homework and prepare a sandwich for tomorrow. Say one sentence beginning with Tonight, using will, do my homework and make a sandwich for tomorrow, in that order.",
+      "acceptedAnswers": [
+        "Tonight, I will do my homework and make a sandwich for tomorrow.",
+        "Tonight, I'll do my homework and make a sandwich for tomorrow."
+      ],
+      "feedback": "Use do my homework for a task and make a sandwich for preparing food; will takes the base verbs do and make."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Ella made a small wooden box in her art class.",
+      "prompt": "What did Ella make?",
+      "choices": [
+        "A sandwich.",
+        "A wooden box.",
+        "A shopping list."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker says that Ella made a small wooden box."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I do the washing-up after supper, and my brother dries the plates.",
+      "prompt": "What does the speaker do after supper?",
+      "choices": [
+        "Makes dinner.",
+        "Makes a list.",
+        "Washes the dishes."
+      ],
+      "answerIndex": 2,
+      "feedback": "Doing the washing-up means washing the dishes."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Please make your bed before you leave the house.",
+      "prompt": "Complete the expression you hear: “Please ___ your bed before you leave the house.” Type one word.",
+      "acceptedAnswers": [
+        "make"
+      ],
+      "feedback": "The speaker uses make your bed."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Nadia made a list of the food she needed before going to the market.",
+      "prompt": "What was Nadia preparing to do?",
+      "choices": [
+        "Study for an exam.",
+        "Repair something at home.",
+        "Shop for food."
+      ],
+      "answerIndex": 2,
+      "feedback": "She made a list of needed food before visiting the market, so she was getting ready to shop."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Before the visitors arrived, Karim made two phone calls and then made the beds.",
+      "prompt": "What did Karim do first?",
+      "choices": [
+        "He contacted people by phone.",
+        "He prepared the beds.",
+        "He welcomed the visitors."
+      ],
+      "answerIndex": 0,
+      "feedback": "The phone calls came first; he made the beds afterwards, before the visitors arrived."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Rosa made a wooden chair for the classroom and did a safety test before anyone used it.",
+      "prompt": "Which sentence best describes Rosa's work?",
+      "choices": [
+        "She only cleaned an old chair.",
+        "She built something and checked it.",
+        "She bought a chair without testing it."
+      ],
+      "answerIndex": 1,
+      "feedback": "Made a chair means she created it; did a safety test means she checked it before use."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "After the lesson, Martin did a short maths test without his notes.",
+      "prompt": "Type only the past-tense verb heard immediately before 'a short maths test'.",
+      "acceptedAnswers": [
+        "did"
+      ],
+      "feedback": "Did is the past form in the expression do a test."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I made a mistake when I copied the date into my diary.",
+      "prompt": "Type the three-word expression that means 'made an error' in the recording.",
+      "acceptedAnswers": [
+        "made a mistake"
+      ],
+      "feedback": "Made a mistake is the natural past-tense expression for making an error."
+    }
+  ]
+}

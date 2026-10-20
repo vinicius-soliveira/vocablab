@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u106",
+  "title": "Place Prepositions: In, At and On (1)",
+  "level": "A2",
+  "topicId": "place-prepositions-in-at-on-1",
+  "summary": "Describe where people and things are using in, at and on. Focus on inside areas, specific points, surfaces and a few common transport expressions.",
+  "learningObjectives": [
+    "Use in for rooms, containers, areas, cities and countries.",
+    "Use at for specific points such as a stop, entrance or traffic lights.",
+    "Use on for surfaces and for someone riding a bicycle or motorbike.",
+    "Use at with the top, bottom and end of a page, street or similar area."
+  ],
+  "explanation": [
+    {
+      "heading": "In: inside a space or within an area",
+      "body": "Use in for something inside a room, box, garden, car or body of water. It also names a wider area such as a city or country: in Oslo, in Sweden. Use in the north of a country for a region inside it.",
+      "example": "We found the missing spoon in the kitchen drawer."
+    },
+    {
+      "heading": "At: a particular point",
+      "body": "Use at for a point or meeting position such as a bus stop, a door, traffic lights or a desk. It focuses on where something is, not on being inside a space.",
+      "example": "Three passengers are waiting at the bus stop."
+    },
+    {
+      "heading": "At the top, bottom or end",
+      "body": "Use at the top of, at the bottom of and at the end of to identify a particular position. These expressions are common with pages, streets and lists.",
+      "example": "The answer is at the bottom of the page."
+    },
+    {
+      "heading": "On: touching a surface",
+      "body": "Use on for a surface or something attached to it: on a table, on a wall, on a door, on the floor. On also describes things on trees, grass and the outside of an envelope.",
+      "example": "A paper notice is on the classroom door."
+    },
+    {
+      "heading": "In a car but on a bicycle",
+      "body": "Use in for someone travelling inside a car. Use on for someone riding a bicycle, motorbike or horse. The choice follows the kind of vehicle, not simply the idea of travel.",
+      "example": "My uncle is on his motorbike, and my aunt is in the car."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "An enclosed place versus a point",
+      "left": {
+        "label": "In: inside",
+        "example": "The children are in the classroom.",
+        "note": "The classroom is the space containing them."
+      },
+      "right": {
+        "label": "At: point",
+        "example": "Their teacher is at the classroom door.",
+        "note": "The door is the point where the teacher is standing."
+      }
+    },
+    {
+      "title": "In a car versus on a bicycle",
+      "left": {
+        "label": "Inside a car",
+        "example": "Ella is in her small car.",
+        "note": "Use in for a person inside a car."
+      },
+      "right": {
+        "label": "Riding a bicycle",
+        "example": "Marco is on his bicycle.",
+        "note": "Use on for someone riding a bicycle."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "My cousins live in a village near the coast.",
+      "note": "In identifies the village as the area where they live."
+    },
+    {
+      "sentence": "A blue bag is in the cupboard.",
+      "note": "The cupboard contains the bag."
+    },
+    {
+      "sentence": "Please wait at the side entrance.",
+      "note": "At identifies a specific point."
+    },
+    {
+      "sentence": "There is a small mirror on the bathroom wall.",
+      "note": "On describes attachment to a surface."
+    },
+    {
+      "sentence": "The final question is at the end of the form.",
+      "note": "At the end of identifies a fixed position in a document."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "My friends live at Lisbon.",
+      "correct": "My friends live in Lisbon.",
+      "why": "Use in with the name of a city."
+    },
+    {
+      "incorrect": "The calendar is in the kitchen wall.",
+      "correct": "The calendar is on the kitchen wall.",
+      "why": "Use on for an item attached to the surface of a wall."
+    },
+    {
+      "incorrect": "Our car stopped in the traffic lights.",
+      "correct": "Our car stopped at the traffic lights.",
+      "why": "At the traffic lights names a point on the road."
+    },
+    {
+      "incorrect": "Leo goes to work in his bicycle.",
+      "correct": "Leo goes to work on his bicycle.",
+      "why": "Use on for someone riding a bicycle."
+    }
+  ],
+  "studyTips": [
+    "Imagine three pictures: a coin inside a box (in), a person at a stop (at) and a picture attached to a wall (on).",
+    "Learn at the top, at the bottom and at the end as complete expressions.",
+    "Remember the contrast in a car and on a bicycle; avoid using one transport preposition for every vehicle."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the preposition: The children are swimming ___ the lake.",
+      "choices": [
+        "on",
+        "in",
+        "at"
+      ],
+      "answerIndex": 1,
+      "feedback": "In is used for someone swimming within a body of water."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the preposition: A painting is hanging ___ the living room wall.",
+      "choices": [
+        "in",
+        "at",
+        "on"
+      ],
+      "answerIndex": 2,
+      "feedback": "The painting is attached to a surface, so use on."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the preposition: The cars stopped ___ the traffic lights.",
+      "choices": [
+        "at",
+        "in",
+        "on"
+      ],
+      "answerIndex": 0,
+      "feedback": "At the traffic lights describes a specific point on the road."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the preposition: My cousins live ___ Denmark.",
+      "choices": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answerIndex": 0,
+      "feedback": "Use in with a country."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with in, at or on: The coins are ___ the small wooden box; open it to see them.",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "feedback": "The coins are inside the box, so use in."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with in, at or on: The family photo is hanging ___ the kitchen wall.",
+      "acceptedAnswers": [
+        "on"
+      ],
+      "feedback": "A photograph fixed to a wall is on its surface."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with in, at or on: A taxi is waiting ___ the traffic lights.",
+      "acceptedAnswers": [
+        "at"
+      ],
+      "feedback": "Traffic lights mark a particular point, so use at."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with in, at or on: You can find the total ___ the bottom of the receipt.",
+      "acceptedAnswers": [
+        "at"
+      ],
+      "feedback": "At the bottom of is the usual expression for a position in a document."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the place preposition only: There is a poster in the bedroom wall.",
+      "acceptedAnswers": [
+        "There is a poster on the bedroom wall."
+      ],
+      "feedback": "A poster attached to a wall is on the wall."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the place preposition only: She lives on Argentina.",
+      "acceptedAnswers": [
+        "She lives in Argentina."
+      ],
+      "feedback": "Use in with a country name."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the place preposition only: The taxi stopped in the traffic lights.",
+      "acceptedAnswers": [
+        "The taxi stopped at the traffic lights."
+      ],
+      "feedback": "Use at to indicate a particular road position."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the place preposition only: He travelled to work in his bicycle.",
+      "acceptedAnswers": [
+        "He travelled to work on his bicycle."
+      ],
+      "feedback": "Use on for riding a bicycle rather than in."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say the full sentence using in: 'My aunt lives ___ Norway.'",
+      "acceptedAnswers": [
+        "My aunt lives in Norway."
+      ],
+      "feedback": "Use in before a country."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say the full sentence using at: 'The instructions are ___ the bottom of the page.'",
+      "acceptedAnswers": [
+        "The instructions are at the bottom of the page."
+      ],
+      "feedback": "At the bottom of describes a position on a page."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say the full sentence using on: 'I rode to the market ___ my bicycle.'",
+      "acceptedAnswers": [
+        "I rode to the market on my bicycle."
+      ],
+      "feedback": "Use on for someone riding a bicycle."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A red scarf is inside the suitcase. Say one sentence beginning 'The red scarf...' and use in to give its location.",
+      "acceptedAnswers": [
+        "The red scarf is in the suitcase."
+      ],
+      "feedback": "In the suitcase shows that the scarf is inside a container."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Rewrite 'A note is attached to the fridge door' as one sentence beginning 'There is...' and using on.",
+      "acceptedAnswers": [
+        "There is a note on the fridge door.",
+        "There's a note on the fridge door."
+      ],
+      "feedback": "On describes the note attached to the surface of the fridge door."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your friend asks where Sam is. Sam is waiting at the ticket desk. Reply in a complete sentence beginning 'Sam...', saying what he is doing and where.",
+      "acceptedAnswers": [
+        "Sam is waiting at the ticket desk.",
+        "Sam's waiting at the ticket desk."
+      ],
+      "feedback": "At the ticket desk identifies the particular point where Sam is waiting."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Rita is sitting inside the car, in the front seat. Correct only the first preposition in: 'Rita is on the car, sitting in the front seat.' Say the complete corrected sentence.",
+      "acceptedAnswers": [
+        "Rita is in the car, sitting in the front seat."
+      ],
+      "feedback": "Use in the car for someone sitting inside it; on the car means on its exterior."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Ali is sitting inside the car. Bea is riding the motorbike. Tell a friend where they are in two short sentences, beginning 'Ali is...' Use in and on.",
+      "acceptedAnswers": [
+        "Ali is in the car. Bea is on the motorbike."
+      ],
+      "feedback": "Use in for a car passenger and on for someone riding a motorbike."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "A little bird is sitting on the garden fence.",
+      "prompt": "Where is the bird?",
+      "choices": [
+        "Inside the garden shed.",
+        "On the fence.",
+        "At the garden gate."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker says on the garden fence, describing a surface."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "My brother is waiting at the main gate.",
+      "prompt": "Which preposition does the speaker use for the meeting point?",
+      "choices": [
+        "on",
+        "in",
+        "at"
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker uses at before the main gate."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The children are playing in the back garden.",
+      "prompt": "Type the place preposition you hear.",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "feedback": "In indicates that the children are within the garden area."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "A yellow umbrella is in the tall cupboard next to the front door.",
+      "prompt": "Where should someone look for the umbrella?",
+      "choices": [
+        "Inside a cupboard by the entrance.",
+        "On a table in the hall.",
+        "Outside next to a car."
+      ],
+      "answerIndex": 0,
+      "feedback": "The umbrella is inside the cupboard near the front door; in identifies the enclosed place."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I wrote the phone number at the end of the message, below my name.",
+      "prompt": "Where can the listener find the phone number?",
+      "choices": [
+        "At the start of the message.",
+        "Under the writer's name.",
+        "On an envelope."
+      ],
+      "answerIndex": 1,
+      "feedback": "The number appears at the end of the message, below the writer's name."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Mila is in her brother's car, but Ben is on his new bicycle.",
+      "prompt": "How are the two people travelling?",
+      "choices": [
+        "Both are travelling by car.",
+        "Both are cycling.",
+        "One is travelling by car; the other is cycling."
+      ],
+      "answerIndex": 2,
+      "feedback": "Mila is in a car, while Ben is on a bicycle: the prepositions match the vehicles."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "There's a small key on the windowsill near my desk.",
+      "prompt": "Type the one-word preposition immediately before the location of the key.",
+      "acceptedAnswers": [
+        "on"
+      ],
+      "feedback": "On the windowsill describes an object resting on a surface."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Your name is at the top of the list.",
+      "prompt": "Type the three-word place expression that comes before 'of the list'.",
+      "acceptedAnswers": [
+        "at the top"
+      ],
+      "feedback": "At the top of is the expression for the highest position in a list."
+    }
+  ]
+}

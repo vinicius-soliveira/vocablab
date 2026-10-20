@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u044",
+  "title": "Forming Questions with Auxiliaries",
+  "level": "A2",
+  "topicId": "auxiliary-question-word-order",
+  "summary": "Build yes/no and information questions by placing the first auxiliary before the subject. Choose do, does or did for simple-tense questions and keep the main verb in its base form.",
+  "learningObjectives": [
+    "Invert the first auxiliary verb and subject in yes/no questions.",
+    "Use do, does and did to ask present-simple and past-simple questions.",
+    "Place question words before the auxiliary and subject.",
+    "Form negative questions with why followed by a contracted negative auxiliary."
+  ],
+  "explanation": [
+    {
+      "heading": "Put the first auxiliary before the subject",
+      "body": "In most direct questions, the first verb such as am, is, are, was, were, have, has, can or will comes before the subject. Keep the remaining verb or participle after the subject. This is the pattern for questions about an ongoing action, a completed action, ability or the future.",
+      "example": "Have the children finished their breakfast?"
+    },
+    {
+      "heading": "Ask about simple verbs with do, does or did",
+      "body": "Present-simple questions normally start with do for I, we, you and they, or does for he, she and it. Past-simple questions use did for every subject. Use the base form of the main verb after do, does or did, even when the matching statement contains -s or a past form.",
+      "example": "Did your friends enjoy the concert?"
+    },
+    {
+      "heading": "Place a question word before the auxiliary",
+      "body": "For questions beginning with where, when, why, what or how, put the question word first. Then use the auxiliary, the subject and the remaining verb in that order. Keep the subject together rather than moving it after the main verb.",
+      "example": "Where is your brother waiting?"
+    },
+    {
+      "heading": "Use do when do is the main verb",
+      "body": "Some questions need do twice: the first do, does or did is the question auxiliary, and the second do is the main verb. The main verb still stays in its base form.",
+      "example": "What does Harriet do after school?"
+    },
+    {
+      "heading": "Make negative why-questions with the same order",
+      "body": "A negative question often begins Why followed by a negative auxiliary such as isn’t, aren’t, doesn’t, didn’t or can’t. Put the subject after that auxiliary: Why + negative auxiliary + subject + rest of the question.",
+      "example": "Why didn’t the bus stop at our street?"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Inversion or do-support?",
+      "left": {
+        "label": "An existing auxiliary",
+        "example": "Are you reading this book?",
+        "note": "Move are before the subject you."
+      },
+      "right": {
+        "label": "An ordinary simple-tense verb",
+        "example": "Do you read before bed?",
+        "note": "Use do before the subject; read stays in its base form."
+      }
+    },
+    {
+      "title": "Statements and information questions",
+      "left": {
+        "label": "Statement order",
+        "example": "Ava has left her keys at home.",
+        "note": "The subject comes before has."
+      },
+      "right": {
+        "label": "Question order",
+        "example": "Where has Ava left her keys?",
+        "note": "The question word comes first, then has before Ava."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Is the bakery open on Sundays?",
+      "note": "Is comes before the subject in a question with be."
+    },
+    {
+      "sentence": "Have your parents got tickets for the show?",
+      "note": "Have comes before the subject in a have got question."
+    },
+    {
+      "sentence": "Can Sofia carry this box on her own?",
+      "note": "The modal can precedes the subject."
+    },
+    {
+      "sentence": "What time does your lesson start?",
+      "note": "Does introduces a present-simple question; start has no -s."
+    },
+    {
+      "sentence": "Why aren’t the lights on?",
+      "note": "In a negative why-question, aren’t comes before the subject."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Where is working Leo today?",
+      "correct": "Where is Leo working today?",
+      "why": "Put the subject Leo immediately after the first auxiliary is."
+    },
+    {
+      "incorrect": "Does your sister likes cycling?",
+      "correct": "Does your sister like cycling?",
+      "why": "After does, the main verb remains in its base form."
+    },
+    {
+      "incorrect": "When did they arrived?",
+      "correct": "When did they arrive?",
+      "why": "Did marks the past; use arrive rather than arrived."
+    },
+    {
+      "incorrect": "Why he isn’t at work?",
+      "correct": "Why isn’t he at work?",
+      "why": "In a direct negative question, the negative auxiliary precedes the subject."
+    }
+  ],
+  "studyTips": [
+    "Find the first auxiliary in the statement and move it before the subject to make a question.",
+    "After does or did, check that the next main verb has no -s or past ending.",
+    "For a question word such as where or why, practise the order: question word + auxiliary + subject + remaining words."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct opening: “___ your friends arriving soon?”",
+      "choices": [
+        "Are",
+        "Do",
+        "Have"
+      ],
+      "answerIndex": 0,
+      "feedback": "Present-continuous questions invert are and the subject: Are your friends arriving soon?"
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct opening: “___ Sophie speak French?”",
+      "choices": [
+        "Do",
+        "Does",
+        "Is"
+      ],
+      "answerIndex": 1,
+      "feedback": "Sophie is third-person singular, so a present-simple question uses does and the base verb speak."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct auxiliary: “What time ___ the bus leave yesterday?”",
+      "choices": [
+        "does",
+        "was",
+        "did"
+      ],
+      "answerIndex": 2,
+      "feedback": "Yesterday requires the past-simple question auxiliary did before the subject."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct opening: “___ your dad got a passport?”",
+      "choices": [
+        "Has",
+        "Does",
+        "Is"
+      ],
+      "answerIndex": 0,
+      "feedback": "In the have got construction, has moves before the subject: Has your dad got a passport?"
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "___ you swim when you were five? Complete with the modal for past ability.",
+      "acceptedAnswers": [
+        "Could"
+      ],
+      "feedback": "Could asks about ability in the past and comes before the subject you."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Where ___ Priya put the keys last night? Use the past-simple question auxiliary.",
+      "acceptedAnswers": [
+        "did"
+      ],
+      "feedback": "Did comes before the subject Priya; put remains in its base form."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Why ___ the windows open? It is freezing in here. Use the present form of be.",
+      "acceptedAnswers": [
+        "are"
+      ],
+      "feedback": "The subject the windows is plural, so the direct question uses are before the subject."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "What ___ your father do on Saturdays? Use the present-simple question auxiliary.",
+      "acceptedAnswers": [
+        "does"
+      ],
+      "feedback": "Does is the question auxiliary for your father; the second do is the base-form main verb."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the question: “Where did Alex went after work?”",
+      "acceptedAnswers": [
+        "Where did Alex go after work?"
+      ],
+      "feedback": "Did already expresses the past, so the main verb must be go."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the question: “Why Emma is crying?”",
+      "acceptedAnswers": [
+        "Why is Emma crying?"
+      ],
+      "feedback": "In a direct question, is goes before the subject Emma."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the question: “What time does the shop opens?”",
+      "acceptedAnswers": [
+        "What time does the shop open?"
+      ],
+      "feedback": "After does, the main verb is the base form open."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the question: “Why she isn’t at home?”",
+      "acceptedAnswers": [
+        "Why isn’t she at home?",
+        "Why is she not at home?"
+      ],
+      "feedback": "Put the negative auxiliary isn’t before the subject she."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Turn “Your neighbours are moving tomorrow” into a yes/no question. Say the complete question.",
+      "acceptedAnswers": [
+        "Are your neighbours moving tomorrow?"
+      ],
+      "feedback": "Move are before the subject your neighbours."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "You know that Theo arrived at six. Ask when he arrived using did. Say the complete question.",
+      "acceptedAnswers": [
+        "When did Theo arrive?"
+      ],
+      "feedback": "Use When + did + Theo + the base verb arrive."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Change “Mila can’t come tonight” into a why-question using the contraction can’t. Say the complete negative question.",
+      "acceptedAnswers": [
+        "Why can’t Mila come tonight?"
+      ],
+      "feedback": "Why comes before the negative auxiliary can’t, followed by the subject Mila."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Your sister will arrive before lunch. Ask whether she will arrive before lunch. Begin with 'Will your sister' and use the verb arrive.",
+      "acceptedAnswers": [
+        "Will your sister arrive before lunch?"
+      ],
+      "feedback": "In a future yes/no question, put will before the subject, then use the base verb arrive."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Turn 'The delivery driver is waiting outside' into a where-question. Keep the action waiting and ask for the location instead of saying outside.",
+      "acceptedAnswers": [
+        "Where is the delivery driver waiting?",
+        "Where's the delivery driver waiting?"
+      ],
+      "feedback": "Put where first, followed by is + subject + waiting. Where's is a valid contraction of where is."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You need to know whether your classmate can lend you a pencil. Ask them directly, beginning with 'Can you' and using 'lend me a pencil'.",
+      "acceptedAnswers": [
+        "Can you lend me a pencil?"
+      ],
+      "feedback": "The modal can comes before you in a direct question; lend stays in the base form."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this question: 'Does the train leaves at seven?' Keep the meaning and say the full corrected question.",
+      "acceptedAnswers": [
+        "Does the train leave at seven?"
+      ],
+      "feedback": "After does, the main verb stays in the base form leave without -s."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You are speaking to a shipping agent. Ask when the parcel will arrive, then whether the driver has your address. Say two questions beginning 'When will the parcel' and 'Does the driver'.",
+      "acceptedAnswers": [
+        "When will the parcel arrive? Does the driver have my address?"
+      ],
+      "feedback": "Use will + subject + arrive for a future question and does + subject + have for a present-simple question."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Does your cousin work on Saturdays?",
+      "prompt": "Which written question exactly matches what you hear?",
+      "choices": [
+        "Do your cousin work on Saturdays?",
+        "Does your cousin work on Saturdays?",
+        "Is your cousin work on Saturdays?"
+      ],
+      "answerIndex": 1,
+      "feedback": "Does matches the singular subject your cousin, and the main verb remains work."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "When did your sister finish the course?",
+      "prompt": "Which question correctly matches the audio?",
+      "choices": [
+        "When does your sister finished the course?",
+        "When your sister finished the course?",
+        "When did your sister finish the course?"
+      ],
+      "answerIndex": 2,
+      "feedback": "The audio uses When + did + subject + base verb finish."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Why isn’t the library open today?",
+      "prompt": "Listen and type only the contracted negative auxiliary immediately after Why.",
+      "acceptedAnswers": [
+        "isn’t"
+      ],
+      "feedback": "Isn’t comes after Why and before the subject the library."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Has the baker delivered the birthday cake yet, or is it still at the shop?",
+      "prompt": "What does the speaker want to find out?",
+      "choices": [
+        "Whether the cake has arrived",
+        "Whether the cake tastes good",
+        "How much the cake costs"
+      ],
+      "answerIndex": 0,
+      "feedback": "The question checks whether delivery is complete or the cake remains at the shop."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Can you bring the projector to our meeting tomorrow morning?",
+      "prompt": "What item does the speaker need for the meeting?",
+      "choices": [
+        "A printed report",
+        "A laptop charger",
+        "A projector"
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker asks someone to bring the projector to the meeting."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Do you work at the hospital now, or did you work there last year?",
+      "prompt": "What distinction is the speaker asking about?",
+      "choices": [
+        "Two different future jobs",
+        "A present job versus a past job",
+        "Two different hospitals"
+      ],
+      "answerIndex": 1,
+      "feedback": "Do you work refers to now, while did you work refers to last year."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Where has Oliver put the spare key?",
+      "prompt": "Type the first two words: the question word and its auxiliary.",
+      "acceptedAnswers": [
+        "Where has"
+      ],
+      "feedback": "An information question begins with where, then the auxiliary has before the subject Oliver."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Why doesn't the air conditioner start in the morning?",
+      "prompt": "Type the contracted negative auxiliary immediately after the opening question word.",
+      "acceptedAnswers": [
+        "doesn't"
+      ],
+      "feedback": "Doesn't comes before the singular subject and is followed by the base verb start."
+    }
+  ]
+}

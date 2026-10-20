@@ -1,0 +1,411 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u040",
+  "title": "Short Replies with Auxiliary Verbs",
+  "level": "A2",
+  "topicId": "short-replies-auxiliaries",
+  "summary": "Give concise answers and contrasts without repeating a complete verb phrase. Choose the auxiliary that matches the tense or modal in the first part of the sentence.",
+  "learningObjectives": [
+    "Use a suitable auxiliary in a short contrasting statement instead of repeating words.",
+    "Give affirmative and negative short answers with be, have, do and modal verbs.",
+    "Choose do/does for present simple and did for past simple statements.",
+    "Avoid leaving affirmative contracted forms alone at the end of a short reply."
+  ],
+  "explanation": [
+    {
+      "heading": "An auxiliary can replace the rest of an idea",
+      "body": "When a verb phrase is already clear, repeat only its helping verb in a second clause. This works with forms of be, have, do and modal verbs such as can, will and might. The omitted words are understood from the earlier clause.",
+      "example": "I can't skate, but my sister can."
+    },
+    {
+      "heading": "Match the verb and time",
+      "body": "Use am/is/are for present be, was/were for past be, and have/has when those verbs form a perfect phrase. For present simple action verbs, use do or does; for past simple, use did. Match the subject: he does, they do, she has.",
+      "example": "Ella visited the market on Sunday, but we didn't."
+    },
+    {
+      "heading": "Yes and no short answers",
+      "body": "A short answer usually repeats the auxiliary from the question with the correct subject. Yes, I am; No, she isn't; Yes, we have; No, he can't; Yes, they will. Use do/does/did when the question is in the simple present or past without be.",
+      "example": "'Did the parcel arrive?' 'Yes, it did.'"
+    },
+    {
+      "heading": "Negative forms are useful in contrasts",
+      "body": "Negative forms such as don't, doesn't, didn't, isn't, haven't and won't can stand at the end of a clause. They often make a contrast clear without repeating the whole action. Use the tense from the earlier information.",
+      "example": "The children have finished lunch, but their teacher hasn't."
+    },
+    {
+      "heading": "Do not leave a positive contraction alone",
+      "body": "Positive contractions such as I'm, she's and they've cannot normally stand by themselves at the end of these short answers or contrasts. Say Yes, I am, not Yes, I'm. Say but he is, not but he's. Negative contractions like isn't and won't can stand alone.",
+      "example": "'Are the doors locked?' 'Yes, they are.'"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Present or past action?",
+      "left": {
+        "label": "Present simple",
+        "example": "I enjoy cycling, but my brother doesn’t.",
+        "note": "Doesn’t replaces doesn’t enjoy cycling."
+      },
+      "right": {
+        "label": "Past simple",
+        "example": "I enjoyed the concert, but my brother didn’t.",
+        "note": "Didn’t replaces didn’t enjoy the concert."
+      }
+    },
+    {
+      "title": "Positive and negative short replies",
+      "left": {
+        "label": "Positive",
+        "example": "Yes, he is.",
+        "note": "The full positive auxiliary is needed at the end."
+      },
+      "right": {
+        "label": "Negative",
+        "example": "No, he isn’t.",
+        "note": "A negative contraction can end the reply."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Our neighbour grows herbs, but we don't.",
+      "note": "Don’t avoids repeating grow herbs."
+    },
+    {
+      "sentence": "I haven't finished the puzzle, but Theo has.",
+      "note": "Has stands for has finished the puzzle."
+    },
+    {
+      "sentence": "The shop was open this morning, but the café wasn't.",
+      "note": "Wasn’t refers to the café not being open."
+    },
+    {
+      "sentence": "'Can your cousin sing?' 'Yes, she can.'",
+      "note": "Can answers the same modal question."
+    },
+    {
+      "sentence": "'Will the buses run tomorrow?' 'Yes, they will.'",
+      "note": "Will is the matching auxiliary in the short answer."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "'Are you free?' 'Yes, I'm.'",
+      "correct": "'Are you free?' 'Yes, I am.'",
+      "why": "An affirmative contracted auxiliary cannot stand alone."
+    },
+    {
+      "incorrect": "Leo plays chess, but his sisters doesn't.",
+      "correct": "Leo plays chess, but his sisters don't.",
+      "why": "The plural subject sisters takes do not / don’t."
+    },
+    {
+      "incorrect": "We went to the exhibition yesterday, but Max doesn't.",
+      "correct": "We went to the exhibition yesterday, but Max didn't.",
+      "why": "A finished past action uses did or didn’t."
+    },
+    {
+      "incorrect": "'Will your dad call?' 'Yes, he does.'",
+      "correct": "'Will your dad call?' 'Yes, he will.'",
+      "why": "A will question needs will in the short answer."
+    }
+  ],
+  "studyTips": [
+    "Find the auxiliary in the first clause or question, then reuse the right form in your short reply.",
+    "Check both tense and subject when choosing do, does, did, have, has, was or were.",
+    "Remember: positive short replies end with the full auxiliary (Yes, I am), but negative contractions are fine (No, I’m not)."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Complete the contrast: “My cousins don’t eat fish, but I ___.”",
+      "choices": [
+        "am",
+        "do",
+        "have"
+      ],
+      "answerIndex": 1,
+      "feedback": "Do replaces eat fish in a present simple statement with the subject I."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the short answer: “Will your flatmate be home tonight?” “Yes, she ___.”",
+      "choices": [
+        "is",
+        "does",
+        "will"
+      ],
+      "answerIndex": 2,
+      "feedback": "A question with will takes will in the affirmative short answer."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct response: “Did Emma finish the report yesterday?” “No, she ___.”",
+      "choices": [
+        "didn't",
+        "doesn't",
+        "wasn't"
+      ],
+      "answerIndex": 0,
+      "feedback": "The past simple question Did ...? takes didn’t in a negative short answer."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Complete the contrast: “My friend can’t ride a bicycle yet, but I ___.”",
+      "choices": [
+        "do",
+        "can",
+        "will"
+      ],
+      "answerIndex": 1,
+      "feedback": "Can replaces can ride a bicycle and matches the modal in the earlier clause."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete using the negative present simple auxiliary: “My brother enjoys jazz, but I ___.”",
+      "acceptedAnswers": [
+        "don't",
+        "do not"
+      ],
+      "feedback": "Don’t replaces don’t enjoy jazz after the subject I."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete using the negative past form of be: “We were ready at eight, but our taxi ___.”",
+      "acceptedAnswers": [
+        "wasn't",
+        "was not"
+      ],
+      "feedback": "The singular taxi takes was not to contrast with were ready."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with one affirmative auxiliary: “I haven’t visited Madrid, but my sister ___.”",
+      "acceptedAnswers": [
+        "has"
+      ],
+      "feedback": "Has stands for has visited Madrid and agrees with my sister."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the matching auxiliary: “We won’t be late, but the other team definitely ___.”",
+      "acceptedAnswers": [
+        "will"
+      ],
+      "feedback": "Will stands for will be late and contrasts with won’t."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the final short form in this sentence: “The green box isn’t heavy, but the blue box’s.”",
+      "acceptedAnswers": [
+        "The green box isn’t heavy, but the blue box is."
+      ],
+      "feedback": "In this contrast, a positive is must be written in full when it stands alone."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “Maya likes swimming, but her brothers doesn’t.”",
+      "acceptedAnswers": [
+        "Maya likes swimming, but her brothers don’t."
+      ],
+      "feedback": "Her brothers is plural, so use don’t, not doesn’t."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “I didn’t visit the gallery, but Paul does.”",
+      "acceptedAnswers": [
+        "I didn’t visit the gallery, but Paul did."
+      ],
+      "feedback": "The first clause is past simple, so the contrasting short verb must be did."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the reply in this exchange: “Are your neighbours at home? Yes, they do.”",
+      "acceptedAnswers": [
+        "Are your neighbours at home? Yes, they are."
+      ],
+      "feedback": "The question begins with are, so the short answer must use are."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "You are ready. Reply to “Are you ready?” with a positive short answer only.",
+      "acceptedAnswers": [
+        "Yes, I am."
+      ],
+      "feedback": "The question uses are with you, and the positive reply uses am with I."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Your grandparents do not live in this town. Reply to “Do your grandparents live here?” with a negative short answer only.",
+      "acceptedAnswers": [
+        "No, they don't.",
+        "No, they do not."
+      ],
+      "feedback": "A present simple question about they takes don’t in the negative reply."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Leo emailed you yesterday. Reply to “Did Leo email you yesterday?” with a positive short answer only.",
+      "acceptedAnswers": [
+        "Yes, he did."
+      ],
+      "feedback": "Did is the past simple auxiliary that answers the question."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Mia has finished her homework, but Ben has not. Say one sentence beginning 'Mia has finished her homework, but Ben' and end with the negative auxiliary.",
+      "acceptedAnswers": [
+        "Mia has finished her homework, but Ben hasn't.",
+        "Mia has finished her homework, but Ben has not."
+      ],
+      "feedback": "Hasn't replaces hasn't finished his homework without repeating the verb phrase."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Shorten 'I like tea, but Sam does not like tea' without repeating 'like tea'. Keep the start 'I like tea, but Sam'.",
+      "acceptedAnswers": [
+        "I like tea, but Sam doesn't.",
+        "I like tea, but Sam does not."
+      ],
+      "feedback": "Doesn't replaces doesn't like tea in a present simple contrast with Sam."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your friend asks, 'Has your father booked the tickets?' He has booked them. Give only a positive short answer using 'he'.",
+      "acceptedAnswers": [
+        "Yes, he has."
+      ],
+      "feedback": "A present perfect question with has takes has in the positive short answer; do not use he's."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Your friends are hungry. Someone asks, 'Are your friends hungry?' Correct the wrong reply 'Yes, they're' by saying only a grammatical positive short answer using 'they'.",
+      "acceptedAnswers": [
+        "Yes, they are."
+      ],
+      "feedback": "An affirmative auxiliary at the end of a short answer must be full: Yes, they are, not Yes, they're."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Two dogs can swim, but your cat cannot. Say one sentence beginning 'The dogs can swim, but my cat' and finish with only the negative modal.",
+      "acceptedAnswers": [
+        "The dogs can swim, but my cat can't.",
+        "The dogs can swim, but my cat cannot."
+      ],
+      "feedback": "Can't or cannot replaces can't swim, while can remains unchanged after the plural subject dogs."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I don't drink coffee, but my partner does.",
+      "prompt": "Who drinks coffee?",
+      "choices": [
+        "Neither person",
+        "The speaker",
+        "The speaker's partner"
+      ],
+      "answerIndex": 2,
+      "feedback": "Does stands for drinks coffee and refers to the speaker’s partner."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Nina can drive, but her brother can't.",
+      "prompt": "Who is unable to drive, according to the speaker?",
+      "choices": [
+        "Nina's brother",
+        "Nina",
+        "Both people"
+      ],
+      "answerIndex": 0,
+      "feedback": "Can’t signals that Nina’s brother is unable to drive."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The library isn't open today, but the bookshop is.",
+      "prompt": "Type the single auxiliary at the very end of the spoken sentence.",
+      "acceptedAnswers": [
+        "is"
+      ],
+      "feedback": "The final is stands for is open, with no need to repeat open."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Oscar didn't finish the race, but his sister did.",
+      "prompt": "Who completed the race?",
+      "choices": [
+        "Only his sister.",
+        "Only Oscar.",
+        "Both Oscar and his sister."
+      ],
+      "answerIndex": 0,
+      "feedback": "Did stands for finished the race; the sister finished, but Oscar did not."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The tickets haven't arrived yet, but the hotel confirmation has.",
+      "prompt": "Which item has arrived?",
+      "choices": [
+        "The tickets only.",
+        "The hotel confirmation only.",
+        "Both items."
+      ],
+      "answerIndex": 1,
+      "feedback": "Has means has arrived and refers to the hotel confirmation, not the tickets."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We will take the train tomorrow, but Daniel won't because he has a car.",
+      "prompt": "Who plans to travel by train?",
+      "choices": [
+        "Daniel, but not the others.",
+        "Everybody, including Daniel.",
+        "The speaker's group, but not Daniel."
+      ],
+      "answerIndex": 2,
+      "feedback": "Won't replaces won't take the train. Daniel is travelling differently from the speaker's group."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "I can't carry this heavy bag, but my brother can.",
+      "prompt": "Type the single auxiliary at the end that avoids repeating the action.",
+      "acceptedAnswers": [
+        "can"
+      ],
+      "feedback": "Can stands for can carry this heavy bag and contrasts with can't."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The shops were open this morning, but the museum wasn't.",
+      "prompt": "Type the negative past form of 'be' heard at the end.",
+      "acceptedAnswers": [
+        "wasn't",
+        "was not"
+      ],
+      "feedback": "Wasn't stands for was not open, matching the singular museum and past time."
+    }
+  ]
+}

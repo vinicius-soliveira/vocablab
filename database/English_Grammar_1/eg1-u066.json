@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u066",
+  "title": "Singular and Plural Nouns",
+  "level": "A2",
+  "topicId": "nouns-singular-plural",
+  "summary": "Form plural nouns with regular and irregular patterns, including nouns with unchanged plural forms. Use plural-only nouns correctly and choose plural verb forms with people and the police.",
+  "learningObjectives": [
+    "Form common regular plurals with -s, -es, -ies and -ves.",
+    "Recognise common irregular plurals and nouns that stay the same in the plural.",
+    "Use plural-only nouns with plural verbs and the expression a pair of.",
+    "Use plural verb agreement with people and the police."
+  ],
+  "explanation": [
+    {
+      "heading": "Most nouns add -s; some need -es",
+      "body": "Use a singular noun for one item and a plural noun for two or more. Most plural nouns take -s. Words ending in sounds such as -s, -sh, -ch and -x often take -es. Some nouns ending in -o, including potato and tomato, also take -es.",
+      "example": "Three buses and two boxes are outside."
+    },
+    {
+      "heading": "Watch -y and -f endings",
+      "body": "A consonant plus y normally becomes -ies: city becomes cities. A vowel plus y simply takes -s: day becomes days. Some words ending in -f or -fe change to -ves, for example knife becomes knives and shelf becomes shelves; not all words ending in -f follow this pattern.",
+      "example": "The shelves hold dictionaries and maps."
+    },
+    {
+      "heading": "Some plurals have a different form",
+      "body": "Learn irregular pairs individually: man/men, woman/women, child/children, foot/feet, tooth/teeth and mouse/mice. Person usually becomes people when we mean several individuals. Some animal words, including sheep and often fish, look the same in singular and plural contexts.",
+      "example": "Two children watched three sheep in the field."
+    },
+    {
+      "heading": "Some things are named with a plural noun",
+      "body": "Words such as scissors, trousers, jeans, glasses and pyjamas normally have plural form and take plural verbs when they name the whole item. Say some new jeans or a new pair of jeans, not a new jeans. The noun pair is singular, so a pair of trousers is on the chair takes is.",
+      "example": "These scissors are sharp, but that pair of scissors is old."
+    },
+    {
+      "heading": "People and police take plural verbs",
+      "body": "People normally refers to more than one person, so use are, have and other plural verb forms. The police also takes a plural verb when referring to the police as a group. Check that the verb and any pronoun agree with these plural meanings.",
+      "example": "The police are here, and the people are waiting outside."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Different endings after -y",
+      "left": {
+        "label": "Consonant + y",
+        "example": "One party, three parties.",
+        "note": "Change y to ies after a consonant."
+      },
+      "right": {
+        "label": "Vowel + y",
+        "example": "One key, three keys.",
+        "note": "Keep y and add s after a vowel."
+      }
+    },
+    {
+      "title": "Plural item or singular pair",
+      "left": {
+        "label": "Plural clothing word",
+        "example": "My trousers are clean.",
+        "note": "Trousers is treated as plural."
+      },
+      "right": {
+        "label": "One pair",
+        "example": "This pair of trousers is clean.",
+        "note": "Pair is singular and controls the verb is."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Four watches are on the shelf.",
+      "note": "Watch adds -es in the plural."
+    },
+    {
+      "sentence": "The two babies are sleeping upstairs.",
+      "note": "Baby changes to babies after a consonant plus y."
+    },
+    {
+      "sentence": "We saw two mice behind the shed.",
+      "note": "Mouse has the irregular plural mice."
+    },
+    {
+      "sentence": "Five fish swam close to the boat.",
+      "note": "Fish can be unchanged in ordinary plural uses."
+    },
+    {
+      "sentence": "These glasses are too big for me.",
+      "note": "Glasses names one item of eyewear but takes a plural verb."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Two womans are waiting.",
+      "correct": "Two women are waiting.",
+      "why": "Woman has the irregular plural women."
+    },
+    {
+      "incorrect": "Three citys are near the coast.",
+      "correct": "Three cities are near the coast.",
+      "why": "Consonant + y changes to -ies."
+    },
+    {
+      "incorrect": "My jeans is in the wardrobe.",
+      "correct": "My jeans are in the wardrobe.",
+      "why": "Jeans is a plural-only clothing noun."
+    },
+    {
+      "incorrect": "The police wants to speak to us.",
+      "correct": "The police want to speak to us.",
+      "why": "The police takes a plural verb."
+    }
+  ],
+  "studyTips": [
+    "Learn irregular nouns as pairs: tooth/teeth, foot/feet, mouse/mice.",
+    "Check the letter before final y to decide between -ies and -s.",
+    "Say these glasses are, but this pair of glasses is, to practise agreement."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "There are three ___ outside the library.",
+      "choices": [
+        "buses",
+        "bus",
+        "busies"
+      ],
+      "answerIndex": 0,
+      "feedback": "Bus forms its plural with -es: buses."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The ___ are playing in the garden.",
+      "choices": [
+        "childs",
+        "children",
+        "child"
+      ],
+      "answerIndex": 1,
+      "feedback": "The irregular plural of child is children."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "A pet shop had two ___ in a cage.",
+      "choices": [
+        "mouses",
+        "mouse",
+        "mice"
+      ],
+      "answerIndex": 2,
+      "feedback": "Mice is the irregular plural of mouse."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Many ___ visit the museum on Saturdays.",
+      "choices": [
+        "people",
+        "person",
+        "peoples"
+      ],
+      "answerIndex": 0,
+      "feedback": "People is the ordinary plural for multiple individual persons."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Write the plural of the word in brackets: There are two ___ (knife) on the table.",
+      "acceptedAnswers": [
+        "knives"
+      ],
+      "feedback": "Knife changes -fe to -ves in its plural."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Write the plural of the word in brackets: Four ___ (box) are in the hall.",
+      "acceptedAnswers": [
+        "boxes"
+      ],
+      "feedback": "Box ends in x and takes -es in the plural."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Write the plural of the word in brackets: Three ___ (woman) are waiting outside.",
+      "acceptedAnswers": [
+        "women"
+      ],
+      "feedback": "Woman has the irregular plural women."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Write the plural of the word in brackets: We saw five ___ (sheep) on the hill.",
+      "acceptedAnswers": [
+        "sheep"
+      ],
+      "feedback": "Sheep has the same form in singular and plural contexts."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The police is asking questions outside.",
+      "acceptedAnswers": [
+        "The police are asking questions outside."
+      ],
+      "feedback": "Police takes plural agreement, so use are."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Her blue jeans is on the bed.",
+      "acceptedAnswers": [
+        "Her blue jeans are on the bed."
+      ],
+      "feedback": "Jeans is treated as plural, so use are."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Two babys are asleep upstairs.",
+      "acceptedAnswers": [
+        "Two babies are asleep upstairs."
+      ],
+      "feedback": "Baby changes -y to -ies after the consonant b."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My two foot are cold.",
+      "acceptedAnswers": [
+        "My two feet are cold."
+      ],
+      "feedback": "The plural of foot is feet."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say that three buses are on this street. Begin with 'There are'.",
+      "acceptedAnswers": [
+        "There are three buses on this street."
+      ],
+      "feedback": "Bus adds -es in the plural."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say that one man and two women are waiting. Begin with 'One man'.",
+      "acceptedAnswers": [
+        "One man and two women are waiting."
+      ],
+      "feedback": "Woman becomes women in the plural."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say you need a new pair of trousers. Begin with 'I need'.",
+      "acceptedAnswers": [
+        "I need a new pair of trousers."
+      ],
+      "feedback": "A pair of trousers names one complete item of clothing."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "On a farm, you count four sheep beside the fence. Say the observation in one sentence, starting with 'There are'.",
+      "acceptedAnswers": [
+        "There are four sheep beside the fence."
+      ],
+      "feedback": "Sheep has the same singular and plural form; four takes a plural verb, are."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change 'This shelf is empty.' to talk about three shelves instead. Begin with 'These three'.",
+      "acceptedAnswers": [
+        "These three shelves are empty."
+      ],
+      "feedback": "Shelf becomes shelves in the plural, and these three shelves takes are."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A shop assistant asks whether your two new watches are working. Reply yes, beginning with 'Yes, both' and including the words 'new watches'.",
+      "acceptedAnswers": [
+        "Yes, both new watches are working."
+      ],
+      "feedback": "Watches adds -es, and the plural subject both new watches takes are."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Someone says, 'Those people is waiting outside.' Correct only the verb and say the whole sentence.",
+      "acceptedAnswers": [
+        "Those people are waiting outside."
+      ],
+      "feedback": "People refers to more than one person, so use the plural verb are."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "A colleague needs two keys and a pair of scissors. The keys are on the desk and the scissors are in the drawer. Tell them both locations in one sentence, starting with 'The two keys' and using 'a pair of scissors'.",
+      "acceptedAnswers": [
+        "The two keys are on the desk, and a pair of scissors is in the drawer.",
+        "The two keys are on the desk, and the pair of scissors is in the drawer."
+      ],
+      "feedback": "Two keys takes are, while the singular noun pair takes is, even though scissors is plural in form."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Two children are making sandwiches in the kitchen.",
+      "prompt": "Who is making sandwiches?",
+      "choices": [
+        "Two adults",
+        "Two children",
+        "One child"
+      ],
+      "answerIndex": 1,
+      "feedback": "Children is the irregular plural of child."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The police are speaking to people outside the shop.",
+      "prompt": "Which verb form follows 'the police' in the sentence?",
+      "choices": [
+        "is",
+        "was",
+        "are"
+      ],
+      "answerIndex": 2,
+      "feedback": "Police is treated as plural, so the verb is are."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I bought new glasses at the shopping centre yesterday.",
+      "prompt": "Type the plural item the speaker bought.",
+      "acceptedAnswers": [
+        "glasses"
+      ],
+      "feedback": "Glasses is a plural-form noun for eyewear."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Two mice ran behind the cupboard while we were cleaning the kitchen.",
+      "prompt": "What did the people notice in the kitchen?",
+      "choices": [
+        "More than one small animal",
+        "A broken cupboard door",
+        "Some missing cleaning tools"
+      ],
+      "answerIndex": 0,
+      "feedback": "Mice is the irregular plural of mouse, so the speaker noticed two small animals."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "After the trip, the women left their heavy suitcases at the hotel reception.",
+      "prompt": "Where was the luggage left?",
+      "choices": [
+        "In the hotel bedrooms",
+        "At the hotel's front desk",
+        "On the bus"
+      ],
+      "answerIndex": 1,
+      "feedback": "Hotel reception means the front desk; the women left their suitcases there."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The jeans are too loose, but this pair of trousers is exactly the right size.",
+      "prompt": "Which item fits correctly?",
+      "choices": [
+        "The jeans",
+        "Neither item",
+        "The trousers"
+      ],
+      "answerIndex": 2,
+      "feedback": "The jeans do not fit, but the pair of trousers is the right size."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "My grandparents live in two different cities.",
+      "prompt": "Type the final word you hear.",
+      "acceptedAnswers": [
+        "cities"
+      ],
+      "feedback": "Cities is the plural of city: consonant plus y changes to -ies."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Two sheep are resting under a tree near the farm.",
+      "prompt": "Type the short verb heard immediately after the animal name.",
+      "acceptedAnswers": [
+        "are"
+      ],
+      "feedback": "The noun sheep has an unchanged plural form, but two sheep still requires the plural verb are."
+    }
+  ]
+}

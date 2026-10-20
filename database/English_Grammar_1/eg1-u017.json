@@ -1,0 +1,412 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u017",
+  "title": "Present Perfect: Life Experiences",
+  "level": "A2",
+  "topicId": "present-perfect-life-experiences",
+  "summary": "Use the present perfect to talk about experiences at any time in your life up to now. Ask questions with ever, describe experiences with never and once or twice, and distinguish been from gone.",
+  "learningObjectives": [
+    "Ask whether someone has had an experience using have/has + ever + a past participle.",
+    "Describe life experiences using never, once, twice and other frequency expressions.",
+    "Choose been or gone to show whether a traveller has returned.",
+    "Use correct past participles of common irregular verbs."
+  ],
+  "explanation": [
+    {
+      "heading": "Talk about experiences from the past up to now",
+      "body": "The present perfect can describe something that happened at an unspecified time in a person’s life before now. Use have or has + a past participle. The focus is whether the experience is part of that person’s life, not the exact date. A completed time such as yesterday belongs with the past simple, which is studied separately.",
+      "example": "I have watched a live orchestra perform."
+    },
+    {
+      "heading": "Ask about experiences with ever",
+      "body": "Use ever in present perfect questions to mean “at any time before now”. Put it after the subject: Have you ever ... ? or Has she ever ... ? Use the past participle after ever, such as seen, tried, flown or ridden. You can answer Yes, I have or No, I haven’t.",
+      "example": "Have you ever slept in a tent?"
+    },
+    {
+      "heading": "Use never and count how many times",
+      "body": "Never means not at any time up to now. Place never between have/has and the past participle, without adding not. To count experiences, say once for one occasion, twice for two, or three times for three. These expressions can describe experiences at any time up to now.",
+      "example": "My aunt has visited the island twice, but I have never been there."
+    },
+    {
+      "heading": "Distinguish been to from gone to",
+      "body": "Has been to a place normally means someone visited it and returned. Has gone to a place normally means the person left and has not returned yet. Choose the phrase that matches where the person is now; do not use them interchangeably when the return matters.",
+      "example": "I can’t ask Theo now because he has gone to the post office."
+    },
+    {
+      "heading": "Remember the past participle",
+      "body": "Regular past participles often end in -ed, but many common ones are irregular: see → seen, eat → eaten, ride → ridden, fly → flown, do → done, go → gone and be → been. The participle is not always the same as the past simple form; for example, flew and flown are different.",
+      "example": "Has your grandfather ever flown in a small plane?"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Gone versus been",
+      "left": {
+        "label": "Still away",
+        "example": "Ravi has gone to the supermarket.",
+        "note": "Ravi left for the supermarket and has not returned yet."
+      },
+      "right": {
+        "label": "Visited and returned",
+        "example": "Ravi has been to the supermarket.",
+        "note": "Ravi went there and is back now."
+      }
+    },
+    {
+      "title": "Ever versus never",
+      "left": {
+        "label": "Question about experience",
+        "example": "Have you ever seen a shooting star?",
+        "note": "Ever asks whether this happened at any time before now."
+      },
+      "right": {
+        "label": "No experience up to now",
+        "example": "I have never seen a shooting star.",
+        "note": "Never says it has not happened at any time so far."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Has Ella ever baked bread at home?",
+      "note": "Has + ever + baked asks about a life experience."
+    },
+    {
+      "sentence": "We have met the singer once.",
+      "note": "Once tells us how many times we have met the person."
+    },
+    {
+      "sentence": "I have never ridden a motorbike.",
+      "note": "Never expresses no such experience before now; ridden is the participle."
+    },
+    {
+      "sentence": "Our neighbours have travelled abroad several times.",
+      "note": "Several times counts repeated experiences without giving a finished date."
+    },
+    {
+      "sentence": "My parents have been to Greece, but they are at home today.",
+      "note": "Been to refers to a completed visit followed by a return."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Have you ever ate mango?",
+      "correct": "Have you ever eaten mango?",
+      "why": "After have, use the past participle eaten, not the past simple ate."
+    },
+    {
+      "incorrect": "Leila hasn’t never travelled by plane.",
+      "correct": "Leila has never travelled by plane.",
+      "why": "Never already makes the sentence negative; do not add not."
+    },
+    {
+      "incorrect": "We have been to that museum two time.",
+      "correct": "We have been to that museum two times.",
+      "why": "Use the plural times for two or more occasions; twice is another natural option."
+    },
+    {
+      "incorrect": "I have ever ridden a horse.",
+      "correct": "I have ridden a horse before.",
+      "why": "For an ordinary affirmative experience, use before or no time adverb; ever is normally used in questions here."
+    }
+  ],
+  "studyTips": [
+    "Practise a question and two short replies: Have you ever ... ? Yes, I have. No, I haven’t.",
+    "Make three-column flashcards: go / went / gone, ride / rode / ridden, see / saw / seen.",
+    "Imagine where a traveller is now before choosing has been to or has gone to."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Have you ___ tried making your own pasta?",
+      "choices": [
+        "ever",
+        "yesterday",
+        "ago"
+      ],
+      "answerIndex": 0,
+      "feedback": "Ever asks whether the experience happened at any time before now; yesterday and ago belong with past-time expressions."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Tomas is away at the shop right now. He has ___ to buy milk.",
+      "choices": [
+        "been",
+        "gone",
+        "went"
+      ],
+      "answerIndex": 1,
+      "feedback": "Has gone means Tomas has left and has not returned; been to would normally imply a return."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Nadia has ___ eaten sushi. She is going to try it for the first time tomorrow.",
+      "choices": [
+        "ever",
+        "twice",
+        "never"
+      ],
+      "answerIndex": 2,
+      "feedback": "Never shows that Nadia has had no experience of eating sushi before today."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct question about a life experience.",
+      "choices": [
+        "Has Imran ever ridden a horse?",
+        "Did Imran ever rode a horse?",
+        "Has Imran ever ride a horse?"
+      ],
+      "answerIndex": 0,
+      "feedback": "Has + ever takes the past participle ridden, not rode or ride."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Tomorrow will be the first time my brother sees snow. He has ___ seen snow before. (One word.)",
+      "acceptedAnswers": [
+        "never"
+      ],
+      "feedback": "Never indicates that seeing snow has not happened at any time before now."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with the past participle of fly: Have you ever ___ in a small plane?",
+      "acceptedAnswers": [
+        "flown"
+      ],
+      "feedback": "Fly → flew → flown. The present perfect uses flown."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "I have visited the art gallery exactly two times. I have visited it ___. (One word.)",
+      "acceptedAnswers": [
+        "twice"
+      ],
+      "feedback": "Twice means two times, and it naturally describes a repeated life experience."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "I am back at home now. I have ___ to the mountains and returned. (One word.)",
+      "acceptedAnswers": [
+        "been"
+      ],
+      "feedback": "Have been to means the trip took place and the speaker has returned."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the question: Has Mia ever ate Turkish food?",
+      "acceptedAnswers": [
+        "Has Mia ever eaten Turkish food?"
+      ],
+      "feedback": "Use the irregular participle eaten after has ever."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We have never went to a music festival.",
+      "acceptedAnswers": [
+        "We have never gone to a music festival."
+      ],
+      "feedback": "Go → went → gone. Use gone after have never."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Arun has not returned from his trip. Correct the sentence: Arun has been to Lisbon, so he isn’t back yet.",
+      "acceptedAnswers": [
+        "Arun has gone to Lisbon, so he isn’t back yet."
+      ],
+      "feedback": "Has gone describes this trip because Arun has not returned; has been to normally describes a completed visit."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Nina have never ridden a bicycle.",
+      "acceptedAnswers": [
+        "Nina has never ridden a bicycle."
+      ],
+      "feedback": "Nina is a singular subject, so use has with never + ridden."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Ask a complete question using these cues: you / ever / travel / by ferry.",
+      "acceptedAnswers": [
+        "Have you ever travelled by ferry?",
+        "Have you ever traveled by ferry?"
+      ],
+      "feedback": "Ask Have you ever ... ? and use the regular participle travelled (or traveled)."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say one complete sentence using: Mara / never / see / a whale.",
+      "acceptedAnswers": [
+        "Mara has never seen a whale.",
+        "Mara’s never seen a whale."
+      ],
+      "feedback": "Mara takes has, and the past participle of see is seen."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Ari is on a trip to Peru and is still away. Say where Ari has gone.",
+      "acceptedAnswers": [
+        "Ari has gone to Peru.",
+        "Ari's gone to Peru."
+      ],
+      "feedback": "Gone shows that Ari left for Peru and has not returned yet."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Use these facts to say one complete present perfect sentence: Milo / try ice skating / twice. Keep the name Milo and the word twice.",
+      "acceptedAnswers": [
+        "Milo has tried ice skating twice.",
+        "Milo's tried ice skating twice."
+      ],
+      "feedback": "Has tried is the present perfect of try; twice says that Milo has had this experience two times."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this statement into a question about a life experience, adding ever: Lila has eaten octopus. Keep Lila and octopus.",
+      "acceptedAnswers": [
+        "Has Lila ever eaten octopus?"
+      ],
+      "feedback": "Put has before Lila, then use ever and the past participle eaten."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks, 'Have you ever flown in a balloon?' In this role-play, you have not had that experience. Reply with one complete sentence using never and the words in a balloon.",
+      "acceptedAnswers": [
+        "I have never flown in a balloon.",
+        "I've never flown in a balloon."
+      ],
+      "feedback": "Have never flown says you have not had this experience at any time up to now; flown is the past participle of fly."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Someone says, 'Nora has gone to the bakery,' but Nora has already returned and is here now. Correct the sentence using been to, keeping Nora and the bakery.",
+      "acceptedAnswers": [
+        "Nora has been to the bakery.",
+        "Nora's been to the bakery."
+      ],
+      "feedback": "Has been to means Nora visited the bakery and has returned. Has gone to would suggest she is still away."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences to a friend. First ask whether they have ever climbed a mountain. Then say that you have climbed a mountain exactly once. Use a mountain in both sentences.",
+      "acceptedAnswers": [
+        "Have you ever climbed a mountain? I have climbed a mountain once.",
+        "Have you ever climbed a mountain? I've climbed a mountain once."
+      ],
+      "feedback": "The question uses Have you ever climbed ... ?; the reply uses have climbed and once to report one experience."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I have visited the island twice, but my sister has never been there.",
+      "prompt": "How many visits has the speaker made to the island?",
+      "choices": [
+        "Once",
+        "Twice",
+        "Three times"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker says twice, meaning two visits."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Dad's gone to the bakery. He'll be home soon.",
+      "prompt": "Which statement about Dad is supported by the audio?",
+      "choices": [
+        "He has returned from the bakery.",
+        "He is staying at home.",
+        "He is away, going to or visiting the bakery."
+      ],
+      "answerIndex": 2,
+      "feedback": "Has gone means Dad has left for the bakery and has not come back yet."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Have you ever slept in a tent?",
+      "prompt": "Type the single word that asks about an experience at any time in life.",
+      "acceptedAnswers": [
+        "ever"
+      ],
+      "feedback": "Ever asks whether the listener has had the experience before now."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Emma has never made dinner on her own, but she's going to try tonight.",
+      "prompt": "What is Emma planning to do tonight?",
+      "choices": [
+        "Prepare dinner without help for the first time",
+        "Teach someone else how to cook",
+        "Eat a meal she prepared yesterday"
+      ],
+      "answerIndex": 0,
+      "feedback": "Emma has never prepared dinner on her own before, so trying tonight will be a new experience."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I've entered two chess tournaments, but my brother has played in five.",
+      "prompt": "Who has taken part in more chess tournaments?",
+      "choices": [
+        "The speaker",
+        "The speaker's brother",
+        "Both have taken part equally often"
+      ],
+      "answerIndex": 1,
+      "feedback": "The brother has played in five tournaments, compared with only two for the speaker."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Anna has been to the pharmacy and she's at home now. Ben has gone there to collect some medicine.",
+      "prompt": "Who is at home now?",
+      "choices": [
+        "Anna",
+        "Ben",
+        "Both Anna and Ben"
+      ],
+      "answerIndex": 0,
+      "feedback": "Anna has been to the pharmacy and returned. Ben has gone there and is still away."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Has your sister ever broken a phone?",
+      "prompt": "Type the two words you hear between 'sister' and 'a phone'.",
+      "acceptedAnswers": [
+        "ever broken"
+      ],
+      "feedback": "Ever asks about a life experience, and broken is the past participle of break."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "They've never tasted coconut milk before, but they'd like to try it.",
+      "prompt": "Type the opening phrase before 'tasted', including the subject and the word showing no experience.",
+      "acceptedAnswers": [
+        "They've never",
+        "They have never"
+      ],
+      "feedback": "They've never is the contracted form of they have never. Never means the experience has not happened before now."
+    }
+  ]
+}

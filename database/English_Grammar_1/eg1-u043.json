@@ -1,0 +1,415 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u043",
+  "title": "Making Negative Statements and Commands",
+  "level": "A2",
+  "topicId": "negative-verbs-and-commands",
+  "summary": "Make present, past and future statements negative using the correct auxiliary. Use not with be and modal verbs, and use do, does or did where a simple verb needs a negative form.",
+  "learningObjectives": [
+    "Make negative sentences with present and past forms of be.",
+    "Use not with have, has, will, can and other auxiliary or modal verbs.",
+    "Use don’t, doesn’t and didn’t before the base form of a main verb.",
+    "Form negative commands with don’t plus the base form."
+  ],
+  "explanation": [
+    {
+      "heading": "Put not after a form of be",
+      "body": "With am, is, are, was and were, put not immediately after the verb. In everyday speech, many negative forms have contractions: isn’t, aren’t, wasn’t and weren’t. For I am not, the usual short form is I’m not, not I amn’t.",
+      "example": "The cafés weren’t open when we arrived."
+    },
+    {
+      "heading": "Negate an auxiliary or modal directly",
+      "body": "Add not after an auxiliary such as have or has, or after a modal such as can, could, will, would, must or should. Common contractions include haven’t, hasn’t, can’t, couldn’t, won’t, wouldn’t, mustn’t and shouldn’t. The negative of will is won’t, not willn’t.",
+      "example": "I haven’t packed my bag, and I won’t leave without it."
+    },
+    {
+      "heading": "Use do, does or did with simple verbs",
+      "body": "When an ordinary present-simple or past-simple verb has no auxiliary, make it negative with do not, does not or did not. Use don’t with I, we, you and they; doesn’t with he, she and it; and didn’t with any subject for the past simple.",
+      "example": "My neighbours don’t own a car, and Rosa doesn’t drive."
+    },
+    {
+      "heading": "Keep the main verb in its base form",
+      "body": "After don’t, doesn’t or didn’t, use the base form of the main verb, without an -s or past ending. This still applies when do itself is the main verb: doesn’t do and didn’t do are correct patterns.",
+      "example": "Eli didn’t buy any bread on the way home."
+    },
+    {
+      "heading": "Make a negative command with don’t",
+      "body": "To tell someone not to do something, begin the command with Don’t and use the base form of the verb. Do not add to between don’t and the verb.",
+      "example": "Don’t leave the window open overnight."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Negatives with and without do",
+      "left": {
+        "label": "Be or an existing auxiliary",
+        "example": "The room isn’t ready yet.",
+        "note": "Add not to is; no extra do is needed."
+      },
+      "right": {
+        "label": "Present simple main verb",
+        "example": "The shop doesn’t open on Mondays.",
+        "note": "Use doesn’t before the base form open."
+      }
+    },
+    {
+      "title": "Present-simple and past-simple negatives",
+      "left": {
+        "label": "Present simple",
+        "example": "Omar doesn’t cook on weekdays.",
+        "note": "Doesn’t matches the third-person singular subject."
+      },
+      "right": {
+        "label": "Past simple",
+        "example": "Omar didn’t cook yesterday.",
+        "note": "Didn’t marks the past; cook stays in its base form."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "My shoes aren’t dry, so I’ll wear a different pair.",
+      "note": "Aren’t is the negative of are."
+    },
+    {
+      "sentence": "We weren’t at the station at eight.",
+      "note": "Weren’t makes past be negative with a plural subject."
+    },
+    {
+      "sentence": "Sam hasn’t answered my email yet.",
+      "note": "Hasn’t makes the present perfect negative."
+    },
+    {
+      "sentence": "The baby doesn’t sleep in this room.",
+      "note": "Doesn’t is followed by the base form sleep."
+    },
+    {
+      "sentence": "Please don’t put your coat on the wet bench.",
+      "note": "Don’t introduces a negative instruction."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I amn’t cold.",
+      "correct": "I’m not cold.",
+      "why": "The usual contracted negative with I am is I’m not."
+    },
+    {
+      "incorrect": "My cousin doesn’t likes tea.",
+      "correct": "My cousin doesn’t like tea.",
+      "why": "After doesn’t, the main verb must be in its base form."
+    },
+    {
+      "incorrect": "They didn’t went to the market.",
+      "correct": "They didn’t go to the market.",
+      "why": "Didn’t already marks the past, so use go, not went."
+    },
+    {
+      "incorrect": "Don’t to open this box.",
+      "correct": "Don’t open this box.",
+      "why": "A negative command uses don’t followed directly by the base verb."
+    }
+  ],
+  "studyTips": [
+    "Look for be, have or a modal before adding do: these verbs can take not directly.",
+    "When you write doesn’t or didn’t, check that the main verb has no -s or past ending.",
+    "Practise negative commands as one pattern: Don’t + base verb."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct negative verb: “We ___ ready to leave yet.”",
+      "choices": [
+        "aren’t",
+        "isn’t",
+        "don’t"
+      ],
+      "answerIndex": 0,
+      "feedback": "We takes are, so the negative form is aren’t."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct negative auxiliary: “Nadia ___ finished her homework yet.”",
+      "choices": [
+        "doesn’t",
+        "hasn’t",
+        "isn’t"
+      ],
+      "answerIndex": 1,
+      "feedback": "Finished is a past participle in the present perfect, so use hasn’t."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct negative form: “Our guests ___ be here tonight; they arrive tomorrow.”",
+      "choices": [
+        "aren’t",
+        "don’t",
+        "won’t"
+      ],
+      "answerIndex": 2,
+      "feedback": "Won’t is will not; it correctly forms the negative future expression won’t be."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct negative verb: “Yesterday, Mateo ___ bring his lunch.”",
+      "choices": [
+        "didn’t",
+        "doesn’t",
+        "wasn’t"
+      ],
+      "answerIndex": 0,
+      "feedback": "Yesterday refers to the past, so use didn’t before the base verb bring."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "My parents ___ at home last night. They stayed at a hotel. Use a contraction of were not.",
+      "acceptedAnswers": [
+        "weren’t"
+      ],
+      "feedback": "Weren’t is the contracted negative of were, the past form of be for my parents."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Felix ___ got a bicycle. He walks everywhere. Use a contraction of has not.",
+      "acceptedAnswers": [
+        "hasn’t"
+      ],
+      "feedback": "Hasn’t got expresses that Felix does not have a bicycle."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Tina ___ eat meat. She chooses vegetarian dishes. Use a contraction of does not.",
+      "acceptedAnswers": [
+        "doesn’t"
+      ],
+      "feedback": "Doesn’t is the present-simple negative for Tina; eat stays in its base form."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "We ___ go to the beach last Sunday because it rained. Use a contraction of did not.",
+      "acceptedAnswers": [
+        "didn’t"
+      ],
+      "feedback": "Didn’t makes the past-simple sentence negative, and go remains in its base form."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “The children wasn’t hungry after school.”",
+      "acceptedAnswers": [
+        "The children weren’t hungry after school.",
+        "The children were not hungry after school."
+      ],
+      "feedback": "The plural subject the children needs weren’t, not wasn’t."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “Ruby doesn’t likes orange juice.”",
+      "acceptedAnswers": [
+        "Ruby doesn’t like orange juice.",
+        "Ruby does not like orange juice."
+      ],
+      "feedback": "After doesn’t, remove the -s ending from like."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “I didn’t did the washing yesterday.”",
+      "acceptedAnswers": [
+        "I didn’t do the washing yesterday.",
+        "I did not do the washing yesterday."
+      ],
+      "feedback": "After didn’t, use the base verb do, even when the main verb is do."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the command: “Don’t to touch the hot pan.”",
+      "acceptedAnswers": [
+        "Don’t touch the hot pan.",
+        "Do not touch the hot pan."
+      ],
+      "feedback": "Don’t is followed immediately by the base form touch, without to."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Turn “I am tired” into a negative sentence. Use the contraction I’m not and say the full sentence.",
+      "acceptedAnswers": [
+        "I’m not tired."
+      ],
+      "feedback": "For I am, the natural contracted negative is I’m not."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Make this statement negative and say the full sentence: “Maya plays the piano.” Use doesn’t.",
+      "acceptedAnswers": [
+        "Maya doesn’t play the piano."
+      ],
+      "feedback": "Use doesn’t with Maya and keep play in its base form."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Give the negative command for “Close the door.” Say one complete sentence using don’t.",
+      "acceptedAnswers": [
+        "Don’t close the door."
+      ],
+      "feedback": "A negative command begins with don’t followed by the base verb close."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Every morning, Nora drinks tea, but she never drinks coffee. Say one sentence about her coffee habit using doesn't or does not.",
+      "acceptedAnswers": [
+        "Nora doesn't drink coffee.",
+        "Nora does not drink coffee."
+      ],
+      "feedback": "Use doesn't + the base verb drink for a third-person singular present-simple negative."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change 'The visitors entered the gallery yesterday' into a negative sentence. Keep all the facts and use didn't or did not.",
+      "acceptedAnswers": [
+        "The visitors didn't enter the gallery yesterday.",
+        "The visitors did not enter the gallery yesterday."
+      ],
+      "feedback": "After didn't, use the base verb enter, not the past form entered."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Someone asks, 'Are the windows clean?' They are not clean. Reply with a full sentence starting 'No, they' and ending with 'clean'.",
+      "acceptedAnswers": [
+        "No, they aren't clean.",
+        "No, they're not clean.",
+        "No, they are not clean."
+      ],
+      "feedback": "With the plural subject they, negate are using aren't, they're not, or are not."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the grammar in 'The workers hasn't finished yet.' Say the whole corrected sentence without changing its meaning.",
+      "acceptedAnswers": [
+        "The workers haven't finished yet.",
+        "The workers have not finished yet."
+      ],
+      "feedback": "Workers is plural, so the negative present-perfect auxiliary is haven't, not hasn't."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "The oven handle is hot and unsafe. Tell a friend not to touch the handle, then say it is not safe. Use two short sentences, beginning 'Don't' and 'It'.",
+      "acceptedAnswers": [
+        "Don't touch the handle. It isn't safe.",
+        "Don't touch the handle. It's not safe.",
+        "Don't touch the handle. It is not safe."
+      ],
+      "feedback": "Don't + base verb gives a negative command; it isn't / it's not / it is not describes the danger."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The children were sleepy after lunch.",
+      "prompt": "Which sentence is the correct negative version of the statement you hear?",
+      "choices": [
+        "The children wasn’t sleepy after lunch.",
+        "The children weren’t sleepy after lunch.",
+        "The children didn’t sleepy after lunch."
+      ],
+      "answerIndex": 1,
+      "feedback": "Were becomes weren’t in a negative sentence; did not is not used with the adjective sleepy."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "My uncle drove to work this morning.",
+      "prompt": "Which sentence correctly makes the statement you hear negative?",
+      "choices": [
+        "My uncle doesn’t drove to work this morning.",
+        "My uncle wasn’t drive to work this morning.",
+        "My uncle didn’t drive to work this morning."
+      ],
+      "answerIndex": 2,
+      "feedback": "The past-simple negative is didn’t plus the base verb drive."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "You shouldn’t leave your bicycle here.",
+      "prompt": "Listen and type only the negative modal immediately before the verb leave.",
+      "acceptedAnswers": [
+        "shouldn’t"
+      ],
+      "feedback": "Shouldn’t is the negative contraction of should not."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Amina isn't at the market today. She's at home because she's feeling ill.",
+      "prompt": "Where is Amina today?",
+      "choices": [
+        "At home",
+        "At the market",
+        "At the office"
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker says Amina isn't at the market and explains that she is at home."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The team didn't finish the bridge repairs on Tuesday, but they finished them on Wednesday morning.",
+      "prompt": "When were the repairs completed?",
+      "choices": [
+        "Tuesday morning",
+        "Wednesday morning",
+        "Next Tuesday"
+      ],
+      "answerIndex": 1,
+      "feedback": "Didn't finish rules out Tuesday; finished on Wednesday morning tells us when the work ended."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The manager hasn't approved the booking yet, but she won't cancel it.",
+      "prompt": "What is true about the booking right now?",
+      "choices": [
+        "It has already been approved.",
+        "The manager has cancelled it.",
+        "It is still waiting for approval."
+      ],
+      "answerIndex": 2,
+      "feedback": "Hasn't approved ... yet describes an unfinished approval. Won't cancel describes a different future action."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Ben couldn't reach the station this morning because the road was closed.",
+      "prompt": "Type the contracted negative modal immediately after the person's name.",
+      "acceptedAnswers": [
+        "couldn't"
+      ],
+      "feedback": "Couldn't is the contraction of could not and expresses an inability in the past."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Please don't move the chairs until the floor is dry.",
+      "prompt": "Type the two-word negative instruction between 'Please' and 'the chairs'.",
+      "acceptedAnswers": [
+        "don't move"
+      ],
+      "feedback": "Don't move uses don't + base verb to give a negative instruction."
+    }
+  ]
+}

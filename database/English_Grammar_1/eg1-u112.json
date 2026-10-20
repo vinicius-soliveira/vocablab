@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u112",
+  "title": "Adjectives with Prepositions and -ing Forms",
+  "level": "A2",
+  "topicId": "adjective-preposition-and-ing",
+  "summary": "Use common adjective–preposition combinations to describe feelings, relationships and abilities. Put verbs in the -ing form after prepositions, including after without, for and at.",
+  "learningObjectives": [
+    "Choose appropriate prepositions after common adjectives such as afraid, good, interested and married.",
+    "Distinguish angry with a person from angry about a situation, and kind to somebody from kind of somebody to do something.",
+    "Use verb + -ing, including negative -ing forms, after prepositions."
+  ],
+  "explanation": [
+    {
+      "heading": "Feelings: of, with and about",
+      "body": "Use afraid of or scared of what frightens you. Use angry with a person, but angry about an event or problem. Fed up with means tired of something unpleasant or repetitive. These are common adjective–preposition partnerships.",
+      "example": "Nora is fed up with the traffic and angry about the delay."
+    },
+    {
+      "heading": "Abilities, interests and descriptions",
+      "body": "Use good at for an ability, interested in for something you want to learn about, and full of for contents. Say married to somebody. Different from and different to are both common in British English; do not treat one as the only acceptable form.",
+      "example": "The new baker is good at making bread and interested in learning new recipes."
+    },
+    {
+      "heading": "Kindness and apologies",
+      "body": "Be kind or nice to a person: kind to our guests. Use it was kind or nice of somebody to do something to praise their action. Be sorry about a bad situation; be sorry for or about doing something; and feel sorry for somebody who is having a hard time.",
+      "example": "It was kind of Amir to help us, and he was kind to everyone."
+    },
+    {
+      "heading": "Use -ing after a preposition",
+      "body": "When a verb immediately follows a preposition such as at, of, for, with or without, use the -ing form: good at cooking, thank you for coming, without asking. Do not use to + base verb after these prepositions.",
+      "example": "We left the café without ordering dessert."
+    },
+    {
+      "heading": "Negative -ing forms and actions in sequence",
+      "body": "To make the -ing action negative, place not before the -ing word: sorry for not replying. Use before or after + -ing when one action happens earlier or later than another; these also follow the preposition + -ing pattern.",
+      "example": "After packing her bag, she checked the train times."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Angry with someone or about something",
+      "left": {
+        "label": "Angry with + person",
+        "example": "Dan is angry with his flatmate.",
+        "note": "With identifies the person Dan is angry with."
+      },
+      "right": {
+        "label": "Angry about + event",
+        "example": "Dan is angry about the noise.",
+        "note": "About identifies the situation that upset him."
+      }
+    },
+    {
+      "title": "Kind to someone or kind of someone",
+      "left": {
+        "label": "Kind to + person",
+        "example": "Leah is kind to new students.",
+        "note": "To identifies the people receiving kindness."
+      },
+      "right": {
+        "label": "Kind of + person + to do",
+        "example": "It was kind of Leah to show us around.",
+        "note": "Of identifies the person whose action is being praised."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Leo is afraid of the large dog across the road.",
+      "note": "Afraid of names the thing that causes fear."
+    },
+    {
+      "sentence": "The classroom is full of colourful posters.",
+      "note": "Full of identifies the contents."
+    },
+    {
+      "sentence": "I am interested in learning how to draw.",
+      "note": "Interested in is followed by the -ing form when the next word is a verb."
+    },
+    {
+      "sentence": "Thank you for carrying these heavy bags.",
+      "note": "After for, the verb takes the -ing form."
+    },
+    {
+      "sentence": "She went to bed without turning on the television.",
+      "note": "Without is followed by the -ing form of the omitted action."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Maya is good in drawing.",
+      "correct": "Maya is good at drawing.",
+      "why": "Use good at for an ability; drawing is an -ing form."
+    },
+    {
+      "incorrect": "Omar is angry about his cousin for breaking the glass.",
+      "correct": "Omar is angry with his cousin for breaking the glass.",
+      "why": "Angry with introduces the person involved."
+    },
+    {
+      "incorrect": "Thanks for to wait outside.",
+      "correct": "Thanks for waiting outside.",
+      "why": "Use -ing, not to + verb, immediately after for."
+    },
+    {
+      "incorrect": "My neighbour is married with a chef.",
+      "correct": "My neighbour is married to a chef.",
+      "why": "Married to is the usual adjective–preposition combination."
+    }
+  ],
+  "studyTips": [
+    "Study adjectives together with their prepositions: afraid of, interested in, good at and married to.",
+    "When an action follows a preposition, check that the verb ends in -ing: without asking, for helping.",
+    "For angry and kind, identify whether the phrase refers to a person, a situation or a helpful action."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: Rina is very good ___ finding cheap train tickets.",
+      "choices": [
+        "at",
+        "in",
+        "of"
+      ],
+      "answerIndex": 0,
+      "feedback": "Good at is followed by a noun or an -ing action that describes an ability."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: Tom is angry ___ his neighbour because the neighbour damaged the fence.",
+      "choices": [
+        "about",
+        "with",
+        "of"
+      ],
+      "answerIndex": 1,
+      "feedback": "Angry with introduces a person; angry about introduces a situation."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: Maya is afraid ___ heights.",
+      "choices": [
+        "at",
+        "with",
+        "of"
+      ],
+      "answerIndex": 2,
+      "feedback": "Afraid of names the thing that causes fear."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: It was kind ___ Ella to show us the way.",
+      "choices": [
+        "of",
+        "to",
+        "for"
+      ],
+      "answerIndex": 0,
+      "feedback": "It was kind of Ella to do something praises Ella’s helpful action."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The cupboard is full ___ clean plates.",
+      "acceptedAnswers": [
+        "of"
+      ],
+      "feedback": "Full of introduces what fills the cupboard."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "I am interested ___ learning to cook.",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "feedback": "Interested in takes the preposition in, followed here by the -ing form learning."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We are fed up ___ hearing the same song every morning.",
+      "acceptedAnswers": [
+        "with"
+      ],
+      "feedback": "Fed up with means tired or annoyed by an ongoing situation."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "After ___ the letter, she put it in an envelope. (write)",
+      "acceptedAnswers": [
+        "writing"
+      ],
+      "feedback": "After is a preposition here, so the verb write becomes writing."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My friend is married with a musician.",
+      "acceptedAnswers": [
+        "My friend is married to a musician."
+      ],
+      "feedback": "Married to is the usual expression for a spouse."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I am interested in to learn Italian.",
+      "acceptedAnswers": [
+        "I am interested in learning Italian."
+      ],
+      "feedback": "After the preposition in, use the -ing form learning."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: He walked out without to close the door.",
+      "acceptedAnswers": [
+        "He walked out without closing the door."
+      ],
+      "feedback": "Without takes a following -ing form, not to + verb."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Nadia is very kind of her classmates.",
+      "acceptedAnswers": [
+        "Nadia is very kind to her classmates."
+      ],
+      "feedback": "Kind to identifies the people who receive kindness."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say the full sentence with interested in and an -ing verb: 'Tessa is interested ___ ___ French. (learn)'",
+      "acceptedAnswers": [
+        "Tessa is interested in learning French."
+      ],
+      "feedback": "Use interested in followed by learning, not to learn."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Correct this sentence aloud: 'Thank you for help me with the boxes.'",
+      "acceptedAnswers": [
+        "Thank you for helping me with the boxes."
+      ],
+      "feedback": "For is a preposition, so helping is the correct verb form."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say the full sentence using angry about: 'Noah is angry ___ the cancelled trip.'",
+      "acceptedAnswers": [
+        "Noah is angry about the cancelled trip."
+      ],
+      "feedback": "Angry about introduces the situation that has upset Noah."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Say one full sentence about Sofia's ability. Use 'Sofia', 'good', and 'solving puzzles'. Begin 'Sofia is ...' and add the correct preposition.",
+      "acceptedAnswers": [
+        "Sofia is good at solving puzzles."
+      ],
+      "feedback": "Good at describes an ability; the verb after at is in the -ing form."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Correct only the verb form, then say the whole sentence: 'They left without to pay for the tickets.'",
+      "acceptedAnswers": [
+        "They left without paying for the tickets."
+      ],
+      "feedback": "Without is a preposition and takes paying, not to pay."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks what frightens Ben. The fact is that Ben is afraid of large spiders. Answer with a sentence beginning 'Ben ...' and use afraid of.",
+      "acceptedAnswers": [
+        "Ben is afraid of large spiders.",
+        "Ben's afraid of large spiders."
+      ],
+      "feedback": "Afraid of identifies what causes a person's fear."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say these two complete sentences with the correct prepositions: 'Mia is angry ___ Alex. She is angry ___ the lost keys.'",
+      "acceptedAnswers": [
+        "Mia is angry with Alex. She is angry about the lost keys."
+      ],
+      "feedback": "Angry with introduces a person; angry about introduces a situation."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Thank Sam for waiting and apologise for not replying sooner. Say two sentences beginning 'Thank you for ...' and 'I am sorry for ...' (or 'I'm sorry for ...').",
+      "acceptedAnswers": [
+        "Thank you for waiting. I am sorry for not replying sooner.",
+        "Thank you for waiting. I'm sorry for not replying sooner."
+      ],
+      "feedback": "Use waiting after for, and place not before replying in the negative -ing form."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I'm fed up with waiting for this bus.",
+      "prompt": "How does the speaker feel about the wait?",
+      "choices": [
+        "Interested in taking a bus.",
+        "Annoyed by the long wait.",
+        "Good at finding bus stops."
+      ],
+      "answerIndex": 1,
+      "feedback": "Fed up with waiting expresses annoyance or tiredness about waiting."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "It was kind of Zoe to carry my suitcase.",
+      "prompt": "What is the speaker praising?",
+      "choices": [
+        "Zoe's suitcase.",
+        "The place they visited.",
+        "Zoe's helpful action."
+      ],
+      "answerIndex": 2,
+      "feedback": "It was kind of Zoe praises her helpful action."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "She left without checking the address.",
+      "prompt": "Type the verb form you hear immediately after 'without'.",
+      "acceptedAnswers": [
+        "checking"
+      ],
+      "feedback": "The verb after without takes the -ing form: checking."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Asha is interested in painting, but she does not like drawing with pencils.",
+      "prompt": "Which activity would Asha prefer?",
+      "choices": [
+        "Making pictures with paint.",
+        "Drawing only with pencils.",
+        "Writing songs."
+      ],
+      "answerIndex": 0,
+      "feedback": "Interested in painting shows the activity that appeals to Asha."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "It was kind of Daniel to help me, and he was very kind to my sister too.",
+      "prompt": "Who else received help or kindness from Daniel?",
+      "choices": [
+        "The speaker's sister.",
+        "Daniel's cousin.",
+        "A teacher."
+      ],
+      "answerIndex": 0,
+      "feedback": "Kind of praises Daniel's action; kind to names the person who received his kindness."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Elsa is angry with her brother about the broken window, but she is not angry with her parents.",
+      "prompt": "Which statement best describes Elsa?",
+      "choices": [
+        "She is upset with her parents.",
+        "She is upset with her brother over a problem.",
+        "She is frightened of her brother."
+      ],
+      "answerIndex": 1,
+      "feedback": "Angry with identifies her brother as the person; about identifies the broken window as the issue."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "I am sorry for not answering your message yesterday.",
+      "prompt": "Type the two-word negative verb form that follows 'for'.",
+      "acceptedAnswers": [
+        "not answering"
+      ],
+      "feedback": "After for, use not followed by the -ing form: not answering."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We finished the project without asking anyone for help.",
+      "prompt": "Type the two words heard immediately after 'project'.",
+      "acceptedAnswers": [
+        "without asking"
+      ],
+      "feedback": "Without is followed by the -ing form asking."
+    }
+  ]
+}

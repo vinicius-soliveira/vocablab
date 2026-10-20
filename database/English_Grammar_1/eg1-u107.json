@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u107",
+  "title": "Place Prepositions: In, At and On (2)",
+  "level": "A2",
+  "topicId": "place-prepositions-in-at-on-2",
+  "summary": "Use common place expressions with in, at and on. Describe where people are, what appears in printed material, and where someone is travelling or studying.",
+  "learningObjectives": [
+    "Use in with bed, hospital, the sky, printed material, pictures, cars and the middle of an area.",
+    "Use at with home, work, school, university, appointments and social events.",
+    "Use on with buses, trains, planes, ships, floors and the way to a destination.",
+    "Recognise that either in or at can be possible for some buildings, depending on meaning."
+  ],
+  "explanation": [
+    {
+      "heading": "In: familiar spaces and expressions",
+      "body": "Use in for several common settings: in bed, in hospital (common in British English), in the sky and in the world. Information appears in a book or newspaper; people appear in a photograph or picture. A person riding inside a car or taxi is in it. Use in the middle of for a position within an area.",
+      "example": "There is a small boat in the middle of the lake."
+    },
+    {
+      "heading": "At: activities, places and events",
+      "body": "Use at with home, work, school, university and college to describe where someone is or what institution they attend. Also use at for meeting points such as an airport or station, a visit to someone’s home (at my uncle’s), and occasions such as a concert or party.",
+      "example": "My cousins are at a music festival this weekend."
+    },
+    {
+      "heading": "In and at: sometimes both work",
+      "body": "Some buildings, such as restaurants or hotels, can take either in or at. In often highlights being inside the building, while at can focus on the place or activity. Avoid treating every building as having only one possible preposition.",
+      "example": "We had dinner at a small restaurant near the river."
+    },
+    {
+      "heading": "On: public transport and floors",
+      "body": "Use on for a person travelling by bus, train, plane or ship. Use on with floor numbers in buildings: on the ground floor, on the second floor. These are fixed patterns, unlike in a car or taxi.",
+      "example": "Our seats are on the top floor of the theatre."
+    },
+    {
+      "heading": "On the way: during a journey",
+      "body": "Use on the way to a place or on the way home when an event happens during a journey. Home follows the way without to.",
+      "example": "We bought some bread on the way home."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Different kinds of transport",
+      "left": {
+        "label": "Inside a car",
+        "example": "We listened to the radio in the taxi.",
+        "note": "Use in for a passenger inside a taxi or car."
+      },
+      "right": {
+        "label": "On public transport",
+        "example": "We listened to a podcast on the train.",
+        "note": "Use on for a passenger travelling by train, bus, plane or ship."
+      }
+    },
+    {
+      "title": "A place versus an interior",
+      "left": {
+        "label": "At: the place",
+        "example": "Jules is at the hotel for a meeting.",
+        "note": "At identifies the place or activity."
+      },
+      "right": {
+        "label": "In: inside",
+        "example": "Jules is in the hotel lobby.",
+        "note": "In locates Jules within the building."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "There is an old family photograph in this magazine.",
+      "note": "Printed and pictured content is found in a magazine."
+    },
+    {
+      "sentence": "The children are at school until three o’clock.",
+      "note": "At school is a standard place expression."
+    },
+    {
+      "sentence": "Sam is on the bus to the city centre.",
+      "note": "On is used for travelling by bus."
+    },
+    {
+      "sentence": "You will find the music room on the second floor.",
+      "note": "On introduces a numbered floor."
+    },
+    {
+      "sentence": "We stopped for coffee on the way to the beach.",
+      "note": "On the way to places an event within a journey."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I read about the exhibition on a newspaper.",
+      "correct": "I read about the exhibition in a newspaper.",
+      "why": "Use in for information printed in a newspaper."
+    },
+    {
+      "incorrect": "Olivia is in home this evening.",
+      "correct": "Olivia is at home this evening.",
+      "why": "At home is the usual fixed expression."
+    },
+    {
+      "incorrect": "We were in the train when it started raining.",
+      "correct": "We were on the train when it started raining.",
+      "why": "Use on to describe passengers travelling by train."
+    },
+    {
+      "incorrect": "Their flat is in the fourth floor.",
+      "correct": "Their flat is on the fourth floor.",
+      "why": "Use on before a floor number."
+    }
+  ],
+  "studyTips": [
+    "Learn complete phrases, such as in bed, at school, on the plane and on the first floor, rather than memorising only the three prepositions.",
+    "Ask whether you are describing a printed item, an institution or event, a passenger on public transport, or a numbered floor.",
+    "Remember the paired forms on the way to work and on the way home; the second has no to before home."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: My father is travelling ___ the train today.",
+      "choices": [
+        "at",
+        "in",
+        "on"
+      ],
+      "answerIndex": 2,
+      "feedback": "For a passenger travelling by train, use on."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: There is a photograph of my grandmother ___ this magazine.",
+      "choices": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answerIndex": 0,
+      "feedback": "Photographs that appear as content of a magazine are in the magazine."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: The dentist’s office is ___ the third floor.",
+      "choices": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answerIndex": 1,
+      "feedback": "A numbered floor normally takes on."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: My brother is ___ work at the moment.",
+      "choices": [
+        "at",
+        "in",
+        "on"
+      ],
+      "answerIndex": 0,
+      "feedback": "At work is the usual fixed expression for someone at their workplace."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with one preposition: The kites were flying high ___ the sky.",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "feedback": "We say in the sky."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with one preposition: Dan is ___ home today because he has a cold.",
+      "acceptedAnswers": [
+        "at"
+      ],
+      "feedback": "The fixed expression for being at your residence is at home."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with one preposition: Ruby is studying medicine ___ university.",
+      "acceptedAnswers": [
+        "at"
+      ],
+      "feedback": "At university is a usual expression in British English."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with one preposition: I met a neighbour ___ the way to the station.",
+      "acceptedAnswers": [
+        "on"
+      ],
+      "feedback": "Use on the way to describe something that happens during a journey."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The children are on bed because they are tired.",
+      "acceptedAnswers": [
+        "The children are in bed because they are tired."
+      ],
+      "feedback": "Use the fixed expression in bed."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My cousin is at the photograph beside me.",
+      "acceptedAnswers": [
+        "My cousin is in the photograph beside me."
+      ],
+      "feedback": "People shown in a photograph are in the photograph."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We travelled to the island in a ferry.",
+      "acceptedAnswers": [
+        "We travelled to the island on a ferry."
+      ],
+      "feedback": "Use on for a passenger travelling by ship or ferry."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The art gallery is in the second floor.",
+      "acceptedAnswers": [
+        "The art gallery is on the second floor."
+      ],
+      "feedback": "Use on for a numbered floor."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say the complete sentence using at: 'Leo is ___ school this morning.'",
+      "acceptedAnswers": [
+        "Leo is at school this morning."
+      ],
+      "feedback": "At school is a fixed place expression."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say the complete sentence using on: 'The café is ___ the ground floor.'",
+      "acceptedAnswers": [
+        "The café is on the ground floor."
+      ],
+      "feedback": "Use on before a floor designation."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say the complete sentence using in: 'I found the story ___ a magazine.'",
+      "acceptedAnswers": [
+        "I found the story in a magazine."
+      ],
+      "feedback": "Use in for information appearing in printed material."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Felix is attending a concert right now. Tell a friend where he is. Begin 'Felix is...' and use 'the concert'.",
+      "acceptedAnswers": [
+        "Felix is at the concert."
+      ],
+      "feedback": "At the concert identifies the event Felix is attending; use at for this situation."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change the vehicle from car to bus. Keep the sentence pattern: 'Jade is in the car.' Say the new sentence beginning 'Jade is...'.",
+      "acceptedAnswers": [
+        "Jade is on the bus."
+      ],
+      "feedback": "Use in for a passenger in a car, but on for a passenger travelling by bus."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A visitor asks, 'Which floor is the art room on?' You know it is on the first floor. Answer in one sentence beginning 'The art room...'.",
+      "acceptedAnswers": [
+        "The art room is on the first floor."
+      ],
+      "feedback": "Use on the first floor to locate a room on a numbered floor."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Someone says, 'Nina is at the hotel.' Clarify that Nina is specifically inside the hotel's lobby. Begin 'Nina is...' and say 'the hotel lobby'.",
+      "acceptedAnswers": [
+        "Nina is in the hotel lobby."
+      ],
+      "feedback": "At the hotel identifies a general location; in the hotel lobby places Nina inside a particular space."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Tell a friend two facts in one sentence: you saw their brother during your journey to the museum. Begin 'I saw your brother...' and use 'on the way to the museum'.",
+      "acceptedAnswers": [
+        "I saw your brother on the way to the museum."
+      ],
+      "feedback": "On the way to the museum describes something that happened during a journey; use to before museum."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We travelled on a ferry to the island.",
+      "prompt": "Which preposition is used with ferry?",
+      "choices": [
+        "at",
+        "on",
+        "in"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker says on a ferry, using the public transport pattern."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "My sister is waiting at the doctor’s.",
+      "prompt": "Where is the speaker’s sister?",
+      "choices": [
+        "In her bedroom.",
+        "On a plane.",
+        "At the doctor’s."
+      ],
+      "answerIndex": 2,
+      "feedback": "At the doctor’s refers to the doctor’s surgery or office."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I met George on the way to the market.",
+      "prompt": "Type the preposition you hear before “the way”.",
+      "acceptedAnswers": [
+        "on"
+      ],
+      "feedback": "The fixed phrase for a journey in progress is on the way."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "We met the new neighbours at a birthday party on Friday.",
+      "prompt": "In what kind of situation did the speakers meet their neighbours?",
+      "choices": [
+        "During a school lesson.",
+        "While shopping for food.",
+        "At a social celebration."
+      ],
+      "answerIndex": 2,
+      "feedback": "They met their neighbours at a birthday party, which is a social celebration."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The new dentist is on the fifth floor, but the pharmacy is on the ground floor.",
+      "prompt": "Which level should a patient visit to see the dentist?",
+      "choices": [
+        "The fifth floor.",
+        "The ground floor.",
+        "A floor below ground level."
+      ],
+      "answerIndex": 0,
+      "feedback": "The dentist is on the fifth floor; the pharmacy, not the dentist, is on the ground floor."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I checked my bag on the train, but I found my ticket in the taxi.",
+      "prompt": "Where did the speaker finally find the ticket?",
+      "choices": [
+        "At a railway station.",
+        "Inside a hired car.",
+        "On a train."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker found the ticket in the taxi, which is a hired car, after checking the bag on the train."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "My uncle is at work today, so he cannot come to lunch.",
+      "prompt": "Type the two-word place expression immediately after 'is'.",
+      "acceptedAnswers": [
+        "at work"
+      ],
+      "feedback": "At work is the usual fixed expression for someone at their workplace."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "There is a little pond in the middle of the park.",
+      "prompt": "Type the three-word place expression immediately before 'of the park'.",
+      "acceptedAnswers": [
+        "in the middle"
+      ],
+      "feedback": "In the middle of describes a position inside an area, here the park."
+    }
+  ]
+}

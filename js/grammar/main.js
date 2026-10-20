@@ -1,5 +1,6 @@
 /** Local Grammar Lab: source-independent lessons, deterministic correction, and separate progress. */
 import {loadGrammarCatalog, loadGrammarUnit} from './catalog.js';
+import {GRAMMAR_COLLECTIONS,grammarCollection,selectGrammarCollection} from './collections.js';
 import {evaluateExercise, exerciseSkill} from './engine.js';
 import {evaluateSpokenAnswer, normalizeSpokenAnswer} from './speaking.js';
 import {evaluateListeningAnswer} from './listening.js';
@@ -17,7 +18,7 @@ const $ = selector => document.querySelector(selector);
 const app = $('#app');
 const escapeHtml = value => String(value ?? '').replace(/[&<>"']/g, c =>
   ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const state = {catalog:[], cache:new Map(), current:null, page:'library', session:[], position:0,
+const state = {catalog:[], collectionId:'all', cache:new Map(), current:null, page:'library', session:[], position:0,
   result:null, answer:null, speechError:'', loading:false, historyDays:30, historySkill:'all', dashboardDays:30,
   sessionId:'',sessionMode:'practice',sessionSource:'lesson',questionStartedAt:0};
 const percent = (correct,attempts) => attempts ? `${Math.round(correct/attempts*100)}%` : '—';
@@ -64,26 +65,49 @@ function speakableText(value) {
   return String(value).replace(/\s+\/\s+/g,'. ').replace(/[“”]/g,'').replace(/\s*→\s*/g,'. ').replace(/\s+/g,' ').trim();
 }
 function renderLibrary() {
-  const all = summarizeGrammarCatalog(state.catalog);
-  header('Grammar Lab','GRAMMAR · A1–C2','Learn the pattern, compare forms, practise and review.',`${state.catalog.length} LESSONS`);
-  const cards = state.catalog.map(entry => {
-    const s=all.byUnit[entry.id];
-    const search=`${entry.title} ${entry.level} ${entry.topicId}`.toLowerCase();
+  const catalog=selectGrammarCollection(state.catalog,state.collectionId);
+  const all=summarizeGrammarCatalog(catalog);
+  const selected=grammarCollection(state.collectionId);
+  header(selected?.title||'Grammar Library','GRAMMAR · THREE COLLECTIONS',
+    selected?`Grammar practice · ${selected.level}`:'Choose a collection or browse every available grammar lesson.',
+    `${catalog.length} LESSONS`);
+  const collectionCards=GRAMMAR_COLLECTIONS.map(collection=>{
+    const count=state.catalog.filter(entry=>entry.collectionId===collection.id).length;
+    const current=state.collectionId===collection.id;
+    return `<button type="button" class="grammar-collection-card ${current?'selected':''}" data-action="select-collection" data-collection="${collection.id}" aria-pressed="${current}">
+      <span class="grammar-collection-head"><strong>${escapeHtml(collection.title)}</strong><span class="chip">${escapeHtml(collection.level)}</span></span>
+      <span class="hint">Grammar practice · ${escapeHtml(collection.level)}</span>
+      <span class="grammar-collection-foot">${count} ${count===1?'lesson':'lessons'} available <span aria-hidden="true">→</span></span>
+    </button>`;
+  }).join('');
+  const cards=catalog.map(entry=>{
+    const stats=all.byUnit[entry.id];
+    const search=`${entry.title} ${entry.level} ${entry.topicId} ${entry.number}`.toLowerCase();
     return `<article class="small-card grammar-card" data-search="${escapeHtml(search)}" data-level="${escapeHtml(entry.level)}">
-      <div class="grammar-topic"><span class="chip">${escapeHtml(entry.level)}</span><span class="hint">${escapeHtml(entry.topicId.replaceAll('-',' '))}</span></div>
-      <h3>${escapeHtml(entry.title)}</h3><p class="hint">${s.practiced}/${s.total} written · ${s.due} due</p>
-      <p class="hint">Speaking: ${s.speaking.practiced}/${s.speaking.total} practised · ${s.speaking.due} due</p>
-      <p class="hint">Listening: ${s.listening.practiced}/${s.listening.total} practised · ${s.listening.due} due</p>
+      <div class="grammar-topic"><span class="chip">Unit ${String(entry.number).padStart(3,'0')}</span><span class="chip">${escapeHtml(entry.level)}</span><span class="hint">${escapeHtml(entry.topicId.replaceAll('-',' '))}</span></div>
+      <h3>${escapeHtml(entry.title)}</h3><p class="hint">${stats.practiced}/${stats.total} written · ${stats.due} due</p>
+      <p class="hint">Speaking: ${stats.speaking.practiced}/${stats.speaking.total} practised · ${stats.speaking.due} due</p>
+      <p class="hint">Listening: ${stats.listening.practiced}/${stats.listening.total} practised · ${stats.listening.due} due</p>
       <div class="buttonrow"><button class="primary" data-action="open" data-id="${escapeHtml(entry.id)}">Open lesson</button></div></article>`;
   }).join('');
-  app.innerHTML=`<div class="stack"><section class="panel"><div class="between"><div><h2>Grammar lessons</h2><p class="hint">Original teaching notes and exercises; lessons load when opened.</p></div>
+  const scope=selected?selected.title:'All collections';
+  const empty=catalog.length===0?`<div class="grammar-library-empty"><strong>No lessons available in ${escapeHtml(scope)} yet.</strong><p class="hint">Add your unit JSON files to database/English_Grammar_${escapeHtml((selected?.id||'english-grammar-1').at(-1))}/, then rebuild the grammar catalog.</p></div>`:'';
+  app.innerHTML=`<div class="stack"><section class="panel">
+    <div class="between"><div><h2>Grammar collections</h2><p class="hint">Choose the book you want to study. Your progress remains separate from Vocabulary Lab.</p></div>
+    <button class="ghost" data-action="select-collection" data-collection="all" ${state.collectionId==='all'?'disabled':''}>All collections</button></div>
+    <div class="grammar-collections-grid">${collectionCards}</div></section>
+    <section class="panel"><div class="between"><div><h2>${escapeHtml(scope)} · Lessons</h2><p class="hint">Original explanations, writing, speaking and listening practice.</p></div>
     <span class="chip">${all.practiced}/${all.exercises} practised</span></div>
-    <div class="grammar-filters"><label>Search<input id="grammarSearch" type="search" placeholder="e.g. conditionals, articles" autocomplete="off"></label>
+    ${catalog.length?`<div class="grammar-filters"><label>Search<input id="grammarSearch" type="search" placeholder="e.g. articles, conditionals" autocomplete="off"></label>
     <label>CEFR level<select id="grammarLevel"><option value="all">All levels</option>${['A1','A2','B1','B2','C1','C2'].map(x=>`<option value="${x}">${x}</option>`).join('')}</select></label></div>
     <p id="grammarNoResults" class="hint" hidden>No matching lessons.</p>
-    <div class="grid" id="grammarCards">${cards}</div></section>
-    <section class="panel"><div class="between"><div><h2>Adaptive grammar review</h2><p class="hint">Revisit due exercises from any lesson without changing your vocabulary progress.</p></div>
-    <span class="chip">${all.due} written due</span></div><div class="buttonrow"><button class="primary" data-action="review-all" ${all.due?'':'disabled'}>Review written (${all.due})</button><button class="ghost" data-action="review-speaking-all" ${all.speaking.due?'':'disabled'}>Review speaking (${all.speaking.due})</button><button class="ghost" data-action="review-listening-all" ${all.listening.due?'':'disabled'}>Review listening (${all.listening.due})</button><button class="ghost" data-action="progress">View progress</button></div></section></div>`;
+    <div class="grid" id="grammarCards">${cards}</div>`:empty}</section>
+    <section class="panel"><div class="between"><div><h2>${escapeHtml(scope)} · Adaptive review</h2><p class="hint">Review due exercises from this selection only.</p></div>
+    <span class="chip">${all.due} written due</span></div>
+    <div class="buttonrow"><button class="primary" data-action="review-collection-written" ${all.due?'':'disabled'}>Review written (${all.due})</button>
+    <button class="ghost" data-action="review-collection-speaking" ${all.speaking.due?'':'disabled'}>Review speaking (${all.speaking.due})</button>
+    <button class="ghost" data-action="review-collection-listening" ${all.listening.due?'':'disabled'}>Review listening (${all.listening.due})</button>
+    <button class="ghost" data-action="progress">View overall progress</button></div></section></div>`;
 }
 function renderTeaching(unit) {
   const objectives=unit.learningObjectives?.length ? `<section class="panel grammar-lesson-block"><h2>Learning objectives</h2><ul class="grammar-bullets">${unit.learningObjectives.map(x=>`<li>${escapeHtml(x)}</li>`).join('')}</ul></section>` : '';
@@ -276,9 +300,9 @@ function renderProgress() {
   const overall=`<section class="panel"><h2>All grammar lessons</h2><div class="grammar-progress-grid">${tileData.map(([title,value])=>
     `<div class="small-card"><span class="label">${title}</span><strong>${value}</strong></div>`).join('')}</div>
     <div class="buttonrow"><button class="primary" data-action="review-all" ${stats.due?'':'disabled'}>Review written (${stats.due})</button><button class="ghost" data-action="review-speaking-all" ${stats.speaking.due?'':'disabled'}>Review speaking (${stats.speaking.due})</button><button class="ghost" data-action="review-listening-all" ${stats.listening.due?'':'disabled'}>Review listening (${stats.listening.due})</button><button class="ghost" data-action="dashboard">Learning dashboard</button><button class="ghost" data-action="history">Learning history</button><button class="ghost" data-action="library">Browse lessons</button></div>
-    <div class="table-wrap"><table><thead><tr><th>Lesson</th><th>Level</th><th>Practised</th><th>Accuracy</th><th>Speaking</th><th>Listening</th><th>Due</th></tr></thead>
+    <div class="table-wrap"><table><thead><tr><th>Lesson</th><th>Collection</th><th>Level</th><th>Practised</th><th>Accuracy</th><th>Speaking</th><th>Listening</th><th>Due</th></tr></thead>
     <tbody>${state.catalog.map(e=>{const s=stats.byUnit[e.id];return `<tr><td><button class="grammar-text-button" data-action="open" data-id="${escapeHtml(e.id)}">${escapeHtml(e.title)}</button></td>
-    <td>${escapeHtml(e.level)}</td><td>${s.practiced}/${s.total}</td><td>${percent(s.successes,s.attempts)}</td><td>${s.speaking.practiced}/${s.speaking.total}</td><td>${s.listening.practiced}/${s.listening.total}</td><td>${s.due+s.speaking.due+s.listening.due}</td></tr>`;}).join('')}</tbody></table></div></section>`;
+    <td>${escapeHtml(grammarCollection(e.collectionId)?.title||e.collectionId)}</td><td>${escapeHtml(e.level)}</td><td>${s.practiced}/${s.total}</td><td>${percent(s.successes,s.attempts)}</td><td>${s.speaking.practiced}/${s.speaking.total}</td><td>${s.listening.practiced}/${s.listening.total}</td><td>${s.due+s.speaking.due+s.listening.due}</td></tr>`;}).join('')}</tbody></table></div></section>`;
   const records=getGrammarProgress();
   const detail=u?`<section class="panel"><div class="between"><h2>${escapeHtml(u.title)} · individual exercises</h2><button class="ghost" data-action="lesson">View lesson</button></div>
     <div class="table-wrap"><table><thead><tr><th>Exercise</th><th>Skill</th><th>Attempts</th><th>Accuracy</th><th>Next review</th></tr></thead>
@@ -298,7 +322,9 @@ async function getUnit(id){
   state.cache.set(id,unit);
   return unit;
 }
-async function openLesson(id){state.current=await getUnit(id);localStorage.setItem(GRAMMAR_ACTIVE_KEY,id);
+async function openLesson(id){state.current=await getUnit(id);
+  state.collectionId=state.catalog.find(entry=>entry.id===id)?.collectionId||state.collectionId;
+  localStorage.setItem(GRAMMAR_ACTIVE_KEY,id);
   state.page='lesson';state.result=null;state.answer=null;state.session=[];render();}
 function startListeningSession(review=false){
   if(!state.current){state.page='library';render();return;}
@@ -307,9 +333,9 @@ function startListeningSession(review=false){
   state.position=0;state.result=null;state.answer=null;
   state.page=state.session.length?'listening':'lesson';beginTrackedSession(review?'review':'practice','lesson');stopAudio();render();
 }
-async function startGlobalListeningReview(){
+async function startGlobalListeningReview(scoped=false){
   const pending=[];
-  for(const item of state.catalog){
+  for(const item of (scoped?selectGrammarCollection(state.catalog,state.collectionId):state.catalog)){
     const stats=summarizeGrammarCatalog([item]);
     if(!stats.listening.due)continue;
     const unit=await getUnit(item.id);
@@ -325,9 +351,9 @@ function startSpeakingSession(review=false){
   state.position=0;state.result=null;state.answer=null;state.speechError='';
   state.page=state.session.length?'speaking':'lesson';beginTrackedSession(review?'review':'practice','lesson');render();
 }
-async function startGlobalSpeakingReview(){
+async function startGlobalSpeakingReview(scoped=false){
   const pending=[];
-  for(const item of state.catalog){
+  for(const item of (scoped?selectGrammarCollection(state.catalog,state.collectionId):state.catalog)){
     if(!(summarizeGrammarCatalog([item]).speaking.due))continue;
     const unit=await getUnit(item.id);
     for(const exercise of dueSpeakingExercises(unit))pending.push({unit,exercise});
@@ -343,8 +369,8 @@ function startSession(review=false){
   if(!state.session.length){state.page='lesson';render();return;}
   state.page='session';beginTrackedSession(review?'review':'practice','lesson');stopAudio();render();
 }
-async function startGlobalReview(){
-  const dueIds=dueGrammarUnitIds(state.catalog);
+async function startGlobalReview(scoped=false){
+  const dueIds=dueGrammarUnitIds(scoped?selectGrammarCollection(state.catalog,state.collectionId):state.catalog);
   const pending=[];
   for(const id of dueIds){const unit=await getUnit(id);for(const exercise of dueExercises(unit))pending.push({unit,exercise});}
   state.session=pending;state.position=0;state.result=null;state.answer=null;
@@ -411,6 +437,7 @@ app.addEventListener('click',async event=>{
   try{
     state.loading=true;
     if(action==='open')await openLesson(button.dataset.id);
+    else if(action==='select-collection'){state.collectionId=button.dataset.collection;state.page='library';stopAudio();render();}
     else if(action==='play-teaching' && state.current){
       const text=teachingAudioText(state.current,button.dataset.area,Number(button.dataset.index),button.dataset.side);
       if(text){try{await playText(speakableText(text),null,{forceTTS:true});}
@@ -433,6 +460,9 @@ app.addEventListener('click',async event=>{
     else if(action==='start')startSession();
     else if(action==='review')startSession(true);
     else if(action==='review-all')await startGlobalReview();
+    else if(action==='review-collection-written')await startGlobalReview(true);
+    else if(action==='review-collection-speaking')await startGlobalSpeakingReview(true);
+    else if(action==='review-collection-listening')await startGlobalListeningReview(true);
     else if(action==='start-speaking')startSpeakingSession();
     else if(action==='review-speaking')startSpeakingSession(true);
     else if(action==='review-speaking-all')await startGlobalSpeakingReview();
@@ -490,7 +520,7 @@ document.querySelectorAll('[data-nav]').forEach(button=>button.addEventListener(
   try{
     state.catalog=await loadGrammarCatalog();
     const active=localStorage.getItem(GRAMMAR_ACTIVE_KEY);
-    if(state.catalog.some(x=>x.id===active))state.current=await getUnit(active);
+    if(state.catalog.some(x=>x.id===active)){state.current=await getUnit(active);state.collectionId=state.catalog.find(x=>x.id===active).collectionId;}
     render();
-  }catch(error){header('Unable to start Grammar Lab','GRAMMAR · ERROR','Check the local server and grammar/manifest.json.');app.innerHTML=notice(error.message);}
+  }catch(error){header('Unable to start Grammar Lab','GRAMMAR · ERROR','Check the local server and database/grammar-manifest.json.');app.innerHTML=notice(error.message);}
 })();

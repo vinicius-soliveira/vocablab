@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u042",
+  "title": "Agreeing with Too, Either, So and Neither",
+  "level": "A2",
+  "topicId": "agreement-too-either-so-neither",
+  "summary": "Say that a positive or negative statement is also true for another person. Choose too or either, or make a short response with so, neither or nor.",
+  "learningObjectives": [
+    "Place too at the end of a positive sentence to show agreement.",
+    "Place either at the end of a negative sentence to show agreement.",
+    "Build short positive agreement responses using so plus a matching auxiliary and subject.",
+    "Build short negative agreement responses using neither or nor plus a matching auxiliary and subject."
+  ],
+  "explanation": [
+    {
+      "heading": "Agree with a positive statement: too",
+      "body": "Use too at the end of an affirmative clause to show that the same thing is true of another person or thing. Keep the sentence positive. The verb form matches the new subject.",
+      "example": "“I love fresh bread.” “My brother loves it too.”"
+    },
+    {
+      "heading": "Agree with a negative statement: either",
+      "body": "Use either at the end of a negative clause when the second person or thing shares the same negative fact. Keep the negative verb; either is not a replacement for not.",
+      "example": "“We don’t have any milk.” “We don’t have any juice either.”"
+    },
+    {
+      "heading": "Use so with an auxiliary for positive agreement",
+      "body": "A shorter positive response begins with so, then the matching auxiliary, then the subject: so + am/is/are, do/does/did, have/has, can, will or would + subject. Use inversion: So can I, not So I can. Choose the auxiliary that expresses the tense or form of the original statement.",
+      "example": "“I visited my aunt on Sunday.” “So did I.”"
+    },
+    {
+      "heading": "Use neither or nor for negative agreement",
+      "body": "A shorter negative response begins with neither or nor, followed by the matching positive-form auxiliary and the subject. The word neither already gives the negative meaning, so do not add not: Neither can I, not Neither can’t I.",
+      "example": "“I haven’t read that book.” “Neither has my sister.”"
+    },
+    {
+      "heading": "Match the original verb and meaning",
+      "body": "Choose be after be, do/does/did after ordinary present- or past-simple verbs, and the same modal after can, will or would. After a negative idea such as never, use neither or a negative sentence ending in either. Remember that So do I and Neither do I have the auxiliary before I.",
+      "example": "“I won’t be at the market tomorrow.” “Neither will I.”"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Agreement at the end of a sentence",
+      "left": {
+        "label": "Positive: too",
+        "example": "“Noah enjoys hiking, and I do too.”",
+        "note": "Too follows an affirmative idea."
+      },
+      "right": {
+        "label": "Negative: either",
+        "example": "“Noah doesn’t ski, and I don’t either.”",
+        "note": "Either follows a negative idea."
+      }
+    },
+    {
+      "title": "Short agreement with inversion",
+      "left": {
+        "label": "Positive: so",
+        "example": "“Ella was excited.” “So was I.”",
+        "note": "So comes before the auxiliary and subject."
+      },
+      "right": {
+        "label": "Negative: neither",
+        "example": "“Ella wasn’t worried.” “Neither was I.”",
+        "note": "Neither comes before a positive-form auxiliary and subject."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "“I’m hungry.” “I’m hungry too.”",
+      "note": "Too follows a positive clause."
+    },
+    {
+      "sentence": "“They haven’t got a car.” “We haven’t got one either.”",
+      "note": "Either follows a negative sentence with have got."
+    },
+    {
+      "sentence": "“I play tennis on Sundays.” “So does my cousin.”",
+      "note": "Does agrees with the third-person singular subject my cousin."
+    },
+    {
+      "sentence": "“We watched the match yesterday.” “So did our friends.”",
+      "note": "Did matches a past-simple event."
+    },
+    {
+      "sentence": "“I can’t drive.” “Nor can my flatmate.”",
+      "note": "Nor is another natural way to introduce negative agreement."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I don’t eat fish too.",
+      "correct": "I don’t eat fish either.",
+      "why": "In a matching negative sentence, either is the natural choice."
+    },
+    {
+      "incorrect": "“I am excited.” “So I am.”",
+      "correct": "“I am excited.” “So am I.”",
+      "why": "Agreement with so uses auxiliary-subject inversion."
+    },
+    {
+      "incorrect": "“I didn’t hear the door.” “Neither do I.”",
+      "correct": "“I didn’t hear the door.” “Neither did I.”",
+      "why": "A past-simple negative statement needs did in the agreement response."
+    },
+    {
+      "incorrect": "“I can’t skate.” “Neither can’t I.”",
+      "correct": "“I can’t skate.” “Neither can I.”",
+      "why": "Neither already has negative meaning, so use can without not."
+    }
+  ],
+  "studyTips": [
+    "If you use a full statement, check its polarity: positive + too, negative + either.",
+    "For a short response, begin with so or neither and put the auxiliary before the subject.",
+    "Listen for was, did, have, can or will in the first statement and carry the appropriate auxiliary into your answer."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A: “This soup tastes good.” B: “Mine tastes good ___.”",
+      "choices": [
+        "too",
+        "either",
+        "neither"
+      ],
+      "answerIndex": 0,
+      "feedback": "Tastes good is positive, so the sentence ends with too."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "A: “I can’t run fast.” B: “I can’t ___.”",
+      "choices": [
+        "too",
+        "either",
+        "so"
+      ],
+      "answerIndex": 1,
+      "feedback": "Either is used after a negative verb such as can’t."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct word: “I stayed up late.” “___ did I.”",
+      "choices": [
+        "Neither",
+        "So I",
+        "So"
+      ],
+      "answerIndex": 2,
+      "feedback": "Positive past-simple agreement uses So did I, with did before I."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct word: “My brother doesn’t drive.” “___ do I.”",
+      "choices": [
+        "Neither",
+        "So",
+        "Either"
+      ],
+      "answerIndex": 0,
+      "feedback": "Neither do I agrees with a negative present-simple statement."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "A: “I’m ready.” B: “I’m ready ___.” Write one word.",
+      "acceptedAnswers": [
+        "too"
+      ],
+      "feedback": "Too adds a second positive statement about the same situation."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "A: “I don’t own a bike.” B: “I don’t own one ___.” Write one word.",
+      "acceptedAnswers": [
+        "either"
+      ],
+      "feedback": "Either follows the negative clause I don’t own one."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "A: “I was nervous before the test.” B: “So ___ I.” Write one word.",
+      "acceptedAnswers": [
+        "was"
+      ],
+      "feedback": "The first statement uses was, so the matching positive response is So was I."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "A: “I’ve never tried kayaking.” B: “Neither ___ I.” Write one word.",
+      "acceptedAnswers": [
+        "have"
+      ],
+      "feedback": "Never gives a negative meaning; the reply is Neither have I."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My sister enjoys baking, and I enjoy baking either.",
+      "acceptedAnswers": [
+        "My sister enjoys baking, and I enjoy baking too."
+      ],
+      "feedback": "The second clause is affirmative, so use too rather than either."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I don’t like loud music, and my flatmate doesn’t too.",
+      "acceptedAnswers": [
+        "I don’t like loud music, and my flatmate doesn’t either."
+      ],
+      "feedback": "Both clauses are negative; either belongs at the end of the second one."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Carla liked the concert, and so I did.",
+      "acceptedAnswers": [
+        "Carla liked the concert, and so did I."
+      ],
+      "feedback": "Positive agreement with so places did before the subject I."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Liam hasn’t finished his project, and neither he has.",
+      "acceptedAnswers": [
+        "Liam hasn’t finished his project, and neither has he."
+      ],
+      "feedback": "After neither, use auxiliary-subject order: has he."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "A friend says, “I am hungry.” You are hungry as well. Reply using so in one short sentence.",
+      "acceptedAnswers": [
+        "So am I."
+      ],
+      "feedback": "So am I has so + am + subject in that order."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "A friend says, “I can’t swim.” You cannot swim, either. Reply using neither in one short sentence.",
+      "acceptedAnswers": [
+        "Neither can I."
+      ],
+      "feedback": "Neither gives the negative meaning; can comes before I."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Maya wants a cup of tea. Ben wants a cup of tea as well. State Ben’s action in one sentence ending in too.",
+      "acceptedAnswers": [
+        "Ben wants a cup of tea too."
+      ],
+      "feedback": "Too goes at the end of Ben’s affirmative sentence."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A friend says, \"Ella has finished her homework.\" Mia has finished her homework as well. Give a three-word reply about Mia beginning with \"So\".",
+      "acceptedAnswers": [
+        "So has Mia."
+      ],
+      "feedback": "So has Mia uses so + present-perfect auxiliary has + the new subject."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change \"I am free tonight too\" into a matching negative statement for a friend who says, \"I am not free tonight.\" Keep I as the subject and end with either.",
+      "acceptedAnswers": [
+        "I'm not free tonight either.",
+        "I am not free tonight either."
+      ],
+      "feedback": "Use a negative form of be and either at the end to agree with a negative statement."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend says, \"I didn’t find my wallet.\" You did not find your wallet either. Reply in three words beginning with \"Neither\".",
+      "acceptedAnswers": [
+        "Neither did I."
+      ],
+      "feedback": "Neither did I agrees with a negative past-simple statement. Did comes before I."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A friend says, \"I can ride a bike.\" You can ride a bike too. Correct the response \"So I can\" to express agreement, using the same three words.",
+      "acceptedAnswers": [
+        "So can I."
+      ],
+      "feedback": "In a short positive agreement, put the modal before the subject: So can I."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "A friend says, \"I won’t go to the concert tomorrow.\" Your sister will not go either. Reply in four words beginning with \"Nor\" and ending with \"my sister\".",
+      "acceptedAnswers": [
+        "Nor will my sister."
+      ],
+      "feedback": "Nor already carries the negative meaning, so use positive-form will before my sister."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I don’t drink coffee in the evening.",
+      "prompt": "Which reply means the listener also does not drink coffee in the evening?",
+      "choices": [
+        "So do I.",
+        "Neither do I.",
+        "I do too."
+      ],
+      "answerIndex": 1,
+      "feedback": "The statement is negative, so use Neither do I for matching negative agreement."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I will visit my grandparents this weekend.",
+      "prompt": "Which reply means the listener plans to do the same thing?",
+      "choices": [
+        "Neither will I.",
+        "So do I.",
+        "So will I."
+      ],
+      "answerIndex": 2,
+      "feedback": "The positive statement uses will, so the reply is So will I."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I can’t ride a horse, and neither can my cousin.",
+      "prompt": "Listen and type the single word after “and” that shows the second person is also unable to do it.",
+      "acceptedAnswers": [
+        "neither"
+      ],
+      "feedback": "Neither introduces a second negative idea without another not."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Evan has finished his assignment, and Clara has too.",
+      "prompt": "What has Clara done?",
+      "choices": [
+        "She has only started her assignment.",
+        "She has not received an assignment.",
+        "She has also completed her assignment."
+      ],
+      "answerIndex": 2,
+      "feedback": "Has too shows that Clara has completed her assignment just as Evan has."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Nora wasn't at the meeting, and neither were the new interns.",
+      "prompt": "Who else missed the meeting?",
+      "choices": [
+        "The new interns.",
+        "The visitors.",
+        "The manager."
+      ],
+      "answerIndex": 0,
+      "feedback": "Neither were the new interns means that they were absent, just like Nora."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Oliver can cook well, and so can his older brother.",
+      "prompt": "Who can cook well?",
+      "choices": [
+        "Only Oliver.",
+        "Both brothers.",
+        "Neither brother."
+      ],
+      "answerIndex": 1,
+      "feedback": "So can his older brother means the same positive ability is true of both people."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "I haven't finished the report, and my colleague hasn't either.",
+      "prompt": "Type only the final word that expresses agreement with a negative statement.",
+      "acceptedAnswers": [
+        "either"
+      ],
+      "feedback": "Either follows the second negative clause to show that neither person has finished."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I studied last night, and so did my roommate.",
+      "prompt": "Type the two words immediately after and that introduce the matching action.",
+      "acceptedAnswers": [
+        "so did"
+      ],
+      "feedback": "So did follows a positive past-simple statement, with did before the new subject."
+    }
+  ]
+}

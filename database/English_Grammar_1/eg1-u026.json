@@ -1,0 +1,420 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u026",
+  "title": "Be Going To: Intentions and Predictions",
+  "level": "A2",
+  "topicId": "be-going-to-future",
+  "summary": "Use be going to with a base verb for decisions about the future and for predictions supported by what you can see now.",
+  "learningObjectives": [
+    "Form statements, negatives and questions with am, is or are going to + base verb.",
+    "Use be going to to describe a decision or intention made before speaking.",
+    "Make a prediction about the near future using evidence visible now.",
+    "Recognise how be going to and the future present continuous differ in emphasis."
+  ],
+  "explanation": [
+    {
+      "heading": "Build the going to future",
+      "body": "Use am, is or are + going to + the base form of a verb. The form of be agrees with the subject: I am going to cook, he is going to cook and they are going to cook. Going to does not change the next verb into an -ing form.",
+      "example": "We are going to paint the kitchen next month."
+    },
+    {
+      "heading": "Negatives and questions",
+      "body": "Put not immediately after am, is or are to make a negative: she is not going to buy it. To ask a question, put am, is or are before the subject: Are you going to buy it? Contractions such as I’m not and isn’t are natural in speaking.",
+      "example": "Is Ben going to join us? No, he isn’t going to join us."
+    },
+    {
+      "heading": "Intentions and earlier decisions",
+      "body": "Use be going to when someone has already decided to do something or intends to do it. The decision exists before the sentence is spoken. You do not need to have booked a time or arranged the activity with another person.",
+      "example": "I have decided to learn Italian, so I am going to start a course."
+    },
+    {
+      "heading": "Predictions from present evidence",
+      "body": "Be going to also describes something you expect to happen because of a clear sign right now. You might see an object beginning to fall or dark clouds approaching. In this use, it is a prediction, not somebody’s plan.",
+      "example": "That stack of plates is moving. It is going to fall."
+    },
+    {
+      "heading": "Plans and arrangements can overlap",
+      "body": "For future plans, both I’m going to do something and I’m doing something can be correct. Going to often highlights the intention; the present continuous often highlights an arrangement already made with a time or another person. The difference is one of emphasis, not an absolute rule.",
+      "example": "I’m going to visit Marco soon, and I’m meeting him on Wednesday."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "An intention or a confirmed appointment?",
+      "left": {
+        "label": "Going to: intention",
+        "example": "I’m going to call the dentist tomorrow.",
+        "note": "I have decided to make the call; no appointment has been stated."
+      },
+      "right": {
+        "label": "Present continuous: arrangement",
+        "example": "I’m seeing the dentist at three tomorrow.",
+        "note": "A specific appointment is arranged."
+      }
+    },
+    {
+      "title": "One form, two future meanings",
+      "left": {
+        "label": "Personal intention",
+        "example": "We are going to make soup tonight.",
+        "note": "We have decided what to prepare."
+      },
+      "right": {
+        "label": "Prediction from evidence",
+        "example": "The pot is wobbling. It is going to fall.",
+        "note": "The movement now makes a future fall seem likely."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Mira is going to apply for a new job this autumn.",
+      "note": "Is going to apply states her intention."
+    },
+    {
+      "sentence": "Are your neighbours going to move in December?",
+      "note": "Are + subject + going to asks about a future plan."
+    },
+    {
+      "sentence": "I’m not going to order dessert; I’ve had enough.",
+      "note": "Am not going to order expresses a decision not to do something."
+    },
+    {
+      "sentence": "Be careful! That chair is slipping on the floor. You’re going to fall.",
+      "note": "The prediction is based on what is happening now."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "She going to study tonight.",
+      "correct": "She is going to study tonight.",
+      "why": "Going to needs the correct form of be before it."
+    },
+    {
+      "incorrect": "They are going to buying new shoes.",
+      "correct": "They are going to buy new shoes.",
+      "why": "Use the base verb buy after going to, not buying."
+    },
+    {
+      "incorrect": "Does he going to drive there?",
+      "correct": "Is he going to drive there?",
+      "why": "Questions with going to begin with am, is or are, not do or does."
+    },
+    {
+      "incorrect": "We aren’t going visit the museum.",
+      "correct": "We aren’t going to visit the museum.",
+      "why": "Include to between going and the base verb visit."
+    }
+  ],
+  "studyTips": [
+    "Memorise the full pattern: subject + am/is/are + going to + base verb.",
+    "Ask yourself whether the speaker decided to act or is predicting an event from something observable.",
+    "When practising a future plan, make one statement, one negative and one question using the same main verb."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Look at that ladder wobbling! Daniel is losing his balance. He ___.",
+      "choices": [
+        "has fallen",
+        "is falling",
+        "is going to fall"
+      ],
+      "answerIndex": 2,
+      "feedback": "The visible danger supports a prediction: is going to fall."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "I’ve made my decision. I ___ a short language course next month.",
+      "choices": [
+        "am going to take",
+        "took",
+        "was taking"
+      ],
+      "answerIndex": 0,
+      "feedback": "The decision has already been made, so am going to take expresses the intention."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "___ Olivia going to cook tonight?",
+      "choices": [
+        "Does",
+        "Is",
+        "Has"
+      ],
+      "answerIndex": 1,
+      "feedback": "The question pattern begins Is + Olivia + going to + cook."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "We aren’t going to ___ a taxi; we have decided to take the bus.",
+      "choices": [
+        "taking",
+        "took",
+        "take"
+      ],
+      "answerIndex": 2,
+      "feedback": "Going to takes the base verb take, not taking or took."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "When the term ends, I ___ (learn) to play the guitar. I have already decided.",
+      "acceptedAnswers": [
+        "am going to learn"
+      ],
+      "feedback": "Use am going to plus the base verb learn to state a prior intention."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The paper bag is tearing under the weight. It ___ (break).",
+      "acceptedAnswers": [
+        "is going to break"
+      ],
+      "feedback": "The bag is tearing now, so is going to break predicts the result."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We ___ (not / buy) a new sofa this year. We have decided to save money.",
+      "acceptedAnswers": [
+        "are not going to buy",
+        "aren't going to buy"
+      ],
+      "feedback": "The negative form with we is are not or aren’t going to + buy."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "___ (your sister / join) the book club next month? She has decided to try it.",
+      "acceptedAnswers": [
+        "Is your sister going to join"
+      ],
+      "feedback": "Start with Is, add the subject, and use going to join for her intention."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She going to start a new job in April.",
+      "acceptedAnswers": [
+        "She is going to start a new job in April.",
+        "She's going to start a new job in April."
+      ],
+      "feedback": "Add is between the singular subject she and going to."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: They are going to visiting us next Sunday.",
+      "acceptedAnswers": [
+        "They are going to visit us next Sunday.",
+        "They're going to visit us next Sunday."
+      ],
+      "feedback": "Going to must be followed by the base verb visit, not visiting."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Are you going buy a new bicycle?",
+      "acceptedAnswers": [
+        "Are you going to buy a new bicycle?"
+      ],
+      "feedback": "The future construction needs going to before the base verb buy."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: He aren’t going to wait for us.",
+      "acceptedAnswers": [
+        "He isn't going to wait for us.",
+        "He is not going to wait for us.",
+        "He's not going to wait for us."
+      ],
+      "feedback": "The singular subject he needs is not or isn’t, not aren’t."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say your plan using these cues: I / going to / read / this book / tonight.",
+      "acceptedAnswers": [
+        "I am going to read this book tonight.",
+        "I'm going to read this book tonight."
+      ],
+      "feedback": "Use I am going to followed by the base verb read."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask a question about this intention: Maya / going to / come / by train?",
+      "acceptedAnswers": [
+        "Is Maya going to come by train?"
+      ],
+      "feedback": "A going to question with Maya begins Is Maya going to."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "There are very dark clouds overhead. Predict the weather using “It” and “rain soon”.",
+      "acceptedAnswers": [
+        "It's going to rain soon.",
+        "It is going to rain soon."
+      ],
+      "feedback": "Present evidence supports the prediction It is going to rain soon."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Arun has decided to learn to swim next month, but he hasn't booked lessons. Say one full sentence beginning with 'Arun' using 'be going to' and 'learn to swim next month'.",
+      "acceptedAnswers": [
+        "Arun is going to learn to swim next month.",
+        "Arun's going to learn to swim next month."
+      ],
+      "feedback": "An earlier decision is an intention, so use Arun is going to learn followed by the base verb."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Make this positive intention negative, keeping the subject, action and time: 'Marta is going to buy a new coat tomorrow.'",
+      "acceptedAnswers": [
+        "Marta is not going to buy a new coat tomorrow.",
+        "Marta isn't going to buy a new coat tomorrow.",
+        "Marta's not going to buy a new coat tomorrow."
+      ],
+      "feedback": "Put not after is to form is not going to buy, without changing the base verb."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your brother asks what you have decided to cook tonight. You have decided to make soup. Reply in one complete sentence starting with 'I', using 'going to make soup' and ending with 'tonight'.",
+      "acceptedAnswers": [
+        "I'm going to make soup tonight.",
+        "I am going to make soup tonight."
+      ],
+      "feedback": "Use going to make for a decision you made before speaking; make is the base form."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "You have decided to learn Spanish but have not booked classes. Separately, you have arranged to meet Paul on Friday. Say exactly two sentences: first use 'be going to' for your decision to learn Spanish; then use the present continuous for your meeting with Paul on Friday. Begin both sentences with 'I'.",
+      "acceptedAnswers": [
+        "I'm going to learn Spanish. I'm meeting Paul on Friday.",
+        "I am going to learn Spanish. I'm meeting Paul on Friday.",
+        "I'm going to learn Spanish. I am meeting Paul on Friday.",
+        "I am going to learn Spanish. I am meeting Paul on Friday."
+      ],
+      "feedback": "Going to emphasises the decision to learn Spanish; am meeting describes an already arranged meeting."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Your family has decided to visit the lake on Sunday but not swim there. Say one sentence using 'we', 'going to visit the lake on Sunday', and 'but' followed by a negative 'going to swim there' phrase.",
+      "acceptedAnswers": [
+        "We're going to visit the lake on Sunday, but we're not going to swim there.",
+        "We're going to visit the lake on Sunday, but we aren't going to swim there.",
+        "We're going to visit the lake on Sunday, but we are not going to swim there.",
+        "We are going to visit the lake on Sunday, but we're not going to swim there.",
+        "We are going to visit the lake on Sunday, but we aren't going to swim there.",
+        "We are going to visit the lake on Sunday, but we are not going to swim there."
+      ],
+      "feedback": "Use are going to visit for the intention and are not going to swim for what the family has decided against."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I have saved enough money, and I am going to buy a new bicycle next week.",
+      "prompt": "What has the speaker decided to do?",
+      "choices": [
+        "Buy a bicycle next week.",
+        "Repair an old bicycle.",
+        "Borrow a bicycle today."
+      ],
+      "answerIndex": 0,
+      "feedback": "Am going to buy describes an earlier decision to purchase a bicycle."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Careful! The cup is tipping over. It is going to spill.",
+      "prompt": "Why does the speaker expect something to spill?",
+      "choices": [
+        "They have arranged for it to happen.",
+        "They can see the cup tipping.",
+        "They are describing something that happened yesterday."
+      ],
+      "answerIndex": 1,
+      "feedback": "The cup is already tipping, providing evidence for the prediction."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Our neighbours are going to move in December.",
+      "prompt": "Type the three-word future expression after “are”.",
+      "acceptedAnswers": [
+        "going to move"
+      ],
+      "feedback": "Going to move expresses the neighbours’ future intention."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I decided yesterday that I'm going to take a cooking class next term.",
+      "prompt": "What does the speaker intend to do?",
+      "choices": [
+        "Teach other people how to cook.",
+        "Learn cooking in a class next term.",
+        "Stop attending a current cooking class."
+      ],
+      "answerIndex": 1,
+      "feedback": "Going to take a cooking class reports an intention decided before speaking."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "That pile of books is leaning over the edge of the shelf. It's going to fall.",
+      "prompt": "What does the speaker expect to happen next?",
+      "choices": [
+        "Someone will put the books away.",
+        "The shelf will be cleaned.",
+        "The books will drop off the shelf."
+      ],
+      "answerIndex": 2,
+      "feedback": "The books are already leaning over the edge; the speaker predicts they will fall."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I'm going to phone the travel agent tomorrow, but I'm meeting my cousin at four today. We've already agreed on the time.",
+      "prompt": "Which event has a specific time agreed with another person?",
+      "choices": [
+        "Meeting the cousin.",
+        "Phoning the travel agent.",
+        "Both events."
+      ],
+      "answerIndex": 0,
+      "feedback": "I'm meeting my cousin at four describes an arranged appointment; the phone call is only a stated intention."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "They're going to start a vegetable garden in April.",
+      "prompt": "Type the future expression and main verb immediately after 'They're'.",
+      "acceptedAnswers": [
+        "going to start"
+      ],
+      "feedback": "Going to start uses going to followed by the base verb start."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "She isn't going to drive to work on Monday.",
+      "prompt": "Type only the negative future expression between 'She' and 'drive'.",
+      "acceptedAnswers": [
+        "isn't going to",
+        "is not going to"
+      ],
+      "feedback": "Isn't going to is the negative future form for she; drive remains in the base form."
+    }
+  ]
+}

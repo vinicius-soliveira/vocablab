@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u103",
+  "title": "Time Prepositions: At, On and In",
+  "level": "A2",
+  "topicId": "time-prepositions-at-on-in",
+  "summary": "Choose at, on or in to locate an event in time. Learn when to omit a preposition and how to say that something will happen a short time from now.",
+  "learningObjectives": [
+    "Use at for clock times and common fixed time phrases.",
+    "Choose on for days, dates and named parts of a day, and in for months, years, seasons and general parts of a day.",
+    "Leave out at, on and in before time expressions beginning with this, last, next or every.",
+    "Use in with a length of time to say when a future event will happen."
+  ],
+  "explanation": [
+    {
+      "heading": "At: exact times and fixed phrases",
+      "body": "Use at with clock times and with midnight. Other useful expressions are at night, at the weekend, at Christmas, at the moment and at the end of a period.",
+      "example": "Our online meeting begins at half past nine."
+    },
+    {
+      "heading": "On: days, dates and specific day parts",
+      "body": "Use on with days of the week and dates. Use on when morning, afternoon, evening or night is attached to a particular day: on Wednesday afternoon, on Saturday night.",
+      "example": "The music class is on Thursday evening."
+    },
+    {
+      "heading": "In: months, years, seasons and daytime",
+      "body": "Use in for months, years and seasons. For a general part of the day, say in the morning, in the afternoon or in the evening; the usual general expression for night is at night.",
+      "example": "I often go cycling in the morning."
+    },
+    {
+      "heading": "No preposition with this, last, next or every",
+      "body": "A time expression beginning with this, last, next or every normally stands alone. Do not add at, on or in before it.",
+      "example": "We are visiting the new museum next Saturday."
+    },
+    {
+      "heading": "In: time remaining from now",
+      "body": "Use in followed by an amount of time to say how soon a future event will happen. In twenty minutes means twenty minutes from now, not the duration of an activity.",
+      "example": "The next bus will arrive in twenty minutes."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A general time of day or a named day",
+      "left": {
+        "label": "General time",
+        "example": "I usually cook in the evening.",
+        "note": "In introduces the part of the day without a specific weekday."
+      },
+      "right": {
+        "label": "Named day",
+        "example": "I cook on Tuesday evening.",
+        "note": "On introduces the day together with its part of the day."
+      }
+    },
+    {
+      "title": "A weekday or next weekday",
+      "left": {
+        "label": "Ordinary weekday",
+        "example": "The interview is on Friday.",
+        "note": "Use on when a weekday stands alone."
+      },
+      "right": {
+        "label": "Next weekday",
+        "example": "The interview is next Friday.",
+        "note": "Do not add on before next Friday."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The doors close at midnight.",
+      "note": "At marks a precise point in time."
+    },
+    {
+      "sentence": "Our football team practises on Sundays.",
+      "note": "On is used with regularly occurring weekdays."
+    },
+    {
+      "sentence": "The new café opened in 2020.",
+      "note": "In introduces a year."
+    },
+    {
+      "sentence": "Can we speak at the end of the lesson?",
+      "note": "At the end of is a fixed time expression."
+    },
+    {
+      "sentence": "The taxi will be here in fifteen minutes.",
+      "note": "In fifteen minutes means fifteen minutes from now."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I relax on the evening.",
+      "correct": "I relax in the evening.",
+      "why": "Use in for a general part of the day."
+    },
+    {
+      "incorrect": "We meet in Tuesday night.",
+      "correct": "We meet on Tuesday night.",
+      "why": "Use on when night follows a named weekday."
+    },
+    {
+      "incorrect": "The festival is on July.",
+      "correct": "The festival is in July.",
+      "why": "Months normally take in."
+    },
+    {
+      "incorrect": "I leave on next Friday.",
+      "correct": "I leave next Friday.",
+      "why": "Next already identifies the time, so omit the preposition."
+    }
+  ],
+  "studyTips": [
+    "Group time expressions by size: at seven o’clock, on Friday, in July, in 2027.",
+    "Notice the contrast between in the evening and on Saturday evening.",
+    "Check the first word of a time phrase. This, last, next and every usually mean no at, on or in."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: The appointment begins ___ 9:15.",
+      "choices": [
+        "in",
+        "at",
+        "on"
+      ],
+      "answerIndex": 1,
+      "feedback": "Use at before a clock time such as 9:15."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: We visit our cousins ___ November.",
+      "choices": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answerIndex": 0,
+      "feedback": "Use in for months of the year."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: The train arrives ___ Thursday evening.",
+      "choices": [
+        "at",
+        "in",
+        "on"
+      ],
+      "answerIndex": 2,
+      "feedback": "A named weekday and its evening take on."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which sentence is correct?",
+      "choices": [
+        "We leave next Tuesday.",
+        "We leave on next Tuesday.",
+        "We leave in next Tuesday."
+      ],
+      "answerIndex": 0,
+      "feedback": "Next Tuesday needs no preposition before it."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with at, on or in: My alarm rings ___ 6:40 every weekday.",
+      "acceptedAnswers": [
+        "at"
+      ],
+      "feedback": "Use at with a precise time."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with at, on or in: The village festival takes place ___ October.",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "feedback": "In is the preposition for a month."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with at, on or in: Our lesson is ___ Wednesday morning.",
+      "acceptedAnswers": [
+        "on"
+      ],
+      "feedback": "Wednesday morning is a specific part of a named day, so use on."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with at, on or in: The taxi will arrive ___ ten minutes.",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "feedback": "In ten minutes means ten minutes from now."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We play basketball in Friday evenings.",
+      "acceptedAnswers": [
+        "We play basketball on Friday evenings."
+      ],
+      "feedback": "Use on before a named weekday plus evenings."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My parents met on 2008.",
+      "acceptedAnswers": [
+        "My parents met in 2008."
+      ],
+      "feedback": "Years take in, not on."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The class starts in ten o'clock.",
+      "acceptedAnswers": [
+        "The class starts at ten o'clock."
+      ],
+      "feedback": "Use at for a clock time."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I am free on this weekend.",
+      "acceptedAnswers": [
+        "I am free this weekend.",
+        "I'm free this weekend."
+      ],
+      "feedback": "Do not use on before a time expression beginning with this."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say the complete sentence with the correct preposition: 'The concert starts ___ seven thirty.'",
+      "acceptedAnswers": [
+        "The concert starts at seven thirty."
+      ],
+      "feedback": "Use at before the clock time seven thirty."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say the full sentence with the correct preposition: 'Our garden looks beautiful ___ spring.'",
+      "acceptedAnswers": [
+        "Our garden looks beautiful in spring."
+      ],
+      "feedback": "Use in before a season."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Remove the unnecessary preposition and say the full sentence: 'We are visiting Clara on next Tuesday.'",
+      "acceptedAnswers": [
+        "We are visiting Clara next Tuesday.",
+        "We're visiting Clara next Tuesday."
+      ],
+      "feedback": "Leave out on before next Tuesday."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A sign shows that the pharmacy closing time is noon. Tell a visitor in one full sentence beginning 'The pharmacy closes ...'.",
+      "acceptedAnswers": [
+        "The pharmacy closes at noon."
+      ],
+      "feedback": "Use at with noon, a specific time of day."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change the general morning to Friday morning. Say the new complete sentence, keeping the other words: 'We practise in the morning.'",
+      "acceptedAnswers": [
+        "We practise on Friday morning."
+      ],
+      "feedback": "Use on for a named weekday and its morning, rather than in for a general morning."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks when the book fair is. The poster says October. Answer in one sentence beginning 'The book fair is ...'.",
+      "acceptedAnswers": [
+        "The book fair is in October."
+      ],
+      "feedback": "Use in before the name of a month."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the prepositions in both sentences, keeping all other words, and say them in order: 'We sleep in night. We dance at Saturday night.'",
+      "acceptedAnswers": [
+        "We sleep at night. We dance on Saturday night."
+      ],
+      "feedback": "Use at night for a general time, but on before Saturday night."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Your train leaves twenty minutes from now. Tell a friend in one sentence, beginning 'The train leaves ...'.",
+      "acceptedAnswers": [
+        "The train leaves in twenty minutes."
+      ],
+      "feedback": "In twenty minutes means twenty minutes from now, not a twenty-minute journey."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Our family dinner is on Saturday evening.",
+      "prompt": "Which preposition is used before the named evening?",
+      "choices": [
+        "in",
+        "at",
+        "on"
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker uses on before Saturday evening, a named part of the week."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I usually read in the afternoon.",
+      "prompt": "Which preposition comes before the general part of the day?",
+      "choices": [
+        "on",
+        "in",
+        "at"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker uses in with the afternoon when no weekday is named."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The shop closes at midnight.",
+      "prompt": "Type the preposition you hear directly before midnight.",
+      "acceptedAnswers": [
+        "at"
+      ],
+      "feedback": "At midnight marks a specific point in time."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The school is closed on Monday, so the music lesson will be on Tuesday afternoon.",
+      "prompt": "When can students attend the music lesson?",
+      "choices": [
+        "On Monday afternoon",
+        "On Wednesday morning",
+        "On Tuesday afternoon"
+      ],
+      "answerIndex": 2,
+      "feedback": "The school is closed on Monday; the lesson is scheduled for Tuesday afternoon."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The swimming pool opens at eight. My lesson doesn't begin until eight forty.",
+      "prompt": "How long after the pool opens does the lesson begin?",
+      "choices": [
+        "Forty minutes",
+        "Twenty minutes",
+        "One hour"
+      ],
+      "answerIndex": 0,
+      "feedback": "The pool opens at eight, and the lesson starts at eight forty: a forty-minute difference."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We usually have music practice on Mondays, but there's no practice next Monday.",
+      "prompt": "What is true about the coming Monday's session?",
+      "choices": [
+        "It will happen as usual",
+        "It will not take place",
+        "It has moved to Tuesday"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker says that there is no practice next Monday, despite the usual Monday schedule."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The children always eat their sandwiches at lunchtime, after playing outside.",
+      "prompt": "Type the single preposition immediately before the daily mealtime.",
+      "acceptedAnswers": [
+        "at"
+      ],
+      "feedback": "At is used before lunchtime in this sentence."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Your glasses will be ready in twenty minutes.",
+      "prompt": "Type the single preposition that tells you how soon the glasses will be ready.",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "feedback": "In twenty minutes means twenty minutes from now."
+    }
+  ]
+}

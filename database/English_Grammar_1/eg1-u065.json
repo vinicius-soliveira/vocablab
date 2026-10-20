@@ -1,0 +1,400 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u065",
+  "title": "A and An: Talking About One Thing",
+  "level": "A1",
+  "topicId": "indefinite-articles-a-an",
+  "summary": "Use a and an before a singular countable noun when introducing one person or thing. Choose the article by the next spoken sound, and use these forms when describing people and their jobs.",
+  "learningObjectives": [
+    "Choose a or an before an ordinary singular countable noun.",
+    "Choose the correct article before vowel and consonant sounds, including hour and university.",
+    "Describe what someone is or does using an appropriate article.",
+    "Use another to request one more item."
+  ],
+  "explanation": [
+    {
+      "heading": "A and an introduce one person or thing",
+      "body": "Use a or an with a singular countable noun when you mention one item or person without identifying a particular one. Do not normally leave out the article before this kind of noun. Plural nouns and uncountable nouns do not take a/an in the same way.",
+      "example": "There is a bicycle outside the café."
+    },
+    {
+      "heading": "Listen to the next sound, not only the first letter",
+      "body": "Use an before a vowel sound and a before a consonant sound. The following word may be an adjective: choose the article by the first sound after it. We say an hour because the h is silent, but a university because university begins with a consonant /y/ sound.",
+      "example": "It was an exciting evening at a university event."
+    },
+    {
+      "heading": "Say what a person or thing is",
+      "body": "Use a/an when you identify a person or thing by a group, kind, or description. A singular job title usually needs a/an after be and similar expressions such as work as. The same pattern works with descriptions such as a small village or an unusual idea.",
+      "example": "My uncle is an electrician."
+    },
+    {
+      "heading": "Another means one more or a different one",
+      "body": "Another is one word, built from an and other. Use another before a singular countable noun to ask for one additional item or a different item of that kind. Do not write an other as two words in this use.",
+      "example": "Could we have another chair, please?"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "The sound changes the article",
+      "left": {
+        "label": "Vowel sound",
+        "example": "We waited for an hour.",
+        "note": "Hour begins with a vowel sound because its h is silent."
+      },
+      "right": {
+        "label": "Consonant sound",
+        "example": "She studies at a university.",
+        "note": "University begins with a /y/ sound, so use a."
+      }
+    },
+    {
+      "title": "An item and one more item",
+      "left": {
+        "label": "One item",
+        "example": "I need a clean plate.",
+        "note": "A introduces one plate."
+      },
+      "right": {
+        "label": "One additional item",
+        "example": "I need another clean plate.",
+        "note": "Another means one more plate."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "There is an orange in the fruit bowl.",
+      "note": "An goes before the vowel sound in orange."
+    },
+    {
+      "sentence": "Theo bought a new jacket yesterday.",
+      "note": "A comes before the consonant sound in new."
+    },
+    {
+      "sentence": "My neighbour works as a nurse.",
+      "note": "A singular profession normally takes a/an."
+    },
+    {
+      "sentence": "They moved to a European city last year.",
+      "note": "European starts with a consonant /y/ sound."
+    },
+    {
+      "sentence": "Can I have another biscuit with my tea?",
+      "note": "Another requests one additional biscuit."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "My aunt is doctor.",
+      "correct": "My aunt is a doctor.",
+      "why": "A singular job title normally needs an article."
+    },
+    {
+      "incorrect": "I waited a hour for the train.",
+      "correct": "I waited an hour for the train.",
+      "why": "The h in hour is silent, so the next sound is a vowel."
+    },
+    {
+      "incorrect": "She wears an uniform at work.",
+      "correct": "She wears a uniform at work.",
+      "why": "Uniform begins with a consonant /y/ sound."
+    },
+    {
+      "incorrect": "Please bring me an other cup.",
+      "correct": "Please bring me another cup.",
+      "why": "Another is written as one word."
+    }
+  ],
+  "studyTips": [
+    "Say the noun and any adjective aloud before deciding between a and an.",
+    "Remember that singular professions usually need a/an: a pilot, an artist.",
+    "Practise the sound pairs an hour / a hotel and an umbrella / a uniform."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "My sister is ___ engineer.",
+      "choices": [
+        "an",
+        "a",
+        "no article"
+      ],
+      "answerIndex": 0,
+      "feedback": "Engineer starts with a vowel sound, and a singular job title needs an."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "She works as ___ university tutor.",
+      "choices": [
+        "an",
+        "a",
+        "no article"
+      ],
+      "answerIndex": 1,
+      "feedback": "University begins with a consonant /y/ sound, so use a."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Milo adopted ___ young dog yesterday.",
+      "choices": [
+        "an",
+        "no article",
+        "a"
+      ],
+      "answerIndex": 2,
+      "feedback": "Young begins with a consonant sound, so use a before young dog."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "That is ___ unusual name.",
+      "choices": [
+        "an",
+        "a",
+        "no article"
+      ],
+      "answerIndex": 0,
+      "feedback": "Unusual starts with a vowel sound, so an is correct."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with a or an: My cousin is ___ nurse at the local clinic.",
+      "acceptedAnswers": [
+        "a"
+      ],
+      "feedback": "Nurse begins with a consonant sound and names one profession."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with a or an: We waited for ___ hour before the bus arrived.",
+      "acceptedAnswers": [
+        "an"
+      ],
+      "feedback": "Hour starts with a vowel sound because its h is silent."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with a or an: He bought ___ useful map for the walk.",
+      "acceptedAnswers": [
+        "a"
+      ],
+      "feedback": "Useful starts with a consonant /y/ sound."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with a or an: Could I have ___ glass of water, please?",
+      "acceptedAnswers": [
+        "a"
+      ],
+      "feedback": "A glass is one countable container of water."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My brother is doctor.",
+      "acceptedAnswers": [
+        "My brother is a doctor."
+      ],
+      "feedback": "The singular job title doctor needs a."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Nina found a interesting story online.",
+      "acceptedAnswers": [
+        "Nina found an interesting story online."
+      ],
+      "feedback": "Interesting begins with a vowel sound, so use an."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: He booked an hotel near the station.",
+      "acceptedAnswers": [
+        "He booked a hotel near the station."
+      ],
+      "feedback": "Hotel begins with a pronounced h consonant sound in standard modern English."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I need an uniform for my new job.",
+      "acceptedAnswers": [
+        "I need a uniform for my new job."
+      ],
+      "feedback": "Uniform begins with a consonant /y/ sound, so use a."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say that your sister is an architect. Begin with 'My sister'.",
+      "acceptedAnswers": [
+        "My sister is an architect."
+      ],
+      "feedback": "Architect begins with a vowel sound and needs an after is."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Politely request one more cup of tea. Begin with 'Could I have'.",
+      "acceptedAnswers": [
+        "Could I have another cup of tea?"
+      ],
+      "feedback": "Another means one additional cup."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say that you waited for one hour. Begin with 'I waited'.",
+      "acceptedAnswers": [
+        "I waited for an hour."
+      ],
+      "feedback": "Use an because hour begins with a vowel sound."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You see one empty seat beside the window. Tell your friend in one sentence. Begin with 'There is' or 'There's' and include the location.",
+      "acceptedAnswers": [
+        "There is an empty seat beside the window.",
+        "There's an empty seat beside the window."
+      ],
+      "feedback": "Empty begins with a vowel sound, so use an before empty seat. There is and there's are both natural."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change 'We saw an unusual bird.' to describe a European bird instead. Keep the subject and past tense.",
+      "acceptedAnswers": [
+        "We saw a European bird."
+      ],
+      "feedback": "European starts with a consonant /y/ sound, so the article changes from an to a."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You are at the information desk and need one map. Ask politely, beginning with 'Could I have' and ending with 'please'.",
+      "acceptedAnswers": [
+        "Could I have a map, please?"
+      ],
+      "feedback": "Map is a singular countable noun beginning with a consonant sound, so ask for a map."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A friend says, 'It's an beautiful place.' Correct the article. Keep the rest of the sentence the same.",
+      "acceptedAnswers": [
+        "It's a beautiful place."
+      ],
+      "feedback": "Beautiful starts with a consonant sound, so a beautiful place is correct."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "At a shop, you bought one orange notebook and one yellow pencil. Tell a friend in one sentence, beginning with 'I bought' and mentioning the notebook first.",
+      "acceptedAnswers": [
+        "I bought an orange notebook and a yellow pencil."
+      ],
+      "feedback": "Use an before the vowel sound in orange and a before the consonant sound in yellow."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I picked up an umbrella because it started to rain.",
+      "prompt": "What did the speaker pick up?",
+      "choices": [
+        "A coat",
+        "An umbrella",
+        "A notebook"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker names an umbrella; an is used before its vowel sound."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "My aunt works as a university lecturer in Bristol.",
+      "prompt": "What is the aunt’s job?",
+      "choices": [
+        "An engineer",
+        "A nurse",
+        "A university lecturer"
+      ],
+      "answerIndex": 2,
+      "feedback": "A university lecturer is the stated job; university starts with a /y/ sound."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "We saw an elephant beside a river.",
+      "prompt": "Type the article spoken immediately before the animal.",
+      "acceptedAnswers": [
+        "an"
+      ],
+      "feedback": "An is heard before elephant because elephant starts with a vowel sound."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I bought an extra blanket because the nights in our cabin are very cold.",
+      "prompt": "Why did the speaker buy something?",
+      "choices": [
+        "To decorate a bedroom",
+        "To stay warm at night",
+        "To carry clothes on a walk"
+      ],
+      "answerIndex": 1,
+      "feedback": "The extra blanket helps the speaker stay warm during the cold nights."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "My cousin is an electrician, but he works in a small bookshop on Saturdays.",
+      "prompt": "Where does the cousin work at weekends?",
+      "choices": [
+        "At a hospital",
+        "At a building site",
+        "At a shop that sells books"
+      ],
+      "answerIndex": 2,
+      "feedback": "The cousin works in a bookshop on Saturdays, although his profession is electrician."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We have an old umbrella, but we need another one because Sam is coming too.",
+      "prompt": "Why is one more item needed?",
+      "choices": [
+        "An additional person is joining them",
+        "The first item was stolen",
+        "They are going to throw the first item away"
+      ],
+      "answerIndex": 0,
+      "feedback": "Another means one more umbrella, needed because Sam is joining them."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "She found an interesting photograph in a drawer.",
+      "prompt": "Type the article immediately before the adjective describing the photograph.",
+      "acceptedAnswers": [
+        "an"
+      ],
+      "feedback": "You hear an before interesting, which begins with a vowel sound."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Our class needs another dictionary for the new students.",
+      "prompt": "Type the single word immediately before 'dictionary'.",
+      "acceptedAnswers": [
+        "another"
+      ],
+      "feedback": "Another means one additional dictionary and is written as a single word."
+    }
+  ]
+}

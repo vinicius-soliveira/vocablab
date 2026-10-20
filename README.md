@@ -1,125 +1,102 @@
 # VocabLab
 
-**A local-first English learning platform for vocabulary, grammar, and spaced practice.**
+**A local-first English learning platform for vocabulary, grammar, listening, speaking, pronunciation, and spaced practice.**
 
-VocabLab is built with **HTML, CSS, and vanilla JavaScript**. It runs in your browser without a framework, account, API key, or paid service. Learning content is stored in JSON files, and study progress stays on your device.
+VocabLab 1.4.1 uses HTML, CSS, and JavaScript modules. It runs without a paid API, external account, or backend. Content is stored in JSON files, and progress remains on the user's device.
 
 ## Learning modules
 
-| Module | Features |
+| Module | Capabilities |
 | --- | --- |
-| **Vocabulary Lab** | Word meanings and translations, IPA, examples, listening, pronunciation practice, active recall, and adaptive review. |
-| **Grammar Lab** | Grammar explanations, comparisons, contextual examples, common mistakes, exercises with feedback, and spaced review. |
+| **Vocabulary Lab** | Definitions, translations, IPA, sentence examples, listening, active recall, and spaced review. |
+| **Grammar Lab** | Teaching notes, writing, speaking, listening, deterministic feedback, and skill-specific spaced review. |
+| **Pronunciation Lab** | Reference audio, recording, playback, recognition checks, and independent practice history. |
+| **Content Packages** | Import and manage personal vocabulary packages in JSON format. |
+| **Book Registry (1.4 foundation)** | Stable, publisher-neutral identities for current and planned course volumes. No new study UI yet. |
 
-### Vocabulary Lab
+### Content available
 
-The built-in catalog contains four collections, **English Vocabulary 1–4**, covering **362 units** across levels A1–C2. Units are loaded on demand rather than copied into browser storage.
+The bundled vocabulary and collocations catalog contains **422 units** across five volumes (English Vocabulary 1–4 and English Collocations 1). The grammar catalog contains **115 units** of English Grammar 1, with **12 writing, 8 speaking, and 8 listening exercises per unit** (3,220 grammar exercises).
 
-You can study through several activities:
-
-- **Learn:** explore meanings, examples, pronunciation, and usage notes.
-- **Listen:** practise recognizing spoken words and dictation.
-- **Pronunciation Lab:** listen, record, replay, and practise minimal pairs.
-- **Use & Recall:** retrieve words and expressions from prompts.
-- **Adaptive Review:** revisit items according to your previous performance.
-
-You can also import custom vocabulary packages in JSON format.
-
-### Grammar Lab
-
-The current pilot includes **10 lessons at B1–B2 level**, with **120 exercises** on tenses, articles, verb patterns, conditionals, modal verbs, relative clauses, passive voice, reported speech, and prepositions.
-
-Each lesson combines teaching material with practice: explanations, side-by-side comparisons, annotated examples, common mistakes, and study tips. Exercises support:
-
-- Multiple choice
-- Gap-fill
-- Error correction
-
-Answers are evaluated deterministically against the solutions specified in each exercise, including explicitly accepted alternatives. Review sessions can combine due exercises from different lessons. Grammar progress is tracked separately from vocabulary progress.
+The new book registry lists **20 volumes: 6 available and 14 planned**. Planned volumes are metadata entries **without exercises or placeholder units**. Public-facing book titles use platform names such as `English Grammar 1` and `English Collocations 1`. Existing source identifiers are retained internally as compatibility aliases.
 
 ## Getting started
 
-**Requirements:** a modern web browser and Python 3 for the local HTTP server. Node.js is needed only for development tasks such as tests and catalog generation.
-
-From the repository root, start the server:
-
-**Windows (PowerShell)**
+Use a local HTTP server; do not open pages with `file://`.
 
 ```powershell
 python -m http.server 8085 --bind 127.0.0.1
 ```
 
-**Linux / macOS**
+Open:
 
-```bash
-python3 -m http.server 8085 --bind 127.0.0.1
-```
-
-Then open:
-
-| Page | Local address |
+| Page | URL |
 | --- | --- |
 | Vocabulary Lab | http://127.0.0.1:8085/index.html |
 | Grammar Lab | http://127.0.0.1:8085/grammar.html |
-| Vocabulary package manager | http://127.0.0.1:8085/packages.html |
+| Pronunciation Lab | http://127.0.0.1:8085/pronunciation.html |
+| Content Packages | http://127.0.0.1:8085/packages.html |
 
-Use an HTTP server instead of opening files through `file://`: VocabLab loads JavaScript modules and JSON content using browser requests. Stop the server with `Ctrl+C`.
+The book registry is a **data/API foundation**, not yet an additional page or a guided study planner. Existing study screens continue to operate as before.
 
-## Content and JSON catalogs
+## Updating catalogs and validating books
 
-| Module | Content location | Generated catalog |
-| --- | --- | --- |
-| Vocabulary | `database/` | `database/manifest.json` |
-| Grammar | `grammar/units/` | `grammar/manifest.json` |
-
-Both catalogs support **on-demand loading**. When you add or change files, rebuild the corresponding catalog:
+Node.js is required for development commands, but not for browser study:
 
 ```bash
 npm run catalog
 node scripts/build-grammar-catalog.mjs
+npm run audit:books
+npm test
 ```
 
-The formats are intentionally separate:
+| Component | Source | Generated or curated data |
+| --- | --- | --- |
+| Vocabulary and collocations | `database/**/*.json` | `database/manifest.json` |
+| Grammar | `database/English_Grammar_N/*.json` | `database/grammar-manifest.json` |
+| Books | `curriculum/books.json` | Curated; do not regenerate from source titles |
+| Registry validation and browser loading | `js/curriculum/books.js` | Pure ESM module |
+| Cross-catalog audit | `scripts/audit-books.mjs` | Checks all current manifest units |
 
-- **Vocabulary:** `vocablab-content-package` (version 1), containing units with words, translations, examples, and optional audio metadata.
-- **Grammar:** `vocablab-grammar-unit` (version 1), containing explanations, optional teaching sections, exercises, accepted answers, and feedback.
-
-Existing files provide examples of both formats. To add personal vocabulary, open **Content Packages** to download a template, import a JSON file, review the entries, and publish selected units into your local library. Grammar content is currently added as lesson JSON files and registered by rebuilding its manifest.
-
-**Keep unit, item, and exercise IDs stable.** Changing an ID may disconnect previously saved progress from that content.
+See [Book registry contract](curriculum/README.md) for adding a future volume and preserving stable IDs.
 
 ## Progress and backups
 
-VocabLab uses browser `localStorage` to retain learning progress and preferences. Vocabulary and grammar have **separate progress records and backup/restore options**. The provided catalogs remain in JSON files rather than being installed wholesale into browser storage.
+Existing vocabulary, grammar, and pronunciation progress use separate local-storage keys and backups. **Version 1.4 does not migrate, merge, clear, or overwrite any existing progress.** Keep the application on the same browser origin (for example `127.0.0.1:8085`) and export your backups before resetting browser storage or moving machines.
 
-There is no account or cross-device synchronization. Browser data is specific to the site origin: for example, `localhost:8085` and `127.0.0.1:8085` do not share the same `localStorage`. Export a backup before clearing browser data or changing your setup.
+A content item's identity is defined by its existing ID; do not rename published units, exercises, items, or historical source `bookId` values. A public book title can change independently of those IDs.
 
 ## Project structure
 
 ```text
 VocabLab/
-├── index.html                   # Vocabulary Lab
-├── grammar.html                 # Grammar Lab
-├── packages.html                # Vocabulary package manager
-├── css/                         # Shared and module styles
-├── js/                          # Vocabulary and shared logic
-│   └── grammar/                  # Grammar engine, catalog, UI, progress
-├── database/                    # Vocabulary JSON files and manifest
-├── grammar/                     # Grammar lessons and manifest
-├── scripts/                     # Catalog generators
-└── tests/                       # Automated tests
+├── index.html, grammar.html, pronunciation.html, packages.html
+├── curriculum/
+│   ├── books.json             # Six available and fourteen planned volumes
+│   └── README.md
+├── css/
+├── js/
+│   ├── curriculum/books.js    # Book registry validation and browser loader
+│   ├── grammar/
+│   └── pronunciation/
+├── database/                  # All learning content: vocabulary, grammar, collocations
+│   ├── manifest.json          # Vocabulary and expressions manifest
+│   ├── grammar-manifest.json  # Grammar manifest
+│   └── English_Grammar_1/     # Published grammar units
+├── scripts/                   # Catalog generation and audits
+└── tests/                     # Unit and integration tests
 ```
 
-## Development and limitations
+## Limitations and content policy
 
-Run the existing automated tests with:
+The curriculum foundation provides a book registry but not yet learning paths, cross-book competencies, or a unified progress adapter. These will be separate, tested changes. Browser speech recognition is **not a reliable phonetic pronunciation grade**. Some features depend on the browser's audio support and installed voices.
 
-```bash
-npm test
-```
+Only distribute content and audio that you have the rights to share. The public book naming scheme is independent of any outside publisher or textbook series, and no endorsement or affiliation is implied.
 
-The application does not require a build step. Some features depend on browser support, especially speech synthesis, microphone recording, and speech recognition. **Speech recognition is not a validated phonetic assessment**, and Grammar Lab does not automatically judge arbitrary free-form answers beyond its defined accepted solutions. Browser interactions still benefit from manual testing.
+### Unified content directory (1.4.1)
 
-## Contributing
-
-Contributions to code, accessibility, testing, documentation, and **original learning content** are welcome. Keep changes lightweight, write code and documentation in English, preserve stable content IDs, and contribute only material you have the right to share.
+All learning materials now live under `database/`, including `database/English_Grammar_1/eg1-uNNN.json`.
+The vocabulary and grammar manifests remain independent **formats** to preserve compatibility with their exercise engines, but both are now in the same directory: `database/manifest.json` and `database/grammar-manifest.json`.
+The Grammar Lab JavaScript code is still in `js/grammar/`; that is application logic, not a second content database.
+To regenerate both catalogs, run `npm run catalog:all`. No exercise IDs or browser-progress storage keys have changed.
+**In-place updates:** an old `grammar/` directory may remain after extracting over an older installation. It is ignored by catalog generation and reading, and no longer causes a test failure. You may remove it later only after verifying the new database and backing up any unique files. Do not remove `js/grammar/`, which contains application code.

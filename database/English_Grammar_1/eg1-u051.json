@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u051",
+  "title": "Verb Forms: Base, To + Infinitive and -ing",
+  "level": "A2",
+  "topicId": "verb-forms-base-to-ing",
+  "summary": "Choose the base form, to + infinitive, or -ing after common helping verbs and expressions. Use the right form in questions, plans and continuous tenses.",
+  "learningObjectives": [
+    "Use the base verb after modal verbs such as can, might, should and must.",
+    "Use the base verb after do, does and did in questions and negatives.",
+    "Use to + base verb after expressions such as want, have, would like and going.",
+    "Use the -ing form with be to describe ongoing actions."
+  ],
+  "explanation": [
+    {
+      "heading": "Use the base verb after modals",
+      "body": "After can, could, will, would, may, might, must, should and shall, use the basic verb form without to. The modal carries the meaning of ability, possibility, advice or obligation; the next verb does not take -s or -ing.",
+      "example": "We might visit the market after lunch."
+    },
+    {
+      "heading": "Use the base verb after do, does and did",
+      "body": "When do, does or did helps form a question or negative, the next main verb is in its base form. Does and did already show the tense or agreement, so do not add -s or a past ending to the main verb.",
+      "example": "Did your sister arrive before noon?"
+    },
+    {
+      "heading": "Use to + infinitive after certain expressions",
+      "body": "Expressions such as want to, need to, have to, would like to, used to and be going to are followed by the base verb. Keep to immediately before the next verb.",
+      "example": "I would like to borrow that novel."
+    },
+    {
+      "heading": "Use -ing with be for actions in progress",
+      "body": "For the present continuous, put am, is or are before the -ing form. For the past continuous, put was or were before the -ing form. The form of be gives the time; -ing shows an action in progress.",
+      "example": "The children were drawing when I came home."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A modal versus an expression with to",
+      "left": {
+        "label": "Modal + base verb",
+        "example": "Rita can carry the box.",
+        "note": "Can goes directly before carry: no to."
+      },
+      "right": {
+        "label": "Need + to + base verb",
+        "example": "Rita needs to carry the box.",
+        "note": "Needs is followed by to carry."
+      }
+    },
+    {
+      "title": "Simple question versus continuous action",
+      "left": {
+        "label": "Did + base verb",
+        "example": "Did Sam cook dinner yesterday?",
+        "note": "The question uses did followed by cook."
+      },
+      "right": {
+        "label": "Was + -ing",
+        "example": "Sam was cooking dinner at six.",
+        "note": "Was cooking describes an action in progress at that time."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "You should check the address before leaving.",
+      "note": "Should is followed by the base verb check."
+    },
+    {
+      "sentence": "Does your cousin speak French?",
+      "note": "Does takes the present-simple ending, leaving speak in its base form."
+    },
+    {
+      "sentence": "They are going to paint the bedroom next week.",
+      "note": "Be going to is followed by the base verb paint."
+    },
+    {
+      "sentence": "I have to return the book today.",
+      "note": "Have to introduces an action that is necessary."
+    },
+    {
+      "sentence": "We were making sandwiches when the doorbell rang.",
+      "note": "Were is followed by the -ing form making."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "He can sings very well.",
+      "correct": "He can sing very well.",
+      "why": "After can, use sing without an -s ending."
+    },
+    {
+      "incorrect": "Did they went to the beach?",
+      "correct": "Did they go to the beach?",
+      "why": "Did already marks the past; use the base verb go."
+    },
+    {
+      "incorrect": "I would like meet your friends.",
+      "correct": "I would like to meet your friends.",
+      "why": "Would like is followed by to + base verb."
+    },
+    {
+      "incorrect": "She is cook dinner.",
+      "correct": "She is cooking dinner.",
+      "why": "The present continuous uses is + -ing."
+    }
+  ],
+  "studyTips": [
+    "Look at the word just before the main verb: a modal or do/does/did usually means the base form.",
+    "Notice the entire expression when choosing to: want to, have to, would like to and going to.",
+    "For a continuous action, check for a form of be and then add -ing to the action verb."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct form: She can ___ the recipe.",
+      "choices": [
+        "read",
+        "to read",
+        "reading"
+      ],
+      "answerIndex": 0,
+      "feedback": "Can takes the base form read, without to or -ing."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct form: The children are ___ in the garden right now.",
+      "choices": [
+        "play",
+        "playing",
+        "to play"
+      ],
+      "answerIndex": 1,
+      "feedback": "Are + playing is the present continuous for an action happening now."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct form: I have ___ my aunt after work.",
+      "choices": [
+        "call",
+        "calling",
+        "to call"
+      ],
+      "answerIndex": 2,
+      "feedback": "Have to is followed by the base verb call."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct form: Did you ___ the bus this morning?",
+      "choices": [
+        "catch",
+        "caught",
+        "catching"
+      ],
+      "answerIndex": 0,
+      "feedback": "After did, use the base verb catch, not its past form caught."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with the correct form of stay: We might ___ at home this evening.",
+      "acceptedAnswers": [
+        "stay"
+      ],
+      "feedback": "Might is a modal, so it takes the base form stay."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with the correct form of cook: My brother is ___ dinner now.",
+      "acceptedAnswers": [
+        "cooking"
+      ],
+      "feedback": "Is cooking is present continuous, describing an action in progress."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with the correct form of visit: They would like ___ the museum on Saturday.",
+      "acceptedAnswers": [
+        "to visit"
+      ],
+      "feedback": "Would like takes to + base verb: to visit."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the correct form of do: What were you ___ at six yesterday evening?",
+      "acceptedAnswers": [
+        "doing"
+      ],
+      "feedback": "Were doing is past continuous: were + -ing."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the verb form without changing the meaning: He doesn’t likes tea.",
+      "acceptedAnswers": [
+        "He doesn’t like tea.",
+        "He does not like tea."
+      ],
+      "feedback": "The main verb after doesn’t / does not must be the base form like."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the verb form without changing the meaning: I must to leave soon.",
+      "acceptedAnswers": [
+        "I must leave soon."
+      ],
+      "feedback": "Must is a modal, so leave follows it without to."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the verb form without changing the meaning: We are watch a film now.",
+      "acceptedAnswers": [
+        "We are watching a film now."
+      ],
+      "feedback": "Are + watching forms the present continuous."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the verb form without changing the meaning: She wants buy a new bag.",
+      "acceptedAnswers": [
+        "She wants to buy a new bag."
+      ],
+      "feedback": "Want is followed by to + base verb when another action follows it."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say a complete sentence using the correct form of ride: “I can ___ a bicycle.”",
+      "acceptedAnswers": [
+        "I can ride a bicycle."
+      ],
+      "feedback": "Can is followed by the base form ride."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Change “They cook lunch.” into a sentence about what is happening now. Add “now”.",
+      "acceptedAnswers": [
+        "They are cooking lunch now.",
+        "They're cooking lunch now."
+      ],
+      "feedback": "Use are + cooking for the present continuous."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Use would like to complete and say this whole sentence: “I ___ the new library.” Use the verb visit.",
+      "acceptedAnswers": [
+        "I would like to visit the new library.",
+        "I'd like to visit the new library."
+      ],
+      "feedback": "Would like is followed by to visit; the contraction I’d is also natural."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Your friend's train leaves soon. Give advice about checking the departure time. Begin with 'You should' and use 'check the departure time now'. Say the full sentence.",
+      "acceptedAnswers": [
+        "You should check the departure time now."
+      ],
+      "feedback": "After the modal should, use the base verb check, without to or -ing."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Correct this past-simple question without changing its meaning: 'Did Nia visited her grandmother yesterday?' Say the full correct question.",
+      "acceptedAnswers": [
+        "Did Nia visit her grandmother yesterday?"
+      ],
+      "feedback": "Did already indicates past time, so the main verb must be the base form visit."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks what Leo is doing right now. Leo is carrying two bags. Answer using 'He is' (or 'He's') and the verb carry. Say one complete sentence.",
+      "acceptedAnswers": [
+        "He is carrying two bags.",
+        "He's carrying two bags."
+      ],
+      "feedback": "An action happening now takes is + the -ing form: is carrying."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this sentence but keep its meaning: 'We must to lock the front door at night.' Say the full correct sentence.",
+      "acceptedAnswers": [
+        "We must lock the front door at night."
+      ],
+      "feedback": "Must is a modal and takes the base verb lock directly, without to."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Tell a friend about this exact plan: repair your bicycle on Saturday. Begin with 'I am going to' (or 'I'm going to') and say one full sentence.",
+      "acceptedAnswers": [
+        "I am going to repair my bicycle on Saturday.",
+        "I'm going to repair my bicycle on Saturday."
+      ],
+      "feedback": "A plan can use am going to + base verb: am going to repair."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We were waiting at the bus stop when it began to rain.",
+      "prompt": "Which form of the verb follows were?",
+      "choices": [
+        "wait",
+        "waiting",
+        "to wait"
+      ],
+      "answerIndex": 1,
+      "feedback": "Were waiting is past continuous and uses the -ing form."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "You should drink some water before you leave.",
+      "prompt": "Which form of the verb follows should?",
+      "choices": [
+        "to drink",
+        "drinking",
+        "drink"
+      ],
+      "answerIndex": 2,
+      "feedback": "Should takes the base form drink without to."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I need to buy some bread this afternoon.",
+      "prompt": "Type the two-word verb expression you hear immediately after need.",
+      "acceptedAnswers": [
+        "to buy"
+      ],
+      "feedback": "Need takes to + base verb, so the speaker says to buy."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The road is icy, so you should drive slowly on your way home.",
+      "prompt": "What is the speaker doing?",
+      "choices": [
+        "Describing a journey that has finished.",
+        "Giving safety advice about a journey.",
+        "Offering to take someone home."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker recommends driving carefully because the road is icy. Should + base verb expresses advice."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Tessa is packing her suitcase now because she is going to visit her sister tomorrow.",
+      "prompt": "What is Tessa doing at the moment?",
+      "choices": [
+        "Buying new luggage.",
+        "Spending the day with her sister.",
+        "Getting ready for a trip."
+      ],
+      "answerIndex": 2,
+      "feedback": "Packing now is preparation for tomorrow’s visit. Is packing describes the current action and is going to visit describes the plan."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Did you send the forms yesterday, or are you sending them now?",
+      "prompt": "What is the speaker trying to find out?",
+      "choices": [
+        "Whether the action happened earlier or is happening now.",
+        "Whether there are two different forms to complete.",
+        "Whether the listener needs permission to send them."
+      ],
+      "answerIndex": 0,
+      "feedback": "Did you send asks about yesterday; are you sending asks about an action in progress now."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "I might stay with my cousin this weekend because school is closed.",
+      "prompt": "Type the modal and main verb that express a possible action.",
+      "acceptedAnswers": [
+        "might stay"
+      ],
+      "feedback": "Might stay expresses possibility. The verb stay is in its base form after might."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Our neighbours are going to plant a tree near the gate.",
+      "prompt": "Type the three-word expression after the form of be that describes the planned action.",
+      "acceptedAnswers": [
+        "going to plant"
+      ],
+      "feedback": "Going to plant follows are and expresses a plan; plant remains in its base form."
+    }
+  ]
+}

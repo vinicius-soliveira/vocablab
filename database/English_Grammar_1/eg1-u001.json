@@ -1,0 +1,413 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u001",
+  "title": "Be: Statements and Negatives",
+  "level": "A1",
+  "topicId": "be-present-statements",
+  "summary": "Use am, is and are to talk about people, things and places now. Make positive and negative sentences, and use common short forms naturally.",
+  "learningObjectives": [
+    "Choose am, is or are to match the subject of a present-tense statement.",
+    "Describe identity, age, feelings, location and simple characteristics with be.",
+    "Form negatives with not and recognise standard positive and negative contractions.",
+    "Understand the short forms that’s, here’s and there’s in simple statements."
+  ],
+  "explanation": [
+    {
+      "heading": "Choose am, is or are",
+      "body": "Use am with I, is with he, she, it or one person or thing, and are with we, you, they or plural nouns. In a statement, put the subject before am, is or are. The verb be is needed even when the sentence has no action verb.",
+      "example": "The two shops are near the station."
+    },
+    {
+      "heading": "Describe people, things and places",
+      "body": "Use be before a name or job, an adjective, an age, or a phrase giving a location. These statements can tell us who someone is, how someone feels, what something is like or where something is.",
+      "example": "My younger brother is eleven years old."
+    },
+    {
+      "heading": "Make a negative statement",
+      "body": "Put not immediately after am, is or are: am not, is not and are not. Do not use do or does to make these sentences negative. Choose the same form of be as in the positive sentence.",
+      "example": "Our classroom is not noisy today."
+    },
+    {
+      "heading": "Use everyday contractions",
+      "body": "In ordinary conversation, I am becomes I’m, she is becomes she’s, and they are becomes they’re. For negatives, use I’m not; she isn’t or she’s not; and we aren’t or we’re not. There is no usual contraction amn’t in standard English. The full forms are also correct.",
+      "example": "They’re not tired after the walk."
+    },
+    {
+      "heading": "Recognise three other short forms",
+      "body": "That’s means that is, here’s means here is, and there’s means there is. Use these short forms with the same meaning as their full forms. Here’s often introduces something you give or show to someone; there’s can point out something or someone.",
+      "example": "Here’s the note for your neighbour."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "One person or more than one",
+      "left": {
+        "label": "Singular",
+        "example": "The window is open.",
+        "note": "Use is because the subject names one window."
+      },
+      "right": {
+        "label": "Plural",
+        "example": "The windows are open.",
+        "note": "Use are because the subject names more than one window."
+      }
+    },
+    {
+      "title": "Positive and negative be",
+      "left": {
+        "label": "Positive",
+        "example": "Rosa is ready for lunch.",
+        "note": "Is states that Rosa is ready."
+      },
+      "right": {
+        "label": "Negative",
+        "example": "Rosa isn’t ready for lunch.",
+        "note": "Isn’t means is not and changes the statement to negative."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I’m early for the film.",
+      "note": "I’m is the short form of I am."
+    },
+    {
+      "sentence": "My uncle is a baker.",
+      "note": "Is connects a singular subject to a job."
+    },
+    {
+      "sentence": "These strawberries are sweet.",
+      "note": "Use are with a plural noun."
+    },
+    {
+      "sentence": "The swimming pool isn’t open on Tuesdays.",
+      "note": "Isn’t means is not and describes a negative situation."
+    },
+    {
+      "sentence": "That’s our new table.",
+      "note": "That’s is a contraction of that is."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I is ready for the lesson.",
+      "correct": "I am ready for the lesson.",
+      "why": "Always use am with I."
+    },
+    {
+      "incorrect": "The apples is fresh.",
+      "correct": "The apples are fresh.",
+      "why": "A plural subject takes are."
+    },
+    {
+      "incorrect": "My cousin not at home.",
+      "correct": "My cousin is not at home.",
+      "why": "A negative statement with be still needs am, is or are before not."
+    },
+    {
+      "incorrect": "She aren’t my neighbour.",
+      "correct": "She isn’t my neighbour.",
+      "why": "Use is not or isn’t with she, not are not or aren’t."
+    }
+  ],
+  "studyTips": [
+    "Find the subject first: I → am; one person or thing → is; we, you, they or plural subjects → are.",
+    "Practise one positive and one negative sentence about the same situation; only the be + not part should change.",
+    "Learn contractions together with full forms: she is / she’s; she is not / she isn’t / she’s not."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "My new shoes ___ under the bed.",
+      "choices": [
+        "are",
+        "is",
+        "am"
+      ],
+      "answerIndex": 0,
+      "feedback": "Shoes is plural, so the correct form is are."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "I ___ free after lunch.",
+      "choices": [
+        "is",
+        "am",
+        "are"
+      ],
+      "answerIndex": 1,
+      "feedback": "Use am with I, even when talking about a future time such as after lunch."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Oliver ___ not in the office today.",
+      "choices": [
+        "are",
+        "am",
+        "is"
+      ],
+      "answerIndex": 2,
+      "feedback": "Oliver refers to one person; is not makes the negative statement."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The bus ___ here yet.",
+      "choices": [
+        "isn't",
+        "aren't",
+        "am not"
+      ],
+      "answerIndex": 0,
+      "feedback": "The bus is singular, so use is not or its short form isn’t."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "My grandparents ___ at the station. (Choose am, is or are.)",
+      "acceptedAnswers": [
+        "are"
+      ],
+      "feedback": "Grandparents is plural, so use are."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "I ___ not hungry yet. (Choose am, is or are.)",
+      "acceptedAnswers": [
+        "am"
+      ],
+      "feedback": "The negative form with I is I am not."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "This soup ___ hot. (Choose am, is or are.)",
+      "acceptedAnswers": [
+        "is"
+      ],
+      "feedback": "This soup is a singular subject and takes is."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the contraction of “they are”: ___ very helpful.",
+      "acceptedAnswers": [
+        "They're"
+      ],
+      "feedback": "They’re is the short form of they are."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I are new here.",
+      "acceptedAnswers": [
+        "I am new here."
+      ],
+      "feedback": "With I, use am rather than are."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The bananas is ripe.",
+      "acceptedAnswers": [
+        "The bananas are ripe."
+      ],
+      "feedback": "Bananas is plural; replace is with are."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Her bag not heavy.",
+      "acceptedAnswers": [
+        "Her bag is not heavy.",
+        "Her bag isn't heavy.",
+        "Her bag's not heavy."
+      ],
+      "feedback": "Put is before not, or use isn’t / ’s not with the singular subject her bag."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She aren’t at the café.",
+      "acceptedAnswers": [
+        "She isn't at the café.",
+        "She is not at the café.",
+        "She’s not at the café."
+      ],
+      "feedback": "Use is not, isn’t or ’s not with she."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one positive sentence using: I / at the bus stop / now.",
+      "acceptedAnswers": [
+        "I am at the bus stop now.",
+        "I’m at the bus stop now."
+      ],
+      "feedback": "Use I am or I’m before at the bus stop."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say one negative sentence using: my sisters / not / at school / today.",
+      "acceptedAnswers": [
+        "My sisters are not at school today.",
+        "My sisters aren’t at school today."
+      ],
+      "feedback": "My sisters is plural, so use are not or aren’t."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Use a contraction of “that is” to say: that / a good plan.",
+      "acceptedAnswers": [
+        "That’s a good plan."
+      ],
+      "feedback": "That’s is the contraction of that is."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Say a positive sentence using these cues in this order: the library / busy / this evening. Add the correct form of be.",
+      "acceptedAnswers": [
+        "The library is busy this evening.",
+        "The library's busy this evening."
+      ],
+      "feedback": "Library is singular, so use is. The contraction library's is also natural."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change 'Our tickets are valid.' into a negative statement. Keep all the other words unchanged.",
+      "acceptedAnswers": [
+        "Our tickets are not valid.",
+        "Our tickets aren't valid."
+      ],
+      "feedback": "Tickets is plural, so make the negative with are not or aren't."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A colleague says, 'The delivery is late.' Correct them: it is early. Use one short clause beginning 'No, the delivery', with be before 'early'.",
+      "acceptedAnswers": [
+        "No, the delivery is early.",
+        "No, the delivery's early."
+      ],
+      "feedback": "Use is with the singular noun delivery. Delivery's is a natural contraction of delivery is."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "For several gates, correct 'The gates is closed.' Change only the form of be.",
+      "acceptedAnswers": [
+        "The gates are closed."
+      ],
+      "feedback": "Gates is plural, so the correct form is are, not is."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You hand a customer a ticket. Change 'Here is your ticket.' to the short form of 'here is', without changing any other words.",
+      "acceptedAnswers": [
+        "Here's your ticket."
+      ],
+      "feedback": "Here's is the natural contraction of here is when giving someone something."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "My keys are in the blue bag.",
+      "prompt": "Where are the speaker’s keys?",
+      "choices": [
+        "On the shelf",
+        "In the blue bag",
+        "In the car"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker says the keys are in the blue bag; keys is plural, so are is used."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Evan isn't at the shop. He's at home.",
+      "prompt": "Where is Evan now?",
+      "choices": [
+        "At the shop",
+        "At school",
+        "At home"
+      ],
+      "answerIndex": 2,
+      "feedback": "Isn’t excludes the shop; he’s means he is, and the second sentence gives the location."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I am not cold today.",
+      "prompt": "Type the two words immediately after “I” in the audio.",
+      "acceptedAnswers": [
+        "am not"
+      ],
+      "feedback": "Am not makes a negative statement with I."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The café isn't empty this morning. Several customers are inside.",
+      "prompt": "What is true about the café this morning?",
+      "choices": [
+        "People are there.",
+        "Nobody has come in.",
+        "It is closed to customers."
+      ],
+      "answerIndex": 0,
+      "feedback": "Isn't empty and several customers are inside tell us that people are in the café."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The painters are upstairs, but their manager is near the front door.",
+      "prompt": "Who is closest to the entrance?",
+      "choices": [
+        "The painters",
+        "The manager",
+        "Everyone is equally close"
+      ],
+      "answerIndex": 1,
+      "feedback": "The manager is near the front door, while the painters are upstairs."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "My phone isn't new, but its battery is excellent.",
+      "prompt": "Which description matches the phone?",
+      "choices": [
+        "It's brand-new but has a weak battery.",
+        "It's new and has a strong battery.",
+        "It's not new, but its battery works very well."
+      ],
+      "answerIndex": 2,
+      "feedback": "Isn't new is negative, but the battery is excellent is positive."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The blue jacket isn't in the wardrobe today.",
+      "prompt": "Type the negative form of be immediately after 'The blue jacket'.",
+      "acceptedAnswers": [
+        "isn't"
+      ],
+      "feedback": "The speaker says isn't, the contraction of is not, with the singular subject jacket."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Here's your change from the market, and there's your receipt.",
+      "prompt": "Type the contraction immediately before 'your receipt'.",
+      "acceptedAnswers": [
+        "there's"
+      ],
+      "feedback": "There's is the spoken short form of there is."
+    }
+  ]
+}

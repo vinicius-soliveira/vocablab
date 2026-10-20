@@ -1,0 +1,419 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u037",
+  "title": "There Is and There Are: What Exists",
+  "level": "A1",
+  "topicId": "there-is-are-present",
+  "summary": "Use there is and there are to say that people or things exist in a place or situation. Ask questions, make negatives and distinguish there is from it is.",
+  "learningObjectives": [
+    "Say that one thing or an uncountable amount exists using there is.",
+    "Use there are to introduce two or more people or things.",
+    "Make negative sentences, questions and short answers with there is and there are.",
+    "Use it is to describe a particular thing after introducing it with there is."
+  ],
+  "explanation": [
+    {
+      "heading": "Singular and uncountable: there is",
+      "body": "Use there is before a singular countable noun or something uncountable, such as water or time. There’s is the common short form of there is. Use a or an with a new singular countable noun when appropriate.",
+      "example": "There’s a little shop beside the bridge."
+    },
+    {
+      "heading": "Plural: there are",
+      "body": "Use there are when the noun is plural. The form depends on the number of things, not on the location. There are is normally written in full in simple learning sentences.",
+      "example": "There are three clean towels in the bathroom."
+    },
+    {
+      "heading": "Saying something is absent",
+      "body": "Use there isn’t or there is not with singular or uncountable nouns. Use there aren’t or there are not with plural nouns. Any is common in negative sentences when the number or amount is not specified.",
+      "example": "There aren’t any empty seats on this train."
+    },
+    {
+      "heading": "Questions and short answers",
+      "body": "Put is or are before there to ask whether something exists: Is there ...? or Are there ...? Reply Yes, there is / No, there isn’t for singular or uncountable nouns, and Yes, there are / No, there aren’t for plurals. Use How many + plural noun + are there ...? when asking for a number.",
+      "example": "Are there any lockers at the swimming pool? Yes, there are."
+    },
+    {
+      "heading": "There is introduces; it is describes",
+      "body": "There is introduces a person, object or situation. It is (it’s) refers to a particular thing already known or mentioned. Do not use it is simply to introduce something new in a place.",
+      "example": "There’s a café near the station. It’s open until eight."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "One or several?",
+      "left": {
+        "label": "Singular",
+        "example": "There is one chair by the door.",
+        "note": "Use is because chair is singular."
+      },
+      "right": {
+        "label": "Plural",
+        "example": "There are four chairs by the door.",
+        "note": "Use are because chairs is plural."
+      }
+    },
+    {
+      "title": "Introducing and describing",
+      "left": {
+        "label": "Introduce something",
+        "example": "There’s a new bakery on Hill Street.",
+        "note": "There is tells us that the bakery exists."
+      },
+      "right": {
+        "label": "Describe the known thing",
+        "example": "It’s open in the morning.",
+        "note": "It refers back to the bakery."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "There is some cold water in the fridge.",
+      "note": "Use is with uncountable water."
+    },
+    {
+      "sentence": "There are two umbrellas beside the front door.",
+      "note": "Use are with two umbrellas."
+    },
+    {
+      "sentence": "There isn’t a post office in our village.",
+      "note": "There isn’t says a singular place does not exist there."
+    },
+    {
+      "sentence": "Is there any milk left? No, there isn’t.",
+      "note": "Use is there and a matching negative short answer for milk."
+    },
+    {
+      "sentence": "There’s a bicycle outside. It’s blue.",
+      "note": "There introduces the bicycle; it describes it."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "There are a lamp next to the sofa.",
+      "correct": "There is a lamp next to the sofa.",
+      "why": "Lamp is singular, so use there is."
+    },
+    {
+      "incorrect": "There is six apples in the bowl.",
+      "correct": "There are six apples in the bowl.",
+      "why": "Six apples is plural, so use there are."
+    },
+    {
+      "incorrect": "Is there any shops nearby?",
+      "correct": "Are there any shops nearby?",
+      "why": "Shops is plural, so the question begins Are there."
+    },
+    {
+      "incorrect": "There is a park near us. There is very quiet.",
+      "correct": "There is a park near us. It is very quiet.",
+      "why": "After introducing the park, use it to describe that park."
+    }
+  ],
+  "studyTips": [
+    "First find the noun after there: one thing normally needs is; several things need are.",
+    "Turn a statement into a question by moving is or are before there.",
+    "When a sentence describes a thing already mentioned, check whether it or it’s is better than there."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "You are describing a room with one mirror. “___ a mirror above the sink.”",
+      "choices": [
+        "There is",
+        "There are",
+        "Is there"
+      ],
+      "answerIndex": 0,
+      "feedback": "Use there is to introduce one mirror."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence about several objects: “___ four clean cups in the cupboard.”",
+      "choices": [
+        "There's",
+        "There are",
+        "There is"
+      ],
+      "answerIndex": 1,
+      "feedback": "Four cups is plural, so use there are."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Ask whether a single bus stop exists near a friend’s home: “___ a bus stop near your house?”",
+      "choices": [
+        "There are",
+        "There is",
+        "Is there"
+      ],
+      "answerIndex": 2,
+      "feedback": "Use Is there to ask about one bus stop."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The hall has no chairs. “There ___ any chairs in the hall.”",
+      "choices": [
+        "aren't",
+        "isn't",
+        "is"
+      ],
+      "answerIndex": 0,
+      "feedback": "Chairs is plural; the negative form is there aren’t."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete using the two full words there is: “___ a small bakery next to the station.”",
+      "acceptedAnswers": [
+        "There is"
+      ],
+      "feedback": "The singular bakery takes there is."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete using there and the correct form of be: “___ three bicycles outside the library.”",
+      "acceptedAnswers": [
+        "There are"
+      ],
+      "feedback": "Three bicycles is plural, so use there are."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete the negative statement using there and be: “___ any free tables in the café.”",
+      "acceptedAnswers": [
+        "There aren't",
+        "There are not"
+      ],
+      "feedback": "Free tables is plural; there aren’t any means none are available."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the question with two words: “___ any new messages for me?”",
+      "acceptedAnswers": [
+        "Are there"
+      ],
+      "feedback": "A plural question begins Are there."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: There are a small park behind the library.",
+      "acceptedAnswers": [
+        "There is a small park behind the library.",
+        "There's a small park behind the library."
+      ],
+      "feedback": "A small park is singular, so use there is or there’s."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: There isn't any empty seats on the bus.",
+      "acceptedAnswers": [
+        "There aren't any empty seats on the bus.",
+        "There are not any empty seats on the bus."
+      ],
+      "feedback": "Use aren’t or are not because seats is plural."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Is there any shops on this street?",
+      "acceptedAnswers": [
+        "Are there any shops on this street?"
+      ],
+      "feedback": "The plural noun shops requires Are there in the question."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: There is a new library near my home. There is open until six.",
+      "acceptedAnswers": [
+        "There is a new library near my home. It is open until six.",
+        "There's a new library near my home. It's open until six.",
+        "There is a new library near my home. It's open until six.",
+        "There's a new library near my home. It is open until six."
+      ],
+      "feedback": "The second sentence describes the library already introduced, so use it is or it’s."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "There is one large mirror on the wall. Describe it, beginning “There is”.",
+      "acceptedAnswers": [
+        "There is a large mirror on the wall.",
+        "There's a large mirror on the wall."
+      ],
+      "feedback": "There is introduces one mirror; there’s is also acceptable."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Three benches stand beside the fountain. Say a sentence beginning “There are”.",
+      "acceptedAnswers": [
+        "There are three benches beside the fountain."
+      ],
+      "feedback": "There are introduces a plural noun phrase."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Ask whether a pharmacy exists near here. Start with “Is there”.",
+      "acceptedAnswers": [
+        "Is there a pharmacy near here?"
+      ],
+      "feedback": "Is there asks whether one pharmacy is nearby."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A jar contains some honey. Say what is in the jar in one sentence, using 'there is' and 'some honey'.",
+      "acceptedAnswers": [
+        "There is some honey in the jar.",
+        "There's some honey in the jar."
+      ],
+      "feedback": "Use there is before uncountable honey. There's is a natural short form."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this sentence into a negative statement about the same place: 'There are some spare keys in the drawer.' Use 'aren't any' or 'are not any'.",
+      "acceptedAnswers": [
+        "There aren't any spare keys in the drawer.",
+        "There are not any spare keys in the drawer."
+      ],
+      "feedback": "There aren't any expresses the absence of plural spare keys."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A visitor asks, 'Is there a lift in this building?' There is no lift. Give only a complete negative short answer.",
+      "acceptedAnswers": [
+        "No, there isn't.",
+        "No, there is not."
+      ],
+      "feedback": "For a singular question starting Is there, the matching negative short answer is No, there isn't."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A hallway contains a painting. Tell a visitor two facts in two short sentences: introduce 'a painting in the hallway' with there is, then describe that same painting as colourful with it is.",
+      "acceptedAnswers": [
+        "There is a painting in the hallway. It is colourful.",
+        "There is a painting in the hallway. It's colourful.",
+        "There's a painting in the hallway. It is colourful.",
+        "There's a painting in the hallway. It's colourful."
+      ],
+      "feedback": "There is introduces the painting; it is describes the painting already mentioned."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Tell a friend two facts about the meeting room in exactly two sentences: it contains two tables, and it has no chairs. Use there are and there aren't any, or there are not any. Mention the meeting room in both sentences.",
+      "acceptedAnswers": [
+        "There are two tables in the meeting room. There aren't any chairs in the meeting room.",
+        "There are two tables in the meeting room. There are not any chairs in the meeting room."
+      ],
+      "feedback": "There are introduces a plural quantity, while there aren't any says that no chairs are present."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "There's a lift next to the stairs.",
+      "prompt": "What does the speaker say exists next to the stairs?",
+      "choices": [
+        "One lift",
+        "Two lifts",
+        "No lift"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker mentions a single lift."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "There aren't any clean glasses in the cupboard.",
+      "prompt": "What does the speaker say about the clean glasses?",
+      "choices": [
+        "There is one clean glass.",
+        "There are several clean glasses.",
+        "There are no clean glasses."
+      ],
+      "answerIndex": 2,
+      "feedback": "There aren’t any means that none are there."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Are there any tickets left for the evening show?",
+      "prompt": "Type the first two words of the question you hear.",
+      "acceptedAnswers": [
+        "Are there"
+      ],
+      "feedback": "Are there begins a question about plural tickets."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "There's some orange juice in the jug, so we can have a drink now.",
+      "prompt": "What does this tell you about having a drink?",
+      "choices": [
+        "They need to buy drinks first.",
+        "A drink is already available.",
+        "There is nothing to drink."
+      ],
+      "answerIndex": 1,
+      "feedback": "There's some juice means a drink is already available."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "There are four red bags beside the desk, but one blue bag is underneath it.",
+      "prompt": "How many bags are below the desk?",
+      "choices": [
+        "Five",
+        "Four",
+        "One"
+      ],
+      "answerIndex": 2,
+      "feedback": "Only the single blue bag is underneath the desk; the other four are beside it."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "There's a small museum on this street. It's closed on Mondays.",
+      "prompt": "Which statement is true about the place?",
+      "choices": [
+        "It no longer exists.",
+        "It welcomes visitors every day.",
+        "It exists here but does not open on Mondays."
+      ],
+      "answerIndex": 2,
+      "feedback": "There is introduces the museum, and it refers back to that museum when describing its opening days."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "There isn't any bread left in the kitchen this morning.",
+      "prompt": "Type the negative expression immediately before 'any bread'.",
+      "acceptedAnswers": [
+        "There isn't",
+        "There is not"
+      ],
+      "feedback": "There isn't is the negative form for uncountable bread."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Is there a quiet place to study in this building?",
+      "prompt": "Type the first two words of the question you hear.",
+      "acceptedAnswers": [
+        "Is there"
+      ],
+      "feedback": "Is there begins a question about one possible place."
+    }
+  ]
+}

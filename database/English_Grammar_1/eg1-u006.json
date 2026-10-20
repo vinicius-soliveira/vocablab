@@ -1,0 +1,424 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u006",
+  "title": "Present Simple: Negatives",
+  "level": "A1",
+  "topicId": "present-simple-negatives",
+  "summary": "Say what people do not do and what is not true in the present simple. Choose don’t or doesn’t and keep the next verb in its base form.",
+  "learningObjectives": [
+    "Form present simple negatives using do not or don’t with I, we, you and they.",
+    "Form present simple negatives using does not or doesn’t with he, she, it and singular nouns.",
+    "Use the base verb after don’t and doesn’t, including do and have.",
+    "Put frequency words such as usually in a natural position in negative statements."
+  ],
+  "explanation": [
+    {
+      "heading": "Use don’t or doesn’t to make negatives",
+      "body": "To say that a usual action or a general fact is not true, use do not (don’t) or does not (doesn’t) before the main verb. The pattern is subject + don’t/doesn’t + base verb. Choose the helper according to the subject.",
+      "example": "The café doesn’t serve breakfast."
+    },
+    {
+      "heading": "Choose don’t for I, we, you and they",
+      "body": "Use don’t (do not) with I, we, you, they and plural nouns. The verb after don’t stays in its base form, even when you mention a habit or a general fact.",
+      "example": "Our neighbours don’t own a car."
+    },
+    {
+      "heading": "Choose doesn’t for he, she and it",
+      "body": "Use doesn’t (does not) with he, she, it and singular nouns. Don’t add an -s or -es ending to the main verb after doesn’t: she doesn’t work, not she doesn’t works. The -s idea is already carried by does.",
+      "example": "My uncle doesn’t drive to work."
+    },
+    {
+      "heading": "Keep do and have as base verbs",
+      "body": "Do and have work like other main verbs in negative sentences. Say doesn’t do and doesn’t have, not doesn’t does or doesn’t has. An auxiliary do/does is needed even when the main verb itself is do.",
+      "example": "Nina doesn’t have a bicycle, and she doesn’t use the bus."
+    },
+    {
+      "heading": "Use frequency words and separate be negatives",
+      "body": "Frequency words can help describe habits in negatives: I don’t often cook, and he doesn’t usually eat early. The verb be is different: use am not, isn’t or aren’t with be rather than don’t or doesn’t.",
+      "example": "They don’t usually visit the park in winter."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Choose the negative helper",
+      "left": {
+        "label": "I / we / you / they",
+        "example": "We don’t drink fizzy drinks.",
+        "note": "Use don’t with a plural subject; drink is the base verb."
+      },
+      "right": {
+        "label": "He / she / it",
+        "example": "She doesn’t drink fizzy drinks.",
+        "note": "Use doesn’t with she; drink still has no -s."
+      }
+    },
+    {
+      "title": "Positive and negative present simple",
+      "left": {
+        "label": "Positive",
+        "example": "The printer works every day.",
+        "note": "A singular subject takes works in a positive sentence."
+      },
+      "right": {
+        "label": "Negative",
+        "example": "The printer doesn’t work every day.",
+        "note": "Doesn’t is followed by the base form work."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I don’t know the answer to that question.",
+      "note": "I takes don’t plus the base form know."
+    },
+    {
+      "sentence": "These shoes don’t fit me.",
+      "note": "These shoes is plural, so use don’t fit."
+    },
+    {
+      "sentence": "Leo doesn’t like cold weather.",
+      "note": "A singular name takes doesn’t, followed by like without -s."
+    },
+    {
+      "sentence": "She doesn’t do her shopping online.",
+      "note": "Use does not + do when do is the main verb."
+    },
+    {
+      "sentence": "Our teacher doesn’t usually give homework on Fridays.",
+      "note": "Usually fits between doesn’t and the base verb give."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "My sisters doesn’t play tennis.",
+      "correct": "My sisters don’t play tennis.",
+      "why": "The plural subject my sisters takes don’t, not doesn’t."
+    },
+    {
+      "incorrect": "He doesn’t likes tea.",
+      "correct": "He doesn’t like tea.",
+      "why": "After doesn’t, use the base verb without -s."
+    },
+    {
+      "incorrect": "I no eat meat.",
+      "correct": "I don’t eat meat.",
+      "why": "A present simple negative with I needs don’t before the main verb."
+    },
+    {
+      "incorrect": "Maya doesn’t her homework on the bus.",
+      "correct": "Maya doesn’t do her homework on the bus.",
+      "why": "When do is the main verb, it still appears after doesn’t."
+    }
+  ],
+  "studyTips": [
+    "Choose the helper first: I/we/you/they → don’t; he/she/it → doesn’t.",
+    "After the negative helper, always return the next verb to its base form: doesn’t goes → doesn’t go.",
+    "Compare pairs aloud: she has / she doesn’t have; he does / he doesn’t do."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Mina ___ meat because she is vegetarian.",
+      "choices": [
+        "doesn’t eat",
+        "don’t eat",
+        "doesn’t eats"
+      ],
+      "answerIndex": 0,
+      "feedback": "Mina is singular, so use doesn’t + the base verb eat."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "We ___ the car very often.",
+      "choices": [
+        "doesn’t use",
+        "don’t use",
+        "don’t uses"
+      ],
+      "answerIndex": 1,
+      "feedback": "We takes don’t, and the main verb stays use."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "My neighbour ___ at weekends.",
+      "choices": [
+        "don’t work",
+        "doesn’t works",
+        "doesn’t work"
+      ],
+      "answerIndex": 2,
+      "feedback": "My neighbour is singular: doesn’t is followed by work, not works."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "I ___ that song.",
+      "choices": [
+        "don’t know",
+        "doesn’t know",
+        "don’t knows"
+      ],
+      "answerIndex": 0,
+      "feedback": "Use don’t plus the base verb know with I."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Their children ___ spicy food. (not / like)",
+      "acceptedAnswers": [
+        "don’t like",
+        "do not like"
+      ],
+      "feedback": "Their children is plural, so use don’t or do not plus like."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "My aunt ___ to work. (not / drive)",
+      "acceptedAnswers": [
+        "doesn’t drive",
+        "does not drive"
+      ],
+      "feedback": "Aunt is singular; doesn’t must be followed by the base form drive."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "I ___ much time on weekdays. (not / have)",
+      "acceptedAnswers": [
+        "don’t have",
+        "do not have"
+      ],
+      "feedback": "With I, use don’t have, not doesn’t have."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Leo ___ his homework on the bus. (not / do)",
+      "acceptedAnswers": [
+        "doesn’t do",
+        "does not do"
+      ],
+      "feedback": "Use doesn’t + do; the main verb do cannot be omitted."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My cousins doesn’t live nearby.",
+      "acceptedAnswers": [
+        "My cousins don’t live nearby.",
+        "My cousins do not live nearby."
+      ],
+      "feedback": "Cousins is plural, so use don’t."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She doesn’t likes loud music.",
+      "acceptedAnswers": [
+        "She doesn’t like loud music.",
+        "She does not like loud music."
+      ],
+      "feedback": "The base verb after doesn’t is like, without -s."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I no want any sugar.",
+      "acceptedAnswers": [
+        "I don’t want any sugar.",
+        "I do not want any sugar."
+      ],
+      "feedback": "Use don’t before want to make a present simple negative with I."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Omar doesn’t his homework on Sundays.",
+      "acceptedAnswers": [
+        "Omar doesn’t do his homework on Sundays.",
+        "Omar does not do his homework on Sundays."
+      ],
+      "feedback": "Use does not + the main verb do: doesn’t do."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Change this statement into one complete negative sentence: My sister works on Sundays.",
+      "acceptedAnswers": [
+        "My sister doesn’t work on Sundays.",
+        "My sister does not work on Sundays."
+      ],
+      "feedback": "With my sister, use doesn’t or does not plus work without -s."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say a complete negative sentence using: they / not / buy / bread / on Mondays.",
+      "acceptedAnswers": [
+        "They don’t buy bread on Mondays.",
+        "They do not buy bread on Mondays."
+      ],
+      "feedback": "With they, use don’t or do not before buy."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Place usually after the negative helper. Say a complete sentence using: I / not / usually / eat / breakfast / at school.",
+      "acceptedAnswers": [
+        "I don’t usually eat breakfast at school.",
+        "I do not usually eat breakfast at school."
+      ],
+      "feedback": "Use don’t usually eat with I, keeping eat in its base form."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The library is closed every Tuesday. Say this with the verb \"open\" in a present simple negative. Begin with \"The library\" and end with \"on Tuesdays\".",
+      "acceptedAnswers": [
+        "The library doesn't open on Tuesdays.",
+        "The library does not open on Tuesdays."
+      ],
+      "feedback": "The library is singular, so use does not or doesn't followed by the base verb open."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Make this sentence negative without changing the other words: \"Our neighbours have a car.\"",
+      "acceptedAnswers": [
+        "Our neighbours don't have a car.",
+        "Our neighbours do not have a car."
+      ],
+      "feedback": "Neighbours is plural, so use don't or do not before the base verb have."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Someone asks if Mia takes the bus to work. She walks instead. Reply in one negative sentence. Begin with \"Mia\" and use \"take the bus to work\".",
+      "acceptedAnswers": [
+        "Mia doesn't take the bus to work.",
+        "Mia does not take the bus to work."
+      ],
+      "feedback": "Mia takes doesn't or does not; take stays in the base form."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct only the negative helping verb in this sentence and say it aloud: \"My parents doesn't like fish.\"",
+      "acceptedAnswers": [
+        "My parents don't like fish.",
+        "My parents do not like fish."
+      ],
+      "feedback": "My parents is plural, so the negative helping verb is don't or do not."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Tell Alex these two facts in one sentence joined with \"and\": \"I / not work / at weekends\" and \"my brother / not work / on Fridays\". Begin with \"I\".",
+      "acceptedAnswers": [
+        "I don't work at weekends, and my brother doesn't work on Fridays.",
+        "I do not work at weekends, and my brother does not work on Fridays.",
+        "I don't work at weekends, and my brother does not work on Fridays.",
+        "I do not work at weekends, and my brother doesn't work on Fridays."
+      ],
+      "feedback": "I takes don't or do not; my brother takes doesn't or does not. Use work in its base form in both parts."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "My brother doesn’t usually eat lunch at his desk.",
+      "prompt": "Which statement matches the speaker’s description of their brother?",
+      "choices": [
+        "He always eats lunch at his desk.",
+        "He doesn’t usually have lunch at his desk.",
+        "He never eats lunch."
+      ],
+      "answerIndex": 1,
+      "feedback": "Doesn’t usually means this is not his normal habit; it does not mean never."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "They don’t play tennis in the winter.",
+      "prompt": "Which sport do they not play in winter?",
+      "choices": [
+        "Football",
+        "Basketball",
+        "Tennis"
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker says they don’t play tennis in winter."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "She doesn’t speak German at work.",
+      "prompt": "Type the contracted negative helping verb you hear.",
+      "acceptedAnswers": [
+        "doesn’t"
+      ],
+      "feedback": "The negative helper with she is doesn’t; speak stays in its base form."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "At breakfast, Ava doesn't drink coffee. She has tea instead.",
+      "prompt": "What does Ava drink with breakfast?",
+      "choices": [
+        "Coffee",
+        "Coffee and tea",
+        "Tea"
+      ],
+      "answerIndex": 2,
+      "feedback": "Ava does not drink coffee at breakfast. She chooses tea instead."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Our neighbours don't drive to the market on Saturdays. They walk there.",
+      "prompt": "How do the neighbours travel to the market on Saturdays?",
+      "choices": [
+        "On foot",
+        "By car",
+        "By bus"
+      ],
+      "answerIndex": 0,
+      "feedback": "They walk to the market rather than drive, so they travel on foot."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Ben doesn't have a bicycle, but his sister has one.",
+      "prompt": "Which statement about the bicycles is true?",
+      "choices": [
+        "Both siblings own bicycles.",
+        "Only Ben's sister has a bicycle.",
+        "Neither sibling has a bicycle."
+      ],
+      "answerIndex": 1,
+      "feedback": "Ben does not have a bicycle; his sister does have one. The negative applies only to Ben."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The children don't need their coats on sunny days.",
+      "prompt": "Type the negative verb phrase immediately after \"The children\".",
+      "acceptedAnswers": [
+        "don't need",
+        "do not need"
+      ],
+      "feedback": "The plural subject children takes don't need (or do not need), with need in its base form."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The shop doesn't have fresh bread after six o'clock.",
+      "prompt": "Type the negative verb phrase immediately after \"The shop\".",
+      "acceptedAnswers": [
+        "doesn't have",
+        "does not have"
+      ],
+      "feedback": "The singular subject shop takes doesn't have (or does not have), not doesn't has."
+    }
+  ]
+}

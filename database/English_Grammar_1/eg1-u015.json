@@ -1,0 +1,409 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u015",
+  "title": "Present Perfect: Past Actions, Results Now",
+  "level": "A2",
+  "topicId": "present-perfect-results",
+  "summary": "Use have or has with a past participle to talk about a completed action that matters now. Make positive and negative statements and ask questions about present results.",
+  "learningObjectives": [
+    "Form the present perfect with have/has and a past participle.",
+    "Recognise regular and common irregular past participles.",
+    "Describe a past action when its result is important now.",
+    "Make present perfect negatives, questions and short answers."
+  ],
+  "explanation": [
+    {
+      "heading": "Build the present perfect with have or has",
+      "body": "Use have with I, we, you, they and plural subjects. Use has with he, she, it and singular subjects. Put a past participle after have or has: have finished, has taken, have broken. This is different from the present continuous, which uses be + -ing.",
+      "example": "The cleaner has washed the windows."
+    },
+    {
+      "heading": "Recognise regular and irregular participles",
+      "body": "For regular verbs, the past participle usually ends in -ed, just like the past simple: paint → painted, open → opened. Irregular participles must be learned: write → written, see → seen, take → taken, go → gone. Some irregular verbs have the same past simple and participle, such as buy → bought.",
+      "example": "We have written three postcards."
+    },
+    {
+      "heading": "Focus on the result in the present",
+      "body": "Use the present perfect when something happened before now and its result matters now. If someone has broken a glass, the glass is broken now. If a visitor has gone home, the visitor is not here now. The precise past time is not the focus in this unit.",
+      "example": "I have lost the house key, so I cannot get inside."
+    },
+    {
+      "heading": "Make negative statements and contractions",
+      "body": "Put not after have or has and before the past participle: have not finished, has not arrived. The usual short forms are haven’t and hasn’t. Positive contractions include I’ve, we’ve, he’s and she’s when they mean have or has. Here, she’s finished means she has finished.",
+      "example": "Nina hasn’t returned the library book, so it is still at her house."
+    },
+    {
+      "heading": "Ask questions and give short answers",
+      "body": "To ask about a present result, put have or has before the subject: Have you found it? Has your brother arrived? In short answers, repeat the auxiliary: Yes, I have. No, he hasn’t. Do not answer Yes, I’ve, because the full auxiliary is needed at the end of a short answer.",
+      "example": "Have the musicians left? Yes, they have."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A past event and its result now",
+      "left": {
+        "label": "Past action",
+        "example": "Someone has opened the window.",
+        "note": "The opening happened before the moment of speaking."
+      },
+      "right": {
+        "label": "Present result",
+        "example": "The room is cooler now.",
+        "note": "The situation now explains why the past action matters."
+      }
+    },
+    {
+      "title": "Past simple versus past participle",
+      "left": {
+        "label": "Past simple form",
+        "example": "Omar wrote a note.",
+        "note": "Wrote is the past simple form of write."
+      },
+      "right": {
+        "label": "Present perfect form",
+        "example": "Omar has written a note.",
+        "note": "Has must be followed by written, not wrote."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "My sister has cut her finger, so she needs a plaster.",
+      "note": "The earlier injury has a result now."
+    },
+    {
+      "sentence": "The children have finished their puzzle.",
+      "note": "Have finished describes a completed activity with a current result."
+    },
+    {
+      "sentence": "I have not seen your blue notebook.",
+      "note": "Have not + seen forms a negative statement."
+    },
+    {
+      "sentence": "Has the parcel arrived?",
+      "note": "Has comes before the singular subject in a question."
+    },
+    {
+      "sentence": "The visitors have gone outside.",
+      "note": "Gone is the participle of go and indicates they are outside now."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "She have finished the drawing.",
+      "correct": "She has finished the drawing.",
+      "why": "Use has with she."
+    },
+    {
+      "incorrect": "We have wrote a message.",
+      "correct": "We have written a message.",
+      "why": "Written, not wrote, is the past participle of write."
+    },
+    {
+      "incorrect": "Have repaired you the lamp?",
+      "correct": "Have you repaired the lamp?",
+      "why": "The question order is have + subject + past participle."
+    },
+    {
+      "incorrect": "No, he hasn’t saw it.",
+      "correct": "No, he hasn’t seen it.",
+      "why": "Use the past participle seen after hasn’t."
+    }
+  ],
+  "studyTips": [
+    "Learn irregular verbs in groups of three: write, wrote, written; see, saw, seen.",
+    "After every present perfect sentence, ask: What is the situation now?",
+    "Practise turning a statement into a negative and a question while keeping the participle unchanged."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The kitchen is clean now because Dad ___ it.",
+      "choices": [
+        "has cleaned",
+        "have cleaned",
+        "is clean"
+      ],
+      "answerIndex": 0,
+      "feedback": "Dad is singular, so use has + the participle cleaned."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct past participle: They have ___ the old chair.",
+      "choices": [
+        "broke",
+        "broken",
+        "breaking"
+      ],
+      "answerIndex": 1,
+      "feedback": "The present perfect of break uses the irregular participle broken."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which question correctly asks about a result now?",
+      "choices": [
+        "Has the package deliver?",
+        "Have the package delivered?",
+        "Has the package arrived?"
+      ],
+      "answerIndex": 2,
+      "feedback": "The singular subject package takes has, followed by the participle arrived."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Your phone is not in your pocket. Which sentence describes the present result of an earlier action?",
+      "choices": [
+        "I have lost my phone.",
+        "I am lose my phone.",
+        "I losted my phone."
+      ],
+      "answerIndex": 0,
+      "feedback": "Have lost connects an earlier loss with the fact that the phone is missing now."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: She ___ finished her painting, so you can see it now.",
+      "acceptedAnswers": [
+        "has"
+      ],
+      "feedback": "With she, form the present perfect using has + finished."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Use the past participle of take: We have ___ all the chairs inside.",
+      "acceptedAnswers": [
+        "taken"
+      ],
+      "feedback": "Take is irregular: take, took, taken."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: ___ you found your passport?",
+      "acceptedAnswers": [
+        "Have"
+      ],
+      "feedback": "Use Have before you to form a present perfect question."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: The children ___ not put their shoes away, so the shoes are still on the floor.",
+      "acceptedAnswers": [
+        "have"
+      ],
+      "feedback": "Children is plural, so use have not + the participle put."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My aunt have bought a new bicycle.",
+      "acceptedAnswers": [
+        "My aunt has bought a new bicycle."
+      ],
+      "feedback": "My aunt is singular, so use has bought."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We have saw a fox in the garden.",
+      "acceptedAnswers": [
+        "We have seen a fox in the garden."
+      ],
+      "feedback": "After have, use the irregular past participle seen, not saw."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the question: Has your sister finish her homework?",
+      "acceptedAnswers": [
+        "Has your sister finished her homework?"
+      ],
+      "feedback": "Use the past participle finished after has."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the negative sentence: The shop has not openeded.",
+      "acceptedAnswers": [
+        "The shop has not opened."
+      ],
+      "feedback": "Open is a regular verb; its participle is opened, without an extra -ed."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say a complete sentence using: I / lose / my ticket / so I cannot enter.",
+      "acceptedAnswers": [
+        "I have lost my ticket, so I cannot enter.",
+        "I've lost my ticket, so I cannot enter."
+      ],
+      "feedback": "Use have lost or I’ve lost to link the earlier loss to the present problem."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask one complete question using: your sister / finish / the report.",
+      "acceptedAnswers": [
+        "Has your sister finished the report?"
+      ],
+      "feedback": "Use Has + your sister + the participle finished."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Give a negative short answer to: Has the train arrived?",
+      "acceptedAnswers": [
+        "No, it hasn't.",
+        "No, it has not."
+      ],
+      "feedback": "The train is it, so the negative short answer uses hasn’t."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The window is closed now. Say one present-perfect sentence using: Dad / close / the window.",
+      "acceptedAnswers": [
+        "Dad has closed the window.",
+        "Dad's closed the window."
+      ],
+      "feedback": "Dad is singular, so use has closed. Has can contract to ’s."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this statement into a negative sentence in the present perfect. Keep the same subject, action and object: The students have completed the quiz.",
+      "acceptedAnswers": [
+        "The students haven't completed the quiz.",
+        "The students have not completed the quiz."
+      ],
+      "feedback": "Use have not or haven’t before the past participle completed."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks, \"Have the delivery drivers brought the boxes?\" The answer is yes. Give only a positive short answer.",
+      "acceptedAnswers": [
+        "Yes, they have."
+      ],
+      "feedback": "Delivery drivers becomes they; positive present-perfect short answers end in have."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct only the verb form in this sentence and say the complete sentence: Maya has broke her glasses, so she cannot wear them.",
+      "acceptedAnswers": [
+        "Maya has broken her glasses, so she cannot wear them."
+      ],
+      "feedback": "After has, use the irregular past participle broken, not the past simple broke."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Tell a neighbour the news in one sentence. Use: we / find / the missing dog; it / be / safe / now. Join the two facts with \"and\" and use full verb forms.",
+      "acceptedAnswers": [
+        "We have found the missing dog, and it is safe now."
+      ],
+      "feedback": "Have found reports the completed search, and it is safe now states the present result."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "My neighbours have painted their front gate, and it looks much brighter now.",
+      "prompt": "What has changed at the neighbours’ home?",
+      "choices": [
+        "Their roof",
+        "Their front gate",
+        "Their kitchen"
+      ],
+      "answerIndex": 1,
+      "feedback": "Have painted describes an earlier change to the front gate with a visible result now."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The children have gone to the playground, so the house is quiet now.",
+      "prompt": "Where are the children now?",
+      "choices": [
+        "In the kitchen",
+        "At school",
+        "At the playground"
+      ],
+      "answerIndex": 2,
+      "feedback": "Have gone to the playground explains why they are not in the house now."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I have written the address on this envelope.",
+      "prompt": "Type the one-word past participle of write that you hear.",
+      "acceptedAnswers": [
+        "written"
+      ],
+      "feedback": "Written is the irregular past participle after have."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I have lost my bus pass, so I have to walk home.",
+      "prompt": "Why does the speaker need to walk home?",
+      "choices": [
+        "The buses have stopped running.",
+        "They cannot find their travel pass.",
+        "They prefer walking to riding."
+      ],
+      "answerIndex": 1,
+      "feedback": "Have lost indicates the pass is missing now, so the speaker cannot use it for the journey."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Sophie has bought four oranges, but she hasn't bought any milk.",
+      "prompt": "Which statement matches what Sophie has bought?",
+      "choices": [
+        "She has bought milk but no fruit.",
+        "She has bought fruit and milk.",
+        "She has bought fruit but no milk."
+      ],
+      "answerIndex": 2,
+      "feedback": "She has bought oranges, but the negative has not bought tells us she has no milk from this shopping."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Leo has fixed the bicycle, so his sister can ride it now.",
+      "prompt": "What is true about the bicycle at the moment?",
+      "choices": [
+        "It is ready to use.",
+        "It still needs to be repaired.",
+        "His sister cannot ride it."
+      ],
+      "answerIndex": 0,
+      "feedback": "Has fixed shows a completed repair with a present result: the bicycle is ready."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The children have eaten all the sandwiches, so none are left.",
+      "prompt": "Type the two-word verb phrase immediately after \"The children\".",
+      "acceptedAnswers": [
+        "have eaten"
+      ],
+      "feedback": "Have eaten combines the plural auxiliary have with the irregular participle eaten."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "She's taken the spare blankets upstairs, so they aren't in the cupboard.",
+      "prompt": "Type the opening present-perfect phrase, including the subject. You may expand the contraction.",
+      "acceptedAnswers": [
+        "She's taken",
+        "She has taken"
+      ],
+      "feedback": "She’s taken means she has taken; taken is the irregular past participle of take."
+    }
+  ]
+}

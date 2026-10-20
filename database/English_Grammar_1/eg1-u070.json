@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u070",
+  "title": "The: Common Uses and No-Article Expressions",
+  "level": "A2",
+  "topicId": "article-the-uses-and-exceptions",
+  "summary": "Use the with identifiable people and things, fixed expressions and familiar places or activities. Recognise common expressions that normally appear without the.",
+  "learningObjectives": [
+    "Use the with specific descriptions, superlatives and ordinal numbers.",
+    "Use the same and common expressions for the natural world, public services and positions.",
+    "Use the with musical instruments, the radio and the internet in the patterns taught here.",
+    "Omit the in ordinary references to meals, watching TV and next or last followed by a time period."
+  ],
+  "explanation": [
+    {
+      "heading": "The for something identifiable or in a special position",
+      "body": "Use the when the description identifies one person, place or thing in the context. We normally say the nearest, the best, the first and the second when they identify a particular choice or position. For a place in a town, the city centre is a common expression.",
+      "example": "Our classroom is on the second floor, next to the library."
+    },
+    {
+      "heading": "The same and familiar shared things",
+      "body": "Put the before same, even when you are simply saying that two things match. Use the with familiar references to the sun, the moon, the sky, the sea and the world. In expressions about living away from towns, say in the country.",
+      "example": "My sister and I chose the same colour for our bags."
+    },
+    {
+      "heading": "Public services and locations within something",
+      "body": "Common expressions include the police, the army and the fire brigade. For a location within a page, room or road, use the top, the bottom, the middle, the end, the left and the right. The is part of these normal expressions.",
+      "example": "The entrance is at the end of the corridor, on the right."
+    },
+    {
+      "heading": "Instruments, radio and internet",
+      "body": "In the usual elementary patterns, say play the violin, play the piano and play the guitar when talking about musical ability. We commonly say listen to the radio and use the internet. These established expressions do not work like an ordinary first mention of an object.",
+      "example": "Ben plays the piano and listens to the radio in the evening."
+    },
+    {
+      "heading": "When there is normally no the",
+      "body": "Do not usually add the when naming everyday meals: have breakfast, eat lunch, cook dinner. For the activity of watching programmes, say watch TV or watch television; for a particular physical set, say turn off the TV. Do not use the before next week, next month, last Friday or last summer when you mean those time periods relative to now.",
+      "example": "We watched TV after dinner last Friday."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "TV as an activity or as an object",
+      "left": {
+        "label": "Programmes in general",
+        "example": "I watch TV before bed.",
+        "note": "No the is needed for the activity of watching television programmes."
+      },
+      "right": {
+        "label": "The television set",
+        "example": "Please turn off the TV.",
+        "note": "The identifies the particular device."
+      }
+    },
+    {
+      "title": "A normal meal and a specific known meal",
+      "left": {
+        "label": "Meal in general",
+        "example": "We usually have lunch at one.",
+        "note": "An ordinary reference to a meal does not take the."
+      },
+      "right": {
+        "label": "A particular meal",
+        "example": "The lunch we ordered arrived late.",
+        "note": "The identifies a specific lunch; the general no-article pattern is not absolute."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The nearest pharmacy is beside the station.",
+      "note": "The identifies the pharmacy that is nearest in the context."
+    },
+    {
+      "sentence": "My two friends have the same birthday.",
+      "note": "Same normally follows the."
+    },
+    {
+      "sentence": "The moon is bright above the sea tonight.",
+      "note": "The is usual with these familiar features of the natural world."
+    },
+    {
+      "sentence": "Please write the date at the top of the form.",
+      "note": "A named position takes the."
+    },
+    {
+      "sentence": "I use the internet in the morning, but I rarely watch TV.",
+      "note": "The internet takes the in this pattern; watch TV normally has no article."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Our seats are on third floor.",
+      "correct": "Our seats are on the third floor.",
+      "why": "Use the before the ordinal third when identifying a floor."
+    },
+    {
+      "incorrect": "The twins have same favourite food.",
+      "correct": "The twins have the same favourite food.",
+      "why": "Same normally appears in the phrase the same."
+    },
+    {
+      "incorrect": "We have the breakfast at eight every day.",
+      "correct": "We have breakfast at eight every day.",
+      "why": "An ordinary reference to breakfast does not take the."
+    },
+    {
+      "incorrect": "I will call you the next Monday.",
+      "correct": "I will call you next Monday.",
+      "why": "When referring to next Monday relative to now, do not add the."
+    }
+  ],
+  "studyTips": [
+    "Learn common groups such as the same, the first, the end and the nearest as complete expressions.",
+    "Keep the meaning in mind: watch TV describes programmes, while turn off the TV describes a device.",
+    "For ordinary meals and next/last plus a time period, check whether an unnecessary the has slipped in."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Could you tell me ___ time, please?",
+      "choices": [
+        "a",
+        "no article",
+        "the"
+      ],
+      "answerIndex": 2,
+      "feedback": "We normally say the time when asking for the time now."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Both my brothers were born on 12 May. They have ___ same birthday.",
+      "choices": [
+        "the",
+        "a",
+        "no article"
+      ],
+      "answerIndex": 0,
+      "feedback": "The same is the normal expression for two things that match."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "We sat in ___ middle of the classroom.",
+      "choices": [
+        "a",
+        "the",
+        "no article"
+      ],
+      "answerIndex": 1,
+      "feedback": "A position within a room is expressed as in the middle."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "After work, Zara practises ___ guitar for half an hour.",
+      "choices": [
+        "a",
+        "no article",
+        "the"
+      ],
+      "answerIndex": 2,
+      "feedback": "The usual expression for musical ability is play or practise the guitar."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The night was clear, and ___ moon looked bright. (Write the or no article.)",
+      "acceptedAnswers": [
+        "the"
+      ],
+      "feedback": "We normally say the moon when talking about this familiar object."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "We are visiting my cousins ___. (Complete with the natural expression: next week or the next week.)",
+      "acceptedAnswers": [
+        "next week"
+      ],
+      "feedback": "Next week does not take the when it refers to the coming week."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "After swimming, Eli listened to ___ radio in the kitchen. (Write the or no article.)",
+      "acceptedAnswers": [
+        "the"
+      ],
+      "feedback": "The established expression is listen to the radio."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "I usually watch ___ in the evening. (Write TV or the TV; the meaning is television programmes.)",
+      "acceptedAnswers": [
+        "TV"
+      ],
+      "feedback": "For watching programmes generally, use watch TV without the."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We took our bags to third floor.",
+      "acceptedAnswers": [
+        "We took our bags to the third floor."
+      ],
+      "feedback": "Use the with the ordinal third to identify a floor."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Nora and I have same favourite colour.",
+      "acceptedAnswers": [
+        "Nora and I have the same favourite colour."
+      ],
+      "feedback": "Same normally requires the."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I brush my teeth before the breakfast every day.",
+      "acceptedAnswers": [
+        "I brush my teeth before breakfast every day."
+      ],
+      "feedback": "Breakfast as an ordinary meal is used without the."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We are going on holiday the next Friday.",
+      "acceptedAnswers": [
+        "We are going on holiday next Friday."
+      ],
+      "feedback": "Next Friday relative to now is used without the."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say that your office is on the second floor. Begin with “My office”.",
+      "acceptedAnswers": [
+        "My office is on the second floor."
+      ],
+      "feedback": "Use the with second when naming an ordinal position."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Tell a friend that you play the piano. Begin with “I play”.",
+      "acceptedAnswers": [
+        "I play the piano."
+      ],
+      "feedback": "The usual elementary expression for musical ability is play the piano."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say that you watch TV after dinner. Begin with “I watch”.",
+      "acceptedAnswers": [
+        "I watch TV after dinner."
+      ],
+      "feedback": "We normally say watch TV and after dinner without the."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Your classroom is on floor three. Say one sentence beginning with 'Our classroom' and ending with 'floor'. Use the ordinal word 'third'.",
+      "acceptedAnswers": [
+        "Our classroom is on the third floor."
+      ],
+      "feedback": "Use the before the ordinal third when identifying a particular floor."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Correct this sentence by adding only the missing article: 'Maya and Lena have same address.'",
+      "acceptedAnswers": [
+        "Maya and Lena have the same address."
+      ],
+      "feedback": "Same normally needs the: the same address."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A visitor asks where the toilets are. They are at the end of the hallway, on the left. Reply with one sentence starting 'The toilets are' and using both location details.",
+      "acceptedAnswers": [
+        "The toilets are at the end of the hallway on the left."
+      ],
+      "feedback": "Use the in the fixed position expressions at the end and on the left."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Your friend says 'I have the lunch at midday' and means an ordinary daily meal, not one particular lunch. Correct the sentence without adding other information.",
+      "acceptedAnswers": [
+        "I have lunch at midday."
+      ],
+      "feedback": "For an ordinary meal, say have lunch without the."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Tell a friend two facts in two short sentences. Your sister plays the violin every evening, and you have dinner at seven every night. Start the sentences with 'My sister' and 'I', and use 'plays' and 'have'.",
+      "acceptedAnswers": [
+        "My sister plays the violin every evening. I have dinner at seven every night."
+      ],
+      "feedback": "Musical instruments commonly take the in play the violin, while ordinary meals have no article in have dinner."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We stayed at home and watched TV after dinner.",
+      "prompt": "What did the speakers watch?",
+      "choices": [
+        "A film at the cinema",
+        "TV",
+        "A piano lesson"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speakers said watched TV, without an article."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "My aunt plays the violin and listens to the radio every evening.",
+      "prompt": "Which activity does the speaker’s aunt do?",
+      "choices": [
+        "Plays the violin",
+        "Watches TV",
+        "Plays football"
+      ],
+      "answerIndex": 0,
+      "feedback": "The audio says that she plays the violin."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The bus stop is at the end of this street.",
+      "prompt": "Type the article heard immediately before “end”.",
+      "acceptedAnswers": [
+        "the"
+      ],
+      "feedback": "The speaker uses the established phrase at the end of."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "After breakfast, we went to the beach and watched the sun rise above the sea.",
+      "prompt": "What did the group do after their meal?",
+      "choices": [
+        "They went shopping after lunch",
+        "They cooked dinner at home",
+        "They watched the sunrise at the beach"
+      ],
+      "answerIndex": 2,
+      "feedback": "The group visited the beach to watch the sun rise; breakfast is used without an article."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Our seats are on the fourth floor, immediately above the library.",
+      "prompt": "Where should someone go to find the seats?",
+      "choices": [
+        "The fourth floor",
+        "The ground floor",
+        "The second floor"
+      ],
+      "answerIndex": 0,
+      "feedback": "The seats are on the fourth floor; the is used before the ordinal number."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Could you turn off the TV? Nobody is watching it, but please leave the radio on.",
+      "prompt": "Which action does the speaker request?",
+      "choices": [
+        "Switch off the radio",
+        "Switch off the television set",
+        "Switch off both devices"
+      ],
+      "answerIndex": 1,
+      "feedback": "The TV means the physical set to turn off, while the radio should remain on."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Dad always listens to the radio while he makes tea.",
+      "prompt": "Type the article heard immediately before the broadcast medium.",
+      "acceptedAnswers": [
+        "the"
+      ],
+      "feedback": "The normal phrase is listen to the radio."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I will call my cousin next Thursday after work.",
+      "prompt": "Type the two-word time expression containing a day of the week.",
+      "acceptedAnswers": [
+        "next Thursday"
+      ],
+      "feedback": "Next Thursday means the coming Thursday and does not take the."
+    }
+  ]
+}

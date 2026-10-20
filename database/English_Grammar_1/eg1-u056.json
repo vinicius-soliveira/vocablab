@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u056",
+  "title": "Get: Receiving, Becoming and Arriving",
+  "level": "A2",
+  "topicId": "get-meanings-and-travel",
+  "summary": "Use get to describe receiving things, becoming different, arriving somewhere and getting into or out of vehicles. Learn which common expressions need a preposition.",
+  "learningObjectives": [
+    "Use get + noun for receiving, buying, finding or obtaining something.",
+    "Describe a change with get + adjective and common expressions such as get ready and get lost.",
+    "Choose get to + place and get home/here/there without to.",
+    "Distinguish get in/out of a car from get on/off a bus or train."
+  ],
+  "explanation": [
+    {
+      "heading": "Get + a noun",
+      "body": "Get with a noun can mean receive, obtain, buy or find, depending on the context. You can get a message, get some food or get a job. In everyday English, get a taxi or get a bus can also mean take that transport.",
+      "example": "Did you get the photo I sent yesterday?"
+    },
+    {
+      "heading": "Get + adjective means become",
+      "body": "Use get followed by an adjective for a change of state: get hungry, get cold, get tired, get angry or get better. Getting shows that the change is happening now. Other frequent expressions include get married, get dressed and get lost.",
+      "example": "The soup is getting cold, so let’s eat."
+    },
+    {
+      "heading": "Get to a place; get home without to",
+      "body": "Use get to + place to say arrive: get to the station, get to work, get to the museum. Do not use to before home, here or there: get home, get here, get there.",
+      "example": "We got to the hotel just before sunset."
+    },
+    {
+      "heading": "Getting into and out of vehicles",
+      "body": "For a car or taxi, usually say get in or get into it and get out of it. For a bus, train or plane, usually say get on and get off. Use out of before a named car or taxi when leaving it.",
+      "example": "We got off the train and got into a taxi."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Receiving something versus changing state",
+      "left": {
+        "label": "Get + noun",
+        "example": "Sam got a new coat yesterday.",
+        "note": "Got describes obtaining a thing."
+      },
+      "right": {
+        "label": "Get + adjective",
+        "example": "Sam got cold during the walk.",
+        "note": "Got cold describes a change of condition."
+      }
+    },
+    {
+      "title": "Entering a car versus boarding a bus",
+      "left": {
+        "label": "Get in a car",
+        "example": "We got into the car outside the house.",
+        "note": "Get in or get into is typical for cars and taxis."
+      },
+      "right": {
+        "label": "Get on a bus",
+        "example": "We got on the bus outside the house.",
+        "note": "Get on is typical for buses, trains and planes."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I got a parcel from my cousin this morning.",
+      "note": "Got a parcel means received it."
+    },
+    {
+      "sentence": "Can you get some bread on your way back?",
+      "note": "Get some bread can mean buy or bring it."
+    },
+    {
+      "sentence": "It got dark while we were walking.",
+      "note": "Got dark means became dark."
+    },
+    {
+      "sentence": "They got home before midnight.",
+      "note": "There is no to before home."
+    },
+    {
+      "sentence": "The passengers got off the bus near the hospital.",
+      "note": "Get off is used when leaving a bus."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I got to home at nine.",
+      "correct": "I got home at nine.",
+      "why": "Get home has no to, unlike get to the station."
+    },
+    {
+      "incorrect": "The tea is getting to cold.",
+      "correct": "The tea is getting cold.",
+      "why": "An adjective follows get directly: getting cold."
+    },
+    {
+      "incorrect": "Liam got on the taxi and closed the door.",
+      "correct": "Liam got in the taxi and closed the door.",
+      "why": "Use get in for entering a taxi."
+    },
+    {
+      "incorrect": "The driver got out the car.",
+      "correct": "The driver got out of the car.",
+      "why": "When you name a car after get out, add of."
+    }
+  ],
+  "studyTips": [
+    "Look at the word after get: a noun often means receive or obtain; an adjective often means become.",
+    "Memorise the arrival pair: get to the office, but get home (not get to home).",
+    "Picture the vehicle: get in/out of a car; get on/off a bus or train."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: When you ___ a postcard, you receive it.",
+      "choices": [
+        "get",
+        "get to",
+        "get on"
+      ],
+      "answerIndex": 0,
+      "feedback": "Get + noun can mean receive: get a postcard."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence: The sky is getting ___ . Let’s go inside before the storm.",
+      "choices": [
+        "to dark",
+        "dark",
+        "at dark"
+      ],
+      "answerIndex": 1,
+      "feedback": "Get + adjective describes a change: getting dark."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct way to say we arrived at the museum: We ___ the museum at eleven.",
+      "choices": [
+        "got in",
+        "got on",
+        "got to"
+      ],
+      "answerIndex": 2,
+      "feedback": "Use got to + place to mean arrived at that place."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly describes leaving a bus?",
+      "choices": [
+        "We got off the bus at Market Street.",
+        "We got out the bus at Market Street.",
+        "We got in the bus at Market Street."
+      ],
+      "answerIndex": 0,
+      "feedback": "To leave a bus, use get off the bus."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Use a form of get: Can you ___ a loaf of bread on your way home?",
+      "acceptedAnswers": [
+        "get"
+      ],
+      "feedback": "Get + noun can mean buy or collect something."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Use the past simple of get: It started raining, and we ___ wet because we had no coats.",
+      "acceptedAnswers": [
+        "got"
+      ],
+      "feedback": "Got wet means became wet."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Use the past simple of get: We left at six and ___ to the airport at seven.",
+      "acceptedAnswers": [
+        "got"
+      ],
+      "feedback": "Got to the airport means arrived there."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the expression: The passengers got ___ the train at the first station and sat down.",
+      "acceptedAnswers": [
+        "on"
+      ],
+      "feedback": "Use got on the train to describe boarding it."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I usually get to home before seven.",
+      "acceptedAnswers": [
+        "I usually get home before seven."
+      ],
+      "feedback": "Home follows get without to."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: It is getting to dark outside.",
+      "acceptedAnswers": [
+        "It is getting dark outside.",
+        "It's getting dark outside."
+      ],
+      "feedback": "A describing adjective follows get directly: getting dark."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The driver got on the car and started the engine.",
+      "acceptedAnswers": [
+        "The driver got in the car and started the engine.",
+        "The driver got into the car and started the engine."
+      ],
+      "feedback": "For entering a car, use got in or got into, not got on."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We got out the taxi near the station.",
+      "acceptedAnswers": [
+        "We got out of the taxi near the station."
+      ],
+      "feedback": "Add of when you name the vehicle after got out."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make a complete past simple sentence from these cues: Maya / get to / the office / at nine.",
+      "acceptedAnswers": [
+        "Maya got to the office at nine."
+      ],
+      "feedback": "Get to becomes got to in the past simple."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Change this sentence using getting: “The soup is becoming cold.”",
+      "acceptedAnswers": [
+        "The soup is getting cold."
+      ],
+      "feedback": "Getting + adjective expresses a change in progress."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Make a complete sentence from these cues: We / got off / the bus / outside the museum.",
+      "acceptedAnswers": [
+        "We got off the bus outside the museum."
+      ],
+      "feedback": "Got off is the form for leaving a bus."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Make a complete past-simple sentence from these cues: Max / get / a text message / this morning.",
+      "acceptedAnswers": [
+        "Max got a text message this morning."
+      ],
+      "feedback": "Got a text message means received a message. Got is the past form of get."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this statement into the past-simple negative, keeping the other words: “I got a letter yesterday.”",
+      "acceptedAnswers": [
+        "I didn't get a letter yesterday.",
+        "I did not get a letter yesterday."
+      ],
+      "feedback": "Use did not or didn’t plus the base form get, not got, in a past-simple negative."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A classmate asks, “When did Nora arrive here?” You know she arrived at eight. Answer in one sentence beginning “Nora” and using got here and at eight.",
+      "acceptedAnswers": [
+        "Nora got here at eight."
+      ],
+      "feedback": "Use got here to mean arrived here. Do not add to before here."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this sentence using the usual expression for boarding a train, keeping all other words: “The children got in the train at the main station.”",
+      "acceptedAnswers": [
+        "The children got on the train at the main station."
+      ],
+      "feedback": "People normally get on a train or bus, but get in or into a car or taxi."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Your friend is outside a taxi in the rain. Politely tell them to enter the taxi using “get in” or “get into”, and say it is warm inside. Use two short sentences, beginning with “Please”.",
+      "acceptedAnswers": [
+        "Please get in the taxi. It's warm inside.",
+        "Please get in the taxi. It is warm inside.",
+        "Please get into the taxi. It's warm inside.",
+        "Please get into the taxi. It is warm inside."
+      ],
+      "feedback": "Use get in or get into with a taxi, and use it is or it’s to describe the warmth inside."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I got a postcard from my uncle yesterday.",
+      "prompt": "What did the speaker receive?",
+      "choices": [
+        "An email.",
+        "A postcard.",
+        "A phone call."
+      ],
+      "answerIndex": 1,
+      "feedback": "Got a postcard means received a postcard."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We got off the train at the final station.",
+      "prompt": "What did the people do at the final station?",
+      "choices": [
+        "They got into a car.",
+        "They boarded the train.",
+        "They left the train."
+      ],
+      "answerIndex": 2,
+      "feedback": "Got off the train means left the train."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "By the time we got home, everyone was asleep.",
+      "prompt": "Complete what you hear: “By the time we got ___, everyone was asleep.” Type one word.",
+      "acceptedAnswers": [
+        "home"
+      ],
+      "feedback": "Get home takes no to; home is the word heard."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "After looking for work all summer, Ben finally got a job in a café.",
+      "prompt": "What changed for Ben?",
+      "choices": [
+        "He bought a small business.",
+        "He found a place to work.",
+        "He went on holiday."
+      ],
+      "answerIndex": 1,
+      "feedback": "Got a job means Ben found employment; get plus a noun can mean obtain or find."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The weather got colder during our walk, so we put on our coats.",
+      "prompt": "Why did they put on their coats?",
+      "choices": [
+        "They wanted to go swimming.",
+        "They were getting ready for bed.",
+        "The temperature fell."
+      ],
+      "answerIndex": 2,
+      "feedback": "Got colder means the temperature decreased, so they needed warmer clothes."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Tessa got on the bus, but Omar got into a taxi outside the station.",
+      "prompt": "How did Omar leave?",
+      "choices": [
+        "In a car with a driver.",
+        "On a public bus.",
+        "On foot."
+      ],
+      "answerIndex": 0,
+      "feedback": "Omar entered a taxi, while Tessa boarded a bus. Get into and get on distinguish the vehicles."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "My little sister is getting better after a week at home.",
+      "prompt": "Type the two words you hear immediately after “is”.",
+      "acceptedAnswers": [
+        "getting better"
+      ],
+      "feedback": "Getting better is get plus an adjective, describing an improvement in condition."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "When the taxi stopped, we got out of it near the museum.",
+      "prompt": "Type the two words you hear immediately after “got”.",
+      "acceptedAnswers": [
+        "out of"
+      ],
+      "feedback": "Get out of is the normal pattern for leaving a taxi or car."
+    }
+  ]
+}

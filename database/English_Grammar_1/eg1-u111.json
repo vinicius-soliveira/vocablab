@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u111",
+  "title": "Useful Prepositions: On, At, By, With and About",
+  "level": "A2",
+  "topicId": "common-preposition-expressions",
+  "summary": "Choose common preposition phrases to talk about travel, communication, time, people and topics. Distinguish transport, creators, tools and subjects in everyday sentences.",
+  "learningObjectives": [
+    "Use on in common phrases for holidays, media, telephone calls and punctuality.",
+    "Choose at for age, speed and temperature, and by for transport, creators and agents.",
+    "Use with and without for tools, company and features, and about for the subject of information or conversation."
+  ],
+  "explanation": [
+    {
+      "heading": "On: common situations and communication",
+      "body": "Learn several fixed expressions with on: on holiday, on television or TV, on the radio, on the phone, on fire and on time. On time means at the planned time, not late. These phrases use on even when another preposition might seem logical.",
+      "example": "The programme started on time, so we watched it on TV."
+    },
+    {
+      "heading": "At: age and measured values",
+      "body": "Use at with a particular age, speed or temperature: at the age of twenty, at sixty kilometres an hour, at twenty degrees. These expressions identify a point on a scale rather than how long something lasts.",
+      "example": "The cyclist was travelling at twenty kilometres an hour."
+    },
+    {
+      "heading": "By: transport, artists and agents",
+      "body": "Use by with a means of transport without an article: by car, by train, by bus or by plane. A special expression is on foot, meaning by walking. By can also identify who created a book, picture or song, or who did an action in a passive sentence.",
+      "example": "We went by train and saw a painting by a local artist."
+    },
+    {
+      "heading": "With and without: tools, people and features",
+      "body": "Use with for company, an instrument or a feature: with my friends, with a spoon, a jacket with large pockets. Without means not having or not using something. To describe the person doing an action in a passive sentence, use by instead of with.",
+      "example": "A woman with a blue umbrella opened the parcel with scissors."
+    },
+    {
+      "heading": "About: the subject",
+      "body": "Use about to introduce the topic of a conversation, thought, question, book or report. Talk about, hear about and information about are useful combinations. About tells us what the information concerns, not who created it.",
+      "example": "I read a short article about the history of our town."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "How you travel",
+      "left": {
+        "label": "By + vehicle",
+        "example": "We went to the village by coach.",
+        "note": "By introduces the means of transport, without a or the."
+      },
+      "right": {
+        "label": "On foot",
+        "example": "We went to the village on foot.",
+        "note": "On foot means walking; not by foot."
+      }
+    },
+    {
+      "title": "Who did it or what was used?",
+      "left": {
+        "label": "By: the person responsible",
+        "example": "The window was cleaned by Malik.",
+        "note": "By names the person who performed a passive action."
+      },
+      "right": {
+        "label": "With: the tool",
+        "example": "The window was cleaned with a soft cloth.",
+        "note": "With names the thing used to do the action."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The children heard the weather forecast on the radio.",
+      "note": "On the radio is a standard media expression."
+    },
+    {
+      "sentence": "The lecture began on time despite the rain.",
+      "note": "On time means when it was scheduled to begin."
+    },
+    {
+      "sentence": "My uncle learnt to swim at the age of forty.",
+      "note": "At introduces the age when something happened."
+    },
+    {
+      "sentence": "A woman with curly hair was talking on the phone.",
+      "note": "With describes a physical feature; on the phone describes the activity."
+    },
+    {
+      "sentence": "Can you tell me more about this painting by Sofia?",
+      "note": "About introduces its topic, while by identifies its creator."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "We walked there by foot.",
+      "correct": "We walked there on foot.",
+      "why": "On foot is the fixed expression for walking."
+    },
+    {
+      "incorrect": "My brother is in holiday this week.",
+      "correct": "My brother is on holiday this week.",
+      "why": "Use on holiday for this state."
+    },
+    {
+      "incorrect": "The story was written with Aisha.",
+      "correct": "The story was written by Aisha.",
+      "why": "By names the writer responsible for the story."
+    },
+    {
+      "incorrect": "I opened the package by a knife.",
+      "correct": "I opened the package with a knife.",
+      "why": "With introduces the tool used for an action."
+    }
+  ],
+  "studyTips": [
+    "Learn common expressions as complete phrases: on time, on the radio and on holiday.",
+    "Ask two different questions: Who did it? Use by. What tool was used? Use with.",
+    "Remember by train or by bike, but on foot; do not add an article after by in these expressions."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: Our flight was not delayed. It left ___ time.",
+      "choices": [
+        "on",
+        "at",
+        "by"
+      ],
+      "answerIndex": 0,
+      "feedback": "On time means at the scheduled time, rather than late."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: Rosa travels to college ___ tram.",
+      "choices": [
+        "with",
+        "by",
+        "on"
+      ],
+      "answerIndex": 1,
+      "feedback": "By tram names a means of transport without an article."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: My grandfather is the only songwriter credited. This song was written ___ him.",
+      "choices": [
+        "about",
+        "with",
+        "by"
+      ],
+      "answerIndex": 2,
+      "feedback": "By identifies the person who wrote the song."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: She marked the map ___ a pencil.",
+      "choices": [
+        "with",
+        "by",
+        "about"
+      ],
+      "answerIndex": 0,
+      "feedback": "With introduces the tool used to mark the map."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "My uncle retired ___ the age of sixty.",
+      "acceptedAnswers": [
+        "at"
+      ],
+      "feedback": "At the age of introduces a particular age."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "We heard the football results ___ the radio.",
+      "acceptedAnswers": [
+        "on"
+      ],
+      "feedback": "On the radio is the fixed expression for this medium."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Ella and Yusuf arrived together. Ella came ___ Yusuf.",
+      "acceptedAnswers": [
+        "with"
+      ],
+      "feedback": "With introduces the person who accompanied Ella."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Could you give me some information ___ the local library?",
+      "acceptedAnswers": [
+        "about"
+      ],
+      "feedback": "Information about introduces the topic you want to know about."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We went to the beach by foot.",
+      "acceptedAnswers": [
+        "We went to the beach on foot."
+      ],
+      "feedback": "Use on foot rather than by foot for walking."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My friend is in holiday this week.",
+      "acceptedAnswers": [
+        "My friend is on holiday this week."
+      ],
+      "feedback": "The fixed expression is on holiday."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I spoke to my cousin in the phone yesterday.",
+      "acceptedAnswers": [
+        "I spoke to my cousin on the phone yesterday."
+      ],
+      "feedback": "Use on the phone to describe a telephone conversation."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: He cut the ribbon by a pair of scissors.",
+      "acceptedAnswers": [
+        "He cut the ribbon with a pair of scissors."
+      ],
+      "feedback": "With introduces the tool used to cut the ribbon."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say the full sentence with the correct transport preposition: 'We travelled ___ train to the city.'",
+      "acceptedAnswers": [
+        "We travelled by train to the city.",
+        "We traveled by train to the city."
+      ],
+      "feedback": "By train names the means of transport."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say the full sentence using the fixed expression on fire: 'That building is ___ ___. Call for help!'",
+      "acceptedAnswers": [
+        "That building is on fire. Call for help!"
+      ],
+      "feedback": "On fire describes something burning."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say the full sentence with the preposition that identifies the cook: 'The soup was made ___ my sister.'",
+      "acceptedAnswers": [
+        "The soup was made by my sister."
+      ],
+      "feedback": "In a passive sentence, by can identify the person who did the action."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Say one full sentence about a scooter's speed. Use these words in order: 'The scooter / is travelling / ___ / thirty kilometres an hour.' Supply the correct preposition.",
+      "acceptedAnswers": [
+        "The scooter is travelling at thirty kilometres an hour."
+      ],
+      "feedback": "Use at before a speed: at thirty kilometres an hour."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Correct the travel expression and say the full sentence: 'Mara went to the market by foot.' Change only the incorrect preposition.",
+      "acceptedAnswers": [
+        "Mara went to the market on foot."
+      ],
+      "feedback": "On foot is the fixed expression for walking; by foot is not standard."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your friend asks how you opened the tin. You used a can opener. Answer with one sentence beginning 'I opened the tin ...' and use the preposition with.",
+      "acceptedAnswers": [
+        "I opened the tin with a can opener."
+      ],
+      "feedback": "With introduces the tool used to do something."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say the full sentence using the two correct prepositions. 'The letter was written ___ Maya ___ a blue pen.'",
+      "acceptedAnswers": [
+        "The letter was written by Maya with a blue pen."
+      ],
+      "feedback": "By identifies the writer; with identifies the tool she used."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "The show began at its scheduled time. You watched it on television. Tell a friend in two short sentences, using on time and on TV or on television. Begin 'The show started ...' and 'I watched it ...'.",
+      "acceptedAnswers": [
+        "The show started on time. I watched it on TV.",
+        "The show started on time. I watched it on television."
+      ],
+      "feedback": "On time means not late, and on TV or on television is the media expression."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "My dad is away on holiday this week.",
+      "prompt": "Why is the speaker’s dad away?",
+      "choices": [
+        "He is on the phone.",
+        "He is on holiday.",
+        "He is at work."
+      ],
+      "answerIndex": 1,
+      "feedback": "On holiday means he is away for a break."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I found an article about wild birds in the local magazine.",
+      "prompt": "What is the article about?",
+      "choices": [
+        "A famous painting.",
+        "Public transport.",
+        "Wild birds."
+      ],
+      "answerIndex": 2,
+      "feedback": "About introduces the topic: wild birds."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Our neighbour goes to work by bicycle most days.",
+      "prompt": "Type the preposition you hear immediately before 'bicycle'.",
+      "acceptedAnswers": [
+        "by"
+      ],
+      "feedback": "By bicycle identifies a means of transport."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The film began on time, but I missed the first ten minutes because my bus was late.",
+      "prompt": "Why did the speaker miss the beginning of the film?",
+      "choices": [
+        "The cinema changed the starting time.",
+        "Their transport was delayed.",
+        "The film was cancelled."
+      ],
+      "answerIndex": 1,
+      "feedback": "The film started as scheduled, but the speaker's bus was late."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "We went to the island by boat and came back on foot across the bridge.",
+      "prompt": "How did the group return from the island?",
+      "choices": [
+        "They walked over a bridge.",
+        "They took another boat.",
+        "They rode bicycles."
+      ],
+      "answerIndex": 0,
+      "feedback": "On foot means walking; the return route used a bridge."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The picture was painted by my aunt with a small brush, not by her teacher.",
+      "prompt": "Which statement about the picture is correct?",
+      "choices": [
+        "The teacher made the picture.",
+        "The aunt is shown in the picture.",
+        "The aunt created it using a brush."
+      ],
+      "answerIndex": 2,
+      "feedback": "By identifies the person who painted; with tells us which tool she used."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The children were talking about planets during dinner.",
+      "prompt": "Type the single preposition heard immediately before the subject of their conversation.",
+      "acceptedAnswers": [
+        "about"
+      ],
+      "feedback": "Talk about introduces a subject or topic: here, planets."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "My uncle learned to cook at the age of fifty.",
+      "prompt": "Type the four-word expression that introduces the age you hear.",
+      "acceptedAnswers": [
+        "at the age of"
+      ],
+      "feedback": "At the age of introduces the age when an event happened."
+    }
+  ]
+}

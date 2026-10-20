@@ -1,0 +1,412 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u012",
+  "title": "Past Simple: Negatives and Questions",
+  "level": "A1",
+  "topicId": "past-simple-negatives-questions",
+  "summary": "Say what did not happen in the past and ask questions about completed actions. Use did and did not with the base verb and give short past-tense answers.",
+  "learningObjectives": [
+    "Make negative past simple sentences with did not and didn't.",
+    "Form yes/no past simple questions using did before the subject.",
+    "Form information questions with a question word, did and the base verb.",
+    "Use the base verb after did or did not, including irregular verbs.",
+    "Give correct positive and negative short answers with did or did not."
+  ],
+  "explanation": [
+    {
+      "heading": "Use did not or didn't for past negatives",
+      "body": "To say an action did not happen, use did not (usually didn't) before the base verb. This pattern is the same for all subjects. Say I didn't travel, she didn't call and they didn't leave. Did already shows the past, so the main verb does not have a past ending.",
+      "example": "We didn't visit the museum on Wednesday."
+    },
+    {
+      "heading": "Start past yes/no questions with did",
+      "body": "Put did before the subject, then use the base verb: Did + subject + base verb? Use this pattern with I, you, he, she, it, we and they. Even when the affirmative past verb is irregular, the question uses the base form: She took a photo becomes Did she take a photo?",
+      "example": "Did your uncle bring his camera yesterday?"
+    },
+    {
+      "heading": "Put question words before did",
+      "body": "For information questions, place where, what, when, why or how before did + subject + base verb. Do not put did after the subject. For example, ask Where did they stay? rather than Where they did stay?",
+      "example": "When did your train arrive?"
+    },
+    {
+      "heading": "Compare the affirmative, negative and question forms",
+      "body": "Use the past form only in an ordinary affirmative sentence: They went home. Negatives use didn't go, and questions use Did they go? The same rule applies to regular verbs: We watched, we didn't watch, did we watch? Past questions and negatives of be use was/were instead (Unit 10).",
+      "example": "Nina bought the tickets, but she didn't buy any snacks."
+    },
+    {
+      "heading": "Give short answers with did or didn't",
+      "body": "For yes/no questions beginning with did, answer Yes, I did; Yes, he did; No, we didn't; or No, she didn't. The short answer uses did or didn't, not do or does, because the question asks about the past.",
+      "example": "Did the shop close early? Yes, it did."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "One past event in three forms",
+      "left": {
+        "label": "Affirmative past",
+        "example": "Mira made a cake yesterday.",
+        "note": "Made is the irregular past form in an affirmative statement."
+      },
+      "right": {
+        "label": "Negative past",
+        "example": "Mira didn't make a cake yesterday.",
+        "note": "Didn't carries the past meaning; make stays in its base form."
+      }
+    },
+    {
+      "title": "Ask about today or yesterday",
+      "left": {
+        "label": "Present simple",
+        "example": "Does Oliver usually walk to work?",
+        "note": "Does is for a regular present habit."
+      },
+      "right": {
+        "label": "Past simple",
+        "example": "Did Oliver walk to work yesterday?",
+        "note": "Did asks about a finished event; the main verb is still walk."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I didn't hear the alarm this morning.",
+      "note": "Didn't is followed by the base verb hear, not heard."
+    },
+    {
+      "sentence": "Did Hana finish the puzzle last night?",
+      "note": "Did starts a past question; finish remains in the base form."
+    },
+    {
+      "sentence": "Where did the visitors park their car?",
+      "note": "Where comes before did + subject + base verb."
+    },
+    {
+      "sentence": "We didn't have enough time on Sunday.",
+      "note": "The past negative of have uses didn't have."
+    },
+    {
+      "sentence": "Did the children enjoy the game? No, they didn't.",
+      "note": "The negative short answer repeats didn't with they."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "She didn't saw the final episode.",
+      "correct": "She didn't see the final episode.",
+      "why": "After didn't, use the base verb see, not the past form saw."
+    },
+    {
+      "incorrect": "Did you went to the festival?",
+      "correct": "Did you go to the festival?",
+      "why": "Did already indicates the past, so use the base verb go."
+    },
+    {
+      "incorrect": "Why he did leave early?",
+      "correct": "Why did he leave early?",
+      "why": "In a direct past question, did comes before the subject."
+    },
+    {
+      "incorrect": "In reply to 'Did they win?': No, they don't.",
+      "correct": "In reply to 'Did they win?': No, they didn't.",
+      "why": "The question uses did, so its negative short answer uses didn't rather than don't."
+    }
+  ],
+  "studyTips": [
+    "After did or didn't, ask yourself whether the following verb is in its base form.",
+    "Practise each past statement in three forms: They arrived. They didn't arrive. Did they arrive?",
+    "For information questions, remember the order: question word + did + subject + base verb."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "___ you see the stars last night?",
+      "choices": [
+        "Do",
+        "Does",
+        "Did"
+      ],
+      "answerIndex": 2,
+      "feedback": "Last night refers to the past, so the question begins with Did."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "We stayed at home yesterday; we ___ visit the museum.",
+      "choices": [
+        "don't",
+        "didn't",
+        "weren't"
+      ],
+      "answerIndex": 1,
+      "feedback": "A negative past action needs didn't + the base verb visit."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct question about a trip last week.",
+      "choices": [
+        "Where did Mia go last week?",
+        "Where Mia did go last week?",
+        "Where did Mia went last week?"
+      ],
+      "answerIndex": 0,
+      "feedback": "The order is where + did + Mia + the base verb go."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct short answer to: \"Did your cousins phone yesterday?\"",
+      "choices": [
+        "Yes, they do.",
+        "Yes, they didn't.",
+        "Yes, they did."
+      ],
+      "answerIndex": 2,
+      "feedback": "Did questions take short answers with did or didn't; Yes, they did is affirmative."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: They stayed outside because they ___ have a ticket for the concert.",
+      "acceptedAnswers": [
+        "didn't"
+      ],
+      "feedback": "They stayed outside because they did not have a ticket; didn't is followed by the base verb have."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: Where ___ your family travel last summer?",
+      "acceptedAnswers": [
+        "did"
+      ],
+      "feedback": "Last summer refers to the past, so a question uses did."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with the base form of take: Did Ava ___ a photo at the museum?",
+      "acceptedAnswers": [
+        "take"
+      ],
+      "feedback": "After did, use the base form take, not took."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the short answer with one word: \"Did the film start late?\" \"Yes, it ___.\"",
+      "acceptedAnswers": [
+        "did"
+      ],
+      "feedback": "A positive short answer to Did it ...? is Yes, it did."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She didn't saw the final episode.",
+      "acceptedAnswers": [
+        "She didn't see the final episode.",
+        "She did not see the final episode."
+      ],
+      "feedback": "The verb after didn't is the base form see."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the question: Did your uncle drove home last night?",
+      "acceptedAnswers": [
+        "Did your uncle drive home last night?"
+      ],
+      "feedback": "A did question uses the base verb drive, not drove."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the question: Where you did find that book?",
+      "acceptedAnswers": [
+        "Where did you find that book?"
+      ],
+      "feedback": "Put did before the subject you."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the reply to \"Did they finish the project yesterday?\": No, they don't.",
+      "acceptedAnswers": [
+        "No, they didn't.",
+        "No, they did not."
+      ],
+      "feedback": "Use didn't for a negative short answer about a past action."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say a complete negative past sentence using: Nia / not / cook / dinner / yesterday.",
+      "acceptedAnswers": [
+        "Nia didn't cook dinner yesterday.",
+        "Nia did not cook dinner yesterday."
+      ],
+      "feedback": "With didn't or did not, use the base verb cook."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask a complete past question using: when / your train / arrive / yesterday.",
+      "acceptedAnswers": [
+        "When did your train arrive yesterday?"
+      ],
+      "feedback": "Put when first, followed by did + your train + arrive."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Give a negative short answer to: \"Did the twins buy flowers?\"",
+      "acceptedAnswers": [
+        "No, they didn't.",
+        "No, they did not."
+      ],
+      "feedback": "A past negative short answer with they uses didn't."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Say one complete negative past simple sentence beginning with 'The children'. Use: not / bring / umbrellas / yesterday.",
+      "acceptedAnswers": [
+        "The children didn't bring umbrellas yesterday.",
+        "The children did not bring umbrellas yesterday."
+      ],
+      "feedback": "Use didn't or did not followed by bring, not brought, in a past negative."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this past statement into a negative sentence; keep all the other information: I saw the message on Monday.",
+      "acceptedAnswers": [
+        "I didn't see the message on Monday.",
+        "I did not see the message on Monday."
+      ],
+      "feedback": "After didn't or did not, use the base verb see instead of saw."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Someone asks, 'Did Mara find the missing folder yesterday?' Give a positive short answer using 'she' and no extra information.",
+      "acceptedAnswers": [
+        "Yes, she did."
+      ],
+      "feedback": "A positive short answer to Did she ...? is Yes, she did."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct only the verb form in this question and say the complete corrected question: Why did the guests left early?",
+      "acceptedAnswers": [
+        "Why did the guests leave early?"
+      ],
+      "feedback": "After did, use the base form leave, not the past form left."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Report what happened in ONE sentence starting with 'Last Sunday' and linking the two facts with 'but': we / not / see / the main exhibition; we / see / the garden.",
+      "acceptedAnswers": [
+        "Last Sunday, we didn't see the main exhibition, but we saw the garden.",
+        "Last Sunday, we did not see the main exhibition, but we saw the garden."
+      ],
+      "feedback": "Use didn't see for the negative and saw for the affirmative completed action."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Did you finish the book yesterday evening?",
+      "prompt": "What does the speaker ask about?",
+      "choices": [
+        "Finishing a book yesterday evening",
+        "Buying a book yesterday evening",
+        "Reading a book every evening"
+      ],
+      "answerIndex": 0,
+      "feedback": "Did you finish asks whether the listener completed the book at a past time."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "No, he didn't. He stayed at home on Saturday.",
+      "prompt": "Which short answer do you hear?",
+      "choices": [
+        "No, he doesn't.",
+        "No, he didn't.",
+        "Yes, he did."
+      ],
+      "answerIndex": 1,
+      "feedback": "Didn't makes the reply a negative answer about a past event."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Where did the children play after school?",
+      "prompt": "Type the one-word past question auxiliary you hear.",
+      "acceptedAnswers": [
+        "did"
+      ],
+      "feedback": "Did comes before the subject in past simple questions."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I didn't buy the blue jacket because it was too expensive.",
+      "prompt": "What did the speaker decide about the jacket?",
+      "choices": [
+        "They bought it for a friend",
+        "They decided not to purchase it",
+        "They returned it after wearing it"
+      ],
+      "answerIndex": 1,
+      "feedback": "Didn't buy means the purchase did not happen, because the price was too high."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Did Aisha send the email on Tuesday? No, she didn't. She sent it on Wednesday.",
+      "prompt": "On which day was the email sent?",
+      "choices": [
+        "Tuesday",
+        "Thursday",
+        "Wednesday"
+      ],
+      "answerIndex": 2,
+      "feedback": "The answer rejects Tuesday and says the message was sent on Wednesday."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Did Liam call the doctor? No, he didn't. He sent a message instead.",
+      "prompt": "How did Liam contact the doctor?",
+      "choices": [
+        "He wrote a message",
+        "He made a phone call",
+        "He visited in person"
+      ],
+      "answerIndex": 0,
+      "feedback": "He did not call; he contacted the doctor by message instead."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Our neighbours didn't use the lift after the power cut.",
+      "prompt": "Type the one-word contracted past negative helper immediately before 'use'.",
+      "acceptedAnswers": [
+        "didn't"
+      ],
+      "feedback": "Didn't is short for did not and comes before the base verb use."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Did your cousin take the early train on Friday?",
+      "prompt": "Type the one-word base verb immediately after 'your cousin'.",
+      "acceptedAnswers": [
+        "take"
+      ],
+      "feedback": "The past question uses did followed by the base verb take, not took."
+    }
+  ]
+}

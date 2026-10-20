@@ -1,0 +1,402 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u062",
+  "title": "Personal Pronouns: I, Me, My and Mine",
+  "level": "A2",
+  "topicId": "personal-possessive-pronoun-forms",
+  "summary": "Choose personal and possessive pronouns according to their job in a sentence. Contrast subject forms, object forms, possessive words before nouns, and possessive pronouns used alone.",
+  "learningObjectives": [
+    "Use subject pronouns to identify who performs an action.",
+    "Use object pronouns after verbs and prepositions.",
+    "Choose the correct possessive form before a noun or without a noun.",
+    "Combine subject, object and possessive forms in a short exchange."
+  ],
+  "explanation": [
+    {
+      "heading": "Who does the action? Use a subject pronoun",
+      "body": "I, you, he, she, it, we and they act as subjects. Usually they come before the verb and name the person or thing doing the action. I is always written with a capital letter.",
+      "example": "They visit us on Sundays."
+    },
+    {
+      "heading": "Who receives the action? Use an object pronoun",
+      "body": "Me, you, him, her, it, us and them can be objects of verbs or prepositions. Use an object form after verbs such as call, invite and help, and after words such as to, with and for.",
+      "example": "Please send her a message."
+    },
+    {
+      "heading": "Possession before a noun",
+      "body": "My, your, his, her, its, our and their show a relationship to a noun. Keep the noun after these words: my bag, her desk, their keys. Do not use the standalone possessive forms directly before nouns.",
+      "example": "Our neighbour knows their teacher."
+    },
+    {
+      "heading": "Possession without a noun",
+      "body": "Use mine, yours, his, hers, ours and theirs when the noun is already clear. Compare my phone with mine and their seats with theirs. The form his works in both places; its is normally used before a noun, not as a standalone possessive pronoun.",
+      "example": "My chair is near the door. Yours is by the window."
+    },
+    {
+      "heading": "Use more than one form in a sentence",
+      "body": "The same person can have different forms according to the grammar: she can be a subject, her can be an object or come before a noun, and hers replaces a possessive noun phrase. For relationships, say a friend of mine, not a friend of me.",
+      "example": "He gave me his address, and I gave him mine."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Person doing or receiving an action",
+      "left": {
+        "label": "Subject",
+        "example": "She called us.",
+        "note": "She does the calling."
+      },
+      "right": {
+        "label": "Object",
+        "example": "We called her.",
+        "note": "Her receives the action of the verb."
+      }
+    },
+    {
+      "title": "Possession with or without a noun",
+      "left": {
+        "label": "Before the noun",
+        "example": "Is that your backpack?",
+        "note": "Your must come before backpack."
+      },
+      "right": {
+        "label": "Without the noun",
+        "example": "No, mine is in the hall.",
+        "note": "Mine replaces my backpack."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "He lives near me, and I sometimes visit him.",
+      "note": "He and I are subjects; me and him follow a preposition or verb."
+    },
+    {
+      "sentence": "We invited them to our picnic.",
+      "note": "We is a subject, them is a verb object, and our comes before picnic."
+    },
+    {
+      "sentence": "This is her jacket, not his.",
+      "note": "Her comes before jacket; his is used without a noun."
+    },
+    {
+      "sentence": "Do you know a friend of theirs?",
+      "note": "Theirs correctly follows a friend of."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Her likes music.",
+      "correct": "She likes music.",
+      "why": "Use the subject form she before the verb likes."
+    },
+    {
+      "incorrect": "I called she after lunch.",
+      "correct": "I called her after lunch.",
+      "why": "The verb called takes the object form her."
+    },
+    {
+      "incorrect": "That umbrella is my.",
+      "correct": "That umbrella is mine.",
+      "why": "Use mine without a noun after it."
+    },
+    {
+      "incorrect": "He invited we to dinner.",
+      "correct": "He invited us to dinner.",
+      "why": "Us is the object form after invited."
+    }
+  ],
+  "studyTips": [
+    "Practise a four-form set with a short example: I, me, my, mine; she, her, her, hers; they, them, their, theirs.",
+    "Find the verb first. Ask who does the action and who receives it before choosing a pronoun.",
+    "Check whether a noun follows: her coat but hers; our seats but ours."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "___ gave us a lift to the station.",
+      "choices": [
+        "They",
+        "Them",
+        "Their"
+      ],
+      "answerIndex": 0,
+      "feedback": "They is a subject pronoun and comes before gave."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Could you send ___ the address?",
+      "choices": [
+        "I",
+        "me",
+        "my"
+      ],
+      "answerIndex": 1,
+      "feedback": "Me is the object of send; I is a subject and my needs a noun."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "That bicycle is not hers. It is ___.",
+      "choices": [
+        "me",
+        "my",
+        "mine"
+      ],
+      "answerIndex": 2,
+      "feedback": "Mine stands alone to mean my bicycle."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "We met Joel yesterday. ___ showed us his new flat.",
+      "choices": [
+        "He",
+        "Him",
+        "His"
+      ],
+      "answerIndex": 0,
+      "feedback": "He is the subject doing the action showed."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Mia is friendly. Everyone likes ___.",
+      "acceptedAnswers": [
+        "her"
+      ],
+      "feedback": "Her is the object form after the verb likes."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "We live next door to Tim. He often visits ___.",
+      "acceptedAnswers": [
+        "us"
+      ],
+      "feedback": "Us is the object referring to the group represented by we."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "They have a dog. ___ dog is very calm.",
+      "acceptedAnswers": [
+        "Their"
+      ],
+      "feedback": "Their goes before the noun dog to show possession."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "This camera belongs to them. It is ___.",
+      "acceptedAnswers": [
+        "theirs"
+      ],
+      "feedback": "Theirs replaces their camera without a noun following it."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Me work in a small shop.",
+      "acceptedAnswers": [
+        "I work in a small shop."
+      ],
+      "feedback": "I is the subject form before work."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Please tell they the time.",
+      "acceptedAnswers": [
+        "Please tell them the time."
+      ],
+      "feedback": "Use the object form them after tell."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: That is hers notebook.",
+      "acceptedAnswers": [
+        "That is her notebook."
+      ],
+      "feedback": "Her, not hers, goes directly before a noun."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The empty seat is our.",
+      "acceptedAnswers": [
+        "The empty seat is ours."
+      ],
+      "feedback": "Ours replaces our seat and stands without a noun."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say that the teacher asked you and your brother to wait. Use 'us'.",
+      "acceptedAnswers": [
+        "The teacher asked us to wait."
+      ],
+      "feedback": "Us is the object pronoun for the speaker and another person."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say that you own the red bicycle. Start with 'The red bicycle'.",
+      "acceptedAnswers": [
+        "The red bicycle is mine."
+      ],
+      "feedback": "Mine is a possessive pronoun that replaces my bicycle."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say that Nina is one of your friends. Use 'a friend of'.",
+      "acceptedAnswers": [
+        "Nina is a friend of mine."
+      ],
+      "feedback": "The possessive pronoun mine follows a friend of."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You put your own red backpack behind yourself yesterday. Say one sentence starting 'I', using 'put', 'my red backpack', and 'behind me'.",
+      "acceptedAnswers": [
+        "I put my red backpack behind me."
+      ],
+      "feedback": "I is the subject, my comes before red backpack, and me follows the preposition behind."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change 'Sarah showed us Sarah's photo.' Replace the two mentions of Sarah with a subject pronoun and a possessive word. Keep the verb and the word 'us'.",
+      "acceptedAnswers": [
+        "She showed us her photo."
+      ],
+      "feedback": "She is the subject, us is the object of showed, and her comes before photo."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks, 'Is that your lunch bag?' It belongs to you. Start your answer 'Yes, it' and finish with a possessive pronoun.",
+      "acceptedAnswers": [
+        "Yes, it's mine.",
+        "Yes, it is mine."
+      ],
+      "feedback": "Mine stands alone because the noun lunch bag is already understood."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the two pronoun errors and say the whole sentence: 'Him gave I his address.' Do not change the other words.",
+      "acceptedAnswers": [
+        "He gave me his address."
+      ],
+      "feedback": "He is the subject, me receives the action, and his comes before the noun address."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Luca gave you his ticket, and you gave Luca your ticket. Tell a friend about the exchange in one past-tense sentence. Begin 'He gave me' and end with 'mine'.",
+      "acceptedAnswers": [
+        "He gave me his ticket, and I gave him mine.",
+        "He gave me his ticket and I gave him mine."
+      ],
+      "feedback": "He and I are subjects, me and him are objects, his describes ticket, and mine replaces my ticket."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We invited Leo, and he brought his sister with him.",
+      "prompt": "Who brought a sister?",
+      "choices": [
+        "The speakers",
+        "Leo",
+        "The sister"
+      ],
+      "answerIndex": 1,
+      "feedback": "He refers to Leo and is the subject of brought."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The red coat belongs to Alice, but the blue one is ours.",
+      "prompt": "Who owns the blue coat?",
+      "choices": [
+        "Alice",
+        "Nobody",
+        "The speaker and other people"
+      ],
+      "answerIndex": 2,
+      "feedback": "Ours means belonging to the speaker and their group."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "She gave them her phone number.",
+      "prompt": "Type the object pronoun immediately after 'gave'.",
+      "acceptedAnswers": [
+        "them"
+      ],
+      "feedback": "Them is the object pronoun for the people receiving the phone number."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Alicia gave me her spare key, so I could open the front door while she was away.",
+      "prompt": "Why could the speaker open the door?",
+      "choices": [
+        "The door was already open",
+        "Alicia lent the speaker a key",
+        "Alicia came home early"
+      ],
+      "answerIndex": 1,
+      "feedback": "Me refers to the speaker, who received the spare key from Alicia."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "We couldn't find our coats, so Dan brought them to us after lunch.",
+      "prompt": "Who received the coats?",
+      "choices": [
+        "Only Dan",
+        "Some strangers",
+        "The speaker and companions"
+      ],
+      "answerIndex": 2,
+      "feedback": "Us is the object pronoun referring to the speaker and the other people in we."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I checked my bag, but Sam checked hers. Neither of us found the keys.",
+      "prompt": "Which bag did Sam check?",
+      "choices": [
+        "The speaker's bag",
+        "Sam's own bag",
+        "Both bags"
+      ],
+      "answerIndex": 1,
+      "feedback": "Hers means her bag, so Sam checked her own rather than the speaker's bag."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Please call me when you arrive at the station.",
+      "prompt": "Type the object pronoun you hear immediately after 'call'.",
+      "acceptedAnswers": [
+        "me"
+      ],
+      "feedback": "Me is the object pronoun after the verb call; I would be the subject form."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Her parents invited us, but our friends couldn't come.",
+      "prompt": "Type the possessive word you hear immediately before 'friends'.",
+      "acceptedAnswers": [
+        "our"
+      ],
+      "feedback": "Our comes before the noun friends and refers to the speaker's group."
+    }
+  ]
+}

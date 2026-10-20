@@ -1,3 +1,4 @@
+import {GRAMMAR_COLLECTIONS,grammarPathInfo,grammarCollection} from './collections.js';
 /** Grammar Lab JSON v1. Existing pilot lessons remain compatible; teaching blocks are optional. */
 export const GRAMMAR_FORMAT = 'vocablab-grammar-unit';
 export const GRAMMAR_TYPES = Object.freeze(['multiple-choice', 'gap-fill', 'error-correction']);
@@ -126,22 +127,35 @@ export function validateGrammarUnit(data) {
   return data;
 }
 export function validGrammarPath(path) {
-  return typeof path === 'string' && /^grammar\/units\/[A-Za-z0-9_-]+\.json$/.test(path);
+  return grammarPathInfo(path)!==null;
 }
 export function validateGrammarManifest(data) {
   if (!data || data.format !== 'vocablab-grammar-catalog' || data.version !== 1 ||
       !Array.isArray(data.units) || data.units.length > 500) throw new Error('Invalid grammar catalog format.');
   const ids = new Set();
+  const counts = Object.fromEntries(GRAMMAR_COLLECTIONS.map(c=>[c.id,0]));
   for (const item of data.units) {
     assertId(item?.id, 'catalog unit id');
     assertText(item.title, 'catalog title', 160);
     assertId(item.topicId, 'catalog topicId');
-    if (!LEVELS.has(item.level) || !validGrammarPath(item.path) ||
+    const info=grammarPathInfo(item.path),collection=grammarCollection(item.collectionId);
+    if (!info || !collection || info.collectionId!==item.collectionId || info.id!==item.id ||
+        info.number!==item.number || !collection.levels.includes(item.level) ||
         !Number.isInteger(item.exerciseCount) || item.exerciseCount < 1 || item.exerciseCount > 150 ||
         (item.speakingCount !== undefined && (!Number.isInteger(item.speakingCount) || item.speakingCount < 0 || item.speakingCount > 30)) ||
         (item.listeningCount !== undefined && (!Number.isInteger(item.listeningCount) || item.listeningCount < 0 || item.listeningCount > 30)) ||
         ids.has(item.id)) throw new Error(`Invalid grammar catalog entry: ${item.id}.`);
-    ids.add(item.id);
+    ids.add(item.id);counts[item.collectionId]++;
+  }
+  if(!Array.isArray(data.collections) || data.collections.length!==GRAMMAR_COLLECTIONS.length)
+    throw new Error('Grammar catalog must list the three collections.');
+  const seenCollections=new Set();
+  for(const item of data.collections){
+    const config=grammarCollection(item?.id);
+    if(!config || seenCollections.has(item.id) || item.title!==config.title || item.level!==config.level ||
+        item.book!==config.book || item.edition!==config.edition || item.unitCount!==counts[item.id])
+      throw new Error(`Invalid grammar collection metadata: ${item?.id}`);
+    seenCollections.add(item.id);
   }
   return data.units;
 }

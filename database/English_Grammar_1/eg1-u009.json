@@ -1,0 +1,413 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u009",
+  "title": "Have and Have Got: Possession",
+  "level": "A1",
+  "topicId": "have-and-have-got",
+  "summary": "Use have and have got to talk about things people own, family relationships and present situations. Make matching negative sentences, questions and short answers.",
+  "learningObjectives": [
+    "Choose have or has to talk about present possession and relationships.",
+    "Use have got or has got with the correct subject and natural contractions.",
+    "Form negative sentences with don't have, doesn't have, haven't got and hasn't got.",
+    "Ask possession questions and respond with the matching auxiliary."
+  ],
+  "explanation": [
+    {
+      "heading": "Have and have got express present possession",
+      "body": "For things you own and some present situations, you can often use have or have got with the same meaning. Use have with I, we, you and they, and has with he, she and it. Common short forms of have got include I've got, you've got and she's got. Here, she's got means she has got, not she is got.",
+      "example": "Our neighbours have a small boat. / Our neighbours have got a small boat."
+    },
+    {
+      "heading": "Make negatives in two different ways",
+      "body": "With have, use don't have or doesn't have. With have got, use haven't got or hasn't got. After doesn't, use have, not has. Choose the pattern you are practising; do not combine doesn't with got.",
+      "example": "Ethan doesn't have a bicycle. / Ethan hasn't got a bicycle."
+    },
+    {
+      "heading": "Ask questions using do/does ... have",
+      "body": "For the have pattern, use Do or Does before the subject and put have after it: Do you have ...? Does she have ...? The verb remains have after does. Answer with do, does, don't or doesn't.",
+      "example": "Does your flat have a balcony? Yes, it does."
+    },
+    {
+      "heading": "Ask questions using have/has ... got",
+      "body": "For the have got pattern, move have or has before the subject: Have you got ...? Has he got ...? Short answers repeat have or has: Yes, I have; No, she hasn't. Do not add do or does to a have got question.",
+      "example": "Have your cousins got a dog? No, they haven't."
+    },
+    {
+      "heading": "Ask about amounts and family or health situations",
+      "body": "Both patterns work in simple present questions about how many things someone has, family members and common current conditions such as a headache. How many books do they have? and How many books have they got? ask the same thing. This lesson is about having, not activity expressions such as have breakfast.",
+      "example": "My sister has got a headache, so she is resting."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Two ways to express the same possession",
+      "left": {
+        "label": "Have",
+        "example": "I have three cousins.",
+        "note": "Use have or has as the main verb."
+      },
+      "right": {
+        "label": "Have got",
+        "example": "I've got three cousins.",
+        "note": "Have got expresses the same present relationship."
+      }
+    },
+    {
+      "title": "Two question patterns, two short-answer patterns",
+      "left": {
+        "label": "Do/does + have",
+        "example": "Does Ryan have a passport? Yes, he does.",
+        "note": "The auxiliary for the short answer is does."
+      },
+      "right": {
+        "label": "Have/has + got",
+        "example": "Has Ryan got a passport? Yes, he has.",
+        "note": "The short answer uses has, without repeating got."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "We have a little garden behind our house.",
+      "note": "A plural subject uses have to describe possession."
+    },
+    {
+      "sentence": "Sofia's got two younger brothers.",
+      "note": "The contraction ’s got means has got with Sofia."
+    },
+    {
+      "sentence": "I haven't got my wallet with me.",
+      "note": "Haven't got makes a present negative with I."
+    },
+    {
+      "sentence": "Does your school have a library?",
+      "note": "Does + singular subject + have forms a question."
+    },
+    {
+      "sentence": "Have they got enough chairs? Yes, they have.",
+      "note": "The answer to Have they got uses have."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "My brother have got a new coat.",
+      "correct": "My brother has got a new coat.",
+      "why": "A singular subject such as my brother takes has got."
+    },
+    {
+      "incorrect": "Tara doesn't has a bicycle.",
+      "correct": "Tara doesn't have a bicycle.",
+      "why": "After doesn't, always use the base form have."
+    },
+    {
+      "incorrect": "Do you have got a pen?",
+      "correct": "Have you got a pen?",
+      "why": "Do not put do before the have got question pattern."
+    },
+    {
+      "incorrect": "Has they got any pets?",
+      "correct": "Have they got any pets?",
+      "why": "They takes have, not has, in a have got question."
+    }
+  ],
+  "studyTips": [
+    "Take a short possession sentence and say it twice: I have a key. I've got a key.",
+    "Practise two matching question pairs: Do you have ...? Yes, I do. Have you got ...? Yes, I have.",
+    "Check the auxiliary in negatives: doesn't have, but hasn't got."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The twins ___ a small garden at their house.",
+      "choices": [
+        "have",
+        "has",
+        "is"
+      ],
+      "answerIndex": 0,
+      "feedback": "The twins is plural, so use have to describe possession."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Leah ___ any brothers or sisters.",
+      "choices": [
+        "don't have",
+        "doesn't have",
+        "haven't got"
+      ],
+      "answerIndex": 1,
+      "feedback": "Leah is one person. The have pattern therefore needs doesn't have."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct question using have got.",
+      "choices": [
+        "Have Priya got a bike?",
+        "Does Priya has got a bike?",
+        "Has Priya got a bike?"
+      ],
+      "answerIndex": 2,
+      "feedback": "Priya is singular, so begin a have got question with Has."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which question correctly uses do + have?",
+      "choices": [
+        "Do they have any pets?",
+        "Do they got any pets?",
+        "Do they has any pets?"
+      ],
+      "answerIndex": 0,
+      "feedback": "With they, the correct question pattern is Do + subject + have."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: She ___ got a new camera.",
+      "acceptedAnswers": [
+        "has"
+      ],
+      "feedback": "She has got describes present possession; she's got is the contraction."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Rewrite using have got. Complete: We don't have a balcony. → We ___ got a balcony.",
+      "acceptedAnswers": [
+        "haven't",
+        "have not"
+      ],
+      "feedback": "The equivalent negative with we is haven't got."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: ___ your grandparents have a television?",
+      "acceptedAnswers": [
+        "Do"
+      ],
+      "feedback": "Grandparents is plural, so use Do in the do/does + have pattern."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the short answer: Has your dad got any brothers? No, he ___.",
+      "acceptedAnswers": [
+        "hasn't",
+        "has not"
+      ],
+      "feedback": "A short answer to Has he got ...? uses No, he hasn't."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: He have got two bicycles.",
+      "acceptedAnswers": [
+        "He has got two bicycles.",
+        "He's got two bicycles."
+      ],
+      "feedback": "With he, use has got; he's got is its natural contracted form."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the question: Do your parents has a car?",
+      "acceptedAnswers": [
+        "Do your parents have a car?"
+      ],
+      "feedback": "After do, the main verb must be have, not has."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She doesn't has a phone.",
+      "acceptedAnswers": [
+        "She doesn't have a phone.",
+        "She does not have a phone."
+      ],
+      "feedback": "Doesn't is followed by the base form have."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the question: Have your sister got a cat?",
+      "acceptedAnswers": [
+        "Has your sister got a cat?"
+      ],
+      "feedback": "Your sister is singular, so the correct question begins with Has."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say this possession sentence using have got: I have a spare key.",
+      "acceptedAnswers": [
+        "I have got a spare key.",
+        "I've got a spare key."
+      ],
+      "feedback": "I've got and I have got are both correct with I."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask a question using has ... got and these words: your brother / a watch.",
+      "acceptedAnswers": [
+        "Has your brother got a watch?"
+      ],
+      "feedback": "Put Has before the singular subject your brother, then use got."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Give a negative short answer only: Have they got any tickets?",
+      "acceptedAnswers": [
+        "No, they haven't.",
+        "No, they have not."
+      ],
+      "feedback": "With Have they got ...?, the negative short answer is No, they haven't."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Use have got to say one complete sentence with these facts: Lily / a new laptop.",
+      "acceptedAnswers": [
+        "Lily has got a new laptop.",
+        "Lily's got a new laptop."
+      ],
+      "feedback": "Lily is one person, so use has got. Lily’s got is a natural contraction."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this negative sentence into the don't have pattern, keeping the same meaning: We haven't got a garage.",
+      "acceptedAnswers": [
+        "We don't have a garage.",
+        "We do not have a garage."
+      ],
+      "feedback": "With we, use don't have or do not have; do not include got."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You know that Aaron has a passport. A friend asks, 'Does Aaron have a passport?' Give only a positive short answer.",
+      "acceptedAnswers": [
+        "Yes, he does."
+      ],
+      "feedback": "The question begins with Does, so the positive short answer ends with he does."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this question using the have got pattern, not the do/does pattern: 'Do the children have got their tickets?'",
+      "acceptedAnswers": [
+        "Have the children got their tickets?"
+      ],
+      "feedback": "In a have got question, move have before the plural subject and do not add do."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Tell a visitor about your apartment in one sentence. Start with 'My apartment', use has got (or its contraction), and include both facts in this order: two bedrooms and a balcony.",
+      "acceptedAnswers": [
+        "My apartment has got two bedrooms and a balcony.",
+        "My apartment's got two bedrooms and a balcony."
+      ],
+      "feedback": "My apartment is singular, so use has got; apartment’s got is the contracted form."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We've got two bicycles, but we haven't got a car.",
+      "prompt": "What does the speaker say they have?",
+      "choices": [
+        "A car only",
+        "Two bicycles",
+        "A car and two bicycles"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker says they have two bicycles and do not have a car."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Has your uncle got a garden? No, he hasn't.",
+      "prompt": "What is the answer about the uncle?",
+      "choices": [
+        "He has a large garden.",
+        "He has two gardens.",
+        "He has not got a garden."
+      ],
+      "answerIndex": 2,
+      "feedback": "No, he hasn't is the negative short answer to Has he got ...?"
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Our flat has got three bedrooms.",
+      "prompt": "Type the two-word verb phrase that expresses possession.",
+      "acceptedAnswers": [
+        "has got"
+      ],
+      "feedback": "Has got is used with the singular subject our flat."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The café doesn't have any tables outside, so we are sitting inside.",
+      "prompt": "Where did the people find somewhere to sit?",
+      "choices": [
+        "On the pavement outside",
+        "Inside the café",
+        "In a nearby park"
+      ],
+      "answerIndex": 1,
+      "feedback": "Because there are no outdoor tables, the people are sitting inside."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "We have got five blankets for the four guests staying tonight.",
+      "prompt": "Do they have enough blankets for the visitors?",
+      "choices": [
+        "Yes, with one blanket left over",
+        "No, they need one more blanket",
+        "No, they need two more blankets"
+      ],
+      "answerIndex": 0,
+      "feedback": "Five blankets for four people means one blanket is left over."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Does Ruth have a camera? Yes, she does. Has Tom got one? No, he hasn't.",
+      "prompt": "Who owns a camera?",
+      "choices": [
+        "Only Tom",
+        "Both people",
+        "Only Ruth"
+      ],
+      "answerIndex": 2,
+      "feedback": "Yes, she does confirms Ruth has one; No, he hasn’t confirms Tom does not."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "I haven't got my coat, so I feel cold.",
+      "prompt": "Type the two-word negative possession phrase you hear.",
+      "acceptedAnswers": [
+        "haven't got"
+      ],
+      "feedback": "Haven't got is the negative have got form with I."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "She's got a wooden box for her old letters.",
+      "prompt": "Type the two-word contracted possession phrase at the beginning of the audio.",
+      "acceptedAnswers": [
+        "She's got"
+      ],
+      "feedback": "She's got is short for she has got when describing possession."
+    }
+  ]
+}

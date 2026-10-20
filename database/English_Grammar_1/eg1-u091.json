@@ -1,0 +1,408 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u091",
+  "title": "Enough: Having What Is Needed",
+  "level": "A2",
+  "topicId": "enough-quantity-degree-purpose",
+  "summary": "Use enough to say that a quantity, quality, or action meets a need. Put enough before a noun but after an adjective or adverb, and connect it to people and actions with for and to.",
+  "learningObjectives": [
+    "Place enough before countable and uncountable nouns to express a sufficient amount or number.",
+    "Place enough after adjectives and adverbs to describe a sufficient degree.",
+    "Use enough without a noun when the thing or action is already understood.",
+    "Choose for + person and to + verb when explaining who needs something or what it is sufficient to do."
+  ],
+  "explanation": [
+    {
+      "heading": "Enough before a noun",
+      "body": "Put enough before a noun when the amount or number meets a need: enough bread, enough plates, enough space. If the quantity is too small, use not enough before the noun. The same pattern works with countable plural and uncountable nouns.",
+      "example": "We have enough plates for all six guests."
+    },
+    {
+      "heading": "Enough after an adjective or adverb",
+      "body": "When enough describes a quality or manner, place it after the adjective or adverb: warm enough, bright enough, slowly enough. Not enough means the degree is below what is needed. Do not put enough before the adjective.",
+      "example": "The path is wide enough for two bicycles."
+    },
+    {
+      "heading": "Enough without a noun",
+      "body": "You can leave out the noun after enough when everyone knows what you are discussing. With a verb, enough can describe the amount of an activity: sleep enough, practise enough, or eat enough.",
+      "example": "I have some paint, but not enough to finish the wall."
+    },
+    {
+      "heading": "Enough for a person or purpose",
+      "body": "Use enough for + person or thing to show who needs the quantity or quality. Use enough to + base verb for an action: enough time to rest, strong enough to carry. Never use for directly before a base verb.",
+      "example": "There are enough blankets for everyone to stay warm."
+    },
+    {
+      "heading": "Enough for somebody to do something",
+      "body": "You can combine both patterns: adjective + enough + for + person + to + base verb. This identifies whose ability or needs are involved. It also works with enough + noun + for + person + to + verb.",
+      "example": "The instructions are simple enough for my sister to follow."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Position with nouns versus adjectives",
+      "left": {
+        "label": "Enough + noun",
+        "example": "There is enough room for the table.",
+        "note": "Enough comes before a noun such as room."
+      },
+      "right": {
+        "label": "Adjective + enough",
+        "example": "The room is large enough for the table.",
+        "note": "Enough comes after an adjective such as large."
+      }
+    },
+    {
+      "title": "A person versus an action",
+      "left": {
+        "label": "Enough for a person",
+        "example": "We have enough sandwiches for the children.",
+        "note": "For names the person or group that needs something."
+      },
+      "right": {
+        "label": "Enough to do something",
+        "example": "We have enough bread to make sandwiches.",
+        "note": "To introduces the action; use the base verb make."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "We have enough fruit to make a salad.",
+      "note": "Enough comes before the uncountable noun fruit."
+    },
+    {
+      "sentence": "I do not have enough batteries for both lamps.",
+      "note": "Enough comes before the plural countable noun batteries."
+    },
+    {
+      "sentence": "The lamp is bright enough to read by.",
+      "note": "Enough follows the adjective bright."
+    },
+    {
+      "sentence": "We did not walk quickly enough to catch the train.",
+      "note": "Enough follows the adverb quickly."
+    },
+    {
+      "sentence": "Have you eaten enough?",
+      "note": "Enough can stand without an expressed noun after a verb."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "They brought towels enough for everyone.",
+      "correct": "They brought enough towels for everyone.",
+      "why": "Place enough before a noun."
+    },
+    {
+      "incorrect": "The water is enough warm to swim in.",
+      "correct": "The water is warm enough to swim in.",
+      "why": "Place enough after an adjective."
+    },
+    {
+      "incorrect": "I have enough time for finish the report.",
+      "correct": "I have enough time to finish the report.",
+      "why": "Use to before a base verb expressing an action."
+    },
+    {
+      "incorrect": "This chair is big enough to my brother.",
+      "correct": "This chair is big enough for my brother.",
+      "why": "Use for before the person who needs or uses something."
+    }
+  ],
+  "studyTips": [
+    "Look immediately to the right of enough: if a noun follows, the pattern is usually enough + noun.",
+    "If an adjective or adverb describes a degree, say that word first and then enough.",
+    "Practise complete pairs such as “enough food for four people” and “enough food to feed four people”."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "We need ___ to make the soup.",
+      "choices": [
+        "enough water",
+        "water enough",
+        "enough of water"
+      ],
+      "answerIndex": 0,
+      "feedback": "Water is a noun, so put enough before it."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "This jacket is not ___ to wear outside tonight.",
+      "choices": [
+        "enough warm",
+        "warm enough",
+        "warmth enough"
+      ],
+      "answerIndex": 1,
+      "feedback": "Enough follows an adjective such as warm."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "We did not practise ___ to play the song well.",
+      "choices": [
+        "enough of",
+        "very enough",
+        "enough"
+      ],
+      "answerIndex": 2,
+      "feedback": "Enough can follow a verb to describe sufficient practice, without a noun."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The room is ___ for six people to sit comfortably.",
+      "choices": [
+        "big enough",
+        "enough big",
+        "enough of big"
+      ],
+      "answerIndex": 0,
+      "feedback": "Big is an adjective, so enough comes after it."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "There are ten guests and ten seats. We have ___ seats for everybody. (One word.)",
+      "acceptedAnswers": [
+        "enough"
+      ],
+      "feedback": "Ten seats for ten people means the number is sufficient; enough goes before seats."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The bread is not fresh ___ to serve. (One word.)",
+      "acceptedAnswers": [
+        "enough"
+      ],
+      "feedback": "With the adjective fresh, enough comes after it."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The letters are not ___ enough for me to read. (Use the adjective big.)",
+      "acceptedAnswers": [
+        "big"
+      ],
+      "feedback": "Use adjective + enough to describe a sufficient size."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "There is enough paper ___ print the invitations. (One word.)",
+      "acceptedAnswers": [
+        "to"
+      ],
+      "feedback": "To + base verb introduces what the paper is sufficient to do."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the word order: I have money enough to buy the ticket.",
+      "acceptedAnswers": [
+        "I have enough money to buy the ticket."
+      ],
+      "feedback": "With a noun like money, enough comes before it."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the word order: It is enough quiet to study here.",
+      "acceptedAnswers": [
+        "It is quiet enough to study here."
+      ],
+      "feedback": "Enough follows an adjective such as quiet."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the word introducing the action: We have enough cups for make tea.",
+      "acceptedAnswers": [
+        "We have enough cups to make tea."
+      ],
+      "feedback": "Use to make when introducing the action, not for make."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the preposition: This table is not big enough of the whole family.",
+      "acceptedAnswers": [
+        "This table is not big enough for the whole family."
+      ],
+      "feedback": "For identifies who needs the table to be big enough."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "There are eight seats on the bus and eight passengers. Say a full sentence starting with “The bus has” and ending with “for everyone”.",
+      "acceptedAnswers": [
+        "The bus has enough seats for everyone."
+      ],
+      "feedback": "Enough goes before the plural noun seats."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Correct and say the whole sentence: “Luca is enough old to drive.”",
+      "acceptedAnswers": [
+        "Luca is old enough to drive."
+      ],
+      "feedback": "Enough follows the adjective old."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say one complete sentence beginning “I have” and using “enough money to buy lunch”.",
+      "acceptedAnswers": [
+        "I have enough money to buy lunch."
+      ],
+      "feedback": "Enough money is followed by to + base verb to describe the purchase."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Ben spoke slowly, so everyone understood. Begin with 'Ben spoke' and use 'slowly enough for everyone to understand' to make one complete sentence.",
+      "acceptedAnswers": [
+        "Ben spoke slowly enough for everyone to understand."
+      ],
+      "feedback": "Enough comes after the adverb slowly; for everyone to understand explains who could follow his speech."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this to a negative sentence without changing the other words: 'The path is wide enough for a wheelchair.'",
+      "acceptedAnswers": [
+        "The path is not wide enough for a wheelchair.",
+        "The path isn't wide enough for a wheelchair."
+      ],
+      "feedback": "Put not before the adjective; enough still follows wide."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks if you can make a pizza, but you have no cheese. Start with 'We' and finish with 'to make a pizza'. Use 'not have enough cheese'.",
+      "acceptedAnswers": [
+        "We do not have enough cheese to make a pizza.",
+        "We don't have enough cheese to make a pizza."
+      ],
+      "feedback": "Enough comes before the noun cheese, and to make introduces the purpose."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "You have plenty of soup, but it is cold. Explain the difference in two short sentences: 'We have enough soup.' Then say 'It isn't warm enough.'",
+      "acceptedAnswers": [
+        "We have enough soup. It isn't warm enough.",
+        "We have enough soup. It is not warm enough."
+      ],
+      "feedback": "Enough soup expresses sufficient quantity; warm enough expresses sufficient temperature. The second sentence says the soup is not warm enough."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You are painting a fence. You have sufficient paint but insufficient time. Tell your partner in two sentences beginning 'We have enough paint' and 'We don't have enough time'.",
+      "acceptedAnswers": [
+        "We have enough paint. We don't have enough time.",
+        "We have enough paint. We do not have enough time."
+      ],
+      "feedback": "Enough comes before both uncountable nouns, paint and time. The negative sentence describes a shortage of time."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "There are not enough cups for all the guests.",
+      "prompt": "What is there too little of?",
+      "choices": [
+        "Plates",
+        "Cups",
+        "Chairs"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker says there are not enough cups."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The instructions are clear enough for Mia to follow.",
+      "prompt": "What can Mia do with the instructions?",
+      "choices": [
+        "Write them",
+        "Print them",
+        "Follow them"
+      ],
+      "answerIndex": 2,
+      "feedback": "Clear enough for Mia to follow means Mia is able to understand and use them."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The film was short enough for the children to watch before dinner.",
+      "prompt": "Type the word immediately after “short” in the audio.",
+      "acceptedAnswers": [
+        "enough"
+      ],
+      "feedback": "Enough comes after the adjective short."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I brought enough maps for all five visitors, so nobody needs to share.",
+      "prompt": "What is true about the visitors' maps?",
+      "choices": [
+        "Only one visitor can use a map.",
+        "Two visitors must share each map.",
+        "Each visitor can have a map."
+      ],
+      "answerIndex": 2,
+      "feedback": "There are sufficient maps for all five visitors, so each visitor can have one."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The directions are clear enough for the children to find the picnic area without help.",
+      "prompt": "How can the children reach the picnic area?",
+      "choices": [
+        "They can follow the directions on their own.",
+        "They need someone to lead them there.",
+        "They must wait for clearer directions."
+      ],
+      "answerIndex": 0,
+      "feedback": "Clear enough and without help mean the children can find the place independently."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We have enough chairs for everyone, but the room isn't quiet enough for a meeting.",
+      "prompt": "What needs to change before the meeting?",
+      "choices": [
+        "The group needs more chairs.",
+        "The room needs to be quieter.",
+        "The room needs to be smaller."
+      ],
+      "answerIndex": 1,
+      "feedback": "The seating is sufficient, but the noise level is a problem. The room must become quieter."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The bread is fresh enough for us to serve at breakfast.",
+      "prompt": "Type the two-word expression that describes the bread's readiness.",
+      "acceptedAnswers": [
+        "fresh enough"
+      ],
+      "feedback": "Fresh enough means the bread has the quality needed for serving."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I have enough money to buy a winter coat now.",
+      "prompt": "Type the two-word action phrase immediately after 'money'.",
+      "acceptedAnswers": [
+        "to buy"
+      ],
+      "feedback": "To buy states the action that the money is sufficient for."
+    }
+  ]
+}

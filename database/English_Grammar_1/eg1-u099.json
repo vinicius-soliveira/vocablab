@@ -1,0 +1,416 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u099",
+  "title": "If: Real Possibilities and Future Results",
+  "level": "A2",
+  "topicId": "if-real-possibilities",
+  "summary": "Talk about things that may happen and what you will do if they happen. Use present forms after if and distinguish uncertain conditions from expected events introduced by when.",
+  "learningObjectives": [
+    "Combine a possible condition with a future result using if and will.",
+    "Use the present simple or present form of be after if when referring to the future.",
+    "Place an if-clause at the beginning or end of a sentence with appropriate punctuation.",
+    "Choose if for an uncertain event and when for an expected event."
+  ],
+  "explanation": [
+    {
+      "heading": "A possible condition and its result",
+      "body": "Use if to introduce something that may happen. The other part explains a result, plan, request or instruction. A common pattern is if + present simple, followed by will + base verb. The result can also be an imperative or a question.",
+      "example": "If the shop closes early, we will come back on Saturday."
+    },
+    {
+      "heading": "Present after if for future meaning",
+      "body": "Even when you mean tomorrow or next week, use a present form after if, not will. Put will in the main clause if you are talking about a future result. The if-clause may also contain a negative present form.",
+      "example": "If it does not snow tomorrow, we will go cycling."
+    },
+    {
+      "heading": "The if-clause can come first or last",
+      "body": "You can start with the condition or put it after the result. When an if-clause starts the sentence, use a comma after it. In a normal sentence, no comma is needed when the if-clause comes last.",
+      "example": "We can have dinner outside if the evening is warm."
+    },
+    {
+      "heading": "If in offers, questions and instructions",
+      "body": "Not every main clause needs will. You can use can, a request or an instruction after a possible condition. In conversation, a short if-clause can sometimes answer a question when the missing meaning is clear.",
+      "example": "If you need a charger, ask at reception."
+    },
+    {
+      "heading": "If is uncertain; when is expected",
+      "body": "Use if when you are not sure whether an event will happen. Use when for an event you expect to happen and want to say what will happen at that time. Both normally use present forms for future events.",
+      "example": "If the parcel arrives today, I will call you."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Uncertain event versus expected event",
+      "left": {
+        "label": "If: it might happen",
+        "example": "If I get a day off, I will visit the coast.",
+        "note": "The day off is not certain."
+      },
+      "right": {
+        "label": "When: it is expected",
+        "example": "When my shift ends, I will take the bus home.",
+        "note": "The end of the shift is expected."
+      }
+    },
+    {
+      "title": "Either clause can come first",
+      "left": {
+        "label": "Condition first",
+        "example": "If the lift is busy, we will use the stairs.",
+        "note": "Use a comma after the opening if-clause."
+      },
+      "right": {
+        "label": "Result first",
+        "example": "We will use the stairs if the lift is busy.",
+        "note": "No comma is normally needed before the final if-clause."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "If the train is delayed, I will send you a message.",
+      "note": "The if-clause uses is although it refers to the future."
+    },
+    {
+      "sentence": "We will take the smaller room if it is available.",
+      "note": "The possible condition appears at the end without a comma."
+    },
+    {
+      "sentence": "If you do not understand the directions, ask me again.",
+      "note": "An instruction can follow a negative condition."
+    },
+    {
+      "sentence": "Can we eat here if the café is still open?",
+      "note": "A question can depend on a condition."
+    },
+    {
+      "sentence": "When my course finishes in December, I will take a short break.",
+      "note": "When indicates an expected event, not an uncertain possibility."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "If the weather will improve, we will walk to the beach.",
+      "correct": "If the weather improves, we will walk to the beach.",
+      "why": "For this real future condition, use present simple after if, not will."
+    },
+    {
+      "incorrect": "If you are tired you can sit here.",
+      "correct": "If you are tired, you can sit here.",
+      "why": "An opening if-clause is normally followed by a comma."
+    },
+    {
+      "incorrect": "If she does not hurry, she misses the last bus tomorrow.",
+      "correct": "If she does not hurry, she will miss the last bus tomorrow.",
+      "why": "Use will miss for this predicted future result."
+    },
+    {
+      "incorrect": "When I might have time tomorrow, I will visit you.",
+      "correct": "If I have time tomorrow, I will visit you.",
+      "why": "Use if, rather than when, to introduce an uncertain possibility."
+    }
+  ],
+  "studyTips": [
+    "Check whether you are talking about a genuine possibility: if + present, then will or another suitable form.",
+    "Say both orders aloud: \"If it rains, we will stay in\" and \"We will stay in if it rains\".",
+    "Ask whether the event is uncertain (if) or expected (when) before choosing the conjunction."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly talks about a possible event tomorrow?",
+      "choices": [
+        "If it rains tomorrow, we will stay indoors.",
+        "If it will rain tomorrow, we will stay indoors.",
+        "If it rained tomorrow, we will stay indoors."
+      ],
+      "answerIndex": 0,
+      "feedback": "For a real future possibility, use present simple after if and will for the predicted result."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the natural instruction for a possible problem.",
+      "choices": [
+        "If you will feel dizzy, sit down.",
+        "If you feel dizzy, sit down.",
+        "If you felt dizzy, sit down tomorrow."
+      ],
+      "answerIndex": 1,
+      "feedback": "A present form follows if; the result can be an imperative such as sit down."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Your flight is definitely booked for Friday. Choose the sentence that treats departure as expected.",
+      "choices": [
+        "If I will leave on Friday, I will text you.",
+        "When I will leave on Friday, I will text you.",
+        "When I leave on Friday, I will text you."
+      ],
+      "answerIndex": 2,
+      "feedback": "When introduces the expected departure, and the time clause uses present simple."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which sentence has the usual punctuation when the condition comes first?",
+      "choices": [
+        "If the room is free, we can study there.",
+        "If the room is free we, can study there.",
+        "If, the room is free we can study there."
+      ],
+      "answerIndex": 0,
+      "feedback": "Place the comma after the complete opening if-clause."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete using the correct form of 'arrive': If the guests ___ early, we will make tea.",
+      "acceptedAnswers": [
+        "arrive"
+      ],
+      "feedback": "The present simple arrive follows if even though the arrival is in the future."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete using the correct form of 'be': If the library ___ open tomorrow, I will return the book.",
+      "acceptedAnswers": [
+        "is"
+      ],
+      "feedback": "Use is, not will be, inside the if-clause."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete using the correct form of 'not have': If we ___ enough chairs, we will borrow two more.",
+      "acceptedAnswers": [
+        "don't have",
+        "do not have"
+      ],
+      "feedback": "Use the present simple negative do not have after if."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with 'if' or 'when'. You have a confirmed appointment at noon: ___ I meet the doctor, I will ask about the results.",
+      "acceptedAnswers": [
+        "When"
+      ],
+      "feedback": "The appointment is confirmed, so when introduces the expected meeting."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct only the verb after if: If the bus will come soon, we will get to work on time.",
+      "acceptedAnswers": [
+        "If the bus comes soon, we will get to work on time."
+      ],
+      "feedback": "In a real future condition, write if the bus comes, not if the bus will come."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct only the verb after if: I will call you if I will find the address.",
+      "acceptedAnswers": [
+        "I will call you if I find the address."
+      ],
+      "feedback": "Use present simple in the final if-clause even though the call is in the future."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the subject–verb agreement in the condition: If she do not finish today, she will finish on Friday.",
+      "acceptedAnswers": [
+        "If she does not finish today, she will finish on Friday."
+      ],
+      "feedback": "In the present simple negative, she takes does not, not do not."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct only the verb after if: If the baby will be asleep, please speak quietly.",
+      "acceptedAnswers": [
+        "If the baby is asleep, please speak quietly."
+      ],
+      "feedback": "After if, use the present form is; the result is an instruction."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Combine the two ideas. Begin with “If”: The café may be open tomorrow. We will have lunch there. Use “is open”.",
+      "acceptedAnswers": [
+        "If the café is open tomorrow, we will have lunch there.",
+        "If the cafe is open tomorrow, we will have lunch there.",
+        "If the café is open tomorrow, we'll have lunch there.",
+        "If the cafe is open tomorrow, we'll have lunch there."
+      ],
+      "feedback": "The opening if-clause has a present form; the main clause has will."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Make one sentence beginning “I will email you”: I will email you. I get the details. Join them with if.",
+      "acceptedAnswers": [
+        "I will email you if I get the details.",
+        "I'll email you if I get the details."
+      ],
+      "feedback": "When the if-clause is last, no comma is normally needed."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "The trip home is certain. Begin with “When”: I leave work this evening. I will call my sister.",
+      "acceptedAnswers": [
+        "When I leave work this evening, I will call my sister.",
+        "When I leave work this evening, I'll call my sister."
+      ],
+      "feedback": "When, not if, presents leaving work as expected; use leave rather than will leave."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The weather may freeze tonight. Begin with 'If it freezes tonight' and say that you will cover the plants.",
+      "acceptedAnswers": [
+        "If it freezes tonight, I will cover the plants.",
+        "If it freezes tonight, I'll cover the plants."
+      ],
+      "feedback": "Use the present simple freezes after if, and will cover for the possible future result."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Put the result first without changing the meaning: 'If the alarm rings, we will leave the building.'",
+      "acceptedAnswers": [
+        "We will leave the building if the alarm rings.",
+        "We'll leave the building if the alarm rings."
+      ],
+      "feedback": "The result can come before the if-clause. Keep rings in the present simple and do not add a comma before the final condition."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your friend might lose a train ticket. Give this instruction as one sentence, beginning with 'If you lose your ticket' and ending with 'speak to the station staff'.",
+      "acceptedAnswers": [
+        "If you lose your ticket, speak to the station staff."
+      ],
+      "feedback": "A present-simple if-clause can be followed by an imperative to give instructions."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A picnic on Sunday is only a possibility. Correct the conjunction in this sentence and say it aloud: 'When the weather is dry on Sunday, we will have a picnic.'",
+      "acceptedAnswers": [
+        "If the weather is dry on Sunday, we will have a picnic.",
+        "If the weather is dry on Sunday, we'll have a picnic."
+      ],
+      "feedback": "If introduces a condition that may or may not happen; when suggests an expected event."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You are shopping for shoes. Say that you will order them online if the shop does not have your size. Start with 'If the shop' and use 'does not have' or 'doesn't have'.",
+      "acceptedAnswers": [
+        "If the shop doesn't have my size, I'll order them online.",
+        "If the shop doesn't have my size, I will order them online.",
+        "If the shop does not have my size, I'll order them online.",
+        "If the shop does not have my size, I will order them online."
+      ],
+      "feedback": "Use the present simple negative doesn't have in the condition, and will order in the planned result."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "If the bakery is open tomorrow, I'll buy bread there.",
+      "prompt": "Is the speaker certain that the bakery will be open?",
+      "choices": [
+        "Yes, it is definitely open.",
+        "No, it is only a possibility.",
+        "No, it has permanently closed."
+      ],
+      "answerIndex": 1,
+      "feedback": "If signals that the opening is possible but not certain."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "When I arrive at the station, I'll text you.",
+      "prompt": "How does the speaker present the arrival?",
+      "choices": [
+        "As an impossible event.",
+        "As an uncertain possibility.",
+        "As an expected event."
+      ],
+      "answerIndex": 2,
+      "feedback": "When is used because arriving at the station is expected."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "If I finish early, I will join you for dinner.",
+      "prompt": "Type the first word spoken, which introduces a possible condition.",
+      "acceptedAnswers": [
+        "If"
+      ],
+      "feedback": "If introduces the possible condition I finish early."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "If the weather stays dry on Saturday, the children will play football outside.",
+      "prompt": "What do the children plan to do if the weather is suitable?",
+      "choices": [
+        "Play a game outdoors",
+        "Stay inside and read",
+        "Cancel their game"
+      ],
+      "answerIndex": 0,
+      "feedback": "If the weather stays dry, the plan is for the children to play football outside."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "If the bus doesn't arrive by eight, I'll walk to the office.",
+      "prompt": "What will the speaker do if the transport is late?",
+      "choices": [
+        "Wait until nine",
+        "Go to work on foot",
+        "Call a taxi"
+      ],
+      "answerIndex": 1,
+      "feedback": "Walking to the office is the speaker's alternative if the bus has not arrived by eight."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "When the market closes, we'll walk home, but if it starts raining, we'll take the bus.",
+      "prompt": "What would make them change the way they travel home?",
+      "choices": [
+        "Finishing their shopping early",
+        "Wet weather",
+        "Missing the last bus"
+      ],
+      "answerIndex": 1,
+      "feedback": "Walking home is the expected plan; rain is the uncertain condition that would change it to a bus trip."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "If they don't agree, we can choose another date.",
+      "prompt": "Type the two-word negative verb phrase immediately after 'they'.",
+      "acceptedAnswers": [
+        "don't agree"
+      ],
+      "feedback": "Don't agree is the present-simple negative in this possible condition."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We'll stay at home if the roads are icy.",
+      "prompt": "Type the two-word phrase immediately after 'roads'.",
+      "acceptedAnswers": [
+        "are icy"
+      ],
+      "feedback": "Are icy uses the present form of be to describe a possible future condition."
+    }
+  ]
+}

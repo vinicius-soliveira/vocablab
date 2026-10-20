@@ -1,0 +1,255 @@
+{
+  "format": "vocablab-books",
+  "version": 1,
+  "books": [
+    {
+      "id": "english-vocabulary-1",
+      "title": "English Vocabulary 1",
+      "family": "vocabulary",
+      "sequence": 1,
+      "levels": [
+        "A1",
+        "A2"
+      ],
+      "status": "available",
+      "contentProvider": "vocabulary",
+      "manifest": "database/manifest.json",
+      "sourceIds": [
+        "english-vocabulary-1"
+      ]
+    },
+    {
+      "id": "english-vocabulary-2",
+      "title": "English Vocabulary 2",
+      "family": "vocabulary",
+      "sequence": 2,
+      "levels": [
+        "A2",
+        "B1"
+      ],
+      "status": "available",
+      "contentProvider": "vocabulary",
+      "manifest": "database/manifest.json",
+      "sourceIds": [
+        "english-vocabulary-2"
+      ]
+    },
+    {
+      "id": "english-vocabulary-3",
+      "title": "English Vocabulary 3",
+      "family": "vocabulary",
+      "sequence": 3,
+      "levels": [
+        "B2"
+      ],
+      "status": "available",
+      "contentProvider": "vocabulary",
+      "manifest": "database/manifest.json",
+      "sourceIds": [
+        "english-vocabulary-3"
+      ]
+    },
+    {
+      "id": "english-vocabulary-4",
+      "title": "English Vocabulary 4",
+      "family": "vocabulary",
+      "sequence": 4,
+      "levels": [
+        "C1",
+        "C2"
+      ],
+      "status": "available",
+      "contentProvider": "vocabulary",
+      "manifest": "database/manifest.json",
+      "sourceIds": [
+        "english-vocabulary-4"
+      ]
+    },
+    {
+      "id": "english-grammar-1",
+      "title": "English Grammar 1",
+      "family": "grammar",
+      "sequence": 1,
+      "levels": [
+        "A1",
+        "A2"
+      ],
+      "status": "available",
+      "contentProvider": "grammar",
+      "manifest": "database/grammar-manifest.json",
+      "sourceIds": [
+        "english-grammar-1"
+      ]
+    },
+    {
+      "id": "english-grammar-2",
+      "title": "English Grammar 2",
+      "family": "grammar",
+      "sequence": 2,
+      "levels": [
+        "B1",
+        "B2"
+      ],
+      "status": "planned"
+    },
+    {
+      "id": "english-grammar-3",
+      "title": "English Grammar 3",
+      "family": "grammar",
+      "sequence": 3,
+      "levels": [
+        "C1",
+        "C2"
+      ],
+      "status": "planned"
+    },
+    {
+      "id": "english-pronunciation-1",
+      "title": "English Pronunciation 1",
+      "family": "pronunciation",
+      "sequence": 1,
+      "levels": [
+        "A1",
+        "A2"
+      ],
+      "status": "planned"
+    },
+    {
+      "id": "english-pronunciation-2",
+      "title": "English Pronunciation 2",
+      "family": "pronunciation",
+      "sequence": 2,
+      "levels": [
+        "B1",
+        "B2"
+      ],
+      "status": "planned"
+    },
+    {
+      "id": "english-pronunciation-3",
+      "title": "English Pronunciation 3",
+      "family": "pronunciation",
+      "sequence": 3,
+      "levels": [
+        "C1",
+        "C2"
+      ],
+      "status": "planned"
+    },
+    {
+      "id": "english-collocations-1",
+      "title": "English Collocations 1",
+      "family": "collocations",
+      "sequence": 1,
+      "levels": [
+        "B1",
+        "B2"
+      ],
+      "status": "available",
+      "contentProvider": "vocabulary",
+      "manifest": "database/manifest.json",
+      "sourceIds": [
+        "english-collocations-in-use-intermediate-2ed"
+      ]
+    },
+    {
+      "id": "english-collocations-2",
+      "title": "English Collocations 2",
+      "family": "collocations",
+      "sequence": 2,
+      "levels": [
+        "C1",
+        "C2"
+      ],
+      "status": "planned"
+    },
+    {
+      "id": "english-phrasal-verbs-1",
+      "title": "English Phrasal Verbs 1",
+      "family": "phrasal-verbs",
+      "sequence": 1,
+      "levels": [
+        "B1",
+        "B2"
+      ],
+      "status": "planned"
+    },
+    {
+      "id": "english-phrasal-verbs-2",
+      "title": "English Phrasal Verbs 2",
+      "family": "phrasal-verbs",
+      "sequence": 2,
+      "levels": [
+        "C1",
+        "C2"
+      ],
+      "status": "planned"
+    },
+    {
+      "id": "english-idioms-1",
+      "title": "English Idioms 1",
+      "family": "idioms",
+      "sequence": 1,
+      "levels": [
+        "B1",
+        "B2"
+      ],
+      "status": "planned"
+    },
+    {
+      "id": "english-idioms-2",
+      "title": "English Idioms 2",
+      "family": "idioms",
+      "sequence": 2,
+      "levels": [
+        "C1",
+        "C2"
+      ],
+      "status": "planned"
+    },
+    {
+      "id": "english-academic-vocabulary-1",
+      "title": "English Academic Vocabulary 1",
+      "family": "academic-vocabulary",
+      "sequence": 1,
+      "levels": [
+        "B2",
+        "C1"
+      ],
+      "status": "planned"
+    },
+    {
+      "id": "english-business-vocabulary-1",
+      "title": "English Business Vocabulary 1",
+      "family": "business-vocabulary",
+      "sequence": 1,
+      "levels": [
+        "B1",
+        "B2"
+      ],
+      "status": "planned"
+    },
+    {
+      "id": "english-business-vocabulary-2",
+      "title": "English Business Vocabulary 2",
+      "family": "business-vocabulary",
+      "sequence": 2,
+      "levels": [
+        "B2",
+        "C1"
+      ],
+      "status": "planned"
+    },
+    {
+      "id": "english-technical-english-1",
+      "title": "English Technical English 1",
+      "family": "technical-english",
+      "sequence": 1,
+      "levels": [
+        "B1",
+        "B2"
+      ],
+      "status": "planned"
+    }
+  ]
+}

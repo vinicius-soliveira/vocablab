@@ -1,0 +1,398 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u003",
+  "title": "Present Continuous: Actions Now",
+  "level": "A1",
+  "topicId": "present-continuous-statements",
+  "summary": "Describe actions happening now using am, is or are with an -ing verb. Make positive and negative statements and spell common -ing forms correctly.",
+  "learningObjectives": [
+    "Choose am, is or are to agree with the subject in a present continuous statement.",
+    "Use the present continuous to describe an action happening now.",
+    "Make negative present continuous statements with not and natural contractions.",
+    "Form common -ing verb spellings, including dropping final -e and doubling a final consonant."
+  ],
+  "explanation": [
+    {
+      "heading": "Build a positive statement",
+      "body": "Use the subject + am/is/are + a verb ending in -ing. Use am with I; is with he, she, it and one person or thing; and are with we, you, they and plural subjects. Do not leave out the form of be.",
+      "example": "My neighbours are decorating their flat."
+    },
+    {
+      "heading": "Talk about what is happening now",
+      "body": "Use this form for an action in progress at the moment you speak. Words such as now, right now and at the moment can make the time clear, but they are not always needed.",
+      "example": "Listen! Someone is playing the violin."
+    },
+    {
+      "heading": "Make negative statements",
+      "body": "Put not after am, is or are and before the -ing verb. Natural short forms include I’m not, he isn’t, he’s not, we aren’t and we’re not. A negative sentence says that the action is not happening.",
+      "example": "The children aren’t sleeping; they’re drawing."
+    },
+    {
+      "heading": "Spell the -ing form",
+      "body": "Most verbs simply add -ing (play → playing). With many verbs ending in silent -e, remove e (make → making). For short verbs with one vowel followed by one consonant, often double the consonant (run → running; sit → sitting). Lie changes to lying.",
+      "example": "My little brother is sitting beside me."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Action happening or not happening",
+      "left": {
+        "label": "Positive",
+        "example": "Olivia is washing the cups.",
+        "note": "Is + washing says the activity is in progress."
+      },
+      "right": {
+        "label": "Negative",
+        "example": "Olivia isn’t washing the cups.",
+        "note": "Is not + washing says the activity is not in progress."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I’m folding the clean towels now.",
+      "note": "Use am with I; I’m is a natural short form."
+    },
+    {
+      "sentence": "A taxi is stopping outside the hotel.",
+      "note": "Use is with a singular subject and double p in stopping."
+    },
+    {
+      "sentence": "We are making soup for lunch.",
+      "note": "Use are with we and drop the final e in making."
+    },
+    {
+      "sentence": "They’re not using the lift at the moment.",
+      "note": "Are not can become ’re not after they."
+    },
+    {
+      "sentence": "My grandfather is lying on the sofa.",
+      "note": "The -ing form of lie is lying."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "She cooking breakfast now.",
+      "correct": "She is cooking breakfast now.",
+      "why": "The present continuous needs a form of be before the -ing verb."
+    },
+    {
+      "incorrect": "We is walking to the station.",
+      "correct": "We are walking to the station.",
+      "why": "Use are, not is, with we."
+    },
+    {
+      "incorrect": "They are not play in the garden.",
+      "correct": "They are not playing in the garden.",
+      "why": "After are not, the main verb still needs -ing."
+    },
+    {
+      "incorrect": "The boy is runing towards the gate.",
+      "correct": "The boy is running towards the gate.",
+      "why": "Double the final n in run before adding -ing."
+    }
+  ],
+  "studyTips": [
+    "When you describe a scene, first find the subject; then choose am, is or are; finally add the -ing verb.",
+    "Practise pairs aloud: She is smiling. She isn’t smiling. Keep the -ing form in both sentences.",
+    "Keep a small spelling list for making, running and lying; they illustrate three common changes."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Right now, Sofia ___ dinner for her family.",
+      "choices": [
+        "is making",
+        "are making",
+        "making"
+      ],
+      "answerIndex": 0,
+      "feedback": "Sofia is one person, so use is + making."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Look outside! The clouds ___ across the sky.",
+      "choices": [
+        "is moving",
+        "are moving",
+        "moving"
+      ],
+      "answerIndex": 1,
+      "feedback": "Clouds is plural, so use are + moving."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "At the moment, I ___ a book about gardens.",
+      "choices": [
+        "are reading",
+        "reading",
+        "am reading"
+      ],
+      "answerIndex": 2,
+      "feedback": "With I, use am + the -ing form reading."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Nora and I ___ emails right now.",
+      "choices": [
+        "aren’t sending",
+        "isn’t sending",
+        "not sending"
+      ],
+      "answerIndex": 0,
+      "feedback": "Nora and I means we, so use are not + sending; aren’t is the short form."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Shh! The baby ___ in the next room. (sleep)",
+      "acceptedAnswers": [
+        "is sleeping"
+      ],
+      "feedback": "Baby is singular: is + sleeping."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "At the moment, I ___ a postcard. (write)",
+      "acceptedAnswers": [
+        "am writing"
+      ],
+      "feedback": "Use am after I, and drop the final e in write before adding -ing."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The children ___ in the garden now; they are inside. (not / play)",
+      "acceptedAnswers": [
+        "are not playing",
+        "aren’t playing"
+      ],
+      "feedback": "Children is plural: use are not or aren’t, followed by playing."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Mia ___ on the sofa right now. (lie)",
+      "acceptedAnswers": [
+        "is lying"
+      ],
+      "feedback": "Mia takes is, and lie changes to lying."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: He are washing the dishes right now.",
+      "acceptedAnswers": [
+        "He is washing the dishes right now.",
+        "He’s washing the dishes right now."
+      ],
+      "feedback": "He takes is, not are; washing is already correct."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I am cook dinner at the moment.",
+      "acceptedAnswers": [
+        "I am cooking dinner at the moment.",
+        "I’m cooking dinner at the moment."
+      ],
+      "feedback": "After am, use the -ing form cooking."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: They isn’t waiting for the train.",
+      "acceptedAnswers": [
+        "They aren’t waiting for the train.",
+        "They are not waiting for the train.",
+        "They’re not waiting for the train."
+      ],
+      "feedback": "They takes are, so the negative is are not or aren’t."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She is runing in the park right now.",
+      "acceptedAnswers": [
+        "She is running in the park right now.",
+        "She’s running in the park right now."
+      ],
+      "feedback": "Double the n in run before adding -ing: running."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one complete present continuous sentence using: I / read / a magazine / now.",
+      "acceptedAnswers": [
+        "I am reading a magazine now.",
+        "I’m reading a magazine now."
+      ],
+      "feedback": "Use I am or I’m before reading."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say a negative present continuous sentence using: he / not / wear / a jacket / today.",
+      "acceptedAnswers": [
+        "He is not wearing a jacket today.",
+        "He isn’t wearing a jacket today.",
+        "He’s not wearing a jacket today."
+      ],
+      "feedback": "Use he is not, he isn’t or he’s not before wearing."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say one complete present continuous sentence using: the dogs / run / in the garden / right now.",
+      "acceptedAnswers": [
+        "The dogs are running in the garden right now."
+      ],
+      "feedback": "Dogs is plural, so use are, and spell running with two n letters."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "At a playground, Nina and Tom have paintbrushes and are painting a fence. Tell a friend what they are doing. Begin with 'Nina and Tom' and end with 'right now'.",
+      "acceptedAnswers": [
+        "Nina and Tom are painting a fence right now."
+      ],
+      "feedback": "Nina and Tom is a plural subject, so use are painting to describe their activity now."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this to a present continuous negative statement. Keep the subject, action and time expression: 'The chef is cutting the carrots now.'",
+      "acceptedAnswers": [
+        "The chef is not cutting the carrots now.",
+        "The chef isn't cutting the carrots now.",
+        "The chef's not cutting the carrots now."
+      ],
+      "feedback": "Put not after is and before cutting. You can say is not, isn't or 's not."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks what you are doing right now. Your facts are: I / write / a shopping list / right now. Answer in one complete sentence, using the verb write and ending with 'right now'.",
+      "acceptedAnswers": [
+        "I am writing a shopping list right now.",
+        "I'm writing a shopping list right now."
+      ],
+      "feedback": "Use I am writing or I'm writing to describe an action in progress. Drop the final e in write before -ing."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A friend says, 'Eva is siting on the steps now.' Correct only the -ing spelling. Say the full corrected sentence without contractions.",
+      "acceptedAnswers": [
+        "Eva is sitting on the steps now."
+      ],
+      "feedback": "Sit doubles its final t before -ing, so the correct form is sitting."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give a two-sentence update using these facts in order: Mina / pack / a suitcase / now; Leo / not / help / her / now. Use full forms, no contractions, and include 'now' in both sentences.",
+      "acceptedAnswers": [
+        "Mina is packing a suitcase now. Leo is not helping her now."
+      ],
+      "feedback": "Use is packing for Mina's activity and is not helping for the action Leo is not doing. Keep -ing in both sentences."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "My aunt is painting the kitchen wall.",
+      "prompt": "What is the speaker’s aunt doing?",
+      "choices": [
+        "Cleaning the kitchen",
+        "Painting a wall",
+        "Making dinner"
+      ],
+      "answerIndex": 1,
+      "feedback": "Is painting describes the action happening now."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We are not swimming today. We are riding our bikes.",
+      "prompt": "What are the speakers doing today?",
+      "choices": [
+        "Swimming",
+        "Walking",
+        "Riding bikes"
+      ],
+      "answerIndex": 2,
+      "feedback": "The first sentence is negative; the second tells you the activity in progress."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "My cousins are waiting outside the cinema.",
+      "prompt": "Type the two-word verb phrase immediately after “My cousins” in the audio.",
+      "acceptedAnswers": [
+        "are waiting"
+      ],
+      "feedback": "Cousins is plural, so the phrase is are waiting."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The girls aren't singing; they're practising a dance for the school show.",
+      "prompt": "What are the girls doing?",
+      "choices": [
+        "Preparing a dance performance",
+        "Practising a song",
+        "Watching a show"
+      ],
+      "answerIndex": 0,
+      "feedback": "The girls are practising a dance, not singing or watching the show."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I'm setting the table, and my brother is chopping vegetables for dinner.",
+      "prompt": "Who is preparing the vegetables?",
+      "choices": [
+        "The speaker's sister",
+        "The speaker's brother",
+        "The speaker"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker is setting the table, but the brother is chopping the vegetables."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "It's raining outside, but the children aren't wearing coats. They're carrying umbrellas.",
+      "prompt": "Which statement is true about the children?",
+      "choices": [
+        "They are all indoors.",
+        "They are wearing raincoats.",
+        "They have umbrellas with them."
+      ],
+      "answerIndex": 2,
+      "feedback": "The children aren't wearing coats; they are carrying umbrellas."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Our neighbours are planting flowers in front of their house.",
+      "prompt": "Type the two-word verb phrase immediately after 'Our neighbours'.",
+      "acceptedAnswers": [
+        "are planting"
+      ],
+      "feedback": "Neighbours is plural, so the action in progress is expressed with are planting."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The driver isn't waiting for us. She's talking to someone else.",
+      "prompt": "Type the negative two-word verb phrase in the first sentence.",
+      "acceptedAnswers": [
+        "isn't waiting"
+      ],
+      "feedback": "Isn't waiting is the contracted negative present continuous form heard in the first sentence."
+    }
+  ]
+}

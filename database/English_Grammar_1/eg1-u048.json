@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u048",
+  "title": "How Long Does It Take?",
+  "level": "A2",
+  "topicId": "duration-how-long-take",
+  "summary": "Ask about the time needed for journeys and activities using how long does, did or will it take. Describe a typical, completed or future duration, and add the person when it matters who needs the time.",
+  "learningObjectives": [
+    "Ask how long a journey takes between places and identify the method of travel when needed.",
+    "Use how long does/did/will it take to plus a base verb for present, past and future durations.",
+    "Form affirmative and negative duration statements with takes, took, will take and take after an auxiliary.",
+    "Use object pronouns or names after take to specify the person who needs the time."
+  ],
+  "explanation": [
+    {
+      "heading": "Ask about a journey",
+      "body": "Use How long does it take to ask about the usual duration of a journey. Name the starting place, destination or transport method when useful. The subject is it, even if the question is about a person’s journey.",
+      "example": "How long does it take to cycle from the station to the market?"
+    },
+    {
+      "heading": "Use take plus time and an activity",
+      "body": "To tell someone the duration, use It takes + a time expression + to + base verb. A time expression could be ten minutes, half an hour or a few days. For a question, use How long does it take to + base verb?",
+      "example": "It takes fifteen minutes to prepare the vegetables."
+    },
+    {
+      "heading": "Change the auxiliary for past and future",
+      "body": "Ask How long did it take ...? for a finished activity and How long will it take ...? for an expected future activity. In answers, use It took ... for the past and It will take ... for the future. After did, will, does not, did not or will not, keep the verb take in its base form.",
+      "example": "How long did it take to fix the broken drawer?"
+    },
+    {
+      "heading": "Say who needs the time",
+      "body": "You can put a name or an object pronoun between take and the duration or the to-infinitive: It takes Alex ... or It took us ... . Use me, you, him, her, us or them in this position, not subject forms such as I or we. In questions: How long did it take you to ... ?",
+      "example": "It took her an afternoon to organise the photographs."
+    },
+    {
+      "heading": "Make negative statements about duration",
+      "body": "Use does not take, did not take or will not take when you say an activity needs little or no time. These are commonly shortened to doesn’t take, didn’t take and won’t take. Do not put -s or a past ending on take after these auxiliaries.",
+      "example": "It won’t take long to print the tickets."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Usual duration versus completed duration",
+      "left": {
+        "label": "Present: usual time",
+        "example": "It takes twenty minutes to wash the car.",
+        "note": "Takes describes the normal amount of time."
+      },
+      "right": {
+        "label": "Past: completed time",
+        "example": "It took twenty minutes to wash the car yesterday.",
+        "note": "Took describes the time actually needed on a past occasion."
+      }
+    },
+    {
+      "title": "General time and one person’s time",
+      "left": {
+        "label": "General duration",
+        "example": "It takes an hour to make this cake.",
+        "note": "The sentence does not identify who is making it."
+      },
+      "right": {
+        "label": "Personal duration",
+        "example": "It takes Rosa an hour to make this cake.",
+        "note": "Rosa is the person who needs the hour."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "How long does it take by ferry from the harbour to the island?",
+      "note": "The question specifies the means of transport and the two places."
+    },
+    {
+      "sentence": "It takes about forty minutes to tidy the whole flat.",
+      "note": "Takes describes the usual duration."
+    },
+    {
+      "sentence": "How long did it take you to find your phone?",
+      "note": "Did asks about a completed activity, and you identifies the person."
+    },
+    {
+      "sentence": "The journey will take three hours if the roads are busy.",
+      "note": "Will take predicts future duration."
+    },
+    {
+      "sentence": "It didn’t take us long to put the tent up.",
+      "note": "After did not, take remains in its base form."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "How long it takes to get to the market?",
+      "correct": "How long does it take to get to the market?",
+      "why": "A present-simple duration question needs does before the subject it."
+    },
+    {
+      "incorrect": "It take me forty minutes to get ready.",
+      "correct": "It takes me forty minutes to get ready.",
+      "why": "In an affirmative present-simple sentence, it takes -s."
+    },
+    {
+      "incorrect": "It took I ten minutes to park.",
+      "correct": "It took me ten minutes to park.",
+      "why": "Use the object pronoun me after took, not the subject pronoun I."
+    },
+    {
+      "incorrect": "How long will it takes to clean the kitchen?",
+      "correct": "How long will it take to clean the kitchen?",
+      "why": "Use the base verb take after will."
+    }
+  ],
+  "studyTips": [
+    "Keep the pattern together: How long + does/did/will + it + take + to + base verb?",
+    "Remember the three time forms: takes for the usual duration, took for a finished event, and will take for a prediction.",
+    "If someone is named after take, check the pronoun: It took me, not It took I."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A usual journey to work lasts twenty-five minutes. Choose the correct statement.",
+      "choices": [
+        "It takes twenty-five minutes to get to work.",
+        "It take twenty-five minutes to get to work.",
+        "It is take twenty-five minutes to get to work."
+      ],
+      "answerIndex": 0,
+      "feedback": "With subject it in the present simple, use takes before the time expression."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The chair was repaired yesterday. Choose the correctly formed question about the repair time.",
+      "choices": [
+        "How long did it took to repair the chair?",
+        "How long did it take to repair the chair?",
+        "How long it took to repair the chair?"
+      ],
+      "answerIndex": 1,
+      "feedback": "A past-simple question uses did + subject + base verb take."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "A cook predicts that making the soup will need thirty minutes. Choose the correct prediction.",
+      "choices": [
+        "It will takes thirty minutes to make the soup.",
+        "It took thirty minutes to make the soup.",
+        "It will take thirty minutes to make the soup."
+      ],
+      "answerIndex": 2,
+      "feedback": "After will, use the base verb take to describe predicted duration."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Leo finished his homework in ten minutes yesterday. Choose the correct sentence.",
+      "choices": [
+        "It took Leo ten minutes finish his homework.",
+        "It took Leo ten minutes to finish his homework.",
+        "It took to Leo ten minutes to finish his homework."
+      ],
+      "answerIndex": 1,
+      "feedback": "The personal pattern is It took + person + duration + to + base verb."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "It ___ my brother forty minutes to walk to college every morning.",
+      "acceptedAnswers": [
+        "takes"
+      ],
+      "feedback": "Every morning signals a usual duration, so use the present form takes with it."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "How long ___ it take you to pack yesterday?",
+      "acceptedAnswers": [
+        "did"
+      ],
+      "feedback": "Yesterday describes a completed event; use did with the base verb take."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with the future auxiliary will: It ___ take two hours to drive there tomorrow.",
+      "acceptedAnswers": [
+        "will"
+      ],
+      "feedback": "Use will take for an expected future duration."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "It didn’t ___ us long to find the address.",
+      "acceptedAnswers": [
+        "take"
+      ],
+      "feedback": "Didn’t is followed by the base verb take, not took or takes."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: How long does it takes to bake this bread?",
+      "acceptedAnswers": [
+        "How long does it take to bake this bread?"
+      ],
+      "feedback": "After does, use the base verb take."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: It took we two hours to move the furniture.",
+      "acceptedAnswers": [
+        "It took us two hours to move the furniture."
+      ],
+      "feedback": "Use the object pronoun us after took."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: It doesn’t takes long to wash these plates.",
+      "acceptedAnswers": [
+        "It doesn’t take long to wash these plates.",
+        "It does not take long to wash these plates."
+      ],
+      "feedback": "With doesn’t or does not, use the base verb take."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: How long did it take to you to reach the office?",
+      "acceptedAnswers": [
+        "How long did it take you to reach the office?"
+      ],
+      "feedback": "Put you immediately after take; to belongs before reach."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Ask about a journey on foot. Begin with “How long does it take”, then use “to walk from the station to the museum”.",
+      "acceptedAnswers": [
+        "How long does it take to walk from the station to the museum?"
+      ],
+      "feedback": "Use does + it + take + to walk to ask about a usual journey."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Yesterday Kim needed two hours to get home. Describe that completed duration. Begin with “It took Kim”.",
+      "acceptedAnswers": [
+        "It took Kim two hours to get home."
+      ],
+      "feedback": "Took is the past form, followed by the person, the duration and to get home."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Ask about the expected time Mia will need to paint the fence. Begin with “How long will it take”.",
+      "acceptedAnswers": [
+        "How long will it take Mia to paint the fence?"
+      ],
+      "feedback": "Use will it take + person + to + base verb for a future duration."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The bus journey to the art gallery usually needs half an hour. Say its usual duration in one sentence starting with 'It takes' and using 'to get to the art gallery by bus'.",
+      "acceptedAnswers": [
+        "It takes half an hour to get to the art gallery by bus."
+      ],
+      "feedback": "It takes + duration + to + base verb describes a usual journey time."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change the past statement 'It took her an hour to clean the garage' into a question asking about her cleaning time. Begin with 'How long did'.",
+      "acceptedAnswers": [
+        "How long did it take her to clean the garage?"
+      ],
+      "feedback": "A past duration question uses How long did it take + person + to + base verb."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Someone asks, 'How long did it take you to learn the song yesterday?' You needed ten minutes. Answer in a full sentence starting with 'It took me' and ending with 'to learn the song'.",
+      "acceptedAnswers": [
+        "It took me ten minutes to learn the song."
+      ],
+      "feedback": "Took marks a completed activity, and me is the object pronoun naming the person who needed the time."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct only the verb error in this prediction without changing its meaning: 'It won't takes long to fold the clothes.' Say the full corrected sentence.",
+      "acceptedAnswers": [
+        "It won't take long to fold the clothes."
+      ],
+      "feedback": "After won't, use the base verb take, never takes."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences about tomorrow's trip. First, predict that it will take us two hours to drive to the village. Second, say that checking the tickets will not take long. Use 'It will take us' and then 'It won't take'.",
+      "acceptedAnswers": [
+        "It will take us two hours to drive to the village. It won't take long to check the tickets."
+      ],
+      "feedback": "Will take predicts future duration, and won't take expresses a negative prediction. After will and won't, take stays in the base form."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "It took us forty minutes to reach the island by ferry.",
+      "prompt": "How long did the journey take?",
+      "choices": [
+        "Twenty minutes.",
+        "Thirty minutes.",
+        "Forty minutes."
+      ],
+      "answerIndex": 2,
+      "feedback": "Took us forty minutes gives the duration of the completed ferry journey."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "How long will it take to get to the stadium by bus?",
+      "prompt": "Which time is the speaker asking about?",
+      "choices": [
+        "An expected future journey.",
+        "A journey that finished yesterday.",
+        "A journey that usually takes place every morning."
+      ],
+      "answerIndex": 0,
+      "feedback": "Will it take asks about the time needed for a future journey."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "It doesn’t take long to warm the milk.",
+      "prompt": "Type the two-word negative verb phrase you hear immediately after “It”.",
+      "acceptedAnswers": [
+        "doesn't take"
+      ],
+      "feedback": "Doesn’t take uses the negative present-simple auxiliary followed by the base verb."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "It doesn't take much time to water these plants because there are only four pots.",
+      "prompt": "What does the speaker mean about watering the plants?",
+      "choices": [
+        "It takes several hours.",
+        "It cannot be done today.",
+        "It is a quick task."
+      ],
+      "answerIndex": 2,
+      "feedback": "Doesn't take much time means the task can be done quickly."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Yesterday, it took Maya twenty minutes to cycle to the lake, but I needed thirty.",
+      "prompt": "Who completed the journey in less time?",
+      "choices": [
+        "The person speaking.",
+        "Maya.",
+        "Both took the same time."
+      ],
+      "answerIndex": 1,
+      "feedback": "Maya needed twenty minutes while the speaker needed thirty, so Maya was quicker."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The windows took an hour to clean yesterday, but tomorrow they'll take only twenty minutes.",
+      "prompt": "What is expected for the next cleaning?",
+      "choices": [
+        "It will need less time than before.",
+        "It will last longer than yesterday.",
+        "It has already been completed."
+      ],
+      "answerIndex": 0,
+      "feedback": "The completed cleaning took an hour, but the predicted future cleaning will need only twenty minutes."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "It takes him fifteen minutes to set the table before dinner.",
+      "prompt": "Type the two words immediately after 'It'.",
+      "acceptedAnswers": [
+        "takes him"
+      ],
+      "feedback": "Takes him expresses a usual duration for one male person; him is an object pronoun."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "It didn't take the workers long to fix the sign outside.",
+      "prompt": "Type the two-word negative verb phrase immediately after 'It'.",
+      "acceptedAnswers": [
+        "didn't take"
+      ],
+      "feedback": "Didn't take uses did not with the base verb take to describe a completed action."
+    }
+  ]
+}

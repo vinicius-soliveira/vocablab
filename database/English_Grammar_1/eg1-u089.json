@@ -1,0 +1,414 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u089",
+  "title": "Not as ... as: Comparing Differences",
+  "level": "A2",
+  "topicId": "comparisons-not-as-as-same-as",
+  "summary": "Use not as ... as to say that one person or thing has less of a quality or does something to a lesser degree. Compare amounts and describe things that are the same.",
+  "learningObjectives": [
+    "Build negative comparisons with not as + adjective or adverb + as.",
+    "Choose as much or as many according to the noun or activity.",
+    "Restate a negative as ... as comparison with a comparative + than.",
+    "Use natural pronouns or comparison clauses after as, and use the same ... as for equality."
+  ],
+  "explanation": [
+    {
+      "heading": "Not as ... as for a smaller degree",
+      "body": "Use not as + adjective or adverb + as to show that the first person or thing has less of a quality, or does something to a lesser degree. The first as comes before the describing word; the second comes before the comparison. You can say is not, isn’t, do not or don’t, according to the verb.",
+      "example": "The side street isn’t as busy as the main road."
+    },
+    {
+      "heading": "As much and as many for amounts",
+      "body": "Use not as much ... as with uncountable nouns such as water, space and time. Use not as many ... as with plural countable nouns such as plates, tickets and people. Use not ... as much as without a noun to compare how often or how much someone does something.",
+      "example": "We don’t have as many clean glasses as we need."
+    },
+    {
+      "heading": "Comparing the same difference with than",
+      "body": "You can often express one difference in two ways. “The first box isn’t as wide as the second” means “The second box is wider than the first.” Use as ... as with an equality comparison; use than after a comparative such as wider or more expensive.",
+      "example": "The evening train isn’t as fast as the morning train."
+    },
+    {
+      "heading": "Pronouns and verbs after as",
+      "body": "In ordinary conversation, an object pronoun is common after the second as: as me, as him or as them. A subject followed by its verb is also possible: as I do, as she is or as they can. Choose a verb that agrees with the meaning of the comparison.",
+      "example": "My cousin doesn’t get up as early as I do."
+    },
+    {
+      "heading": "The same ... as",
+      "body": "Use the same as to describe equality. You can put a noun between same and as to specify what is equal: the same size as, the same colour as or the same time as. The word after same is not than.",
+      "example": "Our two backpacks are the same colour as each other."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Two ways to express one difference",
+      "left": {
+        "label": "Not as ... as",
+        "example": "The lake isn’t as deep as the river.",
+        "note": "The lake has less depth."
+      },
+      "right": {
+        "label": "Comparative + than",
+        "example": "The river is deeper than the lake.",
+        "note": "The same difference from the opposite point of view."
+      }
+    },
+    {
+      "title": "Comparing uncountable and plural quantities",
+      "left": {
+        "label": "As much + uncountable",
+        "example": "I don’t have as much free time as Jo.",
+        "note": "Time is uncountable."
+      },
+      "right": {
+        "label": "As many + plural countable",
+        "example": "I don’t have as many books as Jo.",
+        "note": "Books is a plural countable noun."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The green towel isn’t as soft as the white one.",
+      "note": "Not as soft as describes a smaller degree of softness."
+    },
+    {
+      "sentence": "Maya doesn’t cycle as often as her brother does.",
+      "note": "Not as often as compares frequency."
+    },
+    {
+      "sentence": "We didn’t buy as much fruit as we planned.",
+      "note": "Fruit is an uncountable noun here, so use much."
+    },
+    {
+      "sentence": "I have the same phone case as my flatmate.",
+      "note": "The same ... as marks an identical kind of item."
+    },
+    {
+      "sentence": "The smaller room isn’t as bright as the larger room.",
+      "note": "This means the larger room is brighter."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "This chair isn’t as comfortable than that one.",
+      "correct": "This chair isn’t as comfortable as that one.",
+      "why": "Use as after an adjective in a not as ... as comparison, not than."
+    },
+    {
+      "incorrect": "We don’t have as much umbrellas as they do.",
+      "correct": "We don’t have as many umbrellas as they do.",
+      "why": "Umbrellas are countable and plural, so use many."
+    },
+    {
+      "incorrect": "Their bicycles are the same size than ours.",
+      "correct": "Their bicycles are the same size as ours.",
+      "why": "Use as after the same size, not than."
+    },
+    {
+      "incorrect": "Leo doesn’t cook as better as his sister.",
+      "correct": "Leo doesn’t cook as well as his sister.",
+      "why": "Use the basic adverb well inside as ... as; better is comparative."
+    }
+  ],
+  "studyTips": [
+    "Test the meaning by reversing the sentence with a comparative: “not as tall as” can become “shorter than”.",
+    "Look at the noun before choosing much or many: space is uncountable; chairs are plural countable.",
+    "Learn “the same ... as” as one phrase and practise it with size, price, colour and time."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A yellow bag weighs two kilos; a black bag weighs five kilos. The yellow bag isn’t ___ the black bag.",
+      "choices": [
+        "as heavy as",
+        "heavy than",
+        "the heaviest as"
+      ],
+      "answerIndex": 0,
+      "feedback": "Not as heavy as means the first bag weighs less."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "We have six spoons and ten forks. We don’t have ___ spoons as forks.",
+      "choices": [
+        "as much",
+        "as many",
+        "more many"
+      ],
+      "answerIndex": 1,
+      "feedback": "Spoons is a plural countable noun; use as many ... as."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Lena leaves work at six; Omar leaves at eight. Lena doesn’t stay at work ___.",
+      "choices": [
+        "longer as Omar",
+        "as late than Omar",
+        "as late as Omar"
+      ],
+      "answerIndex": 2,
+      "feedback": "Not as late as compares their leaving times; the second comparison word must be as."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Two T-shirts are both twelve pounds. The blue one is ___ the green one.",
+      "choices": [
+        "the same price as",
+        "the same price than",
+        "more expensive as"
+      ],
+      "answerIndex": 0,
+      "feedback": "The same price as describes equal prices."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "My coat isn’t as warm ___ yours. (Complete the comparison.)",
+      "acceptedAnswers": [
+        "as"
+      ],
+      "feedback": "The phrase is not as warm as, with as on both sides of the adjective."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "We don’t have as ___ plates as people at the table. (Choose the quantity word.)",
+      "acceptedAnswers": [
+        "many"
+      ],
+      "feedback": "Plates are plural countable items, so the comparison uses many."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "I don’t spend as ___ time online as I did last year. (Choose the quantity word.)",
+      "acceptedAnswers": [
+        "much"
+      ],
+      "feedback": "Time is uncountable, so use as much ... as."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The two tables are the same height ___ each other. (Complete the expression.)",
+      "acceptedAnswers": [
+        "as"
+      ],
+      "feedback": "Use the same height as to compare equal dimensions."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the comparison word only: This path isn’t as long than the other path.",
+      "acceptedAnswers": [
+        "This path isn’t as long as the other path.",
+        "This path is not as long as the other path."
+      ],
+      "feedback": "The second word in not as long as is as, not than."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the quantity word only: We don’t have as much chairs as they do.",
+      "acceptedAnswers": [
+        "We don’t have as many chairs as they do.",
+        "We do not have as many chairs as they do."
+      ],
+      "feedback": "Chairs is plural and countable, so many replaces much."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the comparison word only: Our suitcases are the same weight than theirs.",
+      "acceptedAnswers": [
+        "Our suitcases are the same weight as theirs."
+      ],
+      "feedback": "The fixed pattern is the same weight as, not than."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the adjective form only: Mira doesn’t run as faster as Zoe.",
+      "acceptedAnswers": [
+        "Mira doesn’t run as fast as Zoe.",
+        "Mira does not run as fast as Zoe."
+      ],
+      "feedback": "Use the base form fast, not the comparative faster, between as and as."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Correct and say the full sentence: “This jacket is not as cheap than that jacket.”",
+      "acceptedAnswers": [
+        "This jacket is not as cheap as that jacket.",
+        "This jacket isn’t as cheap as that jacket."
+      ],
+      "feedback": "Not as cheap as compares prices; than is not used in this construction."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say this full sentence with the correct quantity word: “We don’t have as ___ cups as the café.”",
+      "acceptedAnswers": [
+        "We don’t have as many cups as the café.",
+        "We do not have as many cups as the café."
+      ],
+      "feedback": "Cups is plural and countable, so say as many cups as."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "The red bag and the blue bag weigh exactly the same. Begin with “The red bag” and use “the same weight as”.",
+      "acceptedAnswers": [
+        "The red bag is the same weight as the blue bag."
+      ],
+      "feedback": "The same weight as expresses equal weight."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A canvas bag weighs two kilos, and a leather bag weighs five kilos. Start with “The canvas bag” and end with “the leather bag”. Say one sentence using not as heavy as.",
+      "acceptedAnswers": [
+        "The canvas bag is not as heavy as the leather bag.",
+        "The canvas bag isn’t as heavy as the leather bag."
+      ],
+      "feedback": "Use not as + adjective + as to show that the canvas bag weighs less."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this comparison: “The cinema is larger than the theatre.” Start with “The theatre” and use not as large as the cinema.",
+      "acceptedAnswers": [
+        "The theatre is not as large as the cinema.",
+        "The theatre isn’t as large as the cinema."
+      ],
+      "feedback": "The theatre is smaller, so reversing the comparison gives not as large as."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Mia has four forks, and Luis has eight. A friend asks whether Mia has as many forks as Luis. Reply with one sentence beginning “Mia”. Use “doesn’t have” or “does not have” and as many ... as.",
+      "acceptedAnswers": [
+        "Mia doesn’t have as many forks as Luis.",
+        "Mia does not have as many forks as Luis."
+      ],
+      "feedback": "Forks are countable, so use as many forks as to compare their numbers."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A learner says, “My brother doesn’t drink as many milk as I do.” Correct the quantity word and say the complete sentence. You may expand the contraction.",
+      "acceptedAnswers": [
+        "My brother doesn’t drink as much milk as I do.",
+        "My brother does not drink as much milk as I do."
+      ],
+      "feedback": "Milk is uncountable, so use as much milk as, not as many milk as."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Drew walks three kilometres in an hour, but Ana walks five. Tell a friend about Drew’s lower speed. Begin with “Drew”, use “doesn’t walk” or “does not walk”, and end with “as quickly as Ana does”.",
+      "acceptedAnswers": [
+        "Drew doesn’t walk as quickly as Ana does.",
+        "Drew does not walk as quickly as Ana does."
+      ],
+      "feedback": "Not as quickly as describes a lower speed. The adverb quickly stays in its basic form."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Our kitchen isn’t as bright as the living room.",
+      "prompt": "Which room is brighter?",
+      "choices": [
+        "The kitchen",
+        "The living room",
+        "They are equally bright"
+      ],
+      "answerIndex": 1,
+      "feedback": "Isn’t as bright as shows that the kitchen receives less light."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I don’t buy as many books as my sister does.",
+      "prompt": "What does the speaker buy fewer of?",
+      "choices": [
+        "Magazines",
+        "Shoes",
+        "Books"
+      ],
+      "answerIndex": 2,
+      "feedback": "As many books as compares the number of books bought."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "We don’t need as much water as they do.",
+      "prompt": "Type the quantity word you hear after the first “as”.",
+      "acceptedAnswers": [
+        "much"
+      ],
+      "feedback": "Water is uncountable, and the speaker says as much water as."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The library isn’t as noisy as the café, so let’s study at the library.",
+      "prompt": "Why does the speaker suggest studying at the library?",
+      "choices": [
+        "It is nearer to home.",
+        "It stays open later.",
+        "It is quieter."
+      ],
+      "answerIndex": 2,
+      "feedback": "The library is not as noisy as the café, so it is the quieter place to study."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Our street has as many trees as the park, but it doesn’t have as many benches.",
+      "prompt": "Compared with the park, what does the street have fewer of?",
+      "choices": [
+        "Benches",
+        "Trees",
+        "Both trees and benches"
+      ],
+      "answerIndex": 0,
+      "feedback": "The street and park have equal numbers of trees, but the street has fewer benches."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I don’t walk as far as my brother does, but we both leave home at seven.",
+      "prompt": "Which statement about the two people is correct?",
+      "choices": [
+        "The brother leaves home earlier.",
+        "The speaker walks a shorter distance.",
+        "They both walk the same distance."
+      ],
+      "answerIndex": 1,
+      "feedback": "Not as far as means the speaker walks a shorter distance; both leave at the same time."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The new recipe doesn’t use as much sugar as the old one.",
+      "prompt": "Type the two-word quantity expression directly before “sugar” in the audio.",
+      "acceptedAnswers": [
+        "as much"
+      ],
+      "feedback": "Sugar is uncountable, so the speaker says as much sugar as."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Maya isn’t as nervous about the exam as her brother is.",
+      "prompt": "Type the contracted negative verb you hear near the beginning.",
+      "acceptedAnswers": [
+        "isn’t"
+      ],
+      "feedback": "Isn’t is the contraction of is not, used before as nervous as."
+    }
+  ]
+}

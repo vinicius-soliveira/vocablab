@@ -1,0 +1,407 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u046",
+  "title": "Questions with Prepositions and What ... Like?",
+  "level": "A2",
+  "topicId": "questions-prepositions-what-like",
+  "summary": "Form natural questions with a preposition at the end, such as who someone is waiting for. Ask for descriptions using what is, are, was or were something like.",
+  "learningObjectives": [
+    "Place prepositions such as to, for, about and with naturally at the end of informal questions.",
+    "Use who, what, where and which in direct questions that retain their required preposition.",
+    "Use What ... like? to request a description rather than an opinion about liking something.",
+    "Choose is, are, was or were for descriptions of singular, plural, present and past situations."
+  ],
+  "explanation": [
+    {
+      "heading": "Keep the preposition after its verb or expression",
+      "body": "In normal everyday questions, a preposition often appears at the end, particularly after who, what, where or which. Keep the preposition required by the verb or phrase: wait for, speak to, look for, come from and talk about. Do not drop it.",
+      "example": "Who are the children waiting for?"
+    },
+    {
+      "heading": "Keep question word order",
+      "body": "A direct question with a preposition still follows the usual pattern: question word + auxiliary or be + subject + remaining words + preposition. For example, ask What are they looking at?, not What they are looking at? Short questions such as Who with? are also possible when the context is clear.",
+      "example": "What is your brother worried about?"
+    },
+    {
+      "heading": "Ask for a description with What ... like?",
+      "body": "Use What is ... like? to ask somebody to describe a person, place, thing or experience. The reply can describe its appearance, character or quality. Here like is a preposition: the question is not asking whether someone likes the thing.",
+      "example": "What is the new sports centre like?"
+    },
+    {
+      "heading": "Change be for time and number",
+      "body": "Choose is for one thing now and are for plural people or things now. To ask about past experiences, use was with singular nouns and were with plural nouns. The word like stays unchanged.",
+      "example": "What were the streets like after the festival?"
+    },
+    {
+      "heading": "Compare description with preference",
+      "body": "What is it like? asks for information about its qualities. Do you like it? asks whether the listener feels positively about it. These are different questions, although somebody may answer both when discussing a new place or experience.",
+      "example": "What is your new desk like? / Do you like your new desk?"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Questions with and without the required preposition",
+      "left": {
+        "label": "Incomplete question",
+        "example": "Who are you waiting?",
+        "note": "Wait for someone requires for in this meaning."
+      },
+      "right": {
+        "label": "Natural question",
+        "example": "Who are you waiting for?",
+        "note": "The preposition for stays at the end."
+      }
+    },
+    {
+      "title": "Description versus personal preference",
+      "left": {
+        "label": "Ask for a description",
+        "example": "What is the film like?",
+        "note": "Ask about the film’s qualities or character."
+      },
+      "right": {
+        "label": "Ask for an opinion of liking",
+        "example": "Do you like the film?",
+        "note": "Ask whether the listener enjoys the film."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Who did you travel with last month?",
+      "note": "The preposition with comes at the end of the question."
+    },
+    {
+      "sentence": "Which course is Marta interested in?",
+      "note": "The adjective interested keeps its preposition in."
+    },
+    {
+      "sentence": "Where is that parcel from?",
+      "note": "From appears at the end of a natural where-question."
+    },
+    {
+      "sentence": "What are your new neighbours like?",
+      "note": "Are agrees with the plural subject in a present description question."
+    },
+    {
+      "sentence": "What was the concert like on Saturday?",
+      "note": "Was asks for a description of a past event."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Who are you speaking?",
+      "correct": "Who are you speaking to?",
+      "why": "Speaking to a person requires the preposition to."
+    },
+    {
+      "incorrect": "What the new café is like?",
+      "correct": "What is the new café like?",
+      "why": "Direct questions place is before the subject the new café."
+    },
+    {
+      "incorrect": "What were the concert like?",
+      "correct": "What was the concert like?",
+      "why": "Concert is singular, so use was for a past description."
+    },
+    {
+      "incorrect": "What was the evening liked?",
+      "correct": "What was the evening like?",
+      "why": "In What ... like?, like is a preposition, not a past-tense verb."
+    }
+  ],
+  "studyTips": [
+    "Learn verbs together with their prepositions, such as wait for, speak to and look at.",
+    "For What ... like? questions, check whether the subject is singular or plural and whether the time is present or past.",
+    "When you see like at the end of a description question, remember that it does not mean enjoy."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Sam is talking to someone. Which question correctly asks about the other person?",
+      "choices": [
+        "Who is Sam talking to?",
+        "Who Sam is talking to?",
+        "Who does Sam talking to?"
+      ],
+      "answerIndex": 0,
+      "feedback": "In everyday English, the preposition to stays at the end: Who is Sam talking to?"
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the preposition: “Who does this backpack belong ___?”",
+      "choices": [
+        "of",
+        "to",
+        "with"
+      ],
+      "answerIndex": 1,
+      "feedback": "Belong to is the correct expression; the preposition remains after the verb."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "You visited a campsite last weekend. Complete the description question: “What ___ the campsite like?”",
+      "choices": [
+        "is",
+        "were",
+        "was"
+      ],
+      "answerIndex": 2,
+      "feedback": "The visit is in the past and campsite is singular, so use was."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "You have never visited a town. Which question asks for a description of it?",
+      "choices": [
+        "What is the town like?",
+        "Do you like the town?",
+        "What does the town like?"
+      ],
+      "answerIndex": 0,
+      "feedback": "What is ... like? requests a description; Do you like ...? asks about preference."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Ava is looking for her passport. Ask about the missing item: “What is Ava looking ___?”",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "Looking for something means searching for it, so the preposition is for."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Your friend worked with someone yesterday. Ask about that person: “Who did you work ___ yesterday?”",
+      "acceptedAnswers": [
+        "with"
+      ],
+      "feedback": "Work with someone requires with, normally at the end of this question."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Ask about a restaurant someone visited last week: “What ___ the restaurant like?”",
+      "acceptedAnswers": [
+        "was"
+      ],
+      "feedback": "Use was to ask for a description of a single restaurant in the past."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Ask about several new neighbours now: “What ___ your new neighbours like?”",
+      "acceptedAnswers": [
+        "are"
+      ],
+      "feedback": "Neighbours is plural and the question concerns the present, so use are."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the question: “Who are you waiting?”",
+      "acceptedAnswers": [
+        "Who are you waiting for?"
+      ],
+      "feedback": "Wait for a person requires for, which normally stays at the end."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the direct question: “What your new room is like?”",
+      "acceptedAnswers": [
+        "What is your new room like?"
+      ],
+      "feedback": "Put is before the subject your new room in a direct description question."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the question: “What were the music like at the festival?”",
+      "acceptedAnswers": [
+        "What was the music like at the festival?"
+      ],
+      "feedback": "Music is an uncountable singular noun, so the past form is was."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the question: “What was the journey liked?”",
+      "acceptedAnswers": [
+        "What was the journey like?"
+      ],
+      "feedback": "The final like is a preposition and never takes the past ending -d."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Your colleague is talking to someone. Ask who the person is, beginning with Who and ending with to. Say the complete question.",
+      "acceptedAnswers": [
+        "Who is your colleague talking to?"
+      ],
+      "feedback": "Keep is before your colleague and to at the end."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask for a description of “the new flat” using What ... like? Say the complete question.",
+      "acceptedAnswers": [
+        "What is the new flat like?",
+        "What's the new flat like?"
+      ],
+      "feedback": "Use What is the new flat like? to ask for a description; the contracted form is also natural."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "A friend attended a concert last night. Ask for a description of “the concert”. Use What was ... like? and say the complete question.",
+      "acceptedAnswers": [
+        "What was the concert like?"
+      ],
+      "feedback": "Concert is singular and the experience was in the past, so use was."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The children are looking at something. Ask what they are looking at. Use the present continuous and end the question with at.",
+      "acceptedAnswers": [
+        "What are the children looking at?"
+      ],
+      "feedback": "Use What + are + the children + looking, and keep the preposition at at the end."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Turn \"Tariq was speaking to someone after the meeting\" into a direct question asking who the person was. Keep the past continuous and the time phrase.",
+      "acceptedAnswers": [
+        "Who was Tariq speaking to after the meeting?"
+      ],
+      "feedback": "The question keeps was speaking and the required preposition to before the time phrase."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You are talking about a hotel that recently opened. Ask someone to describe \"the hotel\" as it is now, using What ... like?",
+      "acceptedAnswers": [
+        "What is the hotel like?",
+        "What's the hotel like?"
+      ],
+      "feedback": "What is ... like? asks for a description of the hotel. What’s is a valid contraction."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Your friend asks, \"Do you like the new coach?\" But they want a description, not your preference. Replace it with a question using What ... like? and \"the new coach\".",
+      "acceptedAnswers": [
+        "What is the new coach like?",
+        "What's the new coach like?"
+      ],
+      "feedback": "What is ... like? asks about the coach’s characteristics; Do you like ...? asks about preference."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Your friends returned from a camping trip. Ask for a description of their tents on the trip, using \"the tents\" and What ... like? in the past.",
+      "acceptedAnswers": [
+        "What were the tents like?"
+      ],
+      "feedback": "Use were for a plural subject in a question about a past experience."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Who is Adrian sitting next to?",
+      "prompt": "Which expression do you hear at the end of the question?",
+      "choices": [
+        "in",
+        "next to",
+        "behind"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker uses the prepositional expression next to at the end of the question."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "What were the bedrooms like?",
+      "prompt": "What does the speaker ask for?",
+      "choices": [
+        "Which bedrooms are available.",
+        "Who was in the bedrooms.",
+        "A description of the bedrooms."
+      ],
+      "answerIndex": 2,
+      "feedback": "What were ... like? asks for a description of plural things in the past."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "What was the new museum like?",
+      "prompt": "Listen and type only the form of be immediately after What.",
+      "acceptedAnswers": [
+        "was"
+      ],
+      "feedback": "Museum is singular and the speaker uses the past form was."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Who is the cashier speaking to near the entrance?",
+      "prompt": "Which information does the question ask for?",
+      "choices": [
+        "What the cashier is buying.",
+        "The person the cashier is addressing.",
+        "Where the cashier works."
+      ],
+      "answerIndex": 1,
+      "feedback": "Speaking to somebody makes that person the target of the question; to is retained."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The guests loved the view, but what were the beds like?",
+      "prompt": "What does the speaker still want to know?",
+      "choices": [
+        "Whether the guests enjoyed the view.",
+        "How much their room cost.",
+        "The quality of the beds during the stay."
+      ],
+      "answerIndex": 2,
+      "feedback": "The view is already described positively. What were ... like? asks for a description of the beds."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I know you enjoyed the food, but what was the service like?",
+      "prompt": "Which answer would best respond to the speaker?",
+      "choices": [
+        "Yes, I loved the meal.",
+        "The staff were helpful and quick.",
+        "I ordered pasta and soup."
+      ],
+      "answerIndex": 1,
+      "feedback": "The question requests a description of the service, not a personal liking or a list of dishes."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Which shelf did you take the blue box from?",
+      "prompt": "Type only the preposition at the end of the question.",
+      "acceptedAnswers": [
+        "from"
+      ],
+      "feedback": "Take something from a shelf requires from, which stays at the end of this question."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "What were the roads like after the flood?",
+      "prompt": "Type only the past form of be immediately after What.",
+      "acceptedAnswers": [
+        "were"
+      ],
+      "feedback": "Roads is plural and the question describes a past situation, so the speaker uses were."
+    }
+  ]
+}

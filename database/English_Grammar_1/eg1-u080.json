@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u080",
+  "title": "Every and All: People, Things and Time",
+  "level": "A2",
+  "topicId": "every-all-frequency-duration",
+  "summary": "Use every before singular nouns and all with plural groups. Distinguish repeated occasions from an entire period of time, and use everybody, everything and everywhere correctly.",
+  "learningObjectives": [
+    "Use every + singular countable noun with a singular verb.",
+    "Contrast every + singular noun with all + plural noun for complete groups.",
+    "Distinguish how often (every day) from how long (all day).",
+    "Use everybody/everyone, everything and everywhere with appropriate meanings and agreement."
+  ],
+  "explanation": [
+    {
+      "heading": "Every goes before one singular noun",
+      "body": "Every refers to each member of a group, considered individually. Put every before a singular countable noun such as ticket, street or visitor. Say every seat, not every seats.",
+      "example": "Every visitor gets a map at the museum entrance."
+    },
+    {
+      "heading": "Use singular verbs with every + singular subject",
+      "body": "When every + singular noun is the subject, use a singular present-tense verb: every bus stops, every room has, every answer is. The group may contain many things, but the grammar is singular.",
+      "example": "Every apartment in this building has a balcony."
+    },
+    {
+      "heading": "Every and all describe a complete group differently",
+      "body": "Every + singular noun focuses on each member: every guest. All + plural noun focuses on the group: all the guests. The meaning can be similar, but the noun and verb forms must match the structure.",
+      "example": "All the guests have a name badge."
+    },
+    {
+      "heading": "Every day is frequency; all day is duration",
+      "body": "Every day means on each day and answers How often? All day means throughout the entire day and answers How long? The same distinction applies to every morning versus all morning and every summer versus all summer.",
+      "example": "She practises the piano every evening, but yesterday she practised all evening."
+    },
+    {
+      "heading": "Everybody, everything and everywhere",
+      "body": "Everybody or everyone refers to all people, everything refers to all things, and everywhere refers to all places. Everybody, everyone and everything take singular verbs: everybody wants; everything looks. Everywhere expresses place and does not itself determine subject–verb agreement.",
+      "example": "Everyone is ready, and everything is in its place."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Every versus all with a complete group",
+      "left": {
+        "label": "Every + singular",
+        "example": "Every employee has a key.",
+        "note": "Employee is singular and takes has."
+      },
+      "right": {
+        "label": "All + plural",
+        "example": "All the employees have keys.",
+        "note": "Employees is plural and takes have."
+      }
+    },
+    {
+      "title": "Frequency versus duration",
+      "left": {
+        "label": "Every day",
+        "example": "Maya calls her grandparents every day.",
+        "note": "The call happens on each day: how often?"
+      },
+      "right": {
+        "label": "All day",
+        "example": "Maya was at her grandparents’ house all day.",
+        "note": "Her visit lasted the full day: how long?"
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Every shelf in the shop is labelled.",
+      "note": "Every takes a singular noun and a singular verb."
+    },
+    {
+      "sentence": "All the shelves in the shop are labelled.",
+      "note": "All the shelves uses a plural noun and plural verb."
+    },
+    {
+      "sentence": "I water these plants every morning.",
+      "note": "Every morning describes repeated occasions."
+    },
+    {
+      "sentence": "We waited for the electrician all morning.",
+      "note": "All morning describes the length of one period."
+    },
+    {
+      "sentence": "Everything on the list belongs in this box.",
+      "note": "Everything means all the things and takes a singular verb."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Every rooms have a window.",
+      "correct": "Every room has a window.",
+      "why": "Every takes a singular noun and the singular verb has."
+    },
+    {
+      "incorrect": "Everybody want a seat.",
+      "correct": "Everybody wants a seat.",
+      "why": "Everybody takes singular subject–verb agreement."
+    },
+    {
+      "incorrect": "We played outside every afternoon yesterday.",
+      "correct": "We played outside all afternoon yesterday.",
+      "why": "A single afternoon lasting from start to finish needs all afternoon, not every afternoon."
+    },
+    {
+      "incorrect": "All student is ready.",
+      "correct": "All students are ready.",
+      "why": "All with a plural countable noun requires students and are."
+    }
+  ],
+  "studyTips": [
+    "When you see every, check both the noun and the verb: every child plays.",
+    "Ask How often? for every day and How long? for all day.",
+    "Remember the three meanings: everybody = all people, everything = all things, everywhere = all places."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "___ visitor receives a ticket at the entrance.",
+      "choices": [
+        "Every",
+        "All",
+        "Everybody"
+      ],
+      "answerIndex": 0,
+      "feedback": "Every combines with the singular countable noun visitor."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Every classroom in our school ___ a projector.",
+      "choices": [
+        "have",
+        "has",
+        "are"
+      ],
+      "answerIndex": 1,
+      "feedback": "Every classroom is grammatically singular, so use has."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The rain began before breakfast and continued until bedtime yesterday. It rained ___.",
+      "choices": [
+        "every day",
+        "every morning",
+        "all day"
+      ],
+      "answerIndex": 2,
+      "feedback": "All day describes one complete day, not repeated days."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "She took a walk on each of the seven days last week. She took a walk ___ last week.",
+      "choices": [
+        "every day",
+        "all day",
+        "everywhere"
+      ],
+      "answerIndex": 0,
+      "feedback": "Every day means the walk happened each day of that week."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Choose Every or All: ___ chair in this room has a cushion.",
+      "acceptedAnswers": [
+        "Every"
+      ],
+      "feedback": "Every comes before the singular noun chair."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: They worked from morning until night. They worked ___ day.",
+      "acceptedAnswers": [
+        "all"
+      ],
+      "feedback": "All day expresses a continuous duration during one day."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: I checked the kitchen, the bedrooms, the hall and the garden. I looked ___.",
+      "acceptedAnswers": [
+        "everywhere"
+      ],
+      "feedback": "Everywhere refers to all the places checked."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with a word meaning all the people: ___ understands the safety instructions.",
+      "acceptedAnswers": [
+        "Everybody",
+        "Everyone"
+      ],
+      "feedback": "Everybody and everyone mean all the people and take understands."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the noun after every: Every buses arrives at this stop.",
+      "acceptedAnswers": [
+        "Every bus arrives at this stop."
+      ],
+      "feedback": "Use the singular noun bus after every."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the verb: Everything in the cupboard are clean.",
+      "acceptedAnswers": [
+        "Everything in the cupboard is clean."
+      ],
+      "feedback": "Everything is singular, so use is."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the time expression for a single night: The baby slept every night last night.",
+      "acceptedAnswers": [
+        "The baby slept all night last night."
+      ],
+      "feedback": "All night refers to the full duration of one night."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the verb: Everybody need a coat in this cold weather.",
+      "acceptedAnswers": [
+        "Everybody needs a coat in this cold weather."
+      ],
+      "feedback": "Everybody is grammatically singular; the verb is needs."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say that each child receives a sticker. Start with 'Every child'.",
+      "acceptedAnswers": [
+        "Every child gets a sticker."
+      ],
+      "feedback": "Every + singular child takes the singular verb gets."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say that the lights were on from morning until night yesterday. Use 'all day'.",
+      "acceptedAnswers": [
+        "The lights were on all day yesterday."
+      ],
+      "feedback": "All day shows a continuous duration, not repeated days."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say that all people are ready. Start with 'Everyone'.",
+      "acceptedAnswers": [
+        "Everyone is ready."
+      ],
+      "feedback": "Everyone has a singular verb, is."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Maya travels by bus on Monday, Tuesday, Wednesday, Thursday, Friday, Saturday and Sunday. Say one sentence beginning 'Maya takes the bus' and ending 'every day'.",
+      "acceptedAnswers": [
+        "Maya takes the bus every day."
+      ],
+      "feedback": "Every day describes how often Maya travels: on each day of the week."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change 'Every room is clean' into a sentence beginning 'All the rooms'. Keep the same meaning.",
+      "acceptedAnswers": [
+        "All the rooms are clean."
+      ],
+      "feedback": "Every room uses a singular noun and is; all the rooms needs the plural noun and are."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your manager asks how long the repairs took yesterday. They continued from early morning until late evening. Reply with one sentence beginning 'The repairs took' and ending 'all day'.",
+      "acceptedAnswers": [
+        "The repairs took all day."
+      ],
+      "feedback": "All day expresses duration throughout a single day, not how often the repairs happen."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A hotel worker says, 'Everything in these boxes are fragile.' Correct the verb and say the whole sentence.",
+      "acceptedAnswers": [
+        "Everything in these boxes is fragile."
+      ],
+      "feedback": "Everything is a singular subject, even when the following phrase mentions plural boxes."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You looked for the keys in every room at school. Tell a colleague in one sentence starting 'We looked', including 'everywhere in the school', and ending 'for the keys'.",
+      "acceptedAnswers": [
+        "We looked everywhere in the school for the keys."
+      ],
+      "feedback": "Everywhere indicates the search covered all the places in the school."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Every table has a small lamp.",
+      "prompt": "What is true of the lamps?",
+      "choices": [
+        "Only one table has a lamp",
+        "Each table has a lamp",
+        "None of the tables has a lamp"
+      ],
+      "answerIndex": 1,
+      "feedback": "Every table means each table has a lamp."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We stayed in the garden all afternoon.",
+      "prompt": "How long were the speakers in the garden?",
+      "choices": [
+        "Each afternoon for a week",
+        "Only for a moment",
+        "The whole afternoon"
+      ],
+      "answerIndex": 2,
+      "feedback": "All afternoon means the complete afternoon."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Everybody needs a little help sometimes.",
+      "prompt": "Type the one-word subject that means all the people.",
+      "acceptedAnswers": [
+        "everybody"
+      ],
+      "feedback": "Everybody refers to all people and takes the singular verb needs."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Every Monday, I buy fresh bread before work.",
+      "prompt": "How regularly does the speaker buy bread?",
+      "choices": [
+        "Only once during the whole year.",
+        "Once a week on the same day.",
+        "For an entire day each time."
+      ],
+      "answerIndex": 1,
+      "feedback": "Every Monday means the speaker buys bread on that day each week."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "All the passengers had their tickets, but one suitcase was missing.",
+      "prompt": "What was not there?",
+      "choices": [
+        "The passengers' travel tickets.",
+        "One of the passengers.",
+        "One piece of luggage."
+      ],
+      "answerIndex": 2,
+      "feedback": "The passengers all had tickets, but one suitcase, a piece of luggage, was missing."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I read for an hour every night, but on Saturday I read all night.",
+      "prompt": "How was Saturday different?",
+      "choices": [
+        "The reading continued throughout the night.",
+        "The speaker did not read at all.",
+        "The speaker read for only a few minutes."
+      ],
+      "answerIndex": 0,
+      "feedback": "Every night tells us the usual frequency; all night says that Saturday's reading lasted for the entire night."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Every window in the office has a blue curtain.",
+      "prompt": "Type the first two words, which identify the items one by one.",
+      "acceptedAnswers": [
+        "every window"
+      ],
+      "feedback": "Every window combines every with a singular noun and takes the singular verb has."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The same safety sign was everywhere in the building.",
+      "prompt": "Type the single word meaning in all the places being described.",
+      "acceptedAnswers": [
+        "everywhere"
+      ],
+      "feedback": "Everywhere means throughout all the places in the building."
+    }
+  ]
+}

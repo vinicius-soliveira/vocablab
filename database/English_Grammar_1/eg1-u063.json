@@ -1,0 +1,402 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u063",
+  "title": "Reflexive Pronouns and Each Other",
+  "level": "A2",
+  "topicId": "reflexive-pronouns-each-other",
+  "summary": "Use reflexive pronouns when an action involves the same person as its subject. Describe doing something alone with by myself and express actions between people with each other.",
+  "learningObjectives": [
+    "Choose a reflexive pronoun that agrees with its subject.",
+    "Distinguish reflexive pronouns from ordinary object pronouns.",
+    "Use by myself and related phrases to express being alone.",
+    "Use each other for actions that people direct towards one another."
+  ],
+  "explanation": [
+    {
+      "heading": "Match the reflexive pronoun to the person",
+      "body": "Use myself for I, yourself for one person addressed as you, himself for he, herself for she, itself for it, ourselves for we, yourselves for two or more people addressed as you, and themselves for they. These forms refer back to a person or thing already mentioned.",
+      "example": "I taught myself to make vegetable soup."
+    },
+    {
+      "heading": "Use a reflexive pronoun for the same person",
+      "body": "When the subject and the object are the same person, use a reflexive pronoun. Compare she washed herself with she washed her: in the second sentence, her refers to a different person. Use an ordinary object pronoun when two people are involved.",
+      "example": "Noah saw himself in the shop window."
+    },
+    {
+      "heading": "Common phrases with reflexive forms",
+      "body": "Enjoy yourself means have a good time. You can also enjoy ourselves or enjoy themselves, according to the subject. Help yourself to food or a drink is a friendly invitation. Addressing more than one person, say help yourselves.",
+      "example": "Please help yourselves to some juice, everyone."
+    },
+    {
+      "heading": "Use by myself to mean alone",
+      "body": "By myself, by yourself, by herself and similar phrases mean without other people. The form changes with the person who is alone. By herself does not necessarily mean she did something difficult without help; it can simply mean nobody was with her.",
+      "example": "Rina went to the library by herself."
+    },
+    {
+      "heading": "Each other describes a two-way relationship",
+      "body": "Use each other when two or more people do something to one another. If two friends call each other, the first calls the second and the second calls the first. This is different from calling themselves, which refers separately to each person's own self.",
+      "example": "My grandparents write to each other every week."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "The same person or a different person?",
+      "left": {
+        "label": "Reflexive object",
+        "example": "Leila photographed herself at the station.",
+        "note": "Leila took a photo of her own face or body."
+      },
+      "right": {
+        "label": "Ordinary object",
+        "example": "Leila photographed her at the station.",
+        "note": "Her refers to a different woman or girl."
+      }
+    },
+    {
+      "title": "Looking at one another or at oneself",
+      "left": {
+        "label": "Each other",
+        "example": "The sisters looked at each other.",
+        "note": "Each sister looked towards the other sister."
+      },
+      "right": {
+        "label": "Themselves",
+        "example": "The sisters looked at themselves in the mirror.",
+        "note": "Both sisters looked at their own reflections."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "We enjoyed ourselves at the street festival.",
+      "note": "Ourselves agrees with we in the common phrase enjoy ourselves."
+    },
+    {
+      "sentence": "Please be careful, Amir. Don't hurt yourself.",
+      "note": "Yourself refers to one person being addressed."
+    },
+    {
+      "sentence": "My aunt travelled by herself last spring.",
+      "note": "By herself means she travelled alone."
+    },
+    {
+      "sentence": "The two neighbours often help each other.",
+      "note": "The help goes in both directions between the neighbours."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I cut me while opening the box.",
+      "correct": "I cut myself while opening the box.",
+      "why": "Use myself when I is both the person doing the action and the person affected."
+    },
+    {
+      "incorrect": "She saw hisself in the mirror.",
+      "correct": "She saw herself in the mirror.",
+      "why": "Herself is the reflexive form for she; hisself is not a standard form."
+    },
+    {
+      "incorrect": "They went to the beach by theirselves.",
+      "correct": "They went to the beach by themselves.",
+      "why": "The reflexive form for they is themselves."
+    },
+    {
+      "incorrect": "Ben calls Lucy and Lucy calls Ben. They call themselves.",
+      "correct": "Ben calls Lucy and Lucy calls Ben. They call each other.",
+      "why": "Each other expresses an action that goes from one person to the other."
+    }
+  ],
+  "studyTips": [
+    "Learn the reflexive forms in groups: myself, yourself, himself, herself, itself, ourselves, yourselves and themselves.",
+    "Ask whether the subject and object are the same person before choosing myself or an object pronoun such as me.",
+    "Use a simple two-person example to check each other: A helps B and B helps A."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "After cutting vegetables, Milo noticed he had cut ___.",
+      "choices": [
+        "himself",
+        "him",
+        "his"
+      ],
+      "answerIndex": 0,
+      "feedback": "Himself refers back to Milo, who both did the cutting and was hurt."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "You and Lena should help ___ to the snacks.",
+      "choices": [
+        "yourself",
+        "yourselves",
+        "each other"
+      ],
+      "answerIndex": 1,
+      "feedback": "Yourselves is the form used when speaking to two people."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "I had dinner ___ last night because my flatmate was away.",
+      "choices": [
+        "me",
+        "myself",
+        "by myself"
+      ],
+      "answerIndex": 2,
+      "feedback": "By myself means alone, which fits the explanation about the absent flatmate."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Ben called Olivia, and Olivia called Ben. They called ___.",
+      "choices": [
+        "each other",
+        "themselves",
+        "them"
+      ],
+      "answerIndex": 0,
+      "feedback": "Each other shows that both people called the other person."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Ava made the cake alone. She made it by ___.",
+      "acceptedAnswers": [
+        "herself"
+      ],
+      "feedback": "By herself means that Ava made the cake alone."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "We stood in front of the mirror and saw ___.",
+      "acceptedAnswers": [
+        "ourselves"
+      ],
+      "feedback": "Ourselves refers back to we: we saw our own reflections."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Sara writes to Dan, and Dan writes to Sara. They write to ___.",
+      "acceptedAnswers": [
+        "each other",
+        "one another"
+      ],
+      "feedback": "Each other, or one another, shows that the communication goes both ways."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "My cousins had a great weekend and really enjoyed ___.",
+      "acceptedAnswers": [
+        "themselves"
+      ],
+      "feedback": "Enjoyed themselves is the natural phrase for saying that they had a good time."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Daniel hurt hisself while carrying a box.",
+      "acceptedAnswers": [
+        "Daniel hurt himself while carrying a box."
+      ],
+      "feedback": "Himself is the standard reflexive form for he, not hisself."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: They made dinner by theirselves.",
+      "acceptedAnswers": [
+        "They made dinner by themselves."
+      ],
+      "feedback": "The correct reflexive pronoun for they is themselves."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the final sentence: Mia calls Max every evening, and Max calls Mia. They call themselves every evening.",
+      "acceptedAnswers": [
+        "They call each other every evening.",
+        "They call one another every evening."
+      ],
+      "feedback": "Because Mia calls Max and Max calls Mia, the final sentence needs each other or one another."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Ben and Mia, please help yourself to some cake.",
+      "acceptedAnswers": [
+        "Ben and Mia, please help yourselves to some cake."
+      ],
+      "feedback": "Yourselves agrees with the two people being addressed."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say that Emma made breakfast alone. Start with 'Emma made breakfast' and use 'by'.",
+      "acceptedAnswers": [
+        "Emma made breakfast by herself."
+      ],
+      "feedback": "By herself expresses that Emma made breakfast alone."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Tell Leo not to hurt himself. Start with 'Leo, don't'.",
+      "acceptedAnswers": [
+        "Leo, don't hurt yourself."
+      ],
+      "feedback": "Use yourself when you speak directly to one person."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say that Sofia and Jack know one another. Use 'each other'.",
+      "acceptedAnswers": [
+        "Sofia and Jack know each other."
+      ],
+      "feedback": "Each other expresses a relationship between the two people."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Toby sees his own face in a mirror. Say what he sees, starting with 'Toby sees'.",
+      "acceptedAnswers": [
+        "Toby sees himself in the mirror."
+      ],
+      "feedback": "Himself refers back to Toby, the person seeing his own reflection."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change 'Please help yourself to some water' so that you are speaking to three guests. Say the complete sentence.",
+      "acceptedAnswers": [
+        "Please help yourselves to some water."
+      ],
+      "feedback": "Yourselves is the reflexive form when you address more than one person."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Ahmed sends Mila a message every day, and Mila sends Ahmed a message every day. Answer 'Who do they message?' Begin with 'They' and use 'each other'.",
+      "acceptedAnswers": [
+        "They message each other every day."
+      ],
+      "feedback": "Each other shows that Ahmed and Mila exchange messages in both directions."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Rosa took a picture of her own face. Correct this sentence so it describes that fact: 'Rosa took a picture of her.'",
+      "acceptedAnswers": [
+        "Rosa took a picture of herself."
+      ],
+      "feedback": "Herself refers back to Rosa. Her would refer to a different girl or woman."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You and your classmates had a great time on the school trip. Say this using 'enjoyed', beginning with 'We enjoyed' and ending with 'on the school trip'.",
+      "acceptedAnswers": [
+        "We enjoyed ourselves on the school trip."
+      ],
+      "feedback": "Enjoyed ourselves is the natural phrase for saying that we had a good time."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "After the picnic, Priya and I cleaned the tables ourselves.",
+      "prompt": "Who cleaned the tables?",
+      "choices": [
+        "Priya's parents",
+        "Priya and the speaker",
+        "Only the speaker"
+      ],
+      "answerIndex": 1,
+      "feedback": "Ourselves refers to Priya and the speaker, the group that did the cleaning."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Luca and Eva looked at each other across the table.",
+      "prompt": "Where was each person looking?",
+      "choices": [
+        "At their own reflection",
+        "At the window",
+        "At the other person"
+      ],
+      "answerIndex": 2,
+      "feedback": "Each other shows that Luca looked at Eva and Eva looked at Luca."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Please help yourselves to more rice.",
+      "prompt": "Type the reflexive pronoun addressed to more than one person.",
+      "acceptedAnswers": [
+        "yourselves"
+      ],
+      "feedback": "Yourselves is the reflexive form for the plural you."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Rosa stayed in the apartment by herself while her parents went to visit family.",
+      "prompt": "What was Rosa doing while her parents were away?",
+      "choices": [
+        "Travelling with her parents.",
+        "Visiting another family member.",
+        "Staying at home alone."
+      ],
+      "answerIndex": 2,
+      "feedback": "By herself means Rosa was alone in the apartment."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The twins made the sandwiches themselves, but their dad bought the bread.",
+      "prompt": "Who prepared the sandwiches?",
+      "choices": [
+        "The twins.",
+        "Their father.",
+        "A shop assistant."
+      ],
+      "answerIndex": 0,
+      "feedback": "The twins made the sandwiches themselves. Their father only bought the bread."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "When the two dancers finished, they smiled at each other across the stage.",
+      "prompt": "What did the dancers do at the end?",
+      "choices": [
+        "They smiled at their own reflections.",
+        "Each smiled at the other dancer.",
+        "They smiled at the audience."
+      ],
+      "answerIndex": 1,
+      "feedback": "At each other describes a two-way action between the dancers, not a reflexive action."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "After the game, the players were tired, but they enjoyed themselves.",
+      "prompt": "Type the single reflexive pronoun you hear after 'enjoyed'.",
+      "acceptedAnswers": [
+        "themselves"
+      ],
+      "feedback": "The players are the plural subject, so the reflexive form is themselves."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Please be careful when you use that sharp knife, and don't cut yourself.",
+      "prompt": "Type the single reflexive pronoun at the end of the warning.",
+      "acceptedAnswers": [
+        "yourself"
+      ],
+      "feedback": "Yourself refers back to the one person being warned."
+    }
+  ]
+}

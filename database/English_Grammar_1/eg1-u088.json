@@ -1,0 +1,399 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u088",
+  "title": "Comparatives 2: Than and Degree",
+  "level": "A2",
+  "topicId": "comparatives-than-less-more-degree",
+  "summary": "Compare people, things and amounts using than. Make differences clearer with a bit and much, and use natural pronouns and clauses after than.",
+  "learningObjectives": [
+    "Connect a comparative adjective or adverb to the second person or thing with than.",
+    "Use natural object pronouns after than or make a full comparison clause.",
+    "Use more than and less than for amounts, distances and times.",
+    "Use a bit and much to describe small and large comparative differences."
+  ],
+  "explanation": [
+    {
+      "heading": "The second part of a comparison: than",
+      "body": "Use than to introduce the person or thing used as the comparison. The usual pattern is comparative + than + person/thing: taller than, more expensive than, or faster than. Do not confuse than (comparison) with then (time).",
+      "example": "My train is faster than your bus."
+    },
+    {
+      "heading": "Pronouns and clauses after than",
+      "body": "In everyday English, object pronouns are common after than: than me, than him, than her and than them. You can also use a subject with the appropriate verb: than I do, than she can or than he is. Keep the auxiliary verb appropriate to the meaning.",
+      "example": "Nora gets up earlier than I do."
+    },
+    {
+      "heading": "Comparing amounts: more than and less than",
+      "body": "More than means above an amount, and less than means below an amount. Use these phrases before numbers, times, prices or distances. You can also use more or less with a comparison when the quantity is understood.",
+      "example": "The repair took less than two hours."
+    },
+    {
+      "heading": "Small and large differences",
+      "body": "Place a bit or much before the comparative to show the size of the difference. A bit means a small difference; much means a large one. With longer adjectives, say a bit more useful or much more comfortable. Do not say more taller.",
+      "example": "The upstairs room is a bit cooler than the kitchen."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Two natural ways to compare people",
+      "left": {
+        "label": "Object pronoun",
+        "example": "Ella reads faster than me.",
+        "note": "An object pronoun is common in ordinary conversation."
+      },
+      "right": {
+        "label": "Full comparison clause",
+        "example": "Ella reads faster than I do.",
+        "note": "Use a subject and a suitable verb."
+      }
+    },
+    {
+      "title": "Size of the difference",
+      "left": {
+        "label": "Small difference",
+        "example": "This mug is a bit larger than that one.",
+        "note": "A bit indicates a small difference."
+      },
+      "right": {
+        "label": "Large difference",
+        "example": "This bottle is much larger than that one.",
+        "note": "Much indicates a large difference."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "My blue trainers are newer than my black ones.",
+      "note": "Than introduces the second pair of trainers."
+    },
+    {
+      "sentence": "Our dog runs faster than I do.",
+      "note": "The comparison clause uses the auxiliary do."
+    },
+    {
+      "sentence": "The museum is less than a kilometre away.",
+      "note": "Less than means below this distance."
+    },
+    {
+      "sentence": "It costs more than twenty pounds to replace the screen.",
+      "note": "More than introduces an amount above twenty pounds."
+    },
+    {
+      "sentence": "The upstairs bedroom is much quieter than the one below.",
+      "note": "Much strengthens the comparative and shows a large difference."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Your coat is longer then mine.",
+      "correct": "Your coat is longer than mine.",
+      "why": "Than introduces comparisons; then usually refers to time or sequence."
+    },
+    {
+      "incorrect": "This bike is much more faster than mine.",
+      "correct": "This bike is much faster than mine.",
+      "why": "Do not add more to an adjective already ending in comparative -er."
+    },
+    {
+      "incorrect": "Her lunch cost less of ten pounds.",
+      "correct": "Her lunch cost less than ten pounds.",
+      "why": "Use than, not of, after less when comparing an amount."
+    },
+    {
+      "incorrect": "He swims faster than I am.",
+      "correct": "He swims faster than I do.",
+      "why": "Use do to refer back to the action swim in a complete comparison clause."
+    }
+  ],
+  "studyTips": [
+    "When writing a comparative sentence, underline the comparative and circle than to check that the two parts connect.",
+    "Remember: than compares; then talks about time or what happens next.",
+    "Add a bit for a small difference and much for a large difference, before the comparative form."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Mina is 1.60 metres tall and Eva is 1.70 metres tall. Eva is ___ Mina.",
+      "choices": [
+        "taller than",
+        "tallest than",
+        "taller that"
+      ],
+      "answerIndex": 0,
+      "feedback": "Eva is taller, and than introduces Mina as the person compared."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The green coat costs £50 and the blue one costs £70. The blue coat costs more ___ the green coat.",
+      "choices": [
+        "then",
+        "than",
+        "that"
+      ],
+      "answerIndex": 1,
+      "feedback": "Use than, not then, to introduce the second price."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "It was 10 degrees yesterday and it is 30 degrees today. Today is ___.",
+      "choices": [
+        "hotter as yesterday",
+        "more hot than yesterday",
+        "much hotter than yesterday"
+      ],
+      "answerIndex": 2,
+      "feedback": "Much hotter than expresses a large temperature difference and uses than correctly."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The walk takes 25 minutes. Which sentence describes its duration correctly?",
+      "choices": [
+        "The walk takes less than 30 minutes.",
+        "The walk takes more than 30 minutes.",
+        "The walk takes exactly 30 minutes."
+      ],
+      "answerIndex": 0,
+      "feedback": "Twenty-five minutes is less than thirty minutes."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The town library is bigger ___ the village library. (comparison word)",
+      "acceptedAnswers": [
+        "than"
+      ],
+      "feedback": "Than introduces the second library in a comparative sentence."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The early train leaves at seven and the late train at eight. The early train leaves an hour ___ than the late train. (early: comparative)",
+      "acceptedAnswers": [
+        "earlier"
+      ],
+      "feedback": "Earlier is the comparative of early; than connects the two trains."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "My sister swims faster than ___. (use the everyday object pronoun for the speaker)",
+      "acceptedAnswers": [
+        "me"
+      ],
+      "feedback": "Than me is a natural everyday comparison; than I do is also correct when a full clause is used."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The blue notebook costs £2.10 and the green one costs £2.00. The blue one is ___ more expensive than the green one. (use a bit or much for a small difference)",
+      "acceptedAnswers": [
+        "a bit"
+      ],
+      "feedback": "A bit more expensive describes the small price difference of ten pence."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the comparison word only: Jules is taller that his brother.",
+      "acceptedAnswers": [
+        "Jules is taller than his brother."
+      ],
+      "feedback": "Than, not that, follows a comparative adjective."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the comparative phrase only: This novel is a bit more longer than that one.",
+      "acceptedAnswers": [
+        "This novel is a bit longer than that one."
+      ],
+      "feedback": "Longer already has comparative -er, so remove more; a bit remains."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the comparison word only: My new flat costs less then eight hundred pounds a month.",
+      "acceptedAnswers": [
+        "My new flat costs less than eight hundred pounds a month."
+      ],
+      "feedback": "Less than introduces a price below the stated amount."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the auxiliary verb only: Lena runs faster than I am.",
+      "acceptedAnswers": [
+        "Lena runs faster than I do."
+      ],
+      "feedback": "The auxiliary do refers to the action run: faster than I do."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "The red bag is heavier. The green bag is lighter. Say one full sentence beginning with \"The red bag\" and comparing it with \"the green bag\" using than.",
+      "acceptedAnswers": [
+        "The red bag is heavier than the green bag."
+      ],
+      "feedback": "A comparative followed by than introduces the other bag."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Leo is 21 and Mila is 20. Say a full sentence beginning with \"Leo\" and using the exact phrase \"a bit older than Mila\".",
+      "acceptedAnswers": [
+        "Leo is a bit older than Mila."
+      ],
+      "feedback": "A bit older than describes the small age difference."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "A train ticket costs £8 and a bus ticket costs £5. Say a complete sentence beginning \"The train\" and comparing the tickets using \"more expensive than the bus\".",
+      "acceptedAnswers": [
+        "The train is more expensive than the bus."
+      ],
+      "feedback": "Use more expensive than to compare the prices."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The small bowl has four pears, and the large bowl has seven. Say one full sentence beginning \"The large bowl has\" and ending \"the small bowl\". Use \"more pears than\".",
+      "acceptedAnswers": [
+        "The large bowl has more pears than the small bowl."
+      ],
+      "feedback": "More pears than compares the number of pears in two bowls."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Nina speaks quietly, but Sam speaks loudly. Compare how they speak. Begin \"Sam speaks\" and end \"Nina does\". Use \"louder than\".",
+      "acceptedAnswers": [
+        "Sam speaks louder than Nina does."
+      ],
+      "feedback": "Than introduces Nina, and does stands for the verb speaks in the comparison clause."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You can swim twenty lengths, and Mia can swim thirty. Tell a friend in one sentence beginning \"Mia can swim\" and ending \"me\". Use \"more lengths than\".",
+      "acceptedAnswers": [
+        "Mia can swim more lengths than me."
+      ],
+      "feedback": "More lengths than me is a natural everyday comparison using an object pronoun."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct only one word in this sentence and say the full result: \"The bakery is cheaper then the café.\"",
+      "acceptedAnswers": [
+        "The bakery is cheaper than the café."
+      ],
+      "feedback": "Use than for comparisons. Then usually describes a time or a sequence."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Two buses follow the same route. The express bus takes twenty minutes, and the local bus takes eighty minutes. Tell a visitor how they compare in one sentence beginning \"The express bus is\". Use \"much faster than the local bus\".",
+      "acceptedAnswers": [
+        "The express bus is much faster than the local bus."
+      ],
+      "feedback": "Much faster than describes a large difference in speed on the same route."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Our hotel room is a bit brighter than yours.",
+      "prompt": "How large is the difference in brightness?",
+      "choices": [
+        "A very large difference",
+        "A small difference",
+        "No difference"
+      ],
+      "answerIndex": 1,
+      "feedback": "A bit brighter expresses a small difference."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The journey takes less than forty minutes.",
+      "prompt": "What is true about the journey time?",
+      "choices": [
+        "Exactly forty minutes",
+        "More than forty minutes",
+        "Under forty minutes"
+      ],
+      "answerIndex": 2,
+      "feedback": "Less than forty minutes means under forty minutes."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The old bridge is much narrower than the new bridge.",
+      "prompt": "Type the two-word comparative phrase you hear that emphasises the difference.",
+      "acceptedAnswers": [
+        "much narrower"
+      ],
+      "feedback": "Much emphasises a large difference, and narrower is the comparative adjective."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The smaller backpack costs much less than the larger one, although both look nice.",
+      "prompt": "Which backpack would be the cheaper choice?",
+      "choices": [
+        "The larger one",
+        "The smaller one",
+        "They cost the same"
+      ],
+      "answerIndex": 1,
+      "feedback": "The smaller backpack costs much less, so it is the cheaper choice."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The library opens at eight in the morning, but the café opens half an hour later than the library.",
+      "prompt": "At what time does the second place open?",
+      "choices": [
+        "Eight thirty in the morning",
+        "Seven thirty in the morning",
+        "Nine in the morning"
+      ],
+      "answerIndex": 0,
+      "feedback": "Half an hour later than eight in the morning is eight thirty."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Ben studies a little longer than I do, but Lucy studies much longer than both of us.",
+      "prompt": "Who spends the most time studying?",
+      "choices": [
+        "The speaker",
+        "Ben",
+        "Lucy"
+      ],
+      "answerIndex": 2,
+      "feedback": "Lucy studies much longer than both the speaker and Ben, so she spends the most time studying."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The bus will be here in less than ten minutes.",
+      "prompt": "Type the two-word expression showing the wait is below the stated time.",
+      "acceptedAnswers": [
+        "less than"
+      ],
+      "feedback": "You heard less than, which means below the stated amount of time."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "My new walking shoes are a bit lighter than the old pair.",
+      "prompt": "Type the two-word expression that describes the size of the weight difference.",
+      "acceptedAnswers": [
+        "a bit"
+      ],
+      "feedback": "You heard a bit, which describes a small difference before a comparative."
+    }
+  ]
+}

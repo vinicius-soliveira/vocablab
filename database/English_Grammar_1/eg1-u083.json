@@ -1,0 +1,407 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u083",
+  "title": "Quantities: A Lot, Much and Many",
+  "level": "A2",
+  "topicId": "a-lot-much-many",
+  "summary": "Choose much, many or a lot of to describe amounts and numbers. Learn how to ask about quantities and how to use a lot or much without a noun.",
+  "learningObjectives": [
+    "Use much with uncountable nouns and many with plural countable nouns.",
+    "Use a lot of with either noun type and match the verb to the noun.",
+    "Choose natural quantity expressions in questions, negatives and positive statements.",
+    "Use a lot and much naturally when no noun follows."
+  ],
+  "explanation": [
+    {
+      "heading": "Much for amounts; many for numbers",
+      "body": "Use much with an uncountable noun such as rice, space or advice. Use many with a plural countable noun such as chairs, messages or guests. Ask How much ...? about an amount and How many ...? about a number.",
+      "example": "How many guests are coming, and how much rice shall I cook?"
+    },
+    {
+      "heading": "A lot of works with both kinds of noun",
+      "body": "Use a lot of before an uncountable noun or a plural countable noun. In there is/there are sentences, choose the verb by the following noun: there is a lot of noise, but there are a lot of cars.",
+      "example": "There are a lot of bicycles outside the station."
+    },
+    {
+      "heading": "Much is common in questions and negatives",
+      "body": "Much sounds natural in questions and negative statements: Do we have much space? We do not have much space. Many and a lot of can appear in positive statements, negatives and questions.",
+      "example": "We have not got much bread, but we have a lot of eggs."
+    },
+    {
+      "heading": "For positive statements, prefer a lot of",
+      "body": "In an ordinary positive statement about an uncountable quantity, a lot of is usually more natural than much. Many is correct with plural nouns, while a lot of is often more conversational.",
+      "example": "The balcony gets a lot of sunlight in the morning."
+    },
+    {
+      "heading": "A lot and much without a noun",
+      "body": "When there is no noun after the expression, use a lot, not a lot of. A lot can describe frequent activity. Much is especially natural without a noun in questions, negatives and expressions with very: Do you travel much? I do not like the noise very much.",
+      "example": "My neighbours go cycling a lot, but I do not cycle much."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Amounts and numbers",
+      "left": {
+        "label": "Uncountable amount",
+        "example": "We do not have much space.",
+        "note": "Much modifies the uncountable noun space."
+      },
+      "right": {
+        "label": "Plural countable number",
+        "example": "We do not have many chairs.",
+        "note": "Many modifies the plural countable noun chairs."
+      }
+    },
+    {
+      "title": "With a noun or on its own",
+      "left": {
+        "label": "A lot of + noun",
+        "example": "They buy a lot of vegetables.",
+        "note": "Of links the quantity expression to the noun vegetables."
+      },
+      "right": {
+        "label": "A lot without a noun",
+        "example": "They cook a lot.",
+        "note": "No of is needed when nothing follows the quantity expression."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "How much rice should I put in the pot?",
+      "note": "How much asks about an amount of uncountable rice."
+    },
+    {
+      "sentence": "How many postcards did you send?",
+      "note": "How many asks for a number of countable postcards."
+    },
+    {
+      "sentence": "There is a lot of dust on these shelves.",
+      "note": "A lot of can go with uncountable dust; there is is singular."
+    },
+    {
+      "sentence": "There are a lot of cafés near the river.",
+      "note": "A lot of also goes with plural cafés; there are is plural."
+    },
+    {
+      "sentence": "She does not speak much during meetings.",
+      "note": "Much stands alone after a negative verb phrase."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I do not have many luggage for the trip.",
+      "correct": "I do not have much luggage for the trip.",
+      "why": "Luggage is uncountable, so use much rather than many."
+    },
+    {
+      "incorrect": "How much notebooks do we need?",
+      "correct": "How many notebooks do we need?",
+      "why": "Notebooks is a plural countable noun, so ask How many."
+    },
+    {
+      "incorrect": "She has a lot books at home.",
+      "correct": "She has a lot of books at home.",
+      "why": "The quantity expression before a noun is a lot of, with of."
+    },
+    {
+      "incorrect": "There is a lot of cars outside.",
+      "correct": "There are a lot of cars outside.",
+      "why": "Cars is plural, so use there are rather than there is."
+    }
+  ],
+  "studyTips": [
+    "Look at the noun first: one uncountable amount takes much; separate plural things take many.",
+    "In everyday positive sentences, try a lot of before the noun, but a lot after the verb when there is no noun.",
+    "Practise these pairs aloud: How much water? How many bottles? There is a lot of water. There are a lot of bottles."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct word: How ___ pasta should I cook for four people?",
+      "choices": [
+        "much",
+        "many",
+        "a lot of"
+      ],
+      "answerIndex": 0,
+      "feedback": "How much introduces a question about an uncountable amount of pasta."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct expression: There is ___ information on the website.",
+      "choices": [
+        "many",
+        "a lot of",
+        "a lot"
+      ],
+      "answerIndex": 1,
+      "feedback": "A lot of comes before the uncountable noun information; a lot alone cannot modify a noun."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct word: The library has ___ study rooms available.",
+      "choices": [
+        "much",
+        "a lot",
+        "many"
+      ],
+      "answerIndex": 2,
+      "feedback": "Many modifies the plural countable noun study rooms."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct expression: My grandparents go for walks ___.",
+      "choices": [
+        "a lot",
+        "a lot of",
+        "many"
+      ],
+      "answerIndex": 0,
+      "feedback": "A lot expresses frequent activity without a following noun; a lot of needs a noun."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "How ___ emails did you receive yesterday? (Use much or many.)",
+      "acceptedAnswers": [
+        "many"
+      ],
+      "feedback": "Emails are plural countable items, so the question is How many."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "We do not need ___ equipment for this activity. (Use much or many.)",
+      "acceptedAnswers": [
+        "much"
+      ],
+      "feedback": "Equipment is uncountable; much is natural in this negative sentence."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "There are a lot ___ flowers along the path. (Complete the quantity expression.)",
+      "acceptedAnswers": [
+        "of"
+      ],
+      "feedback": "Before a noun, the full phrase is a lot of."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "We go hiking a ___ when the weather is warm. (Complete the quantity expression.)",
+      "acceptedAnswers": [
+        "lot"
+      ],
+      "feedback": "A lot can follow a verb phrase to describe frequency. There is no of when no noun follows."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: How many milk do we need for the pancakes?",
+      "acceptedAnswers": [
+        "How much milk do we need for the pancakes?"
+      ],
+      "feedback": "Milk is uncountable, so How much asks about its amount."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: There is a lot of tourists in the square.",
+      "acceptedAnswers": [
+        "There are a lot of tourists in the square."
+      ],
+      "feedback": "Tourists is plural, so use there are."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We met a lot friendly people on the train.",
+      "acceptedAnswers": [
+        "We met a lot of friendly people on the train."
+      ],
+      "feedback": "The noun phrase friendly people needs a lot of, not a lot."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I do not know much neighbours in this building.",
+      "acceptedAnswers": [
+        "I do not know many neighbours in this building."
+      ],
+      "feedback": "Neighbours is plural and countable, so use many."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say a complete question using many: 'How ___ notebooks are on your desk?'",
+      "acceptedAnswers": [
+        "How many notebooks are on your desk?"
+      ],
+      "feedback": "How many comes before the plural countable noun notebooks."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say the completed sentence using a lot of: 'We have ___ time before the show.'",
+      "acceptedAnswers": [
+        "We have a lot of time before the show."
+      ],
+      "feedback": "A lot of is a natural positive quantity expression before uncountable time."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say the completed sentence using a lot without of: 'I listen to podcasts ___.'",
+      "acceptedAnswers": [
+        "I listen to podcasts a lot."
+      ],
+      "feedback": "A lot goes after the verb phrase when no noun follows it."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The hall has a large number of chairs. Complete this exact sentence aloud with the right quantity expression: “There are ___ chairs in the hall.” Use a lot of.",
+      "acceptedAnswers": [
+        "There are a lot of chairs in the hall."
+      ],
+      "feedback": "A lot of can describe many plural countable items. Use are with chairs."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Rewrite “There isn’t a lot of space in the van” using much instead of a lot of. Keep the same meaning and begin with “There”.",
+      "acceptedAnswers": [
+        "There isn't much space in the van.",
+        "There is not much space in the van."
+      ],
+      "feedback": "Much is natural in a negative statement with the uncountable noun space."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You want to ask your colleague for the number of folders they brought. Say the complete question “How ___ folders did you bring?”",
+      "acceptedAnswers": [
+        "How many folders did you bring?"
+      ],
+      "feedback": "Many is used with the plural countable noun folders when asking about a number."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this sentence without changing its meaning: “There are a lot of traffic outside the school.” Keep a lot of.",
+      "acceptedAnswers": [
+        "There is a lot of traffic outside the school.",
+        "There's a lot of traffic outside the school."
+      ],
+      "feedback": "Traffic is uncountable, so use there is, not there are, with a lot of traffic."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Your friend asks about yesterday’s market. You saw many people but very little fruit. Say one sentence beginning “There were a lot of people at the market, but there” and ending “much fruit”. Use a negative past form of be.",
+      "acceptedAnswers": [
+        "There were a lot of people at the market, but there wasn't much fruit.",
+        "There were a lot of people at the market, but there was not much fruit."
+      ],
+      "feedback": "A lot of people takes a plural noun. Not much fruit is natural for a small uncountable amount."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I have not got many clean towels.",
+      "prompt": "Which quantity word do you hear immediately before clean towels?",
+      "choices": [
+        "much",
+        "many",
+        "a lot of"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker says many because towels are plural countable items."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The children play outside a lot after school.",
+      "prompt": "Which expression does the speaker use to describe frequency?",
+      "choices": [
+        "much",
+        "a lot of",
+        "a lot"
+      ],
+      "answerIndex": 2,
+      "feedback": "The expression a lot has no of because no noun follows it."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "How much paint do we need for the door?",
+      "prompt": "Type the quantity word you hear directly after How.",
+      "acceptedAnswers": [
+        "much"
+      ],
+      "feedback": "The question uses much because paint is uncountable."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "There is a lot of traffic near the bridge, so I will take the train.",
+      "prompt": "Why does the speaker decide to travel by train?",
+      "choices": [
+        "The road near the bridge is busy.",
+        "The train is free today.",
+        "The bridge is closed to trains."
+      ],
+      "answerIndex": 0,
+      "feedback": "A lot of traffic suggests busy roads, which explains the decision to take the train."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The bakery made a lot of cakes this morning, but there aren't many left.",
+      "prompt": "What is true about the cakes now?",
+      "choices": [
+        "The bakery made no cakes.",
+        "Only a small number remain.",
+        "All the cakes are still available."
+      ],
+      "answerIndex": 1,
+      "feedback": "The bakery made many cakes, but not many are left now."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "My brother doesn't visit often, but he calls our grandmother a lot.",
+      "prompt": "How does the brother keep in touch with his grandmother?",
+      "choices": [
+        "He visits frequently but rarely calls.",
+        "He rarely visits or calls.",
+        "He calls frequently but rarely visits."
+      ],
+      "answerIndex": 2,
+      "feedback": "A lot describes frequent calls, while does not visit often describes infrequent visits."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "We don't have much room for another suitcase.",
+      "prompt": "Type the single quantity word you hear immediately after “have”.",
+      "acceptedAnswers": [
+        "much"
+      ],
+      "feedback": "Much is used with the uncountable noun room in a negative sentence."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "They make a lot of noise after school.",
+      "prompt": "Type the three-word quantity expression you hear immediately before “noise”.",
+      "acceptedAnswers": [
+        "a lot of"
+      ],
+      "feedback": "A lot of is the form used directly before the uncountable noun noise."
+    }
+  ]
+}

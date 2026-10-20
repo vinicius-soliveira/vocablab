@@ -1,0 +1,408 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u021",
+  "title": "Passive: Present and Past Simple",
+  "level": "A2",
+  "topicId": "passive-present-past-simple",
+  "summary": "Use the passive to say what happens to a person or thing when the action is more important than the person doing it. Form present and past simple passive sentences, negatives and questions.",
+  "learningObjectives": [
+    "Change a simple active statement into a present or past simple passive statement.",
+    "Choose am/is/are or was/were with a past participle to match the subject and time.",
+    "Form passive negatives and questions and use by to name the person who did the action.",
+    "Use was born and were born when speaking about birth."
+  ],
+  "explanation": [
+    {
+      "heading": "Focus on the person or thing affected",
+      "body": "An active sentence usually starts with the person doing an action. A passive sentence starts with the person or thing receiving the action. You can leave out the doer when it is unknown, obvious or unimportant.",
+      "example": "A volunteer sorts the donations. The donations are sorted by a volunteer."
+    },
+    {
+      "heading": "Present simple passive",
+      "body": "Use am, is or are + the past participle for routine actions and general facts. Choose the form of be to agree with the subject. Regular past participles usually end in -ed; some verbs have irregular forms, such as made and written.",
+      "example": "Fresh bread is delivered to the café each morning."
+    },
+    {
+      "heading": "Past simple passive",
+      "body": "Use was or were + the past participle for completed actions in the past. Was goes with singular subjects; were goes with plural subjects and you. The past participle does not change for singular or plural subjects.",
+      "example": "The old seats were replaced last spring."
+    },
+    {
+      "heading": "Negatives and questions",
+      "body": "For negatives, put not after the form of be: is not, are not, was not or were not. For questions, put the form of be before the subject. You can also begin with a question word, such as when or where.",
+      "example": "Were the documents signed yesterday? No, they were not signed."
+    },
+    {
+      "heading": "Born and by",
+      "body": "Use was born or were born when talking about where or when people came into the world. If you need to identify the person who did a passive action, add by + that person after the verb phrase.",
+      "example": "Leo was born in Cardiff. His first bicycle was made by his uncle."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Active versus passive",
+      "left": {
+        "label": "Active",
+        "example": "The chef prepares the soup every morning.",
+        "note": "The chef is the subject and performs the action."
+      },
+      "right": {
+        "label": "Passive",
+        "example": "The soup is prepared every morning.",
+        "note": "The soup is the subject and receives the action."
+      }
+    },
+    {
+      "title": "Present versus past simple passive",
+      "left": {
+        "label": "Present routine",
+        "example": "The hall is used for dance classes on Mondays.",
+        "note": "Is used describes a regular situation."
+      },
+      "right": {
+        "label": "Completed past action",
+        "example": "The hall was used for a concert last Monday.",
+        "note": "Was used refers to a particular past time."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The rubbish bins are emptied every Thursday.",
+      "note": "Plural present simple passive for a routine."
+    },
+    {
+      "sentence": "This song was written by my neighbour.",
+      "note": "Past simple passive with by to identify the writer."
+    },
+    {
+      "sentence": "We are not allowed to bring food into the studio.",
+      "note": "Negative present simple passive."
+    },
+    {
+      "sentence": "When were these chairs made?",
+      "note": "A past passive question with a question word."
+    },
+    {
+      "sentence": "My twins were born in September.",
+      "note": "Were born agrees with a plural subject."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The signs is checked each morning.",
+      "correct": "The signs are checked each morning.",
+      "why": "The plural subject signs needs are."
+    },
+    {
+      "incorrect": "The parcel was send on Tuesday.",
+      "correct": "The parcel was sent on Tuesday.",
+      "why": "A passive verb needs a past participle, not the base form."
+    },
+    {
+      "incorrect": "Where you were born?",
+      "correct": "Where were you born?",
+      "why": "In a direct question, were comes before you."
+    },
+    {
+      "incorrect": "The portrait painted by my sister last year.",
+      "correct": "The portrait was painted by my sister last year.",
+      "why": "The past passive requires was or were before painted."
+    }
+  ],
+  "studyTips": [
+    "First identify the subject: is it doing the action or receiving it?",
+    "When you see a past time such as last month, check whether was or were is needed.",
+    "Learn irregular past participles in useful pairs: send–sent, make–made and write–written."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Each evening, the library doors ___ at six.",
+      "choices": [
+        "are locked",
+        "is locked",
+        "were locked"
+      ],
+      "answerIndex": 0,
+      "feedback": "The plural subject doors takes are; each evening indicates a routine, so use the present simple passive."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Last Saturday, the market stalls ___ early because of the storm.",
+      "choices": [
+        "are closed",
+        "were closed",
+        "was closed"
+      ],
+      "answerIndex": 1,
+      "feedback": "Last Saturday requires the past simple, and plural stalls takes were closed."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "___ the invitations sent yesterday?",
+      "choices": [
+        "Was",
+        "Are",
+        "Were"
+      ],
+      "answerIndex": 2,
+      "feedback": "Yesterday makes this a past question, and plural invitations requires Were."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Where ___ your grandfather born?",
+      "choices": [
+        "was",
+        "were",
+        "is"
+      ],
+      "answerIndex": 0,
+      "feedback": "Use was born with a singular subject when asking about someone’s birthplace."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with the present simple passive of 'check': These bikes ___ before every tour.",
+      "acceptedAnswers": [
+        "are checked"
+      ],
+      "feedback": "These bikes is plural and before every tour describes a regular action: are checked."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with the past simple passive of 'build': The wooden stage ___ in 2018.",
+      "acceptedAnswers": [
+        "was built"
+      ],
+      "feedback": "A single stage takes was, and the irregular past participle of build is built."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with the negative present simple passive of 'serve': Hot meals ___ after nine in the evening at this café.",
+      "acceptedAnswers": [
+        "are not served",
+        "aren't served"
+      ],
+      "feedback": "Plural meals requires are not served or its contraction; the instruction specifies a negative."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the missing word: The song was written ___ her older brother.",
+      "acceptedAnswers": [
+        "by"
+      ],
+      "feedback": "By introduces the person who wrote the song."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The photos is printed at the shop every Monday.",
+      "acceptedAnswers": [
+        "The photos are printed at the shop every Monday."
+      ],
+      "feedback": "Photos is plural, so the present passive needs are."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Our team shirts were make last year.",
+      "acceptedAnswers": [
+        "Our team shirts were made last year."
+      ],
+      "feedback": "Use the irregular past participle made after were."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My sister is born in June 2005.",
+      "acceptedAnswers": [
+        "My sister was born in June 2005."
+      ],
+      "feedback": "Use was born to give a person’s date of birth."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Was the packages delivered this morning?",
+      "acceptedAnswers": [
+        "Were the packages delivered this morning?"
+      ],
+      "feedback": "The plural noun packages requires Were at the beginning of the question."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one complete sentence in the present simple passive using: 'our recycling bins / empty / every Tuesday'.",
+      "acceptedAnswers": [
+        "Our recycling bins are emptied every Tuesday."
+      ],
+      "feedback": "The regular action uses are + emptied with plural bins."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say one complete sentence in the past simple passive using: 'the school gate / paint / last weekend'.",
+      "acceptedAnswers": [
+        "The school gate was painted last weekend."
+      ],
+      "feedback": "Use was painted for the single gate and the completed past action."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Answer with a complete sentence: 'Where was Nora born?' Use the information 'Nora / born / in Bristol'.",
+      "acceptedAnswers": [
+        "Nora was born in Bristol.",
+        "She was born in Bristol."
+      ],
+      "feedback": "Use was born for one person and give the city in a full sentence."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The school hall is used on weekdays but not on Sundays. Say a negative present simple passive sentence about Sundays. Start with 'The school hall'.",
+      "acceptedAnswers": [
+        "The school hall is not used on Sundays.",
+        "The school hall isn't used on Sundays."
+      ],
+      "feedback": "Use is not used (or isn't used) to describe a regular negative passive situation."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change this active sentence into the past simple passive: 'An artist painted the mural last summer.' Start with 'The mural' and include who painted it and when.",
+      "acceptedAnswers": [
+        "The mural was painted by an artist last summer.",
+        "The mural was painted last summer by an artist."
+      ],
+      "feedback": "Was painted is the past passive; by an artist identifies the person who did the work."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A customer asks, 'Was the parcel sent yesterday?' The answer is yes. Reply in a complete sentence beginning 'Yes, the parcel'. Include 'yesterday'.",
+      "acceptedAnswers": [
+        "Yes, the parcel was sent yesterday."
+      ],
+      "feedback": "Use was sent for a single parcel and a completed action yesterday."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct only the verb agreement in this sentence and say it in full: 'These letters was sent yesterday.'",
+      "acceptedAnswers": [
+        "These letters were sent yesterday."
+      ],
+      "feedback": "Plural letters requires were, not was, before the past participle sent."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give two short passive sentences about a community hall. First, its windows are cleaned every Friday. Second, its doors were repaired last week. Start with 'The windows' and then 'The doors'.",
+      "acceptedAnswers": [
+        "The windows are cleaned every Friday. The doors were repaired last week."
+      ],
+      "feedback": "Use are cleaned for a routine and were repaired for a completed action in the past."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The front doors are unlocked at eight every weekday.",
+      "prompt": "What happens to the front doors?",
+      "choices": [
+        "They were unlocked only yesterday.",
+        "They are unlocked regularly at eight.",
+        "They are locked at eight."
+      ],
+      "answerIndex": 1,
+      "feedback": "Are unlocked and every weekday describe a regular action, not a single past event."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The picnic tables were moved indoors after the rain began.",
+      "prompt": "What happened to the picnic tables?",
+      "choices": [
+        "They are moved indoors every day.",
+        "They were made after the rain.",
+        "They were moved indoors in the past."
+      ],
+      "answerIndex": 2,
+      "feedback": "Were moved is past simple passive: the tables received the action."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "My aunt was born in a small town near York.",
+      "prompt": "Type the missing word in the phrase 'My aunt ___ born in a small town near York.'",
+      "acceptedAnswers": [
+        "was"
+      ],
+      "feedback": "Was born is the past passive expression used for one person’s birth."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "At the market, fresh vegetables are delivered before sunrise every morning.",
+      "prompt": "What happens regularly at the market?",
+      "choices": [
+        "Vegetables arrive before the sun comes up.",
+        "Customers take vegetables home after dark.",
+        "The market closes as soon as the deliveries arrive."
+      ],
+      "answerIndex": 0,
+      "feedback": "Are delivered and every morning describe a routine; before sunrise tells us when it happens."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The winning poster was designed by a student from our school last winter.",
+      "prompt": "Who created the winning poster?",
+      "choices": [
+        "A teacher from the school.",
+        "An artist who lives abroad.",
+        "Someone who studies at the school."
+      ],
+      "answerIndex": 2,
+      "feedback": "By a student identifies the person who designed the poster."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The bakery windows are cleaned every Monday, but the front door was repaired last Thursday.",
+      "prompt": "Which job was completed on a specific day in the past?",
+      "choices": [
+        "The regular cleaning of the windows.",
+        "Fixing the entrance to the bakery.",
+        "Delivering food to the bakery."
+      ],
+      "answerIndex": 1,
+      "feedback": "Was repaired last Thursday refers to one completed past job, unlike the routine cleaning."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The painting was sold at an auction on Saturday afternoon.",
+      "prompt": "Type the two-word past passive verb phrase you hear about the painting.",
+      "acceptedAnswers": [
+        "was sold"
+      ],
+      "feedback": "Was sold is the past simple passive: was plus the past participle sold."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Local newspapers are printed at this factory every afternoon.",
+      "prompt": "Type the two-word present passive verb phrase you hear.",
+      "acceptedAnswers": [
+        "are printed"
+      ],
+      "feedback": "Are printed is the present simple passive for the plural subject newspapers."
+    }
+  ]
+}

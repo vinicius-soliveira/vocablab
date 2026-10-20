@@ -1,0 +1,399 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u093",
+  "title": "Word Order 1: Objects, Place and Time",
+  "level": "A2",
+  "topicId": "word-order-verb-object-place-time",
+  "summary": "Keep a verb and its object together, and put descriptions of how an action happens in a natural position. When both place and time come at the end of a sentence, place usually comes before time.",
+  "learningObjectives": [
+    "Keep a direct object next to its verb instead of inserting a time or manner expression between them.",
+    "Place a manner expression such as carefully or very well after a direct object.",
+    "Use the usual order place + time at the end of a sentence.",
+    "Rearrange everyday statements without changing their meaning or verb tense."
+  ],
+  "explanation": [
+    {
+      "heading": "Keep the verb and its object together",
+      "body": "An object answers questions such as what? or whom? after a verb. In ordinary sentences, keep the verb and its direct object together. Do not put an expression about time or manner between them.",
+      "example": "Rita folded the towels after breakfast."
+    },
+    {
+      "heading": "Put manner after the object",
+      "body": "When a verb has a direct object, expressions that say how something is done normally follow that object: read the message carefully, speak French fluently, or enjoy the meal very much. Without an object, a manner adverb often follows the verb.",
+      "example": "The guide explained the route clearly."
+    },
+    {
+      "heading": "Put place before time",
+      "body": "When both expressions follow a verb, a neutral, common order is place first and time second. Place says where something happens; time says when, how long or how often. Other orders can be possible for emphasis, but practise this common pattern first.",
+      "example": "We ate lunch in the garden on Sunday."
+    },
+    {
+      "heading": "Keep the object before a place expression",
+      "body": "A sentence can include an object, a place and a time. A useful default order is subject + verb + object + place + time. Do not interrupt a short verb–object combination with a place expression.",
+      "example": "I left my notebook at the office yesterday."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Object followed by manner",
+      "left": {
+        "label": "Natural order",
+        "example": "She plays the guitar beautifully.",
+        "note": "The object the guitar comes before beautifully."
+      },
+      "right": {
+        "label": "Word order to avoid",
+        "example": "She plays beautifully the guitar.",
+        "note": "The manner word separates the verb from its short direct object."
+      }
+    },
+    {
+      "title": "Where before when",
+      "left": {
+        "label": "Place + time",
+        "example": "The family met at the café after work.",
+        "note": "At the café gives the place; after work gives the time."
+      },
+      "right": {
+        "label": "Time + place (not the default here)",
+        "example": "The family met after work at the café.",
+        "note": "This is possible in context, but place + time is the neutral order practised in this lesson."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Theo reads his emails carefully in the morning.",
+      "note": "The object his emails comes before the manner adverb carefully."
+    },
+    {
+      "sentence": "We visited our grandparents in the countryside last weekend.",
+      "note": "The place phrase precedes the time phrase."
+    },
+    {
+      "sentence": "The children finished their puzzles quickly.",
+      "note": "The direct object comes immediately after finished."
+    },
+    {
+      "sentence": "My neighbour works at a bakery every Saturday.",
+      "note": "The place comes before the frequency expression."
+    },
+    {
+      "sentence": "I left my umbrella on the train this morning.",
+      "note": "The object, place and time appear in a useful neutral sequence."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I cleaned carefully the kitchen.",
+      "correct": "I cleaned the kitchen carefully.",
+      "why": "Do not put a manner adverb between a verb and its short direct object."
+    },
+    {
+      "incorrect": "Tariq bought yesterday a new backpack.",
+      "correct": "Tariq bought a new backpack yesterday.",
+      "why": "Put the direct object after bought; the time expression usually follows it."
+    },
+    {
+      "incorrect": "We left on the bus our coats.",
+      "correct": "We left our coats on the bus.",
+      "why": "Put the short object our coats before the place phrase."
+    },
+    {
+      "incorrect": "She speaks very well Spanish.",
+      "correct": "She speaks Spanish very well.",
+      "why": "The object Spanish comes before the manner phrase very well."
+    }
+  ],
+  "studyTips": [
+    "After an action verb, ask “what?” or “whom?” to find the object; keep the object next to the verb.",
+    "For everyday descriptions, practise this sequence: verb + object + place + time.",
+    "Remember that place before time is a useful default, not an absolute rule for every context."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Nina reads ___ before bed.",
+      "choices": [
+        "short stories quietly",
+        "quietly short stories",
+        "short quietly stories"
+      ],
+      "answerIndex": 0,
+      "feedback": "The object short stories follows reads, and quietly describes how Nina reads."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "We washed ___ before the guests arrived.",
+      "choices": [
+        "carefully the windows",
+        "the windows carefully",
+        "careful the windows"
+      ],
+      "answerIndex": 1,
+      "feedback": "The direct object the windows follows washed, and carefully says how we did the washing."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the usual neutral order (object, place, time): I left ___ .",
+      "choices": [
+        "at the office yesterday my scarf",
+        "my scarf yesterday at the office",
+        "my scarf at the office yesterday"
+      ],
+      "answerIndex": 2,
+      "feedback": "The neutral sequence is object (my scarf), place (at the office), then time (yesterday)."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "She explains ___ .",
+      "choices": [
+        "the rules clearly",
+        "clearly the rules",
+        "the clearly rules"
+      ],
+      "answerIndex": 0,
+      "feedback": "Keep the object the rules together after explains; clearly follows it."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete the sentence with the words in brackets in a natural order: He ___ . (every night / his homework / does)",
+      "acceptedAnswers": [
+        "does his homework every night"
+      ],
+      "feedback": "Does comes before its object his homework; every night follows the verb–object pair."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete the sentence with the words in brackets in a natural order: The chef cut ___ . (carefully / the bread)",
+      "acceptedAnswers": [
+        "the bread carefully"
+      ],
+      "feedback": "A manner adverb normally follows the direct object the bread."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete the sentence with the words in brackets using place before time: They arrived ___ . (at noon / at the museum)",
+      "acceptedAnswers": [
+        "at the museum at noon"
+      ],
+      "feedback": "At the museum tells us where, and at noon tells us when."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the sentence with the words in brackets: I bought ___ . (this morning / some flowers)",
+      "acceptedAnswers": [
+        "some flowers this morning"
+      ],
+      "feedback": "Some flowers is the object of bought; the time phrase comes afterwards."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Ella washed carefully the dishes.",
+      "acceptedAnswers": [
+        "Ella washed the dishes carefully."
+      ],
+      "feedback": "The direct object the dishes belongs immediately after washed."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I yesterday bought a new notebook.",
+      "acceptedAnswers": [
+        "I bought a new notebook yesterday."
+      ],
+      "feedback": "In a neutral sentence, put the time phrase after bought a new notebook."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The nurse checked quickly my temperature.",
+      "acceptedAnswers": [
+        "The nurse checked my temperature quickly."
+      ],
+      "feedback": "The object my temperature comes before the manner adverb quickly."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I left at home my gloves.",
+      "acceptedAnswers": [
+        "I left my gloves at home."
+      ],
+      "feedback": "The short direct object my gloves comes before the place phrase at home."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Put these parts into one complete sentence: “on Friday / we / visited / our cousins”.",
+      "acceptedAnswers": [
+        "We visited our cousins on Friday."
+      ],
+      "feedback": "The direct object our cousins follows visited; the time comes at the end."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Make one complete sentence with verb + object + manner from these parts: “Rosa / opened / carefully / the parcel”.",
+      "acceptedAnswers": [
+        "Rosa opened the parcel carefully."
+      ],
+      "feedback": "The object the parcel follows opened; carefully follows the object."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Make a complete neutral sentence, placing where before when: “Leo / runs / every afternoon / in the park”.",
+      "acceptedAnswers": [
+        "Leo runs in the park every afternoon."
+      ],
+      "feedback": "The place phrase in the park precedes the time expression every afternoon."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Make one past-tense sentence from these cues: Liam / carefully / the plates / carry. Start with Liam and put the manner word after the object.",
+      "acceptedAnswers": [
+        "Liam carried the plates carefully."
+      ],
+      "feedback": "The direct object the plates comes immediately after carried; carefully follows the object."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Change to the usual place-before-time order. Keep The children played at the beginning, without adding or removing words: The children played after lunch in the courtyard.",
+      "acceptedAnswers": [
+        "The children played in the courtyard after lunch."
+      ],
+      "feedback": "The place in the courtyard normally comes before the time after lunch when both are at the end."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks where and when you found your jacket. Facts: under the sofa; on Monday. Begin 'I found my jacket' and put the place before the time.",
+      "acceptedAnswers": [
+        "I found my jacket under the sofa on Monday."
+      ],
+      "feedback": "Keep the object my jacket after found, then give the place under the sofa and the time on Monday."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Your friend says: Dad likes very much this song. Correct only the word order, keep Dad likes at the beginning, and say the whole sentence.",
+      "acceptedAnswers": [
+        "Dad likes this song very much."
+      ],
+      "feedback": "The object this song must stay next to likes; very much comes after the object."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give one short update using these cues: yesterday / the brakes / the mechanic / at the garage / carefully / checked. Begin with The mechanic and use object, manner, place, then time.",
+      "acceptedAnswers": [
+        "The mechanic checked the brakes carefully at the garage yesterday."
+      ],
+      "feedback": "Checked the brakes stays together, followed by carefully, at the garage, and yesterday."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We watched a film at my cousin’s house on Saturday.",
+      "prompt": "Where did they watch the film?",
+      "choices": [
+        "At the cinema",
+        "At a cousin’s house",
+        "At school"
+      ],
+      "answerIndex": 1,
+      "feedback": "The location mentioned is the cousin’s house."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Ben left his wallet in the kitchen yesterday.",
+      "prompt": "When did Ben leave his wallet there?",
+      "choices": [
+        "This morning",
+        "Last weekend",
+        "Yesterday"
+      ],
+      "answerIndex": 2,
+      "feedback": "Yesterday is the time expression at the end of the sentence."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "My brother reads comic books on the bus every morning.",
+      "prompt": "Type the two-word direct object immediately after “reads”.",
+      "acceptedAnswers": [
+        "comic books"
+      ],
+      "feedback": "Comic books is what the brother reads; it follows the verb directly."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Maya hid the birthday present under her bed yesterday evening.",
+      "prompt": "What did Maya hide?",
+      "choices": [
+        "A pair of shoes",
+        "Her schoolbag",
+        "A gift for someone"
+      ],
+      "answerIndex": 2,
+      "feedback": "The hidden object was a birthday present, so it was a gift."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The bus driver left the spare tickets at the front desk this morning.",
+      "prompt": "Where should the staff look for the tickets?",
+      "choices": [
+        "At reception",
+        "Inside the bus",
+        "In the driver’s bag"
+      ],
+      "answerIndex": 0,
+      "feedback": "The front desk is the reception area; it is the place mentioned after the object."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The pianist played the final song beautifully at the theatre last night.",
+      "prompt": "What does the speaker praise?",
+      "choices": [
+        "How long the performance lasted",
+        "How well the song was played",
+        "How large the theatre was"
+      ],
+      "answerIndex": 1,
+      "feedback": "Beautifully describes the manner of playing, not the time or the size of the venue."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The teacher explained the new game patiently after lunch.",
+      "prompt": "Type the single word that tells how the teacher explained the game.",
+      "acceptedAnswers": [
+        "patiently"
+      ],
+      "feedback": "Patiently describes the way the teacher explained the game and follows its direct object."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We dropped the packages at the post office before breakfast.",
+      "prompt": "Type the two-word time expression at the end of the recording.",
+      "acceptedAnswers": [
+        "before breakfast"
+      ],
+      "feedback": "Before breakfast is the final time expression, after the place at the post office."
+    }
+  ]
+}

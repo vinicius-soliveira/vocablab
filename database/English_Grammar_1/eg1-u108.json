@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u108",
+  "title": "Going To Places: To, In and At",
+  "level": "A2",
+  "topicId": "place-movement-to-in-at",
+  "summary": "Distinguish movement towards a destination from being in or at a place. Use the correct forms with home, arrive and get.",
+  "learningObjectives": [
+    "Use to after movement verbs such as go, come, travel and walk when naming a destination.",
+    "Use in or at after location verbs to describe where someone is, works or stays.",
+    "Use home without to after common movement verbs and get or arrive, but use at home for a location.",
+    "Use arrive in for cities and countries, arrive at for specific places, and get to for destinations."
+  ],
+  "explanation": [
+    {
+      "heading": "To: movement towards a destination",
+      "body": "Movement verbs such as go, come, travel, return and walk normally take to before a named destination. A person can go to a city, a party, work or a friend’s house. Use to when the focus is on where someone is going.",
+      "example": "We are going to the library after lunch."
+    },
+    {
+      "heading": "In and at: being somewhere",
+      "body": "Use in with a town, city, country or enclosed space when someone is already there: live in Madrid, stay in bed. Use at with many specific destinations or activities, such as at work, at the station or at a concert. The difference is between travelling to a place and being at that place.",
+      "example": "My parents are in Scotland this week."
+    },
+    {
+      "heading": "Home: usually no to for movement",
+      "body": "Go home, come home, walk home, get home and arrive home do not take to, in or at directly before home. For a location, however, use at home: stay at home, be at home.",
+      "example": "After the film, we walked home."
+    },
+    {
+      "heading": "Arrive in a city or country; arrive at a place",
+      "body": "Arrive normally takes in with the names of cities and countries. Use arrive at for a smaller or specific destination such as a station, airport, office or hotel. Do not use arrive to in these patterns.",
+      "example": "The train arrived at the platform just after noon."
+    },
+    {
+      "heading": "Get to a destination",
+      "body": "Use get to when you mean reach a place: get to the station, get to Bristol or get to work. But say get home without to. Do not confuse getting to a place with being at it.",
+      "example": "We got to the campsite before dark."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Movement versus location",
+      "left": {
+        "label": "To: destination",
+        "example": "Mina is walking to the station.",
+        "note": "The station is where she is going."
+      },
+      "right": {
+        "label": "At: location",
+        "example": "Mina is waiting at the station.",
+        "note": "The station is where she is now."
+      }
+    },
+    {
+      "title": "Arrive and get",
+      "left": {
+        "label": "Arrive in a city",
+        "example": "They arrived in Dublin in the morning.",
+        "note": "Use arrive in with a city or country."
+      },
+      "right": {
+        "label": "Get to a city",
+        "example": "They got to Dublin in the morning.",
+        "note": "Use get to with destinations, including cities."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "We drove to the coast on Saturday.",
+      "note": "To follows drove and introduces the destination."
+    },
+    {
+      "sentence": "My grandfather lives in a quiet village.",
+      "note": "In locates someone within a village."
+    },
+    {
+      "sentence": "I will be at the airport by six.",
+      "note": "At identifies a specific location."
+    },
+    {
+      "sentence": "Nico got home before dinner.",
+      "note": "Get home needs no preposition."
+    },
+    {
+      "sentence": "The visitors arrived in Prague last night.",
+      "note": "Arrive in is used with cities."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I am going at the supermarket.",
+      "correct": "I am going to the supermarket.",
+      "why": "Use to for movement towards a destination."
+    },
+    {
+      "incorrect": "We will walk to home after dinner.",
+      "correct": "We will walk home after dinner.",
+      "why": "Do not put to before home after walk."
+    },
+    {
+      "incorrect": "Their flight arrived to Vienna at noon.",
+      "correct": "Their flight arrived in Vienna at noon.",
+      "why": "Arrive takes in with a city."
+    },
+    {
+      "incorrect": "Did you get at the museum on time?",
+      "correct": "Did you get to the museum on time?",
+      "why": "Use get to when you mean reach a destination."
+    }
+  ],
+  "studyTips": [
+    "Before choosing a preposition, decide whether the sentence describes movement towards a place or someone already being there.",
+    "Learn these three forms together: arrive in Paris, arrive at the hotel, get to the hotel.",
+    "Say go home, get home and arrive home, but be at home and stay at home."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: Next month, my cousins are travelling ___ Spain.",
+      "choices": [
+        "to",
+        "in",
+        "at"
+      ],
+      "answerIndex": 0,
+      "feedback": "Travelling towards a named destination normally uses to."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: Rita lives ___ a small village near York.",
+      "choices": [
+        "at",
+        "in",
+        "to"
+      ],
+      "answerIndex": 1,
+      "feedback": "In is used for residence in a village."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: What time did you arrive ___ the cinema?",
+      "choices": [
+        "to",
+        "in",
+        "at"
+      ],
+      "answerIndex": 2,
+      "feedback": "Arrive at is used with a specific destination such as a cinema."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct preposition: We got ___ the library just before it closed.",
+      "choices": [
+        "to",
+        "at",
+        "in"
+      ],
+      "answerIndex": 0,
+      "feedback": "Get to means reach the library."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with one preposition: I stayed ___ bed because I had a fever.",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "feedback": "The place expression is in bed."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with one preposition: Please come ___ my house at six.",
+      "acceptedAnswers": [
+        "to"
+      ],
+      "feedback": "Come to shows movement towards someone’s house."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with one preposition: Did your friends arrive ___ Dublin on Monday?",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "feedback": "Use arrive in before a city name."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with one preposition: We waited ___ the bus stop for twenty minutes.",
+      "acceptedAnswers": [
+        "at"
+      ],
+      "feedback": "At identifies the specific waiting point."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: He is going to home after lunch.",
+      "acceptedAnswers": [
+        "He is going home after lunch."
+      ],
+      "feedback": "Go home does not take to."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We arrived to Berlin yesterday.",
+      "acceptedAnswers": [
+        "We arrived in Berlin yesterday."
+      ],
+      "feedback": "Arrive in is used before cities."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I got at the hotel at nine.",
+      "acceptedAnswers": [
+        "I got to the hotel at nine."
+      ],
+      "feedback": "Get to means reach a destination; at alone is not the form after get in this meaning."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My brother is to work now.",
+      "acceptedAnswers": [
+        "My brother is at work now."
+      ],
+      "feedback": "At work describes where he is; to work would need a movement verb."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say the complete sentence with to: 'We’re going ___ the museum this afternoon.'",
+      "acceptedAnswers": [
+        "We’re going to the museum this afternoon.",
+        "We are going to the museum this afternoon."
+      ],
+      "feedback": "Going to names a destination."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Correct this sentence aloud without a preposition before home: 'I came to home early.'",
+      "acceptedAnswers": [
+        "I came home early."
+      ],
+      "feedback": "Come home has no to."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say the complete sentence with at: 'Nora arrived ___ the station before me.'",
+      "acceptedAnswers": [
+        "Nora arrived at the station before me."
+      ],
+      "feedback": "Arrive at is used with a specific destination such as a station."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The train's destination is Oxford. Tell a friend where the train is going. Begin 'The train is going...'.",
+      "acceptedAnswers": [
+        "The train is going to Oxford."
+      ],
+      "feedback": "Use go to plus a destination when describing movement towards a city."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Say the same fact with 'got to' instead of 'arrived at': 'They arrived at the airport early.' Begin 'They got...'.",
+      "acceptedAnswers": [
+        "They got to the airport early."
+      ],
+      "feedback": "Get to the airport means reach that destination, just as arrive at the airport does."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks, 'Where is Nora now?' Nora is already at her workplace, not travelling. Answer in one sentence beginning 'Nora is...' using the usual place expression.",
+      "acceptedAnswers": [
+        "Nora is at work."
+      ],
+      "feedback": "At work describes a person's current location; going to work would describe movement instead."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "First Sara reached Vienna; later she reached her hotel. Say two short sentences. Begin each with 'Sara arrived...' and use 'Vienna' and 'her hotel' in that order.",
+      "acceptedAnswers": [
+        "Sara arrived in Vienna. Sara arrived at her hotel."
+      ],
+      "feedback": "Arrive in is used for a city such as Vienna; arrive at is used for a specific place such as a hotel."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Send Sam a short update: you reached home safely at nine. Begin 'I got...' and include both 'safely' and 'at nine'.",
+      "acceptedAnswers": [
+        "I got home safely at nine."
+      ],
+      "feedback": "Use got home with no to. At nine gives the time and safely describes the arrival."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We arrived in Lisbon just before sunset.",
+      "prompt": "Which preposition follows arrived?",
+      "choices": [
+        "at",
+        "in",
+        "to"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker uses in with the city Lisbon."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Owen stayed at home yesterday afternoon.",
+      "prompt": "Where did Owen stay?",
+      "choices": [
+        "At the airport.",
+        "In the town centre.",
+        "At home."
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker says Owen stayed at home."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "We got home after midnight.",
+      "prompt": "Type the word you hear immediately after “got”.",
+      "acceptedAnswers": [
+        "home"
+      ],
+      "feedback": "Get home takes home directly, with no preposition."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Ava walked to the library after breakfast, and now she is reading there.",
+      "prompt": "Where did Ava go after eating?",
+      "choices": [
+        "To a shop selling fruit.",
+        "To a place where people borrow books.",
+        "To a cinema."
+      ],
+      "answerIndex": 1,
+      "feedback": "Ava walked to the library, a place where people can borrow books; to marks her destination."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The visitors arrived in Edinburgh at eight, but they reached their hotel after ten.",
+      "prompt": "Which location did the visitors reach later?",
+      "choices": [
+        "Their hotel.",
+        "The city.",
+        "The railway station."
+      ],
+      "answerIndex": 0,
+      "feedback": "They reached the city at eight and did not reach the hotel until after ten."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Marta is at the swimming pool now, but her brother is still walking to the pool.",
+      "prompt": "Who has already reached the destination?",
+      "choices": [
+        "Her brother.",
+        "Neither of them.",
+        "Marta."
+      ],
+      "answerIndex": 2,
+      "feedback": "Marta is already at the pool; her brother is still walking to it."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "My aunt usually gets to the office before eight in the morning.",
+      "prompt": "Type the two-word expression immediately after 'usually'.",
+      "acceptedAnswers": [
+        "gets to"
+      ],
+      "feedback": "Gets to is the verb and preposition used to describe reaching the office."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "When the party ended, we walked home together.",
+      "prompt": "Type the two-word movement expression immediately after 'we'.",
+      "acceptedAnswers": [
+        "walked home"
+      ],
+      "feedback": "Walked home has no to before home when home is the destination."
+    }
+  ]
+}

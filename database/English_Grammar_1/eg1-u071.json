@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u071",
+  "title": "Going to Places: With and Without The",
+  "level": "A2",
+  "topicId": "articles-places-and-activities",
+  "summary": "Use natural place expressions for daily activities without an article, and use the with several public places and services.",
+  "learningObjectives": [
+    "Use go to work, at work, go to school, and at school without an article when describing regular activities.",
+    "Use go to bed, in bed, go home, and at home correctly.",
+    "Distinguish institutional uses of hospital, university, church and prison from place expressions with the.",
+    "Use the with common destinations such as the cinema, the station, the post office and the dentist."
+  ],
+  "explanation": [
+    {
+      "heading": "Work, school and study",
+      "body": "We usually leave out the article when we talk about someone working or studying as an activity: go to work, be at work, start work, go to school, be at school, and go to university or college. These are common expressions, not a general rule that every building name has no article.",
+      "example": "After breakfast, Jo goes to work and her son goes to school."
+    },
+    {
+      "heading": "Hospital, prison and church",
+      "body": "In the British English patterns taught here, people receiving medical care can be in hospital, prisoners can be in prison, and people attending religious services can be at church or go to church. We also say go to hospital and go to prison in these uses, without the. English varieties differ: American English commonly uses in the hospital.",
+      "example": "After the accident, her uncle spent two nights in hospital."
+    },
+    {
+      "heading": "Bed and home",
+      "body": "Go to bed and be in bed describe resting or sleeping. We do not usually add the in these expressions. Home is special: say go home, come home, get home, and stay at home. Do not put to before home in go home.",
+      "example": "I got home at nine and went straight to bed."
+    },
+    {
+      "heading": "Public places often take the",
+      "body": "Use the in the usual expressions go to the cinema, the theatre, the bank, the post office, the station, the airport, and the city centre. These expressions refer to familiar types of destinations; keep the article in the normal pattern.",
+      "example": "Meet me outside the station after the concert."
+    },
+    {
+      "heading": "Health appointments",
+      "body": "We commonly say go to the doctor and go to the dentist when talking about an appointment or getting treatment. The article is part of these everyday expressions.",
+      "example": "Eva is going to the dentist on Friday morning."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Daily activity versus public destination",
+      "left": {
+        "label": "No article",
+        "example": "Ravi goes to school by bus.",
+        "note": "Go to school refers to the ordinary activity of attending lessons."
+      },
+      "right": {
+        "label": "The",
+        "example": "Ravi goes to the cinema on Fridays.",
+        "note": "The cinema is the normal expression for this public destination."
+      }
+    },
+    {
+      "title": "Go home versus go to the station",
+      "left": {
+        "label": "Home",
+        "example": "They are going home now.",
+        "note": "Home follows go without to or the."
+      },
+      "right": {
+        "label": "Station",
+        "example": "They are going to the station now.",
+        "note": "Use to the with the station."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "My parents are at work until six.",
+      "note": "At work describes the activity of working, without the."
+    },
+    {
+      "sentence": "I want to study art at university.",
+      "note": "At university describes being a student in British English."
+    },
+    {
+      "sentence": "The children are in bed already.",
+      "note": "In bed is the usual expression when they are resting or asleep."
+    },
+    {
+      "sentence": "Please take this letter to the post office.",
+      "note": "The post office is a normal public-place expression."
+    },
+    {
+      "sentence": "She stayed at home because she had a cold.",
+      "note": "At home includes at but no the."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I go to the work at eight.",
+      "correct": "I go to work at eight.",
+      "why": "Leave out the when work means your regular job."
+    },
+    {
+      "incorrect": "We are going to home now.",
+      "correct": "We are going home now.",
+      "why": "Go home does not take to."
+    },
+    {
+      "incorrect": "He is in the bed because he is tired.",
+      "correct": "He is in bed because he is tired.",
+      "why": "Use in bed when someone is resting or sleeping."
+    },
+    {
+      "incorrect": "Let’s meet at station after lunch.",
+      "correct": "Let’s meet at the station after lunch.",
+      "why": "The is normally part of at the station."
+    }
+  ],
+  "studyTips": [
+    "Learn whole expressions rather than memorising a rule for every building: at work, at school, in bed and at home.",
+    "Keep a separate group for places usually said with the: the cinema, the airport, the station and the dentist.",
+    "Use the British English patterns from this lesson consistently, especially in hospital."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "After a long day at work, I just want to go ___.",
+      "choices": [
+        "home",
+        "to home",
+        "the home"
+      ],
+      "answerIndex": 0,
+      "feedback": "Go home has no to or article when home is the destination."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The baby is sleeping. She is ___ bed.",
+      "choices": [
+        "at",
+        "in",
+        "to"
+      ],
+      "answerIndex": 1,
+      "feedback": "Use in bed when someone is sleeping or resting."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "I have a painful tooth, so I should go to ___ dentist.",
+      "choices": [
+        "no article",
+        "an",
+        "the"
+      ],
+      "answerIndex": 2,
+      "feedback": "The dentist is the usual expression for getting dental treatment; dentist cannot stand alone here."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "We have tickets for a play. We are going to ___ theatre tonight.",
+      "choices": [
+        "an",
+        "no article",
+        "the"
+      ],
+      "answerIndex": 2,
+      "feedback": "The theatre is the normal expression for this kind of visit."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "I do not need to leave my house today. I can stay at ___ all morning.",
+      "acceptedAnswers": [
+        "home"
+      ],
+      "feedback": "Stay at home uses at and has no article."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "We want to see a film on a big screen. We are going to the ___.",
+      "acceptedAnswers": [
+        "cinema"
+      ],
+      "feedback": "The cinema is the usual destination for watching a film on a big screen."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Please be quiet. The baby is sleeping in ___.",
+      "acceptedAnswers": [
+        "bed"
+      ],
+      "feedback": "Use in bed, without the, for someone sleeping."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "My train leaves at six. I will meet you at the ___ before it departs.",
+      "acceptedAnswers": [
+        "station"
+      ],
+      "feedback": "Use the station as the normal expression for the place where a train leaves."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: After my shift, I always go to home.",
+      "acceptedAnswers": [
+        "After my shift, I always go home."
+      ],
+      "feedback": "Go home needs neither to nor an article."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My younger sister wants to go to the university after school.",
+      "acceptedAnswers": [
+        "My younger sister wants to go to university after school."
+      ],
+      "feedback": "In this British English expression for becoming a student, say go to university."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We are going to cinema on Saturday.",
+      "acceptedAnswers": [
+        "We are going to the cinema on Saturday."
+      ],
+      "feedback": "Use the in go to the cinema."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I have an appointment with dentist tomorrow.",
+      "acceptedAnswers": [
+        "I have an appointment with the dentist tomorrow."
+      ],
+      "feedback": "Use the dentist when referring to a dental appointment."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say that you go home after work. Begin with “I”.",
+      "acceptedAnswers": [
+        "I go home after work."
+      ],
+      "feedback": "Say go home without to or the."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say that your brother is in bed. Begin with “My brother”.",
+      "acceptedAnswers": [
+        "My brother is in bed.",
+        "My brother's in bed."
+      ],
+      "feedback": "In bed is the usual form. The contraction brother’s is also correct."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say that you need to go to the dentist tomorrow. Begin with “I”.",
+      "acceptedAnswers": [
+        "I need to go to the dentist tomorrow."
+      ],
+      "feedback": "Keep the in the expression go to the dentist."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Chloe attends lessons every weekday. Say where she goes, starting with 'Chloe goes' and ending with 'every weekday'. Use the usual school expression.",
+      "acceptedAnswers": [
+        "Chloe goes to school every weekday."
+      ],
+      "feedback": "Go to school describes attending lessons, so there is no article before school."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Correct the destination expression and say the complete sentence, changing nothing else: 'After the show, we went to home.'",
+      "acceptedAnswers": [
+        "After the show, we went home."
+      ],
+      "feedback": "Home follows went directly. Do not use to before home."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks where Ravi is during his normal working day. Ravi is at his job. Reply with one sentence beginning 'Ravi is' and ending 'work'.",
+      "acceptedAnswers": [
+        "Ravi is at work."
+      ],
+      "feedback": "At work describes being at your job without an article."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Use British English. Oliver is receiving treatment in hospital; Zara is visiting the hospital building for a meeting. Make one sentence beginning 'Oliver is', joining the facts with 'but Zara is', and using full forms.",
+      "acceptedAnswers": [
+        "Oliver is in hospital, but Zara is at the hospital for a meeting."
+      ],
+      "feedback": "British English uses in hospital for a patient; at the hospital identifies the building as a location."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Tell a friend your plan: first go to the post office, then go home. Begin with 'I will', use 'and then' to connect the actions, and repeat 'go' for the second destination.",
+      "acceptedAnswers": [
+        "I will go to the post office and then go home.",
+        "I will go to the post office and then I will go home."
+      ],
+      "feedback": "Use the post office with the article, but go home with no to or the."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "They go to church on Sundays.",
+      "prompt": "Where do they go on Sundays?",
+      "choices": [
+        "The cinema",
+        "Church",
+        "The bank"
+      ],
+      "answerIndex": 1,
+      "feedback": "The audio says go to church, without the, for attending worship."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "My aunt is in hospital, so I am visiting her tomorrow.",
+      "prompt": "Where is the speaker’s aunt?",
+      "choices": [
+        "In hospital",
+        "At home",
+        "At the station"
+      ],
+      "answerIndex": 0,
+      "feedback": "In hospital is the British English expression used for a patient."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "We are going to the post office after lunch.",
+      "prompt": "Type the two-word name of the public place mentioned in the audio, without its article.",
+      "acceptedAnswers": [
+        "post office"
+      ],
+      "feedback": "The audio uses the post office; the requested place name is post office."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Amir is at university studying medicine, while his aunt works at the university library.",
+      "prompt": "Which statement correctly describes the two people?",
+      "choices": [
+        "Both are studying for degrees.",
+        "Amir is a student, and his aunt works there.",
+        "Amir works in a library, and his aunt studies medicine."
+      ],
+      "answerIndex": 1,
+      "feedback": "Amir attends university as a student; his aunt works at a particular university facility."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I went to the bank before lunch, then walked to the station to catch the three o'clock train.",
+      "prompt": "What was the reason for the speaker's second stop?",
+      "choices": [
+        "To see a film.",
+        "To deposit money.",
+        "To board a train."
+      ],
+      "answerIndex": 2,
+      "feedback": "The second stop was the station, where the speaker planned to catch a train."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "After working all night, Tess went straight to bed, but her sister sat on the bed to read a letter.",
+      "prompt": "What is the difference between the sisters' actions?",
+      "choices": [
+        "Tess went to rest, while her sister sat on the furniture to read.",
+        "Both sisters went to sleep immediately.",
+        "Tess read a letter while her sister rested."
+      ],
+      "answerIndex": 0,
+      "feedback": "Go to bed is a resting or sleeping activity; sit on the bed describes the physical object."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "On weekdays, Leo goes to work by bicycle, but he stays home on Sundays.",
+      "prompt": "Type the two words heard immediately after 'goes' that describe Leo's weekday destination.",
+      "acceptedAnswers": [
+        "to work"
+      ],
+      "feedback": "Go to work names the activity or destination of working without the."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "After the long journey, we went home and fell asleep before midnight.",
+      "prompt": "Type the single destination word heard immediately after 'went'.",
+      "acceptedAnswers": [
+        "home"
+      ],
+      "feedback": "Went home uses home directly, without to or an article."
+    }
+  ]
+}

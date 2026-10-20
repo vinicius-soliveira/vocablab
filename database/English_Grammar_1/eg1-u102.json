@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg1-u102",
+  "title": "Relative Clauses: Objects and Places",
+  "level": "A2",
+  "topicId": "relative-clauses-objects-places",
+  "summary": "Identify people and things with relative clauses in which the relative word is an object and can often be omitted. Keep necessary prepositions and use where to describe places.",
+  "learningObjectives": [
+    "Make object relative clauses with or without who, that or which.",
+    "Distinguish object relative clauses from subject relative clauses that require a relative word.",
+    "Keep the necessary preposition when a relative clause ends with it.",
+    "Use where as an alternative for a relative clause about a place."
+  ],
+  "explanation": [
+    {
+      "heading": "Leave out an object relative word",
+      "body": "When the relative word receives the verb's action, it is the object. In simple identifying clauses, it can often be left out: use who for people, which for things, or that for either. The meaning stays the same with or without the relative word.",
+      "example": "The notebook I ordered arrived this morning."
+    },
+    {
+      "heading": "Use the subject that is already there",
+      "body": "An object relative clause has its own subject, such as I, you or we, after the optional relative word. Do not repeat the object with it, him or them.",
+      "example": "The people we invited arrived at seven."
+    },
+    {
+      "heading": "Keep a relative word for the subject",
+      "body": "Do not leave out who, that or which when it is the subject of the relative clause. Compare 'the guide I met' (I is the subject) with 'the guide who greeted us' (who is the subject).",
+      "example": "The parcel that arrived yesterday is for you."
+    },
+    {
+      "heading": "Keep prepositions with their verbs",
+      "body": "If a verb normally needs a preposition such as to, in, at or about, keep it even when the relative word is left out. In everyday English, the preposition often comes at the end. Do not add an extra object pronoun after it.",
+      "example": "The colleague I spoke to was very helpful."
+    },
+    {
+      "heading": "Use where for places",
+      "body": "For a place, where can replace an expression such as 'that ... at' or 'that ... in'. Do not use a second at or in when where already expresses the place.",
+      "example": "The café where we meet is opposite the park."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Object or subject in the relative clause?",
+      "left": {
+        "label": "Object: word optional",
+        "example": "The singer I saw was excellent.",
+        "note": "I is the subject of saw; a relative word could be inserted before I."
+      },
+      "right": {
+        "label": "Subject: word necessary",
+        "example": "The singer who waved was smiling.",
+        "note": "Who is the subject of waved and cannot be omitted."
+      }
+    },
+    {
+      "title": "Two ways to describe a place",
+      "left": {
+        "label": "Where",
+        "example": "The room where we practise is bright.",
+        "note": "Where indicates the place without an extra in."
+      },
+      "right": {
+        "label": "Preposition at the end",
+        "example": "The room we practise in is bright.",
+        "note": "The relative word is omitted but in remains."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The keys I left in the car are now in my bag.",
+      "note": "The object relative word before I is omitted."
+    },
+    {
+      "sentence": "Is this the woman you emailed yesterday?",
+      "note": "You is the subject of emailed; woman is its object."
+    },
+    {
+      "sentence": "The restaurant where we had lunch is on Park Street.",
+      "note": "Where introduces information about a place."
+    },
+    {
+      "sentence": "The song he was listening to is from an old film.",
+      "note": "To stays with listening even without a relative word."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The film I borrowed it was very funny.",
+      "correct": "The film I borrowed was very funny.",
+      "why": "Film is already the object of borrowed; do not repeat it."
+    },
+    {
+      "incorrect": "The person I spoke was helpful.",
+      "correct": "The person I spoke to was helpful.",
+      "why": "The verb spoke needs to when you mean spoke to someone."
+    },
+    {
+      "incorrect": "The apartment where we stayed in was small.",
+      "correct": "The apartment where we stayed was small.",
+      "why": "Where already gives the place, so do not add in."
+    },
+    {
+      "incorrect": "The boy plays the guitar is my cousin.",
+      "correct": "The boy who plays the guitar is my cousin.",
+      "why": "Who is the subject of plays and cannot be omitted."
+    }
+  ],
+  "studyTips": [
+    "Look for a subject immediately after the noun: 'the book I read' can omit that, but 'the book that fell' cannot.",
+    "When you remove who, that or which, check that you have not removed a required preposition.",
+    "For places, practise both 'the café where we met' and 'the café we met at'."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly leaves out an object relative word?",
+      "choices": [
+        "The jacket I tried on was too big.",
+        "The jacket who I tried on was too big.",
+        "The jacket I tried it on was too big."
+      ],
+      "answerIndex": 0,
+      "feedback": "I is the subject of tried; the object relative word can be omitted, but the object it must not be repeated."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "You called a person yesterday. Choose the sentence that means this person is away now.",
+      "choices": [
+        "The person who called yesterday is away.",
+        "The person I called yesterday is away.",
+        "The person which called yesterday is away."
+      ],
+      "answerIndex": 1,
+      "feedback": "I called the person, so the person is the object and a relative word can be omitted."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "You stayed at a campsite and it was quiet. Choose the correct combined sentence.",
+      "choices": [
+        "The campsite we stayed was quiet.",
+        "The campsite where we stayed at was quiet.",
+        "The campsite we stayed at was quiet."
+      ],
+      "answerIndex": 2,
+      "feedback": "With an omitted object relative word, keep the preposition at after stayed."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "You read a short letter. Choose the relative clause without an extra object pronoun.",
+      "choices": [
+        "The letter I read it was short.",
+        "The letter that I read it was short.",
+        "The letter I read was short."
+      ],
+      "answerIndex": 2,
+      "feedback": "Letter already represents the object of read, so do not add it."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Add the missing preposition: The bench you are sitting ___ is wet.",
+      "acceptedAnswers": [
+        "on"
+      ],
+      "feedback": "We sit on a bench; the preposition stays at the end of the relative clause."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Use the single word where: The village ___ my grandparents live is near the sea.",
+      "acceptedAnswers": [
+        "where"
+      ],
+      "feedback": "Where links village to the clause describing the place they live."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Use the preposition to: The friend I sent the postcard ___ lives in Canada.",
+      "acceptedAnswers": [
+        "to"
+      ],
+      "feedback": "We send something to someone; to stays at the end of the relative clause."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Use who, even though it could be omitted: The neighbour ___ we invited to dinner brought a cake.",
+      "acceptedAnswers": [
+        "who"
+      ],
+      "feedback": "Who is the object of invited here, so including it is optional in normal use."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Remove the unnecessary object pronoun: The photo I took it is on the wall.",
+      "acceptedAnswers": [
+        "The photo I took is on the wall."
+      ],
+      "feedback": "Photo is the object of took; no extra it is needed."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Add only the missing preposition: The friend I'm waiting is late.",
+      "acceptedAnswers": [
+        "The friend I'm waiting for is late.",
+        "The friend I am waiting for is late."
+      ],
+      "feedback": "We wait for a person, so for is needed at the end."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Add the missing subject relative word: The woman works at the bank is my aunt.",
+      "acceptedAnswers": [
+        "The woman who works at the bank is my aunt.",
+        "The woman that works at the bank is my aunt."
+      ],
+      "feedback": "The woman is the subject of works; who or that must be included."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Remove one unnecessary word: The café where we met at is now closed.",
+      "acceptedAnswers": [
+        "The café where we met is now closed.",
+        "The café we met at is now closed."
+      ],
+      "feedback": "Use where without at, or omit where and keep at."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one sentence without a relative word: 'You recommended a notebook. I bought it.' Begin: 'I bought ...'",
+      "acceptedAnswers": [
+        "I bought the notebook you recommended."
+      ],
+      "feedback": "You is already the subject of recommended, so that may be omitted."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Combine the ideas without a relative word and keep the preposition: 'We met at a café. It was quiet.' Begin: 'The café ...'",
+      "acceptedAnswers": [
+        "The café we met at was quiet."
+      ],
+      "feedback": "The object relative word is omitted and at remains after met."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Combine the ideas using where: 'My brother works in a shop. The shop closes at six.' Begin: 'The shop ...'",
+      "acceptedAnswers": [
+        "The shop where my brother works closes at six."
+      ],
+      "feedback": "Where introduces the shop as the place where your brother works."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Your friend Nina lent you a red scarf. Make one sentence beginning 'The scarf' and ending 'is red'. Leave out the object relative word.",
+      "acceptedAnswers": [
+        "The scarf Nina lent me is red."
+      ],
+      "feedback": "Nina is the subject of lent, so the object relative word can be omitted before Nina."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Say this sentence without the optional relative word, changing no other words: 'The recipe that I tried was easy.'",
+      "acceptedAnswers": [
+        "The recipe I tried was easy."
+      ],
+      "feedback": "That is optional because I is the subject of tried and recipe is its object."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A guest asks which chair they can use. Tell the guest that the chair they are looking at is free. Begin 'The chair', omit the object relative word, and end with 'is free'.",
+      "acceptedAnswers": [
+        "The chair you're looking at is free.",
+        "The chair you are looking at is free."
+      ],
+      "feedback": "Looking at needs the preposition at, even when the object relative word is omitted."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the sentence by removing one unnecessary word without changing anything else: 'The office where Ben works in is upstairs.'",
+      "acceptedAnswers": [
+        "The office where Ben works is upstairs."
+      ],
+      "feedback": "Where already marks the place, so in must not be repeated."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two short sentences in order. First begin 'The room', say it is upstairs and is the place where we eat, using 'where'. Then begin 'The chair', say it is near the window and is the one I sit on, leaving out the relative word.",
+      "acceptedAnswers": [
+        "The room where we eat is upstairs. The chair I sit on is near the window."
+      ],
+      "feedback": "Where identifies the room without in; the second clause omits an object relative word but keeps on."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The man I spoke to works at the station.",
+      "prompt": "Who works at the station?",
+      "choices": [
+        "The man the speaker spoke to",
+        "The speaker's uncle",
+        "A customer at the shop"
+      ],
+      "answerIndex": 0,
+      "feedback": "The man is identified by the object relative clause I spoke to."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The house where my uncle lives has a red door.",
+      "prompt": "What has a red door?",
+      "choices": [
+        "The garden",
+        "The house",
+        "The car"
+      ],
+      "answerIndex": 1,
+      "feedback": "Where my uncle lives describes the house."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "This is the park where we have our picnic each year.",
+      "prompt": "Type the relative word used to introduce the place you hear.",
+      "acceptedAnswers": [
+        "where"
+      ],
+      "feedback": "Where connects the park with the clause about the yearly picnic."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The book I borrowed from Nora has a green cover, but the one I bought has a blue cover.",
+      "prompt": "Which book has a blue cover?",
+      "choices": [
+        "The one the speaker purchased",
+        "The one Nora lent the speaker",
+        "Both books"
+      ],
+      "answerIndex": 0,
+      "feedback": "The purchased book is the one the speaker bought; the borrowed book has a green cover."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The restaurant we had dinner at closes at nine on weekdays and at ten on Saturdays.",
+      "prompt": "When does the restaurant close on Saturdays?",
+      "choices": [
+        "At nine at night",
+        "At eight at night",
+        "At ten at night"
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker says at ten on Saturdays, not the weekday closing time of nine."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The school where my sister teaches is beside the park, but the building she studied in is across the road.",
+      "prompt": "Which place is across the road?",
+      "choices": [
+        "The school where she works",
+        "The place where she used to study",
+        "The park beside the school"
+      ],
+      "answerIndex": 1,
+      "feedback": "The building she studied in is across the road. Where my sister teaches identifies a different place."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The manager I emailed yesterday answered this morning.",
+      "prompt": "Type the two words immediately after 'manager'.",
+      "acceptedAnswers": [
+        "I emailed"
+      ],
+      "feedback": "I emailed forms an object relative clause without who or that. Manager is the object of emailed."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The cabin we slept in was warm even in winter.",
+      "prompt": "Type the three words between 'cabin' and 'was'.",
+      "acceptedAnswers": [
+        "we slept in"
+      ],
+      "feedback": "We slept in keeps the preposition in at the end of the object relative clause."
+    }
+  ]
+}
