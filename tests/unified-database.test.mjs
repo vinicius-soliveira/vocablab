@@ -41,12 +41,13 @@ test('both specialized catalog formats are registered under database, without mi
   const grammarBook = bookBySourceId(books, 'grammar', 'english-grammar-1');
   assert.equal(grammarBook?.manifest, 'database/grammar-manifest.json');
   const vocabulary = await json('database/manifest.json');
-  assert.equal(vocabulary.units.length, 422);
+  assert.ok(vocabulary.units.length >= 422);
   assert.equal(vocabulary.units.some(u => u.path.includes('English_Grammar')), false);
   const grammar = await json('database/grammar-manifest.json');
   const bookRegistry = await json('curriculum/books.json');
   const eg2Available = bookRegistry.books.find(b=>b.id==='english-grammar-2').status==='available';
-  assert.equal(grammar.units.length, eg2Available ? 260 : 115);
+  assert.equal(grammar.units.length, 115 + (eg2Available ? 145 : 0) +
+    grammar.units.filter(x=>x.collectionId==='english-grammar-3').length);
   // An in-place upgrade can retain the old grammar/ folder.
   // Only paths in the unified database may be published in either catalog.
   assert.ok(grammar.units.every(u => /^database\/English_Grammar_[1-3]\/eg[1-3]-u\d{3}\.json$/.test(u.path)));

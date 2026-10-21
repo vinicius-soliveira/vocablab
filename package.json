@@ -1,6 +1,6 @@
 {
   "name": "vocablab",
-  "version": "1.4.2",
+  "version": "1.5.0",
   "private": true,
   "type": "module",
   "scripts": {
@@ -9,6 +9,7 @@
     "audit:books": "node scripts/audit-books.mjs",
     "catalog:grammar": "node scripts/build-grammar-catalog.mjs",
     "catalog:all": "node scripts/build-catalog.mjs && node scripts/build-grammar-catalog.mjs && node scripts/build-curriculum-index.mjs",
-    "catalog:curriculum": "node scripts/build-curriculum-index.mjs"
+    "catalog:curriculum": "node scripts/build-curriculum-index.mjs",
+    "content": "node scripts/content.mjs"
   }
 }
