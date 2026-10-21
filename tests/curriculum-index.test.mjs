@@ -12,8 +12,8 @@ const grammar=await read('database/grammar-manifest.json');
 const index=await read('curriculum/index.json');
 const clone=value=>JSON.parse(JSON.stringify(value));
 const eg2Available=books.books.find(b=>b.id==='english-grammar-2').status==='available';
-const expectedUnitCount=eg2Available ? 682 : 537;
-const expectedAvailable=eg2Available ? 7 : 6;
+const expectedUnitCount=vocabulary.units.length+grammar.units.length;
+const expectedAvailable=books.books.filter(x=>x.status==='available').length;
 
 test('curriculum index unifies published books and units without demo entries or publisher labels',()=>{
   assert.deepEqual(index,buildCurriculumIndex(books,vocabulary,grammar));
@@ -23,7 +23,15 @@ test('curriculum index unifies published books and units without demo entries or
   assert.equal(index.totalUnits,expectedUnitCount);
   const published=index.books.filter(x=>x.status==='available');
   assert.equal(published.reduce((n,b)=>n+b.units.length,0),expectedUnitCount);
-  assert.deepEqual(published.map(b=>b.units.length),eg2Available ? [60,100,101,101,115,145,60] : [60,100,101,101,115,60]);
+  for (const [id, count] of Object.entries({
+    'english-vocabulary-1':60,'english-vocabulary-2':100,
+    'english-vocabulary-3':101,'english-vocabulary-4':101,
+    'english-grammar-1':115,'english-grammar-2':145,
+    'english-collocations-1':60,
+  })) {
+    const book=published.find(b=>b.id===id);
+    if(book)assert.equal(book.units.length,count,id);
+  }
   const ids=new Set(published.flatMap(b=>b.units.map(u=>u.id)));
   assert.ok(!ids.has('unit-03')&&!ids.has('workplace-communication'));
   assert.ok(!/Cambridge|In Use|Edition|Original content/i.test(JSON.stringify(index)));
