@@ -1,0 +1,27 @@
+name: Content integrity
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Check published identity baseline
+        run: node scripts/content-identities.mjs check
+      - name: Validate book registry
+        run: npm run audit:books
+      - name: Audit grammar answers
+        run: node scripts/audit-grammar-answers.mjs
+      - name: Test application and integration pipeline
+        run: npm test
+      - name: Rebuild generated catalogs
+        run: npm run catalog:all
+      - name: Reject stale or uncommitted generated catalogs
+        run: git diff --exit-code -- database/manifest.json database/grammar-manifest.json curriculum/index.json

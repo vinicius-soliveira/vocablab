@@ -10,7 +10,7 @@
  * Commands operate on content-staging/<Book_Folder> by default, never publish
  * individual units, and preserve the existing public unit/exercise identifiers.
  */
-import { readFile, readdir, writeFile, mkdir, rm, lstat } from 'node:fs/promises';
+import { readFile, readdir, writeFile, mkdir, rm, lstat, open, rmdir } from 'node:fs/promises';
 import { resolve, join, dirname, basename, relative, sep } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { execFileSync } from 'node:child_process';
@@ -19,6 +19,8 @@ import { validateGrammarUnit, validateGrammarManifest } from '../js/grammar/sche
 import { GRAMMAR_COLLECTIONS, grammarCatalogEntry } from '../js/grammar/collections.js';
 import { buildCurriculumIndex, validateCurriculumIndex } from '../js/curriculum/index.js';
 import { auditBooks } from './audit-books.mjs';
+import { checkIdentities, addPublishedBookIdentity, identityPath } from './content-identities.mjs';
+import { auditReport } from './content-audit-report.mjs';
 
 const DEFAULT_ROOT = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const fileId = /^[A-Za-z][A-Za-z0-9_-]*$/;
@@ -166,10 +168,10 @@ function runScript(root,script){execFileSync(process.execPath,[join(root,'script
 /** Publication is fail-closed with best-effort rollback on caught errors.
  * A crash/power loss mid-publication is not a multi-file atomic transaction.
  */
-export async function publishStaging(options) {
-  const plan=await inspectStaging(options);pass(plan);await checkNotPublished(plan);
+async function publishStagingUnlocked(options) {
+  const plan=await inspectStaging(options);pass(plan);await checkIdentities(plan.root);await checkNotPublished(plan);
   const registryPath=join(plan.root,'curriculum','books.json');
-  const managed=[registryPath,join(plan.root,'database','manifest.json'),join(plan.root,'database','grammar-manifest.json'),join(plan.root,'curriculum','index.json')];
+  const managed=[registryPath,join(plan.root,'database','manifest.json'),join(plan.root,'database','grammar-manifest.json'),join(plan.root,'curriculum','index.json'),identityPath(plan.root)];
   const originals=new Map();
   for(const file of managed){try{originals.set(file,await readFile(file));}catch(e){if(e.code==='ENOENT')originals.set(file,null);else throw e;}}
   const registry=JSON.parse(originals.get(registryPath).toString('utf8'));
@@ -187,11 +189,16 @@ export async function publishStaging(options) {
     const targetInfo=await lstat(plan.destination);
     if(!targetInfo.isDirectory() || targetInfo.isSymbolicLink())throw new Error('Published destination must be a real directory.');
     for(const name of plan.files){await writeFile(join(plan.destination,name),plan.payloads.get(name),{flag:'wx'});createdFiles.push(name);}
+    await options.onPhase?.('after-files');
     await writeFile(registryPath,JSON.stringify(registry,null,2)+'\n');
+    await options.onPhase?.('after-registry');
     runScript(plan.root,'build-catalog.mjs');
     runScript(plan.root,'build-grammar-catalog.mjs');
     runScript(plan.root,'build-curriculum-index.mjs');
+    await options.onPhase?.('after-catalogs');
     await auditBooks(plan.root);
+    await addPublishedBookIdentity(plan.root,plan.book.id);
+    await options.onPhase?.('after-identity');
     await verifyPublished({root:plan.root,bookId:plan.book.id,expected:plan.expected});
     // Block publication if regression tests fail; the best-effort rollback will run.
     const testFiles=(await readdir(join(plan.root,'tests'))).filter(x=>x.endsWith('.test.mjs')).sort().map(x=>join(plan.root,'tests',x));
@@ -202,9 +209,25 @@ export async function publishStaging(options) {
     for(const [file,buffer] of originals)try{if(buffer===null)await rm(file,{force:true});else await writeFile(file,buffer);}catch(error){rollback.push(error.message);}
     // Only remove files this transaction wrote. Preserve a previously existing empty folder.
     for(const name of createdFiles)try{await rm(join(plan.destination,name),{force:true});}catch(error){rollback.push(error.message);}
-    if(createdDir)try{await rm(plan.destination,{recursive:true,force:true});}catch(error){rollback.push(error.message);}
+    if(createdDir)try{await rmdir(plan.destination);}catch(error){rollback.push(error.message);}
     throw new Error(`Publication failed; rollback ${rollback.length?'INCOMPLETE: '+rollback.join('; '):'completed'}: ${e.message}${e.stderr?'\n'+e.stderr.toString():''}`);
   }
+}
+/** Exclusive, local publication lock; a stale lock after a crash requires manual inspection. */
+export async function publishStaging(options) {
+  const root=resolve(options?.root || DEFAULT_ROOT);
+  const lock=join(root,'.content-publish.lock');
+  let handle;
+  try {
+    handle=await open(lock,'wx');
+    await handle.writeFile(JSON.stringify({pid:process.pid,started:new Date().toISOString()})+'\n');
+  } catch(e) {
+    if(handle)await handle.close();
+    if(e.code==='EEXIST')throw new Error('Another publication may be in progress (.content-publish.lock exists). Inspect before removing the lock.');
+    throw e;
+  }
+  try {return await publishStagingUnlocked({...options,root});}
+  finally {await handle.close();await rm(lock,{force:true});}
 }
 /** Ensure published units, generated manifests and the book registry agree. */
 export async function verifyPublished({root=DEFAULT_ROOT,bookId,expected}) {
@@ -246,6 +269,7 @@ export async function verifyPublished({root=DEFAULT_ROOT,bookId,expected}) {
   const rebuilt=buildCurriculumIndex(registry,vocab,grammar);
   if(JSON.stringify(rebuilt)!==JSON.stringify(indexed))throw new Error('Curriculum index is stale.');
   await auditBooks(root);
+  await checkIdentities(root,{bookId});
   return {mode:'verify',bookId,passed:true,files:covered.size,units:entries.length,provider};
 }
 async function main() {
@@ -264,7 +288,7 @@ async function main() {
     if(command==='audit') {
       const out=join(plan.root,'content-reports',`${plan.book.id}-audit.json`);
       await mkdir(dirname(out),{recursive:true});
-      await writeFile(out,JSON.stringify(result,null,2)+'\n');
+      await writeFile(out,JSON.stringify(auditReport(plan),null,2)+'\n');
       console.log(`Audit report: ${relative(plan.root,out)}`);
     }
     if(!result.passed)process.exitCode=1;
