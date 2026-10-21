@@ -1,0 +1,426 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u128",
+  "title": "By: Method, Agent, Position and Difference",
+  "level": "B1",
+  "topicId": "eg2-u128-by-method-agent-position-difference",
+  "summary": "Use by to express accidental events, general methods of travel and communication, the agent of a passive action, nearby position and the amount of a change. Contrast by with on, in and with where the meaning changes.",
+  "learningObjectives": [
+    "Distinguish by chance, by accident and by mistake from an action done on purpose.",
+    "Choose by for general transport or methods, but in/on for a particular vehicle and on foot for walking.",
+    "Distinguish the agent introduced by by from the instrument introduced by with.",
+    "Use by for nearby position and numerical differences in amounts, times or margins."
+  ],
+  "explanation": [
+    {
+      "heading": "By for unexpected events",
+      "body": "By accident, by mistake and by chance are fixed expressions. By accident means unintentionally; by mistake often means that someone made an error; by chance means that an event was not arranged or expected. These phrases have no article: by chance, not by a chance. An intentional action is done on purpose, not by purpose.",
+      "example": "I opened the wrong folder by mistake and found an old photograph by chance."
+    },
+    {
+      "heading": "By for a general means of transport",
+      "body": "Use by before a transport type without an article or possessive: by tram, by bus, by plane and by bicycle. When you identify a particular vehicle, choose in my car, in a taxi, on the bus or on the 7:20 train. Walking normally takes on foot, not by foot. The difference is between the general method of travel and a specific vehicle.",
+      "example": "We came by train, but we left our luggage on the train."
+    },
+    {
+      "heading": "By for methods of doing and paying",
+      "body": "By also introduces a general means of communication, payment or production: by email, by post, by card and by hand. It answers how something was done. Cash is an important exception: say pay cash or pay in cash, rather than pay by cash. A phrase like by hand contrasts manual work with using a machine.",
+      "example": "Please send the form by email, and you can pay in cash at reception."
+    },
+    {
+      "heading": "By for agents; with for instruments",
+      "body": "In passive sentences, by identifies the person or thing that causes or performs the action: the letter was written by a nurse. With usually identifies the instrument used: the envelope was opened with scissors. In an artwork description, by names its creator: a portrait by a local artist. Do not confuse who performed the action with what they used.",
+      "example": "The sign was repaired by the caretaker with a small screwdriver."
+    },
+    {
+      "heading": "By for next to and by for differences",
+      "body": "By can mean beside or next to: the bench by the entrance. It can also specify how much one value changes or how far one competitor leads: rise by eight per cent, finish by two minutes, or increase by five pounds. The phrase after by is the difference, not the final value. Other uses such as deadlines belong to different grammar topics.",
+      "example": "The ticket price went up by three euros, and the notice was placed by the ticket office."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "General transport versus a specific vehicle",
+      "left": {
+        "label": "by + transport type",
+        "example": "They travelled by bus.",
+        "note": "By names the transport method without an article."
+      },
+      "right": {
+        "label": "on + specific bus",
+        "example": "They met on the bus.",
+        "note": "On the bus describes being aboard a particular vehicle."
+      }
+    },
+    {
+      "title": "Agent versus instrument",
+      "left": {
+        "label": "by + person responsible",
+        "example": "The lock was repaired by a technician.",
+        "note": "The technician performed the action."
+      },
+      "right": {
+        "label": "with + tool",
+        "example": "The lock was repaired with special tools.",
+        "note": "The tools were used to perform the action."
+      }
+    },
+    {
+      "title": "Payment method versus cash",
+      "left": {
+        "label": "by card",
+        "example": "I paid by card.",
+        "note": "By identifies a general payment method."
+      },
+      "right": {
+        "label": "in cash",
+        "example": "My cousin paid in cash.",
+        "note": "Cash is normally used with in or without a preposition."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I received the same invitation twice by mistake.",
+      "note": "By mistake shows an unintended error."
+    },
+    {
+      "sentence": "We can reach the island by ferry.",
+      "note": "By introduces a general transport method."
+    },
+    {
+      "sentence": "The children arrived on foot because they live nearby.",
+      "note": "On foot is the usual expression for walking."
+    },
+    {
+      "sentence": "The mural was designed by an art student.",
+      "note": "By identifies the creator of the mural."
+    },
+    {
+      "sentence": "The parcel was tied with a length of string.",
+      "note": "With identifies the material or instrument used, not the agent."
+    },
+    {
+      "sentence": "There is a small café by the library entrance.",
+      "note": "By expresses the position beside another place."
+    },
+    {
+      "sentence": "The waiting time decreased by fifteen minutes.",
+      "note": "By introduces the amount of reduction."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "We came to the village by my father’s car.",
+      "correct": "We came to the village in my father’s car.",
+      "why": "Use in with a particular car, especially after a possessive."
+    },
+    {
+      "incorrect": "They travelled by foot to the campsite.",
+      "correct": "They travelled on foot to the campsite.",
+      "why": "Walking normally uses on foot."
+    },
+    {
+      "incorrect": "The painting was made with a famous local artist.",
+      "correct": "The painting was made by a famous local artist.",
+      "why": "By identifies the creator; with would suggest a tool or joint activity."
+    },
+    {
+      "incorrect": "I found the missing ticket by a chance.",
+      "correct": "I found the missing ticket by chance.",
+      "why": "By chance has no article."
+    }
+  ],
+  "studyTips": [
+    "Practise a three-way contrast aloud: by train, on the train, and on foot. Then change the mode of transport.",
+    "For passive sentences, ask two questions: Who did it? Use by. What tool was used? Use with.",
+    "Record four short chunks together: by mistake, by email, by the door and increased by five per cent."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "I sent the signed document ___ email rather than mailing a paper copy.",
+      "choices": [
+        "by",
+        "with",
+        "on"
+      ],
+      "answerIndex": 0,
+      "feedback": "By email states the method of sending the document."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "After the bus broke down, we finished the journey ___ foot.",
+      "choices": [
+        "by",
+        "on",
+        "in"
+      ],
+      "answerIndex": 1,
+      "feedback": "The normal phrase for walking is on foot."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The parcel was delivered ___ a courier in the afternoon.",
+      "choices": [
+        "with",
+        "on",
+        "by"
+      ],
+      "answerIndex": 2,
+      "feedback": "In the passive, by introduces the person who carried out the delivery."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The caretaker opened the locked drawer ___ a spare key.",
+      "choices": [
+        "with",
+        "by",
+        "at"
+      ],
+      "answerIndex": 0,
+      "feedback": "With introduces the instrument used to unlock the drawer."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "I picked up another passenger’s suitcase ___ at the airport. (Supply the two-word expression meaning unintentionally because of an error.)",
+      "acceptedAnswers": [
+        "by mistake"
+      ],
+      "feedback": "By mistake explains that taking the wrong suitcase was an error."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "They crossed the bay ___ ferry. (Supply one preposition for the general transport method.)",
+      "acceptedAnswers": [
+        "by"
+      ],
+      "feedback": "By ferry gives the means of transport without an article."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The hotel is ___ the river, so we can watch the boats from our room. (Supply the two-letter preposition meaning beside.)",
+      "acceptedAnswers": [
+        "by"
+      ],
+      "feedback": "By the river means next to the river."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The department’s electricity use fell ___ twelve per cent last year. (Supply one preposition for the size of the reduction.)",
+      "acceptedAnswers": [
+        "by"
+      ],
+      "feedback": "By twelve per cent expresses how large the decrease was."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: After lunch, we walked to the museum by foot.",
+      "acceptedAnswers": [
+        "After lunch, we walked to the museum on foot."
+      ],
+      "feedback": "The fixed expression for walking is on foot."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We went to the village by my uncle’s car.",
+      "acceptedAnswers": [
+        "We went to the village in my uncle’s car."
+      ],
+      "feedback": "Use in when referring to a particular car with a possessive."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The photograph was taken by an old camera.",
+      "acceptedAnswers": [
+        "The photograph was taken with an old camera."
+      ],
+      "feedback": "The camera is the instrument, so use with rather than by."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I met my former teacher by a chance at the market.",
+      "acceptedAnswers": [
+        "I met my former teacher by chance at the market."
+      ],
+      "feedback": "The set phrase by chance never takes an article."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Your group travelled using a tram. Say one sentence beginning 'We went' and ending with the general means of travel.",
+      "acceptedAnswers": [
+        "We went by tram."
+      ],
+      "feedback": "By tram identifies the transport method without an article."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "You used one particular train: the express train. Say one sentence beginning 'I travelled' and ending 'on the express train'.",
+      "acceptedAnswers": [
+        "I travelled on the express train."
+      ],
+      "feedback": "A specific train takes on, unlike the general method by train."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "You took the wrong coat accidentally. Start 'I took' and finish with 'by mistake'.",
+      "acceptedAnswers": [
+        "I took the wrong coat by mistake."
+      ],
+      "feedback": "By mistake means the action resulted from an error."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Change this fact to a passive sentence: A local artist painted the mural. Begin 'The mural was'.",
+      "acceptedAnswers": [
+        "The mural was painted by a local artist."
+      ],
+      "feedback": "In the passive, by identifies the agent who painted the mural."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Explain the tool used: someone opened the drawer using a spare key. Begin 'The drawer was opened' and use 'with'.",
+      "acceptedAnswers": [
+        "The drawer was opened with a spare key."
+      ],
+      "feedback": "With introduces a tool; by would introduce the person who opened it."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Rephrase 'The pharmacy is beside the station' using 'by'. Begin 'The pharmacy is'.",
+      "acceptedAnswers": [
+        "The pharmacy is by the station."
+      ],
+      "feedback": "By the station means next to the station."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Report a twenty per cent rise in sales. Begin 'Sales rose', use 'by', and give the amount.",
+      "acceptedAnswers": [
+        "Sales rose by twenty per cent.",
+        "Sales rose by 20 per cent."
+      ],
+      "feedback": "By twenty per cent expresses the size of the increase, not the new total."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Two customers describe payment. Say two sentences with these facts in this order: you paid by card; your brother paid in cash. Start 'I paid'.",
+      "acceptedAnswers": [
+        "I paid by card. My brother paid in cash."
+      ],
+      "feedback": "By card names a payment method, while in cash is the conventional cash expression."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We did not book a taxi; we travelled by underground because it was faster.",
+      "prompt": "Which means of transport did they use?",
+      "choices": [
+        "A taxi",
+        "The underground",
+        "A bicycle"
+      ],
+      "answerIndex": 1,
+      "feedback": "They travelled by underground, explicitly not by taxi."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I saw Oliver on the train, not in his car.",
+      "prompt": "Where did the speaker see Oliver?",
+      "choices": [
+        "In a car",
+        "At a station",
+        "On the train"
+      ],
+      "answerIndex": 2,
+      "feedback": "On the train identifies the specific vehicle where Oliver was seen."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I sent the invitations by email instead of putting them in the post.",
+      "prompt": "Type the two-word method expression immediately after \"invitations\".",
+      "acceptedAnswers": [
+        "by email"
+      ],
+      "feedback": "By email is the method used to send the invitations."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The gate was unlocked by the night guard with a metal key.",
+      "prompt": "Who unlocked the gate?",
+      "choices": [
+        "The night guard",
+        "A visitor",
+        "The caretaker"
+      ],
+      "answerIndex": 0,
+      "feedback": "By the night guard names the person responsible; with a metal key gives the instrument."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I bought the tickets by card, but my friend paid in cash.",
+      "prompt": "How did the friend pay?",
+      "choices": [
+        "With an online transfer",
+        "By card",
+        "In cash"
+      ],
+      "answerIndex": 2,
+      "feedback": "The second customer paid in cash, while the speaker used a card."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "They won the final by three points, not by three goals.",
+      "prompt": "What was the winning margin?",
+      "choices": [
+        "Three goals",
+        "Three points",
+        "Thirty points"
+      ],
+      "answerIndex": 1,
+      "feedback": "By three points gives the size and unit of the lead."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "By chance, I found the same jacket in a different shop.",
+      "prompt": "Type the two-word expression at the very beginning of the recording.",
+      "acceptedAnswers": [
+        "by chance"
+      ],
+      "feedback": "By chance means the discovery was unexpected or unplanned."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The new bookshelf stands by the window beside the sofa.",
+      "prompt": "Type the three-word location expression immediately after \"stands\".",
+      "acceptedAnswers": [
+        "by the window"
+      ],
+      "feedback": "By the window identifies a position next to the window."
+    }
+  ]
+}

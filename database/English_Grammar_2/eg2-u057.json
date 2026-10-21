@@ -1,0 +1,407 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u057",
+  "title": "Try, Need and Help: Choosing the Verb Form",
+  "level": "B2",
+  "topicId": "eg2-u057-try-need-help-verb-patterns",
+  "summary": "Choose between try to do and try doing to distinguish a difficult attempt from testing a possible solution. Use need to do for a necessary action, need doing for work required on something, and help or can’t help with the appropriate verb form.",
+  "learningObjectives": [
+    "Distinguish an effort with try + to-infinitive from an experiment with try + -ing.",
+    "Express personal necessities using need + to-infinitive and required work using need + -ing.",
+    "Recognise need + -ing as equivalent in meaning to need + to be + past participle.",
+    "Use help + (to-)infinitive for assistance and can’t help + -ing for an uncontrollable reaction."
+  ],
+  "explanation": [
+    {
+      "heading": "Try to do: make an effort",
+      "body": "Use try + to-infinitive when someone attempts an action that may be difficult. The sentence focuses on the effort, which may succeed or fail. If the action fails, a phrase such as but I couldn’t complete it makes that clear.",
+      "example": "I tried to carry the cabinet upstairs, but it would not fit through the doorway."
+    },
+    {
+      "heading": "Try doing: test a possible solution",
+      "body": "Use try + -ing to propose or describe an experiment. The action is a test to see whether it improves a situation. In advice, Try moving the chair means move it as a test; it does not mean the person is struggling to move it.",
+      "example": "If the screen is too bright, try reducing the contrast first."
+    },
+    {
+      "heading": "Need to do: an action is necessary",
+      "body": "A person or group needs to do something when taking that action is necessary. The pattern is need + to + base verb, including in negatives and questions. Do not use need + -ing to describe the person’s own obligation in this meaning.",
+      "example": "We need to confirm the venue before sending the invitations."
+    },
+    {
+      "heading": "A thing needs doing: a passive meaning",
+      "body": "When a thing requires attention, need + -ing often means need + to be + past participle. The thing receives the action: A window needs cleaning means someone must clean it. Use the passive form when you want an explicit alternative.",
+      "example": "The old sign needs repainting before the shop reopens."
+    },
+    {
+      "heading": "Help, and can’t help: different patterns",
+      "body": "To describe assistance, use help + base verb or help + to-infinitive, with or without an object: help us move / help us to move. However, can’t help + -ing means being unable to stop an emotional or automatic reaction. Here help does not mean assistance.",
+      "example": "Everyone helped set up the chairs, but I couldn’t help laughing at our crooked rows."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Trying an action versus testing an idea",
+      "left": {
+        "label": "Make an effort",
+        "example": "I tried to unlock the storage room, but the key would not turn.",
+        "note": "Try to unlock focuses on an attempt that did not succeed."
+      },
+      "right": {
+        "label": "Test an option",
+        "example": "I tried using the spare key, and the door opened.",
+        "note": "Try using describes an experiment to see whether a different key works."
+      }
+    },
+    {
+      "title": "Who must act, and what needs attention",
+      "left": {
+        "label": "Need to + verb",
+        "example": "The caretaker needs to repair the gate.",
+        "note": "The caretaker must carry out the repair."
+      },
+      "right": {
+        "label": "Need + -ing",
+        "example": "The gate needs repairing.",
+        "note": "The gate receives the repair; needs to be repaired has the same meaning."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Dylan tried to reach the top shelf but was not tall enough.",
+      "note": "Tried to reach reports an unsuccessful effort."
+    },
+    {
+      "sentence": "Try changing the batteries before replacing the entire remote.",
+      "note": "Try changing suggests a test that might solve the problem."
+    },
+    {
+      "sentence": "I need to update my contact details this week.",
+      "note": "Need to update identifies an action the speaker must perform."
+    },
+    {
+      "sentence": "Those curtains need washing after the renovation.",
+      "note": "Need washing describes work required on the curtains."
+    },
+    {
+      "sentence": "She could not help smiling when the children waved at her.",
+      "note": "Could not help smiling describes a reaction she could not suppress."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I tried to opened the heavy window, but it would not move.",
+      "correct": "I tried to open the heavy window, but it would not move.",
+      "why": "After try to, use the base verb open, not the past form opened."
+    },
+    {
+      "incorrect": "The noticeboard needs to repaint before Monday.",
+      "correct": "The noticeboard needs repainting before Monday.",
+      "why": "A thing can need + -ing with passive meaning; needs to be repainted is another correct structure."
+    },
+    {
+      "incorrect": "I need checking the figures myself.",
+      "correct": "I need to check the figures myself.",
+      "why": "For an action the subject must perform, use need to + base verb."
+    },
+    {
+      "incorrect": "I couldn’t help to laugh when I heard the story.",
+      "correct": "I couldn’t help laughing when I heard the story.",
+      "why": "Can’t help + -ing describes a reaction you cannot prevent."
+    }
+  ],
+  "studyTips": [
+    "When reading try, ask whether the person made a difficult effort or tested a method that might work.",
+    "Rewrite necessary work in two ways: The roof needs repairing → The roof needs to be repaired.",
+    "Make two contrasting help examples: someone helped me finish a task, and I couldn’t help smiling."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "I ___ the heavy crate, but it was too heavy for me.",
+      "choices": [
+        "tried to lifting",
+        "tried to lift",
+        "try to lift"
+      ],
+      "answerIndex": 1,
+      "feedback": "The past form tried to lift describes an unsuccessful effort. After to, use the base verb."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "If the microphone sounds distant, ___ it closer to your mouth and listen again.",
+      "choices": [
+        "try to moving",
+        "try move",
+        "try moving"
+      ],
+      "answerIndex": 2,
+      "feedback": "Try moving recommends testing an adjustment to see whether the sound improves."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The old sofa is stained. It ___ before anyone can use it again.",
+      "choices": [
+        "needs cleaning",
+        "needs to clean",
+        "need cleaning"
+      ],
+      "answerIndex": 0,
+      "feedback": "A sofa receives the cleaning, so needs cleaning has a passive meaning."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The actor was trying to stay serious but could not help ___ when a prop fell over.",
+      "choices": [
+        "to laughing",
+        "laughing",
+        "laugh"
+      ],
+      "answerIndex": 1,
+      "feedback": "Could not help + -ing describes an uncontrollable reaction, not assistance."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "I ___ the jammed drawer, but it would not move. (try / open; past simple, attempted action with no success)",
+      "acceptedAnswers": [
+        "tried to open"
+      ],
+      "feedback": "The person attempted the difficult action, so tried to open is appropriate."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "If the printer still leaves marks, ___ a different paper setting to see whether it helps. (try / use; imperative, experimental suggestion)",
+      "acceptedAnswers": [
+        "try using"
+      ],
+      "feedback": "The action is a test of an alternative setting: try using."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "These windows are covered in dust. They ___ before the inspection. (need / clean; use -ing with passive meaning)",
+      "acceptedAnswers": [
+        "need cleaning"
+      ],
+      "feedback": "The windows receive the cleaning; they need cleaning."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The coach ___ the rules yesterday. (help / the new players / understand; past simple; use either valid infinitive form)",
+      "acceptedAnswers": [
+        "helped the new players understand",
+        "helped the new players to understand"
+      ],
+      "feedback": "Help + object may be followed by either the base verb or a to-infinitive."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I tried to fixing the broken hinge, but the screw would not turn.",
+      "acceptedAnswers": [
+        "I tried to fix the broken hinge, but the screw would not turn."
+      ],
+      "feedback": "After try to, use the base verb fix, not fixing."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The stairwell needs to clean before the guests arrive. (Change only the form after needs; use the -ing pattern.)",
+      "acceptedAnswers": [
+        "The stairwell needs cleaning before the guests arrive."
+      ],
+      "feedback": "Need + -ing describes the cleaning the stairwell requires."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Our neighbours helped us to carried the chairs upstairs.",
+      "acceptedAnswers": [
+        "Our neighbours helped us to carry the chairs upstairs."
+      ],
+      "feedback": "After helped us to, use the base verb carry, not the past form carried."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I could not help to smile when the puppy fell asleep. (Correct only the form after help, using -ing.)",
+      "acceptedAnswers": [
+        "I could not help smiling when the puppy fell asleep."
+      ],
+      "feedback": "Cannot help + -ing describes a spontaneous response that cannot be suppressed."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "You attempted to lift a box but it was too heavy. Begin “I tried” and use “to lift the box, but it was too heavy”.",
+      "acceptedAnswers": [
+        "I tried to lift the box, but it was too heavy."
+      ],
+      "feedback": "Tried to lift identifies the failed effort."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Recommend testing a possible solution: restart the router. Begin “Try” and use -ing. Say one short sentence.",
+      "acceptedAnswers": [
+        "Try restarting the router."
+      ],
+      "feedback": "Try restarting proposes an experiment, not a struggle to restart."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say one sentence from these facts: I / need / leave / before noon. Use need + to-infinitive.",
+      "acceptedAnswers": [
+        "I need to leave before noon."
+      ],
+      "feedback": "Need to leave expresses a necessary action."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The carpet is dirty. State what it needs, beginning “The carpet” and using the -ing form of clean.",
+      "acceptedAnswers": [
+        "The carpet needs cleaning."
+      ],
+      "feedback": "Needs cleaning means the carpet needs to be cleaned."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "The files have not been checked. Begin “These files” and use need + to be + the past participle of check.",
+      "acceptedAnswers": [
+        "These files need to be checked."
+      ],
+      "feedback": "Need to be checked expresses the same passive need as need checking."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Make one past-simple sentence from these facts: Julia / help / me / pack / the boxes / yesterday. Both with and without to are permitted. Begin “Julia”.",
+      "acceptedAnswers": [
+        "Julia helped me pack the boxes yesterday.",
+        "Julia helped me to pack the boxes yesterday."
+      ],
+      "feedback": "Helped me pack and helped me to pack both describe assistance."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "You smiled involuntarily at a photo. Start with “I could not” or “I couldn’t” and use help + smiling + “at the photo”.",
+      "acceptedAnswers": [
+        "I could not help smiling at the photo.",
+        "I couldn't help smiling at the photo."
+      ],
+      "feedback": "Could not help smiling expresses an uncontrollable reaction."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences in order. First: the documents / need / sign (use need + -ing). Second: I / need / ask / the manager (use need + to-infinitive).",
+      "acceptedAnswers": [
+        "The documents need signing. I need to ask the manager."
+      ],
+      "feedback": "The documents receive the action, whereas I need to ask describes who must act."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I tried to lift the suitcase onto the shelf, but it was simply too heavy for me.",
+      "prompt": "What happened when the speaker attempted to lift the suitcase?",
+      "choices": [
+        "It was lifted without difficulty.",
+        "The speaker could not lift it.",
+        "Someone else broke the shelf."
+      ],
+      "answerIndex": 1,
+      "feedback": "Tried to lift and but it was too heavy describe an unsuccessful attempt."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "If the kettle keeps switching off, try plugging it into another socket and see what happens.",
+      "prompt": "What does the speaker propose?",
+      "choices": [
+        "Replacing the kettle immediately.",
+        "Avoiding electricity entirely.",
+        "Testing a different socket."
+      ],
+      "answerIndex": 2,
+      "feedback": "Try plugging it into another socket is an experimental suggestion."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The wooden chairs need painting before the school concert next month.",
+      "prompt": "Type the two-word verb phrase immediately after “The wooden chairs”.",
+      "acceptedAnswers": [
+        "need painting"
+      ],
+      "feedback": "Need painting means that someone must paint the chairs."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I need to renew my train card today, but my sister has already renewed hers.",
+      "prompt": "Who still needs to renew a train card?",
+      "choices": [
+        "Only the speaker.",
+        "Only the sister.",
+        "Both of them."
+      ],
+      "answerIndex": 0,
+      "feedback": "I need to renew identifies the speaker’s remaining obligation."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "We helped the new neighbours carry their furniture upstairs on Saturday.",
+      "prompt": "What assistance did the speakers provide?",
+      "choices": [
+        "They repaired the staircase.",
+        "They helped move furniture upstairs.",
+        "They offered to buy furniture."
+      ],
+      "answerIndex": 1,
+      "feedback": "Helped ... carry describes practical assistance with moving furniture."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "As soon as I heard the melody, I couldn't help humming along, even though I was in a quiet library.",
+      "prompt": "How did the speaker react to the music?",
+      "choices": [
+        "They could not hear it.",
+        "They deliberately switched it off.",
+        "They began humming almost involuntarily."
+      ],
+      "answerIndex": 2,
+      "feedback": "Couldn't help humming means the speaker could not suppress the reaction."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "My laptop needs to be repaired before I can use it for work again.",
+      "prompt": "Type the three-word passive infinitive phrase immediately after “needs”.",
+      "acceptedAnswers": [
+        "to be repaired"
+      ],
+      "feedback": "To be repaired describes work the laptop requires."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Sonia helped me to arrange the seating for Saturday's ceremony.",
+      "prompt": "Type the two-word infinitive phrase immediately after “helped me”.",
+      "acceptedAnswers": [
+        "to arrange"
+      ],
+      "feedback": "Helped me to arrange is a valid pattern for assistance."
+    }
+  ]
+}

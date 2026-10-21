@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u109",
+  "title": "Natural Word Order: Objects, Place and Time",
+  "level": "B1",
+  "topicId": "eg2-u109-verb-object-place-time",
+  "summary": "Build clear English statements by keeping verbs next to their objects, placing destinations or locations after the object, and normally putting time expressions after place expressions. Learn when a time phrase can move to the front for emphasis.",
+  "learningObjectives": [
+    "Keep a direct object close to the verb instead of inserting a place, time or manner phrase between them.",
+    "Place a destination or location after the object in sentences that have both.",
+    "Arrange place before time in a neutral sentence, and move time to the beginning when appropriate.",
+    "Edit unnatural word order without changing the intended facts or tense."
+  ],
+  "explanation": [
+    {
+      "heading": "Keep the verb and its object together",
+      "body": "When a verb takes a direct object, English normally puts that object immediately after the verb. Do not interrupt the verb–object pair with a phrase such as carefully, yesterday, or at the office. You can usually put a manner phrase after the object instead.",
+      "example": "Priya checked the figures carefully before the meeting."
+    },
+    {
+      "heading": "Put the object before the destination",
+      "body": "If an action affects something and also has a destination or location, the common sequence is subject + verb + object + place. This is especially useful with verbs such as leave, put, carry, bring and find. A location phrase should not normally separate a short verb from its direct object.",
+      "example": "The technician left the spare batteries in the cupboard."
+    },
+    {
+      "heading": "Place usually comes before time",
+      "body": "When you mention both where an action happened and when, a neutral and widely useful pattern is verb (+ object) + place + time. Time can indicate a date, a repeated schedule, a length of time or a deadline. Keep the whole place expression together.",
+      "example": "We reviewed the designs in the conference room on Tuesday."
+    },
+    {
+      "heading": "Move a time phrase to the front",
+      "body": "A time expression can go at the start of a sentence to establish the setting or connect a new sentence to an earlier event. The remaining verb–object–place order normally stays intact. A comma after an introductory time phrase can improve readability, especially when the phrase is long.",
+      "example": "Before the interview, Kai revised his notes at home."
+    },
+    {
+      "heading": "Separate end-position phrases from middle adverbs",
+      "body": "Many phrases describing place and time belong towards the end of a clause, but short frequency and attitude adverbs may occupy a middle position close to the verb. Do not use the place–time rule to position words such as usually or probably; those follow separate patterns. Concentrate here on intact objects and clear end-position information.",
+      "example": "Our neighbours practise music in the garage every Saturday."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Object next to verb versus interrupted object",
+      "left": {
+        "label": "Natural verb–object sequence",
+        "example": "Hugo answered the email immediately.",
+        "note": "The object follows answered directly; the manner word follows the object."
+      },
+      "right": {
+        "label": "Unnatural interruption",
+        "example": "Hugo answered immediately the email.",
+        "note": "Immediately separates the verb from its short direct object; put it after the object."
+      }
+    },
+    {
+      "title": "Neutral place–time order versus fronted time",
+      "left": {
+        "label": "Neutral sequence",
+        "example": "The class met in the studio on Thursday.",
+        "note": "The location comes before the time."
+      },
+      "right": {
+        "label": "Time set as the topic",
+        "example": "On Thursday, the class met in the studio.",
+        "note": "Moving the time to the start is also natural; the place remains after the verb."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The courier delivered the documents to reception this morning.",
+      "note": "Direct object, then destination, then time."
+    },
+    {
+      "sentence": "Riley found an old photograph under the sofa last weekend.",
+      "note": "The place and time follow the object photograph."
+    },
+    {
+      "sentence": "The visitors watched the demonstration from the balcony for twenty minutes.",
+      "note": "The viewing location precedes the duration."
+    },
+    {
+      "sentence": "After dinner, I arranged the chairs on the terrace.",
+      "note": "An introductory time phrase does not separate arranged from the chairs."
+    },
+    {
+      "sentence": "We studied the instructions carefully at the workshop yesterday.",
+      "note": "The manner word follows the object; location is before time."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Liam repaired carefully the camera.",
+      "correct": "Liam repaired the camera carefully.",
+      "why": "Do not put carefully between a transitive verb and its short direct object."
+    },
+    {
+      "incorrect": "The nurse placed on the desk the form.",
+      "correct": "The nurse placed the form on the desk.",
+      "why": "With a short object, put the item before its location."
+    },
+    {
+      "incorrect": "My cousins play at the sports centre tennis every Sunday.",
+      "correct": "My cousins play tennis at the sports centre every Sunday.",
+      "why": "The short direct object tennis follows play; place and then time follow the object."
+    },
+    {
+      "incorrect": "We borrowed from our neighbour a ladder.",
+      "correct": "We borrowed a ladder from our neighbour.",
+      "why": "Keep borrowed and its short object together; the source follows."
+    }
+  ],
+  "studyTips": [
+    "Underline the verb and circle its direct object; in ordinary clauses, check that the two stay together.",
+    "For a sentence with several details, arrange cards in the order action → object → place → time, then read it aloud.",
+    "Practise two versions of the same fact: one with time at the end and one with time at the start."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the naturally ordered sentence about a training session.",
+      "choices": [
+        "The instructor explained the procedure clearly.",
+        "The instructor explained clearly the procedure.",
+        "The instructor the procedure clearly explained."
+      ],
+      "answerIndex": 0,
+      "feedback": "A short direct object normally follows explained immediately; the manner word comes later."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the natural sentence about a building tour.",
+      "choices": [
+        "We showed to the guests the laboratory.",
+        "We showed the laboratory to the guests.",
+        "We the laboratory showed to the guests."
+      ],
+      "answerIndex": 1,
+      "feedback": "The object the laboratory follows showed; the destination or recipient expression comes afterwards."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which sentence has a neutral, natural order for object, place and time?",
+      "choices": [
+        "Ava left in the office her coat this morning.",
+        "Ava left her coat in this morning the office.",
+        "Ava left her coat in the office this morning."
+      ],
+      "answerIndex": 2,
+      "feedback": "Object + place + time is the normal neutral sequence. Time at the end makes the intended order unambiguous."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correctly ordered sentence about a presentation.",
+      "choices": [
+        "Our manager the report reviewed after lunch.",
+        "Our manager reviewed the report after lunch.",
+        "Our manager reviewed after lunch the report."
+      ],
+      "answerIndex": 1,
+      "feedback": "The direct object the report stays next to reviewed; the time expression follows."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with these words in their natural order: left / the parcel / outside the door. The driver ___ before noon.",
+      "acceptedAnswers": [
+        "left the parcel outside the door"
+      ],
+      "feedback": "The object the parcel follows left, and the place follows the object."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with these words: in the hall / practised / their speech. The students ___ after class.",
+      "acceptedAnswers": [
+        "practised their speech in the hall"
+      ],
+      "feedback": "The activity has an object, their speech, before its location."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete using plays / in the garden / every evening. My neighbour ___.",
+      "acceptedAnswers": [
+        "plays in the garden every evening"
+      ],
+      "feedback": "With no direct object, the place comes after the verb and before the time."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with saw / a friend / at the library / last night. I ___.",
+      "acceptedAnswers": [
+        "saw a friend at the library last night"
+      ],
+      "feedback": "The object, location and time form a clear final sequence."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence by moving the location phrase after the object: We discussed at the office the proposal yesterday.",
+      "acceptedAnswers": [
+        "We discussed the proposal at the office yesterday."
+      ],
+      "feedback": "Discussed should be followed by the proposal, not interrupted by at the office."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence by moving only carefully: Rosa finished carefully her assignment.",
+      "acceptedAnswers": [
+        "Rosa finished her assignment carefully."
+      ],
+      "feedback": "Carefully belongs after the short object her assignment in this neutral wording."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence by moving only yesterday to the end: I left yesterday my backpack on the train.",
+      "acceptedAnswers": [
+        "I left my backpack on the train yesterday."
+      ],
+      "feedback": "The object and the place remain together; yesterday is moved to the end."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence by moving the object directly after put: They put on the shelf the clean towels.",
+      "acceptedAnswers": [
+        "They put the clean towels on the shelf."
+      ],
+      "feedback": "Put takes the object the clean towels before its destination on the shelf."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make one sentence using these facts in this order: the courier / placed / the package / at the front desk / this morning. Start with \"The courier\".",
+      "acceptedAnswers": [
+        "The courier placed the package at the front desk this morning."
+      ],
+      "feedback": "Keep placed the package together, then say where and when."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Reorder these chunks into one sentence. Start with \"We\": discussed / the budget / in the office / yesterday.",
+      "acceptedAnswers": [
+        "We discussed the budget in the office yesterday."
+      ],
+      "feedback": "The object comes after discussed, followed by location and time."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Answer in one complete sentence. Where did Ella see my brother yesterday? Facts: Ella saw him at the cinema. Start with \"Ella saw my brother\" and end with \"yesterday\".",
+      "acceptedAnswers": [
+        "Ella saw my brother at the cinema yesterday."
+      ],
+      "feedback": "Say the object before the place and put the time last."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Say the corrected sentence only: \"The chef prepared carefully the soup.\" Keep the same facts and begin with \"The chef\".",
+      "acceptedAnswers": [
+        "The chef prepared the soup carefully."
+      ],
+      "feedback": "The manner word moves behind the short object."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Say one sentence with exactly these facts. She studies; place: at home; time: every Sunday. Start with \"She studies\".",
+      "acceptedAnswers": [
+        "She studies at home every Sunday."
+      ],
+      "feedback": "Use place before the recurring time expression."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Correct this sentence aloud, keeping \"yesterday\" at the end: \"I mailed yesterday the invoice.\"",
+      "acceptedAnswers": [
+        "I mailed the invoice yesterday."
+      ],
+      "feedback": "Do not separate mailed from the invoice."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say two short sentences. Fact one: the team tested the prototype in the lab. Fact two: they reviewed the results on Friday. Start with \"The team\" and then \"They\".",
+      "acceptedAnswers": [
+        "The team tested the prototype in the lab. They reviewed the results on Friday."
+      ],
+      "feedback": "Both sentences keep their verbs next to their objects; each finishes with its relevant detail."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Answer in a full sentence: When did Sam return the books to the library? The answer is on Tuesday. Begin with \"Sam\" and end with \"on Tuesday\".",
+      "acceptedAnswers": [
+        "Sam returned the books to the library on Tuesday."
+      ],
+      "feedback": "The direct object the books precedes the destination and time."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I sent the application to the training office on Tuesday afternoon.",
+      "prompt": "Where did the speaker send the application?",
+      "choices": [
+        "To the training office.",
+        "To a university library.",
+        "To a neighbour."
+      ],
+      "answerIndex": 0,
+      "feedback": "The destination follows the object the application."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "At the weekend, Noah showed his holiday photographs to his relatives in the living room.",
+      "prompt": "What did Noah show to his relatives?",
+      "choices": [
+        "A new apartment.",
+        "His holiday photographs.",
+        "An invitation."
+      ],
+      "answerIndex": 1,
+      "feedback": "The photographs are the object of showed."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The volunteers packed the supplies in the gym before sunrise.",
+      "prompt": "Type the exact place-and-time phrase heard after \"the supplies\".",
+      "acceptedAnswers": [
+        "in the gym before sunrise"
+      ],
+      "feedback": "The location in the gym is followed by the time before sunrise."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "After the concert, we found a lost wallet near the main entrance.",
+      "prompt": "When was the wallet found?",
+      "choices": [
+        "Before the concert.",
+        "During the concert.",
+        "After the concert."
+      ],
+      "answerIndex": 2,
+      "feedback": "The opening time expression fixes when the finding happened."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The teacher returned the essays to our class yesterday morning.",
+      "prompt": "Who received the essays?",
+      "choices": [
+        "The parents.",
+        "The speaker’s class.",
+        "The school principal."
+      ],
+      "answerIndex": 1,
+      "feedback": "The class is the recipient of the returned work."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Every Friday, Lena checks the equipment in the storage room.",
+      "prompt": "Where does Lena check the equipment?",
+      "choices": [
+        "In the storage room.",
+        "At the front gate.",
+        "In the classroom."
+      ],
+      "answerIndex": 0,
+      "feedback": "The place expression specifies where the repeated check happens."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "He left his bicycle outside the shop last night.",
+      "prompt": "Type the exact place-and-time phrase you hear after \"his bicycle\".",
+      "acceptedAnswers": [
+        "outside the shop last night"
+      ],
+      "feedback": "The audio says the bicycle was left outside the shop, and gives last night as the time."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We printed the tickets at the hotel before dinner.",
+      "prompt": "Type the exact place-and-time phrase heard after \"the tickets\".",
+      "acceptedAnswers": [
+        "at the hotel before dinner"
+      ],
+      "feedback": "This combines location at the hotel with time before dinner."
+    }
+  ]
+}

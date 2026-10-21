@@ -1,0 +1,419 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u081",
+  "title": "Possessive 's and of: People, Things and Time",
+  "level": "B2",
+  "topicId": "eg2-u081-possessive-s-of-and-time",
+  "summary": "Choose possessive 's or an of-phrase to show a relationship. Write singular, regular-plural and irregular-plural possessives accurately; recognise possession without a repeated noun; and use possessives with organisations, places and periods of time.",
+  "learningObjectives": [
+    "Use possessive 's naturally for people, animals and relationships, including when the possessed noun is omitted.",
+    "Distinguish singular 's, regular plural s' and irregular plural 's, including shared possession.",
+    "Choose of-phrases for many parts and properties of things, while recognising possessives with organisations and places.",
+    "Form possessive time expressions such as tomorrow's schedule and ten minutes' walk."
+  ],
+  "explanation": [
+    {
+      "heading": "People, animals and an understood noun",
+      "body": "Attach 's to a person or animal to identify something related to them, such as a belonging, family member or feature. If the object is already clear, the possessive may stand alone: It is Zara's. The ending can also describe intended users, as in a children's programme; literal ownership is not required.",
+      "example": "The keys are Marcus's, but the umbrella is his sister's."
+    },
+    {
+      "heading": "Singular, regular plural and irregular plural",
+      "body": "A singular owner normally takes 's: the editor's desk. A regular plural ending in s takes only a final apostrophe: the editors' desks. Irregular plurals without final s take 's: the children's books. Put the possessive on the last name in a jointly owned expression, as in Eva and Dan's flat. Distinguish these meanings from an ordinary plural with no apostrophe.",
+      "example": "The cyclists' helmets were stored beside the children's bicycles."
+    },
+    {
+      "heading": "Using of for parts, properties and longer noun groups",
+      "body": "Of is generally natural when one thing is a part of another or when a phrase identifies its name, position or physical property: the edge of the pavement; the title of the report. For complicated descriptions of a person, an of-phrase can be clearer than attaching 's to a long noun group. The pattern is a preference, not a claim that all nonhuman possessives are impossible.",
+      "example": "We examined the back of the clock and the label on the box."
+    },
+    {
+      "heading": "Organisations, locations and alternative structures",
+      "body": "Organisations and places often permit either structure: the council's plan or the plan of the council; the town's history or the history of the town. Choose the version that sounds natural and keeps the relationship easy to understand. This flexibility differs from the common use of of for physical parts of an object.",
+      "example": "The university's research centre will open next spring."
+    },
+    {
+      "heading": "Time references and durations",
+      "body": "Use 's with a singular time expression or a named time reference: an hour's delay, yesterday's message, Thursday's workshop. For a plural period ending in s, put the apostrophe after s: two hours' notice, three days' leave. These are possessive duration expressions, not hyphenated noun modifiers such as a two-hour delay.",
+      "example": "The campsite is only fifteen minutes' walk from the beach."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A person-related possessive versus a part of an object",
+      "left": {
+        "label": "A person's relationship",
+        "example": "Dina's supervisor called this morning.",
+        "note": "The person Dina is connected to is naturally introduced with 's."
+      },
+      "right": {
+        "label": "A part of an object",
+        "example": "The handle of the suitcase is loose.",
+        "note": "Of commonly identifies physical parts and their whole."
+      }
+    },
+    {
+      "title": "Regular plurals and irregular plurals",
+      "left": {
+        "label": "Regular plural in -s",
+        "example": "The dancers' shoes are in the hall.",
+        "note": "Dancers already ends in s, so add an apostrophe only."
+      },
+      "right": {
+        "label": "Irregular plural without -s",
+        "example": "The women's coats are in the hall.",
+        "note": "Women has no final s, so add 's."
+      }
+    },
+    {
+      "title": "A possessive duration versus a compound modifier",
+      "left": {
+        "label": "Duration + possessive",
+        "example": "The village is two hours' drive away.",
+        "note": "Use the plural time possessive, without an article."
+      },
+      "right": {
+        "label": "Modifier + noun",
+        "example": "The village is a two-hour drive away.",
+        "note": "A hyphenated modifier precedes the noun and uses singular hour."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I left the parcel at Sofia's because nobody was at home.",
+      "note": "The possessive stands alone: Sofia's means Sofia's home in this context."
+    },
+    {
+      "sentence": "The engineers' presentation was delayed by a network problem.",
+      "note": "A regular plural ending in s takes an apostrophe after s."
+    },
+    {
+      "sentence": "The children's art exhibition opens on Friday.",
+      "note": "Children is an irregular plural and takes 's."
+    },
+    {
+      "sentence": "The end of the corridor is poorly lit.",
+      "note": "Of naturally relates the end to the corridor."
+    },
+    {
+      "sentence": "Next month's timetable includes two days' training.",
+      "note": "Use 's for a named singular time period and s' for a plural duration."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The musicians's instruments are on stage.",
+      "correct": "The musicians' instruments are on stage.",
+      "why": "Musicians is a regular plural ending in s; the possessive adds only an apostrophe."
+    },
+    {
+      "incorrect": "The womens' changing area is upstairs.",
+      "correct": "The women's changing area is upstairs.",
+      "why": "Women is an irregular plural that does not end in s, so add 's."
+    },
+    {
+      "incorrect": "Our managers office is upstairs.",
+      "correct": "Our manager's office is upstairs.",
+      "why": "The singular owner manager needs 's before office."
+    },
+    {
+      "incorrect": "They gave us three days's notice.",
+      "correct": "They gave us three days' notice.",
+      "why": "The plural time period days ends in s, so put the apostrophe after s."
+    }
+  ],
+  "studyTips": [
+    "Identify the owner or reference word before placing the apostrophe; check whether that word is singular, a regular plural or an irregular plural.",
+    "Practise pairs with the same meaning, such as the city's plan and the plan of the city, then contrast them with physical-part expressions using of.",
+    "Write three time expressions: one named day, one singular duration and one plural duration; verify 's versus s' in each."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Only one neighbour owns this bicycle. ___ bicycle was left by the library.",
+      "choices": [
+        "My neighbour's",
+        "My neighbours",
+        "My neighbours'"
+      ],
+      "answerIndex": 0,
+      "feedback": "One singular neighbour is the owner, so use neighbour's."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Five players share the storage area. The ___ equipment was moved to another room.",
+      "choices": [
+        "player's",
+        "players'",
+        "players"
+      ],
+      "answerIndex": 1,
+      "feedback": "The owners are plural players. Because players ends in s, the possessive is players'."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The books belong to several children. They are the ___ books.",
+      "choices": [
+        "childrens'",
+        "childrens",
+        "children's"
+      ],
+      "answerIndex": 2,
+      "feedback": "Children is an irregular plural without a final s, so it takes 's."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "A draft report needs one change in its final paragraph. Please reread ___ before sending it.",
+      "choices": [
+        "the final paragraph's report",
+        "the final paragraph of the report",
+        "the report of the final paragraph"
+      ],
+      "answerIndex": 1,
+      "feedback": "The final paragraph of the report naturally identifies one part of a document."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Two interns share one workstation. It is the ___ workstation. (interns; write the possessive noun)",
+      "acceptedAnswers": [
+        "interns'"
+      ],
+      "feedback": "The regular plural interns takes an apostrophe after s."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The toys belong to several children. We have put the ___ toys away. (children; write the possessive noun)",
+      "acceptedAnswers": [
+        "children's"
+      ],
+      "feedback": "Children is irregular plural; children's is the possessive form."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The briefing is scheduled for tomorrow. ___ briefing begins at nine. (tomorrow; write the possessive time word)",
+      "acceptedAnswers": [
+        "Tomorrow's"
+      ],
+      "feedback": "A named time reference takes 's: tomorrow's briefing."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The hostel is ___ from the station. (ten / minutes / walk; use the plural time possessive)",
+      "acceptedAnswers": [
+        "ten minutes' walk"
+      ],
+      "feedback": "The plural period minutes takes the apostrophe after s; no article or hyphen is needed."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The three teachers's notes are on the table.",
+      "acceptedAnswers": [
+        "The three teachers' notes are on the table."
+      ],
+      "feedback": "Three teachers is plural; attach the apostrophe after the final s."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: That is the childrens' reading room.",
+      "acceptedAnswers": [
+        "That is the children's reading room."
+      ],
+      "feedback": "Use children's because children has no final plural s."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The manager office is on the third floor.",
+      "acceptedAnswers": [
+        "The manager's office is on the third floor."
+      ],
+      "feedback": "The singular person manager needs 's to show whose office it is."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We have two weeks's leave in December.",
+      "acceptedAnswers": [
+        "We have two weeks' leave in December."
+      ],
+      "feedback": "The plural duration weeks takes only an apostrophe after s."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "The backpack belongs to Hana. Say one complete sentence beginning 'This is' and ending 'backpack'. Use the possessive.",
+      "acceptedAnswers": [
+        "This is Hana's backpack."
+      ],
+      "feedback": "Use 's after Hana to show who owns the backpack."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Three translators share a workspace. Say one complete sentence beginning 'It' (you may contract is) and ending 'workspace'. Use the plural possessive translators'.",
+      "acceptedAnswers": [
+        "It is the translators' workspace.",
+        "It's the translators' workspace."
+      ],
+      "feedback": "A plural owner ending in s takes an apostrophe: translators'."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "The children own the costumes. Begin with 'These are' and end with 'costumes'. Use the irregular-plural possessive.",
+      "acceptedAnswers": [
+        "These are the children's costumes."
+      ],
+      "feedback": "Children is an irregular plural, so add 's."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You reached the top of the lighthouse. Say one complete sentence beginning 'We reached' and ending 'the lighthouse'. Use an of-phrase.",
+      "acceptedAnswers": [
+        "We reached the top of the lighthouse."
+      ],
+      "feedback": "Of identifies the physical top of a structure."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "A briefing is tomorrow and starts at nine. Start with 'Tomorrow's' and state the complete fact.",
+      "acceptedAnswers": [
+        "Tomorrow's briefing starts at nine."
+      ],
+      "feedback": "The day word tomorrow takes 's before briefing."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A committee made a decision. Rephrase 'The decision of the committee was unanimous' using the possessive and starting 'The committee's'.",
+      "acceptedAnswers": [
+        "The committee's decision was unanimous."
+      ],
+      "feedback": "The possessive of an organisation is a natural alternative to of."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Produce exactly two sentences. Fact one: the meeting is next week and begins at noon. Fact two: the organiser's notes are ready. Start with 'Next week's' and then 'The organiser's'.",
+      "acceptedAnswers": [
+        "Next week's meeting begins at noon. The organiser's notes are ready."
+      ],
+      "feedback": "Both a time reference and a person can form possessives with 's."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Someone asks whose phone this is. It belongs to your brother, not you. Answer using a single sentence beginning 'It' and ending with 'brother's'; do not repeat the word phone.",
+      "acceptedAnswers": [
+        "It's my brother's.",
+        "It is my brother's."
+      ],
+      "feedback": "A possessive can stand alone when the possessed noun is understood."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "prompt": "What has changed at the library?",
+      "choices": [
+        "Its opening times.",
+        "Its address.",
+        "Its membership rules."
+      ],
+      "answerIndex": 0,
+      "feedback": "The changed feature is the library's opening hours, not its location.",
+      "audioText": "The library's opening hours have changed, but it is still on the same street."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "prompt": "Which bicycles are blue?",
+      "choices": [
+        "Their father's bicycle.",
+        "The twins' bicycles.",
+        "All three bicycles."
+      ],
+      "answerIndex": 1,
+      "feedback": "The plural possessive twins' refers to the two siblings, whose bicycles are blue.",
+      "audioText": "The twins' bicycles are blue, while their father's bicycle is red."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "prompt": "Type the single possessive word immediately after 'Our'.",
+      "acceptedAnswers": [
+        "children's"
+      ],
+      "feedback": "The irregular plural children takes 's to describe whose drawings they are.",
+      "audioText": "Our children's drawings are displayed in the main hall."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "prompt": "When did Priya thank the volunteers?",
+      "choices": [
+        "Before the presentation started.",
+        "During the room setup.",
+        "After the presentation finished."
+      ],
+      "answerIndex": 2,
+      "feedback": "At the end of the presentation places the thanks at its conclusion.",
+      "audioText": "At the end of the presentation, Priya thanked the volunteers who had set up the room."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "prompt": "Why does the speaker think a taxi is unnecessary?",
+      "choices": [
+        "The destination is a short walk away.",
+        "The theatre provides free taxis.",
+        "The waterfront is closed."
+      ],
+      "answerIndex": 0,
+      "feedback": "Fifteen minutes' walk describes a manageable walking distance.",
+      "audioText": "It is fifteen minutes' walk from the theatre to the waterfront, so we do not need a taxi."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "prompt": "Whose statement was published?",
+      "choices": [
+        "The museum director's.",
+        "The city council's.",
+        "Both statements."
+      ],
+      "answerIndex": 1,
+      "feedback": "Only the city council's statement appeared online.",
+      "audioText": "The museum director's statement was kept private, but the city council's statement appeared online."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "prompt": "Type the two-word possessive noun phrase immediately after 'my'.",
+      "acceptedAnswers": [
+        "aunt's camera"
+      ],
+      "feedback": "Aunt's camera identifies the relative and the borrowed object.",
+      "audioText": "I borrowed my aunt's camera for the weekend because my own camera is broken."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "prompt": "Type the first two words of the sentence.",
+      "acceptedAnswers": [
+        "Yesterday's storm"
+      ],
+      "feedback": "Yesterday's is a time possessive modifying storm.",
+      "audioText": "Yesterday's storm damaged the wooden fence behind our house."
+    }
+  ]
+}

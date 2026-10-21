@@ -3896,9 +3896,1170 @@
         "B1",
         "B2"
       ],
-      "status": "planned",
-      "provider": null,
-      "units": []
+      "status": "available",
+      "provider": "grammar",
+      "units": [
+        {
+          "id": "eg2-u001",
+          "number": 1,
+          "title": "Present continuous: actions in progress",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u002",
+          "number": 2,
+          "title": "Present simple: routines and general facts",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u003",
+          "number": 3,
+          "title": "Present simple or continuous: meaning and context",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u004",
+          "number": 4,
+          "title": "Present forms: states, senses and behaviour",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u005",
+          "number": 5,
+          "title": "Past simple: finished actions, questions and negatives",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u006",
+          "number": 6,
+          "title": "Past continuous: actions in progress and interruptions",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u007",
+          "number": 7,
+          "title": "Present perfect: recent events and present results",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u008",
+          "number": 8,
+          "title": "Present perfect: life experience and unfinished time",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u009",
+          "number": 9,
+          "title": "Present perfect continuous: ongoing and recent activity",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u010",
+          "number": 10,
+          "title": "Present perfect simple vs continuous: results and activity",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u011",
+          "number": 11,
+          "title": "How long? States and activities continuing until now",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u012",
+          "number": 12,
+          "title": "For, since, when and how long",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u013",
+          "number": 13,
+          "title": "Present perfect and past simple: present results and past events",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u014",
+          "number": 14,
+          "title": "Present perfect and past simple: finished and unfinished time",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u015",
+          "number": 15,
+          "title": "Past perfect: events before another past moment",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u016",
+          "number": 16,
+          "title": "Past perfect continuous: earlier activities and duration",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u017",
+          "number": 17,
+          "title": "Have and have got: states, possession and activities",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u018",
+          "number": 18,
+          "title": "Used to: past habits and states that changed",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u019",
+          "number": 19,
+          "title": "Future Arrangements and Timetables",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u020",
+          "number": 20,
+          "title": "Going To: Intentions and Predictions",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u021",
+          "number": 21,
+          "title": "Will for Decisions, Offers and Promises",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u022",
+          "number": 22,
+          "title": "Will for Predictions and Expectations",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u023",
+          "number": 23,
+          "title": "Will or going to: decisions and predictions",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u024",
+          "number": 24,
+          "title": "Future continuous and future perfect",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u025",
+          "number": 25,
+          "title": "Future time clauses: when, if and completion",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u026",
+          "number": 26,
+          "title": "Can, could and be able to: ability and success",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u027",
+          "number": 27,
+          "title": "Could and could have: possibilities and missed options",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u028",
+          "number": 28,
+          "title": "Must and can’t: deductions now and in the past",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u029",
+          "number": 29,
+          "title": "May and might: uncertain present and past",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u030",
+          "number": 30,
+          "title": "May and might: future possibilities and alternatives",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u031",
+          "number": 31,
+          "title": "Have to and must: obligation and necessity",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u032",
+          "number": 32,
+          "title": "Mustn’t and needn’t: prohibition and unnecessary actions",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u033",
+          "number": 33,
+          "title": "Should and ought to: advice, expectations and past judgments",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u034",
+          "number": 34,
+          "title": "Should in recommendations, reactions and formal conditions",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u035",
+          "number": 35,
+          "title": "Had better and it’s time: urgency and overdue action",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u036",
+          "number": 36,
+          "title": "Would: imagined situations, past alternatives and habits",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u037",
+          "number": 37,
+          "title": "Polite Requests, Permission, Offers and Invitations",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u038",
+          "number": 38,
+          "title": "Real and Hypothetical If-Conditions",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u039",
+          "number": 39,
+          "title": "Unreal Present Conditions and Wishes",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u040",
+          "number": 40,
+          "title": "Past Counterfactuals and Regrets",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u041",
+          "number": 41,
+          "title": "Wish: Regrets, Hopes and Desired Changes",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u042",
+          "number": 42,
+          "title": "Passive Voice: Present and Past Simple",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u043",
+          "number": 43,
+          "title": "Passive forms: perfect, continuous and modal",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u044",
+          "number": 44,
+          "title": "Passive structures: two objects, being and get",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u045",
+          "number": 45,
+          "title": "Reporting Beliefs and Expectations",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u046",
+          "number": 46,
+          "title": "Have and Get Something Done",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u047",
+          "number": 47,
+          "title": "Reported Speech: Statements and Backshift",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u048",
+          "number": 48,
+          "title": "Reported Speech: Meaning, Say and Tell",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u049",
+          "number": 49,
+          "title": "Direct Questions: Word Order and Meaning",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u050",
+          "number": 50,
+          "title": "Indirect and Reported Questions",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u051",
+          "number": 51,
+          "title": "Auxiliary Verbs: Short Replies and Agreement",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u052",
+          "number": 52,
+          "title": "Question Tags: Checking and Confirming",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u053",
+          "number": 53,
+          "title": "Verb + -ing: Actions and Reactions",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u054",
+          "number": 54,
+          "title": "Verb + to-infinitive: Plans, Claims and Choices",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u055",
+          "number": 55,
+          "title": "Verb + Object + Infinitive",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u056",
+          "number": 56,
+          "title": "Remember, Regret and Go On: -ing or To",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u057",
+          "number": 57,
+          "title": "Try, Need and Help: Choosing the Verb Form",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u058",
+          "number": 58,
+          "title": "Like, Would Like and Past Wishes",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u059",
+          "number": 59,
+          "title": "Prefer and Would Rather: Expressing Choices",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u060",
+          "number": 60,
+          "title": "Prepositions Followed by -ing",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u061",
+          "number": 61,
+          "title": "Be Used to and Get Used to",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u062",
+          "number": 62,
+          "title": "Verb + Preposition + -ing",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u063",
+          "number": 63,
+          "title": "Worth Doing and Other -ing Expressions",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u064",
+          "number": 64,
+          "title": "Expressing Purpose: To, For and So That",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u065",
+          "number": 65,
+          "title": "Adjectives Followed by To-Infinitives",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u066",
+          "number": 66,
+          "title": "To-Infinitives and Preposition + -ing",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u067",
+          "number": 67,
+          "title": "See and Hear Someone Do or Doing",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u068",
+          "number": 68,
+          "title": "-ing Clauses for Time, Reason and Sequence",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u069",
+          "number": 69,
+          "title": "Countable and Uncountable Nouns: Basic Patterns",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u070",
+          "number": 70,
+          "title": "Countable and Uncountable Nouns: Changes in Meaning",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u071",
+          "number": 71,
+          "title": "Singular Countable Nouns, A/An and Some",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u072",
+          "number": 72,
+          "title": "A/An and The: Introducing and Identifying Nouns",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u073",
+          "number": 73,
+          "title": "The: Unique Things, Fixed Phrases and Labels",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u074",
+          "number": 74,
+          "title": "Institutional Places: School, Hospital, Work and Home",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u075",
+          "number": 75,
+          "title": "The: General Ideas and Specific Groups",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u076",
+          "number": 76,
+          "title": "The: Species, Instruments and People Groups",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u077",
+          "number": 77,
+          "title": "Proper names: Places, geography and regions",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u078",
+          "number": 78,
+          "title": "Proper names: Streets, buildings and organisations",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u079",
+          "number": 79,
+          "title": "Singular and plural: forms and agreement",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u080",
+          "number": 80,
+          "title": "Compound nouns: meaning, order and measurement",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u081",
+          "number": 81,
+          "title": "Possessive 's and of: People, Things and Time",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u082",
+          "number": 82,
+          "title": "Reflexive Pronouns: Same Person, Emphasis and Each Other",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u083",
+          "number": 83,
+          "title": "A Friend of Mine, My Own and Being Alone",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u084",
+          "number": 84,
+          "title": "There and It: Existence, Reference and Situation",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u085",
+          "number": 85,
+          "title": "Some and Any: Expectations, Questions and Free Choice",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u086",
+          "number": 86,
+          "title": "No, None and Negative Pronouns",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u087",
+          "number": 87,
+          "title": "Quantifiers: Much, Many, Few, Little and Plenty",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u088",
+          "number": 88,
+          "title": "All, Most, Some and None: Groups and Of-Phrases",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u089",
+          "number": 89,
+          "title": "Both, Neither and Either: Choosing Between Two",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u090",
+          "number": 90,
+          "title": "All, Every and Whole: Totality and Frequency",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u091",
+          "number": 91,
+          "title": "Each and Every",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u092",
+          "number": 92,
+          "title": "Defining Relative Clauses: Who, That and Which",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u093",
+          "number": 93,
+          "title": "Relative Clauses: When You Can Leave Out the Pronoun",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u094",
+          "number": 94,
+          "title": "Relative Clauses: Whose, Whom and Where",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u095",
+          "number": 95,
+          "title": "Non-defining relative clauses: adding extra details",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u096",
+          "number": 96,
+          "title": "Non-defining clauses: prepositions and quantifiers",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u097",
+          "number": 97,
+          "title": "Reduced relative clauses: -ing and past participles",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u098",
+          "number": 98,
+          "title": "-ing and -ed adjectives: causes and feelings",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u099",
+          "number": 99,
+          "title": "Adjective order and adjectives after linking verbs",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u100",
+          "number": 100,
+          "title": "Adjectives and adverbs: describing things and actions",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u101",
+          "number": 101,
+          "title": "Good, well, fast, hard, late and hardly",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u102",
+          "number": 102,
+          "title": "So and such: degree, noun phrases and results",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u103",
+          "number": 103,
+          "title": "Enough and Too: Amounts, Degree and Ability",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u104",
+          "number": 104,
+          "title": "Quite, Pretty, Rather and Fairly: Degrees and Nuance",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u105",
+          "number": 105,
+          "title": "Comparative Forms: -er, More and Irregular Changes",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u106",
+          "number": 106,
+          "title": "Comparatives: Degree, Change and Linked Results",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u107",
+          "number": 107,
+          "title": "As ... As, Less Than and Equal Comparisons",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u108",
+          "number": 108,
+          "title": "Superlatives: The Best, The Most and -est Forms",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u109",
+          "number": 109,
+          "title": "Natural Word Order: Objects, Place and Time",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u110",
+          "number": 110,
+          "title": "Adverb Position with Main Verbs and Auxiliaries",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u111",
+          "number": 111,
+          "title": "Still, Any More, Yet and Already",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u112",
+          "number": 112,
+          "title": "Even: Unexpected Facts and Concessions",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u113",
+          "number": 113,
+          "title": "Although, Though, Despite and In Spite Of",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u114",
+          "number": 114,
+          "title": "In Case: Precautions and Possible Events",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u115",
+          "number": 115,
+          "title": "Unless, As Long As and Provided",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u116",
+          "number": 116,
+          "title": "As: Simultaneous Events and Reasons",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u117",
+          "number": 117,
+          "title": "Like and As: Similarity, Manner and Roles",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u118",
+          "number": 118,
+          "title": "Like and As If: Appearances and Hypothetical Impressions",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u119",
+          "number": 119,
+          "title": "During, For and While: Time and Duration",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u120",
+          "number": 120,
+          "title": "By, Until and By the Time: Deadlines and Endpoints",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u121",
+          "number": 121,
+          "title": "At, On and In: Expressions of Time",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u122",
+          "number": 122,
+          "title": "On Time, In Time, At the End and In the End",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u123",
+          "number": 123,
+          "title": "In, At and On: Basic Positions",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u124",
+          "number": 124,
+          "title": "In, At and On: Location Expressions",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u125",
+          "number": 125,
+          "title": "In, At and On: Places, Events and Transport",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u126",
+          "number": 126,
+          "title": "To, At, In and Into: Movement and Arrival",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u127",
+          "number": 127,
+          "title": "In, on and at: Everyday Expressions",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u128",
+          "number": 128,
+          "title": "By: Method, Agent, Position and Difference",
+          "level": "B1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u129",
+          "number": 129,
+          "title": "Nouns and Their Prepositions",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u130",
+          "number": 130,
+          "title": "Adjectives with Prepositions: People and Reactions",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u131",
+          "number": 131,
+          "title": "Adjectives with Prepositions: Qualities and Relationships",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u132",
+          "number": 132,
+          "title": "Verb and Preposition Patterns: To and At",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u133",
+          "number": 133,
+          "title": "Verb and Preposition Patterns: About, For, Of and After",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u134",
+          "number": 134,
+          "title": "Verb and Preposition Contrasts: About and Of",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u135",
+          "number": 135,
+          "title": "Verb and Preposition Patterns: Of, For, From and On",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u136",
+          "number": 136,
+          "title": "Verb and Preposition Patterns: In, Into, With, To and On",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u137",
+          "number": 137,
+          "title": "Phrasal Verbs: Meaning, Patterns and Object Position",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u138",
+          "number": 138,
+          "title": "Phrasal Verbs with In and Out",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u139",
+          "number": 139,
+          "title": "Phrasal Verbs with Out: Discovery, Results and Completion",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u140",
+          "number": 140,
+          "title": "Phrasal Verbs with On and Off: Devices, Events and Movement",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u141",
+          "number": 141,
+          "title": "Phrasal Verbs with On and Off: Continuation, Relationships and Reactions",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u142",
+          "number": 142,
+          "title": "Phrasal Verbs with Up and Down: Movement, Reduction and Results",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u143",
+          "number": 143,
+          "title": "Phrasal Verbs with Up: Progress, Beginnings and Outcomes",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u144",
+          "number": 144,
+          "title": "Phrasal Verbs with Up: Ideas, Reactions and Difficulties",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg2-u145",
+          "number": 145,
+          "title": "Phrasal Verbs with Away and Back: Leaving, Returning and Responding",
+          "level": "B2",
+          "provider": "grammar",
+          "activityCount": 28
+        }
+      ]
     },
     {
       "id": "english-grammar-3",
@@ -4564,6 +5725,6 @@
       "units": []
     }
   ],
-  "totalUnits": 537,
-  "availableBooks": 6
+  "totalUnits": 682,
+  "availableBooks": 7
 }

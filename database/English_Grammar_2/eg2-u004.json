@@ -1,0 +1,412 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u004",
+  "title": "Present forms: states, senses and behaviour",
+  "level": "B2",
+  "topicId": "eg2-u004-stative-verbs-and-behaviour",
+  "summary": "Use present-simple forms for states such as knowledge, needs and possession, while allowing continuous forms when a verb describes an activity or a temporary way of behaving. Distinguish think as an opinion from think as active consideration, and handle sense verbs and being accurately.",
+  "learningObjectives": [
+    "Recognise common state verbs that normally take present simple rather than present continuous.",
+    "Choose between think for an opinion and be thinking for ongoing consideration.",
+    "Use sense verbs appropriately and recognise when look and feel can take either present form.",
+    "Contrast a person’s usual qualities with how they are being or behaving for a limited time."
+  ],
+  "explanation": [
+    {
+      "heading": "States are not usually actions in progress",
+      "body": "Many verbs express a condition, relationship, thought or preference rather than something that unfolds moment by moment. Know, understand, remember, need, want, believe, belong, contain, consist, seem and fit therefore normally take a simple form, even when the state is true now. Saying right now does not automatically make the continuous correct.",
+      "example": "The access code belongs to the building manager, and I don’t know who has the spare key."
+    },
+    {
+      "heading": "Think: opinion or mental activity",
+      "body": "Use I think when think means believe, suppose or give an opinion. Use am/is/are thinking when the person is actively considering an option or reflecting on something. The two forms can appear together when someone has a view but is still weighing up what to do.",
+      "example": "I think the plan is sensible, but I’m thinking about changing the order of the tasks."
+    },
+    {
+      "heading": "Sense verbs and physical perception",
+      "body": "See, hear, smell and taste generally take the present simple when they describe what someone perceives or how something comes across to the senses. Can is also common with see or hear. The continuous may be possible in other meanings, but it is not the normal choice for straightforward perception.",
+      "example": "I can hear a low humming sound, and the room smells of fresh paint."
+    },
+    {
+      "heading": "Look and feel: two natural choices",
+      "body": "When describing someone’s current appearance or physical condition, both simple and continuous forms may be natural: you look or you’re looking tired; I feel or I’m feeling better. To describe a usual pattern such as how someone feels each morning, prefer the simple form. Avoid treating every appearance or feeling expression as a fixed action rule.",
+      "example": "You look much more relaxed today, and I’m feeling better after a short rest."
+    },
+    {
+      "heading": "Be versus being: character and current conduct",
+      "body": "Use is/are to describe a stable quality or a present state. Use is/are being to comment on someone’s controllable behaviour during a particular situation, often unusual conduct: he is being impatient, not he is always impatient. Being does not normally describe uncontrollable states such as being exhausted, ill or hungry.",
+      "example": "Ethan is usually considerate, but he’s being rather dismissive during this discussion."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Think as belief versus think as consideration",
+      "left": {
+        "label": "Belief or opinion",
+        "example": "I think the figures are accurate.",
+        "note": "Think reports what the speaker believes at present."
+      },
+      "right": {
+        "label": "Active consideration",
+        "example": "I’m thinking about asking for another estimate.",
+        "note": "Am thinking presents an idea that the speaker is actively considering."
+      }
+    },
+    {
+      "title": "Usual character versus temporary conduct",
+      "left": {
+        "label": "General quality",
+        "example": "Our supervisor is patient with trainees.",
+        "note": "Is describes how the person generally is."
+      },
+      "right": {
+        "label": "Conduct in this situation",
+        "example": "Our supervisor is being unusually impatient today.",
+        "note": "Is being focuses on behaviour the person is showing now."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "This pass belongs to someone in the marketing team.",
+      "note": "Belongs names a relationship of ownership rather than a developing action."
+    },
+    {
+      "sentence": "I don’t understand the final step in these instructions.",
+      "note": "Understand normally expresses a mental state and takes a simple negative."
+    },
+    {
+      "sentence": "Are you thinking about moving closer to the station?",
+      "note": "Are thinking about asks whether the person is actively considering a possibility."
+    },
+    {
+      "sentence": "The coffee tastes a little bitter, although it smells lovely.",
+      "note": "Taste and smell describe sensory qualities in the simple form."
+    },
+    {
+      "sentence": "You’re being very generous with your time today.",
+      "note": "Being describes a particular display of generous behaviour; the continuous need not be negative."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I am not remembering the password now.",
+      "correct": "I do not remember the password now.",
+      "why": "Remember describes the present state of memory, not a progressive activity."
+    },
+    {
+      "incorrect": "I am thinking this route is safer than the other one.",
+      "correct": "I think this route is safer than the other one.",
+      "why": "Think expressing an opinion normally takes the present simple."
+    },
+    {
+      "incorrect": "The air is smelling strange in this room.",
+      "correct": "The air smells strange in this room.",
+      "why": "Smell describing the perceived quality of the air normally uses the simple form."
+    },
+    {
+      "incorrect": "My neighbour is being ill this week.",
+      "correct": "My neighbour is ill this week.",
+      "why": "Ill is a health state, not controllable behaviour; is being is not appropriate here."
+    }
+  ],
+  "studyTips": [
+    "Sort verbs into states (know, need, belong) and actions (review, search, discuss). Ask what the verb means before choosing a tense.",
+    "Build two examples with think: one clear belief beginning with I think, and one ongoing decision beginning with I’m thinking about.",
+    "Contrast is with is being in paired descriptions of a person’s usual character and their conduct in a particular moment."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "I ___ why this document needs a second signature; nobody has explained it.",
+      "choices": [
+        "am not understanding",
+        "do not understand",
+        "not understand"
+      ],
+      "answerIndex": 1,
+      "feedback": "Understand describes a mental state; the ordinary present-simple negative is do not understand."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "We haven’t decided yet. My partner ___ about accepting the new job offer.",
+      "choices": [
+        "is thinking",
+        "thinks",
+        "think"
+      ],
+      "answerIndex": 0,
+      "feedback": "Is thinking about describes an option under active consideration, not a settled belief."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The label says this small box ___ twelve replacement filters.",
+      "choices": [
+        "containing",
+        "is containing",
+        "contains"
+      ],
+      "answerIndex": 2,
+      "feedback": "Contains describes what the box has inside; use the present simple with this singular subject."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Why are you ___ so impatient with the new trainee today? You are normally helpful.",
+      "choices": [
+        "be",
+        "being",
+        "been"
+      ],
+      "answerIndex": 1,
+      "feedback": "Are being highlights the way someone is behaving at the moment; after are, use being."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "I ___ (not / believe) that explanation, even after hearing it twice. Write the present-simple negative verb phrase.",
+      "acceptedAnswers": [
+        "do not believe",
+        "don't believe"
+      ],
+      "feedback": "Believe expresses a state of mind, so use do not believe or don’t believe."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Give me a minute; I ___ (think) about how to reply to that message. Write the present-continuous words after I.",
+      "acceptedAnswers": [
+        "am thinking"
+      ],
+      "feedback": "The speaker is actively considering a reply: am thinking."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The sauce ___ (smell) slightly sour, so I would not serve it. Write the present-simple form.",
+      "acceptedAnswers": [
+        "smells"
+      ],
+      "feedback": "Smell describes the quality noticed by the speaker; sauce is singular, so use smells."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Please stop interrupting. You ___ (be) unusually impatient in this conversation. Use the continuous form of be.",
+      "acceptedAnswers": [
+        "are being"
+      ],
+      "feedback": "Are being points to current controllable behaviour, not a lasting trait."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I am not knowing why the side door is locked.",
+      "acceptedAnswers": [
+        "I do not know why the side door is locked.",
+        "I don't know why the side door is locked."
+      ],
+      "feedback": "Know is a state verb, so use the present-simple negative do not know."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The engineer is thinking the revised drawing is correct.",
+      "acceptedAnswers": [
+        "The engineer thinks the revised drawing is correct."
+      ],
+      "feedback": "Think means has an opinion about the drawing here, so use thinks."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: This suitcase is belonging to one of the guests.",
+      "acceptedAnswers": [
+        "This suitcase belongs to one of the guests."
+      ],
+      "feedback": "Belong describes ownership; this suitcase belongs, not is belonging."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: You are being exhausted after that long journey.",
+      "acceptedAnswers": [
+        "You are exhausted after that long journey.",
+        "You're exhausted after that long journey."
+      ],
+      "feedback": "Exhausted names a physical state, not a behaviour someone is choosing to display."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one complete sentence with these facts: I / understand / the instructions. Use the present simple and begin with \"I\".",
+      "acceptedAnswers": [
+        "I understand the instructions."
+      ],
+      "feedback": "Understand expresses a mental state, so use the present simple."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say a negative statement with these facts: Mila / not / remember / the address. Use the present simple and begin with \"Mila\".",
+      "acceptedAnswers": [
+        "Mila does not remember the address.",
+        "Mila doesn't remember the address."
+      ],
+      "feedback": "Remember describes memory; Mila takes does not or doesn’t before remember."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Make one sentence about an ongoing decision: Daniel / think about / changing his job. Start with \"Daniel\" and use the present continuous.",
+      "acceptedAnswers": [
+        "Daniel is thinking about changing his job.",
+        "Daniel's thinking about changing his job."
+      ],
+      "feedback": "Is thinking about expresses active consideration of an option."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A visitor asks who owns the red bicycle. It is Priya’s. Reply in one sentence beginning \"The red bicycle\" and use the verb \"belong\".",
+      "acceptedAnswers": [
+        "The red bicycle belongs to Priya."
+      ],
+      "feedback": "Belongs expresses ownership; use the present simple."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Describe a person’s current conduct. Facts: You / be / unusually rude / today. Begin with \"You\" and use the continuous form of be.",
+      "acceptedAnswers": [
+        "You are being unusually rude today.",
+        "You're being unusually rude today."
+      ],
+      "feedback": "Are being describes temporary behaviour rather than a fixed characteristic."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Ask for somebody’s opinion about the proposal. Use the exact words: what / you / think / of the proposal? Begin with \"What\" and use the present simple.",
+      "acceptedAnswers": [
+        "What do you think of the proposal?"
+      ],
+      "feedback": "Do you think asks for a person’s opinion, rather than an activity in progress."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the verb and say the full sentence, leaving the other words unchanged: \"The soup is tasting too salty.\"",
+      "acceptedAnswers": [
+        "The soup tastes too salty."
+      ],
+      "feedback": "Taste describing flavour generally takes the present simple."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two sentences in this order, using full forms: \"Maya / normally / be patient\" and \"Today / she / be unusually impatient\". Use simple be in the first and continuous be in the second.",
+      "acceptedAnswers": [
+        "Maya is normally patient. Today she is being unusually impatient."
+      ],
+      "feedback": "Is describes usual character; is being describes temporary conduct today."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I think the appointment starts at three, but I'm thinking about calling to confirm the time.",
+      "prompt": "What is the speaker considering doing?",
+      "choices": [
+        "Cancelling the appointment.",
+        "Arriving three hours early.",
+        "Calling to check the time."
+      ],
+      "answerIndex": 2,
+      "feedback": "I think reports a belief about the time; I’m thinking about calling describes a possible action."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The green jacket looks comfortable, but it doesn't fit me across the shoulders.",
+      "prompt": "Why is the jacket unsuitable for the speaker?",
+      "choices": [
+        "The fit is wrong.",
+        "The colour is too bright.",
+        "The fabric feels unpleasant."
+      ],
+      "answerIndex": 0,
+      "feedback": "Doesn’t fit identifies a present state, not an activity in progress."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I don't remember where I put the spare key.",
+      "prompt": "Type the negative verb phrase immediately after \"I\".",
+      "acceptedAnswers": [
+        "don't remember",
+        "do not remember"
+      ],
+      "feedback": "Don’t remember is the negative present simple for a memory state."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The new team leader is being unusually quiet today. She's normally very talkative.",
+      "prompt": "How is the leader different today?",
+      "choices": [
+        "She is more talkative than usual.",
+        "She is quieter than usual.",
+        "She has stopped working for the team."
+      ],
+      "answerIndex": 1,
+      "feedback": "Is being unusually quiet points to temporary behaviour unlike her usual talkative character."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "This stew smells wonderful, but it tastes far too salty for me.",
+      "prompt": "What is the problem with the stew?",
+      "choices": [
+        "It has no smell.",
+        "It is served too cold.",
+        "It tastes too salty."
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker likes its smell but dislikes the salty taste; both sensory descriptions use present simple."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We're thinking about cancelling the outdoor concert, although we still want to hold it if the forecast improves.",
+      "prompt": "What is the organisers’ current position?",
+      "choices": [
+        "They are considering cancelling, but no final decision is stated.",
+        "They have cancelled and will not reconsider.",
+        "They have no concerns about the concert."
+      ],
+      "answerIndex": 0,
+      "feedback": "Are thinking about shows an option under consideration; want expresses their continuing wish."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The older printer belongs to the office upstairs, not to our team.",
+      "prompt": "Type the one-word verb immediately after \"The older printer\".",
+      "acceptedAnswers": [
+        "belongs"
+      ],
+      "feedback": "Belongs expresses a relationship of ownership, so it uses the simple form."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I can hear people talking in the corridor, but I can't see anyone.",
+      "prompt": "Type the negative verb phrase immediately after \"but I\".",
+      "acceptedAnswers": [
+        "can't see",
+        "cannot see"
+      ],
+      "feedback": "Can’t see describes a lack of visual perception; the contracted and expanded forms are equivalent."
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u131",
+  "title": "Adjectives with Prepositions: Qualities and Relationships",
+  "level": "B2",
+  "topicId": "eg2-u131-adjectives-prepositions-qualities",
+  "summary": "Choose prepositions after adjectives when describing abilities, emotions, awareness, similarity, dependence, interest and responsibility. Learn common adjective patterns as complete phrases rather than applying one general rule.",
+  "learningObjectives": [
+    "Use adjective + of to talk about fears, pride, awareness, capability and typical behaviour.",
+    "Use good/bad at to describe ability and distinguish this from interest in an activity.",
+    "Contrast similar to, different from or to, dependent on and independent of.",
+    "Select on, in, for, with and to in everyday adjective phrases and follow prepositions with nouns or -ing forms when appropriate."
+  ],
+  "explanation": [
+    {
+      "heading": "Feelings, knowledge and capacity with of",
+      "body": "Afraid, frightened and terrified of identify what causes fear. Proud of, ashamed of and jealous of name the person or thing connected with a feeling. Aware of describes knowing that something exists; capable of means having the ability to do it. Typical of names behaviour you expect from a particular person or group. When a verb follows a preposition, use its -ing form: capable of managing, not capable of manage.",
+      "example": "The new volunteers are capable of organising the event without supervision."
+    },
+    {
+      "heading": "Ability uses at, but interest uses in",
+      "body": "Use good, excellent, bad or hopeless at a skill or activity. A skill can be expressed as a noun or an -ing phrase: good at puzzles; good at solving puzzles. Use interested in to describe curiosity or a desire to learn, whether or not someone is skilled. Fond of means liking someone or something, while keen on expresses enthusiasm for an activity or idea.",
+      "example": "Noah is interested in pottery but is still quite bad at shaping clay."
+    },
+    {
+      "heading": "Similarity, difference and personal dependence",
+      "body": "Similar to introduces what something resembles. Different from is a widely accepted choice; different to is also used, especially in British English. Do not use similar with or similar than for this meaning. Dependent on identifies a person or resource needed for support, whereas independent of emphasises freedom from that support. These pairs are not interchangeable simply because their adjectives are opposites.",
+      "example": "The revised plan is similar to the original but independent of the earlier budget."
+    },
+    {
+      "heading": "Responsibility, reputation and certainty",
+      "body": "Responsible for names a duty or the cause of a result. Famous for identifies the quality or achievement that made someone or somewhere well known. Certain or sure of and certain or sure about both introduce a fact you believe; in questions or negatives, either may be natural. Suspicious of and critical of show mistrust or disapproval. Tolerant of describes accepting behaviour or ideas even when you dislike them.",
+      "example": "The shift supervisor is responsible for checking the emergency exits."
+    },
+    {
+      "heading": "With, of and to in states and personal relationships",
+      "body": "Crowded with introduces the people or objects occupying a space, but full of introduces what fills it. Short of identifies something that is lacking, such as staff or time. Married to or engaged to names a partner; married with two children is different, describing family circumstances, not the partner. Combine these fixed expressions with the correct meaning rather than choosing a preposition based on its usual spatial sense.",
+      "example": "The waiting area was crowded with travellers, but the information desk was short of staff."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Having a skill versus wanting to learn",
+      "left": {
+        "label": "good at",
+        "example": "Rosa is good at designing posters.",
+        "note": "At introduces an activity she performs well."
+      },
+      "right": {
+        "label": "interested in",
+        "example": "Rosa is interested in designing websites.",
+        "note": "In introduces an activity that attracts her attention, not necessarily one she can do well."
+      }
+    },
+    {
+      "title": "What you rely on versus freedom from it",
+      "left": {
+        "label": "dependent on",
+        "example": "The garden is dependent on regular watering.",
+        "note": "On names the resource required."
+      },
+      "right": {
+        "label": "independent of",
+        "example": "The new office is independent of the main building.",
+        "note": "Of names something that the office does not rely on."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The actor felt proud of her first successful performance.",
+      "note": "Proud of names the achievement that caused her feeling."
+    },
+    {
+      "sentence": "I was not aware of the change to the train timetable.",
+      "note": "Aware of identifies information the speaker did not know."
+    },
+    {
+      "sentence": "Their daughter is brilliant at remembering faces.",
+      "note": "An -ing activity follows the preposition at."
+    },
+    {
+      "sentence": "The new logo is similar to the one on our old website.",
+      "note": "Similar is followed by to, not with."
+    },
+    {
+      "sentence": "The exhibition is famous for its unusual paper sculptures.",
+      "note": "Famous for identifies what makes the exhibition notable."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "He is very good in explaining difficult ideas.",
+      "correct": "He is very good at explaining difficult ideas.",
+      "why": "Good at introduces a skill, and explaining correctly follows the preposition."
+    },
+    {
+      "incorrect": "Their timetable is similar with ours.",
+      "correct": "Their timetable is similar to ours.",
+      "why": "Use similar to for resemblance."
+    },
+    {
+      "incorrect": "The whole team is responsible of preparing the room.",
+      "correct": "The whole team is responsible for preparing the room.",
+      "why": "Responsible for introduces an assigned duty."
+    },
+    {
+      "incorrect": "My cousin is married with an architect.",
+      "correct": "My cousin is married to an architect.",
+      "why": "Married to names a spouse; married with can introduce details of a family."
+    }
+  ],
+  "studyTips": [
+    "Build adjective cards with a complete short phrase on each: afraid of heights, good at cooking and interested in music.",
+    "Separate adjectives that sound related but take different prepositions: dependent on versus independent of; crowded with versus full of.",
+    "Read each practice sentence aloud with its preposition and replace the noun with a new noun or -ing activity."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Although she has never performed on stage, Alina is very interested ___ acting.",
+      "choices": [
+        "at",
+        "of",
+        "in"
+      ],
+      "answerIndex": 2,
+      "feedback": "Interested in expresses curiosity about an activity; skill would be good at acting."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "After three months of practice, Theo has become quite good ___ fixing bicycles.",
+      "choices": [
+        "at",
+        "in",
+        "of"
+      ],
+      "answerIndex": 0,
+      "feedback": "Good at is the fixed adjective phrase for ability; fixing is an -ing activity."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The volunteers were proud ___ what they had achieved together.",
+      "choices": [
+        "for",
+        "of",
+        "with"
+      ],
+      "answerIndex": 1,
+      "feedback": "Proud of introduces an achievement that gives someone satisfaction."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The community centre is dependent ___ donations to keep its classes free.",
+      "choices": [
+        "of",
+        "to",
+        "on"
+      ],
+      "answerIndex": 2,
+      "feedback": "Dependent on names the support needed for continued operation."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The new badge looks very similar ___ the old design. (Supply the required preposition.)",
+      "acceptedAnswers": [
+        "to"
+      ],
+      "feedback": "Similar to is the standard phrase for resemblance."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "We need somebody who is capable ___ organising the entire event. (Supply one preposition.)",
+      "acceptedAnswers": [
+        "of"
+      ],
+      "feedback": "Capable of is followed by a noun or an -ing verb naming the activity."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The coordinator is responsible ___ updating the attendance list. (Supply one preposition.)",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "Responsible for names a duty assigned to a person."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The small hall was crowded ___ guests waiting for the talk. (Supply one preposition.)",
+      "acceptedAnswers": [
+        "with"
+      ],
+      "feedback": "Crowded with describes a place occupied by many people or objects."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I am not very good in remembering phone numbers.",
+      "acceptedAnswers": [
+        "I am not very good at remembering phone numbers."
+      ],
+      "feedback": "The adjective good takes at before a skill or activity."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Everyone was aware for the change in the meeting time.",
+      "acceptedAnswers": [
+        "Everyone was aware of the change in the meeting time."
+      ],
+      "feedback": "Aware of introduces a fact or circumstance someone knows about."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My parents are independent on financial support from relatives.",
+      "acceptedAnswers": [
+        "My parents are independent of financial support from relatives."
+      ],
+      "feedback": "Independent of means not needing support; dependent on means needing it."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Jules is married with a professional photographer.",
+      "acceptedAnswers": [
+        "Jules is married to a professional photographer."
+      ],
+      "feedback": "Married to introduces the spouse, not married with."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make one complete sentence with these facts: the volunteers / proud / their work. Begin with \"The volunteers are\".",
+      "acceptedAnswers": [
+        "The volunteers are proud of their work."
+      ],
+      "feedback": "Proud of identifies the achievement or work that gives satisfaction."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "A friend asks whether Iris can repair bicycles well. She can. Reply in one sentence beginning \"Iris is good\" and ending \"repairing bicycles\".",
+      "acceptedAnswers": [
+        "Iris is good at repairing bicycles."
+      ],
+      "feedback": "Good at + -ing describes competence in an activity."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Correct only the adjective preposition and say the whole sentence: \"This pattern is similar with that one.\"",
+      "acceptedAnswers": [
+        "This pattern is similar to that one."
+      ],
+      "feedback": "Similar to is the standard construction for resemblance."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Change \"The editor must check every article\" into one sentence beginning \"The editor is responsible\" and ending \"every article\". Use \"checking\".",
+      "acceptedAnswers": [
+        "The editor is responsible for checking every article."
+      ],
+      "feedback": "Responsible for followed by an -ing verb names a duty."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Nina wants to learn astronomy but has no experience yet. Say exactly \"Nina is interested\" followed by the correct preposition and \"astronomy\".",
+      "acceptedAnswers": [
+        "Nina is interested in astronomy."
+      ],
+      "feedback": "Interested in describes curiosity rather than existing skill."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Describe this fact in one complete sentence: the park / famous / its rose garden. Begin with \"The park\".",
+      "acceptedAnswers": [
+        "The park is famous for its rose garden."
+      ],
+      "feedback": "Famous for identifies the feature associated with a place’s reputation."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say two sentences in this order. First: \"The room\" / full / books. Second: \"The corridor\" / crowded / visitors. Use \"is\" in both sentences.",
+      "acceptedAnswers": [
+        "The room is full of books. The corridor is crowded with visitors."
+      ],
+      "feedback": "Full of and crowded with describe two different states with different prepositions."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You do not have enough time to finish a task. Say one complete sentence beginning \"I am short\" and ending \"time\".",
+      "acceptedAnswers": [
+        "I am short of time.",
+        "I'm short of time."
+      ],
+      "feedback": "Short of identifies a resource you do not have enough of."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Maya loves learning new languages, but she is not very good at remembering vocabulary yet.",
+      "prompt": "What is Maya’s current difficulty?",
+      "choices": [
+        "Finding languages interesting",
+        "Remembering new words",
+        "Attending language classes"
+      ],
+      "answerIndex": 1,
+      "feedback": "Good at describes ability: Maya is interested in languages but struggles with vocabulary recall."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The two jackets look similar, but the blue one is different from the green one in its material.",
+      "prompt": "What distinguishes the jackets?",
+      "choices": [
+        "The fabric they are made from",
+        "Their overall shape",
+        "The number of pockets"
+      ],
+      "answerIndex": 0,
+      "feedback": "Different from signals a contrast, and the audio identifies the material."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The gardeners are proud of the flowers they grew for the spring festival.",
+      "prompt": "Type the two-word adjective–preposition phrase heard immediately after \"are\".",
+      "acceptedAnswers": [
+        "proud of"
+      ],
+      "feedback": "Proud of introduces the source of the gardeners’ satisfaction."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Nora is responsible for setting up the microphones. Ben is in charge of welcoming the guests.",
+      "prompt": "Which task belongs to Nora?",
+      "choices": [
+        "Greeting the visitors",
+        "Preparing refreshments",
+        "Setting up sound equipment"
+      ],
+      "answerIndex": 2,
+      "feedback": "Responsible for identifies Nora’s task: setting up the microphones."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Our little café is famous for its lemon cake, although the owner is more proud of the bread.",
+      "prompt": "Which item attracts the café’s reputation?",
+      "choices": [
+        "Its bread",
+        "Its lemon cake",
+        "Its coffee"
+      ],
+      "answerIndex": 1,
+      "feedback": "Famous for identifies the cake, while proud of names the owner’s personal preference."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The waiting room was crowded with passengers, but the small office next door was almost empty.",
+      "prompt": "What was the waiting room like?",
+      "choices": [
+        "It had many people inside.",
+        "It had no visitors.",
+        "It was closed to the public."
+      ],
+      "answerIndex": 0,
+      "feedback": "Crowded with shows that the room contained many passengers, unlike the office."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The children are keen on joining the after-school photography club.",
+      "prompt": "Type the two-word adjective–preposition phrase immediately after \"are\".",
+      "acceptedAnswers": [
+        "keen on"
+      ],
+      "feedback": "Keen on expresses enthusiasm for an activity or proposal."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Our organisation is short of volunteers for the weekend event.",
+      "prompt": "Type the two-word adjective–preposition phrase immediately after \"is\".",
+      "acceptedAnswers": [
+        "short of"
+      ],
+      "feedback": "Short of indicates that the organisation does not have enough volunteers."
+    }
+  ]
+}

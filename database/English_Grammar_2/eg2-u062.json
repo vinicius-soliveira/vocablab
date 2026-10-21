@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u062",
+  "title": "Verb + Preposition + -ing",
+  "level": "B2",
+  "topicId": "eg2-u062-verb-preposition-ing-patterns",
+  "summary": "Use the correct preposition and -ing verb after expressions such as succeed in, insist on and look forward to. Extend the pattern to verbs with a person or object before the preposition, including congratulate someone on and prevent someone from.",
+  "learningObjectives": [
+    "Match common verbs with their required prepositions and an -ing complement.",
+    "Use verb + object + preposition + -ing to describe congratulations, accusations, thanks and prevention.",
+    "Distinguish apology recipients from the reason for apologising, and recognise common passive structures.",
+    "Use not + -ing to express a negative action within the prepositional phrase."
+  ],
+  "explanation": [
+    {
+      "heading": "A verb and preposition can introduce an activity",
+      "body": "Some verbs normally combine with a particular preposition: insist on, succeed in, decide against, dream of, approve of, feel like, think of/about and look forward to. When another activity follows that preposition, use the -ing form. The preposition belongs to the whole verb pattern and cannot usually be exchanged freely without changing the meaning.",
+      "example": "The student succeeded in repairing the damaged model before the exhibition."
+    },
+    {
+      "heading": "Feelings, decisions and anticipation use different prepositions",
+      "body": "Use feel like + -ing for an immediate desire; decide against + -ing for a rejected plan; think of/about + -ing for a possibility; and look forward to + -ing for pleasant anticipation. Dream of + -ing often expresses a hope or imagined achievement. Note that the to in look forward to is a preposition, so a following action needs -ing.",
+      "example": "We decided against moving the picnic indoors because the forecast improved."
+    },
+    {
+      "heading": "Verb + person or object + preposition + -ing",
+      "body": "Other patterns include a person or thing between the main verb and the preposition: congratulate someone on doing something, thank someone for doing something, accuse or suspect someone of doing something, and prevent someone from doing something. Name the person clearly so the listener knows who did which action.",
+      "example": "The editor thanked Mara for checking every figure in the article."
+    },
+    {
+      "heading": "Prevent and stop: blocking an action",
+      "body": "Prevent someone from + -ing and stop someone from + -ing explain why an action could not happen. Stop someone doing something is also possible, with from omitted, but prevent someone from doing is the reliable form. The object identifies whose action was blocked; it may be a person, a group or an event.",
+      "example": "A broken gate prevented the delivery team from entering the courtyard."
+    },
+    {
+      "heading": "Negatives, passive patterns and apologies",
+      "body": "Put not immediately before the -ing verb when the action within the phrase is negative: apologise for not replying. With these patterns, passive sentences are common: be accused of cheating and be suspected of stealing. To identify the recipient of an apology, say apologise to someone for doing something; do not place the recipient directly after apologise.",
+      "example": "The organiser apologised to the guests for not sending the directions earlier."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Recipient versus reason for an apology",
+      "left": {
+        "label": "Apologise to + person",
+        "example": "I apologised to Farid after the meeting.",
+        "note": "To identifies the person receiving the apology."
+      },
+      "right": {
+        "label": "Apologise for + action",
+        "example": "I apologised for interrupting the meeting.",
+        "note": "For + -ing names the action that caused the apology."
+      }
+    },
+    {
+      "title": "Different reasons for praise",
+      "left": {
+        "label": "Thank someone for + -ing",
+        "example": "We thanked Nia for designing the poster.",
+        "note": "For + -ing gives the helpful action that prompted thanks."
+      },
+      "right": {
+        "label": "Congratulate someone on + -ing",
+        "example": "We congratulated Nia on winning the contest.",
+        "note": "On + -ing gives the achievement being celebrated."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The neighbours insisted on carrying the heavy table upstairs.",
+      "note": "Insist on takes an -ing phrase, not an infinitive."
+    },
+    {
+      "sentence": "I do not feel like staying out late tonight.",
+      "note": "Feel like + -ing expresses a current lack of desire."
+    },
+    {
+      "sentence": "The researchers are looking forward to sharing their findings.",
+      "note": "To is prepositional, so sharing takes -ing."
+    },
+    {
+      "sentence": "The referee stopped the players from entering the field too early.",
+      "note": "An object is followed by from + -ing to name the prevented action."
+    },
+    {
+      "sentence": "The accountant was accused of hiding important records.",
+      "note": "The passive still keeps of + -ing after accused."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "They succeeded to solve the puzzle.",
+      "correct": "They succeeded in solving the puzzle.",
+      "why": "Succeed requires in before an -ing verb."
+    },
+    {
+      "incorrect": "Marta congratulated Ali for passing the exam.",
+      "correct": "Marta congratulated Ali on passing the exam.",
+      "why": "The standard pattern is congratulate someone on + -ing."
+    },
+    {
+      "incorrect": "The snow prevented us to reach the village.",
+      "correct": "The snow prevented us from reaching the village.",
+      "why": "Prevent someone from is followed by an -ing verb."
+    },
+    {
+      "incorrect": "I apologised Sofia for arriving late.",
+      "correct": "I apologised to Sofia for arriving late.",
+      "why": "Use apologise to the person and for the action being apologised for."
+    }
+  ],
+  "studyTips": [
+    "Build verb-preposition pairs in a two-column notebook: insist on, succeed in, decide against, accuse of and congratulate on.",
+    "For verbs with an object, mark the roles: someone prevented [the children] from [playing], or thanked [Tara] for [helping].",
+    "Check who receives an apology and what it concerns: apologise to a person for an action, including for not doing something."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "After several attempts, the developers succeeded ___ the error in the ticket system.",
+      "choices": [
+        "in finding",
+        "to find",
+        "for finding"
+      ],
+      "answerIndex": 0,
+      "feedback": "Succeed in + -ing describes achieving a difficult result: succeeded in finding."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Heavy rain is expected, so we have decided ___ the ceremony outdoors.",
+      "choices": [
+        "against to hold",
+        "against hold",
+        "against holding"
+      ],
+      "answerIndex": 2,
+      "feedback": "Decide against holding means choosing not to hold the ceremony outdoors."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "I thanked Aisha ___ all the extra chairs before the audience arrived.",
+      "choices": [
+        "on arranging",
+        "for arranging",
+        "to arranging"
+      ],
+      "answerIndex": 1,
+      "feedback": "Thank someone for + -ing explains the helpful action being acknowledged."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Poor visibility prevented the plane ___ off at the scheduled time.",
+      "choices": [
+        "to take",
+        "of taking",
+        "from taking"
+      ],
+      "answerIndex": 2,
+      "feedback": "Prevent the plane from taking off gives the blocked action."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "We ___ your new teammate tomorrow. (look forward to / meet; present continuous; write the full verb phrase)",
+      "acceptedAnswers": [
+        "are looking forward to meeting"
+      ],
+      "feedback": "Are looking forward to meeting uses -ing after the prepositional to in the fixed expression."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The students ___ the problem before the deadline. (succeed in / solve; past simple; write the full verb phrase)",
+      "acceptedAnswers": [
+        "succeeded in solving"
+      ],
+      "feedback": "Succeeded in solving uses the required preposition and -ing complement."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Sofia ___ late for the call. (apologise to the client for / arrive; past simple; write the entire phrase)",
+      "acceptedAnswers": [
+        "apologised to the client for arriving"
+      ],
+      "feedback": "Apologise to names the recipient; for arriving names the action."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The manager ___ meeting the target. (congratulate the team on; past simple; write the phrase before meeting)",
+      "acceptedAnswers": [
+        "congratulated the team on"
+      ],
+      "feedback": "Congratulate someone on + -ing expresses praise for an achievement."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The manager insisted to review the plan today. (Change only the expression after insisted.)",
+      "acceptedAnswers": [
+        "The manager insisted on reviewing the plan today."
+      ],
+      "feedback": "Insist on reviewing, not insist to review, follows the required verb + preposition + -ing pattern."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We congratulated Julia to winning the scholarship. (Correct only the preposition.)",
+      "acceptedAnswers": [
+        "We congratulated Julia on winning the scholarship."
+      ],
+      "feedback": "Congratulate someone on + -ing names the achievement."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The heavy rain prevented us to finish the race. (Correct only the expression after us.)",
+      "acceptedAnswers": [
+        "The heavy rain prevented us from finishing the race."
+      ],
+      "feedback": "Prevent somebody from + -ing expresses an action that could not take place."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Leo apologised Maya for arriving late. (Insert only the missing preposition.)",
+      "acceptedAnswers": [
+        "Leo apologised to Maya for arriving late."
+      ],
+      "feedback": "Apologise to somebody identifies the recipient; for arriving gives the reason."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "You want to take a walk this evening. Say one sentence, beginning “I feel like” and ending “going for a walk”.",
+      "acceptedAnswers": [
+        "I feel like going for a walk."
+      ],
+      "feedback": "Feel like + -ing expresses a present wish to do something."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "The committee rejected the plan to change the venue. Begin “The committee decided against” and end “changing the venue”.",
+      "acceptedAnswers": [
+        "The committee decided against changing the venue."
+      ],
+      "feedback": "Decide against + -ing explains a plan that was rejected."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "She managed to solve the puzzle after many attempts. Begin “She succeeded in” and end “solving the puzzle”.",
+      "acceptedAnswers": [
+        "She succeeded in solving the puzzle."
+      ],
+      "feedback": "Succeed in + -ing communicates achieving a result."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Amina has finished a course, and the group congratulated her. Begin “They congratulated Amina on” and end “finishing the course”.",
+      "acceptedAnswers": [
+        "They congratulated Amina on finishing the course."
+      ],
+      "feedback": "Congratulate someone on + -ing identifies what they achieved."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "The guard blocked the visitors from entering a closed area. Begin “The guard stopped” and include “the visitors from entering the closed area”.",
+      "acceptedAnswers": [
+        "The guard stopped the visitors from entering the closed area."
+      ],
+      "feedback": "Stop somebody from + -ing identifies a prevented action."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Use the passive to describe an allegation: he; accuse; copy; the answer. Begin “He was accused of” and finish “copying the answer”.",
+      "acceptedAnswers": [
+        "He was accused of copying the answer."
+      ],
+      "feedback": "Was accused of copying retains the prepositional pattern in the passive."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences using the following words. First: “I thanked Elena for helping me.” Second: “I apologised to Kai for being late.”",
+      "acceptedAnswers": [
+        "I thanked Elena for helping me. I apologised to Kai for being late."
+      ],
+      "feedback": "Thank someone for + -ing and apologise to someone for + -ing use distinct object patterns."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Yesterday you apologised for replying late. Begin “I apologised for” and use the exact phrase “not replying sooner”.",
+      "acceptedAnswers": [
+        "I apologised for not replying sooner."
+      ],
+      "feedback": "Not immediately before replying negates the action in the -ing phrase."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I've dreamed of opening a little bookshop for years, but I haven't found a suitable location yet.",
+      "prompt": "What does the speaker describe?",
+      "choices": [
+        "A shop that recently closed.",
+        "A long-held ambition that is not yet realised.",
+        "A bookshop they have already opened."
+      ],
+      "answerIndex": 1,
+      "feedback": "Dreamed of opening expresses an ambition, and the location has not yet been found."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "A mechanical fault prevented us from taking the ferry, so we flew to the island instead.",
+      "prompt": "Why did the travellers have to fly?",
+      "choices": [
+        "The ferry had a mechanical problem.",
+        "They had always planned to fly.",
+        "The ferry went to the wrong island."
+      ],
+      "answerIndex": 0,
+      "feedback": "A mechanical fault prevented the ferry journey, so the travellers chose to fly."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "We succeeded in fixing the gate just before sunset.",
+      "prompt": "Type the two-word expression immediately after “succeeded”.",
+      "acceptedAnswers": [
+        "in fixing"
+      ],
+      "feedback": "The heard words in fixing complete the verb-preposition-ing pattern."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The gallery accused a visitor of damaging a painting, but later withdrew the claim.",
+      "prompt": "What was the visitor initially accused of?",
+      "choices": [
+        "Taking money from the desk.",
+        "Stealing a ticket.",
+        "Damaging a painting."
+      ],
+      "answerIndex": 2,
+      "feedback": "Accused a visitor of damaging identifies the allegation; withdrawing it came later."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Dana congratulated me on completing the course, then thanked me for helping her study.",
+      "prompt": "Why did Dana thank the speaker?",
+      "choices": [
+        "For completing the course.",
+        "For helping her study.",
+        "For organising the graduation party."
+      ],
+      "answerIndex": 1,
+      "feedback": "Congratulated me on completing and thanked me for helping refer to two different actions."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I apologised to the neighbours for playing music too loudly, and they accepted my apology.",
+      "prompt": "What did the speaker apologise for?",
+      "choices": [
+        "Making too much noise with music.",
+        "Arriving late for a party.",
+        "Leaving a note at the wrong house."
+      ],
+      "answerIndex": 0,
+      "feedback": "The for + -ing phrase specifies playing music too loudly as the reason."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The board decided against extending the deadline.",
+      "prompt": "Type the two-word expression heard immediately after “decided”.",
+      "acceptedAnswers": [
+        "against extending"
+      ],
+      "feedback": "Decided against extending describes a rejected option."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The coordinator insisted on checking every name before publishing the list.",
+      "prompt": "Type the two words heard immediately after “insisted”.",
+      "acceptedAnswers": [
+        "on checking"
+      ],
+      "feedback": "Insist on is followed by checking, an -ing form."
+    }
+  ]
+}

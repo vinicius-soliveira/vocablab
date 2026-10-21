@@ -1,0 +1,426 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u094",
+  "title": "Relative Clauses: Whose, Whom and Where",
+  "level": "B2",
+  "topicId": "eg2-u094-relative-clauses-whose-whom-where",
+  "summary": "Identify possession with whose, recognise formal object whom, and describe places using where. Build natural relative expressions for days, times and reasons without confusing whose with who’s or using where for time.",
+  "learningObjectives": [
+    "Use whose to relate a person to something they own or to a family member, and distinguish whose from who’s.",
+    "Recognise whom as a formal object relative and use preposition + whom accurately.",
+    "Introduce defining relative clauses about places with where and choose natural alternatives in informal speech.",
+    "Describe a specific day, time or reason using an appropriate optional relative word or no relative word."
+  ],
+  "explanation": [
+    {
+      "heading": "Show a relationship or possession with whose",
+      "body": "Use whose before a noun to show that the noun is connected to the person identified by the relative clause. It can describe belongings, relatives and other relationships: the neighbour whose son is a musician. The relative clause identifies which neighbour. Whose is not the same as who is; it does not need an apostrophe. Although whose can also describe things in some contexts, its most typical intermediate use concerns people.",
+      "example": "I spoke to a parent whose daughter had lost her school bag."
+    },
+    {
+      "heading": "Keep whose and who’s separate",
+      "body": "Whose introduces a possessive relationship and is followed by a noun or noun phrase. Who’s is a contraction of who is or who has, so it is followed by whatever fits that verb phrase. They sound alike, which makes them easy to confuse in writing. Test the meaning by replacing who’s with who is or who has; if that does not work and the meaning is possession, choose whose.",
+      "example": "The actor whose brother lives nearby is the one who’s presenting tonight."
+    },
+    {
+      "heading": "Use whom for formal objects, especially after a preposition",
+      "body": "Whom is the formal object form of who. It can refer to a person receiving an action, especially in written or careful English: the applicant whom we interviewed. Everyday speech often uses who, that, or no relative word in an object clause. After a preposition moved to the front, however, formal grammar uses whom, not who: the researcher with whom I worked. In ordinary conversation, we would usually say the researcher I worked with.",
+      "example": "The consultant to whom I sent the letter replied this morning."
+    },
+    {
+      "heading": "Use where to identify a place",
+      "body": "Where introduces a clause that says what happened or happens at a particular place. It often has the meaning in or at which, but sounds more natural than these formal alternatives in everyday English. Do not use which alone in a sentence that still needs a location preposition: the hall where we rehearsed or the hall we rehearsed in. Use where for the place, not as a general replacement for whose or who.",
+      "example": "The workshop where we built the shelves has moved to another building."
+    },
+    {
+      "heading": "Describe dates, occasions and reasons",
+      "body": "After a time expression such as the day, the year, the last time or the moment, you can often use a defining clause directly or insert that. When is also possible with many time expressions, but not essential here. After the reason, you can use a clause directly or add that or why. Avoid where to connect a time or reason; it is for places. Keep each expression tied to the particular day, occasion or reason being identified.",
+      "example": "The reason I contacted the organisers was to change my booking."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Possessive whose versus contracted who’s",
+      "left": {
+        "label": "whose + noun",
+        "example": "The customer whose bicycle was stolen reported it.",
+        "note": "Whose connects the bicycle to the customer."
+      },
+      "right": {
+        "label": "who’s = who is / has",
+        "example": "The customer who’s waiting outside has an appointment.",
+        "note": "Who’s means who is in this sentence, not possession."
+      }
+    },
+    {
+      "title": "Formal whom versus everyday object relative",
+      "left": {
+        "label": "Formal: preposition + whom",
+        "example": "The artist with whom I spoke was patient.",
+        "note": "Whom follows a fronted preposition in formal writing."
+      },
+      "right": {
+        "label": "Everyday: omitted relative word",
+        "example": "The artist I spoke with was patient.",
+        "note": "The preposition moves after the verb, and the object relative word is omitted."
+      }
+    },
+    {
+      "title": "A place versus a reason",
+      "left": {
+        "label": "where + place",
+        "example": "The office where we met is on the third floor.",
+        "note": "Where links the event to a location."
+      },
+      "right": {
+        "label": "why + reason",
+        "example": "The reason why we met was to discuss the budget.",
+        "note": "Why links an explanation to a reason, not to a physical location."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The runner whose coach retired is looking for a new trainer.",
+      "note": "Whose coach shows a relationship between the runner and the coach."
+    },
+    {
+      "sentence": "The neighbour who’s selling her car lives across the street.",
+      "note": "Who’s means who is; it is not a possessive relative."
+    },
+    {
+      "sentence": "The candidate whom the panel selected has accepted the offer.",
+      "note": "Whom is the formal object of selected, though who, that or omission would be common in informal speech."
+    },
+    {
+      "sentence": "The colleague from whom I received the message is on leave.",
+      "note": "From whom is a formal combination of preposition and object relative."
+    },
+    {
+      "sentence": "The market where we bought these spices opens only on Saturdays.",
+      "note": "Where locates the earlier shopping event at a particular market."
+    },
+    {
+      "sentence": "The last time we spoke, the repairs were almost finished.",
+      "note": "A time expression may be followed directly by its defining clause."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The journalist who’s camera broke borrowed mine.",
+      "correct": "The journalist whose camera broke borrowed mine.",
+      "why": "Whose, not who’s, links the camera to its owner."
+    },
+    {
+      "incorrect": "The colleague to who I wrote has transferred departments.",
+      "correct": "The colleague to whom I wrote has transferred departments.",
+      "why": "A formal relative pronoun immediately following the preposition to must be whom."
+    },
+    {
+      "incorrect": "The café which we met has closed.",
+      "correct": "The café where we met has closed.",
+      "why": "Where expresses the place where the meeting happened; which alone would need a preposition such as at."
+    },
+    {
+      "incorrect": "That was the year where I finished my degree.",
+      "correct": "That was the year I finished my degree.",
+      "why": "Use a direct time relative clause (or when or that), not where, for a year."
+    },
+    {
+      "incorrect": "The reason where I called was the missing receipt.",
+      "correct": "The reason why I called was the missing receipt.",
+      "why": "Use why, that, or no relative word after the reason; where refers to a place."
+    }
+  ],
+  "studyTips": [
+    "Ask “whose thing or relative?” after reading a clause; if the sentence answers that question, write whose without an apostrophe.",
+    "Rewrite formal “with whom” or “to whom” clauses in a conversational style with the preposition near the end, and compare the meaning.",
+    "Sort examples by reference: where for places; direct relative clauses or when/that for times; why/that or no word for reasons."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The musician ___ guitar was damaged borrowed an instrument from a friend.",
+      "choices": [
+        "whom",
+        "who's",
+        "whose"
+      ],
+      "answerIndex": 2,
+      "feedback": "Whose shows that the guitar belongs to the musician; who’s means who is or who has."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The researcher with ___ I collaborated published a new study.",
+      "choices": [
+        "whom",
+        "who",
+        "whose"
+      ],
+      "answerIndex": 0,
+      "feedback": "A fronted preposition such as with takes formal object whom when referring to a person."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The café ___ we first met has reopened.",
+      "choices": [
+        "whose",
+        "where",
+        "whom"
+      ],
+      "answerIndex": 1,
+      "feedback": "Where introduces the place at which the meeting occurred."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The reason ___ I changed the reservation was a delayed train.",
+      "choices": [
+        "where",
+        "whose",
+        "why"
+      ],
+      "answerIndex": 2,
+      "feedback": "Why can follow the reason. That or no relative word is also possible, but where and whose do not express the intended relationship."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The neighbour ___ daughter plays the violin has just moved here. (Supply the possessive relative word.)",
+      "acceptedAnswers": [
+        "whose"
+      ],
+      "feedback": "Whose introduces daughter as the neighbour’s family member."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The library ___ I studied as a child is now a museum. (Supply the relative word for a location.)",
+      "acceptedAnswers": [
+        "where"
+      ],
+      "feedback": "Where connects the act of studying to the library."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The speaker with ___ we had lunch was very friendly. (Use the formal object form after with.)",
+      "acceptedAnswers": [
+        "whom"
+      ],
+      "feedback": "With whom is formal; everyday speech could use the speaker we had lunch with."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The reason ___ I missed the appointment was a cancelled bus. (Use the one-word relative meaning for which reason.)",
+      "acceptedAnswers": [
+        "why"
+      ],
+      "feedback": "Why introduces the explanation associated with the reason."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The painter who’s work we admired lives in town. Replace the incorrect possessive expression with one word.",
+      "acceptedAnswers": [
+        "The painter whose work we admired lives in town."
+      ],
+      "feedback": "Whose expresses the relationship between the painter and the work; who’s means who is or who has."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The village which I grew up is quite small. Replace only “which” with the relative word for a location.",
+      "acceptedAnswers": [
+        "The village where I grew up is quite small."
+      ],
+      "feedback": "Where expresses the place where the speaker grew up; which without in is incomplete."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The professor to who I addressed the letter has retired. Change only “who” to the formal object form.",
+      "acceptedAnswers": [
+        "The professor to whom I addressed the letter has retired."
+      ],
+      "feedback": "After the fronted preposition to, formal English uses whom."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The reason which I emailed was to confirm the address. Replace only “which” with “why”.",
+      "acceptedAnswers": [
+        "The reason why I emailed was to confirm the address."
+      ],
+      "feedback": "Why links the reason to the explanation. That or no word would also work, but the instructed repair uses why."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "A photographer owns a studio overlooking the river. You met that photographer. Say one sentence beginning “I met a photographer whose” and ending “overlooks the river”.",
+      "acceptedAnswers": [
+        "I met a photographer whose studio overlooks the river."
+      ],
+      "feedback": "Whose connects the photographer with the studio."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "A student’s backpack disappeared. The student contacted reception. Combine the facts, starting “The student whose” and ending “contacted reception”.",
+      "acceptedAnswers": [
+        "The student whose backpack disappeared contacted reception."
+      ],
+      "feedback": "Use whose, not who’s, before backpack to show whose bag it is."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "You wrote to an adviser, and the adviser replied yesterday. Use formal English beginning “The adviser to whom” and ending “replied yesterday”.",
+      "acceptedAnswers": [
+        "The adviser to whom I wrote replied yesterday."
+      ],
+      "feedback": "To whom places the preposition before the formal object relative."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You travelled with a person, and that person is your colleague. Make a natural informal sentence beginning “The person I travelled with”.",
+      "acceptedAnswers": [
+        "The person I travelled with is my colleague."
+      ],
+      "feedback": "Conversational English often ends the relative clause with with instead of using formal with whom."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "You first met at a particular café. Identify it in one sentence starting “This is the café where”. Use “we first met” at the end.",
+      "acceptedAnswers": [
+        "This is the café where we first met."
+      ],
+      "feedback": "Where introduces the location of the earlier meeting."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A training course begins on Monday. Say one sentence beginning “Monday is the day” and ending “begin training”, without that or when.",
+      "acceptedAnswers": [
+        "Monday is the day we begin training."
+      ],
+      "feedback": "A time noun can be followed directly by its defining relative clause."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "You left early because of noise. Explain why in one sentence starting “The reason why I left early” and ending “the noise”.",
+      "acceptedAnswers": [
+        "The reason why I left early was the noise."
+      ],
+      "feedback": "Why connects an explanation to the reason for leaving."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Tell a friend two sentences: you know a baker whose shop is near the station, and you and this friend met at that shop. Start with “I know a baker” and then “That is the place”.",
+      "acceptedAnswers": [
+        "I know a baker whose shop is near the station. That is the place where we met."
+      ],
+      "feedback": "Whose identifies the baker through her shop; where locates the meeting there."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "My colleague whose passport was stolen had to delay her flight until next week.",
+      "prompt": "Who had to delay a flight?",
+      "choices": [
+        "The colleague whose passport was stolen.",
+        "The colleague who found a passport.",
+        "All the colleagues at the airport."
+      ],
+      "answerIndex": 0,
+      "feedback": "Whose passport was stolen identifies the particular colleague who had to delay the flight."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We could study at the café where they play loud music or at the quiet library. I would rather go to the library.",
+      "prompt": "Where does the speaker prefer to study?",
+      "choices": [
+        "At the noisy café.",
+        "At the quiet library.",
+        "At home."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker rejects the noisy café and explicitly prefers the library."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The chef whose restaurant opened last month is being interviewed on the radio today.",
+      "prompt": "Type the single relative word heard immediately after “chef”.",
+      "acceptedAnswers": [
+        "whose"
+      ],
+      "feedback": "Whose links the chef with the restaurant."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The man to whom I sent the invitation arrived first, before the rest of the guests.",
+      "prompt": "Who arrived first?",
+      "choices": [
+        "The person who sent the invitation.",
+        "A guest who did not receive an invitation.",
+        "The man who received the invitation."
+      ],
+      "answerIndex": 2,
+      "feedback": "To whom I sent the invitation identifies the recipient, and he arrived first."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The day we moved into this flat was also the day the heating stopped working.",
+      "prompt": "When did the heating stop working?",
+      "choices": [
+        "The day they moved in.",
+        "A month before they moved in.",
+        "The day they moved out."
+      ],
+      "answerIndex": 0,
+      "feedback": "The day we moved in identifies the specific day when the heating failed."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The reason I cancelled the booking was that the venue had changed, not that the tickets were expensive.",
+      "prompt": "Why did the speaker cancel the booking?",
+      "choices": [
+        "The tickets cost too much.",
+        "The venue had changed.",
+        "The event finished early."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker gives the change of venue as the reason and rejects ticket price as the cause."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "I met an actor whose sister writes travel books and lives in Canada.",
+      "prompt": "Type the two words heard immediately after “actor”.",
+      "acceptedAnswers": [
+        "whose sister"
+      ],
+      "feedback": "Whose sister identifies a family relationship linked to the actor."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "That was the town where my grandparents first met before moving to the coast.",
+      "prompt": "Type the three words heard immediately after “town”.",
+      "acceptedAnswers": [
+        "where my grandparents"
+      ],
+      "feedback": "Where introduces the place in which the grandparents met."
+    }
+  ]
+}

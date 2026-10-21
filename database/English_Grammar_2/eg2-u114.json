@@ -1,0 +1,420 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u114",
+  "title": "In Case: Precautions and Possible Events",
+  "level": "B1",
+  "topicId": "eg2-u114-precautions-and-conditions",
+  "summary": "Use in case to explain an action taken before a possible problem, distinguish preparation from an if-condition, describe precautions taken in the past, and use in case of for instructions about emergencies or events.",
+  "learningObjectives": [
+    "Explain why someone prepares in advance using in case + a present-tense clause for possible future events.",
+    "Distinguish doing something now in case an event happens from doing it later if that event happens.",
+    "Describe a precaution taken in the past using in case + a past or past-perfect clause where the meaning requires it.",
+    "Use just in case for a precaution against a smaller possibility and in case of + noun in notices or instructions."
+  ],
+  "explanation": [
+    {
+      "heading": "Prepare now for something that might happen",
+      "body": "Use in case + subject + verb to give the reason for a precaution. The action in the main clause happens before the possible problem. The problem might never happen; the preparation still makes sense. Because the in case clause describes a future possibility, use a present form rather than will after in case.",
+      "example": "I will save a local copy in case the internet connection fails."
+    },
+    {
+      "heading": "In case and if create different timelines",
+      "body": "In case explains preparation in advance: buy an extra ticket now in case another guest comes. If introduces a condition for an action: buy an extra ticket only if another guest comes. Ask whether the action happens before the uncertainty is resolved or only once the condition becomes true. This distinction can change the practical meaning of a plan.",
+      "example": "We packed extra sandwiches in case the walk took longer than expected."
+    },
+    {
+      "heading": "Just in case for a small but possible risk",
+      "body": "Use just in case when a problem is not especially likely but a precaution costs little or is worth taking. You can omit the rest of the in case clause when the risk is clear from context. It often appears after the main action: I brought a spare charger, just in case. The omission does not change the idea of preparing beforehand.",
+      "example": "The sky is clear, but I have brought a light jacket just in case."
+    },
+    {
+      "heading": "Precautions made in the past",
+      "body": "Use a past-tense in case clause to explain why a precaution was taken earlier: I printed the address in case my phone stopped working. If the feared problem might already have happened before that precaution, a past perfect is possible: I called again in case they had missed my message. The clause expresses uncertainty at the earlier time; it does not claim the problem occurred.",
+      "example": "Nadia wrote down the room number in case she forgot it later."
+    },
+    {
+      "heading": "In case of is followed by a noun",
+      "body": "In case of + noun is common on signs, safety procedures and instructions. It means if there is or if an event occurs. It is not followed directly by a full subject-and-verb clause. In case of a power failure, use the stairs tells people what to do if that event occurs; it is an instruction, not necessarily an action performed in advance.",
+      "example": "In case of a gas leak, leave the building and contact the emergency team."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Prepare in advance versus react when a condition occurs",
+      "left": {
+        "label": "In case",
+        "example": "I will download the map in case the signal disappears.",
+        "note": "The download happens now, before any loss of signal."
+      },
+      "right": {
+        "label": "If",
+        "example": "I will ask for directions if the signal disappears.",
+        "note": "The request happens only when the signal is lost."
+      }
+    },
+    {
+      "title": "Possible future event versus emergency instruction",
+      "left": {
+        "label": "In case + clause",
+        "example": "Keep a flashlight nearby in case the lights go out.",
+        "note": "Go out is a present-tense verb describing a possible future event."
+      },
+      "right": {
+        "label": "In case of + noun",
+        "example": "In case of a power cut, follow the exit signs.",
+        "note": "Power cut is a noun phrase in an instruction about what to do."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Take a spare pen in case yours runs out of ink.",
+      "note": "Taking the pen is a precaution completed before a possible problem."
+    },
+    {
+      "sentence": "I will charge my phone tonight in case the train is delayed tomorrow.",
+      "note": "The in case clause uses is, not will be, for a possible future delay."
+    },
+    {
+      "sentence": "If the café closes early, we will eat at the station.",
+      "note": "If makes the alternative action depend on an event actually occurring."
+    },
+    {
+      "sentence": "Mira kept the receipt in case the shoes did not fit.",
+      "note": "The past clause explains the reason for keeping the receipt earlier."
+    },
+    {
+      "sentence": "We sent another invitation in case the first one had gone missing.",
+      "note": "Past perfect expresses an earlier possible problem that was uncertain at the time of resending."
+    },
+    {
+      "sentence": "In case of severe weather, follow the venue staff’s instructions.",
+      "note": "In case of + noun phrase gives a conditional instruction."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I will carry cash in case the card machine will fail.",
+      "correct": "I will carry cash in case the card machine fails.",
+      "why": "For a future possibility after in case, use the present simple, not will."
+    },
+    {
+      "incorrect": "We will pack water if we get thirsty during the hike.",
+      "correct": "We will pack water in case we get thirsty during the hike.",
+      "why": "If the intention is to prepare before leaving, in case conveys a precaution rather than a reaction."
+    },
+    {
+      "incorrect": "In case of someone feels sick, call the organiser.",
+      "correct": "In case someone feels sick, call the organiser.",
+      "why": "In case takes a clause; in case of takes a noun phrase such as illness."
+    },
+    {
+      "incorrect": "I took my notes in case I will forget the figures.",
+      "correct": "I took my notes in case I forgot the figures.",
+      "why": "When explaining a past precaution, the possible event is usually expressed with a past-tense in case clause."
+    }
+  ],
+  "studyTips": [
+    "Draw two timelines for one risk: in case means prepare first; if means respond only after the event happens.",
+    "Practise transforming a future precaution into a past account: pack a charger in case the battery dies → packed a charger in case the battery died.",
+    "Check the words after the phrase: in case + subject and verb; in case of + noun such as fire, illness or emergency."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "You want a document available even if the network becomes unavailable later. Which plan prepares in advance?",
+      "choices": [
+        "I will save a copy if the network fails.",
+        "I will save a copy in case the network fails.",
+        "I will save a copy after the network fails."
+      ],
+      "answerIndex": 1,
+      "feedback": "In case explains saving the copy before any possible network failure."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The group will order a taxi only if their train is cancelled. Choose the wording that preserves that condition.",
+      "choices": [
+        "We will order a taxi if the train is cancelled.",
+        "We will order a taxi in case the train is cancelled.",
+        "We have already ordered a taxi in case the train is cancelled."
+      ],
+      "answerIndex": 0,
+      "feedback": "If makes the taxi order depend on an actual cancellation, rather than advance preparation."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "You plan to carry a printed ticket as a precaution against a future phone problem. Choose the correct verb after in case.",
+      "choices": [
+        "I will print the ticket in case my phone will stop working.",
+        "I will print the ticket in case my phone stopping working.",
+        "I will print the ticket in case my phone stops working."
+      ],
+      "answerIndex": 2,
+      "feedback": "Use the present simple stops after in case for a future possibility."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which line is grammatical as a safety notice?",
+      "choices": [
+        "In case of the alarm rings, leave the hall.",
+        "In case of emergency, use the marked exit.",
+        "In case an emergency, use the marked exit."
+      ],
+      "answerIndex": 1,
+      "feedback": "In case of must be followed by a noun phrase such as emergency."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "I am taking an extra battery ___ the camera runs out of power. (two-word expression for advance preparation)",
+      "acceptedAnswers": [
+        "in case"
+      ],
+      "feedback": "In case explains why an extra battery is taken before a possible failure."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "It is unlikely to get cold, but I will take a sweater just ___ ___. (complete the common three-word expression; write only the two missing words)",
+      "acceptedAnswers": [
+        "in case"
+      ],
+      "feedback": "Just in case is a complete phrase when the possible risk is understood."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Yesterday, Ava carried a paper map in case her phone ___ (stop) working. (past simple verb)",
+      "acceptedAnswers": [
+        "stopped"
+      ],
+      "feedback": "Past simple stopped describes the possible future-from-the-past problem she was preparing for."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "In case ___ fire, follow the emergency exit signs. (one preposition)",
+      "acceptedAnswers": [
+        "of"
+      ],
+      "feedback": "The fixed expression in case of + noun occurs in emergency notices."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the future verb form after in case: I will bring a torch in case it will get dark.",
+      "acceptedAnswers": [
+        "I will bring a torch in case it gets dark."
+      ],
+      "feedback": "Use present simple gets, not will get, after in case when describing a possible future event."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "The speaker means preparation before departure. Correct only the connector: I will bring an extra bottle of water if I get thirsty later.",
+      "acceptedAnswers": [
+        "I will bring an extra bottle of water in case I get thirsty later."
+      ],
+      "feedback": "In case conveys carrying water ahead of a possible need; if would make the carrying dependent on thirst occurring."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the emergency-notice expression, keeping the full clause: In case of someone becomes ill, inform the first-aid officer.",
+      "acceptedAnswers": [
+        "In case someone becomes ill, inform the first-aid officer."
+      ],
+      "feedback": "With a full clause, write in case without of."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the tense in this account of a past precaution: We copied the address in case we will lose the signal.",
+      "acceptedAnswers": [
+        "We copied the address in case we lost the signal."
+      ],
+      "feedback": "Lost fits a possible event viewed from the time of a past precaution."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "You are going on a day trip. You will take sunscreen because it might be sunny. Give one sentence beginning \"I will take sunscreen\" and ending \"in case it is sunny\".",
+      "acceptedAnswers": [
+        "I will take sunscreen in case it is sunny.",
+        "I'll take sunscreen in case it is sunny.",
+        "I will take sunscreen in case it’s sunny.",
+        "I'll take sunscreen in case it's sunny."
+      ],
+      "feedback": "The sunscreen is taken before any possible sunshine; in case gives the precaution."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "A friend will borrow a spare umbrella now because rain is possible later. Say one sentence beginning \"She will borrow an umbrella\" and using \"in case it rains\".",
+      "acceptedAnswers": [
+        "She will borrow an umbrella in case it rains.",
+        "She'll borrow an umbrella in case it rains."
+      ],
+      "feedback": "A present-simple rains clause after in case expresses a possible future event."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "The taxi will be called only if the bus does not arrive. Say one sentence beginning \"We will call a taxi\" and ending \"if the bus does not arrive\".",
+      "acceptedAnswers": [
+        "We will call a taxi if the bus does not arrive.",
+        "We'll call a taxi if the bus does not arrive.",
+        "We will call a taxi if the bus doesn’t arrive.",
+        "We'll call a taxi if the bus doesn't arrive."
+      ],
+      "feedback": "If makes the call conditional on the bus failing to arrive."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You do not expect a power cut, but you are charging your phone as a small precaution. Begin with \"I am charging my phone\" and end with \"just in case\".",
+      "acceptedAnswers": [
+        "I am charging my phone just in case.",
+        "I'm charging my phone just in case."
+      ],
+      "feedback": "Just in case signals preparation for a relatively unlikely but possible problem."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Report this past precaution in one sentence: Leo saved the address; he might get lost. Start with \"Leo saved the address\" and use \"in case he got lost\".",
+      "acceptedAnswers": [
+        "Leo saved the address in case he got lost."
+      ],
+      "feedback": "Got is past tense because the precaution was taken in the past."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Give a formal safety instruction using these exact facts: a fire occurs; use the stairs. Begin with \"In case of fire\".",
+      "acceptedAnswers": [
+        "In case of fire, use the stairs."
+      ],
+      "feedback": "In case of + noun fire is a conventional instruction for an emergency."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Transform this cause into an advance precaution. Original: \"The phone may run out of battery, so I will pack a charger.\" Begin with \"I will pack a charger\" and use \"in case the phone runs out of battery\".",
+      "acceptedAnswers": [
+        "I will pack a charger in case the phone runs out of battery.",
+        "I'll pack a charger in case the phone runs out of battery."
+      ],
+      "feedback": "The charger is packed before the possible loss of battery power."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Make exactly two sentences with these facts. First: Maya kept the receipt because the jacket might not fit; begin with \"Maya kept the receipt\" and use \"in case\". Second: she will return the jacket only if it does not fit; begin with \"She will return the jacket\" and use \"if\".",
+      "acceptedAnswers": [
+        "Maya kept the receipt in case the jacket did not fit. She will return the jacket if it does not fit.",
+        "Maya kept the receipt in case the jacket didn't fit. She will return the jacket if it doesn't fit.",
+        "Maya kept the receipt in case the jacket didn't fit. She will return the jacket if it does not fit.",
+        "Maya kept the receipt in case the jacket did not fit. She will return the jacket if it doesn't fit."
+      ],
+      "feedback": "Keeping the receipt is preparation in advance; returning the jacket depends on the condition being met."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I downloaded our tickets before leaving in case we lost internet access at the venue.",
+      "prompt": "Why did the speaker download the tickets before leaving?",
+      "choices": [
+        "The venue required paper tickets.",
+        "Internet access might fail.",
+        "The event had been cancelled."
+      ],
+      "answerIndex": 1,
+      "feedback": "In case explains downloading the tickets before a possible loss of internet access."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I will call the hotel if our train is delayed, but not before.",
+      "prompt": "Under what circumstance will the speaker call the hotel?",
+      "choices": [
+        "Only if their train is delayed.",
+        "Before leaving, regardless of delay.",
+        "After they arrive at the hotel."
+      ],
+      "answerIndex": 0,
+      "feedback": "If makes the call dependent on an actual train delay."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Please carry enough water in case the path takes longer than expected.",
+      "prompt": "Type the two-word expression heard between \"water\" and \"the path\".",
+      "acceptedAnswers": [
+        "in case"
+      ],
+      "feedback": "In case explains carrying water now for a possible later problem."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Yesterday I wrote down all the meeting details in case I forgot them later.",
+      "prompt": "What did the speaker do before the possibility of forgetting the details?",
+      "choices": [
+        "She booked another appointment.",
+        "She asked a colleague to remember everything.",
+        "She wrote the details down."
+      ],
+      "answerIndex": 2,
+      "feedback": "The precaution was recording the details before she might forget them."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The forecast said no rain, but I packed a small umbrella just in case.",
+      "prompt": "How likely did the speaker think the forecast problem was?",
+      "choices": [
+        "It had definitely already happened.",
+        "It seemed unlikely, but the speaker prepared.",
+        "It was certain to happen within an hour."
+      ],
+      "answerIndex": 1,
+      "feedback": "Just in case describes taking a precaution despite the problem being unlikely."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "In case of an earthquake, move calmly to the nearest marked exit, not the lift.",
+      "prompt": "What should people do if the specified emergency occurs?",
+      "choices": [
+        "Use the lift immediately.",
+        "Stay beside the entrance.",
+        "Move to the nearest marked exit."
+      ],
+      "answerIndex": 2,
+      "feedback": "In case of an earthquake introduces an emergency instruction to follow if the event occurs."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "We sent the reminder again in case they had missed the first message.",
+      "prompt": "Type the single word heard immediately after \"in case\".",
+      "acceptedAnswers": [
+        "had"
+      ],
+      "feedback": "Had forms the past perfect in case they had missed, referring to a possible earlier problem."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I do not think we will need extra chairs, but I reserved two more just in case.",
+      "prompt": "Type the final three-word phrase that expresses a small precaution.",
+      "acceptedAnswers": [
+        "just in case"
+      ],
+      "feedback": "The short phrase just in case stands alone when the possible issue is understood."
+    }
+  ]
+}

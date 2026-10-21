@@ -1,0 +1,409 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u139",
+  "title": "Phrasal Verbs with Out: Discovery, Results and Completion",
+  "level": "B2",
+  "topicId": "eg2-u139-phrasal-verbs-out-results-discovery",
+  "summary": "Use common verb + out combinations to describe extinguishing, exercise, calculations, discovery, carrying out tasks, distributing information, exhausted supplies, solutions and unexpected outcomes. Choose the meaning from context and position object pronouns correctly.",
+  "learningObjectives": [
+    "Distinguish go out, put out, turn out and blow out when talking about lights or flames.",
+    "Interpret work out in exercise, calculation, problem-solving and successful-outcome contexts.",
+    "Use carry out, find out, hand out, point out and try out to describe practical actions and information.",
+    "Describe shortages, solved problems and surprising results using run out of, sort out and turn out."
+  ],
+  "explanation": [
+    {
+      "heading": "When a light or flame stops",
+      "body": "With lights or flames, go out describes the state changing without naming an agent. Put out and blow out are actions that make a flame stop burning; turn out is an established expression for switching off a light. For a separable verb, say put it out, not put out it.",
+      "example": "A gust of wind blew out the lantern near the gate."
+    },
+    {
+      "heading": "Work out has several related but distinct meanings",
+      "body": "Work out can mean exercise, as in work out at a fitness centre. It can also mean develop successfully or reach a good result: the arrangement worked out. Work something out means calculate or solve something; when the object is a pronoun, say work it out. The surrounding words determine the meaning.",
+      "example": "We worked out the total cost before ordering the supplies."
+    },
+    {
+      "heading": "Learning something and testing an option",
+      "body": "Find out means discover information, while figure out or work out can mean find a solution to a question or understand how something works. Try something out means test a product or idea before making a decision. With an object pronoun, say try it out, not try out it.",
+      "example": "We tried out the new booking form before making it public."
+    },
+    {
+      "heading": "Performing tasks and drawing attention",
+      "body": "Carry out means perform or complete a planned activity, such as a survey or inspection. Hand out or give out means distribute to several people. Point something out to somebody means draw that person’s attention to it. Use point it out to me when both a pronoun object and the recipient are present.",
+      "example": "The supervisor pointed out a missing step to the whole team."
+    },
+    {
+      "heading": "Shortages, solutions and final results",
+      "body": "Run out of something means use all of the available supply. Sort something out means solve a problem or organise a confused situation. Turn out can introduce an unexpected truth or final result: turn out to be + description or turn out that + clause. These meanings are not interchangeable.",
+      "example": "The parcel turned out to be for a different customer."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "An activity versus a calculation",
+      "left": {
+        "label": "Exercise",
+        "example": "Nadia works out after her shift.",
+        "note": "Work out is intransitive and describes physical exercise."
+      },
+      "right": {
+        "label": "Calculate",
+        "example": "Nadia worked out the weekly total.",
+        "note": "Work out takes an object because she calculated a figure."
+      }
+    },
+    {
+      "title": "Solving an issue versus discovering a fact",
+      "left": {
+        "label": "Sort out",
+        "example": "We sorted out the delivery mistake.",
+        "note": "Sort out means we resolved the problem."
+      },
+      "right": {
+        "label": "Find out",
+        "example": "We found out why the delivery was late.",
+        "note": "Find out means we learned the explanation; it does not itself say the issue was fixed."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The stage lights went out halfway through the rehearsal.",
+      "note": "Went out describes the lights stopping, without saying who caused it."
+    },
+    {
+      "sentence": "A member of staff put the small fire out immediately.",
+      "note": "Put out means extinguish; the noun object can appear between put and out."
+    },
+    {
+      "sentence": "The researchers carried out a short survey before the event.",
+      "note": "Carry out means conduct a planned piece of work."
+    },
+    {
+      "sentence": "We had to work it out without a calculator.",
+      "note": "The object pronoun it comes between work and out."
+    },
+    {
+      "sentence": "The organiser handed out numbered tickets at the entrance.",
+      "note": "Hand out means distribute something to multiple recipients."
+    },
+    {
+      "sentence": "It turned out that the reserved room was already occupied.",
+      "note": "Turned out that introduces information discovered later."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "We ran out from clean towels.",
+      "correct": "We ran out of clean towels.",
+      "why": "Run out takes of before the supply that has been exhausted."
+    },
+    {
+      "incorrect": "The organiser handed out them at the door.",
+      "correct": "The organiser handed them out at the door.",
+      "why": "With this separable phrasal verb, a pronoun object must come before out."
+    },
+    {
+      "incorrect": "Could you point it out me?",
+      "correct": "Could you point it out to me?",
+      "why": "The recipient follows to in point something out to somebody."
+    },
+    {
+      "incorrect": "The inspectors carried out of the safety check.",
+      "correct": "The inspectors carried out the safety check.",
+      "why": "Carry out takes the task directly as its object; of does not belong here."
+    }
+  ],
+  "studyTips": [
+    "Group out verbs by meaning—stopping a light, discovering information, completing a task, and reaching a result—rather than memorising an undifferentiated list.",
+    "Practise noun-to-pronoun substitutions: try out the device → try it out; point out the error → point it out.",
+    "Write contrasting mini-contexts for work out: exercise, calculate, understand and develop successfully."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Nobody knew who had booked the room until Iris ___ the organiser’s name.",
+      "choices": [
+        "found out",
+        "put out",
+        "handed out"
+      ],
+      "answerIndex": 0,
+      "feedback": "Found out means discovered information; the administrator provided the previously unknown code."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "There is no more paper in the copier. We have ___ paper.",
+      "choices": [
+        "worked out of",
+        "run out of",
+        "turned out of"
+      ],
+      "answerIndex": 1,
+      "feedback": "Run out of means a supply has been completely used up."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The technicians ___ the planned safety inspection yesterday.",
+      "choices": [
+        "pointed out",
+        "turned out",
+        "carried out"
+      ],
+      "answerIndex": 2,
+      "feedback": "Carry out means perform a planned task, such as an inspection."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "We assumed the parcel contained books, but it ___ a replacement lamp.",
+      "choices": [
+        "turned out to be",
+        "worked out for",
+        "ran out to be"
+      ],
+      "answerIndex": 0,
+      "feedback": "Turned out to be introduces the actual identity discovered later."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Before buying the headphones, Liv ___ at the shop. (try + out, past simple; put the pronoun them between the two parts)",
+      "acceptedAnswers": [
+        "tried them out"
+      ],
+      "feedback": "Tried them out means tested the headphones. The plural object pronoun them belongs between tried and out."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "I cannot ___ the final price without seeing the delivery charge. (work + out)",
+      "acceptedAnswers": [
+        "work out"
+      ],
+      "feedback": "Work out means calculate a result from the available figures."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "At the entrance, the assistants ___ programmes to the visitors. (hand + out, past simple)",
+      "acceptedAnswers": [
+        "handed out"
+      ],
+      "feedback": "Handed out describes distributing copies to people."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The supposed antique ___ to be a recent copy. (turn + out, past simple)",
+      "acceptedAnswers": [
+        "turned out"
+      ],
+      "feedback": "Turned out to be introduces an unexpected fact that became clear."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We ran out from printer ink before the last page.",
+      "acceptedAnswers": [
+        "We ran out of printer ink before the last page."
+      ],
+      "feedback": "Use run out of before the supply that is exhausted."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The guide handed out them after the tour.",
+      "acceptedAnswers": [
+        "The guide handed them out after the tour."
+      ],
+      "feedback": "With pronouns, hand something out requires the pronoun between the verb and out."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Could you point it out me on the diagram?",
+      "acceptedAnswers": [
+        "Could you point it out to me on the diagram?"
+      ],
+      "feedback": "Use point something out to someone; to introduces the recipient."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence by removing the unnecessary word: The team carried out of the research last month.",
+      "acceptedAnswers": [
+        "The team carried out the research last month."
+      ],
+      "feedback": "Carry out takes a direct object without of."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one past-simple sentence using these exact facts: the lights / go out / during the storm. Begin with “The lights”.",
+      "acceptedAnswers": [
+        "The lights went out during the storm."
+      ],
+      "feedback": "Went out describes lights stopping during the storm."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say one sentence using these facts: Mina / find out / the start time / yesterday. Use the past simple and begin with “Mina”.",
+      "acceptedAnswers": [
+        "Mina found out the start time yesterday."
+      ],
+      "feedback": "Found out means learned a previously unknown fact."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say one sentence: we / run out of / spare batteries / today. Use the past simple and begin with “We”.",
+      "acceptedAnswers": [
+        "We ran out of spare batteries today."
+      ],
+      "feedback": "Ran out of names the supply that has been used up."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Rephrase “The crew performed the safety check yesterday.” Begin with “The crew” and replace performed with the past form of carry out.",
+      "acceptedAnswers": [
+        "The crew carried out the safety check yesterday."
+      ],
+      "feedback": "Carried out means performed a planned check."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "A colleague asks why Mira visits the fitness centre. Given facts: Mira / work out / every evening / to stay fit. Use present simple and begin with “Mira”.",
+      "acceptedAnswers": [
+        "Mira works out every evening to stay fit."
+      ],
+      "feedback": "Works out describes physical exercise; Mira takes the -s ending."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Give the surprising result in one sentence. Use: the replacement part / turn out to be / the wrong size. Use past simple and begin with “The replacement part”.",
+      "acceptedAnswers": [
+        "The replacement part turned out to be the wrong size."
+      ],
+      "feedback": "Turned out to be explains what the part was actually like."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences using these facts in order: I / work out / the final cost / last night. It / turn out to be / less than budgeted. Use the past simple and do not add extra information.",
+      "acceptedAnswers": [
+        "I worked out the final cost last night. It turned out to be less than budgeted."
+      ],
+      "feedback": "Worked out indicates calculation; turned out to be introduces the result."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Describe a completed solution in one past-simple sentence using: they / sort out / the problem / this morning. Begin with “They”.",
+      "acceptedAnswers": [
+        "They sorted out the problem this morning.",
+        "They sorted the problem out this morning."
+      ],
+      "feedback": "With a noun object, both sorted out the problem and sorted the problem out are natural."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "During the rehearsal, the ceiling lights went out, but the battery lamps stayed on.",
+      "prompt": "What stopped working during the rehearsal?",
+      "choices": [
+        "The ceiling lights.",
+        "The battery lamps.",
+        "The sound system."
+      ],
+      "answerIndex": 0,
+      "feedback": "Went out describes the ceiling lights becoming dark, while the battery lamps stayed on."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I work out every Tuesday, but I still cannot work out how much I spend on gym fees.",
+      "prompt": "What two meanings of work out are used?",
+      "choices": [
+        "Exercise and cancel a booking.",
+        "Exercise and calculate a cost.",
+        "Travel and discover a secret."
+      ],
+      "answerIndex": 1,
+      "feedback": "The first work out means exercise; the second means calculate or solve a cost question."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "We ran out of labels before the last parcel was packed.",
+      "prompt": "Type the three-word expression immediately after “We”.",
+      "acceptedAnswers": [
+        "ran out of"
+      ],
+      "feedback": "The expression ran out of signals that the label supply was exhausted."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "We tried out the ticket machine for a week before deciding whether to buy it.",
+      "prompt": "Why did they use the machine for a week?",
+      "choices": [
+        "To return a borrowed machine.",
+        "To distribute tickets for free.",
+        "To test it before a decision."
+      ],
+      "answerIndex": 2,
+      "feedback": "Tried out means tested it to see whether it was suitable."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "We could not explain the delay until we found out that a bridge had closed overnight.",
+      "prompt": "What did the speakers learn?",
+      "choices": [
+        "That a bridge had been closed.",
+        "That a train had departed early.",
+        "That the meeting had been cancelled."
+      ],
+      "answerIndex": 0,
+      "feedback": "Found out introduces newly discovered information about the bridge closure."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The seller described the watch as silver, but it turned out to be made of plastic.",
+      "prompt": "What was the watch actually made of?",
+      "choices": [
+        "Silver.",
+        "Plastic.",
+        "Steel."
+      ],
+      "answerIndex": 1,
+      "feedback": "Turned out to be reveals the actual material, in contrast with the seller’s description."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The volunteers handed out maps to visitors at the entrance.",
+      "prompt": "Type the two-word verb phrase immediately after “The volunteers”.",
+      "acceptedAnswers": [
+        "handed out"
+      ],
+      "feedback": "Handed out means distributed copies to visitors."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The staff sorted out the booking error before the guests arrived.",
+      "prompt": "Type the two-word verb phrase immediately after “The staff”.",
+      "acceptedAnswers": [
+        "sorted out"
+      ],
+      "feedback": "Sorted out describes resolving a problem before the guests arrived."
+    }
+  ]
+}

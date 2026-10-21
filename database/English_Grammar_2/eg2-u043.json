@@ -1,0 +1,432 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u043",
+  "title": "Passive forms: perfect, continuous and modal",
+  "level": "B2",
+  "topicId": "eg2-u043-perfect-continuous-modal-passive",
+  "summary": "Use been, being and be with a past participle to describe completed actions, actions in progress and actions that are necessary, possible or expected. Choose the passive form that preserves the original time and meaning.",
+  "learningObjectives": [
+    "Build present-perfect and past-perfect passive clauses using have/has/had been plus a past participle.",
+    "Distinguish an action in progress now from one that was in progress at a past moment using being.",
+    "Express permission, possibility, necessity and future plans with modal or infinitive passives.",
+    "Describe a missed past obligation or an uncertain past event with modal + have been + past participle."
+  ],
+  "explanation": [
+    {
+      "heading": "Present perfect passive: a completed result now",
+      "body": "Combine has or have with been and a past participle when the action is completed but its result matters now. The subject receives the action. The doer may be unknown, unimportant or deliberately omitted. In negatives and questions, only the first auxiliary moves or takes not.",
+      "example": "The application has been approved, so we can begin the project."
+    },
+    {
+      "heading": "Past perfect passive: earlier than another past event",
+      "body": "Use had been + past participle when a passive action was already complete before another point in the past. Had carries the earlier-past meaning; been is required because the verb is passive. This pattern often appears alongside a later past-simple event.",
+      "example": "By the time we reached the venue, all the seats had been reserved."
+    },
+    {
+      "heading": "Continuous passive: work under way",
+      "body": "Use am/is/are being + past participle for an action happening now, and was/were being + past participle for one happening at a particular past time. Being marks the continuous aspect: is repaired describes a simple passive event or state, while is being repaired clearly shows a repair in progress.",
+      "example": "The entrance was being repainted when the visitors arrived."
+    },
+    {
+      "heading": "Passive after modals and future expressions",
+      "body": "A modal such as must, can, could, may or will is followed by be + past participle to describe a passive action, not by being or been alone. After going to, use be + past participle. The passive infinitive to be + past participle also follows verbs such as need and want.",
+      "example": "All borrowed equipment must be returned before closing time."
+    },
+    {
+      "heading": "Perfect passive infinitive: looking back",
+      "body": "Use modal + have been + past participle to consider an earlier passive event. Should have been can describe something that was expected but did not happen; might have been expresses uncertainty about what happened. The longer passive perfect infinitive to have been + past participle occurs after verbs such as seem.",
+      "example": "The instructions should have been revised before the course started."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A completed passive result versus a process in progress",
+      "left": {
+        "label": "Present perfect passive",
+        "example": "The laptops have been repaired.",
+        "note": "The repair is finished, with a present result."
+      },
+      "right": {
+        "label": "Present continuous passive",
+        "example": "The laptops are being repaired.",
+        "note": "The repair is taking place now and may not be finished."
+      }
+    },
+    {
+      "title": "Work already finished versus work under way at a past point",
+      "left": {
+        "label": "Past perfect passive",
+        "example": "The stage had been assembled before the rehearsal.",
+        "note": "The assembly was complete before another past event."
+      },
+      "right": {
+        "label": "Past continuous passive",
+        "example": "The stage was being assembled during the rehearsal.",
+        "note": "The assembly was in progress at the past time described."
+      }
+    },
+    {
+      "title": "A current requirement versus a missed past expectation",
+      "left": {
+        "label": "Modal + be",
+        "example": "The forms must be checked today.",
+        "note": "This states what needs to happen, now or in the future."
+      },
+      "right": {
+        "label": "Modal + have been",
+        "example": "The forms should have been checked yesterday.",
+        "note": "This assesses an earlier action that was expected."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The parcel has not been collected yet.",
+      "note": "Present perfect passive with not focuses on a collection that has not happened up to now."
+    },
+    {
+      "sentence": "Had the invitations been printed before the deadline?",
+      "note": "Had moves before the subject to form a past-perfect passive question."
+    },
+    {
+      "sentence": "The corridor is being cleaned, so use the stairs.",
+      "note": "Is being cleaned presents cleaning as a process taking place now."
+    },
+    {
+      "sentence": "The signs were being installed when the electricity went out.",
+      "note": "Were being installed places an unfinished passive action at a past moment."
+    },
+    {
+      "sentence": "The results will be announced on Thursday.",
+      "note": "Will be plus announced gives a future passive event."
+    },
+    {
+      "sentence": "The attachment may have been removed accidentally.",
+      "note": "May have been removed expresses an uncertain passive event in the past."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The parcel has delivered already.",
+      "correct": "The parcel has been delivered already.",
+      "why": "The present-perfect passive requires been before the past participle delivered."
+    },
+    {
+      "incorrect": "The hall had being prepared before the guests arrived.",
+      "correct": "The hall had been prepared before the guests arrived.",
+      "why": "Had been plus the past participle expresses a completed passive action before another past event."
+    },
+    {
+      "incorrect": "The road is be resurfaced this week.",
+      "correct": "The road is being resurfaced this week.",
+      "why": "An ongoing present passive takes is being plus the past participle."
+    },
+    {
+      "incorrect": "The equipment must been inspected today.",
+      "correct": "The equipment must be inspected today.",
+      "why": "After a modal of obligation, use the base infinitive be, not been."
+    },
+    {
+      "incorrect": "The forms should have be checked yesterday.",
+      "correct": "The forms should have been checked yesterday.",
+      "why": "A perfect passive infinitive requires have been plus a past participle."
+    }
+  ],
+  "studyTips": [
+    "Take one active sentence and make three passive versions: has been repaired, is being repaired and was being repaired; explain the time change.",
+    "Circle the first auxiliary in each passive clause. It controls tense, negatives and question word order, while the last word is a past participle.",
+    "For missed obligations, build the whole phrase in stages: should → should have → should have been → should have been checked."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The supplier has confirmed the order, but the parts ___ yet.",
+      "choices": [
+        "haven’t delivered",
+        "haven’t been delivered",
+        "haven’t being delivered"
+      ],
+      "answerIndex": 1,
+      "feedback": "Have not been delivered is the present-perfect passive: the parts receive the delivery, and it has not happened yet."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "When the conference began, all the microphones ___ already ___.",
+      "choices": [
+        "had / tested",
+        "had been / tested",
+        "were being / tested"
+      ],
+      "answerIndex": 1,
+      "feedback": "Had been tested shows the testing was complete before the conference began."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Please use the side door. The main entrance ___ right now.",
+      "choices": [
+        "is being painted",
+        "is been painted",
+        "is painting"
+      ],
+      "answerIndex": 0,
+      "feedback": "Is being painted expresses an action in progress with the entrance as the receiver."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "These confidential records ___ in a locked cabinet.",
+      "choices": [
+        "must being kept",
+        "must been kept",
+        "must be kept"
+      ],
+      "answerIndex": 2,
+      "feedback": "A modal is followed by be + past participle: must be kept."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The refund ___ (not / process) yet. Write the present-perfect passive verb phrase.",
+      "acceptedAnswers": [
+        "has not been processed",
+        "hasn't been processed"
+      ],
+      "feedback": "A singular subject takes has not been or hasn’t been plus processed."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "By the time the guests arrived, the tables ___ (set). Use the past-perfect passive.",
+      "acceptedAnswers": [
+        "had been set"
+      ],
+      "feedback": "Had been set marks completion before the guests arrived."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Please avoid the staircase: it ___ (repair) at the moment. Use the present-continuous passive.",
+      "acceptedAnswers": [
+        "is being repaired"
+      ],
+      "feedback": "Is being repaired shows the repair is in progress now."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Company policy is strict: the files ___ (not / share) without permission. Use the modal must in the passive.",
+      "acceptedAnswers": [
+        "must not be shared",
+        "mustn't be shared"
+      ],
+      "feedback": "Must not be shared prohibits sharing the files; the modal is followed by be + shared."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The schedule has been update for next week.",
+      "acceptedAnswers": [
+        "The schedule has been updated for next week."
+      ],
+      "feedback": "The passive participle of update is updated, not update."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: By noon, the hall had being decorated.",
+      "acceptedAnswers": [
+        "By noon, the hall had been decorated."
+      ],
+      "feedback": "The past-perfect passive uses had been, not had being."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The new sports centre is be built near the river right now.",
+      "acceptedAnswers": [
+        "The new sports centre is being built near the river right now."
+      ],
+      "feedback": "Right now describes construction in progress, which requires is being built."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The safety signs should have be replaced last month.",
+      "acceptedAnswers": [
+        "The safety signs should have been replaced last month."
+      ],
+      "feedback": "Should have been + past participle describes a missed past expectation."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "The IT team has restored the backup. Change this fact into a present-perfect passive sentence beginning “The backup”. Omit the actor.",
+      "acceptedAnswers": [
+        "The backup has been restored.",
+        "The backup's been restored."
+      ],
+      "feedback": "Has been restored focuses on the completed action received by the backup."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask whether the museum tickets have already been emailed. Begin with “Have”; put “already” between “tickets” and “been”.",
+      "acceptedAnswers": [
+        "Have the museum tickets already been emailed?"
+      ],
+      "feedback": "Have moves to the front, and been emailed forms the passive."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Someone locked the door before you arrived. Say one sentence beginning “The door” and ending “before I arrived”. Use the past-perfect passive.",
+      "acceptedAnswers": [
+        "The door had been locked before I arrived."
+      ],
+      "feedback": "Had been locked locates a completed passive action before a later past event."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The lift is unavailable because a technician is inspecting it at this moment. Give a short explanation beginning “The lift” and ending “at the moment”. Use the present-continuous passive.",
+      "acceptedAnswers": [
+        "The lift is being inspected at the moment."
+      ],
+      "feedback": "Is being inspected explains why the lift is temporarily unavailable."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "You drove past while workers were resurfacing a road. Begin “The road” and finish “when I drove past”. Use the past-continuous passive.",
+      "acceptedAnswers": [
+        "The road was being resurfaced when I drove past."
+      ],
+      "feedback": "Was being resurfaced describes work in progress at the past time."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "State the workshop rule using these cues: protective gloves / must / wear / in the workshop. Use a modal passive sentence.",
+      "acceptedAnswers": [
+        "Protective gloves must be worn in the workshop."
+      ],
+      "feedback": "Must be worn expresses a requirement affecting the gloves."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Inspectors failed to check the alarms yesterday, although checking was required. Begin “The alarms” and use should have in the passive, ending “yesterday”.",
+      "acceptedAnswers": [
+        "The alarms should have been checked yesterday."
+      ],
+      "feedback": "Should have been checked expresses a past obligation that was not met."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two passive sentences. Fact one: someone has repaired the heater. Fact two: workers are testing it now. Begin with “The heater” and then “It”, and end the second sentence with “now”.",
+      "acceptedAnswers": [
+        "The heater has been repaired. It is being tested now.",
+        "The heater's been repaired. It's being tested now.",
+        "The heater's been repaired. It is being tested now.",
+        "The heater has been repaired. It's being tested now."
+      ],
+      "feedback": "The first sentence uses present-perfect passive for the completed repair; the second uses present-continuous passive for current testing."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The hall has been booked for Monday, but the projector hasn’t been delivered yet.",
+      "prompt": "What still needs to happen?",
+      "choices": [
+        "The hall needs to be booked.",
+        "The projector needs to arrive.",
+        "The booking must be cancelled."
+      ],
+      "answerIndex": 1,
+      "feedback": "The hall booking is complete, but the projector has not yet been delivered."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The sandwiches had been prepared before the volunteers arrived, so lunch could start immediately.",
+      "prompt": "Which task was already finished when the volunteers arrived?",
+      "choices": [
+        "Preparing the food.",
+        "Clearing the tables.",
+        "Serving the lunch."
+      ],
+      "answerIndex": 0,
+      "feedback": "Had been prepared places food preparation before the volunteers’ arrival."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The documents have been signed by both directors.",
+      "prompt": "Type the three-word passive verb phrase immediately after “The documents”.",
+      "acceptedAnswers": [
+        "have been signed"
+      ],
+      "feedback": "Have been signed is the audible present-perfect passive phrase."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "We cannot use the west corridor because the ceiling is being painted this afternoon.",
+      "prompt": "Why is the corridor unavailable?",
+      "choices": [
+        "The ceiling painting finished yesterday.",
+        "Workers are painting the ceiling now.",
+        "The ceiling will be removed next month."
+      ],
+      "answerIndex": 1,
+      "feedback": "Is being painted indicates work in progress this afternoon."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The windows were being replaced when the storm started, so the workers stopped immediately.",
+      "prompt": "What was happening when the storm began?",
+      "choices": [
+        "The windows had already been fully replaced.",
+        "The workers had not started any work.",
+        "The window replacement was in progress."
+      ],
+      "answerIndex": 2,
+      "feedback": "Were being replaced means the work was underway when the storm started."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The tickets should have been sent yesterday, but the email system failed.",
+      "prompt": "What was supposed to happen yesterday?",
+      "choices": [
+        "The tickets were supposed to be emailed.",
+        "The system was due for an upgrade.",
+        "The passengers were going to collect paper tickets."
+      ],
+      "answerIndex": 0,
+      "feedback": "Should have been sent describes a past expectation that was not met."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The equipment must be inspected before every performance.",
+      "prompt": "Type the three-word passive verb phrase immediately after “The equipment”.",
+      "acceptedAnswers": [
+        "must be inspected"
+      ],
+      "feedback": "Must be inspected expresses the requirement heard in the recording."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The final report might have been deleted by mistake.",
+      "prompt": "Type the four-word passive verb phrase immediately after “The final report”.",
+      "acceptedAnswers": [
+        "might have been deleted"
+      ],
+      "feedback": "Might have been deleted expresses uncertainty about a past passive event."
+    }
+  ]
+}

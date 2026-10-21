@@ -1,0 +1,423 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u113",
+  "title": "Although, Though, Despite and In Spite Of",
+  "level": "B2",
+  "topicId": "eg2-u113-contrasts-and-concessions",
+  "summary": "Express an unexpected contrast using although, though, even though, despite and in spite of. Choose a complete clause or a noun/-ing phrase correctly, and distinguish concession from a reason introduced by because.",
+  "learningObjectives": [
+    "Connect an unexpected result to a contrasting fact with although, though or even though followed by a full clause.",
+    "Use despite and in spite of with a noun phrase, a pronoun or an -ing form rather than a bare finite clause.",
+    "Use despite the fact that and in spite of the fact that when a full clause must follow these prepositions.",
+    "Use sentence-final though in conversation and distinguish contrasting facts from causes expressed with because or because of."
+  ],
+  "explanation": [
+    {
+      "heading": "Although and though link contrasting facts",
+      "body": "Use although or though before a clause containing a subject and a verb. The clause introduces a fact that makes the main result unexpected. The contrast can come before or after the main clause. When it comes first, a comma normally separates the clauses. These connectors do not give a reason; they signal that the result happened despite an obstacle or expectation.",
+      "example": "Although the hall was almost empty, the performers gave a lively show."
+    },
+    {
+      "heading": "Despite and in spite of take phrases, not bare clauses",
+      "body": "Use despite or in spite of before a noun phrase, a pronoun such as that, or an -ing form. Both mean that something happened contrary to what the circumstances suggested. Despite does not take of, whereas in spite of must include of. Do not place a normal subject + finite verb directly after either expression.",
+      "example": "In spite of losing their luggage, the travellers remained cheerful."
+    },
+    {
+      "heading": "The fact that makes a full clause possible",
+      "body": "When you want a complete subject-and-verb clause after despite or in spite of, add the fact that: despite the fact that + clause. This structure is grammatically correct but can be wordier than although + clause. Choose the shorter option when the extra emphasis is not needed.",
+      "example": "Despite the fact that the lift was broken, the exhibition remained accessible."
+    },
+    {
+      "heading": "Even though strengthens a real contrast",
+      "body": "Even though works like although but often makes the surprising contrast stronger. It introduces a fact known to be true, not just a possible future condition. Use even though + subject + verb; even on its own cannot replace this connector before a full clause.",
+      "example": "Even though the route was clearly marked, several runners missed the turning."
+    },
+    {
+      "heading": "Though in conversation, and concession versus cause",
+      "body": "Though is common in conversation and can appear at the end of a separate sentence to mean something like however. Although cannot normally occupy that final position. Compare concession with reason: although the ticket was expensive tells us an unexpected contrast, while because the ticket was expensive supplies a reason for a decision. With nouns, because of introduces a cause, not a concession.",
+      "example": "The café was noisy. The coffee was excellent, though."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Full clause versus noun or -ing phrase",
+      "left": {
+        "label": "Although + clause",
+        "example": "Although the street was flooded, the buses kept running.",
+        "note": "The connector is followed by the subject the street and the finite verb was."
+      },
+      "right": {
+        "label": "Despite + noun",
+        "example": "Despite the flooding, the buses kept running.",
+        "note": "Despite takes the noun phrase the flooding; no of is added."
+      }
+    },
+    {
+      "title": "A contrasting fact versus a reason",
+      "left": {
+        "label": "Concession",
+        "example": "We stayed outside despite the wind.",
+        "note": "The wind might have made us go indoors, but it did not."
+      },
+      "right": {
+        "label": "Cause",
+        "example": "We went indoors because of the wind.",
+        "note": "The wind explains why we decided to go inside."
+      }
+    },
+    {
+      "title": "Emphasis at the beginning versus a conversational afterthought",
+      "left": {
+        "label": "Even though + clause",
+        "example": "Even though the film was long, I watched it twice.",
+        "note": "The unexpected contrast is emphasized before the main message."
+      },
+      "right": {
+        "label": "Final though",
+        "example": "The film was long. I enjoyed it, though.",
+        "note": "The second sentence adds a contrasting comment in conversational style."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Although the deadline was tight, we checked every figure before submitting the report.",
+      "note": "Although introduces a complete contrasting clause about the deadline."
+    },
+    {
+      "sentence": "Despite a minor delay, the train reached its destination before dark.",
+      "note": "Despite takes the noun phrase a minor delay."
+    },
+    {
+      "sentence": "The musicians continued playing in spite of feeling exhausted.",
+      "note": "In spite of is followed by an -ing phrase."
+    },
+    {
+      "sentence": "Even though he had rehearsed carefully, Daniel forgot the opening line.",
+      "note": "Even though emphasizes a surprising result despite a known preparation."
+    },
+    {
+      "sentence": "The apartment is small. It gets plenty of sunlight, though.",
+      "note": "Sentence-final though gives an informal contrasting afterthought."
+    },
+    {
+      "sentence": "Despite the fact that the shop was closing, the assistant helped the last customer.",
+      "note": "The fact that permits a subject-and-verb clause after despite."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Despite of the rain, the picnic continued.",
+      "correct": "Despite the rain, the picnic continued.",
+      "why": "Despite does not include of; in spite of is the separate three-word expression."
+    },
+    {
+      "incorrect": "In spite of the road was narrow, the driver stayed calm.",
+      "correct": "Although the road was narrow, the driver stayed calm.",
+      "why": "A subject-and-verb clause can follow although, but not in spite of without the fact that."
+    },
+    {
+      "incorrect": "Even the manager was tired, she stayed to help.",
+      "correct": "Even though the manager was tired, she stayed to help.",
+      "why": "Even alone cannot introduce a full concessive clause; use even though."
+    },
+    {
+      "incorrect": "The laptop was old. It still worked well, although.",
+      "correct": "The laptop was old. It still worked well, though.",
+      "why": "In conversational English, though can stand at the end of a contrasting sentence; although normally cannot."
+    }
+  ],
+  "studyTips": [
+    "Before choosing a connector, underline the words immediately after it: subject + verb needs although/though/even though, while noun or -ing suits despite/in spite of.",
+    "Write one factual contrast in two ways, replacing an although-clause with a despite + noun or -ing phrase without changing its meaning.",
+    "Check whether a second idea is surprising or causal; choose although/despite for contrast and because/because of for a reason."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The doors were difficult to open, but everyone entered the hall. Choose the sentence with a correct full-clause connector.",
+      "choices": [
+        "Despite the doors were heavy, everyone entered.",
+        "Although the doors were heavy, everyone entered.",
+        "In spite of the doors were heavy, everyone entered."
+      ],
+      "answerIndex": 1,
+      "feedback": "Although takes the full clause the doors were heavy; despite and in spite of cannot directly take it."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The path was muddy, but the group finished its walk. Which sentence correctly uses a preposition followed by a noun?",
+      "choices": [
+        "Despite the mud, the group finished its walk.",
+        "Despite of the mud, the group finished its walk.",
+        "Although the mud, the group finished its walk."
+      ],
+      "answerIndex": 0,
+      "feedback": "Despite is followed directly by the noun phrase the mud, without of."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "You know that an employee had little experience, yet she led the project successfully. Which version emphasizes this surprising contrast?",
+      "choices": [
+        "Even she had little experience, she led the project successfully.",
+        "Because she had little experience, she led the project successfully.",
+        "Even though she had little experience, she led the project successfully."
+      ],
+      "answerIndex": 2,
+      "feedback": "Even though links a real situation with a contrary-to-expectation outcome."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "A friend says the accommodation was expensive and then adds a positive comment informally. Choose the natural ending.",
+      "choices": [
+        "The view was beautiful, although.",
+        "The view was beautiful, despite.",
+        "The view was beautiful, though."
+      ],
+      "answerIndex": 2,
+      "feedback": "Final though adds an informal contrasting afterthought; although and despite cannot be used that way."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "___ the kitchen was small, the restaurant served fifty guests comfortably. (one-word connector before a complete clause)",
+      "acceptedAnswers": [
+        "Although",
+        "Though"
+      ],
+      "feedback": "Although or though correctly introduces the full clause the kitchen was small."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "___ the broken heating, the office remained open. (use the one-word preposition meaning in spite of)",
+      "acceptedAnswers": [
+        "Despite"
+      ],
+      "feedback": "Despite takes the noun phrase the broken heating directly; it never needs of."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The team delivered on time in ___ of several unexpected setbacks. (complete the fixed prepositional expression)",
+      "acceptedAnswers": [
+        "spite"
+      ],
+      "feedback": "In spite of + noun phrase expresses a contrast despite setbacks."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The event was successful despite the ___ that very few tickets had been sold. (complete the expression allowing a full clause)",
+      "acceptedAnswers": [
+        "fact"
+      ],
+      "feedback": "Despite the fact that makes it grammatical to follow despite with a complete clause."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the connector only: Despite of the noise, I completed my assignment.",
+      "acceptedAnswers": [
+        "Despite the noise, I completed my assignment."
+      ],
+      "feedback": "Despite never takes of. A noun phrase follows it directly."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the connector to introduce the existing complete clause: In spite of the tickets were expensive, we attended the concert.",
+      "acceptedAnswers": [
+        "Although the tickets were expensive, we attended the concert.",
+        "Though the tickets were expensive, we attended the concert."
+      ],
+      "feedback": "A complete clause with subject the tickets and verb were requires although or though rather than in spite of alone."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the clause opener, keeping the known fact and outcome: Even the road was closed, the delivery arrived on time.",
+      "acceptedAnswers": [
+        "Even though the road was closed, the delivery arrived on time."
+      ],
+      "feedback": "Even though, not even alone, introduces a full clause stating a fact in contrast with the result."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the final connector only: The course was demanding. I learned a lot, although.",
+      "acceptedAnswers": [
+        "The course was demanding. I learned a lot, though."
+      ],
+      "feedback": "Sentence-final though is natural for an informal contrasting afterthought."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Use the given contrasting facts in one sentence: the gallery was crowded; we enjoyed the visit. Begin with \"Although the gallery was crowded\".",
+      "acceptedAnswers": [
+        "Although the gallery was crowded, we enjoyed the visit."
+      ],
+      "feedback": "Although is followed by a complete clause and a contrasting main statement."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Rewrite this contrast as one sentence using \"despite\": the wind was strong; the ferry sailed. Begin with \"Despite the strong wind\".",
+      "acceptedAnswers": [
+        "Despite the strong wind, the ferry sailed."
+      ],
+      "feedback": "Despite takes the noun phrase the strong wind."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say a sentence using exactly these facts: she felt nervous; she gave a clear presentation. Begin with \"In spite of feeling nervous\".",
+      "acceptedAnswers": [
+        "In spite of feeling nervous, she gave a clear presentation."
+      ],
+      "feedback": "An -ing phrase can follow in spite of to express a concession."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The roads were icy, but the driver arrived safely. The icy roads are a confirmed fact. Emphasize the contrast in one sentence beginning \"Even though the roads were icy\".",
+      "acceptedAnswers": [
+        "Even though the roads were icy, the driver arrived safely."
+      ],
+      "feedback": "Even though emphasizes an outcome that is surprising given a real circumstance."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Make two short sentences from these facts: the hotel room was tiny; the bed was comfortable. Put \"though\" at the end of the second sentence. Begin with \"The hotel room\".",
+      "acceptedAnswers": [
+        "The hotel room was tiny. The bed was comfortable, though."
+      ],
+      "feedback": "Though at the end is a natural spoken afterthought expressing contrast."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Use the formal pattern \"despite the fact that\" with these facts: the server was slow; the files were delivered. Begin with \"Despite the fact that the server was slow\".",
+      "acceptedAnswers": [
+        "Despite the fact that the server was slow, the files were delivered."
+      ],
+      "feedback": "Despite the fact that can be followed by a complete subject-and-verb clause."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Rewrite the reason as a contrast while keeping the same factual result. Original: \"We continued hiking because the weather was good.\" New facts: weather was bad; we continued hiking. Begin with \"Although\".",
+      "acceptedAnswers": [
+        "Although the weather was bad, we continued hiking."
+      ],
+      "feedback": "Although introduces a contrasting circumstance, not the cause of the hike."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce exactly two sentences using the supplied facts. First: the exam was difficult; Ana passed. Begin with \"Although\". Second: she felt tired; she celebrated. Begin with \"Despite feeling tired\".",
+      "acceptedAnswers": [
+        "Although the exam was difficult, Ana passed. Despite feeling tired, she celebrated."
+      ],
+      "feedback": "The first sentence uses a full clause after although; the second uses an -ing phrase after despite."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Although the power went out briefly, the visitors completed the museum tour.",
+      "prompt": "What did the visitors do despite the problem?",
+      "choices": [
+        "They cancelled the tour.",
+        "They completed the tour.",
+        "They postponed the tour until Saturday."
+      ],
+      "answerIndex": 1,
+      "feedback": "Although indicates that the power cut did not stop the visitors from completing the tour."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Despite a steep hill near the end, the cyclist reached the village on time.",
+      "prompt": "Which obstacle failed to prevent the cyclist from arriving on time?",
+      "choices": [
+        "A steep hill.",
+        "A flat tyre.",
+        "Heavy traffic."
+      ],
+      "answerIndex": 0,
+      "feedback": "Despite introduces the obstacle, a steep hill, that did not prevent an on-time arrival."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Even though the team had very little rehearsal time, their performance was excellent.",
+      "prompt": "Type the two-word connector heard at the very beginning of the sentence.",
+      "acceptedAnswers": [
+        "Even though"
+      ],
+      "feedback": "Even though introduces a confirmed reason for expecting a different result."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "We waited nearly an hour for our food. The meal was excellent, though.",
+      "prompt": "How did the speaker feel about the meal overall?",
+      "choices": [
+        "The meal was disappointing in every way.",
+        "The speaker disliked the food but liked the service.",
+        "The speaker liked the meal, despite one criticism."
+      ],
+      "answerIndex": 2,
+      "feedback": "The final though adds the positive contrast: the meal was excellent despite the long wait."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Our flight left late because of thick fog near the runway.",
+      "prompt": "What relationship does the speaker express between the fog and the delay?",
+      "choices": [
+        "The fog caused the delayed departure.",
+        "The plane left early despite the fog.",
+        "The fog happened after the departure."
+      ],
+      "answerIndex": 0,
+      "feedback": "Because of supplies the cause of the departure delay, rather than an unexpected contrast."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "In spite of the shop being closed to customers, the staff were preparing online orders inside.",
+      "prompt": "Which pair of facts is true?",
+      "choices": [
+        "The lights were on and nobody entered.",
+        "The shop was shut, but staff continued preparing orders.",
+        "The shop was open and customers were collecting orders."
+      ],
+      "answerIndex": 1,
+      "feedback": "In spite of the closure marks the unexpected continuation of staff activity."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The outdoor class continued despite the cold weather and occasional wind.",
+      "prompt": "Type the one-word preposition heard immediately before \"the cold weather\".",
+      "acceptedAnswers": [
+        "despite"
+      ],
+      "feedback": "Despite takes the noun phrase the cold weather without of."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "In spite of the fact that the entrance was blocked, people found another way in.",
+      "prompt": "Type the three-word prepositional expression at the beginning of the recording, immediately before \"the fact that\".",
+      "acceptedAnswers": [
+        "in spite of"
+      ],
+      "feedback": "In spite of takes the phrase the fact that before the complete clause the entrance was blocked."
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u071",
+  "title": "Singular Countable Nouns, A/An and Some",
+  "level": "B1",
+  "topicId": "eg2-u071-countable-nouns-a-an-some",
+  "summary": "Use a/an and other determiners with singular countable nouns, but use bare plurals for general categories. Describe jobs and characteristics, and distinguish some meaning an unspecified number from some meaning not all.",
+  "learningObjectives": [
+    "Use a/an or another determiner with singular countable nouns and choose the correct plural form.",
+    "Name professions and describe individual characteristics using a/an where needed.",
+    "Make general statements with plural nouns without inserting some unnecessarily.",
+    "Use some with plurals to describe particular items or a subset rather than a whole category."
+  ],
+  "explanation": [
+    {
+      "heading": "Singular countable nouns require a determiner",
+      "body": "Countable nouns name people or items that can normally be counted. A singular countable noun usually needs a determiner such as a, an, the, this or my in a complete noun phrase. Use a before a consonant sound and an before a vowel sound; the sound, not the first written letter, determines the choice. Plural countable nouns can appear with a number, a determiner or no article.",
+      "example": "I borrowed an atlas, and my classmates borrowed two maps."
+    },
+    {
+      "heading": "Use a/an to identify a kind of person or thing",
+      "body": "Use a/an with a singular countable noun when identifying its type, role or classification. Jobs usually follow this pattern after be, become or work as: a designer, an editor. With plural subjects, use plural job nouns without a/an: they are designers. Classification statements can also use bare plurals to refer to a group generally.",
+      "example": "Priya is an illustrator, but her brothers are photographers."
+    },
+    {
+      "heading": "Descriptions: a single feature versus plural features",
+      "body": "When a feature is a single countable part, a/an can be needed: a friendly smile, an unusual voice or a long neck. Plural features do not take a/an: bright eyes or strong hands. Do not automatically add an article simply because an adjective comes before a plural noun.",
+      "example": "The actor has a warm smile and expressive eyes."
+    },
+    {
+      "heading": "Bare plurals refer to categories in general",
+      "body": "Use a bare plural noun when making a broad statement about members of a category. For example, bicycles can be useful transport or librarians help people find books. In these contexts, some would normally introduce a limited group rather than describe the category as a whole. Bare plurals also follow plural forms of be when identifying occupations.",
+      "example": "Paramedics respond to emergencies."
+    },
+    {
+      "heading": "Some can mean a number or not all",
+      "body": "Use some with plural countable nouns for an unspecified number of particular people or things: I met some visitors after the talk. In many ordinary contexts some is optional, but it signals that the speaker is referring to a particular collection. Some also contrasts a subset with the rest of a group: some applicants have experience, while others are new. Do not confuse this limited meaning with a general statement about everyone in a category.",
+      "example": "Some volunteers arrived early, but the others came after lunch."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "One member of a type versus a plural category",
+      "left": {
+        "label": "Singular identification",
+        "example": "Nadia is a biologist.",
+        "note": "A names one person's profession and precedes a singular countable noun."
+      },
+      "right": {
+        "label": "Plural identification",
+        "example": "Nadia and Eva are biologists.",
+        "note": "A/an is not used before the plural profession biologists."
+      }
+    },
+    {
+      "title": "Talking about a whole category versus a subset",
+      "left": {
+        "label": "General category",
+        "example": "Koalas are mammals.",
+        "note": "The bare plural makes a statement about koalas as a category."
+      },
+      "right": {
+        "label": "Limited group",
+        "example": "Some koalas live near protected forests.",
+        "note": "Some refers to a subset, not necessarily every koala."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "My cousin is a paramedic at the local hospital.",
+      "note": "Paramedic is a singular profession, so it takes a."
+    },
+    {
+      "sentence": "Hugo has an unusual accent and a friendly voice.",
+      "note": "Both accent and voice are singular countable nouns; their articles follow sound."
+    },
+    {
+      "sentence": "Owls are birds that usually hunt at night.",
+      "note": "Owls appears without some because the sentence classifies a whole type of animal."
+    },
+    {
+      "sentence": "I ordered some notebooks for the new trainees.",
+      "note": "Some identifies an unspecified number of particular notebooks."
+    },
+    {
+      "sentence": "Some members joined online, while others attended in person.",
+      "note": "Some contrasts part of a group with the rest."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Leila is engineer.",
+      "correct": "Leila is an engineer.",
+      "why": "A singular profession requires an article; engineer begins with a vowel sound."
+    },
+    {
+      "incorrect": "My parents are a teachers.",
+      "correct": "My parents are teachers.",
+      "why": "Do not use a before a plural profession."
+    },
+    {
+      "incorrect": "What a beautiful paintings!",
+      "correct": "What beautiful paintings!",
+      "why": "The plural countable noun paintings cannot be introduced by a; the plural exclamation needs no article."
+    },
+    {
+      "incorrect": "We need some new umbrella for the trip.",
+      "correct": "We need a new umbrella for the trip.",
+      "why": "Umbrella is singular, so some with a plural-countable meaning cannot modify it; a agrees with the following word new."
+    }
+  ],
+  "studyTips": [
+    "For each singular count noun, check whether a determiner is present. Choose a/an by the sound at the start of the next word.",
+    "Practise changing one-person job descriptions to plural descriptions: an engineer → engineers; a nurse → nurses.",
+    "Compare two statements aloud: Bees are insects (a general classification); some bees live alone (a particular subset)."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Tariq works as ___ architect in a design studio.",
+      "choices": [
+        "a",
+        "an",
+        "some"
+      ],
+      "answerIndex": 1,
+      "feedback": "Architect is a singular occupation beginning with a vowel sound, so use an."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The two sisters work in healthcare. They are ___.",
+      "choices": [
+        "a pharmacist",
+        "an pharmacists",
+        "pharmacists"
+      ],
+      "answerIndex": 2,
+      "feedback": "A plural subject describing a profession needs a plural count noun without a/an."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Complete this general classification about the whole category: ___ are mammals.",
+      "choices": [
+        "Dolphins",
+        "Some dolphins",
+        "A dolphins"
+      ],
+      "answerIndex": 0,
+      "feedback": "The bare plural Dolphins presents a general classification; some would restrict the claim to a subset."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "I met ___ designers from Lisbon at a conference yesterday.",
+      "choices": [
+        "a",
+        "some",
+        "an"
+      ],
+      "answerIndex": 1,
+      "feedback": "Some describes an unspecified number of particular designers; designers is plural."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Amira is ___ (accountant). Write the article and singular job noun.",
+      "acceptedAnswers": [
+        "an accountant"
+      ],
+      "feedback": "An accountant is the natural singular job description; accountant begins with a vowel sound."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The exhibition includes ___ (painting). Write some followed by the plural noun.",
+      "acceptedAnswers": [
+        "some paintings"
+      ],
+      "feedback": "Some paintings refers to an unspecified number of countable artworks."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The singer has ___ (short beard). Write the article, adjective and noun.",
+      "acceptedAnswers": [
+        "a short beard"
+      ],
+      "feedback": "Beard is a single countable feature, and short begins with a consonant sound."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "___ (elephant) are large mammals. Write the bare plural noun for a general classification.",
+      "acceptedAnswers": [
+        "Elephants"
+      ],
+      "feedback": "A bare plural can name a category in general without some."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence by adding the missing article: Nora is doctor at the community clinic.",
+      "acceptedAnswers": [
+        "Nora is a doctor at the community clinic."
+      ],
+      "feedback": "The singular profession doctor needs a in this description."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct only the article: What a beautiful paintings!",
+      "acceptedAnswers": [
+        "What beautiful paintings!"
+      ],
+      "feedback": "The plural noun paintings cannot take a; remove the article."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct only the determiner: He bought some new umbrella yesterday.",
+      "acceptedAnswers": [
+        "He bought a new umbrella yesterday."
+      ],
+      "feedback": "New umbrella is one singular countable item; use a before new."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct only the article: My friends are a talented musicians.",
+      "acceptedAnswers": [
+        "My friends are talented musicians."
+      ],
+      "feedback": "Musicians is plural, so do not put a before the adjective and noun."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "State Lena’s job in one complete sentence. Use the exact facts “Lena / be / pilot” and begin “Lena is”.",
+      "acceptedAnswers": [
+        "Lena is a pilot."
+      ],
+      "feedback": "A pilot identifies a singular profession."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say one sentence with these facts: Zara / be / an engineer. Begin “Zara is”.",
+      "acceptedAnswers": [
+        "Zara is an engineer."
+      ],
+      "feedback": "Engineer takes an because its first sound is a vowel."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Correct the article and say the full sentence, changing nothing else: “Mia is a accountant.”",
+      "acceptedAnswers": [
+        "Mia is an accountant."
+      ],
+      "feedback": "The profession accountant begins with a vowel sound, so an replaces a."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Two neighbours have the same job. State the facts in one sentence: both neighbours / architects. Begin “They are”.",
+      "acceptedAnswers": [
+        "They are architects."
+      ],
+      "feedback": "The plural job name architects has no a/an."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Report a past meeting in one sentence: I / spoke to / some exchange students / yesterday. Keep the given wording.",
+      "acceptedAnswers": [
+        "I spoke to some exchange students yesterday."
+      ],
+      "feedback": "Some refers to a particular, unspecified number of students."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Give a general classification using the exact facts: sparrows / are / birds. Begin “Sparrows”.",
+      "acceptedAnswers": [
+        "Sparrows are birds."
+      ],
+      "feedback": "The bare plural refers to the category as a whole."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences with these facts. First: “Students in this group study English.” Second: some students / also speak / French. Keep this order and begin the second sentence “Some students”.",
+      "acceptedAnswers": [
+        "Students in this group study English. Some students also speak French."
+      ],
+      "feedback": "The first statement applies to the whole group; the second identifies a subset."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Describe Dina in one complete sentence. Begin “Dina has” and use the exact features “a round face” and “green eyes”, joined with “and”.",
+      "acceptedAnswers": [
+        "Dina has a round face and green eyes."
+      ],
+      "feedback": "Use a for the single countable feature face, but no article before plural eyes."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Asha is an engineer, and her two brothers are musicians.",
+      "prompt": "Which statement correctly identifies their jobs?",
+      "choices": [
+        "Asha is a musician and her brothers are engineers.",
+        "Asha is an engineer and her brothers are musicians.",
+        "All three are engineers."
+      ],
+      "answerIndex": 1,
+      "feedback": "An engineer identifies Asha’s job; musicians identifies the brothers’ jobs."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I packed some extra notebooks for the workshop, but I forgot the coloured markers.",
+      "prompt": "What did the speaker forget?",
+      "choices": [
+        "Notebooks.",
+        "A projector.",
+        "Coloured markers."
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker packed notebooks but specifically forgot the markers."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "My uncle is an optician at a small shop.",
+      "prompt": "Type the two-word occupation phrase immediately after “is”.",
+      "acceptedAnswers": [
+        "an optician"
+      ],
+      "feedback": "An optician is the audible phrase identifying the uncle’s profession."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "All members joined the induction meeting, but some members stayed afterwards to ask questions.",
+      "prompt": "Who stayed to ask questions?",
+      "choices": [
+        "Only part of the group.",
+        "Every person at the meeting.",
+        "Nobody from the group."
+      ],
+      "answerIndex": 0,
+      "feedback": "Some members refers to a subset of those who attended, not everyone."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Owen has a narrow face and dark eyes, while his brother has a broad face and brown eyes.",
+      "prompt": "Which feature describes Owen, not his brother?",
+      "choices": [
+        "A broad face.",
+        "A narrow face.",
+        "Brown eyes."
+      ],
+      "answerIndex": 1,
+      "feedback": "A narrow face is Owen’s feature; broad face and brown eyes describe his brother."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Three visitors are researchers, and their guide is a historian.",
+      "prompt": "What is the guide’s profession?",
+      "choices": [
+        "Researcher.",
+        "Photographer.",
+        "Historian."
+      ],
+      "answerIndex": 2,
+      "feedback": "The audio identifies the guide as a historian, distinct from the visitors who are researchers."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "We need some spare batteries for the remote controls.",
+      "prompt": "Type the three-word noun phrase immediately after “need”.",
+      "acceptedAnswers": [
+        "some spare batteries"
+      ],
+      "feedback": "Some spare batteries refers to an unspecified number of particular batteries."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I saw some dolphins near the harbour entrance.",
+      "prompt": "Type the two-word noun phrase immediately after “saw”.",
+      "acceptedAnswers": [
+        "some dolphins"
+      ],
+      "feedback": "Some dolphins indicates a number of animals observed in that particular situation."
+    }
+  ]
+}

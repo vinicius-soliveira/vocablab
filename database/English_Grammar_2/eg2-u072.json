@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u072",
+  "title": "A/An and The: Introducing and Identifying Nouns",
+  "level": "B1",
+  "topicId": "eg2-u072-a-an-the-reference",
+  "summary": "Choose a/an when introducing or classifying a singular countable person or thing, and the when the listener can identify which one is meant. Use shared context, descriptive details and common frequency expressions to make the choice.",
+  "learningObjectives": [
+    "Introduce an unfamiliar singular countable noun with a/an and refer back to it with the.",
+    "Choose the for objects or people identified by surrounding context or a specifying phrase.",
+    "Distinguish a person’s profession or an unknown example from a particular known person or place.",
+    "Use a/an in rates and frequency expressions such as once a week and twice a day."
+  ],
+  "explanation": [
+    {
+      "heading": "Introduce with a/an and refer back with the",
+      "body": "Use a/an when mentioning a singular countable person or object without assuming that the listener knows which one. On a later mention, the can identify that same item. This is not simply about first versus second position in a paragraph: what matters is whether the listener can identify the intended referent.",
+      "example": "I found a bracelet on the path. The bracelet had a small silver charm."
+    },
+    {
+      "heading": "The points to a particular identifiable person or thing",
+      "body": "Use the when both speaker and listener can tell which person or object is intended. A phrase such as beside the printer or that you recommended may make the reference specific. A/an, by contrast, can mean one unspecified member of a class.",
+      "example": "Please hand me the folder beside the monitor."
+    },
+    {
+      "heading": "Shared situations can identify a noun without earlier mention",
+      "body": "Sometimes the context makes a thing obvious even when nobody has named it before. In a meeting room, the projector may be the one everyone sees; at a café, the manager may be the person responsible for that business. Common destination expressions include the bank, the post office, the doctor and the dentist when the context supplies a recognisable role or place.",
+      "example": "Could you lower the blinds? The afternoon sun is on the screen."
+    },
+    {
+      "heading": "A type of person versus an identified one",
+      "body": "When stating somebody’s profession or classifying an unknown member of a group, use a/an with a singular countable noun: my cousin is a surveyor. Use the for a particular person or thing that is already understood: the surveyor who inspected this bridge. Whether the noun sounds familiar to the speaker is not enough; consider what the listener can identify.",
+      "example": "We need an electrician, but the electrician we usually call is on holiday."
+    },
+    {
+      "heading": "A/an also expresses frequency and rates",
+      "body": "Use a/an in expressions that mean each or per, including once a month, four days a week, twice a day and forty pounds an hour. These are established ways to describe regular frequency, working hours or unit prices. The is not normally interchangeable with a/an in these rate expressions.",
+      "example": "The shuttle runs three times a day during the festival."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "New information versus identifiable information",
+      "left": {
+        "label": "Introducing a noun",
+        "example": "I spotted a kite above the sports field.",
+        "note": "A kite introduces one not-yet-identified object."
+      },
+      "right": {
+        "label": "Referring back",
+        "example": "The kite landed beside the fence.",
+        "note": "The kite refers to the object that has just been introduced."
+      }
+    },
+    {
+      "title": "An occupation versus a particular practitioner",
+      "left": {
+        "label": "A member of a profession",
+        "example": "Yasmin is a dentist.",
+        "note": "A classifies Yasmin by her occupation."
+      },
+      "right": {
+        "label": "A specific appointment",
+        "example": "I have an appointment with the dentist tomorrow.",
+        "note": "The dentist refers to the practitioner understood from the appointment context."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "A guest left a blue backpack at reception.",
+      "note": "A guest and a blue backpack introduce new, unspecified individuals or objects."
+    },
+    {
+      "sentence": "The backpack is now behind the reception desk.",
+      "note": "The backpack refers to the object introduced earlier in the conversation."
+    },
+    {
+      "sentence": "Please switch off the fan above the door.",
+      "note": "The specifying phrase above the door identifies which fan is meant."
+    },
+    {
+      "sentence": "My neighbour is an interpreter who works at conferences.",
+      "note": "An describes a profession without identifying a particular known interpreter."
+    },
+    {
+      "sentence": "This gym offers guided sessions twice a week.",
+      "note": "A week means per week in a frequency expression."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I saw a suitcase by the lift. A suitcase was bright yellow.",
+      "correct": "I saw a suitcase by the lift. The suitcase was bright yellow.",
+      "why": "The second sentence refers to the same suitcase already introduced, so use the."
+    },
+    {
+      "incorrect": "Please turn off a projector by the window.",
+      "correct": "Please turn off the projector by the window.",
+      "why": "When the window phrase identifies the intended projector, use the."
+    },
+    {
+      "incorrect": "Nora works as the translator.",
+      "correct": "Nora works as a translator.",
+      "why": "If the sentence introduces Nora’s occupation rather than a known specific position, use a."
+    },
+    {
+      "incorrect": "The exercise class meets twice the week.",
+      "correct": "The exercise class meets twice a week.",
+      "why": "Twice a week is the normal frequency expression; a means per."
+    }
+  ],
+  "studyTips": [
+    "When choosing an article, ask whether your listener could identify one particular person or thing from the conversation or situation.",
+    "Tell a short two-sentence story about one object: introduce it with a/an, then use the for the same object.",
+    "Memorise complete rate expressions such as once a day, three times a month and sixty kilometres an hour."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "At the market I bought a pear. Later, ___ pear turned out to be ripe.",
+      "choices": [
+        "a",
+        "the",
+        "an"
+      ],
+      "answerIndex": 1,
+      "feedback": "A introduces the pear, and the identifies that same pear when it is mentioned again."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Could you switch off ___ lamp beside your chair? It is too bright.",
+      "choices": [
+        "an",
+        "a",
+        "the"
+      ],
+      "answerIndex": 2,
+      "feedback": "The phrase beside your chair identifies which lamp the speaker means."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "My sister is ___ dentist, but she has the day off today.",
+      "choices": [
+        "a",
+        "the",
+        "an"
+      ],
+      "answerIndex": 0,
+      "feedback": "A describes her profession rather than one particular dentist known to the listener."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The evening class meets twice ___ week.",
+      "choices": [
+        "the",
+        "a",
+        "an"
+      ],
+      "answerIndex": 1,
+      "feedback": "Twice a week means two times per week, so use a."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "On Sunday I found ___ (old key) under the steps. Write the indefinite article and adjective + noun.",
+      "acceptedAnswers": [
+        "an old key"
+      ],
+      "feedback": "Old starts with a vowel sound, and the key is newly introduced."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "At the park I spotted a bicycle by the gate. Later, ___ (bicycle) had disappeared. Use the definite article and noun.",
+      "acceptedAnswers": [
+        "the bicycle"
+      ],
+      "feedback": "The identifies the same bicycle that was mentioned in the previous sentence."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The meeting room is hot. Please open ___ (window beside you). Write the definite article and the given noun phrase.",
+      "acceptedAnswers": [
+        "the window beside you"
+      ],
+      "feedback": "The phrase beside you identifies the intended window."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The bus leaves three times ___ (day). Write the article and singular noun.",
+      "acceptedAnswers": [
+        "a day"
+      ],
+      "feedback": "Three times a day is a regular frequency expression."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "The same wallet is meant in both sentences. Correct only the article in the second sentence: We found a wallet. A wallet was empty.",
+      "acceptedAnswers": [
+        "We found a wallet. The wallet was empty."
+      ],
+      "feedback": "The second reference is to an already introduced wallet, so the is appropriate."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "There is one projector by the window and both speakers know which one. Correct only the article: Please switch off a projector by the window.",
+      "acceptedAnswers": [
+        "Please switch off the projector by the window."
+      ],
+      "feedback": "The identifies the particular projector in the shared setting."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "The sentence states a profession, not a known position. Correct only the article: The new colleague is the architect.",
+      "acceptedAnswers": [
+        "The new colleague is an architect."
+      ],
+      "feedback": "An architect classifies the colleague by occupation; the is not warranted for an unspecified member of the profession."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct only the article in this rate expression: The printer produces twenty pages the minute.",
+      "acceptedAnswers": [
+        "The printer produces twenty pages a minute."
+      ],
+      "feedback": "A minute means per minute in a rate expression."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Tell a friend about a purchase using exactly two sentences. Given facts: I / buy / scarf / yesterday; it / be / blue. Use “a scarf” in the first sentence and “the scarf” in the second. Begin with “I bought”.",
+      "acceptedAnswers": [
+        "I bought a scarf yesterday. The scarf was blue."
+      ],
+      "feedback": "The first sentence uses a for a new item; the second uses the for the same scarf."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Describe a new sighting in one sentence. Use these words in order: I / saw / an unusual bird / in the garden. Start with “I saw”.",
+      "acceptedAnswers": [
+        "I saw an unusual bird in the garden."
+      ],
+      "feedback": "An introduces a previously unidentified bird and precedes the vowel sound in unusual."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Ask someone politely to close a particular window. Begin “Please close” and finish “the window beside the desk”.",
+      "acceptedAnswers": [
+        "Please close the window beside the desk."
+      ],
+      "feedback": "The identifying phrase tells the listener which window to close."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "State Mila’s profession in one complete sentence using the exact words: Mila / be / dentist. Begin “Mila is”.",
+      "acceptedAnswers": [
+        "Mila is a dentist."
+      ],
+      "feedback": "Use a when identifying someone’s occupation."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "You need any suitable bank nearby, not one already selected. Ask one complete question beginning “Is there” and ending “near here”, using “a bank”.",
+      "acceptedAnswers": [
+        "Is there a bank near here?"
+      ],
+      "feedback": "A bank means any suitable bank, not a particular one both speakers have identified."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You mean the particular bank on Pine Street. State one plan. Begin “I need to go to” and finish “the bank on Pine Street”.",
+      "acceptedAnswers": [
+        "I need to go to the bank on Pine Street."
+      ],
+      "feedback": "The street phrase makes the intended bank identifiable."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Report this fixed frequency in one complete sentence: the artist / work / six days a week. Begin “The artist”.",
+      "acceptedAnswers": [
+        "The artist works six days a week."
+      ],
+      "feedback": "A week is the normal per-week frequency expression."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences using these facts, in order: there / be / a printer / in the office. The printer / be / new. Use the article a on the first mention and the on the second.",
+      "acceptedAnswers": [
+        "There is a printer in the office. The printer is new.",
+        "There's a printer in the office. The printer is new."
+      ],
+      "feedback": "A printer introduces it; the printer identifies the same device already mentioned."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "This morning I bought a travel mug. The mug keeps my tea hot for hours.",
+      "prompt": "Which item keeps the speaker’s tea hot?",
+      "choices": [
+        "The travel mug.",
+        "A thermos owned by a friend.",
+        "A kitchen kettle."
+      ],
+      "answerIndex": 0,
+      "feedback": "The mug refers back to the travel mug introduced earlier."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Could you lower the blinds by the door? The sunlight is reflecting off the screen.",
+      "prompt": "What does the speaker ask someone to adjust?",
+      "choices": [
+        "The screen.",
+        "The blinds beside the door.",
+        "The desk lamp."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker identifies the blinds by their position near the door."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Zoe works as a translator for an international charity.",
+      "prompt": "Type the two-word occupation phrase immediately after “as”.",
+      "acceptedAnswers": [
+        "a translator"
+      ],
+      "feedback": "A translator is the spoken phrase identifying Zoe’s profession."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I need a mechanic to check the brakes, but I don't know anyone in this town.",
+      "prompt": "What does the speaker indicate about the mechanic?",
+      "choices": [
+        "A familiar mechanic has already agreed to help.",
+        "The mechanic has finished the repair.",
+        "The speaker has not identified a particular mechanic."
+      ],
+      "answerIndex": 2,
+      "feedback": "A mechanic indicates any suitable person in the profession, not a known individual."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I know the receptionist at this hotel, but I've never met the manager.",
+      "prompt": "Which person has the speaker not met?",
+      "choices": [
+        "The hotel manager.",
+        "The hotel receptionist.",
+        "A guest staying nearby."
+      ],
+      "answerIndex": 0,
+      "feedback": "The manager identifies the person in that role at the hotel, and the speaker has not met them."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The swimming pool offers lessons twice a day, once in the morning and once in the evening.",
+      "prompt": "How often are lessons offered?",
+      "choices": [
+        "Once a day.",
+        "Twice a day.",
+        "Twice a week."
+      ],
+      "answerIndex": 1,
+      "feedback": "Twice a day identifies two daily sessions, reinforced by morning and evening."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Please give me the folder on the top shelf.",
+      "prompt": "Type the two-word noun phrase immediately after “me”.",
+      "acceptedAnswers": [
+        "the folder"
+      ],
+      "feedback": "The folder is the definite noun phrase heard after me; the shelf phrase identifies it."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The taxi service charges fifteen pounds an hour for waiting time.",
+      "prompt": "Type the two-word rate expression immediately after “pounds”.",
+      "acceptedAnswers": [
+        "an hour"
+      ],
+      "feedback": "An hour means per hour, and hour starts with a vowel sound."
+    }
+  ]
+}

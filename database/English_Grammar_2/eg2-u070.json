@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u070",
+  "title": "Countable and Uncountable Nouns: Changes in Meaning",
+  "level": "B2",
+  "topicId": "eg2-u070-countability-meaning-special-nouns",
+  "summary": "Recognise how a noun can change meaning when countable or uncountable. Use natural patterns for noise, paper, hair, room, experience, time and drink servings, and avoid incorrect plurals or articles with common uncountable nouns.",
+  "learningObjectives": [
+    "Interpret common nouns differently when they refer to an individual item, an event, a material or a general quality.",
+    "Describe particular experiences, drinks and single items with countable forms without confusing them with mass meanings.",
+    "Use common uncountable nouns such as advice, furniture, luggage, news and scenery with appropriate determiners and verbs.",
+    "Choose natural alternatives such as job/work, trip/travel, view/scenery and car/traffic according to meaning."
+  ],
+  "explanation": [
+    {
+      "heading": "Meaning changes with countability",
+      "body": "The same noun can identify one event or object in a countable sense and a general quantity or quality in an uncountable sense. A noise is an individual sound, while noise describes sound in general. A paper can mean a newspaper or academic document, whereas paper can mean the writing material. Context, not just spelling, determines the form.",
+      "example": "I heard a sudden noise outside, but the constant noise inside was worse."
+    },
+    {
+      "heading": "Hair, room, experience and time",
+      "body": "A hair is one strand; hair can refer to someone’s hair collectively. A room is an area within a building; room can mean available space. An experience is an event someone lived through; experience is accumulated knowledge or skill. A time can mean an occasion, while time generally describes available duration.",
+      "example": "There is not enough room for another desk, although the building has several empty rooms."
+    },
+    {
+      "heading": "Countable servings of normally uncountable drinks",
+      "body": "Coffee, tea and juice ordinarily name liquids as uncountable substances. In a café or restaurant, a coffee or two coffees can mean one or two servings. Keep the intended meaning clear: “I drink coffee daily” describes the beverage in general, while “We ordered two coffees” counts cups or servings.",
+      "example": "The visitors ordered three teas and one coffee after the lecture."
+    },
+    {
+      "heading": "Common uncountable words and agreement",
+      "body": "Advice, information, furniture, luggage, baggage, accommodation, bread, damage, news, permission, progress, scenery, traffic, weather and work are normally uncountable in their everyday meanings. Avoid nonstandard plurals such as advices, furnitures and informations. Use units when appropriate: a piece of advice, two items of furniture or a loaf of bread. News ends in -s but takes a singular verb: the news is.",
+      "example": "The museum needs more furniture, but the delivery news is encouraging."
+    },
+    {
+      "heading": "Choose a natural countable alternative",
+      "body": "Some closely related ideas have different noun patterns. Job is countable while work is uncountable; a view is countable while scenery is normally uncountable; a trip or journey is countable while travel often describes the activity generally. Likewise, cars are countable, but traffic normally names movement on the roads as a whole. Choose the noun that matches your meaning rather than adding a plural to the mass noun.",
+      "example": "Our guide showed us a wonderful view, and we enjoyed the surrounding scenery."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A single item or event versus a general quality",
+      "left": {
+        "label": "Countable",
+        "example": "I noticed a hair on my sleeve.",
+        "note": "A hair refers to an individual strand."
+      },
+      "right": {
+        "label": "Uncountable",
+        "example": "Her hair was still wet after the shower.",
+        "note": "Hair refers to all the hair on her head, treated together."
+      }
+    },
+    {
+      "title": "Countable and uncountable uses of experience",
+      "left": {
+        "label": "Individual events",
+        "example": "The internship gave me several memorable experiences.",
+        "note": "Experiences are separate events that happened to the speaker."
+      },
+      "right": {
+        "label": "Knowledge or skill",
+        "example": "The applicant has extensive laboratory experience.",
+        "note": "Experience here is accumulated knowledge or skill and is uncountable."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I need some paper to print the tickets.",
+      "note": "Paper is the uncountable writing or printing material, not a publication."
+    },
+    {
+      "sentence": "We had two unusual experiences during the field trip.",
+      "note": "Experiences are countable events rather than general expertise."
+    },
+    {
+      "sentence": "A single hair was stuck to the sleeve of my jacket.",
+      "note": "A hair is one individual strand."
+    },
+    {
+      "sentence": "The news about the repairs is reassuring.",
+      "note": "News is uncountable and takes the singular verb is."
+    },
+    {
+      "sentence": "There was heavy traffic near the station this morning.",
+      "note": "Traffic is uncountable; it does not take a plural ending in this meaning."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The news are surprisingly good today.",
+      "correct": "The news is surprisingly good today.",
+      "why": "News is an uncountable singular-form noun even though it ends in -s."
+    },
+    {
+      "incorrect": "We need more furnitures for the meeting room.",
+      "correct": "We need more furniture for the meeting room.",
+      "why": "Furniture is normally uncountable and does not have the plural furnitures."
+    },
+    {
+      "incorrect": "Could you send me two informations about the course?",
+      "correct": "Could you send me two pieces of information about the course?",
+      "why": "Use a countable unit such as pieces of before information when specifying a number."
+    },
+    {
+      "incorrect": "She has five years of experiences in accounting.",
+      "correct": "She has five years of experience in accounting.",
+      "why": "Experience means accumulated expertise here, not several separate events."
+    }
+  ],
+  "studyTips": [
+    "Ask what a noun means in its sentence before deciding whether it needs a/an, a plural, or no article.",
+    "Build minimal pairs such as a noise/noise, a hair/hair and an experience/experience; say how the meaning changes.",
+    "Learn frequent uncountable nouns as fixed patterns: some advice, a piece of information, much traffic and the news is."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The customer asked for ___ because the booking details were unclear.",
+      "choices": [
+        "an information",
+        "some information",
+        "informations"
+      ],
+      "answerIndex": 1,
+      "feedback": "Information is normally uncountable; some information is the suitable noun phrase."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The laboratory hired Maya because she has ___ with this kind of equipment.",
+      "choices": [
+        "many experiences",
+        "a lot of experience",
+        "several experience"
+      ],
+      "answerIndex": 1,
+      "feedback": "Experience refers to professional skill here, so it is uncountable."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Please make ___ on the shelf for the delivery boxes.",
+      "choices": [
+        "a room",
+        "many rooms",
+        "some room"
+      ],
+      "answerIndex": 2,
+      "feedback": "Room means available space here and is uncountable."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The evening news ___ on at seven tonight.",
+      "choices": [
+        "is",
+        "are",
+        "were"
+      ],
+      "answerIndex": 0,
+      "feedback": "News is uncountable and takes singular verb agreement."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The consultant offered ___ (advice). Write a piece of + the uncountable noun.",
+      "acceptedAnswers": [
+        "a piece of advice"
+      ],
+      "feedback": "A piece of advice makes one countable item out of the uncountable noun advice."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "I noticed two ___ (hair) on my jacket. Write the plural of individual strands.",
+      "acceptedAnswers": [
+        "hairs"
+      ],
+      "feedback": "When you mean separate strands, hair can be countable and have the plural hairs."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The waiter brought three ___ (coffee) to our table. Use the plural noun for three individual servings.",
+      "acceptedAnswers": [
+        "coffees"
+      ],
+      "feedback": "Coffees is natural when it means individual cups or servings."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The website advertised two ___ (job) in the design team. Write the plural countable noun.",
+      "acceptedAnswers": [
+        "jobs"
+      ],
+      "feedback": "Job is countable and takes the plural jobs after two."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct only the verb agreement: Our luggage are in the taxi.",
+      "acceptedAnswers": [
+        "Our luggage is in the taxi."
+      ],
+      "feedback": "Luggage is uncountable and takes the singular verb is."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct only the verb agreement: The news are encouraging this morning.",
+      "acceptedAnswers": [
+        "The news is encouraging this morning."
+      ],
+      "feedback": "Despite its final -s, news is uncountable and uses is."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct only the noun form: The visitors enjoyed the beautiful sceneries along the coast.",
+      "acceptedAnswers": [
+        "The visitors enjoyed the beautiful scenery along the coast."
+      ],
+      "feedback": "Scenery is uncountable when describing natural surroundings, so do not use sceneries."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct only the noun form: Our office needs new furnitures.",
+      "acceptedAnswers": [
+        "Our office needs new furniture."
+      ],
+      "feedback": "Furniture is uncountable and does not normally take the plural ending -s."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say a complete sentence beginning “I need” and ending “about the course”. Use “some information” between those parts.",
+      "acceptedAnswers": [
+        "I need some information about the course."
+      ],
+      "feedback": "Information is uncountable and pairs naturally with some."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say one sentence using these exact facts: she / have / a lot of experience / in sales. Start with “She has”.",
+      "acceptedAnswers": [
+        "She has a lot of experience in sales."
+      ],
+      "feedback": "Experience is uncountable when it describes professional expertise."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "A single strand of hair is on my coat. Begin “There is” and end “on my coat”. Say one complete sentence.",
+      "acceptedAnswers": [
+        "There is a hair on my coat."
+      ],
+      "feedback": "A hair counts a single strand."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Order two cups of coffee at a café. Begin exactly “We would like” and end “please”. Use “two coffees” for the servings.",
+      "acceptedAnswers": [
+        "We would like two coffees, please."
+      ],
+      "feedback": "Two coffees means two servings of the drink."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Say one complete sentence: the news / be / surprising. Begin “The news”. Use the present simple and the full verb form.",
+      "acceptedAnswers": [
+        "The news is surprising."
+      ],
+      "feedback": "News takes singular agreement even though the noun ends with -s."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Say a negative sentence about limited space in the car. Begin “There is not” and end “in the car”. Include “much room”.",
+      "acceptedAnswers": [
+        "There is not much room in the car."
+      ],
+      "feedback": "Room means available space and takes much."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences with these facts: first, the team / buy / three desks; second, it / also buy / some equipment. Use the past simple, and do not add any details.",
+      "acceptedAnswers": [
+        "The team bought three desks. It also bought some equipment."
+      ],
+      "feedback": "Desks is countable; equipment is an uncountable category of things."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Describe one enjoyable journey in one complete past-tense sentence. Begin “That was” and end “trip”. Include “a great”.",
+      "acceptedAnswers": [
+        "That was a great trip."
+      ],
+      "feedback": "Trip is countable, unlike travel meaning travelling in general."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I was offered the position because I had several years of experience working with similar machines.",
+      "prompt": "What helped the speaker get the position?",
+      "choices": [
+        "Professional experience.",
+        "A recent holiday.",
+        "A newspaper article."
+      ],
+      "answerIndex": 0,
+      "feedback": "Experience refers to the professional knowledge the speaker had gained."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I spilled coffee on the original document, so I need a clean sheet of paper.",
+      "prompt": "What does the speaker need now?",
+      "choices": [
+        "A newspaper.",
+        "A clean sheet for writing or printing.",
+        "Another cup of coffee."
+      ],
+      "answerIndex": 1,
+      "feedback": "Sheet of paper refers to a piece of the material, not a newspaper."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I found a hair in my bowl of soup and asked for a replacement.",
+      "prompt": "Type the two-word phrase immediately after “found”.",
+      "acceptedAnswers": [
+        "a hair"
+      ],
+      "feedback": "A hair means one individual strand."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The café brought three coffees and a pot of tea to our table after lunch.",
+      "prompt": "How many individual coffee servings arrived?",
+      "choices": [
+        "One.",
+        "Two.",
+        "Three."
+      ],
+      "answerIndex": 2,
+      "feedback": "Three coffees refers to three cups or servings."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "There is not enough room in the boot of the car for the second suitcase.",
+      "prompt": "What does the speaker mean by room?",
+      "choices": [
+        "Available space for luggage.",
+        "A separate room in a building.",
+        "The number of seats in the car."
+      ],
+      "answerIndex": 0,
+      "feedback": "Room is uncountable here and refers to available space."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We enjoyed the mountain scenery, but heavy traffic on the return journey made us late.",
+      "prompt": "What caused the delay on the way back?",
+      "choices": [
+        "Bad weather.",
+        "A lost suitcase.",
+        "Heavy traffic."
+      ],
+      "answerIndex": 2,
+      "feedback": "Traffic refers to vehicles moving on the roads and is the stated cause of the delay."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The news is much better than we expected this morning.",
+      "prompt": "Type the single verb immediately after “The news”.",
+      "acceptedAnswers": [
+        "is"
+      ],
+      "feedback": "News is an uncountable noun that takes the singular verb is."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Our host gave us two pieces of useful advice about the local trains.",
+      "prompt": "Type the four words immediately after “two”.",
+      "acceptedAnswers": [
+        "pieces of useful advice"
+      ],
+      "feedback": "Pieces of useful advice counts two recommendations without pluralising advice."
+    }
+  ]
+}

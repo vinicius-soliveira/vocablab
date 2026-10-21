@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u132",
+  "title": "Verb and Preposition Patterns: To and At",
+  "level": "B2",
+  "topicId": "eg2-u132-verb-prepositions-to-at",
+  "summary": "Choose to or at after common verbs, recognise when no preposition is needed, and use changes in preposition to express different intentions, such as shouting to be heard versus shouting in anger.",
+  "learningObjectives": [
+    "Use speak to, listen to, apologise to and explain something to someone in appropriate sentence patterns.",
+    "Avoid inserting to after ask, phone, call, text, email, thank or answer when the person or message is a direct object.",
+    "Use look at, glance at, stare at, laugh at and point at for attention or direction.",
+    "Distinguish shout at/to and throw at/to according to aggressive intention, distance or intended recipient."
+  ],
+  "explanation": [
+    {
+      "heading": "Use to for listeners and recipients of explanations",
+      "body": "Talk or speak to somebody identifies the person you communicate with; speak with is also possible. Listen to names what receives your attention. Apologise to a person names who receives your apology. Explain a fact, rule or problem to somebody places the information before to. It is incorrect to place the person immediately after explain in phrases such as explain me the rule. Describe something to somebody follows the same ordering.",
+      "example": "Please explain the new payment method to the customers before lunch."
+    },
+    {
+      "heading": "Some communication verbs take direct objects",
+      "body": "Ask somebody a question, phone somebody, call somebody, text somebody and email somebody do not normally need to before the recipient. Thank somebody and answer somebody or something also take direct objects. Compare email my supervisor with write a message to my supervisor, and answer the complaint with reply to the complaint. Choosing the verb determines whether a preposition is needed.",
+      "example": "I emailed the organiser yesterday, but she has not answered my question."
+    },
+    {
+      "heading": "Use at for visual attention and targets",
+      "body": "Look at, stare at and glance at all direct attention towards someone or something. Look at is general, stare at suggests prolonged or intense looking, and glance at suggests a quick look. Laugh at identifies the person or thing that is the object of laughter. Aim or point an object at a target; shoot or fire at a target describes an attempt, not necessarily a successful hit.",
+      "example": "The speaker glanced at the clock and then looked at the audience."
+    },
+    {
+      "heading": "Shout at and shout to express different purposes",
+      "body": "Shout at somebody usually describes anger, blame or aggressive speech. Shout to somebody typically means raising your voice so that they can hear, often across a distance or through noise. The same loudness can serve very different social purposes. Context therefore matters more than a memorised rule that all shouting takes one preposition.",
+      "example": "The guide shouted to the walkers from the far side of the bridge."
+    },
+    {
+      "heading": "Throw at versus throw to and other directed actions",
+      "body": "Throw something at somebody or something when the intended direction is a target, especially if the aim is to strike it. Throw something to somebody when giving or passing an object for them to receive or catch. Point at and aim at similarly identify targets, whereas reply to identifies a recipient of communication. The difference is about meaning, not simply whether the person is near or far away.",
+      "example": "During practice, the coach threw the ball to a player waiting by the goal."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Explain information versus ask a person",
+      "left": {
+        "label": "explain something to someone",
+        "example": "The guide explained the rules to the visitors.",
+        "note": "Explain takes the information as its object and to before the listener."
+      },
+      "right": {
+        "label": "ask someone something",
+        "example": "The visitors asked the guide several questions.",
+        "note": "Ask can take the person directly with no to."
+      }
+    },
+    {
+      "title": "Passing an object versus targeting it",
+      "left": {
+        "label": "throw to",
+        "example": "The coach threw the ball to the goalkeeper.",
+        "note": "The goalkeeper was the intended receiver."
+      },
+      "right": {
+        "label": "throw at",
+        "example": "A child threw a snowball at the garden wall.",
+        "note": "The wall was a target to be struck."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Could you speak to the receptionist about my appointment?",
+      "note": "Speak to introduces the person being addressed."
+    },
+    {
+      "sentence": "The student listened to the safety announcement carefully.",
+      "note": "Listen takes to before the thing heard."
+    },
+    {
+      "sentence": "We apologised to the neighbours for the loud music.",
+      "note": "Apologised to introduces the people who receive the apology."
+    },
+    {
+      "sentence": "She texted the coach when the session ended.",
+      "note": "Texted takes the recipient directly, without to."
+    },
+    {
+      "sentence": "The photographer pointed at a building across the square.",
+      "note": "Pointed at identifies the target of the gesture."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Can you explain me the new timetable?",
+      "correct": "Can you explain the new timetable to me?",
+      "why": "Explain takes the information as its direct object and to before the recipient."
+    },
+    {
+      "incorrect": "Please listen the instructions carefully.",
+      "correct": "Please listen to the instructions carefully.",
+      "why": "The verb listen requires to before its object."
+    },
+    {
+      "incorrect": "I called to the hotel to confirm our room.",
+      "correct": "I called the hotel to confirm our room.",
+      "why": "Call a person or business directly; do not insert to before this object."
+    },
+    {
+      "incorrect": "She thanked to the staff for staying late.",
+      "correct": "She thanked the staff for staying late.",
+      "why": "Thank takes the people directly; thank somebody for something."
+    }
+  ],
+  "studyTips": [
+    "Sort verbs into three columns: to (listen to), at (look at) and no preposition (phone somebody). Test yourself with a new object.",
+    "Practise the different object order in explain the instructions to me and ask me a question; do not translate word order directly.",
+    "Invent two short scenes with shouting and throwing; decide whether the action is friendly communication or directed at a target."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The supervisor will explain the revised safety procedure ___ all new employees.",
+      "choices": [
+        "for",
+        "to",
+        "at"
+      ],
+      "answerIndex": 1,
+      "feedback": "Explain a procedure to somebody places to before the recipient of the explanation."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Please ___ the announcement before entering the platform.",
+      "choices": [
+        "listen",
+        "listen at",
+        "listen to"
+      ],
+      "answerIndex": 2,
+      "feedback": "Listen to introduces the sound or information receiving attention."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "To check the time without interrupting, Nina briefly glanced ___ her watch.",
+      "choices": [
+        "at",
+        "to",
+        "on"
+      ],
+      "answerIndex": 0,
+      "feedback": "Glance at expresses a brief look in a particular direction."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The team thanked ___ for helping them carry the boxes.",
+      "choices": [
+        "to the neighbours",
+        "the neighbours",
+        "at the neighbours"
+      ],
+      "answerIndex": 1,
+      "feedback": "Thank takes the person directly; the preposition to is not needed."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The company apologised ___ its customers for the delay. (Supply one preposition.)",
+      "acceptedAnswers": [
+        "to"
+      ],
+      "feedback": "Apologise to identifies who received the apology."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Could you describe the new layout ___ me? (Supply one preposition.)",
+      "acceptedAnswers": [
+        "to"
+      ],
+      "feedback": "Describe information to a person introduces the listener with to."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The photographer pointed the camera ___ the mountains. (Supply one preposition.)",
+      "acceptedAnswers": [
+        "at"
+      ],
+      "feedback": "Point an object at a target names the direction of the camera."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The captain shouted ___ the swimmers across the lake so they could hear her. (Supply one preposition.)",
+      "acceptedAnswers": [
+        "to"
+      ],
+      "feedback": "Shout to highlights being heard over a distance, rather than shouting in anger."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We listened the recording three times before the test.",
+      "acceptedAnswers": [
+        "We listened to the recording three times before the test."
+      ],
+      "feedback": "Listen to, not listen, introduces what is heard."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Please explain me the final result.",
+      "acceptedAnswers": [
+        "Please explain the final result to me."
+      ],
+      "feedback": "Explain takes the information first and to before its recipient."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Hugo texted to his manager that the meeting had ended.",
+      "acceptedAnswers": [
+        "Hugo texted his manager that the meeting had ended."
+      ],
+      "feedback": "The recipient is a direct object after text; no to is required."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The caller did not answer to my question.",
+      "acceptedAnswers": [
+        "The caller did not answer my question."
+      ],
+      "feedback": "Answer a question has no to; reply to a question uses to."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make a complete sentence from these facts: We / listened / the announcement. Use the correct preposition after listened.",
+      "acceptedAnswers": [
+        "We listened to the announcement."
+      ],
+      "feedback": "Listened to is the natural verb–preposition combination."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "A coworker needs the meeting instructions. Say one sentence beginning \"I will explain\" and ending \"the team\". The thing explained is \"the instructions\".",
+      "acceptedAnswers": [
+        "I will explain the instructions to the team.",
+        "I'll explain the instructions to the team."
+      ],
+      "feedback": "Explain the instructions to the team puts the information before the listener."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Correct the preposition error and say the whole sentence, without changing other words: \"I phoned to the hotel yesterday.\"",
+      "acceptedAnswers": [
+        "I phoned the hotel yesterday."
+      ],
+      "feedback": "Phone takes the person or organisation directly."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You accidentally broke a vase. Tell the owner this fact in one sentence beginning \"I apologised\" and ending \"the accident\". Use \"the owner\" and \"for\".",
+      "acceptedAnswers": [
+        "I apologised to the owner for the accident."
+      ],
+      "feedback": "Apologise to the owner introduces the person who receives the apology."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "A visitor looked quickly at a map. Rephrase as one sentence beginning \"The visitor\" using the past tense of \"glance\" and ending \"the map\".",
+      "acceptedAnswers": [
+        "The visitor glanced at the map."
+      ],
+      "feedback": "Glanced at identifies a brief look."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A coach passes a ball for a player to catch. Say one sentence beginning \"The coach threw\" and ending \"the player\". Include \"the ball\".",
+      "acceptedAnswers": [
+        "The coach threw the ball to the player."
+      ],
+      "feedback": "Throw to names the intended receiver, not a target to be hit."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences in this order. First, \"I\" / emailed / the office. Second, \"The office\" / replied / me. Use simple past and the correct verb patterns.",
+      "acceptedAnswers": [
+        "I emailed the office. The office replied to me."
+      ],
+      "feedback": "Email takes a direct object, but reply to introduces the recipient."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You call loudly across a noisy station so your friend hears you, not because you are angry. Say one complete sentence beginning \"I shouted\" and ending \"my friend\".",
+      "acceptedAnswers": [
+        "I shouted to my friend."
+      ],
+      "feedback": "Shout to indicates raised volume for communication rather than aggression."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The instructor explained the evacuation procedure to the visitors, then asked them whether they had any questions.",
+      "prompt": "What did the instructor do first?",
+      "choices": [
+        "Asked about their questions",
+        "Described how to leave safely",
+        "Phoned the emergency services"
+      ],
+      "answerIndex": 1,
+      "feedback": "Explained the evacuation procedure to the visitors comes before the question."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I tried to call the receptionist twice, but she only replied to my email later that afternoon.",
+      "prompt": "How did the receptionist finally respond?",
+      "choices": [
+        "By email",
+        "By phone",
+        "In person"
+      ],
+      "answerIndex": 0,
+      "feedback": "Replied to my email identifies the method of response; calls were not answered."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Please listen to the recorded instructions before you begin the practical exam.",
+      "prompt": "Type the two-word verb–preposition phrase immediately after \"Please\".",
+      "acceptedAnswers": [
+        "listen to"
+      ],
+      "feedback": "Listen to is the verb phrase introducing what must be heard."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The photographer glanced at the clock, then stared at the dark clouds gathering over the hill.",
+      "prompt": "What held the photographer’s attention for longer?",
+      "choices": [
+        "The clock",
+        "A nearby camera",
+        "The clouds"
+      ],
+      "answerIndex": 2,
+      "feedback": "Glanced at suggests a quick look, while stared at suggests prolonged attention to the clouds."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The manager shouted at me after I missed the deadline, but she shouted to the security guard because he was far away.",
+      "prompt": "Why did the manager raise her voice to the guard?",
+      "choices": [
+        "She blamed him for the missed deadline.",
+        "She needed to be heard from a distance.",
+        "She was giving him a warning about me."
+      ],
+      "answerIndex": 1,
+      "feedback": "Shouted to shows an attempt to reach a distant listener rather than aggression."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "During the game, Elena threw the ball to her brother. A minute later, she threw a snowball at the fence.",
+      "prompt": "What was the intended target of the second throw?",
+      "choices": [
+        "The fence",
+        "Her brother",
+        "The ball"
+      ],
+      "answerIndex": 0,
+      "feedback": "To marks the brother as receiver of the first throw; at identifies the fence as the second target."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "I thanked the volunteers for preparing the hall before the guests arrived.",
+      "prompt": "Type the three words immediately after \"I\" that name the people being thanked.",
+      "acceptedAnswers": [
+        "thanked the volunteers"
+      ],
+      "feedback": "Thank is followed directly by the people being thanked; no to is used."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The scientist pointed at a distant island while describing the journey.",
+      "prompt": "Type the two-word verb–preposition phrase immediately after \"The scientist\".",
+      "acceptedAnswers": [
+        "pointed at"
+      ],
+      "feedback": "Pointed at identifies a visible target in the distance."
+    }
+  ]
+}

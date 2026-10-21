@@ -1,0 +1,411 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u007",
+  "title": "Present perfect: recent events and present results",
+  "level": "B1",
+  "topicId": "eg2-u007-present-perfect-recent-results",
+  "summary": "Use have or has with a past participle to report recent changes and completed actions that matter now. Describe news and visible results; place just, already and yet naturally; and distinguish has gone to from has been to.",
+  "learningObjectives": [
+    "Build affirmative, negative and question forms of the present perfect with have/has and a past participle.",
+    "Connect a completed past event with its visible result or relevance at the present moment.",
+    "Use just, already and yet to communicate recency, earlier-than-expected completion or an expected action that is pending.",
+    "Distinguish gone to (away now) from been to (visited and returned) when describing someone’s location."
+  ],
+  "explanation": [
+    {
+      "heading": "Connect a completed event with the situation now",
+      "body": "Use the present perfect when something happened before now but the important information is its current consequence. You may not know or need to say when the event happened. The focus is on the change, result or new information that the listener can use now. A completed event does not have to be very recent: its result can still matter.",
+      "example": "The router has failed, so the office has no internet connection."
+    },
+    {
+      "heading": "Make the form with have/has and a past participle",
+      "body": "Use have with I, you, we and they; use has with he, she, it and singular nouns. Follow the auxiliary with a past participle: have checked, has taken, have written. Make negatives with haven’t/hasn’t and questions by placing Have or Has before the subject. In speech, I’ve, we’ve and she’s often replace full forms; in this use, she’s means she has.",
+      "example": "Has the coordinator received the signed agreement?"
+    },
+    {
+      "heading": "Present a recent event as news with just",
+      "body": "Just usually appears between have/has and the past participle when the speaker means a very short time ago. It is useful for announcing an update that changes what someone can do next. In everyday American English, the past simple can also appear with just; the present perfect remains a standard choice, especially in British English.",
+      "example": "We have just uploaded the revised timetable, so everyone can check it."
+    },
+    {
+      "heading": "Choose already or yet to express expectations",
+      "body": "Already commonly appears between have/has and the past participle to show an action was completed earlier than someone might expect. Yet commonly appears at the end of a negative sentence or question when completion is expected but has not been confirmed or has not happened up to now. Do not treat the two words as simple synonyms.",
+      "example": "The tickets have already sold out, but the organisers haven’t announced a second date yet."
+    },
+    {
+      "heading": "Use gone to and been to for different locations",
+      "body": "Has gone to a place normally means the person has left and is still there or on the way. Has been to a place normally means the person visited it and has returned. Choose the expression from the person’s current location, not simply from the fact of travelling. Other senses of been and gone exist, but this contrast is about visits.",
+      "example": "Rosa has gone to the warehouse; Daniel has been there and is back at his desk."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Present result versus a past event named in time",
+      "left": {
+        "label": "Current consequence",
+        "example": "The power has gone off, so the computers are unavailable.",
+        "note": "The power failure matters because it affects the situation now."
+      },
+      "right": {
+        "label": "Finished-time report",
+        "example": "The power went off during yesterday’s storm.",
+        "note": "The finished time identifies when the event occurred; a past-simple report is natural."
+      }
+    },
+    {
+      "title": "Gone to versus been to",
+      "left": {
+        "label": "Gone to: away now",
+        "example": "Rina has gone to the pharmacy.",
+        "note": "Rina is at the pharmacy or travelling there, not back yet."
+      },
+      "right": {
+        "label": "Been to: returned",
+        "example": "Rina has been to the pharmacy.",
+        "note": "Rina visited it and has returned."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The designer has corrected the label, so the package can go to print.",
+      "note": "A finished correction has a practical result now."
+    },
+    {
+      "sentence": "I haven’t found the missing receipt yet.",
+      "note": "Yet indicates an expected result that is still pending."
+    },
+    {
+      "sentence": "Has the delivery van arrived yet?",
+      "note": "A question with yet checks whether the anticipated arrival has happened."
+    },
+    {
+      "sentence": "The receptionist has already told everyone about the room change.",
+      "note": "Already shows the update was made sooner than someone may have expected."
+    },
+    {
+      "sentence": "The technician has just replaced the cable.",
+      "note": "Has just replaced reports a very recent completed action."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The programme has crashed yesterday.",
+      "correct": "The programme crashed yesterday.",
+      "why": "A specified finished time such as yesterday normally takes the past simple, not the present perfect."
+    },
+    {
+      "incorrect": "She has went to the storeroom and is still there.",
+      "correct": "She has gone to the storeroom and is still there.",
+      "why": "Gone is the past participle of go; went is its past-simple form."
+    },
+    {
+      "incorrect": "We hasn’t received the code yet.",
+      "correct": "We haven’t received the code yet.",
+      "why": "We requires have or haven’t, not has or hasn’t."
+    },
+    {
+      "incorrect": "Have they finished the inspection already yet?",
+      "correct": "Have they finished the inspection yet?",
+      "why": "Yet alone is the natural neutral choice here for checking expected completion; do not stack already and yet."
+    }
+  ],
+  "studyTips": [
+    "Before choosing the tense, finish the thought with “so now ...” to test whether the event has a present consequence.",
+    "Learn participles in three-part groups: go–went–gone, write–wrote–written, break–broke–broken.",
+    "Place just and already before the participle; place yet at the end when asking about or denying expected completion."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The screen is working again because the technician ___ the faulty cable.",
+      "choices": [
+        "has replaced",
+        "has replace",
+        "have replaced"
+      ],
+      "answerIndex": 0,
+      "feedback": "Technician is singular, so use has followed by the past participle replaced; the working screen is the present result."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The meeting started early, and I can’t find Sara at her desk. She ___ to the meeting room and has not returned.",
+      "choices": [
+        "has been",
+        "has gone",
+        "have gone"
+      ],
+      "answerIndex": 1,
+      "feedback": "Has gone to indicates that Sara is away at the destination or on her way; has been to would normally mean she returned."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "We have finished setting up the venue, but the guests ___ yet.",
+      "choices": [
+        "haven’t arrived",
+        "hasn’t arrived",
+        "haven’t arrive"
+      ],
+      "answerIndex": 0,
+      "feedback": "Guests is plural, so use haven’t arrived; yet shows their arrival is still expected."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "You needn’t print another copy. I ___ printed the signed form.",
+      "choices": [
+        "yet",
+        "still",
+        "have already"
+      ],
+      "answerIndex": 2,
+      "feedback": "Have already printed means the job is finished sooner than the listener expected, so another copy is unnecessary."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The booking website is back online. The developer ___ (just / fix) the error. Write the present-perfect verb phrase.",
+      "acceptedAnswers": [
+        "has just fixed"
+      ],
+      "feedback": "With singular developer, use has just fixed to report a very recent completed repair."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "We ___ (not / send) the invitations yet, so the guests have not received them. Write the complete present-perfect verb phrase.",
+      "acceptedAnswers": [
+        "haven’t sent",
+        "have not sent"
+      ],
+      "feedback": "Use have not or haven’t + the participle sent. Yet at the end shows that the invitations are still expected."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "___ (the manager / already / approve) the new budget? Write the opening present-perfect question phrase.",
+      "acceptedAnswers": [
+        "Has the manager already approved"
+      ],
+      "feedback": "Put Has before the subject and already before the participle approved."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "I cannot open the locker. I ___ (lose) the key. Write the present-perfect verb phrase.",
+      "acceptedAnswers": [
+        "have lost"
+      ],
+      "feedback": "Use have lost for an earlier event with a consequence now. Since I is already outside the gap, enter the full auxiliary have."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Nadia has went to the parcel counter and is still there.",
+      "acceptedAnswers": [
+        "Nadia has gone to the parcel counter and is still there."
+      ],
+      "feedback": "Has requires the past participle gone, not went; gone to also fits the fact that Nadia is still away."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The train hasn’t arrived already, so we are still waiting.",
+      "acceptedAnswers": [
+        "The train hasn’t arrived yet, so we are still waiting.",
+        "The train has not arrived yet, so we are still waiting."
+      ],
+      "feedback": "Yet is the natural word in this negative sentence about a train that is expected to arrive."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I have just wrote the final paragraph of the report.",
+      "acceptedAnswers": [
+        "I have just written the final paragraph of the report."
+      ],
+      "feedback": "Use written, the past participle of write, after have."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We has already received the payment confirmation.",
+      "acceptedAnswers": [
+        "We have already received the payment confirmation.",
+        "We’ve already received the payment confirmation."
+      ],
+      "feedback": "Use have or ’ve with we; has is for a third-person singular subject."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one complete sentence announcing this update. Facts: Nora / just / submit / the report. Begin with “Nora” and use the present perfect.",
+      "acceptedAnswers": [
+        "Nora has just submitted the report.",
+        "Nora’s just submitted the report."
+      ],
+      "feedback": "Use has just submitted. Here Nora’s is a contraction of Nora has."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Alex cannot enter the building because he cannot find his ID card; he lost it earlier. Begin with “Alex” and state the result in one present-perfect sentence using “lose”.",
+      "acceptedAnswers": [
+        "Alex has lost his ID card.",
+        "Alex’s lost his ID card."
+      ],
+      "feedback": "Has lost reports the earlier loss as the reason Alex lacks his card now."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "A colleague asks if you have packed the samples. You have not done it. Reply in one full sentence beginning with “I” and ending with “yet”.",
+      "acceptedAnswers": [
+        "I haven’t packed the samples yet.",
+        "I have not packed the samples yet."
+      ],
+      "feedback": "Use haven’t packed yet for an expected task that remains incomplete."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Maya left for the airport and has not returned. Report her current situation in one sentence beginning “Maya”, using “has gone”.",
+      "acceptedAnswers": [
+        "Maya has gone to the airport."
+      ],
+      "feedback": "Gone to implies Maya is travelling to or still at the airport."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Tariq visited Berlin last month and is now back home. State his travel experience with “has been to”. Begin with “Tariq”. Do not mention when the visit happened.",
+      "acceptedAnswers": [
+        "Tariq has been to Berlin."
+      ],
+      "feedback": "Has been to Berlin communicates a visit followed by a return."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Ask whether Ellie has finished the online form. Begin with “Has Ellie” and put “yet” at the end.",
+      "acceptedAnswers": [
+        "Has Ellie finished the online form yet?"
+      ],
+      "feedback": "Use Has + subject + past participle, with yet at the end to ask about expected completion."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct only the participle error and say the full sentence: “The lift has broke down, so we must use the stairs.”",
+      "acceptedAnswers": [
+        "The lift has broken down, so we must use the stairs."
+      ],
+      "feedback": "Broken is the past participle of break; the breakdown affects the present."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences using full forms. First: “the technician / just / fix / the projector” in the present perfect. Then say exactly: “It works now.” Begin with “The technician”.",
+      "acceptedAnswers": [
+        "The technician has just fixed the projector. It works now."
+      ],
+      "feedback": "The first sentence reports a recent completed repair; the second names its present result."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "prompt": "Why can the listener open the figures now?",
+      "choices": [
+        "They were deleted.",
+        "They have been uploaded.",
+        "They still need approval."
+      ],
+      "answerIndex": 1,
+      "feedback": "The completed upload is the reason the figures are available now.",
+      "audioText": "I have just uploaded the figures to our shared folder, so you can open them now."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "prompt": "Where is Jules now?",
+      "choices": [
+        "He is at home after his visit.",
+        "He has returned to the office.",
+        "He is away at or on the way to the pharmacy."
+      ],
+      "answerIndex": 2,
+      "feedback": "Has gone to indicates Jules has not returned yet.",
+      "audioText": "Jules has gone to the pharmacy. He should be back here in about twenty minutes."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "prompt": "Type the three-word verb phrase immediately after “The manager”.",
+      "acceptedAnswers": [
+        "has already approved"
+      ],
+      "feedback": "Has already approved marks a completed decision, earlier than someone might expect.",
+      "audioText": "The manager has already approved the revised plan."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "prompt": "Which task remains unfinished?",
+      "choices": [
+        "Paying the deposit",
+        "Choosing the room",
+        "Making the reservation"
+      ],
+      "answerIndex": 0,
+      "feedback": "The room has been reserved; the negative with yet applies to paying the deposit.",
+      "audioText": "We have reserved the conference room, but we have not paid the deposit yet."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "prompt": "What is true about Mara?",
+      "choices": [
+        "She is still in Copenhagen.",
+        "She has returned from those visits.",
+        "She has never visited Copenhagen."
+      ],
+      "answerIndex": 1,
+      "feedback": "Has been to describes trips from which Mara returned; she is currently working from home.",
+      "audioText": "Mara has been to Copenhagen twice, but this week she is working from home."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "prompt": "Why should the chart not be published now?",
+      "choices": [
+        "The chart is already public.",
+        "The chart has been cancelled.",
+        "The speaker still needs to check the figures."
+      ],
+      "answerIndex": 2,
+      "feedback": "Haven’t checked yet identifies the action that has not happened.",
+      "audioText": "I haven’t checked the final figures yet, so please wait before publishing the chart."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "prompt": "Type the three-word verb phrase immediately after “Our neighbours”.",
+      "acceptedAnswers": [
+        "have just moved"
+      ],
+      "feedback": "Have just moved reports a very recent change.",
+      "audioText": "Our neighbours have just moved into the flat upstairs."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "prompt": "Type the negative verb phrase immediately after “The file”.",
+      "acceptedAnswers": [
+        "hasn’t arrived",
+        "has not arrived"
+      ],
+      "feedback": "Hasn’t arrived is the negative perfect verb phrase before yet; the full auxiliary form is also valid.",
+      "audioText": "The file hasn’t arrived yet, so we are waiting to begin."
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u138",
+  "title": "Phrasal Verbs with In and Out",
+  "level": "B2",
+  "topicId": "eg2-u138-phrasal-verbs-in-out",
+  "summary": "Use in and out to describe entering and leaving places, distinguish these particles from into and out of before a destination, and apply everyday combinations for visits, participation, power, forms, restaurants, dropping out and omitting information.",
+  "learningObjectives": [
+    "Choose in or out for movement into or away from an understood place, and use into or out of before a named place.",
+    "Use check in, check out, move in, move out and let somebody in or out in realistic situations.",
+    "Use drop in, join in, plug in, fill in or out and take somebody in with their appropriate meanings and objects.",
+    "Use eat out, drop out of, get out of, leave out and cross out without confusing omission, withdrawal and avoidance."
+  ],
+  "explanation": [
+    {
+      "heading": "In and out for entering and leaving",
+      "body": "In can indicate movement into an understood place, and out can indicate movement away from it: come in, step out, move in, get out. When the place is stated, it is common to use into or out of: step into the room, get out of the car. These patterns convey a difference between an unstated destination and a named one.",
+      "example": "The guard opened the side door and invited the visitors in."
+    },
+    {
+      "heading": "Moving and checking in or out",
+      "body": "Move in means begin living in a home; move out means leave a home permanently or for a new place. Move into a flat and move out of a house explicitly name the places involved. At a hotel, check in means register on arrival, while check out means complete departure arrangements. Avoid mixing the hotel sense with checkout in a shop.",
+      "example": "We checked out early and moved into the rented cottage that afternoon."
+    },
+    {
+      "heading": "Visiting, participating and connecting devices",
+      "body": "Drop in is an informal, usually unplanned short visit, often followed by on someone or to see someone. Join in means take part in an activity already happening. Plug in a device, or plug it in, means connect it to power. These expressions do different jobs despite sharing the particle in.",
+      "example": "When the workshop began, two neighbours dropped in and joined in the discussion."
+    },
+    {
+      "heading": "Completing information and recognising deception",
+      "body": "Fill in and fill out can both mean complete a form by entering the required details. With a pronoun, say fill it in or fill it out. Take somebody in can mean deceive somebody into believing a false claim: the person is taken in by the story. This meaning is separate from allowing someone to enter a place.",
+      "example": "The online message looked convincing, but it did not take the cautious buyer in."
+    },
+    {
+      "heading": "Out for eating elsewhere, leaving or removing",
+      "body": "Eat out means have a meal away from home, normally in a restaurant. Drop out of a course or competition means stop participating before completing it; get out of an agreed duty means avoid doing it. Leave something out means omit a detail, while cross something out means draw a line through words to delete them. In these separable combinations, say leave it out and cross it out.",
+      "example": "The editor crossed out the incorrect date but left the rest of the paragraph unchanged."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Destination implied versus destination named",
+      "left": {
+        "label": "In or out alone",
+        "example": "The swimmer climbed out.",
+        "note": "The place being left is understood from context."
+      },
+      "right": {
+        "label": "Out of + named place",
+        "example": "The swimmer climbed out of the pool.",
+        "note": "Out of introduces the place from which the swimmer emerged."
+      }
+    },
+    {
+      "title": "Leaving a course versus leaving a detail",
+      "left": {
+        "label": "Drop out of + activity",
+        "example": "Jules dropped out of the evening class.",
+        "note": "The person stopped participating before the course ended."
+      },
+      "right": {
+        "label": "Leave out + information",
+        "example": "Jules left out the final paragraph.",
+        "note": "Information was omitted from a text; it was not a withdrawal from a course."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The residents moved into their new apartment at the start of September.",
+      "note": "Into directly introduces the named new home."
+    },
+    {
+      "sentence": "Visitors must check in at reception before entering the exhibition hall.",
+      "note": "Check in names arrival and registration."
+    },
+    {
+      "sentence": "Everyone was already singing when I joined in.",
+      "note": "Join in means start participating in something under way."
+    },
+    {
+      "sentence": "Please plug the projector in before the audience arrives.",
+      "note": "Plug in is separable with a noun object."
+    },
+    {
+      "sentence": "The applicant left her middle name out of the online form by mistake.",
+      "note": "Leave out means omit information, whether deliberately or accidentally."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "We are moving in our new house on Saturday.",
+      "correct": "We are moving into our new house on Saturday.",
+      "why": "Move into a named property uses into; move in alone can leave the destination unstated."
+    },
+    {
+      "incorrect": "He dropped out from the language course in March.",
+      "correct": "He dropped out of the language course in March.",
+      "why": "Drop out of is the standard fixed pattern for withdrawing from a course."
+    },
+    {
+      "incorrect": "Please plug in it before you start the demonstration.",
+      "correct": "Please plug it in before you start the demonstration.",
+      "why": "The pronoun it belongs between plug and in in this separable phrasal verb."
+    },
+    {
+      "incorrect": "I accidentally crossed out it on the form.",
+      "correct": "I accidentally crossed it out on the form.",
+      "why": "Cross out is separable; put the object pronoun before out."
+    }
+  ],
+  "studyTips": [
+    "Practise four directions with a room: go in, go into the room, go out, go out of the room.",
+    "Organise in/out verbs by context: hotel (check in/out), devices (plug in), visits (drop in) and forms (fill in/out).",
+    "Contrast similar-looking meanings aloud: drop out of a class, get out of a duty, leave out a name, and cross out an incorrect word."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The guests have arrived at their hotel and want their room keys. They need to ___.",
+      "choices": [
+        "check in",
+        "check out",
+        "drop out"
+      ],
+      "answerIndex": 0,
+      "feedback": "Hotel guests check in when registering on arrival; check out is done on departure."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The new tenant signed the agreement and is moving ___ the apartment on Monday.",
+      "choices": [
+        "in",
+        "into",
+        "out"
+      ],
+      "answerIndex": 1,
+      "feedback": "Move into + a named home expresses entering it to live there; move in can stand alone."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The team had already started the game, but Priya wanted to ___ and play too.",
+      "choices": [
+        "drop out",
+        "check in",
+        "join in"
+      ],
+      "answerIndex": 2,
+      "feedback": "Join in means start participating in an activity that has already begun."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "This date is incorrect. Use a pen to ___ and write the correct one next to it.",
+      "choices": [
+        "cross it out",
+        "cross out it",
+        "drop it out"
+      ],
+      "answerIndex": 0,
+      "feedback": "Cross it out means draw a line through it, and the pronoun must appear before out."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The dining room was closed, so we decided to ___ at a nearby restaurant. (Use the two-word verb for having a restaurant meal.)",
+      "acceptedAnswers": [
+        "eat out"
+      ],
+      "feedback": "Eat out means have a meal away from home, usually at a restaurant."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Nora started the course but ___ after the first month. (Write the past-simple form of drop out; two words.)",
+      "acceptedAnswers": [
+        "dropped out"
+      ],
+      "feedback": "Dropped out means Nora left the course without completing it."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We had not arranged a visit, but we ___ to see our neighbours on the way home. (Use the past simple of drop in; two words.)",
+      "acceptedAnswers": [
+        "dropped in"
+      ],
+      "feedback": "Dropped in means paid an informal visit without arranging it in advance."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The tablet needs power. Please plug ___ before the lesson. (Use the pronoun it and particle in.)",
+      "acceptedAnswers": [
+        "it in"
+      ],
+      "feedback": "Plug it in places the pronoun between the verb and particle."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: They are moving in their new flat this weekend.",
+      "acceptedAnswers": [
+        "They are moving into their new flat this weekend."
+      ],
+      "feedback": "When naming the home after move, use into: move into the flat."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She filled on the application form before lunch.",
+      "acceptedAnswers": [
+        "She filled in the application form before lunch.",
+        "She filled out the application form before lunch."
+      ],
+      "feedback": "Both fill in and fill out are standard for completing a form; fill on is not."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Please leave out it when you prepare the short summary.",
+      "acceptedAnswers": [
+        "Please leave it out when you prepare the short summary."
+      ],
+      "feedback": "The object pronoun it comes between leave and out."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The dog ran out the kitchen when the door opened.",
+      "acceptedAnswers": [
+        "The dog ran out of the kitchen when the door opened."
+      ],
+      "feedback": "Use out of before the named room: ran out of the kitchen. Out alone works when the place is left unstated."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "You have arrived at your hotel and need to register. Say one sentence starting “I need to” and ending “now”, using check in.",
+      "acceptedAnswers": [
+        "I need to check in now."
+      ],
+      "feedback": "Check in names the action guests take when they arrive at a hotel."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say one past-simple sentence with these facts: Ella / move into / her new flat / last Friday. Begin with “Ella”.",
+      "acceptedAnswers": [
+        "Ella moved into her new flat last Friday."
+      ],
+      "feedback": "Moved into identifies the named new home."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Correct only the object position in this sentence and say it aloud: “Please plug in it before the meeting.”",
+      "acceptedAnswers": [
+        "Please plug it in before the meeting."
+      ],
+      "feedback": "Plug it in places the pronoun between verb and particle."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Rephrase “We had dinner at a restaurant rather than at home” using eat out. Begin with “We” and use the past simple. Do not mention the restaurant.",
+      "acceptedAnswers": [
+        "We ate out."
+      ],
+      "feedback": "Ate out expresses eating a meal away from home."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Tell a friend to participate in an activity already happening. Use the complete instruction “Please join in the discussion.”",
+      "acceptedAnswers": [
+        "Please join in the discussion."
+      ],
+      "feedback": "Join in the discussion means start taking part in it."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Describe this withdrawal in one sentence: Ravi / drop out of / the training course / in June. Use the past simple and begin with “Ravi”.",
+      "acceptedAnswers": [
+        "Ravi dropped out of the training course in June."
+      ],
+      "feedback": "Drop out of expresses leaving a course before completion."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences in this order using the facts given. First: “the team / check in / at noon” (past simple). Second: “they / check out / the next morning” (past simple). Use full forms.",
+      "acceptedAnswers": [
+        "The team checked in at noon. They checked out the next morning."
+      ],
+      "feedback": "Checked in is hotel arrival registration; checked out is departure."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "An editor asks what you did to an inaccurate sentence. Reply in one past-simple sentence beginning “I” and ending “of the report”. Use leave out, replacing the sentence with the object pronoun it.",
+      "acceptedAnswers": [
+        "I left it out of the report."
+      ],
+      "feedback": "Left it out of the report is the natural expression for omitting a sentence; it goes before out."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I have just arrived at the hostel. I will check in now and collect my key from reception.",
+      "prompt": "What is the speaker about to do?",
+      "choices": [
+        "Leave the hostel for good.",
+        "Register as a guest.",
+        "Cancel a reservation."
+      ],
+      "answerIndex": 1,
+      "feedback": "Check in at a hostel involves arrival and registration."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Mara moved out of her old apartment on Thursday and moved into a smaller one on Saturday.",
+      "prompt": "Where did Mara move on Saturday?",
+      "choices": [
+        "Back into her old apartment.",
+        "Into a hotel room.",
+        "Into a smaller apartment."
+      ],
+      "answerIndex": 2,
+      "feedback": "Moved into identifies the new place she began living in on Saturday."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "When the music started, our neighbours joined in and danced with everyone else.",
+      "prompt": "Type the two-word past-simple phrasal verb immediately after “neighbours”.",
+      "acceptedAnswers": [
+        "joined in"
+      ],
+      "feedback": "Joined in means they became participants in the activity."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The form was almost complete, but Theo left out the phone number by mistake.",
+      "prompt": "What was missing from the form?",
+      "choices": [
+        "A phone number.",
+        "A signature.",
+        "An address."
+      ],
+      "answerIndex": 0,
+      "feedback": "Left out means omitted; the missing information was the phone number."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The online advert looked official, but the company had invented the story. Several people were taken in.",
+      "prompt": "What happened to several people?",
+      "choices": [
+        "They completed an application.",
+        "They were deceived.",
+        "They arrived at a meeting."
+      ],
+      "answerIndex": 1,
+      "feedback": "Taken in here means misled into believing a false story."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I was meant to give the welcome speech, but a colleague offered to do it, so I got out of giving it.",
+      "prompt": "What did the speaker avoid doing?",
+      "choices": [
+        "Giving the welcome speech.",
+        "Attending the event.",
+        "Writing the invitations."
+      ],
+      "answerIndex": 0,
+      "feedback": "Got out of giving it means the speaker no longer had to deliver the speech."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "At reception, we checked out before breakfast because our train left early.",
+      "prompt": "Type the two-word past-simple phrasal verb immediately after “we”.",
+      "acceptedAnswers": [
+        "checked out"
+      ],
+      "feedback": "Checked out describes the formal end of a hotel stay."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The teacher asked me to cross it out because the date was wrong.",
+      "prompt": "Type the three-word phrasal-verb phrase immediately after “to”.",
+      "acceptedAnswers": [
+        "cross it out"
+      ],
+      "feedback": "Cross it out puts the object pronoun in the middle and means mark it for deletion."
+    }
+  ]
+}

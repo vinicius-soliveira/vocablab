@@ -90,7 +90,12 @@
         "B1",
         "B2"
       ],
-      "status": "planned"
+      "status": "available",
+      "contentProvider": "grammar",
+      "manifest": "database/grammar-manifest.json",
+      "sourceIds": [
+        "english-grammar-2"
+      ]
     },
     {
       "id": "english-grammar-3",

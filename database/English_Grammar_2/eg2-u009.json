@@ -1,0 +1,413 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u009",
+  "title": "Present perfect continuous: ongoing and recent activity",
+  "level": "B1",
+  "topicId": "eg2-u009-present-perfect-continuous-activity",
+  "summary": "Use have/has been + -ing to connect an activity to the present: it may still be happening or may have stopped recently with a visible effect. Ask about duration, use time expressions accurately, and distinguish a current action from one continuing over a period.",
+  "learningObjectives": [
+    "Describe a recent activity and its present evidence with have/has been + -ing.",
+    "Explain how long an unfinished or recently ended activity has lasted, using for, since and how long.",
+    "Form negative statements and questions with have/has been + -ing, including correct subject agreement.",
+    "Describe repeated activities over an extended period and contrast a present continuous action with a present perfect continuous one."
+  ],
+  "explanation": [
+    {
+      "heading": "Build the present perfect continuous",
+      "body": "Put have or has before been and the -ing form of the main verb: I have been practising, she has been practising. In speech and informal writing, have/has can contract with the subject. Place not after have/has for a negative; in a question, put have/has before the subject. The form links an activity that began earlier to the present.",
+      "example": "Our neighbours have been renovating their kitchen."
+    },
+    {
+      "heading": "Notice evidence of something done recently",
+      "body": "An activity can have stopped just before we speak. The present perfect continuous then draws attention to what was happening rather than whether a task was completed. A physical clue, a mood or a recent conversation can make the activity relevant now. Do not assume this form proves the work is finished.",
+      "example": "Your shoes are muddy. Have you been walking through the fields?"
+    },
+    {
+      "heading": "Say how long an activity has continued",
+      "body": "Use how long to ask about duration. Use for with a length of time (for forty minutes) and since with a starting point (since Tuesday). The activity can still be going on, or it can have stopped very recently. Unlike a past-simple description of a finished period, this form keeps a connection with now.",
+      "example": "How long has the group been rehearsing for the performance?"
+    },
+    {
+      "heading": "Describe repeated activity over recent weeks or years",
+      "body": "This tense also works for an activity repeated many times within a continuing period. Expressions such as lately, recently, every weekend for months and since last autumn can help the listener interpret the series as ongoing. It need not mean that an action has happened without a break.",
+      "example": "We have been visiting the community garden most Saturdays this year."
+    },
+    {
+      "heading": "Compare an action now with activity leading up to now",
+      "body": "The present continuous (am/is/are + -ing) tells us what is happening at this moment or around now. The present perfect continuous (have/has been + -ing) looks back to activity before the current moment and connects it to now. Use the latter if your main point is the time spent or the evidence left by recent activity.",
+      "example": "Mina is arranging the chairs now; she has been preparing the hall since breakfast."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Happening at this instant versus continuing until now",
+      "left": {
+        "label": "Present continuous",
+        "example": "I am checking the guest list right now.",
+        "note": "The action is in progress at the moment of speaking."
+      },
+      "right": {
+        "label": "Present perfect continuous",
+        "example": "I have been checking names for half an hour.",
+        "note": "The speaker looks back across a period that reaches the present."
+      }
+    },
+    {
+      "title": "Still continuing versus recently finished",
+      "left": {
+        "label": "Unfinished activity",
+        "example": "They have been building a treehouse since spring, and they are still working on it.",
+        "note": "The activity began earlier and is still in progress."
+      },
+      "right": {
+        "label": "Recently stopped activity",
+        "example": "Her hands are stained with ink because she has been printing posters.",
+        "note": "The recent activity explains present evidence; it may have stopped."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Leo has been practising the trumpet since February.",
+      "note": "Since names the starting point of an activity that is still relevant now."
+    },
+    {
+      "sentence": "I have been sorting old photos all afternoon.",
+      "note": "All afternoon describes the span of an activity up to now."
+    },
+    {
+      "sentence": "Why are you smiling? Have you been chatting with your friends?",
+      "note": "A present clue motivates a question about a recent activity."
+    },
+    {
+      "sentence": "Our team has not been travelling much lately.",
+      "note": "The negative continuous reports a lack of repeated activity during a recent period."
+    },
+    {
+      "sentence": "Nadia has been attending a drawing class every Thursday for six months.",
+      "note": "The repeated weekly classes make one continuing pattern over time."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "He have been cleaning the balcony.",
+      "correct": "He has been cleaning the balcony.",
+      "why": "A third-person singular subject takes has, not have."
+    },
+    {
+      "incorrect": "We have been practise for the concert.",
+      "correct": "We have been practising for the concert.",
+      "why": "Use been + the -ing form, not the base verb."
+    },
+    {
+      "incorrect": "How long you have been waiting here?",
+      "correct": "How long have you been waiting here?",
+      "why": "A present-perfect-continuous question places have before the subject."
+    },
+    {
+      "incorrect": "I have been learning to skate since six months.",
+      "correct": "I have been learning to skate for six months.",
+      "why": "For introduces a period of time; since introduces a starting point."
+    }
+  ],
+  "studyTips": [
+    "When there is evidence now, ask what recent activity could explain it and practise a sentence with have/has been + -ing.",
+    "Draw a short timeline from a starting point to now, then practise for a duration and since a dated start.",
+    "Say paired sentences aloud: “I am working now” and “I have been working since nine” to hear the meaning shift."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Maya is breathing heavily because she ___ up the steep hill.",
+      "choices": [
+        "has been cycling",
+        "is cycle",
+        "have been cycling"
+      ],
+      "answerIndex": 0,
+      "feedback": "Her heavy breathing is present evidence of a recent activity. Maya takes has been cycling."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The students are still preparing the exhibition. They ___ on it for three weeks.",
+      "choices": [
+        "worked",
+        "have been working",
+        "are work"
+      ],
+      "answerIndex": 1,
+      "feedback": "For three weeks describes an activity extending to the present, so use have been working."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "___ for the delivery long, or did you just arrive?",
+      "choices": [
+        "Are you wait",
+        "Have you waiting",
+        "Have you been waiting"
+      ],
+      "answerIndex": 2,
+      "feedback": "A duration question uses Have + subject + been + -ing."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "For the last four months, Jo and Sal ___ at the same café every Friday.",
+      "choices": [
+        "have been meeting",
+        "are meet",
+        "has been meeting"
+      ],
+      "answerIndex": 0,
+      "feedback": "The pattern repeats within a continuing four-month period. Plural subjects take have been meeting."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The garden is covered in leaves. The wind ___ (blow) strongly all morning. Write the present-perfect-continuous phrase.",
+      "acceptedAnswers": [
+        "has been blowing"
+      ],
+      "feedback": "A recent or continuing period of strong wind explains the present result; use has been blowing."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "I started learning sign language in March, and I am still learning. I ___ (learn) sign language since March.",
+      "acceptedAnswers": [
+        "have been learning",
+        "'ve been learning"
+      ],
+      "feedback": "The learning began at a known point and continues now: have been learning."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We are still waiting for the technician. We ___ (wait) for nearly an hour. Write the affirmative present-perfect-continuous phrase.",
+      "acceptedAnswers": [
+        "have been waiting",
+        "'ve been waiting"
+      ],
+      "feedback": "For nearly an hour gives the duration of an activity still in progress: have been waiting."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The team has taken a break from rehearsals recently. They ___ (not / rehearse) much lately.",
+      "acceptedAnswers": [
+        "haven’t been rehearsing",
+        "have not been rehearsing"
+      ],
+      "feedback": "Use have not been rehearsing for a negative trend during a recent period."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My brother have been repairing his old bicycle.",
+      "acceptedAnswers": [
+        "My brother has been repairing his old bicycle."
+      ],
+      "feedback": "My brother is singular, so the correct auxiliary is has."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We have been wait outside for twenty minutes.",
+      "acceptedAnswers": [
+        "We have been waiting outside for twenty minutes."
+      ],
+      "feedback": "Use the -ing form waiting after have been."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: How long she has been working on the mural?",
+      "acceptedAnswers": [
+        "How long has she been working on the mural?"
+      ],
+      "feedback": "Invert has and she to form a question about duration."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I have been taking cooking lessons since eight weeks.",
+      "acceptedAnswers": [
+        "I have been taking cooking lessons for eight weeks."
+      ],
+      "feedback": "Eight weeks is a length of time, so for is needed rather than since."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make one sentence using the present perfect continuous. Facts: Hana / practise / the violin / since April. Begin with “Hana”.",
+      "acceptedAnswers": [
+        "Hana has been practising the violin since April.",
+        "Hana's been practising the violin since April."
+      ],
+      "feedback": "Has been practising connects a start in April with the present."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask a complete how-long question. Facts: they / wait / outside. Begin with “How long”.",
+      "acceptedAnswers": [
+        "How long have they been waiting outside?"
+      ],
+      "feedback": "Ask How long have they been waiting to find out the duration."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Your sleeves are dusty. Report the recent activity using this exact content: We / clean / the attic / all morning. Begin with “We”.",
+      "acceptedAnswers": [
+        "We have been cleaning the attic all morning.",
+        "We've been cleaning the attic all morning."
+      ],
+      "feedback": "Have been cleaning explains the dust on the speaker’s sleeves."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Change this affirmative sentence to negative without changing any other facts: “Sam has been feeling well recently.”",
+      "acceptedAnswers": [
+        "Sam has not been feeling well recently.",
+        "Sam hasn't been feeling well recently."
+      ],
+      "feedback": "Put not after has to make the present perfect continuous negative."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "A colleague asks why your sleeves have paint on them. Reply with one complete sentence using: I / paint / signs / this morning. Begin with “I”.",
+      "acceptedAnswers": [
+        "I have been painting signs this morning.",
+        "I've been painting signs this morning."
+      ],
+      "feedback": "Have been painting explains the evidence on the sleeves."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Use the present perfect continuous to describe a repeated routine. Facts: Mira and Alex / attend / yoga classes / every Saturday / for a year. Begin with “Mira and Alex”.",
+      "acceptedAnswers": [
+        "Mira and Alex have been attending yoga classes every Saturday for a year."
+      ],
+      "feedback": "Have been attending can describe a repeated routine throughout a continuing period."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly one complete sentence beginning with “I” that states how long an activity has continued. Facts: I / study / the map / for fifteen minutes. Use the present perfect continuous.",
+      "acceptedAnswers": [
+        "I have been studying the map for fifteen minutes.",
+        "I've been studying the map for fifteen minutes."
+      ],
+      "feedback": "Have been studying connects the activity with its duration up to now."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences, using full forms. First: “It is raining now.” Then: “It / rain / since dawn” in the present perfect continuous.",
+      "acceptedAnswers": [
+        "It is raining now. It has been raining since dawn."
+      ],
+      "feedback": "The first sentence describes the present moment; the second traces the activity back to dawn."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "prompt": "What does the smell suggest about the speaker?",
+      "choices": [
+        "They recently worked on a wooden bench.",
+        "They bought a finished bench last year.",
+        "They have not touched the bench."
+      ],
+      "answerIndex": 0,
+      "feedback": "Have been restoring connects the recent activity to the smell now.",
+      "audioText": "The hallway smells of varnish. I have been restoring an old wooden bench there."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "prompt": "What is the current state of the proposal?",
+      "choices": [
+        "It was finished on Monday.",
+        "It is still unfinished.",
+        "It has not been started."
+      ],
+      "answerIndex": 1,
+      "feedback": "The continuous tense and the missing conclusion show the work is ongoing.",
+      "audioText": "I have been drafting this proposal since Monday, and I still need to write the conclusion."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "prompt": "Type the three-word verb phrase immediately after “The neighbours”.",
+      "acceptedAnswers": [
+        "have been practising"
+      ],
+      "feedback": "The phrase have been practising describes activity extending across the evening.",
+      "audioText": "The neighbours have been practising their music all evening."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "prompt": "What has been the usual travel method over recent months?",
+      "choices": [
+        "A lift from a friend",
+        "The early bus",
+        "Walking to the station"
+      ],
+      "answerIndex": 1,
+      "feedback": "Have been catching describes the longer-term repeated habit; today was different.",
+      "audioText": "We have been catching the early bus for months, but today our friend gave us a lift."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "prompt": "Why are her boots wet?",
+      "choices": [
+        "She has been walking outdoors.",
+        "She has been washing the boots indoors.",
+        "She has been sitting at a desk."
+      ],
+      "answerIndex": 0,
+      "feedback": "The recently completed or ongoing walk explains the current wet boots.",
+      "audioText": "Her boots are wet because she has been walking through the orchard after the rain."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "prompt": "What does the speaker mean about recent meetings?",
+      "choices": [
+        "The projector was fixed today.",
+        "The room has been used every morning.",
+        "The room has been used less often."
+      ],
+      "answerIndex": 2,
+      "feedback": "Have not been using much lately describes a recent reduction in activity.",
+      "audioText": "We have not been using the meeting room much lately because the projector is broken."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "prompt": "Type the three-word verb phrase immediately after “I”.",
+      "acceptedAnswers": [
+        "have been editing"
+      ],
+      "feedback": "Have been editing focuses on continuing work since a starting time.",
+      "audioText": "I have been editing this interview since lunchtime."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "prompt": "Type the negative verb phrase immediately after “Tariq”.",
+      "acceptedAnswers": [
+        "has not been sleeping",
+        "hasn't been sleeping"
+      ],
+      "feedback": "Has not been sleeping describes an activity that has not been going well during a recent period.",
+      "audioText": "Tariq has not been sleeping well this week."
+    }
+  ]
+}

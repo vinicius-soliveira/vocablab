@@ -1,0 +1,421 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u025",
+  "title": "Future time clauses: when, if and completion",
+  "level": "B1",
+  "topicId": "eg2-u025-future-time-clauses-when-if",
+  "summary": "Use present forms in clauses introduced by when, after, before, as soon as, while and until even when the event is in the future. Use the present perfect when one future event must be completed first, and distinguish certain events with when from possible conditions with if.",
+  "learningObjectives": [
+    "Use present simple, rather than will, in future time clauses after when, before, after, until and as soon as.",
+    "Use the present perfect in future time clauses to emphasise that one event is complete before the next.",
+    "Distinguish if for an uncertain possibility from when for an event expected to happen.",
+    "Combine a future main clause with correctly formed affirmative, negative and question clauses."
+  ],
+  "explanation": [
+    {
+      "heading": "Future meaning with a present time clause",
+      "body": "A sentence about the future can have a main clause with will and a time clause starting with when, before, after or as soon as. The time clause normally takes the present simple, although its action has not happened yet. Do not insert will in the time clause: say when the bus arrives, not when the bus will arrive. The two clauses can appear in either order.",
+      "example": "I’ll send you the map when the guide arrives."
+    },
+    {
+      "heading": "Until and while set the timing",
+      "body": "Until marks the time or event that ends a wait or an ongoing situation. While refers to a period during which another action takes place. In future-time meanings, these clauses use a present form rather than will: until the rain stops and while I am away. Choose a form that describes the action or continuing situation accurately.",
+      "example": "We’ll stay in the café until the storm passes."
+    },
+    {
+      "heading": "Present perfect for an earlier completed step",
+      "body": "After when, after, until or as soon as, the present perfect can make it clear that one action will be finished before the next begins. Use have/has + past participle. If two things happen together, prefer the present simple instead. Sometimes either form is possible, but the present perfect draws attention to completion.",
+      "example": "Once you’ve checked the figures, we can send the report."
+    },
+    {
+      "heading": "If expresses a possible future condition",
+      "body": "Use if with a present verb when a future event is uncertain: If the train is late, we’ll take a taxi. Do not normally say if the train will be late in this conditional pattern. The main clause may contain will, can, an imperative or another suitable structure depending on what will happen if the condition is met.",
+      "example": "If the weather improves tomorrow, we’ll have lunch outside."
+    },
+    {
+      "heading": "When expresses an expected event",
+      "body": "Choose when when you treat a future event as certain or expected, and if when it may or may not happen. Compare I will collect the keys when the office opens (the opening is expected) with I will go hiking if I have time (time is uncertain). The verb after both words normally stays in the present form in this use.",
+      "example": "When the exhibition opens next month, we’ll visit it together."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Expected future event versus possible condition",
+      "left": {
+        "label": "When: expected",
+        "example": "When the train arrives, we’ll board.",
+        "note": "The arrival is treated as an expected event that sets the time."
+      },
+      "right": {
+        "label": "If: uncertain",
+        "example": "If the train is delayed, we’ll call the hotel.",
+        "note": "The delay is a possibility, not an event assumed to occur."
+      }
+    },
+    {
+      "title": "Events happening together versus completed in sequence",
+      "left": {
+        "label": "Present simple",
+        "example": "When I speak to the director, I’ll mention the proposal.",
+        "note": "The mention happens during the conversation."
+      },
+      "right": {
+        "label": "Present perfect",
+        "example": "After I’ve spoken to the director, I’ll email you the outcome.",
+        "note": "The conversation is complete before the email is sent."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "We’ll turn off the lights before the last visitor leaves.",
+      "note": "Leaves is present simple even though the departure is in the future."
+    },
+    {
+      "sentence": "You can borrow the camera as soon as I’ve finished taking pictures.",
+      "note": "The present perfect indicates that my use will have ended first."
+    },
+    {
+      "sentence": "I’ll work quietly while the baby is sleeping.",
+      "note": "The present continuous describes a future period in progress within a while-clause."
+    },
+    {
+      "sentence": "If the roads are icy in the morning, we won’t drive.",
+      "note": "If describes an uncertain future condition, using present simple."
+    },
+    {
+      "sentence": "When the school term ends, the family will travel north.",
+      "note": "When identifies an expected future event, not an uncertainty."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I will call you when I will reach the station.",
+      "correct": "I will call you when I reach the station.",
+      "why": "The future time clause after when uses the present form reach, not will reach."
+    },
+    {
+      "incorrect": "Wait here until the manager will return.",
+      "correct": "Wait here until the manager returns.",
+      "why": "After until, use present simple for a future event and add -s with the manager."
+    },
+    {
+      "incorrect": "After I have send the file, we can finish.",
+      "correct": "After I have sent the file, we can finish.",
+      "why": "Present perfect requires a past participle: have sent."
+    },
+    {
+      "incorrect": "If the batteries will fail, the alarm will sound.",
+      "correct": "If the batteries fail, the alarm will sound.",
+      "why": "A real future condition after if normally uses present simple."
+    }
+  ],
+  "studyTips": [
+    "Underline when, after, before, until, while, as soon as and if; check that the following future-related clause does not use will unnecessarily.",
+    "Draw two boxes for sequential actions and use after I have finished to mark the step that must be completed first.",
+    "Make paired predictions: begin with When for an expected event, then If for a possible change; explain the difference in certainty."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "I will send the entry code as soon as the receptionist ___ it.",
+      "choices": [
+        "will confirm",
+        "confirms",
+        "confirming"
+      ],
+      "answerIndex": 1,
+      "feedback": "An as-soon-as clause referring to the future takes the present simple confirms, not will confirm."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "We need the signed forms before we begin. Which sentence emphasises that signing must be complete first?",
+      "choices": [
+        "We’ll begin after everyone has signed.",
+        "We’ll begin after everyone will sign.",
+        "We’ll begin after everyone have signing."
+      ],
+      "answerIndex": 0,
+      "feedback": "After everyone has signed uses the present perfect for a step that will be completed before the next event."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The outdoor performance may be cancelled because of bad weather. “___ it rains tonight, we’ll perform indoors.”",
+      "choices": [
+        "When",
+        "While",
+        "If"
+      ],
+      "answerIndex": 2,
+      "feedback": "The rain is uncertain, so if introduces the possible condition."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the grammatically correct way to talk about leaving after a future event.",
+      "choices": [
+        "We’ll leave when the signal will change.",
+        "We’ll leave when the signal changes.",
+        "We leave when the signal will changes."
+      ],
+      "answerIndex": 1,
+      "feedback": "When the signal changes uses present simple in a future time clause; will belongs in the main clause."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "I’ll show you the photos when the guests ___ (arrive). Write the present-simple verb.",
+      "acceptedAnswers": [
+        "arrive"
+      ],
+      "feedback": "After when with a future meaning, use arrive, not will arrive."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "We will issue the tickets after the manager ___ (approve) the list. Use the present perfect to emphasise completion.",
+      "acceptedAnswers": [
+        "has approved"
+      ],
+      "feedback": "Has approved marks approval as finished before the tickets are issued."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "If the library ___ (not / open) tomorrow, we’ll use the online collection. Write the present-simple negative phrase.",
+      "acceptedAnswers": [
+        "doesn't open",
+        "does not open"
+      ],
+      "feedback": "The uncertain condition uses present simple: does not open or doesn’t open."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The mechanic will call at three. “___ (we / wait) here until then.” Write the complete subject and will-verb phrase.",
+      "acceptedAnswers": [
+        "We will wait",
+        "We'll wait"
+      ],
+      "feedback": "The main clause may use will: We will wait. The time marker until then indicates how long the wait lasts."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I’ll share the results as soon as the laboratory will send them.",
+      "acceptedAnswers": [
+        "I’ll share the results as soon as the laboratory sends them.",
+        "I will share the results as soon as the laboratory sends them."
+      ],
+      "feedback": "A future time clause after as soon as normally takes present simple; laboratory is singular, so use sends."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Stay near the entrance until the guide will come back.",
+      "acceptedAnswers": [
+        "Stay near the entrance until the guide comes back."
+      ],
+      "feedback": "After until, use present simple comes back for the future return."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: If the road will be closed tomorrow, we’ll follow the diversion.",
+      "acceptedAnswers": [
+        "If the road is closed tomorrow, we’ll follow the diversion.",
+        "If the road is closed tomorrow, we will follow the diversion."
+      ],
+      "feedback": "The condition after if uses is closed, not will be closed."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: After the courier has deliver the package, we’ll sign the receipt.",
+      "acceptedAnswers": [
+        "After the courier has delivered the package, we’ll sign the receipt.",
+        "After the courier has delivered the package, we will sign the receipt."
+      ],
+      "feedback": "The present perfect requires the past participle delivered, following has."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "The bus is expected at six. Say what you will do after its arrival. Begin “When the bus arrives” and add “I’ll get on”.",
+      "acceptedAnswers": [
+        "When the bus arrives, I'll get on.",
+        "When the bus arrives, I will get on."
+      ],
+      "feedback": "A future when-clause uses arrives in the present simple."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "The report must be finished before you send it. Make one sentence starting with “After”, saying the report will be finished first, and saying you will send it afterwards. Use the present perfect for finished.",
+      "acceptedAnswers": [
+        "After I have finished the report, I will send it.",
+        "After I've finished the report, I'll send it.",
+        "After I've finished the report, I will send it.",
+        "After I have finished the report, I'll send it."
+      ],
+      "feedback": "Present perfect emphasises completion of the report before it is sent."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "A picnic might be cancelled by rain tomorrow. Say the condition and result in one sentence. Begin “If it rains tomorrow” and use “we will eat indoors”.",
+      "acceptedAnswers": [
+        "If it rains tomorrow, we will eat indoors.",
+        "If it rains tomorrow, we'll eat indoors."
+      ],
+      "feedback": "If marks uncertain rain; rains is present simple and will belongs in the result clause."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The film will definitely end before you leave. Say this using one sentence beginning “When the film ends” and add “we will go home”.",
+      "acceptedAnswers": [
+        "When the film ends, we will go home.",
+        "When the film ends, we'll go home."
+      ],
+      "feedback": "When presents the ending as an expected event and takes present simple ends."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "You are asking someone to remain while you complete one phone call. Say “Please wait until I finish the call.” exactly.",
+      "acceptedAnswers": [
+        "Please wait until I finish the call."
+      ],
+      "feedback": "Finish, not will finish, follows until in a future-time clause."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Ask one question beginning “Will you call me” and ending “when the parcel arrives”.",
+      "acceptedAnswers": [
+        "Will you call me when the parcel arrives?"
+      ],
+      "feedback": "Use will in the main question and present simple arrives in the time clause."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the future-time verb and say the full sentence: “When it will get dark, we’ll switch on the lights.”",
+      "acceptedAnswers": [
+        "When it gets dark, we'll switch on the lights.",
+        "When it gets dark, we will switch on the lights."
+      ],
+      "feedback": "The expected future change after when uses gets, not will get."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences using these facts. First: if the library is closed tomorrow / we will study at home. Second: when it opens / we will return the books. Start with “If” and “When”.",
+      "acceptedAnswers": [
+        "If the library is closed tomorrow, we'll study at home. When it opens, we'll return the books.",
+        "If the library is closed tomorrow, we will study at home. When it opens, we will return the books.",
+        "If the library is closed tomorrow, we'll study at home. When it opens, we will return the books.",
+        "If the library is closed tomorrow, we will study at home. When it opens, we'll return the books."
+      ],
+      "feedback": "If marks an uncertain closure; when marks the expected reopening. Both clauses use present forms."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "prompt": "What is the group planning to do after the museum opens?",
+      "choices": [
+        "Visit the gift shop before opening.",
+        "Join the first guided tour.",
+        "Wait until the museum closes."
+      ],
+      "answerIndex": 1,
+      "feedback": "When the museum opens sets the expected time for joining the tour.",
+      "audioText": "When the museum opens at nine, we’ll join the first guided tour."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "prompt": "Under what condition will the class meet in the gym?",
+      "choices": [
+        "If the outdoor class is cancelled.",
+        "Whenever the sun comes out.",
+        "After the gym closes."
+      ],
+      "answerIndex": 0,
+      "feedback": "If introduces a possible cancellation that would cause a change of location.",
+      "audioText": "If the outdoor class is cancelled because of rain, we’ll meet in the gym instead."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "prompt": "Type the three-word phrase heard immediately after “as soon as”.",
+      "acceptedAnswers": [
+        "I have checked",
+        "I've checked"
+      ],
+      "feedback": "I have checked is present perfect, emphasising that checking is complete before printing.",
+      "audioText": "I will print the labels as soon as I have checked the addresses."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "prompt": "What must happen before the group leaves?",
+      "choices": [
+        "All bicycles must be repaired.",
+        "Every rider must put on a helmet.",
+        "The instructor must finish lunch."
+      ],
+      "answerIndex": 1,
+      "feedback": "Until everyone has put on a helmet sets a completed safety step before departure.",
+      "audioText": "We won’t leave the cycling centre until everyone has put on a helmet."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "prompt": "Is the visit to the market certain?",
+      "choices": [
+        "Yes, the speaker has already arrived.",
+        "Yes, the market visit is fixed.",
+        "No, the speaker may or may not go."
+      ],
+      "answerIndex": 2,
+      "feedback": "Might and if show that the market visit is uncertain.",
+      "audioText": "I might visit the market this evening. If I go, I’ll buy some fresh fruit."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "prompt": "What event will trigger the start of the work?",
+      "choices": [
+        "Signing an entirely new contract next year.",
+        "Receiving the contract copies.",
+        "Completing the work tomorrow morning."
+      ],
+      "answerIndex": 1,
+      "feedback": "The team will begin when the office receives the copies; receives takes present simple.",
+      "audioText": "The contract is signed. When the office receives the copies tomorrow, the team will begin the work."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "prompt": "Type the two words heard immediately after “Before”.",
+      "acceptedAnswers": [
+        "I leave"
+      ],
+      "feedback": "The time clause uses I leave rather than I will leave, despite referring to tomorrow.",
+      "audioText": "Before I leave for work tomorrow, I will feed the cat."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "prompt": "Type the present-simple negative verb phrase immediately after “it”.",
+      "acceptedAnswers": [
+        "doesn't stop",
+        "does not stop"
+      ],
+      "feedback": "The if-clause uses the present-simple negative does not stop.",
+      "audioText": "If it doesn't stop raining, we won't play outside."
+    }
+  ]
+}

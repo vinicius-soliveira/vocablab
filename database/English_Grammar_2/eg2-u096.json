@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u096",
+  "title": "Non-defining clauses: prepositions and quantifiers",
+  "level": "B2",
+  "topicId": "eg2-u096-non-defining-advanced-patterns",
+  "summary": "Extend non-defining relative clauses with formal preposition-plus-pronoun phrases, quantifiers such as all of whom and some of which, and which referring to a complete preceding idea rather than one noun.",
+  "learningObjectives": [
+    "Choose whom for a person and which for a thing when a preposition comes immediately before a relative pronoun.",
+    "Contrast formal preposition-fronting with natural spoken clauses that place the preposition later.",
+    "Describe parts of known groups using all, some, most, none or numbers plus of whom/which.",
+    "Use a comma followed by which to comment on a whole earlier event or fact, not only one noun."
+  ],
+  "explanation": [
+    {
+      "heading": "Move a preposition before whom or which in formal style",
+      "body": "A non-defining clause can begin with a preposition followed by whom for a person or which for a thing. This fronted arrangement is especially common in formal writing. The preposition needs to match the meaning of the earlier verb or phrase; for example, write to someone or depend on something.",
+      "example": "Ms Rao, to whom I sent the documents, will reply soon."
+    },
+    {
+      "heading": "Use a more natural preposition position when speaking",
+      "body": "In everyday speech, the preposition often stays after its verb: the colleague who I worked with. When the preposition is at the end, spoken English typically uses who rather than whom for a person, or sometimes omits the object relative word in defining clauses. In a non-defining clause, however, the relative word remains.",
+      "example": "My former tutor, who I learnt a great deal from, moved abroad."
+    },
+    {
+      "heading": "Link a group of people with of whom",
+      "body": "After mentioning an identified group of people, add information about some or all its members with all of whom, many of whom, none of whom or a number of whom. Whom follows of because the reference is to people. Match the verb to the subject of the new clause and make the amount meaningful.",
+      "example": "We interviewed four volunteers, two of whom had previous experience."
+    },
+    {
+      "heading": "Link objects or quantities with of which",
+      "body": "Use some of which, most of which, none of which or a number of which for things. Formal noun phrases such as the name of which are possible when referring to a thing already introduced. This adds information about part of a known set, rather than identifying the set from scratch.",
+      "example": "I collected six photographs, three of which were taken at night."
+    },
+    {
+      "heading": "Use which to comment on a complete preceding fact",
+      "body": "Sometimes which does not describe just one noun. After a comma, it can refer to the entire event or situation in the preceding clause. This is useful for a reaction, consequence or unexpected result. Use which here, never what or that, when linking the comment directly to that fact.",
+      "example": "The meeting finished early, which gave us time for lunch."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Fronted preposition and natural spoken order",
+      "left": {
+        "label": "Formal fronting",
+        "example": "Aisha, with whom I worked, now lives abroad.",
+        "note": "With comes directly before whom; this sounds formal."
+      },
+      "right": {
+        "label": "Conversational order",
+        "example": "Aisha, who I worked with, now lives abroad.",
+        "note": "With stays after worked and who remains because the clause adds extra information."
+      }
+    },
+    {
+      "title": "People within a group and things within a set",
+      "left": {
+        "label": "People: of whom",
+        "example": "Five teachers attended, three of whom spoke Spanish.",
+        "note": "Whom refers back to an identified group of people."
+      },
+      "right": {
+        "label": "Things: of which",
+        "example": "Five files arrived, three of which were incomplete.",
+        "note": "Which refers back to an identified set of things."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The editor, for whom I prepared the summary, has approved it.",
+      "note": "For whom places the preposition directly before its formal person-object pronoun."
+    },
+    {
+      "sentence": "My new colleague, who I share an office with, starts on Monday.",
+      "note": "Conversational preposition placement is at the end of the relative clause."
+    },
+    {
+      "sentence": "The seven finalists, all of whom received certificates, posed for a photograph.",
+      "note": "All of whom refers to every person in the previously identified group."
+    },
+    {
+      "sentence": "We ordered eight cushions, two of which arrived in the wrong colour.",
+      "note": "Two of which selects two objects from an already mentioned set."
+    },
+    {
+      "sentence": "The bus broke down, which meant we arrived late.",
+      "note": "Which refers to the entire fact of the breakdown, not just to the bus."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Nadia, to who I emailed the details, has replied.",
+      "correct": "Nadia, to whom I emailed the details, has replied.",
+      "why": "A fronted preposition referring to a person takes formal whom."
+    },
+    {
+      "incorrect": "We tested five lamps, two of whom were faulty.",
+      "correct": "We tested five lamps, two of which were faulty.",
+      "why": "Lamps are things, so use of which rather than of whom."
+    },
+    {
+      "incorrect": "The concert was postponed, what disappointed everyone.",
+      "correct": "The concert was postponed, which disappointed everyone.",
+      "why": "Which, not what, can refer back to the whole previous fact in a non-defining clause."
+    },
+    {
+      "incorrect": "I met three visitors, one of which was a doctor.",
+      "correct": "I met three visitors, one of whom was a doctor.",
+      "why": "The group consists of people, so the quantifier phrase takes whom."
+    }
+  ],
+  "studyTips": [
+    "For each fronted preposition, reconstruct the simpler sentence first: I wrote to her becomes to whom I wrote.",
+    "Underline the antecedent before choosing a quantifier phrase: people take of whom; objects take of which.",
+    "When a clause ends with comma + which, ask whether which means “this fact”; if so, it comments on the whole previous idea."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Ms Shah, to ___ we sent the forms, will reply today.",
+      "choices": [
+        "which",
+        "whom",
+        "who"
+      ],
+      "answerIndex": 1,
+      "feedback": "To whom is a formal preposition-plus-pronoun phrase referring to Ms Shah."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "We had five questions, three of ___ were answered during the meeting.",
+      "choices": [
+        "whom",
+        "which",
+        "that"
+      ],
+      "answerIndex": 1,
+      "feedback": "Three of which selects three questions from the identified set of five."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The lights went out, ___ delayed the show.",
+      "choices": [
+        "which",
+        "what",
+        "that"
+      ],
+      "answerIndex": 0,
+      "feedback": "Which comments on the entire event of the lights going out."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Four students applied, none of ___ had the required certificate.",
+      "choices": [
+        "which",
+        "that",
+        "whom"
+      ],
+      "answerIndex": 2,
+      "feedback": "None of whom refers back to the group of four students."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The adviser, ___, has agreed to help. (Fact: I spoke to the adviser yesterday. Use the formal beginning “to whom”.)",
+      "acceptedAnswers": [
+        "to whom I spoke yesterday"
+      ],
+      "feedback": "To whom I spoke yesterday fronts the preposition and keeps the object pronoun for the person."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "We brought four chairs, ___. (Fact: Two chairs were damaged. Start with “two of which”.)",
+      "acceptedAnswers": [
+        "two of which were damaged"
+      ],
+      "feedback": "Two of which selects two objects from the four chairs."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "There were three hosts, ___. (Fact: All three hosts spoke two languages. Start with “all of whom”.)",
+      "acceptedAnswers": [
+        "all of whom spoke two languages"
+      ],
+      "feedback": "All of whom refers to the entire group of people."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The event ended early, ___. (Fact: The early ending disappointed the guests. Start with “which”.)",
+      "acceptedAnswers": [
+        "which disappointed the guests"
+      ],
+      "feedback": "Which refers to the whole fact that the event ended early."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence by replacing only the formal relative word: The director, with who we negotiated, has retired.",
+      "acceptedAnswers": [
+        "The director, with whom we negotiated, has retired."
+      ],
+      "feedback": "The fronted preposition with takes whom for a person in formal English."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence by replacing only the relative word: She bought five jackets, none of whom fitted.",
+      "acceptedAnswers": [
+        "She bought five jackets, none of which fitted."
+      ],
+      "feedback": "Use none of which for objects such as jackets."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence by replacing only the relative word: The internet failed, what interrupted the interview.",
+      "acceptedAnswers": [
+        "The internet failed, which interrupted the interview."
+      ],
+      "feedback": "Which refers to the preceding event as a whole."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence by replacing only the relative word: We welcomed four new colleagues, two of which are designers.",
+      "acceptedAnswers": [
+        "We welcomed four new colleagues, two of whom are designers."
+      ],
+      "feedback": "Two of whom refers to two people from the known group."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "You sent an update to a journalist, and that journalist replied. Say one complete sentence starting “The journalist, to whom” and ending “replied”. Use formal English.",
+      "acceptedAnswers": [
+        "The journalist, to whom I sent the update, replied."
+      ],
+      "feedback": "To whom puts the preposition before the relative pronoun in formal style."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Express the same facts informally. Begin “The journalist, who” and end “replied”. Put to after “update”.",
+      "acceptedAnswers": [
+        "The journalist, who I sent the update to, replied."
+      ],
+      "feedback": "Everyday English often places the preposition after the verb phrase."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Three proposals were submitted. Exactly one was accepted. Say one sentence beginning “She submitted three proposals, one of which” and ending “was accepted”.",
+      "acceptedAnswers": [
+        "She submitted three proposals, one of which was accepted."
+      ],
+      "feedback": "One of which selects one proposal from the earlier set."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Six speakers were invited, and every speaker accepted. Say one sentence starting “They invited six speakers, all of whom” and ending “accepted”.",
+      "acceptedAnswers": [
+        "They invited six speakers, all of whom accepted."
+      ],
+      "feedback": "All of whom refers to everyone in the group of speakers."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "The lift stopped; as a result, the meeting was delayed. Say one sentence beginning “The lift stopped, which” and ending “the meeting”.",
+      "acceptedAnswers": [
+        "The lift stopped, which delayed the meeting."
+      ],
+      "feedback": "Which represents the whole event of the lift stopping."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Five applicants attended, and none of them had experience. Begin “Five applicants attended, none of whom”.",
+      "acceptedAnswers": [
+        "Five applicants attended, none of whom had experience."
+      ],
+      "feedback": "None of whom refers to the five people mentioned."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct only the relative word and say the sentence: “The flight was delayed, what made us miss dinner.”",
+      "acceptedAnswers": [
+        "The flight was delayed, which made us miss dinner."
+      ],
+      "feedback": "Which can introduce a comment on the full preceding fact."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences. First: four volunteers arrived, and two had training; begin “Four volunteers arrived, two of whom”. Second: the weather improved and this helped everyone; begin “The weather improved, which”.",
+      "acceptedAnswers": [
+        "Four volunteers arrived, two of whom had training. The weather improved, which helped everyone."
+      ],
+      "feedback": "Of whom selects people from a group; which refers to the whole improvement."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The woman with whom I shared a desk has been promoted to team leader.",
+      "prompt": "Who received a promotion?",
+      "choices": [
+        "The woman who used to share a desk with the speaker.",
+        "The speaker’s new team leader from another office.",
+        "Every person on the team."
+      ],
+      "answerIndex": 0,
+      "feedback": "With whom I shared a desk identifies the woman who was promoted."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Our team printed ten posters, two of which were damaged during delivery.",
+      "prompt": "How many posters were not damaged?",
+      "choices": [
+        "Two.",
+        "Ten.",
+        "Eight."
+      ],
+      "answerIndex": 2,
+      "feedback": "Two of the ten posters were damaged, leaving eight undamaged."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I met six engineers, all of whom work remotely.",
+      "prompt": "Type the three words immediately after “engineers” in the recording.",
+      "acceptedAnswers": [
+        "all of whom"
+      ],
+      "feedback": "All of whom identifies every person in the previously mentioned group."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The shipment arrived on Monday, which surprised us because it was expected on Thursday.",
+      "prompt": "Why was the arrival surprising?",
+      "choices": [
+        "It arrived three days earlier than expected.",
+        "It was sent to the wrong place.",
+        "It arrived after Thursday."
+      ],
+      "answerIndex": 0,
+      "feedback": "Monday is earlier than the expected Thursday delivery."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The gallery displayed five sculptures, none of which was for sale.",
+      "prompt": "Which sculptures could visitors buy?",
+      "choices": [
+        "The largest one only.",
+        "None of them.",
+        "All five sculptures."
+      ],
+      "answerIndex": 1,
+      "feedback": "None of which was for sale means no sculpture could be purchased."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I asked four neighbours for help, three of whom offered to carry boxes.",
+      "prompt": "How many neighbours offered to help carry boxes?",
+      "choices": [
+        "One.",
+        "Four.",
+        "Three."
+      ],
+      "answerIndex": 2,
+      "feedback": "Three of whom selects three of the four neighbours."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Mina, to whom I sent the revised plan, replied this morning.",
+      "prompt": "Type the four words immediately after “Mina” in the recording.",
+      "acceptedAnswers": [
+        "to whom I sent"
+      ],
+      "feedback": "To whom is a formal relative phrase referring to Mina."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The train was cancelled, which caused several delays on the route.",
+      "prompt": "Type the four words immediately after “cancelled” in the recording.",
+      "acceptedAnswers": [
+        "which caused several delays"
+      ],
+      "feedback": "Which refers to the train cancellation as an event and introduces its consequence."
+    }
+  ]
+}

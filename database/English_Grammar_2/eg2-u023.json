@@ -1,0 +1,416 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u023",
+  "title": "Will or going to: decisions and predictions",
+  "level": "B1",
+  "topicId": "eg2-u023-will-versus-going-to",
+  "summary": "Choose will for a decision or offer made as you speak, and be going to for an intention already formed. Compare the two forms in predictions, especially when present evidence makes an outcome apparent.",
+  "learningObjectives": [
+    "Distinguish a decision made during a conversation from an earlier intention.",
+    "Use will and be going to accurately in affirmative, negative and question forms.",
+    "Make predictions based on visible evidence using be going to.",
+    "Recognise when will and be going to can both express a prediction, with a different emphasis."
+  ],
+  "explanation": [
+    {
+      "heading": "Decide now: will",
+      "body": "Use will + base verb when your words announce a decision made at the moment of speaking. Common examples are a sudden choice, a spontaneous offer or a response to new information. Use will not (won’t) for a negative decision. This meaning is different from describing an intention that existed earlier.",
+      "example": "The room is cold. I’ll close the balcony door."
+    },
+    {
+      "heading": "Already decided: be going to",
+      "body": "Use am/is/are going to + base verb when an intention was formed before the current conversation. The plan need not have a booked time or a detailed schedule. The listener understands that the speaker has already considered the action. Do not omit am, is or are.",
+      "example": "We’re going to replace our kitchen table; we chose the design yesterday."
+    },
+    {
+      "heading": "Questions and negatives about intentions",
+      "body": "Ask about earlier intentions with am/is/are + subject + going to + verb: Are you going to apply? For negative intentions, put not after be: She isn’t going to apply. When someone decides on a new action during the exchange, use will instead: I’ll ask her.",
+      "example": "Is the committee going to publish the results on Friday?"
+    },
+    {
+      "heading": "A prediction supported by evidence now",
+      "body": "Use be going to when an outcome seems clear from what you can see or know about the present situation. A wobbling shelf, a nearly empty battery or a person losing balance provides immediate evidence. Going to draws attention to that evidence; it is not a claim that the event was planned.",
+      "example": "The shelf is leaning badly. It’s going to fall unless we support it."
+    },
+    {
+      "heading": "General predictions: both forms are possible",
+      "body": "For predictions about future situations, both will and be going to may be appropriate. Will often states a belief or expectation; going to can sound more closely linked to the present situation. Do not treat them as interchangeable when the important contrast is whether a decision has already been made.",
+      "example": "I think the new cycle path will make the neighbourhood safer."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Decision at the moment or earlier intention",
+      "left": {
+        "label": "Decision made now",
+        "example": "I’ll send you the address right away.",
+        "note": "The speaker decides to act while speaking."
+      },
+      "right": {
+        "label": "Earlier intention",
+        "example": "I’m going to send the address after lunch.",
+        "note": "The speaker had already planned to send it."
+      }
+    },
+    {
+      "title": "Expectation or visible warning",
+      "left": {
+        "label": "General expectation",
+        "example": "I think the match will be close.",
+        "note": "The speaker offers a prediction based on a belief."
+      },
+      "right": {
+        "label": "Present evidence",
+        "example": "Those dark clouds are gathering fast. It’s going to storm.",
+        "note": "What is happening now supports the prediction."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The photocopier is out of paper. I’ll refill it.",
+      "note": "The speaker makes a fresh decision in response to a new problem."
+    },
+    {
+      "sentence": "I’m going to take the evening train; I bought my ticket on Monday.",
+      "note": "The intention existed before this conversation."
+    },
+    {
+      "sentence": "Are they going to renovate the library next year?",
+      "note": "Be moves before the subject to ask about an intention."
+    },
+    {
+      "sentence": "Watch the cup near the table edge. It’s going to fall.",
+      "note": "Current physical evidence motivates this prediction."
+    },
+    {
+      "sentence": "I expect the new ticketing system will save us time.",
+      "note": "Will states an expectation about a future result."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I going to enrol in a cooking course.",
+      "correct": "I am going to enrol in a cooking course.",
+      "why": "Be going to requires am, is or are before going."
+    },
+    {
+      "incorrect": "I will to help you with your luggage.",
+      "correct": "I will help you with your luggage.",
+      "why": "Will takes the base verb directly, without to."
+    },
+    {
+      "incorrect": "Look! The chair going to break.",
+      "correct": "Look! The chair is going to break.",
+      "why": "A prediction with going to still needs a form of be."
+    },
+    {
+      "incorrect": "Are you will send the documents?",
+      "correct": "Will you send the documents?",
+      "why": "A will question begins with will, not are you will."
+    }
+  ],
+  "studyTips": [
+    "Before choosing a future form, ask whether the decision happened now or before the conversation.",
+    "Find a present clue (a sound, movement or visible condition) and make a going-to prediction about its likely result.",
+    "Practise short paired dialogues: one person reports surprising news and the other decides what to do; then describe a previously agreed plan."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "You have just noticed that the lights are still on. You decide at this moment: “Oh, I ___ them off.”",
+      "choices": [
+        "am going switching",
+        "will switch",
+        "going to switch"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker makes the decision now, so will + the base verb switch is the natural form."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "You selected the tiles last week and already decided to renovate. “We ___ the bathroom next month.”",
+      "choices": [
+        "will to renovate",
+        "are renovate",
+        "are going to renovate"
+      ],
+      "answerIndex": 2,
+      "feedback": "The intention was formed before speaking; are going to renovate reports the existing plan."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The stack of boxes is leaning dangerously toward the doorway. Which sentence gives a prediction based on what is visible now?",
+      "choices": [
+        "It’s going to collapse.",
+        "It collapsed before we arrived.",
+        "Someone is going to stack it yesterday."
+      ],
+      "answerIndex": 0,
+      "feedback": "The stack is leaning now, so it is going to collapse expresses an immediate evidence-based prediction."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "A visitor says she cannot lift her suitcase. Which response makes a new offer?",
+      "choices": [
+        "I am going to helping you.",
+        "I’ll carry it for you.",
+        "I carried it for you tomorrow."
+      ],
+      "answerIndex": 1,
+      "feedback": "I’ll carry it offers help at the moment the difficulty is mentioned."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "You hear a problem for the first time and decide immediately: “___ (I / call) the technician now.” Write the complete subject and future verb phrase.",
+      "acceptedAnswers": [
+        "I will call",
+        "I'll call"
+      ],
+      "feedback": "A fresh decision takes I will call or the contracted form I’ll call."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Your group chose the activity yesterday. “We ___ (visit) the aquarium on Saturday.” Use be going to in the full form.",
+      "acceptedAnswers": [
+        "are going to visit"
+      ],
+      "feedback": "The earlier choice establishes an existing plan, expressed with are going to visit."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Look: the glass is sliding towards the edge of the shelf. “It ___ (fall).” Write the complete going-to verb phrase.",
+      "acceptedAnswers": [
+        "is going to fall"
+      ],
+      "feedback": "The movement happening now gives visible evidence for is going to fall."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "A coworker has just asked for help, and you decide now: “___ (I / carry) those folders for you.” Use will and include the subject.",
+      "acceptedAnswers": [
+        "I will carry",
+        "I'll carry"
+      ],
+      "feedback": "An immediate offer uses I will carry or I’ll carry."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I going to send the timetable; I decided to do it yesterday.",
+      "acceptedAnswers": [
+        "I am going to send the timetable; I decided to do it yesterday.",
+        "I'm going to send the timetable; I decided to do it yesterday."
+      ],
+      "feedback": "Be going to needs am after the subject I."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Look at the dark sky. It is going rain very soon.",
+      "acceptedAnswers": [
+        "Look at the dark sky. It is going to rain very soon."
+      ],
+      "feedback": "A going-to prediction requires to before the base verb rain."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Oh, the kettle is boiling. I will to turn it off now.",
+      "acceptedAnswers": [
+        "Oh, the kettle is boiling. I will turn it off now."
+      ],
+      "feedback": "After will, use the base verb directly: will turn, not will to turn."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: They are going repair the garden bench; they bought wood for it last week.",
+      "acceptedAnswers": [
+        "They are going to repair the garden bench; they bought wood for it last week."
+      ],
+      "feedback": "The existing plan uses are going to + base verb; to is missing."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "You notice a colleague struggling with a heavy parcel. Make a spontaneous offer. Start with “I” and use will and “carry that parcel for you”.",
+      "acceptedAnswers": [
+        "I'll carry that parcel for you.",
+        "I will carry that parcel for you."
+      ],
+      "feedback": "Use will to make an offer during the conversation."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Your family decided last weekend to visit the science museum on Saturday. Report that plan in one sentence beginning “We”. Use going to.",
+      "acceptedAnswers": [
+        "We are going to visit the science museum on Saturday.",
+        "We're going to visit the science museum on Saturday."
+      ],
+      "feedback": "Are going to visit expresses an intention formed earlier."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "You can see very dark clouds overhead. Predict rain soon. Begin with “It” and use going to.",
+      "acceptedAnswers": [
+        "It is going to rain soon.",
+        "It's going to rain soon."
+      ],
+      "feedback": "A going-to prediction is supported by the present weather evidence."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You have just decided to phone Olivia after lunch. Say one sentence beginning “I” and using will.",
+      "acceptedAnswers": [
+        "I'll phone Olivia after lunch.",
+        "I will phone Olivia after lunch."
+      ],
+      "feedback": "Will announces the decision made now."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Ask a yes/no question about an existing plan using these exact facts: you; paint the hallway; this weekend. Start with “Are you going to”.",
+      "acceptedAnswers": [
+        "Are you going to paint the hallway this weekend?"
+      ],
+      "feedback": "The be-going-to question asks about an earlier intention."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Give your general expectation: the new charger; last longer. Begin “I think” and use will.",
+      "acceptedAnswers": [
+        "I think the new charger will last longer."
+      ],
+      "feedback": "Will expresses a belief about the future rather than a plan."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the missing auxiliary and say the whole sentence: “She going to take evening classes next month.”",
+      "acceptedAnswers": [
+        "She is going to take evening classes next month.",
+        "She's going to take evening classes next month."
+      ],
+      "feedback": "Add is because be going to always needs a form of be."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences. First report this earlier plan: we / repaint the hallway / on Sunday, using going to. Second announce a decision made now: I / buy the brushes / now, using will. Begin the sentences with “We” and “I”.",
+      "acceptedAnswers": [
+        "We are going to repaint the hallway on Sunday. I will buy the brushes now.",
+        "We're going to repaint the hallway on Sunday. I'll buy the brushes now.",
+        "We are going to repaint the hallway on Sunday. I'll buy the brushes now.",
+        "We're going to repaint the hallway on Sunday. I will buy the brushes now."
+      ],
+      "feedback": "The first clause reports an existing plan; the second announces an immediate decision."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "prompt": "Why does the speaker predict a problem?",
+      "choices": [
+        "The bag has already been moved.",
+        "The hook is showing signs of strain.",
+        "The hook is being replaced tomorrow."
+      ],
+      "answerIndex": 1,
+      "feedback": "The hook is bending now, so there is present evidence that it may break.",
+      "audioText": "That metal hook is bending under the weight. It’s going to break if we leave the bag there."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "prompt": "What does going to indicate in this conversation?",
+      "choices": [
+        "The speaker has just chosen to leave.",
+        "The trip has already finished.",
+        "The departure was decided earlier."
+      ],
+      "answerIndex": 2,
+      "feedback": "They discussed and decided the departure time yesterday, before speaking.",
+      "audioText": "We discussed the trip yesterday and decided we’re going to leave early on Saturday."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "prompt": "Type the four-word future verb phrase immediately after “My brother”.",
+      "acceptedAnswers": [
+        "is going to start"
+      ],
+      "feedback": "The expression is going to start introduces a previously formed future intention.",
+      "audioText": "My brother is going to start a new job after the holidays."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "prompt": "What is the speaker doing?",
+      "choices": [
+        "Making an immediate offer to help.",
+        "Describing a bandage already purchased.",
+        "Explaining a decision made yesterday."
+      ],
+      "answerIndex": 0,
+      "feedback": "I’ll get you signals an offer made in response to the situation.",
+      "audioText": "Oh, you’ve hurt your finger. I’ll get you a clean bandage."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "prompt": "How does the speaker present the footbridge’s effect?",
+      "choices": [
+        "As a project already completed.",
+        "As a prediction or expectation.",
+        "As a warning about something falling."
+      ],
+      "answerIndex": 1,
+      "feedback": "I think ... will make expresses an expected future result.",
+      "audioText": "I think the new footbridge will make the walk to the station easier next year."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "prompt": "What has Ravi decided?",
+      "choices": [
+        "To tell the visitors immediately.",
+        "To change the password tonight.",
+        "To keep the password from the visitors."
+      ],
+      "answerIndex": 2,
+      "feedback": "Isn’t going to share identifies Ravi’s existing negative intention.",
+      "audioText": "Ravi already knows the password, but he isn’t going to share it with the visitors."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "prompt": "Type the three-word prediction immediately after “They’re”.",
+      "acceptedAnswers": [
+        "going to fall"
+      ],
+      "feedback": "The visible sliding provides evidence for the heard prediction going to fall.",
+      "audioText": "Those folders are sliding off the desk. They’re going to fall."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "prompt": "Type the spontaneous-offer verb phrase immediately after “so”. Contraction or full form is accepted.",
+      "acceptedAnswers": [
+        "I'll answer",
+        "I will answer"
+      ],
+      "feedback": "I’ll answer announces a new helpful decision; the full form has the same meaning.",
+      "audioText": "You look busy, so I’ll answer the door."
+    }
+  ]
+}

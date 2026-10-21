@@ -1,0 +1,409 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u073",
+  "title": "The: Unique Things, Fixed Phrases and Labels",
+  "level": "B1",
+  "topicId": "eg2-u073-definite-article-unique-things",
+  "summary": "Choose the, a/an or no article when something is unique in context, a superlative is used, or an established expression names a place, medium, meal or numbered label.",
+  "learningObjectives": [
+    "Use the for unique referents, ordinal positions and superlative descriptions while distinguishing a member of a class.",
+    "Apply the fixed expression the same and common expressions for the natural world.",
+    "Choose articles correctly with TV, the radio, the internet, the cinema and ordinary meals.",
+    "Leave out the article before numbered labels and certain fixed expressions such as in space."
+  ],
+  "explanation": [
+    {
+      "heading": "Unique things and positions",
+      "body": "Use the when the situation identifies just one relevant thing: the entrance to a particular building, the end of a meeting or the second level of a car park. Superlatives usually take the because they single out the highest or lowest in a set. Use a/an when you classify something as one member of a group rather than identifying it as a unique item. An ordinal can also identify a particular position, as in the fourth stop.",
+      "example": "The quietest room is on the fourth floor, but it is a small room."
+    },
+    {
+      "heading": "The same is a fixed expression",
+      "body": "Put the before same when identifying equality or matching characteristics: the same address, the same problem, or the same as. Do not drop the even if the noun is plural. Different does not require the in this pattern.",
+      "example": "We ordered the same dessert, but our drinks were different."
+    },
+    {
+      "heading": "The natural world, Earth and space",
+      "body": "We normally say the sky, the ground, the sea, the moon, the sun, the world and the universe. We can also say the country when contrasting rural life with life in a town. Earth without an article is common when naming the planet in an astronomical context; the earth is also possible when talking about our world. Space without an article means the universe beyond Earth; the space refers to an identifiable area, gap or room.",
+      "example": "A satellite crossed the night sky before disappearing into space."
+    },
+    {
+      "heading": "Entertainment and media",
+      "body": "Common fixed phrases include go to the cinema, go to the theatre, listen to the radio and use the internet. We normally say watch TV or watch television without the when naming the activity. The television is natural when referring to a particular physical TV set. These are conventional expressions, not a rule that every device or venue must take the.",
+      "example": "We listened to the radio after watching TV."
+    },
+    {
+      "heading": "Meals and named labels",
+      "body": "Ordinary meal names typically have no article: have breakfast, make lunch, and eat dinner. Add a/an for a described occasion, such as a late lunch or a delicious dinner; the is possible when a particular meal is identified by context. Numbered labels normally omit the: platform 6, room 214, page 18, size 40 and section C. Compare the platform at the far end, where a description identifies a specific platform rather than naming its number.",
+      "example": "After a quick breakfast, we went to platform 6."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Unique identity versus membership in a class",
+      "left": {
+        "label": "the + superlative / unique reference",
+        "example": "That is the highest tower in the district.",
+        "note": "One building has the highest position in the stated comparison."
+      },
+      "right": {
+        "label": "a/an + singular class noun",
+        "example": "That is a tall tower.",
+        "note": "One tower is described as a member of a wider class."
+      }
+    },
+    {
+      "title": "Numbered label versus a specific described location",
+      "left": {
+        "label": "No article + numbered label",
+        "example": "Please report to gate 12.",
+        "note": "The numeral belongs to the official label."
+      },
+      "right": {
+        "label": "the + descriptive noun phrase",
+        "example": "Please use the gate beside the café.",
+        "note": "The descriptive phrase identifies which gate is intended."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The last bus is usually the busiest one.",
+      "note": "Last and the superlative busiest identify specific positions within a set."
+    },
+    {
+      "sentence": "Both train tickets show the same departure date.",
+      "note": "The same identifies a matching date on two different tickets."
+    },
+    {
+      "sentence": "We saw bright clouds above the sea.",
+      "note": "The sea is a conventional expression for the natural world."
+    },
+    {
+      "sentence": "I read the news on the internet instead of watching TV.",
+      "note": "The internet takes the in this usual phrase; the activity watch TV takes no article."
+    },
+    {
+      "sentence": "Our class starts in room 304 after lunch.",
+      "note": "Room 304 is a numbered label and lunch names the meal generally."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "This is best route through the city.",
+      "correct": "This is the best route through the city.",
+      "why": "A superlative identifying one option normally needs the."
+    },
+    {
+      "incorrect": "We made same choice.",
+      "correct": "We made the same choice.",
+      "why": "The same is a fixed phrase."
+    },
+    {
+      "incorrect": "I listen to radio while cooking.",
+      "correct": "I listen to the radio while cooking.",
+      "why": "The usual expression for the broadcast medium is the radio."
+    },
+    {
+      "incorrect": "Your appointment is in the room 215.",
+      "correct": "Your appointment is in room 215.",
+      "why": "Do not add the before a numbered room label."
+    }
+  ],
+  "studyTips": [
+    "Ask whether your noun means one identifiable thing, one example of a class, or a numbered label; each possibility affects the article.",
+    "Learn media and meal phrases as short chunks: watch TV, listen to the radio, have lunch and have a late lunch.",
+    "Compare the meanings of space and the space in two original sentences to check whether you mean the universe or a particular area."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The community centre is on ___ third floor of this building.",
+      "choices": [
+        "a",
+        "the",
+        "— (no article)"
+      ],
+      "answerIndex": 1,
+      "feedback": "An ordinal position within a particular building takes the: the third floor."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Of all the cafés in our area, this one makes ___ strongest coffee.",
+      "choices": [
+        "the",
+        "a",
+        "— (no article)"
+      ],
+      "answerIndex": 0,
+      "feedback": "A superlative such as strongest normally takes the when a set is being compared."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "We chose ___ same seat numbers for the return trip.",
+      "choices": [
+        "— (no article)",
+        "a",
+        "the"
+      ],
+      "answerIndex": 2,
+      "feedback": "The same is the fixed construction, even with a plural noun."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The conductor said our train would leave from ___.",
+      "choices": [
+        "the platform 9",
+        "platform 9",
+        "a platform 9"
+      ],
+      "answerIndex": 1,
+      "feedback": "Official numbered platform labels omit the article: platform 9."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The children lay on the grass and looked up at ___ (natural world above them; write the two-word phrase).",
+      "acceptedAnswers": [
+        "the sky"
+      ],
+      "feedback": "The sky is the usual expression for the visible natural world overhead."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Maya listened to ___ (broadcast medium; write the two-word phrase) during the drive.",
+      "acceptedAnswers": [
+        "the radio"
+      ],
+      "feedback": "The established phrase is listen to the radio."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We did not cook: we went out for ___ (ordinary evening meal; one word).",
+      "acceptedAnswers": [
+        "dinner"
+      ],
+      "feedback": "An unmodified meal name ordinarily has no article: for dinner."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Please turn to ___ (the label for numbered page 42; write two words).",
+      "acceptedAnswers": [
+        "page 42"
+      ],
+      "feedback": "A numbered page label does not take the: page 42."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: This is longest bridge in the region.",
+      "acceptedAnswers": [
+        "This is the longest bridge in the region."
+      ],
+      "feedback": "The longest is a superlative within a specific comparison and needs the."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Our tickets are for the cinema on Friday, but we will watch the TV tonight.",
+      "acceptedAnswers": [
+        "Our tickets are for the cinema on Friday, but we will watch TV tonight."
+      ],
+      "feedback": "Watch TV describes the activity and normally has no article; the cinema remains correct."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The team booked two rooms on the same floor, but their room numbers were not same.",
+      "acceptedAnswers": [
+        "The team booked two rooms on the same floor, but their room numbers were not the same."
+      ],
+      "feedback": "The fixed expression is the same, including when it stands alone after be."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The workshop begins in the room 108 at nine.",
+      "acceptedAnswers": [
+        "The workshop begins in room 108 at nine."
+      ],
+      "feedback": "Use no article before a numbered room label such as room 108."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Use these facts to make one sentence: this library has five levels; your meeting is on level four. Say it is on the fourth floor.",
+      "acceptedAnswers": [
+        "The meeting is on the fourth floor.",
+        "My meeting is on the fourth floor."
+      ],
+      "feedback": "Use the before the ordinal fourth to identify one floor."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "A guide compares three routes. The river route is shortest. Say which route is shortest using the.",
+      "acceptedAnswers": [
+        "The river route is the shortest.",
+        "The river route is the shortest route."
+      ],
+      "feedback": "A superlative within a set requires the."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Two event invitations show an identical starting time. Say one sentence beginning \"The invitations\" and ending \"the same starting time\".",
+      "acceptedAnswers": [
+        "The invitations show the same starting time."
+      ],
+      "feedback": "The same is required before starting time when the invitations match."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Answer the question \"What did you hear on your drive?\" Facts: you listened to the radio. Use the pronoun I.",
+      "acceptedAnswers": [
+        "I listened to the radio."
+      ],
+      "feedback": "The activity is listen to the radio, not listen to radio."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Contrast these plans in one sentence: Saturday you will watch TV; Sunday you will go to the cinema. Begin \"On Saturday\".",
+      "acceptedAnswers": [
+        "On Saturday I will watch TV, and on Sunday I will go to the cinema.",
+        "On Saturday I'll watch TV, and on Sunday I'll go to the cinema."
+      ],
+      "feedback": "Watch TV needs no the; go to the cinema includes the."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A station employee asks where your train leaves. The sign says platform 7. Answer in a full sentence, beginning \"It leaves\".",
+      "acceptedAnswers": [
+        "It leaves from platform seven.",
+        "It leaves from platform 7."
+      ],
+      "feedback": "The numbered platform label is used without the."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Your friend asks, \"Was lunch ordinary or special?\" Facts: it was a delicious lunch. Answer with a short complete sentence beginning \"It was\".",
+      "acceptedAnswers": [
+        "It was a delicious lunch."
+      ],
+      "feedback": "An adjective describing a particular meal allows a: a delicious lunch."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Make exactly two short sentences from these facts: the moon can be seen tonight; several satellites are moving in space. Start with \"The moon\" and then \"Several satellites\".",
+      "acceptedAnswers": [
+        "The moon is visible tonight. Several satellites are moving in space."
+      ],
+      "feedback": "Use the moon for the natural object and in space without an article for the universe beyond Earth."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The upstairs studio is on the seventh floor, but the lift only goes to the sixth.",
+      "prompt": "What problem will the visitor face?",
+      "choices": [
+        "They must travel up one floor after the lift.",
+        "The lift goes directly to the studio.",
+        "The studio is below the lift stop."
+      ],
+      "answerIndex": 0,
+      "feedback": "The seventh floor is one floor above the lift’s highest stop, the sixth."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I bought a scarf like yours, but mine is not the same colour.",
+      "prompt": "How do the two scarves compare?",
+      "choices": [
+        "They have identical colours.",
+        "They are different colours.",
+        "They have the same pattern."
+      ],
+      "answerIndex": 1,
+      "feedback": "Not the same colour signals a difference, despite the scarves being similar."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "We could see a plane moving slowly across the sky.",
+      "prompt": "Type the two-word expression heard after \"across\".",
+      "acceptedAnswers": [
+        "the sky"
+      ],
+      "feedback": "The speaker uses the sky for the natural space above the observer."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I rarely watch TV, but I always listen to the radio while making breakfast.",
+      "prompt": "Which activity is part of the speaker’s regular routine?",
+      "choices": [
+        "Going to the cinema",
+        "Watching television",
+        "Listening to radio broadcasts"
+      ],
+      "answerIndex": 2,
+      "feedback": "Always listen to the radio identifies the routine, while rarely watch TV contrasts with it."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The signs say our meeting is in room 26, not the meeting room near reception.",
+      "prompt": "Where should the listeners go?",
+      "choices": [
+        "The numbered room 26",
+        "The room closest to reception",
+        "Any available meeting room"
+      ],
+      "answerIndex": 0,
+      "feedback": "Room 26 is a numbered label distinct from the room described near reception."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We usually eat dinner at six, but tonight we are having a late dinner after the concert.",
+      "prompt": "What is different about tonight?",
+      "choices": [
+        "They are skipping dinner.",
+        "They will eat later than usual.",
+        "They are having breakfast instead."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker contrasts a usual dinner at six with a late dinner after the concert."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The guide said this was the oldest bridge in the valley.",
+      "prompt": "Type the two-word superlative expression heard immediately before \"bridge\".",
+      "acceptedAnswers": [
+        "the oldest"
+      ],
+      "feedback": "The superlative the oldest singles out one bridge in the valley."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Our flight has been moved to gate 18.",
+      "prompt": "Type the gate label you hear, including its number.",
+      "acceptedAnswers": [
+        "gate 18",
+        "gate eighteen"
+      ],
+      "feedback": "A numbered gate label is used without an article: gate 18."
+    }
+  ]
+}

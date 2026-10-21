@@ -1,0 +1,411 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u140",
+  "title": "Phrasal Verbs with On and Off: Devices, Events and Movement",
+  "level": "B2",
+  "topicId": "eg2-u140-phrasal-verbs-on-off-one",
+  "summary": "Use on and off phrasal verbs to operate equipment, cancel or postpone events, put on or remove clothing, and describe departures. Distinguish call off from put off, try on from put on, and keep object pronouns in their correct position.",
+  "learningObjectives": [
+    "Use switch on/off, turn on/off and put on in appropriate contexts for devices, heating and music.",
+    "Distinguish what is going on, calling off an event and putting off a task or decision.",
+    "Use put on, try on and take off with clothes and accessories, and recognise put on weight.",
+    "Describe starting journeys, leaving, aircraft departures and saying goodbye with set off, go off, take off and see off."
+  ],
+  "explanation": [
+    {
+      "heading": "Equipment: making something on or off",
+      "body": "We switch or turn lights and machines on and off. Put on is also common with music, the heating, an oven or a kettle, depending on the intended activity. The phrases are often separable: switch off the fan / switch the fan off; with it or them, the pronoun comes before the particle: switch it off.",
+      "example": "Please switch the desk lamp off when you finish reading."
+    },
+    {
+      "heading": "Events: happening, cancellation and postponement",
+      "body": "Go on can mean happen, especially when asking what is happening. Call something off means cancel a planned event, so it will not take place as planned. Put something off or put off doing something means postpone it until later, not necessarily cancel it. After put off, an action takes the -ing form.",
+      "example": "They put off signing the agreement until the final figures arrived."
+    },
+    {
+      "heading": "Clothing, accessories and weight",
+      "body": "Put on means start wearing clothing, glasses or a seat belt. Try on means wear something briefly to check its size or appearance. Take off means remove what you are wearing. These combinations are separable when they have a direct object. Put on weight has a different meaning: gain weight.",
+      "example": "Daria tried on the raincoat before choosing a size."
+    },
+    {
+      "heading": "Setting off and moving away",
+      "body": "Set off means start a journey. Walk off, drive off and go off describe leaving a place; be off to a place describes an intended departure. Take off describes an aircraft leaving the ground. Context determines which meaning fits: a plane takes off, while travellers set off on their trip.",
+      "example": "Our train was early, so we set off for the station before sunrise."
+    },
+    {
+      "heading": "Saying goodbye before someone leaves",
+      "body": "See somebody off means accompany that person to a departure point, such as a station, to say goodbye. With a pronoun, say see her off, not see off her. It differs from set off: the traveller sets off, but a friend may see the traveller off.",
+      "example": "I went to the ferry terminal to see my sister off."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A cancelled event versus a delayed event",
+      "left": {
+        "label": "Call off: cancel",
+        "example": "They called off the outdoor lesson because the site was unsafe.",
+        "note": "The event will not take place as originally planned."
+      },
+      "right": {
+        "label": "Put off: postpone",
+        "example": "They put off the outdoor lesson until Wednesday.",
+        "note": "The plan still exists, but the time has moved to a later date."
+      }
+    },
+    {
+      "title": "Checking fit versus beginning to wear",
+      "left": {
+        "label": "Try on",
+        "example": "Alex tried on a pair of boots in the shop.",
+        "note": "Trying on checks the fit or appearance before a decision."
+      },
+      "right": {
+        "label": "Put on",
+        "example": "Alex put on the boots before going outside.",
+        "note": "Putting on means beginning to wear them, without implying a fit test."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The laptop is still running; remember to switch it off.",
+      "note": "The object pronoun it belongs between switch and off."
+    },
+    {
+      "sentence": "The exhibition opening was called off when the building lost power.",
+      "note": "Called off expresses cancellation rather than a later rescheduled date."
+    },
+    {
+      "sentence": "We put off discussing the proposal until everyone could attend.",
+      "note": "Put off is followed by the -ing form when the object is an activity."
+    },
+    {
+      "sentence": "Before leaving the changing room, Noor took off the sunglasses.",
+      "note": "Took off means removed something being worn."
+    },
+    {
+      "sentence": "We set off shortly after five to avoid the busiest roads.",
+      "note": "Set off indicates the beginning of a journey."
+    },
+    {
+      "sentence": "Several relatives came to the platform to see us off.",
+      "note": "See somebody off is to accompany and say goodbye at departure."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Please switch off it before you leave.",
+      "correct": "Please switch it off before you leave.",
+      "why": "A pronoun object goes between the verb and particle in switch something off."
+    },
+    {
+      "incorrect": "They put off to discuss the budget.",
+      "correct": "They put off discussing the budget.",
+      "why": "Put off followed by an action requires the -ing form, not the to-infinitive."
+    },
+    {
+      "incorrect": "Could I try on them before buying?",
+      "correct": "Could I try them on before buying?",
+      "why": "A pronoun object must come before on in try something on."
+    },
+    {
+      "incorrect": "The plane took on an hour late.",
+      "correct": "The plane took off an hour late.",
+      "why": "For an aircraft leaving the ground, the particle is off, not on."
+    }
+  ],
+  "studyTips": [
+    "Make two event columns: call off = cancel; put off = postpone. Add a reason and a new date only where relevant.",
+    "Practise changing noun objects into pronouns: turn off the heater → turn it off; try on the gloves → try them on.",
+    "Use separate scene cards for set off (begin a journey), take off (aircraft departure) and see somebody off (say goodbye)."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The organisers cancelled the beach concert completely after the stage was damaged. They ___ the event.",
+      "choices": [
+        "put off",
+        "called off",
+        "set off"
+      ],
+      "answerIndex": 1,
+      "feedback": "Called off means cancelled; put off would mean postponed."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The meeting is still planned, but its date moved from Tuesday to Thursday. The manager ___ the meeting.",
+      "choices": [
+        "put off",
+        "called off",
+        "took off"
+      ],
+      "answerIndex": 0,
+      "feedback": "Put off is appropriate because the meeting was postponed rather than cancelled."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "I want to check whether these shoes fit before I pay. May I ___?",
+      "choices": [
+        "put them off",
+        "set them off",
+        "try them on"
+      ],
+      "answerIndex": 2,
+      "feedback": "Try on means wear something temporarily to check the fit."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "We wanted to begin our journey before the motorway became busy, so we decided to ___ at dawn.",
+      "choices": [
+        "call off",
+        "set off",
+        "try on"
+      ],
+      "answerIndex": 1,
+      "feedback": "Set off means begin a journey."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The portable speaker is playing too loudly. Could you ___? (switch + off; use the object pronoun it)",
+      "acceptedAnswers": [
+        "switch it off"
+      ],
+      "feedback": "Switch it off places the pronoun before off."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The weather improved, so the organisers did not ___ the race. (call + off)",
+      "acceptedAnswers": [
+        "call off"
+      ],
+      "feedback": "Call off means cancel an event."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "To catch the first ferry, we will ___ at five. (set + off)",
+      "acceptedAnswers": [
+        "set off"
+      ],
+      "feedback": "Set off means begin the journey."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Before paying, Luis ___ the jacket to check its size. (try + on, past simple)",
+      "acceptedAnswers": [
+        "tried on"
+      ],
+      "feedback": "Tried on refers to wearing the jacket briefly to check the fit."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I turned off it before leaving the room.",
+      "acceptedAnswers": [
+        "I turned it off before leaving the room."
+      ],
+      "feedback": "With a pronoun object, use turn it off, not turn off it."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: They put off to announce the decision until Friday.",
+      "acceptedAnswers": [
+        "They put off announcing the decision until Friday."
+      ],
+      "feedback": "An activity following put off takes -ing: put off announcing."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Could I try on them before buying?",
+      "acceptedAnswers": [
+        "Could I try them on before buying?"
+      ],
+      "feedback": "In try on, the object pronoun goes between the verb and particle."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Our plane took on at seven yesterday evening.",
+      "acceptedAnswers": [
+        "Our plane took off at seven yesterday evening."
+      ],
+      "feedback": "Planes take off when they leave the ground."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "The lights need to be switched off. Make one polite command beginning with “Please”. Use turn and the pronoun them.",
+      "acceptedAnswers": [
+        "Please turn them off."
+      ],
+      "feedback": "Turn them off places the object pronoun between the verb and particle."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "The music festival was cancelled, not rescheduled. Say one sentence: the organisers / call off / the music festival / last Friday. Use past simple. Begin with “The organisers”.",
+      "acceptedAnswers": [
+        "The organisers called off the music festival last Friday."
+      ],
+      "feedback": "Called off indicates cancellation."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "The appointment has been postponed until Monday. Say one sentence beginning with “We”, using put off / the appointment / until Monday in the past simple.",
+      "acceptedAnswers": [
+        "We put off the appointment until Monday."
+      ],
+      "feedback": "Put off means postponed, and its past form is also put off."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Describe what you are doing now, using these facts: I / take off / my jacket / now. Use the present continuous and begin with “I”.",
+      "acceptedAnswers": [
+        "I am taking off my jacket now.",
+        "I'm taking off my jacket now."
+      ],
+      "feedback": "Am taking off describes removing clothing at this moment."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "A friend asks what Beth is doing in a changing room. Say one sentence: Beth / try on / the shoes / before buying them. Use the present continuous and begin with “Beth”.",
+      "acceptedAnswers": [
+        "Beth is trying on the shoes before buying them.",
+        "Beth is trying the shoes on before buying them."
+      ],
+      "feedback": "Both noun-object positions are possible with try on."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Say one past-simple sentence about beginning a journey. Use: we / set off / at dawn. Begin with “We”.",
+      "acceptedAnswers": [
+        "We set off at dawn."
+      ],
+      "feedback": "Set off identifies the beginning of a journey."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two past-simple sentences using these facts in order: the parade / be called off. We / stay at home. Do not add anything.",
+      "acceptedAnswers": [
+        "The parade was called off. We stayed at home."
+      ],
+      "feedback": "Was called off shows the parade was cancelled; stayed reports the consequence."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Describe saying goodbye before a journey. Say one sentence: I / see off / my brother / at the station / yesterday. Use past simple and begin with “I”.",
+      "acceptedAnswers": [
+        "I saw my brother off at the station yesterday.",
+        "I saw off my brother at the station yesterday."
+      ],
+      "feedback": "Saw my brother off means accompanied him to say goodbye before departure."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The seminar was not cancelled. The presenter was ill, so it was put off until next week.",
+      "prompt": "What happened to the seminar?",
+      "choices": [
+        "It was permanently cancelled.",
+        "It took place earlier than planned.",
+        "It was postponed to next week."
+      ],
+      "answerIndex": 2,
+      "feedback": "Put off signals a later date, and the speaker explicitly says it was not cancelled."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The football pitch was flooded, and the referee called off the match before it started.",
+      "prompt": "What decision did the referee make?",
+      "choices": [
+        "The match was cancelled.",
+        "The match was moved indoors.",
+        "The match began late."
+      ],
+      "answerIndex": 0,
+      "feedback": "Called off means the scheduled match was cancelled."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Lena switched off the fan before leaving the office.",
+      "prompt": "Type the two-word verb phrase immediately after “Lena”.",
+      "acceptedAnswers": [
+        "switched off"
+      ],
+      "feedback": "Switched off means stopped a device from operating."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The boots looked perfect, but when I tried them on, they were too tight.",
+      "prompt": "Why did the speaker decide the boots were unsuitable?",
+      "choices": [
+        "They were the wrong colour.",
+        "They did not fit comfortably.",
+        "They had already been sold."
+      ],
+      "answerIndex": 1,
+      "feedback": "Trying them on revealed that the boots were too tight."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "We set off at half past six and reached the coast a little after nine.",
+      "prompt": "What did the travellers do at half past six?",
+      "choices": [
+        "Reached the coast.",
+        "Stopped for breakfast.",
+        "Began their journey."
+      ],
+      "answerIndex": 2,
+      "feedback": "Set off tells us when their journey started."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We went to the train station to see Daniel off. He is moving to another city tomorrow.",
+      "prompt": "Why did the speakers go to the station?",
+      "choices": [
+        "To say goodbye to Daniel.",
+        "To meet Daniel after his return.",
+        "To buy tickets for themselves."
+      ],
+      "answerIndex": 0,
+      "feedback": "See Daniel off means accompany him before departure to say goodbye."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Please put on the heating because the living room is getting cold.",
+      "prompt": "Type the two-word verb phrase immediately after “Please”.",
+      "acceptedAnswers": [
+        "put on"
+      ],
+      "feedback": "Put on the heating means turn on the heating system."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The plane took off late because the runway had been closed for inspection.",
+      "prompt": "Type the two-word verb phrase immediately after “The plane”.",
+      "acceptedAnswers": [
+        "took off"
+      ],
+      "feedback": "Took off describes the aircraft leaving the ground."
+    }
+  ]
+}

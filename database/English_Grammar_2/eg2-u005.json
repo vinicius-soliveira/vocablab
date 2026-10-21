@@ -1,0 +1,409 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u005",
+  "title": "Past simple: finished actions, questions and negatives",
+  "level": "B1",
+  "topicId": "eg2-u005-past-simple-forms-and-meaning",
+  "summary": "Describe completed events and past situations, including regular and irregular verbs. Form clear questions and negatives with did, and use was or were correctly when the main verb is be.",
+  "learningObjectives": [
+    "Describe completed events in a finished past period using regular and irregular past forms.",
+    "Form past-simple questions and negatives with did or did not plus the base verb.",
+    "Use was, were, wasn’t and weren’t with the appropriate subjects, without adding did.",
+    "Report an accurate sequence of past actions and distinguish the form of a main verb from an auxiliary."
+  ],
+  "explanation": [
+    {
+      "heading": "Locate an event in a completed past period",
+      "body": "Use the past simple when an event or situation belongs to a time viewed as finished: yesterday, last month, or a period whose end is known. The action can be brief or last a long time; the important point is that you present it as a past fact rather than an activity still in progress. Past-time expressions may appear at the beginning or end of the sentence.",
+      "example": "The neighbourhood library reopened last autumn."
+    },
+    {
+      "heading": "Choose regular and irregular past forms",
+      "body": "Most regular verbs add -ed. Watch spelling: plan becomes planned, and carry becomes carried. Many common verbs change differently: bring becomes brought, choose becomes chose, and leave becomes left. A few verbs have the same spelling in the base and past forms, such as put. Learn irregular forms as words you can use, not as a single spelling rule.",
+      "example": "The organiser chose a smaller venue and booked it on Monday."
+    },
+    {
+      "heading": "Build negatives with did not",
+      "body": "To say that a past action did not happen, use did not or didn’t before the base form of the main verb. Do not repeat past marking on the main verb: didn’t receive, not didn’t received. Even when the main verb is do, it follows the auxiliary: didn’t do. You can use a negative sentence to correct an assumption about the past.",
+      "example": "The supplier didn’t deliver the boxes on Friday."
+    },
+    {
+      "heading": "Ask about the past with did",
+      "body": "In most past-simple questions use did + subject + base verb. With a question word, put it before did: Where did you park? The auxiliary carries the past meaning, so the main verb does not take a past ending. Short answers usually repeat did or didn’t rather than the main verb.",
+      "example": "Did the caretaker lock the building before leaving?"
+    },
+    {
+      "heading": "Treat was and were as forms of be",
+      "body": "The past of be has its own forms: was with I, he, she and it; were with you, we and they. Make negatives with wasn’t or weren’t and questions by moving was or were before the subject. Do not use did with past be in ordinary statements or questions: say Were they ready?, not Did they be ready?",
+      "example": "The meeting room was quiet, but the corridors were crowded."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Affirmative past form versus negative past form",
+      "left": {
+        "label": "Past statement",
+        "example": "The client received the parcel yesterday.",
+        "note": "Received carries the past marking in an affirmative statement."
+      },
+      "right": {
+        "label": "Past negative",
+        "example": "The client didn’t receive the parcel yesterday.",
+        "note": "After didn’t, the main verb returns to receive."
+      }
+    },
+    {
+      "title": "A past question with an action verb versus be",
+      "left": {
+        "label": "Action verb",
+        "example": "Did the doors open on time?",
+        "note": "Did carries past tense, so open stays in its base form."
+      },
+      "right": {
+        "label": "Be",
+        "example": "Were the doors open on time?",
+        "note": "Were is the past form of be and comes directly before the subject."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "We drove to the exhibition, but the final entrance was closed.",
+      "note": "Drove is the irregular past of drive; was describes a past state."
+    },
+    {
+      "sentence": "The team tested the backup system and recorded the results.",
+      "note": "Two finished steps can both use the past simple."
+    },
+    {
+      "sentence": "Did you find the attachment I sent on Tuesday?",
+      "note": "Did introduces the question; find stays in its base form."
+    },
+    {
+      "sentence": "I didn’t do the survey because the link had expired.",
+      "note": "Didn’t do keeps the main verb do after the negative auxiliary."
+    },
+    {
+      "sentence": "The instructions were clear, but the diagram wasn’t.",
+      "note": "Plural instructions takes were; singular diagram takes wasn’t."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "She didn’t brought the receipt.",
+      "correct": "She didn’t bring the receipt.",
+      "why": "Didn’t already marks past time; use the base verb bring."
+    },
+    {
+      "incorrect": "Where you bought that notebook?",
+      "correct": "Where did you buy that notebook?",
+      "why": "A regular past-simple question needs did before its subject and a base verb."
+    },
+    {
+      "incorrect": "They was available after lunch.",
+      "correct": "They were available after lunch.",
+      "why": "Use were with a plural subject."
+    },
+    {
+      "incorrect": "Did the workshop be useful?",
+      "correct": "Was the workshop useful?",
+      "why": "Questions with past be use was or were without did."
+    }
+  ],
+  "studyTips": [
+    "In a short account of yesterday, underline every main past verb and check whether its form is regular or irregular.",
+    "For each past statement, practise a matching negative and question: sent → didn’t send → Did you send?",
+    "Separate a past action from a past state in your notes: Did they arrive? versus Were they here?"
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The audit ended at five, and the team ___ its findings before leaving.",
+      "choices": [
+        "reports",
+        "reported",
+        "reporting"
+      ],
+      "answerIndex": 1,
+      "feedback": "Ended and before leaving place the reporting in a completed past sequence; reported is the regular past form."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The printer stopped unexpectedly, so I ___ the document by hand.",
+      "choices": [
+        "wrote",
+        "write",
+        "was write"
+      ],
+      "answerIndex": 0,
+      "feedback": "The completed response to the breakdown uses wrote, the irregular past form of write."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "___ the conference begin at nine yesterday, or was it delayed?",
+      "choices": [
+        "Was",
+        "Does",
+        "Did"
+      ],
+      "answerIndex": 2,
+      "feedback": "Use Did + subject + begin to ask about the start of a completed past event."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The meeting room ___ empty when I arrived, although the lights were on.",
+      "choices": [
+        "was",
+        "were",
+        "did be"
+      ],
+      "answerIndex": 0,
+      "feedback": "Room is singular, so the past form of be is was."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Last Wednesday, the courier ___ (bring) a replacement part to our office. Write the past-simple verb.",
+      "acceptedAnswers": [
+        "brought"
+      ],
+      "feedback": "Brought is the irregular past of bring."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "They ___ (not / receive) the confirmation email that morning. Use a past-simple negative.",
+      "acceptedAnswers": [
+        "didn’t receive",
+        "did not receive"
+      ],
+      "feedback": "Use did not or didn’t plus the base verb receive; received after didn’t would be incorrect."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "___ (you / see) the revised schedule yesterday? Write the three opening words as a past-simple question.",
+      "acceptedAnswers": [
+        "Did you see"
+      ],
+      "feedback": "Did + subject + base verb gives Did you see."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The printed copies ___ (be) in the cabinet when we checked. Write the past form of be.",
+      "acceptedAnswers": [
+        "were"
+      ],
+      "feedback": "Copies is plural, so its past be form is were."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She didn’t sent the invoice before lunch.",
+      "acceptedAnswers": [
+        "She didn’t send the invoice before lunch.",
+        "She did not send the invoice before lunch."
+      ],
+      "feedback": "After didn’t or did not, use send, not sent."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Did you went to the training session on Friday?",
+      "acceptedAnswers": [
+        "Did you go to the training session on Friday?"
+      ],
+      "feedback": "Use the base verb go after the auxiliary Did."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Both doors was locked when the guard arrived.",
+      "acceptedAnswers": [
+        "Both doors were locked when the guard arrived."
+      ],
+      "feedback": "Both doors is plural, so was must change to were."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We stoped at the petrol station on the way to the venue.",
+      "acceptedAnswers": [
+        "We stopped at the petrol station on the way to the venue."
+      ],
+      "feedback": "The regular past of stop doubles the final consonant: stopped."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Change this routine into one complete sentence about yesterday. Keep the other words: \"I finish work at six.\" Begin with \"I\".",
+      "acceptedAnswers": [
+        "I finished work at six yesterday."
+      ],
+      "feedback": "Add -ed to finish to report the completed action; yesterday identifies the past time."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Report this finished event in one sentence using the past simple. Facts: the technician / find / a loose wire / during the inspection. Begin with \"The technician\".",
+      "acceptedAnswers": [
+        "The technician found a loose wire during the inspection."
+      ],
+      "feedback": "Found is the irregular past of find."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Make this fact negative in the past. Facts: we / not / book / a taxi / last night. Begin with \"We\".",
+      "acceptedAnswers": [
+        "We did not book a taxi last night.",
+        "We didn’t book a taxi last night."
+      ],
+      "feedback": "Use did not or didn’t with book in its base form."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Ask a complete past-simple yes/no question from these facts: the package / arrive / on Tuesday? Begin with \"Did\".",
+      "acceptedAnswers": [
+        "Did the package arrive on Tuesday?"
+      ],
+      "feedback": "A past-simple question with an action verb begins with Did, followed by the subject and base verb."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Your colleague asks, \"Did you hear the announcement?\" You did not hear it. Reply in one full sentence beginning with \"I\" and using the noun \"announcement\".",
+      "acceptedAnswers": [
+        "I did not hear the announcement.",
+        "I didn’t hear the announcement."
+      ],
+      "feedback": "A complete negative uses didn’t hear rather than didn’t heard."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Say one complete sentence from these facts: I / buy / two notebooks / yesterday. Use the irregular past of buy and begin with \"I\".",
+      "acceptedAnswers": [
+        "I bought two notebooks yesterday."
+      ],
+      "feedback": "Bought is the past form of buy."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct only the verb form and say the complete question: \"Did she wrote the report yesterday?\"",
+      "acceptedAnswers": [
+        "Did she write the report yesterday?"
+      ],
+      "feedback": "Did already shows past time, so wrote becomes write."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say these two past facts as two sentences, in this order. Use full forms: On Monday / the office / be / closed. On Tuesday / it / reopen.",
+      "acceptedAnswers": [
+        "On Monday the office was closed. On Tuesday it reopened."
+      ],
+      "feedback": "Was describes a past state, and reopened reports the completed action on the following day."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "prompt": "When did the office reply?",
+      "choices": [
+        "On Thursday",
+        "On Monday",
+        "On Sunday"
+      ],
+      "answerIndex": 0,
+      "feedback": "The application was sent on Monday; the office reply came later, on Thursday.",
+      "audioText": "I sent the application on Monday, but the office replied on Thursday."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "prompt": "How did the speakers travel to the coast?",
+      "choices": [
+        "They took a train.",
+        "Their neighbour drove them.",
+        "They walked all the way."
+      ],
+      "answerIndex": 1,
+      "feedback": "Gave us a lift means that someone else transported them in a vehicle.",
+      "audioText": "We didn’t drive to the coast ourselves. Our neighbour gave us a lift."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "prompt": "Type the single past-tense verb immediately after \"The courier\".",
+      "acceptedAnswers": [
+        "brought"
+      ],
+      "feedback": "Brought is the irregular past of bring.",
+      "audioText": "The courier brought the equipment before noon."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "prompt": "Which event did the speaker miss?",
+      "choices": [
+        "The conference",
+        "The evening reception",
+        "The morning briefing"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker attended the conference but did not go to the reception afterwards.",
+      "audioText": "I was exhausted after the conference, so I didn’t attend the evening reception."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "prompt": "What did the visitors discover on arrival?",
+      "choices": [
+        "The kitchen was closed.",
+        "The staff were waiting for them.",
+        "The kitchen was open without staff present."
+      ],
+      "answerIndex": 2,
+      "feedback": "The contrast between was open and none of the staff were there describes the situation.",
+      "audioText": "The kitchen was open, but none of the staff were there when we arrived."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "prompt": "What happened to the appointment?",
+      "choices": [
+        "It was rescheduled.",
+        "It was cancelled completely.",
+        "It took place twice."
+      ],
+      "answerIndex": 0,
+      "feedback": "The appointment was moved to a different day, not cancelled.",
+      "audioText": "We did not cancel the appointment. We moved it from Tuesday to Friday."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "prompt": "Type the negative verb phrase immediately after \"Rosa\".",
+      "acceptedAnswers": [
+        "didn’t forget",
+        "did not forget"
+      ],
+      "feedback": "The negative past construction is didn’t forget, with the base verb forget.",
+      "audioText": "Rosa didn’t forget the address; she left her phone at home."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "prompt": "Type the first three words of the question.",
+      "acceptedAnswers": [
+        "Did you check"
+      ],
+      "feedback": "The past-simple question starts with Did you check.",
+      "audioText": "Did you check the revised figures before the meeting?"
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u055",
+  "title": "Verb + Object + Infinitive",
+  "level": "B1",
+  "topicId": "eg2-u055-verb-object-infinitive",
+  "summary": "Say who should perform an action after verbs such as want, ask, remind, encourage and allow. Contrast the to-infinitive used after most of these verbs with the bare infinitive after make and let, and recognise the special passive pattern with made.",
+  "learningObjectives": [
+    "Build sentences with want, expect and would like followed by an object and a to-infinitive.",
+    "Report requests, advice, warnings, permission and encouragement using a verb + object + to-infinitive.",
+    "Choose the bare infinitive after active make and let, but to-infinitive after passive be made.",
+    "Use negative infinitives, passive patterns and help with or without to accurately."
+  ],
+  "explanation": [
+    {
+      "heading": "Name the person who performs the action",
+      "body": "Many verbs can be followed by an infinitive on its own or by an object plus an infinitive. Compare 'I expect to finish' (I will finish) with 'I expect Mia to finish' (Mia will finish). The object identifies the person expected, wanted or invited to act. Want, expect, ask, would like and would prefer commonly allow this pattern. In standard English, 'want somebody to do something' is the usual pattern, rather than 'want that somebody does something'.",
+      "example": "We would like the neighbours to join us for dinner."
+    },
+    {
+      "heading": "Requests, advice and other influences",
+      "body": "Use verb + person + to + base verb after tell, ask, advise, remind, warn, invite, encourage, persuade, get, force, teach, allow and enable. The first verb shows how the speaker influences the other person's action. For a negative instruction, place not immediately before to: warn somebody not to do something. A request is not the same as an order, and encouraging someone does not necessarily mean forcing them.",
+      "example": "The pharmacist advised Karim to drink more water."
+    },
+    {
+      "heading": "Passive instructions and permission",
+      "body": "The object of an active sentence may become the subject of a passive one, while the to-infinitive stays: 'They invited Rosa to speak' becomes 'Rosa was invited to speak'. Similar forms include was told to, were warned not to and are allowed to. This is useful when the person giving permission or instructions is unknown or unimportant.",
+      "example": "Visitors are required to wear a badge and are allowed to use the lift."
+    },
+    {
+      "heading": "Make and let take a bare infinitive",
+      "body": "Active make + person + base verb describes causing or requiring someone to do something; let + person + base verb describes giving permission. Do not add to after the object: 'made her laugh', 'let them leave'. When make is passive, however, the infinitive includes to: 'she was made to leave'. The common passive for let is usually 'be allowed to', not 'be let to'.",
+      "example": "The surprise made Leo smile, and the host let him open the gift."
+    },
+    {
+      "heading": "Help and suggest: two patterns to watch",
+      "body": "Help can be used with either 'person + infinitive' or 'person + to-infinitive': both 'helped me carry' and 'helped me to carry' are correct. By contrast, suggest does not normally take 'person + to-infinitive'. Use 'suggested that I speak to the manager' or 'suggested speaking to the manager'. Keep the two constructions separate.",
+      "example": "My teammate helped me (to) organise the files."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "The same wish, different person",
+      "left": {
+        "label": "Verb + to-infinitive",
+        "example": "I hope to finish early.",
+        "note": "The speaker hopes to finish."
+      },
+      "right": {
+        "label": "Verb + object + to-infinitive",
+        "example": "I want Priya to finish early.",
+        "note": "Priya, not the speaker, is meant to finish."
+      }
+    },
+    {
+      "title": "Active make versus passive be made",
+      "left": {
+        "label": "Active: make + object + base verb",
+        "example": "The delay made us miss the train.",
+        "note": "No to appears before miss."
+      },
+      "right": {
+        "label": "Passive: be made + to-infinitive",
+        "example": "We were made to stay after class.",
+        "note": "A passive form of make needs to before stay."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The organiser asked each guest to bring a reusable cup.",
+      "note": "Ask + object + to expresses a request."
+    },
+    {
+      "sentence": "Please remind me not to leave my keys at reception.",
+      "note": "Use not to before the base verb for a negative reminder."
+    },
+    {
+      "sentence": "The new timetable enables staff to start work later.",
+      "note": "Enable means that something makes an action possible."
+    },
+    {
+      "sentence": "Our neighbours let us keep our bicycles in their shed.",
+      "note": "Let is followed by an object and a bare infinitive."
+    },
+    {
+      "sentence": "We were encouraged to apply for the training programme.",
+      "note": "The passive keeps the to-infinitive even when the encourager is not named."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I want that you send the receipt.",
+      "correct": "I want you to send the receipt.",
+      "why": "Want normally takes an object and a to-infinitive when another person performs the action."
+    },
+    {
+      "incorrect": "The sign warned us to not enter.",
+      "correct": "The sign warned us not to enter.",
+      "why": "The usual neutral order for a negative infinitive is not to + base verb."
+    },
+    {
+      "incorrect": "My parents let me to choose the course.",
+      "correct": "My parents let me choose the course.",
+      "why": "Active let takes a bare infinitive, without to."
+    },
+    {
+      "incorrect": "The coach made us to run another lap.",
+      "correct": "The coach made us run another lap.",
+      "why": "Active make takes an object followed directly by the base verb."
+    }
+  ],
+  "studyTips": [
+    "When choosing the pattern, underline the main verb and the person who is meant to act; then decide whether the verb requires to.",
+    "Practise instructions in pairs: turn “Don’t open it” into “She warned me not to open it,” then change it into the passive.",
+    "Make a three-column card for allow + to, let + base verb and be made + to; say a new example for each."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "I almost forgot the meeting, but a colleague ___ me to bring my notes.",
+      "choices": [
+        "reminded",
+        "suggested",
+        "let"
+      ],
+      "answerIndex": 0,
+      "feedback": "Remind + person + to-infinitive names the person who must act. Suggest cannot take me to here, and let takes a bare infinitive."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The funny video ___ everyone laugh during lunch.",
+      "choices": [
+        "persuaded",
+        "made",
+        "allowed"
+      ],
+      "answerIndex": 1,
+      "feedback": "Active make uses an object plus the base verb: made everyone laugh, not made everyone to laugh."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The coach ___ the players to practise regularly.",
+      "choices": [
+        "let",
+        "made",
+        "encouraged"
+      ],
+      "answerIndex": 2,
+      "feedback": "Encourage somebody to do something means support or motivate them. Let and make take the bare infinitive."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The museum ___ visitors to take photos without flash.",
+      "choices": [
+        "allowed",
+        "made",
+        "let"
+      ],
+      "answerIndex": 0,
+      "feedback": "Allow + person + to-infinitive expresses permission. Made and let would require take, without to."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Yesterday my manager ___ the draft before lunch. (ask / me / revise; past simple)",
+      "acceptedAnswers": [
+        "asked me to revise"
+      ],
+      "feedback": "Ask + person + to-infinitive reports a request. The past of ask is asked."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The sign at the pond ___ the ducks. (warn / visitors / not / feed; present simple)",
+      "acceptedAnswers": [
+        "warns visitors not to feed"
+      ],
+      "feedback": "A singular sign warns visitors not to feed: not belongs immediately before to."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Last night the host ___ the party early. (let / us / leave; past simple)",
+      "acceptedAnswers": [
+        "let us leave"
+      ],
+      "feedback": "The past of let is let. Active let takes the base form leave, without to."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "During yesterday’s inspection, we ___ outside for fifteen minutes. (be / make / wait; past simple passive)",
+      "acceptedAnswers": [
+        "were made to wait"
+      ],
+      "feedback": "In the passive, make becomes were made to + base verb."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My sister persuaded me apply for the scholarship.",
+      "acceptedAnswers": [
+        "My sister persuaded me to apply for the scholarship."
+      ],
+      "feedback": "Persuade takes a person followed by to + base verb."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The unexpected noise made us to leave the café.",
+      "acceptedAnswers": [
+        "The unexpected noise made us leave the café."
+      ],
+      "feedback": "Active make takes the bare infinitive leave; remove to."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The lifeguard warned to us not to swim past the flags.",
+      "acceptedAnswers": [
+        "The lifeguard warned us not to swim past the flags."
+      ],
+      "feedback": "Warn is followed directly by its object, then not to + infinitive. Do not put to before us."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: They did not let us to bring drinks inside.",
+      "acceptedAnswers": [
+        "They did not let us bring drinks inside.",
+        "They didn’t let us bring drinks inside."
+      ],
+      "feedback": "Let + object takes a bare infinitive. Both the full negative and its contraction are valid."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Build one present-simple sentence from these facts: Lena wants an action; Amir should send the invoice tonight. Begin “Lena wants...”.",
+      "acceptedAnswers": [
+        "Lena wants Amir to send the invoice tonight."
+      ],
+      "feedback": "Want + object + to: Amir is the person expected to send the invoice."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Politely request a call this afternoon. Begin “I would like you...” and use “call me this afternoon”.",
+      "acceptedAnswers": [
+        "I would like you to call me this afternoon.",
+        "I’d like you to call me this afternoon."
+      ],
+      "feedback": "Would like takes a person and a to-infinitive to make the request."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "You are the receptionist. Photos are forbidden. Tell a visitor using “You are not allowed...” and “take photos”.",
+      "acceptedAnswers": [
+        "You are not allowed to take photos.",
+        "You’re not allowed to take photos."
+      ],
+      "feedback": "Be allowed to describes permission; the negative means photos are prohibited."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Change the command into reported speech with told: Mia said to Leo, “Bring the blue folder.” Begin “Mia told...”.",
+      "acceptedAnswers": [
+        "Mia told Leo to bring the blue folder."
+      ],
+      "feedback": "Tell takes the addressee Leo, then to bring."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Make one past-simple warning sentence from these exact words: I / warn / Noah / not / run / on the stairs.",
+      "acceptedAnswers": [
+        "I warned Noah not to run on the stairs."
+      ],
+      "feedback": "Warn somebody not to + base verb reports a negative warning."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Amy told a joke, and this caused Ben to laugh. Say the result starting “Amy’s joke made...”.",
+      "acceptedAnswers": [
+        "Amy’s joke made Ben laugh."
+      ],
+      "feedback": "After active made + person, use laugh without to."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences in the past. A tutor encouraged Eva to practise. Next, the tutor helped Eva solve a puzzle. Begin both sentences “The tutor...”.",
+      "acceptedAnswers": [
+        "The tutor encouraged Eva to practise. The tutor helped Eva solve a puzzle.",
+        "The tutor encouraged Eva to practise. The tutor helped Eva to solve a puzzle."
+      ],
+      "feedback": "Encourage requires to; help permits either solve or to solve."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Turn this active sentence into the passive, beginning “We...”: “The staff made us wait outside.”",
+      "acceptedAnswers": [
+        "We were made to wait outside."
+      ],
+      "feedback": "The passive of make requires to before wait."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The supervisor reminded the interns to switch off the monitors before leaving the room.",
+      "prompt": "What were the interns supposed to do?",
+      "choices": [
+        "Move the monitors to another room.",
+        "Turn the monitors off before they left.",
+        "Leave the monitors running overnight."
+      ],
+      "answerIndex": 1,
+      "feedback": "Reminded to switch off means they were expected to turn the monitors off before leaving."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Dad let me borrow his car for the weekend, but he did not allow my brother to use it.",
+      "prompt": "Who had permission to use the car?",
+      "choices": [
+        "Both siblings.",
+        "Only the brother.",
+        "Only the speaker."
+      ],
+      "answerIndex": 2,
+      "feedback": "Let me borrow gives the speaker permission; did not allow excludes the brother."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The organiser asked the volunteers to arrive by eight thirty for the briefing.",
+      "prompt": "Type the two-word infinitive phrase immediately after “volunteers”.",
+      "acceptedAnswers": [
+        "to arrive"
+      ],
+      "feedback": "Asked the volunteers to arrive uses object + to-infinitive."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I wanted Nora to present the results, but Nora asked Liam to do it instead.",
+      "prompt": "Who did Nora ask to present the results?",
+      "choices": [
+        "Liam.",
+        "The speaker.",
+        "Nora herself."
+      ],
+      "answerIndex": 0,
+      "feedback": "Nora asked Liam to do it: Liam is the person she requested to present."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Because of the storm, the school made the students stay indoors during lunch.",
+      "prompt": "What happened during lunch?",
+      "choices": [
+        "The students chose to play outdoors.",
+        "The students had to remain inside.",
+        "The students were encouraged to go home."
+      ],
+      "answerIndex": 1,
+      "feedback": "Made the students stay describes a requirement, not a free choice."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "They encouraged us to apply for the course, but nobody forced us to enrol.",
+      "prompt": "Did anyone require the group to enrol?",
+      "choices": [
+        "Yes, enrolment was compulsory.",
+        "Yes, because encouragement means an order.",
+        "No, applying was encouraged but enrolment was not forced."
+      ],
+      "answerIndex": 2,
+      "feedback": "Encourage is support; force would mean obligation, which the speaker denies."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The security guard warned us not to touch the old painting near the entrance.",
+      "prompt": "Type the three-word warning phrase immediately after “us”.",
+      "acceptedAnswers": [
+        "not to touch"
+      ],
+      "feedback": "A negative warning uses not to + infinitive."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We were made to wait in the lobby until the fire alarm stopped.",
+      "prompt": "Type the two-word infinitive phrase immediately after “made”.",
+      "acceptedAnswers": [
+        "to wait"
+      ],
+      "feedback": "Passive were made takes to + base verb, unlike active make."
+    }
+  ]
+}

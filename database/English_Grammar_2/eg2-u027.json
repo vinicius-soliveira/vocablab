@@ -1,0 +1,408 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u027",
+  "title": "Could and could have: possibilities and missed options",
+  "level": "B2",
+  "topicId": "eg2-u027-could-possibility-and-past-options",
+  "summary": "Use could to suggest tentative actions, describe a particular possibility, or imagine an unlikely situation. Use could have + past participle for an unrealised past option or risk, and couldn’t (have) for something that would not be possible.",
+  "learningObjectives": [
+    "Suggest present or future options with could, distinguishing tentative suggestions from more definite possibilities with can.",
+    "Use could for specific present/future possibilities and imagined situations rather than treating it only as the past of can.",
+    "Explain missed opportunities and avoided past outcomes using could have + past participle.",
+    "Distinguish couldn’t + base verb for present hypothetical impossibility from couldn’t have + participle for past hypothetical impossibility."
+  ],
+  "explanation": [
+    {
+      "heading": "Could offers a tentative suggestion",
+      "body": "Could + base verb can suggest an action that is available now or in the future. It often sounds less definite than can because the speaker is putting forward an option, not confirming a plan. Both can and could may be grammatical for practical suggestions, but could leaves the choice open. It is not necessarily a past form here.",
+      "example": "We could ask the neighbours to water the plants while we are away."
+    },
+    {
+      "heading": "Could expresses a specific possibility",
+      "body": "Use could when a particular situation might develop or turn out to be true. The form does not say the event will happen. Compare the general fact that roads can flood after heavy rain with a warning that this road could flood tonight. Use could + base verb, including be, become and happen.",
+      "example": "The entrance could become crowded when the concert ends."
+    },
+    {
+      "heading": "Imagining an extreme or unlikely situation",
+      "body": "Could can describe a hypothetical action that is not a realistic plan. Context or exaggeration often shows this meaning: being so hungry you could eat a huge meal, or liking somewhere enough to say you could stay forever. Do not confuse the imagined ability with an arrangement that has actually been made.",
+      "example": "The cabin is so quiet that I could spend the whole winter here."
+    },
+    {
+      "heading": "Could have for an unrealised past option or risk",
+      "body": "Could have + past participle points back to an earlier possibility that did not become reality in the situation described. It can express an unused choice or a bad event that was narrowly avoided. The verb after have must be a past participle, such as taken, left, fallen or missed. Specify the actual outcome so the contrast is clear.",
+      "example": "We could have hired bicycles, but we decided to walk instead."
+    },
+    {
+      "heading": "Couldn’t and couldn’t have for impossibility",
+      "body": "Couldn’t + base verb can mean an imagined action would not be possible now: I couldn’t live without a garden. Couldn’t have + past participle means a past outcome would not have been possible under the stated conditions: I couldn’t have finished without help. Depending on context, couldn’t also expresses past inability; identify whether the sentence refers to an imagined or actual event.",
+      "example": "Without the translator, we couldn’t have completed the interview."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "General possibility versus one uncertain development",
+      "left": {
+        "label": "Can: a general possibility",
+        "example": "Small boats can be delayed by strong winds.",
+        "note": "Can describes something that is possible in general."
+      },
+      "right": {
+        "label": "Could: a specific possibility",
+        "example": "Our boat could be delayed this afternoon.",
+        "note": "Could warns that a particular journey may be affected."
+      }
+    },
+    {
+      "title": "A possible next step versus a past option left unused",
+      "left": {
+        "label": "Could + base verb",
+        "example": "We could take the river path tomorrow.",
+        "note": "This is an option that remains open."
+      },
+      "right": {
+        "label": "Could have + participle",
+        "example": "We could have taken the river path yesterday, but we chose the hill route.",
+        "note": "The past alternative was available but not chosen."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "If the traffic is light, we could visit the gallery after lunch.",
+      "note": "Could suggests a possible activity without making a firm commitment."
+    },
+    {
+      "sentence": "There is a loose tile above the doorway; it could fall in a strong wind.",
+      "note": "Could describes a risk arising from a particular current situation."
+    },
+    {
+      "sentence": "I love this view so much that I could watch the sea for hours.",
+      "note": "The speaker imagines an extreme length of time rather than stating a plan."
+    },
+    {
+      "sentence": "You could have sent the form online, but you posted it instead.",
+      "note": "Could have sent identifies an available past alternative that was not used."
+    },
+    {
+      "sentence": "The performance couldn’t have gone better; every guest applauded.",
+      "note": "Couldn’t have gone better expresses that an even better past result was not possible in the speaker’s view."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "We could to meet after the workshop.",
+      "correct": "We could meet after the workshop.",
+      "why": "A modal is followed directly by the base verb; do not add to after could."
+    },
+    {
+      "incorrect": "He could have take an earlier train, but he decided to drive.",
+      "correct": "He could have taken an earlier train, but he decided to drive.",
+      "why": "Could have requires the past participle taken, not the base form take."
+    },
+    {
+      "incorrect": "The branch could fell during the storm tonight.",
+      "correct": "The branch could fall during the storm tonight.",
+      "why": "For a future possibility, use could + the base verb fall, not a past form."
+    },
+    {
+      "incorrect": "We couldn’t have finish on time without her help.",
+      "correct": "We couldn’t have finished on time without her help.",
+      "why": "The past hypothetical impossibility uses couldn’t have + past participle finished."
+    }
+  ],
+  "studyTips": [
+    "Ask whether the option is still open: use could + base verb now, but could have + participle when describing an unused earlier choice.",
+    "Make paired sentences with clear outcomes: We could visit on Saturday; we could have visited last Saturday, but we went hiking.",
+    "Contrast imagined limits in two time frames: I couldn’t do that now versus I couldn’t have done that yesterday without help."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The trip is not planned yet. Which sentence presents a tentative suggestion for next Saturday?",
+      "choices": [
+        "We had to hire a boat.",
+        "We could hire a boat.",
+        "We must have hired a boat."
+      ],
+      "answerIndex": 1,
+      "feedback": "Could hire proposes a possible future action without announcing a settled decision."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The road is dry now, but freezing rain is forecast overnight. It ___ slippery before morning.",
+      "choices": [
+        "could become",
+        "could have become",
+        "could becoming"
+      ],
+      "answerIndex": 0,
+      "feedback": "Could become describes a possible future change; could have become looks back to the past."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "All the cheap seats are sold out. You ___ one last week, but you decided to wait.",
+      "choices": [
+        "can reserve",
+        "could reserving",
+        "could have reserved"
+      ],
+      "answerIndex": 2,
+      "feedback": "Could have reserved identifies a past opportunity that was not taken. Use have + past participle."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The village is beautiful. If I did not need to return to work, I ___ here all summer.",
+      "choices": [
+        "could have stayed",
+        "could stay",
+        "can stayed"
+      ],
+      "answerIndex": 1,
+      "feedback": "Could stay expresses an imagined present possibility that is not a real plan."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "I am extremely hungry. “I ___ (eat) three meals right now!” Use could for an exaggerated idea.",
+      "acceptedAnswers": [
+        "could eat"
+      ],
+      "feedback": "Could eat expresses an exaggerated, imagined possibility in the present."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "We have not chosen our route. “We ___ (take) the coast road tomorrow.” Use could to suggest one option.",
+      "acceptedAnswers": [
+        "could take"
+      ],
+      "feedback": "Could take leaves the future route undecided."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The hotel was expensive. “We ___ (stay) with our friends last weekend, but we chose a hotel.” Use could have.",
+      "acceptedAnswers": [
+        "could have stayed"
+      ],
+      "feedback": "Could have stayed identifies a past alternative that was available but not selected."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Our hosts prepared everything perfectly. “The evening ___ (not / be) better.” Use couldn’t have.",
+      "acceptedAnswers": [
+        "couldn’t have been",
+        "could not have been"
+      ],
+      "feedback": "Couldn’t have been better describes a past experience the speaker considers impossible to improve."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: You could have join the workshop yesterday, but you decided to rest.",
+      "acceptedAnswers": [
+        "You could have joined the workshop yesterday, but you decided to rest."
+      ],
+      "feedback": "After could have, use the past participle joined."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The rope almost broke yesterday; someone could have fall into the water.",
+      "acceptedAnswers": [
+        "The rope almost broke yesterday; someone could have fallen into the water."
+      ],
+      "feedback": "The avoided past danger takes could have + past participle fallen."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I couldn’t have complete the survey without your explanations.",
+      "acceptedAnswers": [
+        "I couldn’t have completed the survey without your explanations.",
+        "I could not have completed the survey without your explanations."
+      ],
+      "feedback": "Couldn’t have completed refers to a past outcome that would not have been possible without help."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I am so tired that I could to sleep for twelve hours.",
+      "acceptedAnswers": [
+        "I am so tired that I could sleep for twelve hours."
+      ],
+      "feedback": "Could is followed directly by the base verb sleep, without to."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Suggest one possible plan. Use these exact facts: we; visit the botanical garden; tomorrow. Begin with “We could”.",
+      "acceptedAnswers": [
+        "We could visit the botanical garden tomorrow."
+      ],
+      "feedback": "Could visit offers an option rather than a fixed plan."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "The parcel has not arrived. Its delivery date is uncertain. Say one sentence beginning “The parcel” using could and the words “arrive on Friday”.",
+      "acceptedAnswers": [
+        "The parcel could arrive on Friday."
+      ],
+      "feedback": "Could arrive indicates a specific possible future event, not a guarantee."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Make an exaggerated present statement because you are very hungry. Begin with “I could” and use “eat three dinners right now”.",
+      "acceptedAnswers": [
+        "I could eat three dinners right now."
+      ],
+      "feedback": "Could eat describes an imagined extreme, not a confirmed meal plan."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The bus was available yesterday, but you chose to walk. Say one sentence beginning “You” and ending “yesterday”. Use could have taken the bus.",
+      "acceptedAnswers": [
+        "You could have taken the bus yesterday."
+      ],
+      "feedback": "Could have taken refers to an option that existed but was not chosen."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "A child nearly slipped from a low wall yesterday but remained safe. Say one sentence beginning “The child” with “could have fallen off the wall”.",
+      "acceptedAnswers": [
+        "The child could have fallen off the wall."
+      ],
+      "feedback": "Could have fallen describes a bad outcome that was possible but did not happen."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Our team finished the project, but your advice was essential. Begin with “We” and use couldn’t have completed the project without your advice.",
+      "acceptedAnswers": [
+        "We couldn’t have completed the project without your advice.",
+        "We could not have completed the project without your advice."
+      ],
+      "feedback": "Couldn’t have completed expresses an outcome that would have been impossible without assistance."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the verb after could have and say the full sentence: “Leah could have chose the train yesterday.”",
+      "acceptedAnswers": [
+        "Leah could have chosen the train yesterday."
+      ],
+      "feedback": "After could have, use the past participle chosen."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences. First, suggest a future option: “Tomorrow we / could / meet at the café.” Second, describe a past option that was not chosen: “Yesterday we / could have / met there, but we chose the park instead.” Begin with “Tomorrow” and “Yesterday”.",
+      "acceptedAnswers": [
+        "Tomorrow we could meet at the café. Yesterday we could have met there, but we chose the park instead."
+      ],
+      "feedback": "Could meet leaves tomorrow’s choice open; could have met refers to yesterday’s unused option."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "prompt": "What does the speaker suggest?",
+      "choices": [
+        "Cancelling every plan for Saturday.",
+        "Visiting the science centre if the weather is wet.",
+        "Returning to the science centre after a visit today."
+      ],
+      "answerIndex": 1,
+      "feedback": "Could visit presents a tentative activity conditional on the weather.",
+      "audioText": "We still need an idea for Saturday. We could visit the science centre if it rains."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "prompt": "What is the speaker warning about?",
+      "choices": [
+        "A past network failure that was repaired.",
+        "A failure that happens every evening.",
+        "A possible problem later tonight."
+      ],
+      "answerIndex": 2,
+      "feedback": "Could fail refers to one possible future event; it does not say it has already occurred.",
+      "audioText": "The computers are working now, but the network could fail during tonight’s update."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "prompt": "Type the two-word modal verb phrase immediately after “I”.",
+      "acceptedAnswers": [
+        "could sit"
+      ],
+      "feedback": "Could sit is the audible expression of an imagined present possibility.",
+      "audioText": "The chair is so comfortable that I could sit here for hours."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "prompt": "Why did the speakers choose the coach?",
+      "choices": [
+        "The coach cost less than the train.",
+        "There was no train option at all.",
+        "The train journey was cancelled after they boarded."
+      ],
+      "answerIndex": 0,
+      "feedback": "The train was a possible alternative, but lower coach fares determined their actual choice.",
+      "audioText": "We took the coach to the festival. We could have travelled by train, but the coach tickets were cheaper."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "prompt": "Which outcome does the speaker describe?",
+      "choices": [
+        "An injury that definitely occurred.",
+        "A possible injury that was avoided.",
+        "A decision to stop cycling permanently."
+      ],
+      "answerIndex": 1,
+      "feedback": "Could have been hurt describes a danger that did not become reality.",
+      "audioText": "The cyclist avoided a loose stone just in time. She could have been badly hurt."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "prompt": "What does the speaker believe about the repair?",
+      "choices": [
+        "It could easily have been completed alone.",
+        "The repair is still impossible for everyone.",
+        "The electrician’s help was essential to its completion."
+      ],
+      "answerIndex": 2,
+      "feedback": "Couldn’t have fixed without her help means the successful past outcome depended on that assistance.",
+      "audioText": "I’m glad the electrician arrived. We couldn’t have fixed the heating without her help."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "prompt": "Type the three-word modal verb phrase immediately after “You”.",
+      "acceptedAnswers": [
+        "could have asked"
+      ],
+      "feedback": "Could have asked names an option the listener did not take.",
+      "audioText": "You could have asked me for directions, but you used the map instead."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "prompt": "Type the expression immediately after “It”, ending with “better”.",
+      "acceptedAnswers": [
+        "couldn’t have been better",
+        "could not have been better"
+      ],
+      "feedback": "Couldn’t have been better is a hypothetical judgement about a past result.",
+      "audioText": "The weather for our celebration was perfect. It couldn’t have been better."
+    }
+  ]
+}

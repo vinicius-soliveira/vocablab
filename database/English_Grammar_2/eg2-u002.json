@@ -1,0 +1,409 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u002",
+  "title": "Present simple: routines and general facts",
+  "level": "B1",
+  "topicId": "eg2-u002-present-simple-habits-facts",
+  "summary": "Use the present simple for habits, repeated events, regular schedules and facts that are generally true. Form questions and negatives with do or does, use third-person singular endings, and recognise performative verbs such as promise and suggest.",
+  "learningObjectives": [
+    "Describe routines, repeated actions and general truths with the present simple.",
+    "Apply third-person singular -s or -es and common irregular forms correctly.",
+    "Build negatives, yes/no questions and wh-questions with do or does.",
+    "Use frequency expressions and performative verbs to communicate routines and present commitments."
+  ],
+  "explanation": [
+    {
+      "heading": "Habits and general truths",
+      "body": "Use the present simple for repeated behaviour, routines and facts that hold in general. It does not need to describe an action underway at the moment of speaking. Regular schedules, including opening hours and departure times, are often stated in this tense.",
+      "example": "The community pool opens at six every weekday."
+    },
+    {
+      "heading": "The third-person singular form",
+      "body": "With I, you, we and they, use the base verb. With he, she, it or one singular noun, add -s or -es as required: reads, watches, goes and teaches. Have becomes has. These endings belong to affirmative present-simple clauses.",
+      "example": "My uncle fixes bicycles in his spare time."
+    },
+    {
+      "heading": "Negatives and questions with do/does",
+      "body": "Use do not (don’t) or does not (doesn’t) before the base verb in ordinary present-simple negatives. Questions place do or does before the subject; wh-questions put the question word first. After does or doesn’t, the main verb stays in its base form: Does she work? and She doesn’t work.",
+      "example": "Where does your cousin study?"
+    },
+    {
+      "heading": "Frequency and repeated patterns",
+      "body": "Frequency words such as usually, often, sometimes, rarely and never help show how regularly something happens. Place most of these before the main verb, but after be. Expressions such as every Tuesday, twice a month and at weekends commonly come later in the clause.",
+      "example": "We usually have a team meeting on Mondays."
+    },
+    {
+      "heading": "Words that perform an action when spoken",
+      "body": "Some present-simple first-person verbs can perform the act they name. When a speaker says I promise, I apologise, I insist, I suggest or I recommend, the words themselves may make a promise, apology, insistence, suggestion or recommendation. This use normally takes the simple form, not the continuous.",
+      "example": "I apologise for the confusion, and I suggest a new starting time."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Base form versus third-person singular",
+      "left": {
+        "label": "I/you/we/they",
+        "example": "They deliver parcels on Fridays.",
+        "note": "Plural subjects use the base form deliver."
+      },
+      "right": {
+        "label": "He/she/it",
+        "example": "She delivers parcels on Fridays.",
+        "note": "A third-person singular subject requires delivers."
+      }
+    },
+    {
+      "title": "An affirmative verb versus a does-question",
+      "left": {
+        "label": "Affirmative statement",
+        "example": "Leo works at the library.",
+        "note": "The third-person ending attaches to works."
+      },
+      "right": {
+        "label": "Question with does",
+        "example": "Does Leo work at the library?",
+        "note": "Does carries the agreement, so the main verb returns to work."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The bakery sells fresh bread every morning.",
+      "note": "Sells describes a regular business activity and takes -s with the singular subject."
+    },
+    {
+      "sentence": "We don’t eat dinner at the same time on Fridays.",
+      "note": "Don’t + base verb gives a negative routine with we."
+    },
+    {
+      "sentence": "How often does your train stop at this station?",
+      "note": "Does forms a question about frequency; stop has no -s after does."
+    },
+    {
+      "sentence": "Tessa rarely misses her evening walk.",
+      "note": "Rarely appears before the main verb, and misses agrees with Tessa."
+    },
+    {
+      "sentence": "I recommend the vegetable soup.",
+      "note": "Recommend can perform a recommendation as it is spoken."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "My brother live near the university.",
+      "correct": "My brother lives near the university.",
+      "why": "A third-person singular subject needs -s or another appropriate present-simple ending."
+    },
+    {
+      "incorrect": "Does your manager speaks French?",
+      "correct": "Does your manager speak French?",
+      "why": "After does, use the base form speak, without a second third-person ending."
+    },
+    {
+      "incorrect": "She don’t travel by bus.",
+      "correct": "She doesn’t travel by bus.",
+      "why": "Use doesn’t with she and follow it with the base verb."
+    },
+    {
+      "incorrect": "I am promising to send the file by Friday.",
+      "correct": "I promise to send the file by Friday.",
+      "why": "When the words themselves make a promise, use the present simple I promise."
+    }
+  ],
+  "studyTips": [
+    "Create a routine chart and describe it twice: once with I or they and once with he or she, checking -s and -es.",
+    "Convert affirmative sentences into does-questions and doesn’t-negatives; remove the -s ending from the main verb.",
+    "Practise making a promise, suggestion and apology aloud using I promise, I suggest and I apologise."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The neighbourhood pharmacy ___ at eight every morning.",
+      "choices": [
+        "opens",
+        "is opening",
+        "open"
+      ],
+      "answerIndex": 0,
+      "feedback": "The sentence gives a regular opening time. The singular subject takes opens."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "My grandparents ___ in the same village all year.",
+      "choices": [
+        "lives",
+        "are live",
+        "live"
+      ],
+      "answerIndex": 2,
+      "feedback": "Grandparents is plural, so use the present-simple base form live."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "___ your father work from home on Fridays?",
+      "choices": [
+        "Do",
+        "Does",
+        "Is"
+      ],
+      "answerIndex": 1,
+      "feedback": "The singular third-person subject your father takes does in present-simple questions."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Olivia ___ tea, but she drinks plenty of water.",
+      "choices": [
+        "doesn’t drink",
+        "don’t drinks",
+        "doesn’t drinks"
+      ],
+      "answerIndex": 0,
+      "feedback": "Doesn’t is followed by the base form drink, without -s."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The main office ___ (close) at five on weekdays. Write the present-simple verb.",
+      "acceptedAnswers": [
+        "closes"
+      ],
+      "feedback": "The office is singular and the statement gives a regular schedule, so use closes."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The twins ___ (study) together after school every Tuesday. Write the present-simple verb.",
+      "acceptedAnswers": [
+        "study"
+      ],
+      "feedback": "The plural subject the twins takes the base form study."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Daisy ___ (not / enjoy) horror films. Write the negative present-simple verb phrase.",
+      "acceptedAnswers": [
+        "does not enjoy",
+        "doesn't enjoy"
+      ],
+      "feedback": "For Daisy, use does not or doesn’t followed by the base verb enjoy."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Where ___ (your neighbour / work)? Write the words between Where and the question mark.",
+      "acceptedAnswers": [
+        "does your neighbour work"
+      ],
+      "feedback": "Does precedes the singular subject, and work stays in its base form."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Ravi go to the gym before breakfast.",
+      "acceptedAnswers": [
+        "Ravi goes to the gym before breakfast."
+      ],
+      "feedback": "Go becomes goes with the third-person singular subject Ravi."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My friends doesn’t like crowded cafés.",
+      "acceptedAnswers": [
+        "My friends don’t like crowded cafés.",
+        "My friends do not like crowded cafés."
+      ],
+      "feedback": "The plural subject my friends requires do not or don’t, not doesn’t."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: What time does the workshop starts?",
+      "acceptedAnswers": [
+        "What time does the workshop start?"
+      ],
+      "feedback": "Use the base form start after does in a present-simple question."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I recommends the vegetable soup.",
+      "acceptedAnswers": [
+        "I recommend the vegetable soup."
+      ],
+      "feedback": "The first-person subject I takes recommend, not recommends. The utterance itself makes the recommendation."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "State one regular habit in a complete sentence: Dana; walk to work; every morning. Use the present simple.",
+      "acceptedAnswers": [
+        "Dana walks to work every morning."
+      ],
+      "feedback": "A third-person singular habit takes walks."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask a yes/no present-simple question using these facts: your parents; live near the coast.",
+      "acceptedAnswers": [
+        "Do your parents live near the coast?"
+      ],
+      "feedback": "The plural subject your parents takes do, followed by the base verb live."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say one negative sentence: Marco; not eat meat. Use the present simple.",
+      "acceptedAnswers": [
+        "Marco does not eat meat.",
+        "Marco doesn't eat meat."
+      ],
+      "feedback": "Does not or doesn’t goes before the base verb eat."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Answer this question with one complete sentence: What time does the shop close? Given fact: the shop; close; at six.",
+      "acceptedAnswers": [
+        "The shop closes at six."
+      ],
+      "feedback": "Closes reports a regular closing time for a singular subject."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Rephrase these supplied facts as one sentence: Nina; teach science; at a secondary school. Use the present simple.",
+      "acceptedAnswers": [
+        "Nina teaches science at a secondary school."
+      ],
+      "feedback": "Teach becomes teaches with Nina."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Say one sentence about this repeated pattern: the bus; usually arrive; early. Place usually before the main verb.",
+      "acceptedAnswers": [
+        "The bus usually arrives early."
+      ],
+      "feedback": "Usually appears before arrives to mark a regular pattern."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Produce exactly two sentences using these facts: I; not work; on Sundays. My sister; work; on Sundays. Use the present simple.",
+      "acceptedAnswers": [
+        "I do not work on Sundays. My sister works on Sundays.",
+        "I don't work on Sundays. My sister works on Sundays."
+      ],
+      "feedback": "The first sentence needs do not or don’t, while the singular subject in the second takes works."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You are making a promise right now. Say one sentence using the exact words: I promise; to call; before lunch.",
+      "acceptedAnswers": [
+        "I promise to call before lunch."
+      ],
+      "feedback": "I promise makes the commitment through the present-simple verb promise."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I take the early train to work every weekday, but I drive on Sundays.",
+      "prompt": "How does the speaker normally travel to work during the week?",
+      "choices": [
+        "By car.",
+        "By early train.",
+        "On foot."
+      ],
+      "answerIndex": 1,
+      "feedback": "Every weekday identifies the regular journey by early train."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The science museum opens at ten on weekdays and at eleven on Saturdays.",
+      "prompt": "On which days does the museum open later?",
+      "choices": [
+        "Saturdays.",
+        "All weekdays.",
+        "Every day at the same time."
+      ],
+      "answerIndex": 0,
+      "feedback": "The later opening time is eleven on Saturdays, not ten on weekdays."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Nora teaches music at the community centre twice a week.",
+      "prompt": "Type the single main verb immediately after “Nora”.",
+      "acceptedAnswers": [
+        "teaches"
+      ],
+      "feedback": "Teaches carries the -es ending for the third-person singular subject."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "My aunt doesn’t drink coffee, but she has green tea every morning.",
+      "prompt": "What does the aunt regularly drink?",
+      "choices": [
+        "Coffee after lunch.",
+        "Water before bed.",
+        "Green tea in the morning."
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker contrasts doesn’t drink coffee with the aunt’s regular green-tea habit."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Does Peter manage the shop, or does he only work there on Fridays? He manages it.",
+      "prompt": "What does the speaker confirm about Peter?",
+      "choices": [
+        "He is the manager of the shop.",
+        "He only works there on Fridays.",
+        "He does not work at the shop."
+      ],
+      "answerIndex": 0,
+      "feedback": "He manages it confirms Peter’s regular role rather than a Friday-only job."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I promise I will email you the final schedule before noon.",
+      "prompt": "What commitment is the speaker making?",
+      "choices": [
+        "To call before dinner.",
+        "To send a schedule by email before noon.",
+        "To print the schedule tomorrow."
+      ],
+      "answerIndex": 1,
+      "feedback": "I promise performs a commitment to email the schedule before noon."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The public library doesn’t close until nine on Thursdays.",
+      "prompt": "Type the negative present-simple verb phrase immediately after “The public library”. You may use its contracted or full form.",
+      "acceptedAnswers": [
+        "doesn't close",
+        "does not close"
+      ],
+      "feedback": "Doesn’t close is the spoken present-simple negative; does not close has the same grammatical meaning."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I recommend the soup because it is fresh and not too spicy.",
+      "prompt": "Type the single main verb immediately after “I”.",
+      "acceptedAnswers": [
+        "recommend"
+      ],
+      "feedback": "I recommend makes a recommendation using the present simple."
+    }
+  ]
+}

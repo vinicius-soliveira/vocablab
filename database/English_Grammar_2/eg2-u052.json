@@ -1,0 +1,407 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u052",
+  "title": "Question Tags: Checking and Confirming",
+  "level": "B2",
+  "topicId": "eg2-u052-question-tags-confirmation",
+  "summary": "Attach short question tags to statements to check facts, invite agreement, make gentle requests and respond accurately. Match the auxiliary and subject, apply the usual positive–negative contrast, and use special tags with let’s, negative commands and I am.",
+  "learningObjectives": [
+    "Build ordinary positive and negative question tags with the correct auxiliary, tense and pronoun.",
+    "Use do, does or did when a present-simple or past-simple statement has no other auxiliary.",
+    "Explain how a tag can seek confirmation or invite agreement and how yes/no replies relate to the truth of the statement.",
+    "Produce natural special tags after let’s, negative imperatives and I am, including polite tag requests."
+  ],
+  "explanation": [
+    {
+      "heading": "A tag uses an auxiliary and a matching subject",
+      "body": "A question tag is a short auxiliary + pronoun question attached to a statement. Use the statement’s auxiliary or modal: is, have, will, can, should, and so on. For present-simple and past-simple statements without another auxiliary, use do, does or did. Replace the subject with a matching pronoun; an existential there stays there in the tag. The tag refers back to the whole preceding statement.",
+      "example": "Your neighbours moved last month, didn’t they?"
+    },
+    {
+      "heading": "Usually reverse the polarity",
+      "body": "Most neutral tags are negative after positive statements and positive after negative statements. Use a natural contraction in a negative tag: she is → isn’t she?; they have not → have they? Negative subjects or negative expressions such as nobody and never normally call for a positive tag. Polarity alone is not enough: the auxiliary and pronoun must also match.",
+      "example": "The tickets haven’t sold out, have they?"
+    },
+    {
+      "heading": "Use tags to invite agreement or seek information",
+      "body": "A statement followed by a tag can express an expectation of agreement, often with falling intonation, or a genuine request for confirmation, often with rising intonation. In written English, surrounding context helps communicate this difference; do not assume that the same words always mean the speaker is certain. A negative statement with a positive tag can also be a gentle way to ask for information or a favour.",
+      "example": "You couldn’t check the address for me, could you?"
+    },
+    {
+      "heading": "Answer the fact, not the negative wording",
+      "body": "A positive reply confirms the positive fact even when the question contains not: Yes, I have means I have done it; No, I haven’t means I have not done it. The polarity of the question tag should not change the truth expressed by yes or no. When an answer might sound unclear, add the full subject and auxiliary.",
+      "example": "“You haven’t booked the room, have you?” “Yes, I have. I booked it this morning.”"
+    },
+    {
+      "heading": "Special patterns: let’s, commands and I am",
+      "body": "After let’s making a suggestion, use shall we? After a negative command, a common tag is will you? After a positive statement with I am, the usual negative tag is aren’t I? These fixed expressions do not follow a mechanical rule that repeats the exact preceding auxiliary. Practise them as complete conversational patterns.",
+      "example": "Let’s review the plan after lunch, shall we?"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Positive and negative statements",
+      "left": {
+        "label": "Positive statement",
+        "example": "The exhibition starts at nine, doesn’t it?",
+        "note": "Present simple uses the opposite-polarity tag doesn’t it."
+      },
+      "right": {
+        "label": "Negative statement",
+        "example": "The exhibition doesn’t close early, does it?",
+        "note": "The negative main clause takes a positive does it tag."
+      }
+    },
+    {
+      "title": "Confirmation versus politeness",
+      "left": {
+        "label": "Seeking confirmation",
+        "example": "Your parcel has arrived, hasn’t it?",
+        "note": "The speaker checks whether a past action has happened."
+      },
+      "right": {
+        "label": "Polite request",
+        "example": "You couldn’t hold this door, could you?",
+        "note": "A negative statement plus positive tag softens a request for help."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "There were several delays, weren’t there?",
+      "note": "Existential there remains the subject of the tag."
+    },
+    {
+      "sentence": "Priya has signed the form, hasn’t she?",
+      "note": "A present-perfect statement takes hasn’t and a pronoun matching Priya."
+    },
+    {
+      "sentence": "They never take the lift, do they?",
+      "note": "Never makes the main clause negative in meaning, so use a positive tag."
+    },
+    {
+      "sentence": "“You didn’t call yesterday, did you?” “Yes, I did.”",
+      "note": "The positive reply confirms the call despite the negative main clause."
+    },
+    {
+      "sentence": "I’m speaking first, aren’t I?",
+      "note": "Aren’t I is the idiomatic negative tag after I am."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The printer works now, isn’t it?",
+      "correct": "The printer works now, doesn’t it?",
+      "why": "An ordinary present-simple statement takes does in its tag, not the verb be."
+    },
+    {
+      "incorrect": "They haven’t arrived yet, haven’t they?",
+      "correct": "They haven’t arrived yet, have they?",
+      "why": "A negative main clause normally takes a positive tag."
+    },
+    {
+      "incorrect": "Let’s send the invitation, do we?",
+      "correct": "Let’s send the invitation, shall we?",
+      "why": "The conventional tag after let’s is shall we."
+    },
+    {
+      "incorrect": "I’m scheduled to speak next, isn’t I?",
+      "correct": "I’m scheduled to speak next, aren’t I?",
+      "why": "The standard negative tag after I am is aren’t I."
+    }
+  ],
+  "studyTips": [
+    "For every tag, check three items in order: statement polarity, the correct auxiliary, and the subject pronoun.",
+    "Practise matching one sentence to two intentions: a confident observation and a genuine request for confirmation; use suitable intonation.",
+    "Rehearse fixed patterns aloud: let’s … shall we, don’t … will you, and I’m … aren’t I; then answer a negative tag with an unambiguous yes/no fact."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The new gallery opens on Mondays, ___?",
+      "choices": [
+        "doesn't it",
+        "isn't it",
+        "does it"
+      ],
+      "answerIndex": 0,
+      "feedback": "Opens is present simple with a singular subject, so the negative tag is doesn’t it."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Your colleagues haven’t received the schedule, ___?",
+      "choices": [
+        "haven’t they",
+        "have they",
+        "did they"
+      ],
+      "answerIndex": 1,
+      "feedback": "The main clause is negative present perfect, so its tag is positive have they."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Let’s finish the discussion here, ___?",
+      "choices": [
+        "do we",
+        "will we",
+        "shall we"
+      ],
+      "answerIndex": 2,
+      "feedback": "Let’s making a suggestion conventionally takes shall we."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "I’m in the correct queue, ___?",
+      "choices": [
+        "aren’t I",
+        "am I",
+        "isn’t I"
+      ],
+      "answerIndex": 0,
+      "feedback": "The conventional tag following I am is aren’t I."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Our manager, Elena, can join the call, ___? Write only the two-word negative tag.",
+      "acceptedAnswers": [
+        "can't she"
+      ],
+      "feedback": "After positive can, use the negative modal tag can’t she when the manager is a woman."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "There were no seats left, ___? Write only the tag.",
+      "acceptedAnswers": [
+        "were there"
+      ],
+      "feedback": "No seats makes the clause negative, so use the positive existential tag were there."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Don’t leave the window open, ___? Write the customary two-word tag after a negative command.",
+      "acceptedAnswers": [
+        "will you"
+      ],
+      "feedback": "A negative imperative commonly takes will you as its tag."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "You didn’t send the wrong attachment, ___? Write only the tag.",
+      "acceptedAnswers": [
+        "did you"
+      ],
+      "feedback": "The main clause is negative past simple, so the positive tag is did you."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The bus arrives at seven, isn’t it?",
+      "acceptedAnswers": [
+        "The bus arrives at seven, doesn’t it?"
+      ],
+      "feedback": "Arrives is present simple, so the negative tag uses does rather than is."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We haven’t met the new supervisor, haven’t we?",
+      "acceptedAnswers": [
+        "We haven’t met the new supervisor, have we?"
+      ],
+      "feedback": "A negative present-perfect clause requires the positive tag have we."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Let’s compare the two quotes, do we?",
+      "acceptedAnswers": [
+        "Let’s compare the two quotes, shall we?"
+      ],
+      "feedback": "Use shall we as the conventional tag after let’s."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I’m responsible for the registration, isn’t I?",
+      "acceptedAnswers": [
+        "I’m responsible for the registration, aren’t I?"
+      ],
+      "feedback": "The standard tag after I am is aren’t I, not isn’t I."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Add a complete question tag to this present-simple statement. Say the whole result: “The new gallery opens on Sundays.”",
+      "acceptedAnswers": [
+        "The new gallery opens on Sundays, doesn't it?"
+      ],
+      "feedback": "The singular subject gallery takes doesn’t it after a positive present-simple statement."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Add the correct positive tag and say the entire sentence: “Your colleagues aren’t ready.”",
+      "acceptedAnswers": [
+        "Your colleagues aren't ready, are they?",
+        "Your colleagues are not ready, are they?"
+      ],
+      "feedback": "The negative are not in the statement is followed by the positive tag are they."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Convert this claim into a sentence with a negative confirmation tag: “The package will arrive tomorrow.”",
+      "acceptedAnswers": [
+        "The package will arrive tomorrow, won't it?"
+      ],
+      "feedback": "A positive future statement with will takes won’t it."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A classmate says Sam has finished his assignment. Check this with a tag attached to “Sam has finished his assignment.”",
+      "acceptedAnswers": [
+        "Sam has finished his assignment, hasn’t he?"
+      ],
+      "feedback": "The present perfect has takes hasn’t he for Sam."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Add the conventional suggestion tag to “Let’s take a break.” Say the complete sentence.",
+      "acceptedAnswers": [
+        "Let's take a break, shall we?"
+      ],
+      "feedback": "Let’s uses shall we when suggesting a shared action."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Turn this negative instruction into a short tagged request: “Don’t leave the lights on.” Say the whole sentence.",
+      "acceptedAnswers": [
+        "Don't leave the lights on, will you?"
+      ],
+      "feedback": "A negative command often uses will you as a tag."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "You are next on the meeting agenda. Say the statement “I am next on the agenda” with its usual negative question tag.",
+      "acceptedAnswers": [
+        "I'm next on the agenda, aren't I?",
+        "I am next on the agenda, aren't I?"
+      ],
+      "feedback": "Even though the clause uses am, the usual negative tag is aren’t I."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give exactly two sentences. First, append a tag to “You haven’t tried the new app.” Second, reply truthfully that you HAVE tried it; begin your reply with “Yes”.",
+      "acceptedAnswers": [
+        "You haven't tried the new app, have you? Yes, I have.",
+        "You have not tried the new app, have you? Yes, I have."
+      ],
+      "feedback": "The negative perfect statement takes have you, and Yes, I have confirms that the app was tried."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I wrote down two thirty for the review meeting. It starts at that time, doesn’t it?",
+      "prompt": "What does the speaker want to confirm?",
+      "choices": [
+        "Whether the meeting starts at half past two.",
+        "Whether the meeting has been cancelled.",
+        "Whether the meeting is online."
+      ],
+      "answerIndex": 0,
+      "feedback": "The tag asks for confirmation that the previously mentioned meeting begins at two thirty."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "“You haven’t seen the revised map, have you?” “Yes, I have. I checked it this morning.”",
+      "prompt": "What do we know about the second speaker?",
+      "choices": [
+        "They have not seen the revised map.",
+        "They have seen the revised map.",
+        "They created the revised map."
+      ],
+      "answerIndex": 1,
+      "feedback": "Yes, I have is a positive factual answer despite the negative question tag."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Let’s move the chairs closer to the screen, shall we?",
+      "prompt": "Type the two-word question tag heard at the end of the sentence.",
+      "acceptedAnswers": [
+        "shall we"
+      ],
+      "feedback": "Shall we is the customary tag after let’s in a suggestion."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "You couldn’t print one extra copy for the visitor, could you? My printer is out of ink.",
+      "prompt": "What is the speaker trying to do?",
+      "choices": [
+        "State that someone has already printed the file.",
+        "Warn someone not to print the file.",
+        "Ask for help printing a file in a polite way."
+      ],
+      "answerIndex": 2,
+      "feedback": "The negative statement plus could you functions as a softened request."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "That was an excellent concert, wasn’t it? The final song was my favourite.",
+      "prompt": "Which statement is accurate?",
+      "choices": [
+        "The first person expects agreement that the concert was enjoyable.",
+        "The concert has been postponed.",
+        "The speaker is asking whether tickets are available."
+      ],
+      "answerIndex": 0,
+      "feedback": "Wasn’t it invites agreement about an enjoyable past event."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I am presenting the first slide, aren’t I? I want to make sure I have the correct order.",
+      "prompt": "Which option matches the speaker’s situation?",
+      "choices": [
+        "The speaker is uncertain who is responsible.",
+        "The speaker is checking that they are the designated speaker.",
+        "The speaker wants to cancel their presentation."
+      ],
+      "answerIndex": 1,
+      "feedback": "Aren’t I is a tag after I am used here to confirm a role."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Oliver was never late for practice, was he? I remember him arriving early every week.",
+      "prompt": "Type the two-word positive tag at the end of the first question.",
+      "acceptedAnswers": [
+        "was he"
+      ],
+      "feedback": "The negative expression never makes the clause negative in meaning, so the tag is positive was he."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "You did not misunderstand the instructions, did you? I can explain them again if necessary.",
+      "prompt": "Type the two-word tag heard after “instructions”.",
+      "acceptedAnswers": [
+        "did you"
+      ],
+      "feedback": "A negative past-simple statement takes a positive did you tag."
+    }
+  ]
+}

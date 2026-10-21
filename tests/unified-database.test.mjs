@@ -22,7 +22,8 @@ const localFetch = async (url, options) => {
 };
 
 test('grammar manifest and every grammar lesson are loadable from unified database', async () => {
-  const entries = await loadGrammarCatalog(localFetch);
+  const catalog = await loadGrammarCatalog(localFetch);
+  const entries = catalog.filter(x=>x.collectionId==='english-grammar-1');
   assert.equal(entries.length, 115);
   const files = await readdir(join(root, 'database', 'English_Grammar_1'));
   assert.equal(files.filter(name=> /^eg1-u\d{3}\.json$/.test(name)).length, 115);
@@ -43,7 +44,9 @@ test('both specialized catalog formats are registered under database, without mi
   assert.equal(vocabulary.units.length, 422);
   assert.equal(vocabulary.units.some(u => u.path.includes('English_Grammar')), false);
   const grammar = await json('database/grammar-manifest.json');
-  assert.equal(grammar.units.length, 115);
+  const bookRegistry = await json('curriculum/books.json');
+  const eg2Available = bookRegistry.books.find(b=>b.id==='english-grammar-2').status==='available';
+  assert.equal(grammar.units.length, eg2Available ? 260 : 115);
   // An in-place upgrade can retain the old grammar/ folder.
   // Only paths in the unified database may be published in either catalog.
   assert.ok(grammar.units.every(u => /^database\/English_Grammar_[1-3]\/eg[1-3]-u\d{3}\.json$/.test(u.path)));

@@ -1,0 +1,412 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u014",
+  "title": "Present perfect and past simple: finished and unfinished time",
+  "level": "B1",
+  "topicId": "eg2-u014-finished-unfinished-time",
+  "summary": "Choose between the present perfect and past simple by checking whether the time period reaches the present or has finished. Practise yesterday, ago, this week, since, when-questions and past periods of residence or employment.",
+  "learningObjectives": [
+    "Use the past simple with specific finished past times such as yesterday, last week and two years ago.",
+    "Use the present perfect to report experiences or events within an unfinished time period.",
+    "Use past-simple when-questions to ask about the time of a completed event.",
+    "Distinguish periods that continue to now from completed periods of work, residence and experience."
+  ],
+  "explanation": [
+    {
+      "heading": "Finished times take a past tense",
+      "body": "Use past simple when a past event is tied to a time period that is finished. Expressions such as yesterday, last Tuesday, in 2018 and an hour ago refer to completed past times. Do not combine the present perfect with such a finished-time phrase in a standard sentence.",
+      "example": "The supplier delivered the chairs last Thursday."
+    },
+    {
+      "heading": "Questions about when something happened",
+      "body": "We normally use the past simple to ask when or at what time an event occurred. A present-perfect question can ask whether something has happened at all, but when did it happen? asks for a specific past-time detail.",
+      "example": "“Have the guests arrived?” “Yes.” “When did they arrive?”"
+    },
+    {
+      "heading": "Periods that include now",
+      "body": "Use the present perfect to report what has happened within a period continuing until the moment of speaking, such as this week, today or this year. A period like this morning can be unfinished if it is still morning, but finished if it is now afternoon. The context determines the time boundary.",
+      "example": "It is only eleven, and I have already answered twelve messages this morning."
+    },
+    {
+      "heading": "Contrasting ongoing and completed periods",
+      "body": "Use the present perfect for situations that began earlier and still continue; use the past simple when the entire period is over. Since introduces a starting point continuing to now in the relevant present-perfect meaning; from 2012 to 2017 identifies a completed interval.",
+      "example": "He has worked here since 2021, but he worked at a hotel from 2017 to 2020."
+    },
+    {
+      "heading": "Experience across a lifetime or a closed period",
+      "body": "Have you ever…? and I have never… commonly refer to life experience up to now. Past simple can express what someone did or never did during a specific finished time, such as childhood. A completed holiday is described with a past tense; while the holiday is still in progress, present perfect is often suitable for an evaluation so far.",
+      "example": "I have never travelled by ferry, but my brother travelled by ferry frequently when he was a student."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "This week versus last week",
+      "left": {
+        "label": "Unfinished period",
+        "example": "We have held three meetings this week.",
+        "note": "The present week is still in progress."
+      },
+      "right": {
+        "label": "Finished period",
+        "example": "We held three meetings last week.",
+        "note": "Last week has ended, so past simple is appropriate."
+      }
+    },
+    {
+      "title": "Continuing residence versus completed residence",
+      "left": {
+        "label": "Still true",
+        "example": "Lena has lived in the same flat since 2020.",
+        "note": "Her residence began in 2020 and continues now."
+      },
+      "right": {
+        "label": "No longer true",
+        "example": "Lena lived in another flat from 2016 to 2020.",
+        "note": "The earlier period of residence is complete."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Did you see the documentary on television yesterday?",
+      "note": "Yesterday is a finished past period, so ask with did."
+    },
+    {
+      "sentence": "The repairs have taken longer than expected this week.",
+      "note": "The speaker is discussing a week that has not ended."
+    },
+    {
+      "sentence": "When did the new café open?",
+      "note": "The question requests a specific past time."
+    },
+    {
+      "sentence": "I have worked at this school since 2022.",
+      "note": "Present perfect indicates a period of employment continuing now."
+    },
+    {
+      "sentence": "I never learnt to swim when I was a child.",
+      "note": "A finished period of life makes the past simple natural."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I have posted the letter yesterday.",
+      "correct": "I posted the letter yesterday.",
+      "why": "Yesterday is a finished time, so use past simple."
+    },
+    {
+      "incorrect": "When have you joined the club?",
+      "correct": "When did you join the club?",
+      "why": "Ask about the date of a completed event with did."
+    },
+    {
+      "incorrect": "She worked here since 2021 and she still works here.",
+      "correct": "She has worked here since 2021 and she still works here.",
+      "why": "A period that continues to the present calls for the present perfect."
+    },
+    {
+      "incorrect": "We have lived in Spain from 2013 to 2016. We moved away after that.",
+      "correct": "We lived in Spain from 2013 to 2016. We moved away after that.",
+      "why": "The interval from 2013 to 2016 is completed, so use past simple."
+    }
+  ],
+  "studyTips": [
+    "Draw a timeline: mark whether the named time period has ended before choosing the tense.",
+    "Practise pairs with changed time expressions: “today / yesterday”, “this year / last year”, “since 2021 / from 2017 to 2021”.",
+    "When you ask a question with when or what time, check that you are using did + base verb rather than have + participle."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "It is still the middle of the week. For a progress report, choose the sentence that focuses on results so far.",
+      "choices": [
+        "We have completed four lessons this week.",
+        "We completed four lessons last week.",
+        "We will complete four lessons next week."
+      ],
+      "answerIndex": 0,
+      "feedback": "Have completed this week focuses on progress during a time period that is still open."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The electrician ___ at eight o’clock yesterday morning.",
+      "choices": [
+        "has arrived",
+        "arrived",
+        "has been arriving"
+      ],
+      "answerIndex": 1,
+      "feedback": "At eight o’clock yesterday morning specifies a finished past time."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The concert finished at ten. Which question asks for the exact time it finished?",
+      "choices": [
+        "When has the concert finished?",
+        "When the concert did finish?",
+        "When did the concert finish?"
+      ],
+      "answerIndex": 2,
+      "feedback": "When did…finish? uses past simple to ask for a past time."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The exhibition is still running. It ___ more than five thousand visitors since it opened.",
+      "choices": [
+        "attracted by yesterday",
+        "has attracted",
+        "had attracting"
+      ],
+      "answerIndex": 1,
+      "feedback": "Has attracted describes a total measured over a period continuing until now."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "We ___ (meet) the new director last Friday. Write the past-simple verb.",
+      "acceptedAnswers": [
+        "met"
+      ],
+      "feedback": "Last Friday is a finished past time, so use met."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "I ___ (not / read) the latest message yet, and I still need to reply. Write the present-perfect negative verb phrase.",
+      "acceptedAnswers": [
+        "haven't read",
+        "have not read"
+      ],
+      "feedback": "The message remains unread now, so use the present perfect negative."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The students ___ (not / attend) the workshop last summer. Write the past-simple negative verb phrase.",
+      "acceptedAnswers": [
+        "didn't attend",
+        "did not attend"
+      ],
+      "feedback": "Last summer is over, so use did not + base verb."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Nora ___ (live) in Dublin from 2010 to 2016, but she lives elsewhere now. Write the past-simple verb.",
+      "acceptedAnswers": [
+        "lived"
+      ],
+      "feedback": "From 2010 to 2016 is a completed period of residence."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I have met the course tutor three days ago.",
+      "acceptedAnswers": [
+        "I met the course tutor three days ago."
+      ],
+      "feedback": "Three days ago requires the past simple."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: When have you joined this organisation?",
+      "acceptedAnswers": [
+        "When did you join this organisation?"
+      ],
+      "feedback": "When did you join? asks for the point in the past."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She worked here since 2020 and she still works here.",
+      "acceptedAnswers": [
+        "She has worked here since 2020 and she still works here.",
+        "She's worked here since 2020 and she still works here."
+      ],
+      "feedback": "Since 2020 plus still shows the employment continues now."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I haven’t eaten breakfast yesterday.",
+      "acceptedAnswers": [
+        "I didn't eat breakfast yesterday.",
+        "I did not eat breakfast yesterday."
+      ],
+      "feedback": "Yesterday is a closed time period; use did not eat."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "State this completed event as one sentence: I / meet / Diana / on Monday. Use past simple and start “I”.",
+      "acceptedAnswers": [
+        "I met Diana on Monday."
+      ],
+      "feedback": "Met is past simple because Monday identifies a finished occasion."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "It is still October. Say you have attended three seminars this month. Begin “I” and use present perfect.",
+      "acceptedAnswers": [
+        "I have attended three seminars this month.",
+        "I've attended three seminars this month."
+      ],
+      "feedback": "This month is an unfinished time period; present perfect sums up progress so far."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "The museum did not open last week. Report this fact in one sentence beginning “The museum”.",
+      "acceptedAnswers": [
+        "The museum did not open last week.",
+        "The museum didn't open last week."
+      ],
+      "feedback": "Did not open fits the finished period last week."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You want the past date when an exhibition began. Ask one question beginning “When did” and ending “begin”.",
+      "acceptedAnswers": [
+        "When did the exhibition begin?"
+      ],
+      "feedback": "Use when did + base verb for a specific past-time question."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Your uncle lived in Paris from 2015 to 2020 and has now moved away. Say one past-simple sentence beginning “My uncle” and ending “from 2015 to 2020”.",
+      "acceptedAnswers": [
+        "My uncle lived in Paris from 2015 to 2020."
+      ],
+      "feedback": "The period from 2015 to 2020 is finished."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Say exactly two sentences using full forms. First: “I” + work here + since 2021, and I still work here. Second: before this job, “I” + work at a bakery. Start the second sentence with “Before that”.",
+      "acceptedAnswers": [
+        "I have worked here since 2021. Before that, I worked at a bakery."
+      ],
+      "feedback": "Have worked is still true; worked describes a completed earlier job."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "It is eleven o’clock in the morning. You have finished two reports since breakfast. Say one sentence beginning “I” and ending “this morning”; use present perfect.",
+      "acceptedAnswers": [
+        "I have finished two reports this morning.",
+        "I've finished two reports this morning."
+      ],
+      "feedback": "This morning has not ended, so present perfect is appropriate."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Describe your lifetime experience until now: I / never / visit / Canada. Start “I” and use present perfect.",
+      "acceptedAnswers": [
+        "I have never visited Canada.",
+        "I've never visited Canada."
+      ],
+      "feedback": "Have never visited refers to experience up to the present, not one finished period."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "It is only eleven in the morning, and I have already answered six enquiries today.",
+      "prompt": "What does the speaker mean about the six enquiries?",
+      "choices": [
+        "They will answer all six tomorrow.",
+        "They answered them on a finished day last week.",
+        "They have answered them so far during the current day."
+      ],
+      "answerIndex": 2,
+      "feedback": "Today still includes now, so have answered describes progress so far."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We visited the aquarium on Tuesday and stayed there for two hours.",
+      "prompt": "When did the aquarium visit happen?",
+      "choices": [
+        "On Tuesday.",
+        "At some unknown future time.",
+        "During the speaker’s entire lifetime."
+      ],
+      "answerIndex": 0,
+      "feedback": "Visited on Tuesday identifies a completed past event."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I haven't had lunch today, and it is nearly one o'clock.",
+      "prompt": "Type the three-word negative verb phrase immediately after “I”, exactly as heard.",
+      "acceptedAnswers": [
+        "haven't had lunch"
+      ],
+      "feedback": "The speaker is still within today and has not yet eaten lunch."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I worked in Madrid from 2014 to 2018. I now live and work in Valencia.",
+      "prompt": "What can we infer about the Madrid job?",
+      "choices": [
+        "The speaker has held it since 2014 and still does.",
+        "The job ended before the move to Valencia.",
+        "The speaker will start it in 2018."
+      ],
+      "answerIndex": 1,
+      "feedback": "From 2014 to 2018 is a completed past period."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I have never swum in a lake, but I swam in the sea during my holiday last summer.",
+      "prompt": "Which statement is correct?",
+      "choices": [
+        "The speaker swam in a lake last summer.",
+        "The speaker has never swum in the sea.",
+        "The speaker lacks lake experience but swam in the sea on a finished holiday."
+      ],
+      "answerIndex": 2,
+      "feedback": "Have never refers to experience up to now; last summer identifies the past sea swim."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We have not received any deliveries this week, but two boxes arrived last Friday.",
+      "prompt": "What happened last Friday?",
+      "choices": [
+        "Two boxes arrived.",
+        "No deliveries arrived.",
+        "The entire warehouse closed permanently."
+      ],
+      "answerIndex": 0,
+      "feedback": "Arrived last Friday uses past simple for a closed time period."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The concert ended at half past nine last night, and everyone left quietly.",
+      "prompt": "Type the single past-simple verb immediately after “The concert”.",
+      "acceptedAnswers": [
+        "ended"
+      ],
+      "feedback": "Ended is past simple because last night is over."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We have studied together since September, and our course is still running.",
+      "prompt": "Type the two-word starting-point expression immediately after “together”.",
+      "acceptedAnswers": [
+        "since September"
+      ],
+      "feedback": "Since September indicates a period reaching the present."
+    }
+  ]
+}

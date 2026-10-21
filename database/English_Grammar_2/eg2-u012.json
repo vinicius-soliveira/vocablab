@@ -1,0 +1,408 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u012",
+  "title": "For, since, when and how long",
+  "level": "B1",
+  "topicId": "eg2-u012-for-since-when-duration",
+  "summary": "Express duration accurately with for and since, distinguish a period from a starting point, ask when a past event took place versus how long a situation has lasted, and use it is or it has been + time + since to refer to the last occurrence of an event.",
+  "learningObjectives": [
+    "Choose for with a time period and since with a starting point or starting event.",
+    "Use duration expressions naturally in affirmative and negative sentences, including all and in.",
+    "Choose between when + past simple and how long + present perfect based on the information requested.",
+    "Describe the interval since a previous event with it is or it has been + time + since."
+  ],
+  "explanation": [
+    {
+      "heading": "Use for to measure a length of time",
+      "body": "Use for before a period such as three days, several months or many years. It tells the listener how much time is involved, not the particular date when the period began. Use it with a present perfect verb to connect that period with the present.",
+      "example": "The local pool has been closed for six weeks."
+    },
+    {
+      "heading": "Use since to identify the starting point",
+      "body": "Use since before a time, date or event that marks the start of a situation: since Thursday, since last winter, since we moved here. The action or state must continue from that point to a later reference time, normally now in the present perfect examples in this lesson.",
+      "example": "I have been taking evening classes since I changed jobs."
+    },
+    {
+      "heading": "Use for, in and all naturally",
+      "body": "In affirmative duration statements, for can sometimes be left out, although including it is clear and safe. In negative present perfect statements, keep for or use in with the same time period: I have not taken a holiday for/in two years. With all day or all my life, do not add for directly before all.",
+      "example": "I have lived in this neighbourhood all my life."
+    },
+    {
+      "heading": "Ask when for an event and how long for duration",
+      "body": "When did ...? with the past simple asks at what time a past event happened. How long have/has ...? asks how much time a state or activity has continued up to now. If someone gives a starting date, ask when; if they give a duration, ask how long.",
+      "example": "When did the lessons begin? They began in September. How long have you been attending them? Since September."
+    },
+    {
+      "heading": "Measure the interval since the last event",
+      "body": "Use It is + period + since + past simple or It has been + period + since + past simple to say how much time has passed since something happened. Both are idiomatic. This often expresses the same idea as a present perfect negative with for or in: the event has not happened again in that interval.",
+      "example": "It has been almost a year since we last held a family reunion."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Time period versus starting point",
+      "left": {
+        "label": "For + period",
+        "example": "The workshop has been running for four weeks.",
+        "note": "Four weeks measures the length of time."
+      },
+      "right": {
+        "label": "Since + starting point",
+        "example": "The workshop has been running since the first Monday in May.",
+        "note": "The first Monday in May identifies when the period began."
+      }
+    },
+    {
+      "title": "Date of an event versus duration until now",
+      "left": {
+        "label": "When + past simple",
+        "example": "When did the orchestra begin rehearsals? It began in March.",
+        "note": "The question asks for a completed starting event and its date."
+      },
+      "right": {
+        "label": "How long + present perfect",
+        "example": "How long has the orchestra been rehearsing? For several months.",
+        "note": "The question asks about the length of an activity continuing to now."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I have kept the receipt for nearly two years.",
+      "note": "For introduces the amount of time the receipt has been kept."
+    },
+    {
+      "sentence": "The footbridge has been closed since the storm last Friday.",
+      "note": "Since identifies the event that marked the start of the closure."
+    },
+    {
+      "sentence": "We have not used the guest room in months.",
+      "note": "In can replace for in a negative statement about a period without an event."
+    },
+    {
+      "sentence": "My sister has studied the piano all her life.",
+      "note": "All her life is used directly, without for."
+    },
+    {
+      "sentence": "It is six months since I last visited my old school.",
+      "note": "It is ... since indicates time elapsed from the last visit until now."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The shop has been closed since six weeks.",
+      "correct": "The shop has been closed for six weeks.",
+      "why": "Six weeks is a duration, so use for rather than since."
+    },
+    {
+      "incorrect": "I have had this backpack for last October.",
+      "correct": "I have had this backpack since last October.",
+      "why": "Last October identifies a starting point, so use since."
+    },
+    {
+      "incorrect": "I have practised the violin for all my life.",
+      "correct": "I have practised the violin all my life.",
+      "why": "Use all my life without the preposition for."
+    },
+    {
+      "incorrect": "How long did you own this car? You still own it now.",
+      "correct": "How long have you owned this car? You still own it now.",
+      "why": "A state continuing up to now requires how long with the present perfect."
+    }
+  ],
+  "studyTips": [
+    "When deciding between for and since, label the expression “length” or “starting point” before choosing.",
+    "Practise paired questions about a real or imagined project: When did it begin? and How long has it been going on?",
+    "Rewrite “I have not done it for two years” as “It has been two years since I last did it” to practise time since the last event."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The hiking trail has been inaccessible ___ six weeks after the landslide.",
+      "choices": [
+        "since",
+        "for",
+        "during"
+      ],
+      "answerIndex": 1,
+      "feedback": "Six weeks describes a period of time, so use for."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The café reopened in September and is still operating. It has been open ___ September.",
+      "choices": [
+        "for",
+        "from",
+        "since"
+      ],
+      "answerIndex": 2,
+      "feedback": "September is a starting point, so since is the correct preposition."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "You want the exact date of a friend’s last conversation with her tutor. Which question asks for that information?",
+      "choices": [
+        "When did you last speak to your tutor?",
+        "How long have you known your tutor?",
+        "How long have you been speaking to your tutor?"
+      ],
+      "answerIndex": 0,
+      "feedback": "When did you last speak asks for the time of a finished event."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the natural expression: It ___ three years since we last used the spare room.",
+      "choices": [
+        "has",
+        "is",
+        "was being"
+      ],
+      "answerIndex": 1,
+      "feedback": "It is three years since ... describes elapsed time since the last occurrence. It has been would also be correct, but has alone would not."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "They have been repairing the old lighthouse ___ early May. (starting point)",
+      "acceptedAnswers": [
+        "since"
+      ],
+      "feedback": "Since introduces the starting point early May."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The café has been closed ___ two days. (period)",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "For introduces a length of time: two days."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "I have studied piano ___ my life. Complete with one word to make a natural duration expression without for.",
+      "acceptedAnswers": [
+        "all"
+      ],
+      "feedback": "All my life is a duration expression that does not take for."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "It has been nearly a year ___ we replaced the roof. Complete the time-since expression.",
+      "acceptedAnswers": [
+        "since"
+      ],
+      "feedback": "It has been + period + since + past simple measures the time from the last event."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We have been waiting since forty minutes.",
+      "acceptedAnswers": [
+        "We have been waiting for forty minutes."
+      ],
+      "feedback": "Forty minutes measures duration, so for replaces since."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I have lived here for all my life.",
+      "acceptedAnswers": [
+        "I have lived here all my life."
+      ],
+      "feedback": "All my life follows the verb phrase directly without for."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: How long did you have this bicycle? You still use it every day.",
+      "acceptedAnswers": [
+        "How long have you had this bicycle? You still use it every day."
+      ],
+      "feedback": "The possession still continues, so the how-long question uses the present perfect: have you had."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: It has been months from we last met.",
+      "acceptedAnswers": [
+        "It has been months since we last met."
+      ],
+      "feedback": "Use since to introduce the last event in an elapsed-time construction."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "The students started studying together five months ago and still meet. Make one sentence beginning “They” and using “have been studying together for five months”.",
+      "acceptedAnswers": [
+        "They have been studying together for five months.",
+        "They've been studying together for five months."
+      ],
+      "feedback": "For five months gives the period of ongoing study."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "The gallery opened in March and is still open. Make one sentence beginning “The gallery” and ending “since March”.",
+      "acceptedAnswers": [
+        "The gallery has been open since March.",
+        "The gallery's been open since March."
+      ],
+      "feedback": "Since March identifies when the gallery’s current open status began."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Ask for the exact past date when a conference began. Use the verb begin and start your question with “When did”.",
+      "acceptedAnswers": [
+        "When did the conference begin?"
+      ],
+      "feedback": "When did ... begin asks about a particular past starting event."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Ask about the duration of a conference that is still running. Start “How long” and use the present perfect continuous with “the conference” and “run”.",
+      "acceptedAnswers": [
+        "How long has the conference been running?"
+      ],
+      "feedback": "How long has ... been running asks how much time has passed during the ongoing event."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "You last travelled abroad four years ago. Say one negative sentence beginning “I” and including “for four years”. Use travel abroad and the present perfect simple.",
+      "acceptedAnswers": [
+        "I haven't travelled abroad for four years.",
+        "I have not travelled abroad for four years."
+      ],
+      "feedback": "The negative present perfect with for describes a period without travelling abroad."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Rewrite “I last saw Julia two years ago” to begin “It has been”. Use “two years since I last saw Julia” and full forms.",
+      "acceptedAnswers": [
+        "It has been two years since I last saw Julia."
+      ],
+      "feedback": "It has been + period + since describes time elapsed from the last meeting."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "You moved to Bristol and started your current job at that time. You still work there. Say this exact duration statement: I / work / here / since I moved to Bristol. Use the present perfect simple.",
+      "acceptedAnswers": [
+        "I have worked here since I moved to Bristol.",
+        "I've worked here since I moved to Bristol."
+      ],
+      "feedback": "Since can introduce a whole past event clause as the starting point."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences with full auxiliary forms. First, you have owned this bicycle for three years. Second, your sister has owned hers since 2021. Begin the sentences “I” and “My sister”.",
+      "acceptedAnswers": [
+        "I have owned this bicycle for three years. My sister has owned hers since 2021."
+      ],
+      "feedback": "For three years gives duration; since 2021 identifies the starting year."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "prompt": "When did the speaker start attending the class?",
+      "choices": [
+        "In January",
+        "Last week",
+        "Three years ago"
+      ],
+      "answerIndex": 0,
+      "feedback": "Since then refers back to the enrolment in January.",
+      "audioText": "I enrolled in the dance class in January, and I have been attending every week since then."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "prompt": "How long have the twins been away so far?",
+      "choices": [
+        "Since nine o’clock",
+        "Nine days",
+        "Until tomorrow night"
+      ],
+      "answerIndex": 1,
+      "feedback": "For nine days indicates the duration up to now, not a starting clock time.",
+      "audioText": "The twins have been away for nine days. They are expected home tomorrow."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "prompt": "Type the three-word time expression immediately after “open”.",
+      "acceptedAnswers": [
+        "since early spring"
+      ],
+      "feedback": "Since early spring identifies the starting point of the bakery’s present opening period.",
+      "audioText": "The bakery has been open since early spring."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "prompt": "Which question would have “in February” as its answer?",
+      "choices": [
+        "How long have you been meeting?",
+        "How often do you meet?",
+        "When did your meetings begin?"
+      ],
+      "answerIndex": 2,
+      "feedback": "In February is a starting date; a when question asks for that past event.",
+      "audioText": "Our science club began its weekly meetings in February. We have been meeting for eight months."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "prompt": "What does the speaker imply about borrowing novels?",
+      "choices": [
+        "They borrowed one yesterday.",
+        "They have not borrowed one for four months.",
+        "They have been borrowing one every week."
+      ],
+      "answerIndex": 1,
+      "feedback": "It has been four months since the last borrowing means the action has not recurred.",
+      "audioText": "It has been four months since I last borrowed a novel from the public library."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "prompt": "What changed two weeks ago?",
+      "choices": [
+        "The speaker stopped taking the tram and began cycling.",
+        "The speaker moved to another city.",
+        "The speaker stopped going to work."
+      ],
+      "answerIndex": 0,
+      "feedback": "For two weeks measures the duration of the new cycling routine.",
+      "audioText": "I have been cycling to work for two weeks. Before that, I took the tram every morning."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "prompt": "Type the two-word time expression immediately after “break”.",
+      "acceptedAnswers": [
+        "in months"
+      ],
+      "feedback": "In months is a natural alternative to for months in negative perfect statements.",
+      "audioText": "We have not had a proper break in months."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "prompt": "Type the four-word expression immediately after “five weeks”.",
+      "acceptedAnswers": [
+        "since the museum reopened"
+      ],
+      "feedback": "Since the museum reopened identifies the event from which the five weeks are measured.",
+      "audioText": "It has been five weeks since the museum reopened."
+    }
+  ]
+}

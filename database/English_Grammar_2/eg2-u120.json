@@ -1,0 +1,419 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u120",
+  "title": "By, Until and By the Time: Deadlines and Endpoints",
+  "level": "B2",
+  "topicId": "eg2-u120-by-until-by-the-time-deadlines",
+  "summary": "Distinguish a latest acceptable time with by from the endpoint of a continuing action with until. Use by the time to compare events, selecting a present tense for future time clauses and an appropriate past form for completed earlier events.",
+  "learningObjectives": [
+    "Use by to set a deadline or a latest arrival or completion time.",
+    "Use until or till to mark how long a state or activity continues.",
+    "Distinguish delayed actions in not ... until from actions completed by a deadline.",
+    "Express what will already have happened or had already happened by the time another event occurs."
+  ],
+  "explanation": [
+    {
+      "heading": "By names the latest acceptable time",
+      "body": "By plus a time or date means no later than that point: something may happen earlier or exactly then. It is useful for submissions, arrivals, payments and promises. By now is used when a result is already expected at the present moment.",
+      "example": "Please return the signed form by Thursday afternoon."
+    },
+    {
+      "heading": "Until marks the end of a continuing period",
+      "body": "Until or till identifies how long a state, activity or wait lasts. With stay, work, remain, wait and similar verbs, the situation continues up to the named time. Use until rather than by when you mean that the activity lasts throughout the interval.",
+      "example": "The volunteers stayed in the hall until sunset."
+    },
+    {
+      "heading": "Not until marks a delayed starting point",
+      "body": "A negative clause with until often means that an action did not happen before a particular time: we did not begin until eleven. This differs from finishing by eleven, which gives the latest possible completion time. The two expressions can therefore change the meaning of an instruction.",
+      "example": "The film did not begin until quarter past eight."
+    },
+    {
+      "heading": "By the time looks ahead to a later point",
+      "body": "By the time + a clause sets the moment against which another result is measured. If the situation is in the future, use a present form in the by the time clause, even when the main clause contains will or will have. The main clause may describe a result that will already be complete.",
+      "example": "By the time the guests arrive, we will have prepared the tables."
+    },
+    {
+      "heading": "By the time looks back to a past point",
+      "body": "When referring to past events, by the time often combines a past-simple time clause with a past-perfect main clause to make the sequence clear: one event was complete before the other. By then and by that time can refer back to a point already mentioned.",
+      "example": "By the time the rescue team reached the beach, the tide had turned."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Latest deadline versus continuing activity",
+      "left": {
+        "label": "By: not later than",
+        "example": "The application must arrive by Friday.",
+        "note": "Friday is the last permitted arrival day."
+      },
+      "right": {
+        "label": "Until: lasting up to",
+        "example": "The application office stays open until Friday evening.",
+        "note": "The office continues operating up to Friday evening."
+      }
+    },
+    {
+      "title": "Waiting versus completing",
+      "left": {
+        "label": "Until: continuation",
+        "example": "We waited until six o’clock.",
+        "note": "Waiting lasted to this point."
+      },
+      "right": {
+        "label": "By: finished result",
+        "example": "We had finished the repairs by six o’clock.",
+        "note": "The repairs were complete no later than this point."
+      }
+    },
+    {
+      "title": "A future checkpoint versus a past checkpoint",
+      "left": {
+        "label": "Future checkpoint",
+        "example": "By the time the bus arrives, I will have bought the tickets.",
+        "note": "Present simple arrives follows by the time with future meaning."
+      },
+      "right": {
+        "label": "Past checkpoint",
+        "example": "By the time the bus arrived, I had bought the tickets.",
+        "note": "Past perfect had bought places the purchase earlier than the past arrival."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The report is due by midday on Wednesday.",
+      "note": "By introduces the latest submission time, not the duration of writing."
+    },
+    {
+      "sentence": "The children played in the garden until the rain began.",
+      "note": "The activity continued up to a changing event."
+    },
+    {
+      "sentence": "The restaurant did not open until eleven.",
+      "note": "Not until means the opening happened no earlier than eleven."
+    },
+    {
+      "sentence": "By the time you reach the entrance, the queue will probably have disappeared.",
+      "note": "The present tense reach sets a future reference point."
+    },
+    {
+      "sentence": "By the time I checked my inbox, the coordinator had already sent the update.",
+      "note": "The earlier past action takes had sent, before I checked."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Please upload the file until Friday.",
+      "correct": "Please upload the file by Friday.",
+      "why": "A submission deadline takes by, not until."
+    },
+    {
+      "incorrect": "The library will remain open by nine tonight.",
+      "correct": "The library will remain open until nine tonight.",
+      "why": "Remain open describes a state continuing up to nine."
+    },
+    {
+      "incorrect": "By the time you will arrive, we will have finished dinner.",
+      "correct": "By the time you arrive, we will have finished dinner.",
+      "why": "Use a present tense in a future by the time clause."
+    },
+    {
+      "incorrect": "By the time the speech started, we have taken our seats.",
+      "correct": "By the time the speech started, we had taken our seats.",
+      "why": "The seats were taken before a past reference point, so use past perfect."
+    }
+  ],
+  "studyTips": [
+    "For each time expression, ask: is this a deadline (by), or does the action continue up to that time (until)?",
+    "Compare pairs such as I worked until six and I finished by six to notice how meaning changes.",
+    "Build two by the time timelines, one in the future with a present time clause and one in the past with past perfect."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The online application must reach the office ___ 6 p.m. on Friday.",
+      "choices": [
+        "until",
+        "by",
+        "till"
+      ],
+      "answerIndex": 1,
+      "feedback": "By sets the final permitted time for receiving the application."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The support team remained on site ___ midnight to restore the network.",
+      "choices": [
+        "until",
+        "by",
+        "by the time"
+      ],
+      "answerIndex": 0,
+      "feedback": "Remained describes a continuing situation; until marks its endpoint."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "By the time you ___ at the venue, the doors will already be open.",
+      "choices": [
+        "will arrive",
+        "arriving",
+        "arrive"
+      ],
+      "answerIndex": 2,
+      "feedback": "In a future by the time clause, use the present simple arrive."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "By the time the paramedics arrived, the driver ___ the damaged car.",
+      "choices": [
+        "will leave",
+        "leaves",
+        "had left"
+      ],
+      "answerIndex": 2,
+      "feedback": "Had left places the driver’s departure before the paramedics’ past arrival."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The library will stay open ___ . (nine o’clock; name the end of the opening period)",
+      "acceptedAnswers": [
+        "until nine o’clock"
+      ],
+      "feedback": "Until nine o’clock tells us how long the library remains open."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "We must submit our proposal ___ . (Friday; latest acceptable day)",
+      "acceptedAnswers": [
+        "by Friday"
+      ],
+      "feedback": "By Friday gives the deadline, including any earlier time."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The team ___ . (not / start / the meeting / until ten yesterday; use past simple)",
+      "acceptedAnswers": [
+        "didn’t start the meeting until ten yesterday",
+        "did not start the meeting until ten yesterday"
+      ],
+      "feedback": "Not until ten says the meeting began no earlier than ten."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "By the time ___ , everyone will have gone home. (I / finish / the report tomorrow; use a present form)",
+      "acceptedAnswers": [
+        "I finish the report tomorrow"
+      ],
+      "feedback": "Use simple present in the future time clause after by the time."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the time preposition only, keeping all other words unchanged: The forms must be submitted until noon.",
+      "acceptedAnswers": [
+        "The forms must be submitted by noon."
+      ],
+      "feedback": "The instruction sets a latest submission time, so by is required."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the time preposition only, keeping all other words unchanged: The lights stayed on by midnight.",
+      "acceptedAnswers": [
+        "The lights stayed on until midnight."
+      ],
+      "feedback": "Stayed on indicates a continuing situation ending at midnight."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the verb in the by the time clause only, keeping all other words unchanged: By the time he will get home, the shop will have closed.",
+      "acceptedAnswers": [
+        "By the time he gets home, the shop will have closed."
+      ],
+      "feedback": "A future by the time clause takes the present simple, gets."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the tense in the main clause only, keeping all other words unchanged: By the time the talk began, I have already found my seat.",
+      "acceptedAnswers": [
+        "By the time the talk began, I had already found my seat."
+      ],
+      "feedback": "Had already found marks an event completed before the past beginning of the talk."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "A manager sets a deadline: the design files / reach the client / by Friday. Use \"must\" and begin with \"The design files\".",
+      "acceptedAnswers": [
+        "The design files must reach the client by Friday."
+      ],
+      "feedback": "By Friday gives the latest acceptable delivery day."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Explain the duration of a wait. Facts: we / wait / until six. Use the past simple in one sentence.",
+      "acceptedAnswers": [
+        "We waited until six."
+      ],
+      "feedback": "Until six marks how long the waiting continued."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Rephrase these facts with until: Leo stayed at the office and left at nine. Begin \"Leo stayed\" and end \"until nine\".",
+      "acceptedAnswers": [
+        "Leo stayed at the office until nine."
+      ],
+      "feedback": "Until nine identifies the endpoint of Leo’s stay."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Correct the time word, changing nothing else: \"Please send the contract until Tuesday.\" Say the full corrected sentence.",
+      "acceptedAnswers": [
+        "Please send the contract by Tuesday."
+      ],
+      "feedback": "Sending by Tuesday states a deadline, not an ongoing action."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "You will arrive later; we expect lunch to be finished before then. Say one sentence beginning \"By the time you arrive\" and ending \"we will have finished lunch\".",
+      "acceptedAnswers": [
+        "By the time you arrive, we will have finished lunch."
+      ],
+      "feedback": "The future by the time clause uses arrive, not will arrive."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Make one past-sequence sentence using these facts: the concert started; Mia had already found her seat. Begin \"By the time the concert started\" and use \"Mia had found her seat\".",
+      "acceptedAnswers": [
+        "By the time the concert started, Mia had found her seat."
+      ],
+      "feedback": "Past perfect had found marks the action completed before the concert started."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Produce exactly two sentences in order. First: The nurse worked until six. Second: The report was ready by six. Keep the wording of these facts.",
+      "acceptedAnswers": [
+        "The nurse worked until six. The report was ready by six."
+      ],
+      "feedback": "Until describes how long the nurse worked; by describes when the report was complete."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say when the meeting finally started. Given facts: it was planned for nine, but it began at ten. Begin \"The meeting did not start\" and use \"until ten\".",
+      "acceptedAnswers": [
+        "The meeting did not start until ten.",
+        "The meeting didn’t start until ten."
+      ],
+      "feedback": "Not until ten indicates that the meeting did not begin before ten."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Please email the final schedule by five. I need to print it before I leave at half past five.",
+      "prompt": "What is the latest time for emailing the schedule?",
+      "choices": [
+        "Half past five.",
+        "Five o’clock.",
+        "Any time tomorrow."
+      ],
+      "answerIndex": 1,
+      "feedback": "By five sets the deadline; leaving half an hour later is a separate event."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The swimming pool will remain open until nine tonight, but last entry is at half past eight.",
+      "prompt": "How long will the pool stay open?",
+      "choices": [
+        "Only until half past eight.",
+        "Until tomorrow morning.",
+        "Until nine tonight."
+      ],
+      "answerIndex": 2,
+      "feedback": "Until nine marks the end of opening hours, while last entry is earlier."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The technician promised to complete the inspection by Thursday, although the parts arrived late.",
+      "prompt": "Type the two-word deadline expression immediately after \"inspection\".",
+      "acceptedAnswers": [
+        "by Thursday"
+      ],
+      "feedback": "By Thursday states the promised latest completion day."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "By the time we reached the platform, the train had departed, so we bought tickets for the next one.",
+      "prompt": "What had happened before the travellers reached the platform?",
+      "choices": [
+        "Their train had left.",
+        "They had boarded their train.",
+        "The next train had arrived."
+      ],
+      "answerIndex": 0,
+      "feedback": "Had departed locates the departure before the past arrival at the platform."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "By the time the new employees arrive on Monday, we will have prepared their workstations.",
+      "prompt": "What will be ready when the new employees arrive?",
+      "choices": [
+        "The meeting agenda for Tuesday.",
+        "Their workstations.",
+        "The office building next month."
+      ],
+      "answerIndex": 1,
+      "feedback": "We will have prepared their workstations means they will be ready by the arrival time."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I worked until seven, but I had sent the customer summary by five, well before my shift ended.",
+      "prompt": "Which statement is correct?",
+      "choices": [
+        "The summary was sent at seven.",
+        "The speaker stopped working at five.",
+        "The summary was sent no later than five, and the workday continued to seven."
+      ],
+      "answerIndex": 2,
+      "feedback": "By five sets the completion deadline; until seven shows that working continued beyond it."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The musicians practised until midnight because their performance was scheduled for the next morning.",
+      "prompt": "Type the two-word endpoint expression immediately after \"practised\".",
+      "acceptedAnswers": [
+        "until midnight"
+      ],
+      "feedback": "Until midnight marks how long their practice continued."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "By the time she arrived, the other volunteers had already cleaned the kitchen.",
+      "prompt": "Type the five-word opening time clause before \"the other volunteers\".",
+      "acceptedAnswers": [
+        "By the time she arrived"
+      ],
+      "feedback": "By the time she arrived sets a past reference point for the completed cleaning."
+    }
+  ]
+}

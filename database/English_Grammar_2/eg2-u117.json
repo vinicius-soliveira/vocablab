@@ -1,0 +1,422 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u117",
+  "title": "Like and As: Similarity, Manner and Roles",
+  "level": "B2",
+  "topicId": "eg2-u117-like-as-similarity-manner-roles",
+  "summary": "Distinguish like for similarity and examples from as for manner, established expressions and actual roles. Use like with noun phrases or -ing activities, as with clauses about how something was done, and as a noun phrase when naming a real function.",
+  "learningObjectives": [
+    "Use like before nouns, pronouns and -ing phrases to show resemblance.",
+    "Introduce representative examples with like or such as without confusing them with identity or employment.",
+    "Use as with a subject and verb to describe how an action was performed, and recognise the informal alternative like + clause.",
+    "Use fixed expressions such as as usual, as you know, do as you like and the same as accurately.",
+    "Distinguish a genuine role expressed by as + noun from a resemblance expressed by like + noun."
+  ],
+  "explanation": [
+    {
+      "heading": "Like introduces similarities",
+      "body": "Like means similar to. It commonly comes before a noun phrase, a pronoun or an -ing form. The expression can compare appearance, sound or experience without saying the two things are identical. Use like this or like me rather than as this or as me when you mean resemblance.",
+      "example": "The soft carpet feels like walking on fresh snow."
+    },
+    {
+      "heading": "Like can introduce examples",
+      "body": "Like can also mean for example. Use it to introduce some members of a larger category rather than an exhaustive list. Such as is another natural option in that meaning. Distinguish this use from an employment role: a person may enjoy activities like pottery without actually having pottery as a job.",
+      "example": "Our centre offers evening activities like drawing and creative writing."
+    },
+    {
+      "heading": "As introduces a manner clause",
+      "body": "When you mean in the way that something happens, as can introduce a clause containing its own subject and verb: as we discussed or as the instructions explain. Informal English also allows like before a clause, but as is a reliable neutral choice in more careful writing. With a bare pronoun or noun phrase expressing resemblance, use like instead.",
+      "example": "Please arrange the chairs as the organiser requested."
+    },
+    {
+      "heading": "Learn common as expressions",
+      "body": "Some expressions conventionally use as: as usual, as always, as you know, as I said, and the same as. After do, as can mean in the way that or what: do as you like. These are useful patterns to remember as complete expressions. In informal speech like I said is also possible, but the standard expression is as I said.",
+      "example": "As you know, the afternoon session starts earlier this week."
+    },
+    {
+      "heading": "As for a real function; like for resemblance",
+      "body": "As followed by a noun phrase can name an actual job, responsibility or use: work as a guide, serve as a container, or use a box as a desk. Like followed by the same kind of noun phrase instead means similar to that person or thing. The difference matters: a volunteer who acts like a manager is not necessarily employed as one.",
+      "example": "Priya works as a translator, but her brother helps with languages like a translator when friends need advice."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Real role versus resemblance",
+      "left": {
+        "label": "As + role",
+        "example": "Dana works as a music teacher.",
+        "note": "Teaching music is Dana’s actual professional role."
+      },
+      "right": {
+        "label": "Like + noun",
+        "example": "Dana explains everything like a music teacher.",
+        "note": "Her style resembles that of a teacher; the sentence does not identify her job."
+      }
+    },
+    {
+      "title": "Resemblance versus way of doing something",
+      "left": {
+        "label": "Like + pronoun",
+        "example": "Please fold the paper like this.",
+        "note": "This points to a demonstrated shape or method, without a full clause."
+      },
+      "right": {
+        "label": "As + subject + verb",
+        "example": "Please fold the paper as I demonstrated.",
+        "note": "A complete clause explains the manner in which to do the action."
+      }
+    },
+    {
+      "title": "A similarity versus the same item",
+      "left": {
+        "label": "Like mine",
+        "example": "Your backpack looks like mine.",
+        "note": "The backpacks are similar, but they need not match exactly."
+      },
+      "right": {
+        "label": "The same as mine",
+        "example": "Your backpack is the same as mine.",
+        "note": "Use the fixed combination the same as to state a stronger match."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The hallway echoes like a long tunnel.",
+      "note": "Like a long tunnel compares the sound or effect with a familiar place."
+    },
+    {
+      "sentence": "The gallery displays crafts like handmade baskets and pottery.",
+      "note": "Like introduces representative examples of crafts."
+    },
+    {
+      "sentence": "I copied the figures as the supervisor instructed.",
+      "note": "As introduces a subject and verb describing the requested manner."
+    },
+    {
+      "sentence": "The delivery arrived late, as usual.",
+      "note": "As usual is the established phrase for a repeated, expected occurrence."
+    },
+    {
+      "sentence": "He used an empty crate as a temporary seat.",
+      "note": "The crate had the actual function of a seat at that time."
+    },
+    {
+      "sentence": "Our final design is the same as the approved drawing.",
+      "note": "The expression the same as connects the two things being matched."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Please answer the question as this.",
+      "correct": "Please answer the question like this.",
+      "why": "The demonstrative this expresses a model or manner without a clause, so use like."
+    },
+    {
+      "incorrect": "The two jackets are the same like each other.",
+      "correct": "The two jackets are the same as each other.",
+      "why": "The fixed comparison is the same as, not the same like."
+    },
+    {
+      "incorrect": "She used the cardboard box as like a storage container.",
+      "correct": "She used the cardboard box as a storage container.",
+      "why": "In this context the box actually functioned as a container, rather than merely resembling one."
+    },
+    {
+      "incorrect": "As I mentioned, everything is ready as usually.",
+      "correct": "As I mentioned, everything is ready as usual.",
+      "why": "The fixed expression is as usual, not as usually; as I mentioned is already correct."
+    }
+  ],
+  "studyTips": [
+    "For each like/as sentence, decide whether the next words express similarity, a real role or a complete clause about manner.",
+    "Practise contrasting work as a guide with sound like a guide: a job label and a resemblance express different facts.",
+    "Learn the same as, as usual and as you know as whole expressions, then use each in a short original sentence."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Nadia is officially employed to translate documents for a museum. Which sentence states her actual role?",
+      "choices": [
+        "Nadia works like a translator at the museum.",
+        "Nadia works as a translator at the museum.",
+        "Nadia works as like a translator at the museum."
+      ],
+      "answerIndex": 1,
+      "feedback": "Work as a translator names Nadia’s real job. Like a translator would only describe a similarity."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "You want a colleague to copy the arrangement you are pointing at. Which instruction is natural?",
+      "choices": [
+        "Arrange the folders as this.",
+        "Arrange the folders as like this.",
+        "Arrange the folders like this."
+      ],
+      "answerIndex": 2,
+      "feedback": "Like this introduces a model shown by a pronoun; as this is not the intended structure."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence using a neutral manner clause: \"Please label the boxes ___ yesterday.\"",
+      "choices": [
+        "as we agreed",
+        "as our agreement",
+        "like agreement we"
+      ],
+      "answerIndex": 0,
+      "feedback": "As we agreed contains a subject and verb and means in the way we agreed."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Two colleagues have exactly matching security badges. Which expression is correct?",
+      "choices": [
+        "My badge is the same like yours.",
+        "My badge is the same as yours.",
+        "My badge is the same than yours."
+      ],
+      "answerIndex": 1,
+      "feedback": "The established comparative phrase is the same as."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The temperature dropped quickly; it felt ___ winter in the workshop. (one preposition expressing resemblance)",
+      "acceptedAnswers": [
+        "like"
+      ],
+      "feedback": "Like winter compares the sensation with winter rather than identifying the season."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "During the event, Clara worked ___ a volunteer coordinator; that was her assigned position. (one word for an actual role)",
+      "acceptedAnswers": [
+        "as"
+      ],
+      "feedback": "As a volunteer coordinator identifies Clara’s real function at the event."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The speaker started ten minutes late, as ___. (complete the fixed expression meaning as normally happens)",
+      "acceptedAnswers": [
+        "usual"
+      ],
+      "feedback": "As usual is the conventional phrase; usually is not used after as here."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Please set up the projector ___ I showed you earlier. (use the neutral one-word connector for a manner clause)",
+      "acceptedAnswers": [
+        "as"
+      ],
+      "feedback": "As introduces the full clause I showed you earlier. Informal like can also introduce a clause, but the prompt requests the neutral form."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the comparison word only: The material feels as wet sand.",
+      "acceptedAnswers": [
+        "The material feels like wet sand."
+      ],
+      "feedback": "Wet sand is a noun phrase used for similarity, so use like."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the fixed comparison only: Her timetable is the same like mine.",
+      "acceptedAnswers": [
+        "Her timetable is the same as mine."
+      ],
+      "feedback": "The standard phrase is the same as."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the expression at the end only: Our supplier arrived early, as usually.",
+      "acceptedAnswers": [
+        "Our supplier arrived early, as usual."
+      ],
+      "feedback": "The fixed phrase is as usual, not as usually."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the extra comparison word while keeping the real function: We used the old door as like a tabletop during the repairs.",
+      "acceptedAnswers": [
+        "We used the old door as a tabletop during the repairs."
+      ],
+      "feedback": "The door actually served the function of a tabletop, so as is the appropriate role marker."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "State Ravi’s actual job using these facts: Ravi / work / as / a librarian. Use the present simple.",
+      "acceptedAnswers": [
+        "Ravi works as a librarian."
+      ],
+      "feedback": "Works as names a real occupation; like would only express a resemblance."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Describe the noise from a fan using a similarity: the fan / sound / like / a small engine. Use the present simple.",
+      "acceptedAnswers": [
+        "The fan sounds like a small engine."
+      ],
+      "feedback": "Sounds like compares the noise with that of a small engine."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "You followed the directions that Mei gave. Say one sentence beginning \"I arranged the tables\" and ending \"as Mei instructed\".",
+      "acceptedAnswers": [
+        "I arranged the tables as Mei instructed."
+      ],
+      "feedback": "As Mei instructed tells how the tables were arranged."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Your notebooks match exactly. Say one sentence beginning \"My notebook\" and using the phrase \"the same as yours\".",
+      "acceptedAnswers": [
+        "My notebook is the same as yours."
+      ],
+      "feedback": "The same as is the fixed phrase for matching items."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Give two examples of indoor hobbies in one sentence. Begin \"I enjoy hobbies\" and finish with \"like chess and painting\".",
+      "acceptedAnswers": [
+        "I enjoy hobbies like chess and painting."
+      ],
+      "feedback": "Like can introduce examples of a wider category."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Remind a teammate of a shared fact. Begin \"As you know\" and add this fact in a complete sentence: the museum / close / at five.",
+      "acceptedAnswers": [
+        "As you know, the museum closes at five."
+      ],
+      "feedback": "As you know introduces information the listener already has."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences. Fact 1: Lea is employed as a photographer. Fact 2: her sister takes pictures like a professional. Begin the first with \"Lea\" and the second with \"Her sister\".",
+      "acceptedAnswers": [
+        "Lea works as a photographer. Her sister takes pictures like a professional."
+      ],
+      "feedback": "As identifies a real role, while like expresses a resemblance in skill."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences: first, \"The package arrived late\" plus the fixed phrase \"as usual\"; second, \"I filed the papers\" plus \"as the manager requested\".",
+      "acceptedAnswers": [
+        "The package arrived late, as usual. I filed the papers as the manager requested."
+      ],
+      "feedback": "The first uses a fixed expression; the second uses as followed by a manner clause."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I work as a chef, although my friends say I review restaurant meals like a critic.",
+      "prompt": "What is the speaker’s actual job?",
+      "choices": [
+        "A chef.",
+        "A restaurant critic.",
+        "A journalist."
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker works as a chef; writing reviews like a critic describes a resemblance, not a second job."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Our new flat is so quiet in the evenings that it feels like a library.",
+      "prompt": "What does the comparison tell you about the new flat?",
+      "choices": [
+        "It is inside a library.",
+        "It is unusually quiet.",
+        "It is full of books."
+      ],
+      "answerIndex": 1,
+      "feedback": "Like a library compares the level of quietness, not the building’s actual function."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The morning delivery arrived as usual, shortly after the café opened.",
+      "prompt": "Type the two-word phrase heard immediately after \"arrived\".",
+      "acceptedAnswers": [
+        "as usual"
+      ],
+      "feedback": "The speaker says as usual to describe a repeated pattern."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Please arrange the display boards as the manager demonstrated yesterday, not according to the box labels.",
+      "prompt": "How should the display boards be arranged?",
+      "choices": [
+        "In a completely new order.",
+        "According to the labels on the boxes.",
+        "In the way the manager showed earlier."
+      ],
+      "answerIndex": 2,
+      "feedback": "As the manager demonstrated refers to the procedure that was shown."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "At the festival, the assistant worked as a guide and showed visitors around the historic building.",
+      "prompt": "What does the speaker mean by saying the assistant worked as a guide?",
+      "choices": [
+        "Guiding visitors was the assistant’s assigned function.",
+        "The assistant merely looked similar to a guide.",
+        "The assistant refused to talk to visitors."
+      ],
+      "answerIndex": 0,
+      "feedback": "As a guide states the person’s function for the event."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We checked the specifications. The replacement screen is the same as the previous one.",
+      "prompt": "How does the replacement screen compare with the previous one?",
+      "choices": [
+        "It is larger.",
+        "It matches it.",
+        "It is less bright."
+      ],
+      "answerIndex": 1,
+      "feedback": "The same as describes a match; no difference in size or brightness is stated."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The entrance smells like freshly baked bread because the bakery is next door.",
+      "prompt": "Type the one-word preposition immediately after \"smells\".",
+      "acceptedAnswers": [
+        "like"
+      ],
+      "feedback": "Like introduces a comparison with freshly baked bread."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I placed the equipment exactly as the trainer explained during the workshop.",
+      "prompt": "Type the one-word connector immediately after \"exactly\".",
+      "acceptedAnswers": [
+        "as"
+      ],
+      "feedback": "As introduces a full manner clause, as the trainer explained."
+    }
+  ]
+}

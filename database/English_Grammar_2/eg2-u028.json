@@ -1,0 +1,411 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u028",
+  "title": "Must and can’t: deductions now and in the past",
+  "level": "B2",
+  "topicId": "eg2-u028-must-cant-deduction-present-past",
+  "summary": "Use must to draw a strong conclusion supported by evidence and can’t to reject an explanation as implausible. Extend those deductions to the past with must have and can’t have + past participle, including deductions about actions in progress.",
+  "learningObjectives": [
+    "Draw strong positive deductions about current situations using must + base verb, be or be -ing.",
+    "Express strong negative deductions with can’t, distinguishing impossibility in the speaker’s judgement from prohibition.",
+    "Infer likely past events with must have + past participle and reject past possibilities with can’t have + past participle.",
+    "Use must have been -ing and can’t/couldn’t have been -ing to infer or reject an activity in progress in the past."
+  ],
+  "explanation": [
+    {
+      "heading": "Must for a strong conclusion from evidence",
+      "body": "Use must + base verb when the available clues make an explanation seem almost certain to you. It expresses an inference, not an instruction: If the room is full of boxes, the occupants must be moving. The speaker reasons from evidence rather than reporting a fact directly. Must be can take an adjective, noun or location phrase, while must know, must have and other verbs take the base form.",
+      "example": "The bakery lights are on and fresh bread is on display; the staff must be inside."
+    },
+    {
+      "heading": "Can’t rejects an explanation",
+      "body": "Use can’t + base verb when evidence makes a statement seem impossible or highly unlikely. It is the negative counterpart of inferential must: She can’t be asleep; I can hear her talking. Do not use mustn’t for this negative deduction: mustn’t normally expresses a rule or prohibition, a separate topic. Can’t be -ing can reject an action supposedly happening now.",
+      "example": "That can’t be our delivery driver; the company says the van has not left the depot."
+    },
+    {
+      "heading": "Deductions about an activity happening now",
+      "body": "To infer or reject an action in progress at the present moment, use must be + verb-ing or can’t be + verb-ing. The continuous form focuses on the activity, while a simple form such as must know describes a state. Choose the time frame from the context rather than the verb alone.",
+      "example": "I can hear tools upstairs; the builders must be repairing the roof."
+    },
+    {
+      "heading": "Must have and can’t have for past events",
+      "body": "Use must have + past participle to infer that something happened earlier; use can’t have + past participle to rule out a past event. Couldn’t have is also possible for a negative past deduction. These forms do not describe obligations in the past: they explain what the speaker thinks occurred, based on later evidence. After have, use the participle: left, heard, forgotten or been.",
+      "example": "The gate was locked when we arrived; the caretaker must have left early."
+    },
+    {
+      "heading": "Inferring an activity in progress in the past",
+      "body": "Use must have been + verb-ing when the clues suggest an earlier ongoing activity. To reject such an activity, use can’t have been + verb-ing (or couldn’t have been + verb-ing). This differs from must have finished, which focuses on a completed event. Mention a past time or other evidence to keep the deduction clearly anchored in the past.",
+      "example": "The floor was covered in paint yesterday; someone must have been decorating the room."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Positive versus negative deduction about the present",
+      "left": {
+        "label": "Must: strong positive inference",
+        "example": "The stage lights are on; the rehearsal must be underway.",
+        "note": "The evidence makes an explanation highly likely."
+      },
+      "right": {
+        "label": "Can’t: strong negative inference",
+        "example": "The stage is completely empty; the rehearsal can’t be underway.",
+        "note": "The visible situation strongly contradicts that explanation."
+      }
+    },
+    {
+      "title": "Past inference versus rejecting a past event",
+      "left": {
+        "label": "Must have + participle",
+        "example": "The table was set this morning; someone must have prepared it early.",
+        "note": "The speaker infers a completed earlier action."
+      },
+      "right": {
+        "label": "Can’t have + participle",
+        "example": "The shop was closed all day; they can’t have bought the bread there.",
+        "note": "The speaker rules out a supposed earlier action based on evidence."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "With so many visitors waiting, the museum must be popular.",
+      "note": "Must be draws a strong present conclusion from the large queue."
+    },
+    {
+      "sentence": "No one has a key to this room today, so that noise can’t be coming from inside it.",
+      "note": "Can’t be coming rejects a present ongoing explanation."
+    },
+    {
+      "sentence": "The lunch boxes are empty already; the children must have eaten.",
+      "note": "Must have eaten infers an earlier completed action from the result now."
+    },
+    {
+      "sentence": "I saw Rosa on a video call in Lisbon at noon; she can’t have been at our office at the same time.",
+      "note": "Can’t have been rejects a past location that conflicts with reliable evidence."
+    },
+    {
+      "sentence": "The hallway was full of drilling sounds at nine; the builders must have been working then.",
+      "note": "Must have been working infers an action in progress at a particular past moment."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The parcel says delivered, so the courier must to be nearby.",
+      "correct": "The parcel says delivered, so the courier must be nearby.",
+      "why": "Must is followed by the base form be, without to."
+    },
+    {
+      "incorrect": "She mustn’t be at work; I can see her in the café.",
+      "correct": "She can’t be at work; I can see her in the café.",
+      "why": "Use can’t for a negative deduction; mustn’t usually prohibits an action."
+    },
+    {
+      "incorrect": "The pavement is wet; it must rained last night.",
+      "correct": "The pavement is wet; it must have rained last night.",
+      "why": "A deduction about a past event takes must have + past participle."
+    },
+    {
+      "incorrect": "The hall was empty at eight; the guests can’t have arrive yet.",
+      "correct": "The hall was empty at eight; the guests can’t have arrived yet.",
+      "why": "Use can’t have + past participle arrived to reject an earlier arrival."
+    }
+  ],
+  "studyTips": [
+    "For every must or can’t deduction, name the clue that supports it; the construction expresses reasoning rather than direct observation.",
+    "Contrast time frames aloud: The room is dark, so they must be away now; their coats are missing, so they must have left.",
+    "Check the negative carefully: can’t be is a present deduction, can’t have been is a past deduction, and mustn’t is normally a prohibition."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Nadia has worked since dawn and can barely keep her eyes open. She ___ exhausted.",
+      "choices": [
+        "must be",
+        "must have been",
+        "must to be"
+      ],
+      "answerIndex": 0,
+      "feedback": "Must be draws a strong present conclusion from visible signs of tiredness."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "That person ___ the new driving instructor. She is only eight years old.",
+      "choices": [
+        "must be",
+        "can’t have been",
+        "can’t be"
+      ],
+      "answerIndex": 2,
+      "feedback": "Can’t be rejects the present identification as impossible in this context."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "No one answered the door, and their car was gone. The family ___ before we arrived.",
+      "choices": [
+        "must leave",
+        "must have left",
+        "can’t have left"
+      ],
+      "answerIndex": 1,
+      "feedback": "Must have left draws a strong inference about a completed past departure."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The gallery was locked from five onwards. The tourist ___ a photograph inside at seven.",
+      "choices": [
+        "can’t have taken",
+        "must have taken",
+        "can’t be taking"
+      ],
+      "answerIndex": 0,
+      "feedback": "Can’t have taken rules out the claimed past action at seven, when the gallery was locked."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The kitchen light is on and I can hear dishes moving. “Someone ___ (be) in the kitchen.” Use must.",
+      "acceptedAnswers": [
+        "must be"
+      ],
+      "feedback": "Must be expresses a strong deduction about the present."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The shop shutters are down and the sign says CLOSED. “It ___ (be) open right now.” Use can’t.",
+      "acceptedAnswers": [
+        "can’t be",
+        "cannot be"
+      ],
+      "feedback": "Can’t be rejects the idea that the shop is open at present."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Rainwater was on the inside windowsill after last night’s storm. “The rain ___ (come) through the open window.” Use must have.",
+      "acceptedAnswers": [
+        "must have come"
+      ],
+      "feedback": "Must have come uses a past participle to infer how the water arrived."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Mia was in Canada throughout Tuesday. “The person in our office that day ___ (be) Mia.” Use can’t have.",
+      "acceptedAnswers": [
+        "can’t have been",
+        "cannot have been"
+      ],
+      "feedback": "Can’t have been rejects a past identification inconsistent with Mia’s location."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She must be working late last night; her office light was on at midnight.",
+      "acceptedAnswers": [
+        "She must have been working late last night; her office light was on at midnight."
+      ],
+      "feedback": "The evidence concerns a past activity in progress, so use must have been working."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: That can’t be Ava at the station yesterday; she was abroad all day.",
+      "acceptedAnswers": [
+        "That can’t have been Ava at the station yesterday; she was abroad all day.",
+        "That cannot have been Ava at the station yesterday; she was abroad all day."
+      ],
+      "feedback": "A negative deduction about yesterday requires can’t have been, not can’t be."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: You have carried all those boxes upstairs. You must to be exhausted.",
+      "acceptedAnswers": [
+        "You have carried all those boxes upstairs. You must be exhausted."
+      ],
+      "feedback": "Must takes the base verb be directly, with no to."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The café can’t opened at nine yesterday; the owner confirmed it stayed shut until noon.",
+      "acceptedAnswers": [
+        "The café can’t have opened at nine yesterday; the owner confirmed it stayed shut until noon.",
+        "The café cannot have opened at nine yesterday; the owner confirmed it stayed shut until noon."
+      ],
+      "feedback": "A past negative deduction takes can’t have + past participle opened."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Mina has been driving for ten hours and is yawning. State your strong present conclusion in one sentence beginning “Mina” using must be tired.",
+      "acceptedAnswers": [
+        "Mina must be tired."
+      ],
+      "feedback": "Must be expresses a strong inference from the long drive and her yawning."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "The official street number is 18, but the paper shows 81. Reject the paper’s address. Begin with “That” and use can’t be the correct address.",
+      "acceptedAnswers": [
+        "That can’t be the correct address.",
+        "That cannot be the correct address."
+      ],
+      "feedback": "Can’t be rules out an identification contradicted by reliable information."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "You can hear voices and typing behind a closed office door. Begin with “The staff” and use must be working.",
+      "acceptedAnswers": [
+        "The staff must be working."
+      ],
+      "feedback": "Must be working deduces an activity taking place now."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "All the biscuits are missing, and the dog is surrounded by crumbs. Say one sentence beginning “The dog” using must have eaten the biscuits.",
+      "acceptedAnswers": [
+        "The dog must have eaten the biscuits."
+      ],
+      "feedback": "Must have eaten draws a strong inference about an earlier completed action."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Max was aboard a flight for the entire office meeting yesterday. Reject the claim he attended. Begin with “Max” and use can’t have attended the meeting yesterday.",
+      "acceptedAnswers": [
+        "Max can’t have attended the meeting yesterday.",
+        "Max cannot have attended the meeting yesterday."
+      ],
+      "feedback": "Can’t have attended rejects an earlier event contradicted by the flight schedule."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "At nine last night, the neighbours heard music and voices from the flat. Begin with “They” and use must have been having a party.",
+      "acceptedAnswers": [
+        "They must have been having a party."
+      ],
+      "feedback": "Must have been having describes an inferred activity underway at a past time."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the modal structure and say the complete sentence: “The manager must is nearby.”",
+      "acceptedAnswers": [
+        "The manager must be nearby."
+      ],
+      "feedback": "Must is followed by be, not is, in a strong present deduction."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences. Fact one: the café sign says closed and the door is locked now. Infer using “The café must be closed now.” Fact two: the manager left the café at five, and it is now six. Infer using “The manager must have left by six.”",
+      "acceptedAnswers": [
+        "The café must be closed now. The manager must have left by six."
+      ],
+      "feedback": "Must be describes a present conclusion; must have left draws a conclusion about a completed earlier event."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "prompt": "What does the speaker believe about Aria?",
+      "choices": [
+        "She is probably working at this moment.",
+        "She finished work before dinner.",
+        "She is definitely on holiday."
+      ],
+      "answerIndex": 0,
+      "feedback": "Must be working expresses a strong deduction about an activity underway now.",
+      "audioText": "It is almost midnight, and the lights in Aria’s office are still on. She must be working late."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "prompt": "Why does the speaker reject the key?",
+      "choices": [
+        "It was lost last week.",
+        "Its size does not match the lock.",
+        "The door was already open."
+      ],
+      "answerIndex": 1,
+      "feedback": "Can’t be rejects an identification based on the physical mismatch.",
+      "audioText": "This key is far too small for the door. It can’t be the right one."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "prompt": "Type the two-word modal verb phrase immediately after “That”.",
+      "acceptedAnswers": [
+        "must be"
+      ],
+      "feedback": "Must be expresses a strong present deduction about who is at the door.",
+      "audioText": "The doorbell is ringing again. That must be our courier."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "prompt": "What past event does the speaker infer?",
+      "choices": [
+        "Someone cleaned every tent by hand.",
+        "The ground was dry during the night.",
+        "Rain fell before morning."
+      ],
+      "answerIndex": 2,
+      "feedback": "Must have rained explains the wet ground as the result of an earlier event.",
+      "audioText": "The campsite ground was soaking wet when we woke up. It must have rained during the night."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "prompt": "Which claim does the speaker reject?",
+      "choices": [
+        "Amir was elsewhere taking that exam.",
+        "Amir spent the exam period in the library.",
+        "The exam happened that day."
+      ],
+      "answerIndex": 0,
+      "feedback": "Can’t have taken rules out a conflicting past location based on what the speaker saw.",
+      "audioText": "I saw Amir in the library throughout the entire exam. He can’t have taken the test in another building."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "prompt": "What does the speaker infer about nine last night?",
+      "choices": [
+        "A celebration has not started yet.",
+        "A celebration was probably underway then.",
+        "Everybody was asleep in silence."
+      ],
+      "answerIndex": 1,
+      "feedback": "Must have been celebrating is a deduction about an activity in progress at an earlier time.",
+      "audioText": "At nine last night, I heard laughter and music from the flat. They must have been celebrating something."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "prompt": "Type the three-word modal verb phrase immediately after “Someone”.",
+      "acceptedAnswers": [
+        "must have opened"
+      ],
+      "feedback": "Must have opened infers an earlier action from a changed state.",
+      "audioText": "The window was shut yesterday, but it is open now. Someone must have opened it."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "prompt": "Type the modal expression immediately after “That”, ending with “been”.",
+      "acceptedAnswers": [
+        "can’t have been",
+        "cannot have been"
+      ],
+      "feedback": "Can’t have been rejects a claimed past identity because the speaker knows Oliver was elsewhere.",
+      "audioText": "That can’t have been Oliver at the conference. He was with me in another city all day."
+    }
+  ]
+}

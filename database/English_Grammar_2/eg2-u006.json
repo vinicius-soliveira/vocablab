@@ -1,0 +1,407 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u006",
+  "title": "Past continuous: actions in progress and interruptions",
+  "level": "B1",
+  "topicId": "eg2-u006-past-continuous-and-past-simple",
+  "summary": "Use was or were with -ing to describe an activity in progress at a past time, and combine it with the past simple to explain interruptions, backgrounds and sequences of events.",
+  "learningObjectives": [
+    "Form affirmative, negative and question forms of the past continuous with was or were plus -ing.",
+    "Describe what was happening at a particular moment in the past without implying it was complete.",
+    "Contrast background activities in the past continuous with shorter or completed past-simple events.",
+    "Use past-simple sequences and appropriate state verbs rather than forcing every past verb into a continuous form."
+  ],
+  "explanation": [
+    {
+      "heading": "Build was or were plus an -ing form",
+      "body": "Use was with I, he, she and it; use were with you, we and they. Add the -ing form of the main verb to describe an activity in progress at a past point. For negatives use wasn’t or weren’t; for questions put Was or Were before the subject. The -ing form alone is not a finite verb: I working needs was.",
+      "example": "The interns were labelling samples at four yesterday afternoon."
+    },
+    {
+      "heading": "Look inside an activity at a past moment",
+      "body": "The past continuous places the listener in the middle of an earlier activity. The activity began before the time mentioned, and may have ended later. A past-time expression such as at ten yesterday or this time last week makes the viewpoint clear. It does not normally say whether the activity was finished.",
+      "example": "At lunchtime, I was editing the final chapter of my report."
+    },
+    {
+      "heading": "Contrast a scene in progress with a finished event",
+      "body": "Use the past continuous when an action is already underway at a reference time. Use the past simple to present a whole event as a fact or completed step. A contrast can change the meaning even with the same verbs: I was checking a map when the phone rang shows an interrupted activity; I checked a map and called the driver describes consecutive completed steps.",
+      "example": "We were discussing the budget when the director entered."
+    },
+    {
+      "heading": "Connect a background activity and an interruption",
+      "body": "The past continuous often gives background to a shorter past-simple event. When and while can introduce these relationships, but the choice of tense depends on the meaning, not a rigid rule about either conjunction. Two activities may also be in progress together: while I was cooking, my flatmate was setting the table.",
+      "example": "While the technician was examining the panel, a warning light came on."
+    },
+    {
+      "heading": "Tell a sequence and keep state verbs simple",
+      "body": "For actions that happen one after another, the past simple normally moves a story forward: I opened the email, read the message and replied. Continuous forms instead hold attention on a scene in progress. Verbs describing states, including know, want and believe, are not normally used in the continuous: say I knew the answer, not I was knowing the answer.",
+      "example": "I recognised the address while my friend was reading it aloud."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Action in progress versus whole event",
+      "left": {
+        "label": "Past continuous",
+        "example": "At noon, we were repairing the lift.",
+        "note": "The sentence shows work underway at noon, without saying when it ended."
+      },
+      "right": {
+        "label": "Past simple",
+        "example": "We repaired the lift on Monday.",
+        "note": "The sentence presents the repair as a complete past event."
+      }
+    },
+    {
+      "title": "Activity already underway versus next action",
+      "left": {
+        "label": "Already in progress",
+        "example": "When Nora arrived, we were eating dinner.",
+        "note": "Dinner was already happening at the time of Nora’s arrival."
+      },
+      "right": {
+        "label": "Sequence",
+        "example": "When Nora arrived, we ate dinner.",
+        "note": "Nora arrived first; the meal followed."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "At eight last night, the neighbours were moving their furniture.",
+      "note": "The activity was underway at that particular past time."
+    },
+    {
+      "sentence": "The display wasn’t responding while we were testing the new settings.",
+      "note": "The negative past continuous describes an ongoing problem during testing."
+    },
+    {
+      "sentence": "What were you carrying when the handle broke?",
+      "note": "The question asks about an activity already underway at the moment of the break."
+    },
+    {
+      "sentence": "The assistant printed the tickets, put them in an envelope and left.",
+      "note": "Past-simple verbs present completed actions in order."
+    },
+    {
+      "sentence": "I wanted to call, but the train was passing through a tunnel.",
+      "note": "Wanted is a past state; was passing shows a situation in progress."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "They was preparing the hall when we got there.",
+      "correct": "They were preparing the hall when we got there.",
+      "why": "They requires were, not was, in the past continuous."
+    },
+    {
+      "incorrect": "At six, I making dinner.",
+      "correct": "At six, I was making dinner.",
+      "why": "The continuous needs was or were before the -ing verb."
+    },
+    {
+      "incorrect": "While the guard was checking the gate, an alarm was rang.",
+      "correct": "While the guard was checking the gate, an alarm rang.",
+      "why": "Rang is the simple-past event that occurred during the longer inspection; was rang is not the active past continuous."
+    },
+    {
+      "incorrect": "I was knowing the answer when the question appeared.",
+      "correct": "I knew the answer when the question appeared.",
+      "why": "Know describes a state and is not normally used in a continuous form."
+    }
+  ],
+  "studyTips": [
+    "Draw a short timeline: a long bar for the action in progress and a dot for the event that interrupts it.",
+    "Ask “What was happening at that moment?” to practise continuous forms, then “What happened next?” for the simple past.",
+    "When editing a story, check whether each past verb describes an ongoing scene, a completed step, or a state."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "At the moment the alarm sounded, the technicians ___ the checklist; they hadn’t finished it.",
+      "choices": [
+        "reviewed",
+        "were reviewing",
+        "review"
+      ],
+      "answerIndex": 1,
+      "feedback": "The checklist was still being examined when the alarm sounded, so were reviewing expresses an activity in progress."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The manager ___ the door, walked in and switched on the lights.",
+      "choices": [
+        "was opening",
+        "opens",
+        "opened"
+      ],
+      "answerIndex": 2,
+      "feedback": "Three completed steps are narrated in sequence with the past simple: opened, walked and switched."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "At eleven last night, the children ___ quietly in the living room; their game was still going on.",
+      "choices": [
+        "were playing",
+        "played",
+        "are playing"
+      ],
+      "answerIndex": 0,
+      "feedback": "The past-time point and still going on describe an activity in progress, so use were playing."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "___ you still working when the security guard arrived?",
+      "choices": [
+        "Did",
+        "Was",
+        "Were"
+      ],
+      "answerIndex": 2,
+      "feedback": "With you, form the past continuous question as Were you working?"
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The printer ___ (make) a strange noise when the technician unplugged it. Use the past continuous.",
+      "acceptedAnswers": [
+        "was making"
+      ],
+      "feedback": "Use was making for the noise that was continuing up to the unplugging."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "While the guests ___ (listen), someone opened the side door. Use the past continuous.",
+      "acceptedAnswers": [
+        "were listening"
+      ],
+      "feedback": "Guests is plural, and listening was the ongoing activity when the door opened."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We ___ (not / look) at the screen when the warning appeared. Use the past continuous.",
+      "acceptedAnswers": [
+        "weren’t looking",
+        "were not looking"
+      ],
+      "feedback": "Use were not or weren’t plus looking for an activity that was not happening at that point."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "What ___ (you / do) when the fire alarm started? Write the words after What in the past continuous.",
+      "acceptedAnswers": [
+        "were you doing"
+      ],
+      "feedback": "The question asks about an ongoing activity: What were you doing ...?"
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The volunteers was sorting donations at noon yesterday.",
+      "acceptedAnswers": [
+        "The volunteers were sorting donations at noon yesterday."
+      ],
+      "feedback": "The plural subject volunteers takes were."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: While I was writing the summary, my phone was rang.",
+      "acceptedAnswers": [
+        "While I was writing the summary, my phone rang."
+      ],
+      "feedback": "The shorter event uses the past simple rang, not was rang."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I was knowing the answer while everyone else was guessing.",
+      "acceptedAnswers": [
+        "I knew the answer while everyone else was guessing."
+      ],
+      "feedback": "Knowing is a state, so use knew in the simple past; guessing can be an ongoing activity."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: At eight, I cooking dinner when the power failed.",
+      "acceptedAnswers": [
+        "At eight, I was cooking dinner when the power failed."
+      ],
+      "feedback": "The background activity requires was + cooking; failed is the intervening event."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one complete sentence in the past continuous. Facts: at nine last night / Fiona / prepare / the slides. Begin with \"At nine last night\".",
+      "acceptedAnswers": [
+        "At nine last night Fiona was preparing the slides."
+      ],
+      "feedback": "Use was preparing for Fiona’s action in progress at that past time."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say one complete sentence about an activity in progress. Facts: the engineers / test / the sensor / at three yesterday. Begin with \"The engineers\".",
+      "acceptedAnswers": [
+        "The engineers were testing the sensor at three yesterday."
+      ],
+      "feedback": "The plural subject engineers takes were testing."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "State that an activity was not happening. Facts: at five / the oven / not / heat up. Use the past continuous and begin with \"At five\".",
+      "acceptedAnswers": [
+        "At five the oven was not heating up.",
+        "At five the oven wasn’t heating up."
+      ],
+      "feedback": "Was not heating up describes the absence of an ongoing action at five."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Ask one full past-continuous question using: what / you / do / at eight yesterday? Begin with \"What\".",
+      "acceptedAnswers": [
+        "What were you doing at eight yesterday?"
+      ],
+      "feedback": "Use Were you doing after What to ask about an activity at a past point."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Describe an interruption in one sentence. Facts: the phone / ring / while / I / read / the manual. Begin with \"The phone\".",
+      "acceptedAnswers": [
+        "The phone rang while I was reading the manual."
+      ],
+      "feedback": "Rang reports the short event; was reading describes the activity already underway."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Describe what was already happening when a visitor arrived. Facts: when the visitor / arrive / the staff / discuss / the proposal. Begin with \"When the visitor\".",
+      "acceptedAnswers": [
+        "When the visitor arrived, the staff were discussing the proposal."
+      ],
+      "feedback": "The arrival is a completed event; the discussion was already underway."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct only the verb form describing a state, then say the full sentence: \"He was knowing the answer while everyone else was guessing.\"",
+      "acceptedAnswers": [
+        "He knew the answer while everyone else was guessing."
+      ],
+      "feedback": "Use knew for a state, but was guessing for ongoing activity."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two sentences in this order, using full forms. First: \"At seven / Mina / wash / the dishes.\" Then: \"Then / the lights / go out.\" Use the past continuous for the first action and past simple for the second.",
+      "acceptedAnswers": [
+        "At seven Mina was washing the dishes. Then the lights went out."
+      ],
+      "feedback": "The washing was in progress at seven; went out reports the later event."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "prompt": "What was the speaker doing when the call came?",
+      "choices": [
+        "Leaving the office",
+        "Updating the schedule",
+        "Travelling by train"
+      ],
+      "answerIndex": 1,
+      "feedback": "Was updating describes the activity already underway when the colleague called.",
+      "audioText": "At seven thirty, I was updating the schedule when my colleague called about a cancelled train."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "prompt": "Had the speakers finished their meal when the guests arrived?",
+      "choices": [
+        "Yes, they had already finished.",
+        "They had not started eating.",
+        "No, they were in the middle of it."
+      ],
+      "answerIndex": 2,
+      "feedback": "Were still eating shows the meal was ongoing at arrival.",
+      "audioText": "We were still eating when the guests arrived, so we invited them to join us."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "prompt": "Type the two-word verb phrase immediately after \"The technicians\".",
+      "acceptedAnswers": [
+        "were checking"
+      ],
+      "feedback": "Were checking is the past-continuous phrase heard before the noun cables.",
+      "audioText": "The technicians were checking the cables when the alarm sounded."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "prompt": "What was happening when the speaker dropped the keys?",
+      "choices": [
+        "The speaker was running for the bus.",
+        "The speaker was buying a ticket.",
+        "The speaker was walking home."
+      ],
+      "answerIndex": 0,
+      "feedback": "Was running is the ongoing background action at the moment the keys fell.",
+      "audioText": "I dropped my keys while I was running for the bus, but I picked them up immediately."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "prompt": "What does the sequence of events suggest?",
+      "choices": [
+        "The students were already midway through the exercise.",
+        "The exercise began when the instructor came in.",
+        "The exercise had been cancelled."
+      ],
+      "answerIndex": 1,
+      "feedback": "Walked in and started are consecutive past-simple actions, not a scene already in progress.",
+      "audioText": "When the instructor walked in, the students started the exercise."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "prompt": "Why did the group turn back?",
+      "choices": [
+        "They had already reached the summit.",
+        "The weather conditions were getting worse.",
+        "They found a shorter path."
+      ],
+      "answerIndex": 1,
+      "feedback": "The darkening sky and strengthening wind were ongoing changes that influenced the decision.",
+      "audioText": "It was getting dark, and the wind was growing stronger, so we turned back before reaching the summit."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "prompt": "Type the negative verb phrase immediately after \"I\".",
+      "acceptedAnswers": [
+        "wasn’t listening",
+        "was not listening"
+      ],
+      "feedback": "Wasn’t listening is the negative past-continuous form.",
+      "audioText": "I wasn’t listening when she explained the new rules."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "prompt": "Type the three words immediately after \"What\".",
+      "acceptedAnswers": [
+        "were you carrying"
+      ],
+      "feedback": "The past-continuous question asks what activity was in progress: were you carrying.",
+      "audioText": "What were you carrying when you slipped on the stairs?"
+    }
+  ]
+}

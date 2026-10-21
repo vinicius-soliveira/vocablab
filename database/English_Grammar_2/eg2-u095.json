@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u095",
+  "title": "Non-defining relative clauses: adding extra details",
+  "level": "B2",
+  "topicId": "eg2-u095-non-defining-relative-clauses",
+  "summary": "Add optional information about an already identified person, place or thing with comma-separated relative clauses. Choose who, which, whose and where appropriately, and recognise why that and omitted object pronouns are not used in this pattern.",
+  "learningObjectives": [
+    "Distinguish essential identifying relative clauses from clauses that only add extra information.",
+    "Use comma punctuation and who or which in non-defining relative clauses without replacing them with that.",
+    "Retain an object relative pronoun in an extra-information clause even when it could be omitted in a defining clause.",
+    "Add optional details with whose and where while preserving the meaning of the main statement."
+  ],
+  "explanation": [
+    {
+      "heading": "Identify the person or thing before adding information",
+      "body": "A defining relative clause is needed to identify which person or thing you mean. A non-defining relative clause adds a useful but non-essential detail after the person or thing is already identifiable. Removing that extra clause leaves the main reference clear. Put commas around the inserted extra information.",
+      "example": "My cousin Leila, who runs a bakery, is coming to dinner."
+    },
+    {
+      "heading": "Use who for people and which for things",
+      "body": "In extra-information clauses, who refers to a person and which refers to a thing or an animal. Do not use that in place of these words, even though that may be used in a defining clause. A comma normally marks the start of the added information.",
+      "example": "The exhibition, which opens on Thursday, features local artists."
+    },
+    {
+      "heading": "Keep the pronoun even when it is the object",
+      "body": "A defining object relative pronoun can often disappear: the camera I chose. In a non-defining clause, who or which must remain: my camera, which I chose yesterday, is ready. A person may also take formal whom as an object. Never remove the pronoun just because another subject appears after it.",
+      "example": "I saw Nina, who you met at the workshop, on my way home."
+    },
+    {
+      "heading": "Add details about possession or location",
+      "body": "Use whose before a noun to connect someone or something with a possession or relationship. Use where to add information about an already known place. Both can introduce non-defining clauses, which still require appropriate commas.",
+      "example": "The theatre, where my parents first met, has reopened."
+    },
+    {
+      "heading": "Close an inserted clause before the main sentence continues",
+      "body": "When the extra detail appears in the middle, place one comma before it and another after it. When it comes at the end, use a comma before it and the ordinary sentence-ending mark after it. The extra clause should not change which person or thing the main sentence is about.",
+      "example": "Our neighbour, whose daughter studies music, offered to help."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Identifying detail versus extra detail",
+      "left": {
+        "label": "Defining: essential",
+        "example": "The runner who wore red won the race.",
+        "note": "The clause tells us which runner won; it has no commas."
+      },
+      "right": {
+        "label": "Non-defining: additional",
+        "example": "Mila, who wore red, won the race.",
+        "note": "Mila is already identified; the clause supplies extra information and takes commas."
+      }
+    },
+    {
+      "title": "An optional object pronoun versus a required one",
+      "left": {
+        "label": "Defining clause",
+        "example": "The laptop I ordered arrived today.",
+        "note": "The relative pronoun is an object, so it can be omitted."
+      },
+      "right": {
+        "label": "Non-defining clause",
+        "example": "My laptop, which I ordered online, arrived today.",
+        "note": "Which cannot be omitted in this extra-information clause."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "My brother Sam, who lives in Leeds, has just started a new job.",
+      "note": "Who adds an optional fact about Sam; commas show its boundaries."
+    },
+    {
+      "sentence": "The old cinema, which closed last winter, will become a library.",
+      "note": "Which refers back to the already identified cinema; that would not fit here."
+    },
+    {
+      "sentence": "I recognised Ms Chen, who you introduced to me in April.",
+      "note": "Who is an object inside a non-defining clause, but it cannot be dropped."
+    },
+    {
+      "sentence": "My flatmate, whose bicycle was stolen, took the bus today.",
+      "note": "Whose relates the bicycle to the flatmate in an extra-information clause."
+    },
+    {
+      "sentence": "We visited Bergen, where a friend of mine works.",
+      "note": "Where adds information about the named place; the comma marks the extra clause."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "My uncle, that works at the station, is retiring.",
+      "correct": "My uncle, who works at the station, is retiring.",
+      "why": "That is not used to introduce this extra-information relative clause about a person."
+    },
+    {
+      "incorrect": "Our television, we bought last summer, has stopped working.",
+      "correct": "Our television, which we bought last summer, has stopped working.",
+      "why": "An object relative pronoun cannot be omitted from a non-defining clause."
+    },
+    {
+      "incorrect": "Rosa who teaches chemistry is my neighbour.",
+      "correct": "Rosa, who teaches chemistry, is my neighbour.",
+      "why": "The name identifies Rosa already; use commas to frame the additional information."
+    },
+    {
+      "incorrect": "We stayed in Seville, which my aunt lives.",
+      "correct": "We stayed in Seville, where my aunt lives.",
+      "why": "Where introduces a place relationship; which would need a preposition such as in."
+    }
+  ],
+  "studyTips": [
+    "Remove the relative clause mentally: if the main statement still identifies the person or thing, consider using an extra-information clause with commas.",
+    "When you add extra information, check the opening word: who for people, which for things, whose for possession, and where for places.",
+    "Read your sentence aloud and mark the two boundaries of an inserted detail; never replace who or which with that in this pattern."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "My cousin Layla, ___ lives in Bristol, is visiting tomorrow.",
+      "choices": [
+        "that",
+        "who",
+        "what"
+      ],
+      "answerIndex": 1,
+      "feedback": "Layla is already identified, so an extra-information clause uses who, not that."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "We stayed at Cedar Lodge, ___ overlooks the bay.",
+      "choices": [
+        "which",
+        "that",
+        "who"
+      ],
+      "answerIndex": 0,
+      "feedback": "Which adds a non-defining detail about the named lodge."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "I met Ms Patel, ___ you spoke to last week, at reception.",
+      "choices": [
+        "no word",
+        "that",
+        "who"
+      ],
+      "answerIndex": 2,
+      "feedback": "The extra-information clause keeps who even when who is the object of spoke to."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "My old flat, ___ windows faced the park, was very bright.",
+      "choices": [
+        "which",
+        "that",
+        "whose"
+      ],
+      "answerIndex": 2,
+      "feedback": "Whose links the windows to the flat in a non-defining clause."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Tariq, ___, is giving the opening talk. (Fact: Tariq works in our office. Start your answer with who.)",
+      "acceptedAnswers": [
+        "who works in our office"
+      ],
+      "feedback": "Who introduces optional information about Tariq and is the subject of works."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "This camera, ___, belongs to Mia. (Fact: You recommended the camera last week. Start with which.)",
+      "acceptedAnswers": [
+        "which you recommended last week"
+      ],
+      "feedback": "A non-defining object relative must include which, even though you is already the clause subject."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We visited Porto, ___, during our holiday. (Fact: My brother lives there. Start with where.)",
+      "acceptedAnswers": [
+        "where my brother lives"
+      ],
+      "feedback": "Where introduces the added location fact about Porto; the commas enclose the clause."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Marta, ___, called this morning. (Fact: Marta’s father teaches mathematics. Start with whose.)",
+      "acceptedAnswers": [
+        "whose father teaches mathematics"
+      ],
+      "feedback": "Whose expresses the family relationship in a non-defining clause."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence by replacing only the incorrect relative word: My aunt, that speaks Italian, works at the museum.",
+      "acceptedAnswers": [
+        "My aunt, who speaks Italian, works at the museum."
+      ],
+      "feedback": "Non-defining relative clauses referring to people take who, not that."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence by replacing only “that”: Our new fridge, that arrived yesterday, is already installed.",
+      "acceptedAnswers": [
+        "Our new fridge, which arrived yesterday, is already installed."
+      ],
+      "feedback": "An extra-information clause about a thing takes which; that is not suitable."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence by inserting only one missing relative word: Our car, we bought last year, needs a service.",
+      "acceptedAnswers": [
+        "Our car, which we bought last year, needs a service."
+      ],
+      "feedback": "Which is obligatory as an object pronoun in this non-defining clause."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "You have only one manager. Correct punctuation only: My manager who joined in May is leaving.",
+      "acceptedAnswers": [
+        "My manager, who joined in May, is leaving."
+      ],
+      "feedback": "Because the manager is already uniquely identified, who joined in May is extra information set off by commas."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "You have one sister, Nora. Nora works at a library. Say one sentence starting “My sister Nora, who” and ending “works at a library, is visiting.”",
+      "acceptedAnswers": [
+        "My sister Nora, who works at a library, is visiting."
+      ],
+      "feedback": "Use who between commas to add optional information about the named sister."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "A named museum opened last year and is very popular. Say exactly: “The City Museum”, followed by an extra clause about opening last year, then “is very popular”. Use which.",
+      "acceptedAnswers": [
+        "The City Museum, which opened last year, is very popular."
+      ],
+      "feedback": "Which introduces non-defining information about the known museum."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Leo owns a small shop. He lives nearby. Combine the facts, starting “Leo, whose” and ending “lives nearby”.",
+      "acceptedAnswers": [
+        "Leo, whose shop is small, lives nearby."
+      ],
+      "feedback": "Whose attaches a property to Leo in a non-defining clause."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Your family visited Oxford and your aunt teaches there. Make a sentence starting “We visited Oxford, where” and ending “teaches”.",
+      "acceptedAnswers": [
+        "We visited Oxford, where my aunt teaches."
+      ],
+      "feedback": "Where adds a location detail about Oxford."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "A colleague asks about Lara, who was introduced to you yesterday. Say one sentence beginning “I saw Lara, who” and ending “yesterday, at the station”. Use “you introduced to me” in the middle.",
+      "acceptedAnswers": [
+        "I saw Lara, who you introduced to me yesterday, at the station."
+      ],
+      "feedback": "Keep object who inside the extra-information clause."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Contrast two facts in exactly two sentences. First: the engineer who called is waiting. Second: Grace is waiting, and Grace called. Begin the second with Grace and include non-defining who.",
+      "acceptedAnswers": [
+        "The engineer who called is waiting. Grace, who called, is waiting."
+      ],
+      "feedback": "The first clause identifies the engineer; the second adds information about Grace."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct only the relative word and say the whole sentence: “My colleague, that speaks German, is helping today.”",
+      "acceptedAnswers": [
+        "My colleague, who speaks German, is helping today."
+      ],
+      "feedback": "That must change to who in an extra-information clause about a person."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences using these facts. First: Aria lives nearby and works at a school; start “Aria, who”. Second: We visited Bath and Aria grew up there; start “We visited Bath, where”.",
+      "acceptedAnswers": [
+        "Aria, who works at a school, lives nearby. We visited Bath, where Aria grew up."
+      ],
+      "feedback": "Who and where add non-essential details about identified subjects in two separate sentences."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "My sister Hana, who teaches at the local college, will arrive on Friday.",
+      "prompt": "Who will arrive on Friday?",
+      "choices": [
+        "The college principal.",
+        "Hana, the speaker’s sister.",
+        "A student from the college."
+      ],
+      "answerIndex": 1,
+      "feedback": "Hana is the person arriving; the college clause adds information about her work."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The Green Room Café, which opened in April, is already closing next month.",
+      "prompt": "What is happening to the café?",
+      "choices": [
+        "It will close next month.",
+        "It will open in April next year.",
+        "It is moving to another neighbourhood."
+      ],
+      "answerIndex": 0,
+      "feedback": "The café opened in April but is going to close next month."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The laptop, which I bought in March, still works perfectly.",
+      "prompt": "Type the three words immediately after “The laptop” in the recording.",
+      "acceptedAnswers": [
+        "which I bought"
+      ],
+      "feedback": "Which I bought introduces an extra detail and keeps which as the object relative."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I saw Daniel, who I first met in Madrid, while waiting for the train.",
+      "prompt": "Where did the speaker originally meet Daniel?",
+      "choices": [
+        "At the station.",
+        "In a classroom.",
+        "In Madrid."
+      ],
+      "answerIndex": 2,
+      "feedback": "The non-defining relative clause gives Madrid as the place of their first meeting."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "They visited Bristol, where their grandmother lives, before travelling to Bath.",
+      "prompt": "Where does their grandmother live?",
+      "choices": [
+        "Bath.",
+        "Bristol.",
+        "Another country."
+      ],
+      "answerIndex": 1,
+      "feedback": "Where their grandmother lives refers back to Bristol, not Bath."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "My neighbour, whose dog barks at night, has finally arranged training classes.",
+      "prompt": "Why are the training classes relevant?",
+      "choices": [
+        "The neighbour needs a new job.",
+        "The neighbour is learning to drive.",
+        "The neighbour’s dog makes noise at night."
+      ],
+      "answerIndex": 2,
+      "feedback": "Whose dog barks at night explains the situation that prompted dog training."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Amira, whose paintings hang in the foyer, is giving a talk today.",
+      "prompt": "Type the three words immediately after “Amira” in the recording.",
+      "acceptedAnswers": [
+        "whose paintings hang"
+      ],
+      "feedback": "Whose identifies a relationship between Amira and the paintings."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We rented Bay Cottage, which has a small garden, for the weekend.",
+      "prompt": "Type the five words immediately after “Bay Cottage” in the recording.",
+      "acceptedAnswers": [
+        "which has a small garden"
+      ],
+      "feedback": "Which has a small garden is a full non-defining clause about the cottage."
+    }
+  ]
+}

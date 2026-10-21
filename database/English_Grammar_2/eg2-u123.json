@@ -1,0 +1,422 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u123",
+  "title": "In, At and On: Basic Positions",
+  "level": "B1",
+  "topicId": "eg2-u123-basic-place-position",
+  "summary": "Choose in for a space or area, at for a specific location or point, and on for contact with a surface. Learn how different prepositions change the meaning when referring to the same object or place.",
+  "learningObjectives": [
+    "Describe objects and people inside rooms, containers, towns and bodies of water using in.",
+    "Locate people at stops, entrances, windows, desks and road landmarks using at.",
+    "Describe objects on surfaces, pages, clothing and islands using on.",
+    "Distinguish in, at and on when a container, doorway or building can be viewed in more than one way."
+  ],
+  "explanation": [
+    {
+      "heading": "In: inside a space, area or volume",
+      "body": "Use in when someone or something is inside an enclosed place, a larger area or a body of water. Typical expressions include in a drawer, in a kitchen, in a city, in the mountains and in a lake. In often answers the question “Inside what area or space?”",
+      "example": "Several coins were hidden in a wooden box."
+    },
+    {
+      "heading": "At: a specific point or meeting place",
+      "body": "Use at to identify a point or functional location rather than its interior. Common expressions include at the bus stop, at the entrance, at the door, at the traffic lights and at a desk. In directions, at often marks the point where you turn or stop.",
+      "example": "A volunteer was waiting at the entrance to the hall."
+    },
+    {
+      "heading": "On: touching a surface or occupying an island",
+      "body": "Use on when an object rests against a surface or is attached to one: on a shelf, on the ceiling, on a jacket, on the ground or on a page. People can also live on an island. On often answers “Which surface?” rather than “Which container?”",
+      "example": "There is a handwritten note on the noticeboard."
+    },
+    {
+      "heading": "In versus on: the container and its surface",
+      "body": "One object can be described from different perspectives. A letter in an envelope is inside it; an address on an envelope is written on its surface. Likewise, food can be in a bowl while a sticker is on the bowl. The correct choice depends on what is physically located where.",
+      "example": "The biscuits are in the tin, and the price sticker is on the lid."
+    },
+    {
+      "heading": "At versus in: a point and an interior",
+      "body": "A building can be treated as an interior space or as a point used to meet someone. “In the reception area” means inside that area; “at the main entrance” identifies the entrance as a point. Similarly, a person can wait at a door, while a sign hangs on the door.",
+      "example": "Meet me at the library entrance; I will be in the reading room."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Inside a container versus attached to it",
+      "left": {
+        "label": "In: interior",
+        "example": "There is a spare key in the jar.",
+        "note": "The key is enclosed by the jar."
+      },
+      "right": {
+        "label": "On: surface",
+        "example": "There is a paper label on the jar.",
+        "note": "The label is attached to the outside surface."
+      }
+    },
+    {
+      "title": "A person at a doorway versus a notice on it",
+      "left": {
+        "label": "At: location or point",
+        "example": "A visitor is waiting at the door.",
+        "note": "The visitor is positioned near the door."
+      },
+      "right": {
+        "label": "On: surface",
+        "example": "The opening hours are written on the door.",
+        "note": "The writing is on the door itself."
+      }
+    },
+    {
+      "title": "Inside a building versus at a landmark",
+      "left": {
+        "label": "In: inside",
+        "example": "The children are in the sports centre.",
+        "note": "The children are within the building."
+      },
+      "right": {
+        "label": "At: a specific point",
+        "example": "Their coach is at the sports centre entrance.",
+        "note": "The entrance is identified as the meeting point."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The puppy is sleeping in its basket.",
+      "note": "The basket surrounds the puppy, so in describes its position."
+    },
+    {
+      "sentence": "Please wait at the tram stop opposite the museum.",
+      "note": "At identifies the stop as a specific place to wait."
+    },
+    {
+      "sentence": "A colourful poster is hanging on the classroom wall.",
+      "note": "On shows that the poster is attached to the wall surface."
+    },
+    {
+      "sentence": "There are three small villages in this valley.",
+      "note": "In describes a location within a larger geographical area."
+    },
+    {
+      "sentence": "Someone left an empty cup on my desk.",
+      "note": "On indicates contact with the desk surface."
+    },
+    {
+      "sentence": "The guests swam in the lake before lunch.",
+      "note": "People swimming within a body of water are in the lake."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The notebook is in the table.",
+      "correct": "The notebook is on the table.",
+      "why": "A notebook resting on a tabletop is on its surface, not inside the table."
+    },
+    {
+      "incorrect": "The customer is waiting on the bus stop.",
+      "correct": "The customer is waiting at the bus stop.",
+      "why": "A transport stop treated as a point or meeting location normally takes at."
+    },
+    {
+      "incorrect": "The sticker is in the outside of the lunchbox.",
+      "correct": "The sticker is on the outside of the lunchbox.",
+      "why": "A sticker attached to the outside is on that surface, not inside it."
+    },
+    {
+      "incorrect": "The instructions are at page six.",
+      "correct": "The instructions are on page six.",
+      "why": "Written content located on a page normally takes on."
+    }
+  ],
+  "studyTips": [
+    "For each item you see, ask whether it is inside a space, at a point or touching a surface; make one sentence for each relationship.",
+    "Sketch a container with one object inside and one mark outside; describe them using in and on.",
+    "Practise paired sentences with one landmark: a person at the door and a notice on the door."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The spare batteries are ___ the small drawer beneath the desk; open it to find them.",
+      "choices": [
+        "at",
+        "in",
+        "on"
+      ],
+      "answerIndex": 1,
+      "feedback": "The batteries are inside the drawer, so in is the appropriate preposition."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Please wait ___ the main gate until a member of staff comes to meet you.",
+      "choices": [
+        "on",
+        "in",
+        "at"
+      ],
+      "answerIndex": 2,
+      "feedback": "At identifies the main gate as a point where someone waits."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "A map of the building is attached ___ the corridor wall.",
+      "choices": [
+        "on",
+        "at",
+        "in"
+      ],
+      "answerIndex": 0,
+      "feedback": "A map attached to a wall is on its surface."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The guide said there are no permanent residents ___ the tiny island.",
+      "choices": [
+        "in",
+        "at",
+        "on"
+      ],
+      "answerIndex": 2,
+      "feedback": "The usual expression for people residing on an island is on the island."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The visitor is waiting ___ . (the entrance; use in, at or on plus the given words)",
+      "acceptedAnswers": [
+        "at the entrance"
+      ],
+      "feedback": "At the entrance locates the visitor at a specific point."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "We found the missing bracelet ___ . (a jewellery box; the bracelet is inside it; use in, at or on)",
+      "acceptedAnswers": [
+        "in a jewellery box"
+      ],
+      "feedback": "In identifies the interior of the jewellery box."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The artist signed her name ___ . (the back of the painting; use in, at or on)",
+      "acceptedAnswers": [
+        "on the back of the painting"
+      ],
+      "feedback": "Writing located on a surface uses on."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "My grandparents live ___ . (a small village; use in, at or on)",
+      "acceptedAnswers": [
+        "in a small village"
+      ],
+      "feedback": "In describes location within a village."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct only the location preposition in this sentence: The event schedule is displayed at the wall beside the lift.",
+      "acceptedAnswers": [
+        "The event schedule is displayed on the wall beside the lift."
+      ],
+      "feedback": "A notice attached to a wall is on its surface, not at the wall."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct only the location preposition in this sentence: The children are swimming on the lake, surrounded by the water.",
+      "acceptedAnswers": [
+        "The children are swimming in the lake, surrounded by the water."
+      ],
+      "feedback": "Use in for people immersed in lake water; on would suggest a position on the surface."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct only the location preposition in this sentence: The directions are printed at page four of the leaflet.",
+      "acceptedAnswers": [
+        "The directions are printed on page four of the leaflet."
+      ],
+      "feedback": "Use on when specifying the page that contains printed information."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct only the location preposition in this sentence: A passenger is waiting on the bus stop opposite the hospital.",
+      "acceptedAnswers": [
+        "A passenger is waiting at the bus stop opposite the hospital."
+      ],
+      "feedback": "At indicates a stop used as a particular waiting point."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Use these facts in one complete sentence: the passport / be / inside / the drawer. Begin with “The passport”.",
+      "acceptedAnswers": [
+        "The passport is in the drawer."
+      ],
+      "feedback": "Use in to express the passport being inside the drawer."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "A colleague asks where to meet. Say one sentence beginning “Meet me” and use “at the main entrance”.",
+      "acceptedAnswers": [
+        "Meet me at the main entrance."
+      ],
+      "feedback": "At identifies the entrance as a meeting point."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Describe a notice attached to a door. Begin with “There is” or “There’s” and use the words “a notice on the door”.",
+      "acceptedAnswers": [
+        "There is a notice on the door.",
+        "There's a notice on the door."
+      ],
+      "feedback": "On places the notice on the door surface."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Correct only the preposition and say the whole sentence: “The photo is in the wall.”",
+      "acceptedAnswers": [
+        "The photo is on the wall."
+      ],
+      "feedback": "An image attached to a wall is on it, rather than inside it."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Compare these two supplied facts in one sentence: the coins / be / in the jar; the price label / be / on the jar. Use “and”. Begin with “The coins”.",
+      "acceptedAnswers": [
+        "The coins are in the jar, and the price label is on the jar."
+      ],
+      "feedback": "In marks the contents; on marks the outer surface."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You want to tell a friend where your relatives live. Use the words “My relatives”, “live”, and “in a coastal town” in one sentence.",
+      "acceptedAnswers": [
+        "My relatives live in a coastal town."
+      ],
+      "feedback": "In locates residents within a town."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Produce exactly two sentences. First: a delivery worker / wait / at the gate. Second: a sign / hang / on the gate. Use the present continuous and begin with “A delivery worker” and “A sign”.",
+      "acceptedAnswers": [
+        "A delivery worker is waiting at the gate. A sign is hanging on the gate."
+      ],
+      "feedback": "At identifies the meeting point; on describes the gate surface."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "A friend asks where you put the clean plates. Reply in one complete sentence: “I put”, “the clean plates”, and “on the shelf”.",
+      "acceptedAnswers": [
+        "I put the clean plates on the shelf."
+      ],
+      "feedback": "On identifies the surface supporting the plates."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I left the tickets inside the blue suitcase, but the luggage tag is attached to the handle.",
+      "prompt": "Where are the tickets?",
+      "choices": [
+        "On the suitcase handle.",
+        "Inside the suitcase.",
+        "At the departure gate."
+      ],
+      "answerIndex": 1,
+      "feedback": "Inside the suitcase means the tickets are in the luggage, not attached to its handle."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The taxi will stop at the hotel entrance, so please wait outside rather than in the lobby.",
+      "prompt": "Where should the listener wait?",
+      "choices": [
+        "Inside the hotel lobby.",
+        "On the hotel roof.",
+        "At the hotel entrance."
+      ],
+      "answerIndex": 2,
+      "feedback": "The requested meeting point is at the hotel entrance, not inside the lobby."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "A small silver bell was hanging on the front door when we arrived.",
+      "prompt": "Type the four-word location expression immediately after “hanging”.",
+      "acceptedAnswers": [
+        "on the front door"
+      ],
+      "feedback": "The bell hangs on the door surface, so the phrase begins with on."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The children spotted several bright fish while they were swimming in the shallow river.",
+      "prompt": "Where did the children see the fish?",
+      "choices": [
+        "In the river.",
+        "At a bus stop.",
+        "On a garden wall."
+      ],
+      "answerIndex": 0,
+      "feedback": "They were swimming in the river when they noticed the fish."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The bus driver told us to get off at the next stop, just before the bridge.",
+      "prompt": "Where did the driver ask passengers to leave the bus?",
+      "choices": [
+        "At the bridge entrance.",
+        "At the next stop.",
+        "Inside the bus station."
+      ],
+      "answerIndex": 1,
+      "feedback": "The driver specified the next stop as the point for getting off."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The picnic was on a small island, while everyone slept in cabins on the opposite shore.",
+      "prompt": "Where did the picnic take place?",
+      "choices": [
+        "In the cabins.",
+        "At the bus stop.",
+        "On an island."
+      ],
+      "answerIndex": 2,
+      "feedback": "The picnic location was the small island; the cabins were elsewhere."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The receipt is in the brown envelope beside the keyboard.",
+      "prompt": "Type the four-word location phrase immediately after “is”.",
+      "acceptedAnswers": [
+        "in the brown envelope"
+      ],
+      "feedback": "In indicates the receipt is inside the specified envelope."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "You can read the full timetable on page twelve of the visitor guide.",
+      "prompt": "Type the three-word expression immediately after “timetable”.",
+      "acceptedAnswers": [
+        "on page twelve"
+      ],
+      "feedback": "Information printed on a particular page uses on."
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u091",
+  "title": "Each and Every",
+  "level": "B1",
+  "topicId": "eg2-u091-each-and-every",
+  "summary": "Choose each when focusing on members individually and every when considering all members of a set. Learn which structures permit of, how to describe repeated intervals and individual prices, and how everyone differs from every one.",
+  "learningObjectives": [
+    "Distinguish a one-by-one focus with each from a whole-set focus with every.",
+    "Use each, each of, every, and every one of in grammatically complete noun phrases.",
+    "Place each naturally after a plural subject or an amount, and express intervals with every.",
+    "Choose everyone for people and every one when referring to individual items or people in a set."
+  ],
+  "explanation": [
+    {
+      "heading": "Look at people or things individually",
+      "body": "Each draws attention to members separately. It is especially natural when there are only a few members or when two items are considered one at a time. A singular countable noun follows each directly, but each can also stand alone when its reference is clear. Using each does not mean the members are different; it simply puts the focus on one member at a time.",
+      "example": "There are two spare keys. Each key opens a different cupboard."
+    },
+    {
+      "heading": "See all the members as one complete set",
+      "body": "Every gives an inclusive view of the members of a set: none is left out. It normally appears before a singular countable noun, even when the meaning includes many people or things. Compared with each, every is often more natural for large collections or for a general rule. Neither choice is a rigid test of how many items exist; the main difference is what the speaker wants to emphasise.",
+      "example": "Every table in the café was occupied after seven."
+    },
+    {
+      "heading": "Use each of and every one of correctly",
+      "body": "Each of can introduce a specific plural group: each of the tickets, each of these folders, or each of them. Every cannot be used directly with of or on its own in the same way. Instead use every one of the tickets or every one of them. After each of and every one of, singular verb agreement is the standard choice in careful edited English.",
+      "example": "Each of the two assistants has a separate desk; every one of the reports has a date."
+    },
+    {
+      "heading": "Put each in other positions",
+      "body": "Each can come after a plural subject or an auxiliary verb to show separate distribution: The children each received a card; The children were each given a card. It can also follow a price or quantity to state an amount per item or person. Every does not take these positions.",
+      "example": "The three posters cost twelve pounds each."
+    },
+    {
+      "heading": "Talk about frequency and distinguish one word from two",
+      "body": "Use every plus a time unit or interval for regular frequency: every morning, every second week, every four hours. Each day can be grammatical when individual days are emphasised, but every is the normal choice for a recurring interval such as every four hours. Everyone is one word meaning all the people. Every one means each individual member, often followed by of and usable for people or things.",
+      "example": "The alarm is tested every three months, and every one of the sensors is checked."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Individual view versus inclusive view",
+      "left": {
+        "label": "each",
+        "example": "Each of the three gardeners chose a different tool.",
+        "note": "The sentence considers the gardeners separately."
+      },
+      "right": {
+        "label": "every",
+        "example": "Every garden in the neighbourhood has a gate.",
+        "note": "The sentence includes the whole set of gardens."
+      }
+    },
+    {
+      "title": "Two ways to refer to a specific set",
+      "left": {
+        "label": "each of",
+        "example": "Each of these mugs has a lid.",
+        "note": "Each can come directly before of."
+      },
+      "right": {
+        "label": "every one of",
+        "example": "Every one of these mugs has a lid.",
+        "note": "Every needs one before of; every of is ungrammatical."
+      }
+    },
+    {
+      "title": "People versus individual members",
+      "left": {
+        "label": "everyone",
+        "example": "Everyone in the queue heard the announcement.",
+        "note": "One word refers only to people."
+      },
+      "right": {
+        "label": "every one",
+        "example": "I examined the batteries and replaced every one.",
+        "note": "Two words can refer to each item in a set, including things."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "There are two lifts, and each has a different control panel.",
+      "note": "Each stands alone because the two lifts were just mentioned."
+    },
+    {
+      "sentence": "Every resident must collect a new access card.",
+      "note": "Every highlights a rule applying to the entire group."
+    },
+    {
+      "sentence": "Each of the four addresses is written on a separate label.",
+      "note": "Of is followed by a defined plural group, but the singular verb is agrees with each."
+    },
+    {
+      "sentence": "The musicians were each paid fifty pounds.",
+      "note": "Each follows the auxiliary were to distribute the payment individually."
+    },
+    {
+      "sentence": "We check the water filters every six weeks.",
+      "note": "Every introduces a repeated interval, not a count of individual objects."
+    },
+    {
+      "sentence": "I sent invitations to all twelve neighbours, and every one replied.",
+      "note": "Every one refers to the individual members of the previously named set of people."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Every of the parcels was labelled.",
+      "correct": "Every one of the parcels was labelled.",
+      "why": "Every cannot occur directly before of; add one or use each of."
+    },
+    {
+      "incorrect": "Each of volunteers received a badge.",
+      "correct": "Each of the volunteers received a badge.",
+      "why": "Each of requires a specified group, such as the volunteers, these volunteers, or them."
+    },
+    {
+      "incorrect": "The sandwiches were five dollars every.",
+      "correct": "The sandwiches were five dollars each.",
+      "why": "Only each can follow an amount to mean per item."
+    },
+    {
+      "incorrect": "The technician visits each four weeks.",
+      "correct": "The technician visits every four weeks.",
+      "why": "Every, not each, normally precedes a numbered recurring time interval."
+    },
+    {
+      "incorrect": "Everyone of the batteries passed the test.",
+      "correct": "Every one of the batteries passed the test.",
+      "why": "Everyone is a pronoun for people, while every one of can refer to things."
+    }
+  ],
+  "studyTips": [
+    "If you want to say of them or of the three items, try each of or every one of, never every of.",
+    "When you describe a repeated schedule, check for every plus the interval: every two days or every six months.",
+    "Test the reference: everyone means people in general; every one can pick out individual objects or people."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The cupboard has exactly two drawers. ___ of the two drawers has its own key.",
+      "choices": [
+        "Every",
+        "All",
+        "Each"
+      ],
+      "answerIndex": 2,
+      "feedback": "Each of introduces a specific pair and treats the drawers separately. Every of is not a valid structure."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "A nurse changes the dressing ___ three days.",
+      "choices": [
+        "each",
+        "every",
+        "either"
+      ],
+      "answerIndex": 1,
+      "feedback": "Every is the natural determiner before a numbered recurring interval."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The five trainees were ___ given a personal login.",
+      "choices": [
+        "each",
+        "every",
+        "all of"
+      ],
+      "answerIndex": 0,
+      "feedback": "Each can follow were to show that a login went to every trainee individually."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "___ in our department received the new timetable.",
+      "choices": [
+        "Every",
+        "Everyone",
+        "Every one of"
+      ],
+      "answerIndex": 1,
+      "feedback": "Everyone works as a single pronoun referring to all the people; every requires a noun and every one of requires a group."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The organiser spoke separately to ___ of the two finalists. (Use the one-word determiner that can precede of.)",
+      "acceptedAnswers": [
+        "each"
+      ],
+      "feedback": "Only each can directly introduce of the two finalists; every of is incorrect."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The smoke detectors are inspected ___ six months. (Complete the recurring interval with one word.)",
+      "acceptedAnswers": [
+        "every"
+      ],
+      "feedback": "A numbered interval uses every six months."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The ceramic bowls cost nine euros ___. (Complete the per-item price with one word.)",
+      "acceptedAnswers": [
+        "each"
+      ],
+      "feedback": "After a price, each means per bowl."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "There were two sealed envelopes; ___ contained a different code. (Use the one-word pronoun for the two individual envelopes.)",
+      "acceptedAnswers": [
+        "each"
+      ],
+      "feedback": "Each can stand alone when the two envelopes are already identified."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence as instructed: Every of the four actors had a microphone. Use 'every one of' in the correction.",
+      "acceptedAnswers": [
+        "Every one of the four actors had a microphone."
+      ],
+      "feedback": "Every must be followed by one before of; every one of is a complete structure."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The notebooks are two pounds every.",
+      "acceptedAnswers": [
+        "The notebooks are two pounds each."
+      ],
+      "feedback": "Use each after a price to show the amount for a single notebook."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The doctor calls each three weeks.",
+      "acceptedAnswers": [
+        "The doctor calls every three weeks."
+      ],
+      "feedback": "A repeated three-week interval requires every."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence as instructed: Everyone of the six lamps was switched off. Replace 'Everyone' with 'Every one'.",
+      "acceptedAnswers": [
+        "Every one of the six lamps was switched off."
+      ],
+      "feedback": "Every one of identifies all the individual lamps. Everyone alone refers to people."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Two roommates have separate keys. Produce exactly one sentence beginning 'Each roommate' and ending 'a separate key'. Use 'received' as the verb.",
+      "acceptedAnswers": [
+        "Each roommate received a separate key."
+      ],
+      "feedback": "Each roommate focuses on each member of a pair."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "The shuttle arrives at intervals of twenty minutes. Say one sentence beginning 'The shuttle arrives' and use every to state the interval.",
+      "acceptedAnswers": [
+        "The shuttle arrives every twenty minutes.",
+        "The shuttle arrives every 20 minutes."
+      ],
+      "feedback": "Every twenty minutes is a repeated interval; each twenty minutes would be incorrect."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "One cup costs four dollars. Answer in a sentence starting 'Each cup' and using the verb 'costs'.",
+      "acceptedAnswers": [
+        "Each cup costs four dollars.",
+        "Each cup costs 4 dollars."
+      ],
+      "feedback": "Each cup highlights the price for one item."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You inspected all six boxes. Say one sentence starting 'I inspected' and ending 'the six boxes', using every one of.",
+      "acceptedAnswers": [
+        "I inspected every one of the six boxes."
+      ],
+      "feedback": "Every one of introduces the entire specified group without leaving any box out."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Six volunteers received certificates individually. Say one sentence beginning 'The six volunteers', with each immediately before 'received'.",
+      "acceptedAnswers": [
+        "The six volunteers each received a certificate."
+      ],
+      "feedback": "Each after the plural subject distributes the certificate to every volunteer."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "There are two cameras, and both need a password of their own. Say a sentence beginning 'Each camera' and ending 'a password'.",
+      "acceptedAnswers": [
+        "Each camera needs a password."
+      ],
+      "feedback": "Each is natural when considering two cameras separately."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "All the people invited have arrived. Say a short sentence beginning 'Everyone' and using the present perfect verb 'has arrived'.",
+      "acceptedAnswers": [
+        "Everyone has arrived."
+      ],
+      "feedback": "Everyone is a single-word pronoun meaning all the people."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say this two-sentence exchange: ask how frequently the train leaves using 'How often does the train leave?'; then answer that it leaves every half hour, beginning 'It leaves'.",
+      "acceptedAnswers": [
+        "How often does the train leave? It leaves every half hour."
+      ],
+      "feedback": "Every half hour expresses the recurring departure interval."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The two bicycles are ready, and each has its own coloured tag.",
+      "prompt": "What does the speaker say about the two bicycles?",
+      "choices": [
+        "They have no tags.",
+        "They have separate tags.",
+        "They share one tag."
+      ],
+      "answerIndex": 1,
+      "feedback": "Each treats the two bicycles individually, and its own means a separate tag for each."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "A guided tour starts every fifteen minutes, so there's no need to hurry.",
+      "prompt": "How often do tours begin?",
+      "choices": [
+        "Every hour.",
+        "Every thirty minutes.",
+        "Every fifteen minutes."
+      ],
+      "answerIndex": 2,
+      "feedback": "Every introduces the schedule interval stated in the audio."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I reviewed each of the four applications before the interview.",
+      "prompt": "Type the two-word expression directly before “the four applications”.",
+      "acceptedAnswers": [
+        "each of"
+      ],
+      "feedback": "Each of introduces a specified group of applications."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The concert tickets were eight euros each, and we bought three.",
+      "prompt": "What does eight euros refer to?",
+      "choices": [
+        "The price of one ticket.",
+        "The price of all three tickets.",
+        "The service charge."
+      ],
+      "answerIndex": 0,
+      "feedback": "The final each makes eight euros the price per ticket, not the total."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "We asked everyone in the study group to bring a notebook.",
+      "prompt": "Who was asked to bring a notebook?",
+      "choices": [
+        "Only the group leader.",
+        "Every member of the group.",
+        "Only members without notebooks."
+      ],
+      "answerIndex": 1,
+      "feedback": "Everyone refers to all of the people in the group."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The repairs are complete: every one of the broken lights is working again.",
+      "prompt": "How many of the repaired lights are still broken?",
+      "choices": [
+        "All of them.",
+        "Only one.",
+        "None of them."
+      ],
+      "answerIndex": 2,
+      "feedback": "Every one of means that every individual light in the identified group is working."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The team members were each sent a separate invitation.",
+      "prompt": "Type the single word directly before “sent”.",
+      "acceptedAnswers": [
+        "each"
+      ],
+      "feedback": "Each comes between the auxiliary were and the past participle sent."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The alarm sounds every six hours, even during the night.",
+      "prompt": "Type the three-word frequency expression you hear.",
+      "acceptedAnswers": [
+        "every six hours"
+      ],
+      "feedback": "Every six hours specifies a recurring interval."
+    }
+  ]
+}

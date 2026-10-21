@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u065",
+  "title": "Adjectives Followed by To-Infinitives",
+  "level": "B2",
+  "topicId": "eg2-u065-adjectives-and-to-infinitives",
+  "summary": "Use adjective + to-infinitive to describe how easy or difficult something is, evaluate someone’s actions, express reactions, identify the first or only person to do something, and make predictions with likely, sure and bound.",
+  "learningObjectives": [
+    "Rephrase It is + adjective + to do something as a noun or person + adjective + to do, without repeating the object.",
+    "Use of + person after adjectives that judge somebody’s behaviour and distinguish it from descriptions of a task.",
+    "Express reactions with glad, relieved, surprised or disappointed + to-infinitive, including negative forms.",
+    "Use the first, last or only + to-infinitive and likely, sure or bound + to-infinitive appropriately."
+  ],
+  "explanation": [
+    {
+      "heading": "An adjective describes how an action feels",
+      "body": "We can say It is + adjective + to-infinitive or put the thing being described first: It is tricky to assemble this shelf becomes This shelf is tricky to assemble. In the second pattern, the subject is already the object of assemble, so do not add it again. Adjectives such as easy, difficult, safe, expensive and impossible work this way.",
+      "example": "The instructions are difficult to follow."
+    },
+    {
+      "heading": "Keep a necessary preposition at the end",
+      "body": "When the action requires a preposition, keep it even when the person or thing moves to the front. Someone can be pleasant to work with, and a subject can be interesting to read about. Do not repeat that person or thing after the final preposition. This is normal English, including in careful written English.",
+      "example": "Our new colleague is easy to collaborate with."
+    },
+    {
+      "heading": "Evaluate behaviour with adjective + of someone + to",
+      "body": "Use It is/was + adjective + of + person + to-infinitive to judge the person’s action. Kind, generous, careless, thoughtful, rude and unfair are typical choices. This of names the person whose behaviour you are evaluating; it is different from saying that a task is hard or easy for someone.",
+      "example": "It was considerate of the driver to wait for the elderly passenger."
+    },
+    {
+      "heading": "Express reactions and identify people in a sequence",
+      "body": "Use glad, pleased, relieved, disappointed or surprised + to-infinitive to express a reaction to a discovery or event: I was relieved to find my keys. Use the first, second, next, last or only + noun/person + to-infinitive to identify somebody or something in an order or as an exception. Negation before the infinitive is possible: disappointed not to receive a reply.",
+      "example": "She was the only applicant to finish the task early."
+    },
+    {
+      "heading": "Talk about expected events with sure, likely and bound",
+      "body": "Sure to and bound to express strong expectations; likely to expresses probability without certainty. Not likely to expresses that an event is improbable. The structure can have a person or thing as its subject: The road is likely to be busy. Bound to is idiomatic for a strong prediction, not a guarantee based on proof.",
+      "example": "The new service is likely to attract more visitors."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Two ways to describe the same difficulty",
+      "left": {
+        "label": "It is + adjective + to",
+        "example": "It is uncomfortable to carry this case.",
+        "note": "The action of carrying is uncomfortable."
+      },
+      "right": {
+        "label": "Thing + is + adjective + to",
+        "example": "This case is uncomfortable to carry.",
+        "note": "Case becomes the subject; do not add it after carry."
+      }
+    },
+    {
+      "title": "Judging conduct versus predicting an outcome",
+      "left": {
+        "label": "Adjective + of + person",
+        "example": "It was brave of Nora to report the error.",
+        "note": "Brave evaluates Nora’s action."
+      },
+      "right": {
+        "label": "Likely/bound + to",
+        "example": "Nora is likely to receive a reply today.",
+        "note": "Likely expresses an expectation about a future result."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "This website is simple to navigate.",
+      "note": "Website is the implied object of navigate; no extra it is necessary."
+    },
+    {
+      "sentence": "The supervisor is pleasant to speak to.",
+      "note": "Speak requires to, which stays at the end of the clause."
+    },
+    {
+      "sentence": "It was generous of the neighbours to lend us their tools.",
+      "note": "Of the neighbours identifies whose generous behaviour is being evaluated."
+    },
+    {
+      "sentence": "I was disappointed not to see my name on the shortlist.",
+      "note": "Not to see expresses a negative infinitive after an emotional reaction."
+    },
+    {
+      "sentence": "The replacement part is bound to arrive later than expected.",
+      "note": "Bound to conveys a strong expectation, though not an absolute guarantee."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "This puzzle is difficult to solve it.",
+      "correct": "This puzzle is difficult to solve.",
+      "why": "The subject this puzzle already provides the object of solve."
+    },
+    {
+      "incorrect": "Mira is interesting to talk.",
+      "correct": "Mira is interesting to talk to.",
+      "why": "The phrase talk to someone needs the preposition to, even at the end of the sentence."
+    },
+    {
+      "incorrect": "It was generous for Leo to share his lunch.",
+      "correct": "It was generous of Leo to share his lunch.",
+      "why": "When the adjective evaluates a person’s conduct, use of + person."
+    },
+    {
+      "incorrect": "She was the last person arrive at the interview.",
+      "correct": "She was the last person to arrive at the interview.",
+      "why": "After the last person in this sequence pattern, use a to-infinitive."
+    }
+  ],
+  "studyTips": [
+    "When a noun becomes the subject of an easy/difficult-to sentence, ask whether the object would be repeated; remove it if so.",
+    "Group adjectives by function: task difficulty, judgement of behaviour, emotional reaction and prediction.",
+    "Practise two contrasts aloud: considerate of someone to do; likely to happen. Then make one original example of each."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The instruction manual is difficult ___. You may need someone to explain it.",
+      "choices": [
+        "to understand it",
+        "understanding",
+        "to understand"
+      ],
+      "answerIndex": 2,
+      "feedback": "The manual is the implied object of understand; do not repeat it."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "It was thoughtful ___ send the revised timetable to everyone.",
+      "choices": [
+        "of Priya to",
+        "for Priya",
+        "Priya to"
+      ],
+      "answerIndex": 0,
+      "feedback": "Thoughtful evaluates Priya’s behaviour, so use of Priya to + verb."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The museum guide is friendly, but she is hard ___. She speaks very quietly.",
+      "choices": [
+        "to hear her",
+        "to hear",
+        "for hearing"
+      ],
+      "answerIndex": 1,
+      "feedback": "The guide is already the understood object of hear; do not repeat her."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "There is a strong chance the match will be postponed. It is ___ postponed.",
+      "choices": [
+        "bound being",
+        "likely to be",
+        "likely being"
+      ],
+      "answerIndex": 1,
+      "feedback": "Likely to be postponed expresses probability with a passive to-infinitive."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Nobody else submitted the application before Maya. Maya was the first person ___ it. (submit)",
+      "acceptedAnswers": [
+        "to submit"
+      ],
+      "feedback": "Use the first person + to-infinitive to identify who acted earliest."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The sofa is comfortable ___ after a long day. (sit / on)",
+      "acceptedAnswers": [
+        "to sit on"
+      ],
+      "feedback": "Keep on because the expression is sit on the sofa; do not repeat the sofa."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "It was careless ___ the window open during the storm. (of / Ben / leave)",
+      "acceptedAnswers": [
+        "of Ben to leave"
+      ],
+      "feedback": "Careless judges Ben’s behaviour: careless of Ben to leave."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Everyone expects heavy traffic near the stadium. The roads are ___ crowded. (bound / be)",
+      "acceptedAnswers": [
+        "bound to be"
+      ],
+      "feedback": "Bound to be expresses a strong expectation about the roads."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: This suitcase is difficult to lift it.",
+      "acceptedAnswers": [
+        "This suitcase is difficult to lift."
+      ],
+      "feedback": "The suitcase is already the object understood after lift; the extra it is unnecessary."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: It was rude for the guest to interrupt the speaker.",
+      "acceptedAnswers": [
+        "It was rude of the guest to interrupt the speaker."
+      ],
+      "feedback": "Rude evaluates how the guest behaved, so use of the guest."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I was relieved finding my phone in the taxi.",
+      "acceptedAnswers": [
+        "I was relieved to find my phone in the taxi."
+      ],
+      "feedback": "Relieved takes a to-infinitive for a reaction to a discovery."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Amira was the only student finish the assignment before lunch.",
+      "acceptedAnswers": [
+        "Amira was the only student to finish the assignment before lunch."
+      ],
+      "feedback": "The only student + to-infinitive identifies the one student who completed the action."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Transform this exact sentence by making the package the subject: “It is hard to open the package.” Begin with “The package” and do not repeat the object.",
+      "acceptedAnswers": [
+        "The package is hard to open."
+      ],
+      "feedback": "The package takes the subject position; the verb open needs no repeated object."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say one sentence using these facts in this order: the new software / easy / learn. Use is and a to-infinitive.",
+      "acceptedAnswers": [
+        "The new software is easy to learn."
+      ],
+      "feedback": "Easy to learn evaluates the software without an extra object pronoun."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Your colleague waited to help after the meeting. Praise this behaviour. Begin with “It was kind of” and use “your colleague” and “to stay and help”.",
+      "acceptedAnswers": [
+        "It was kind of your colleague to stay and help."
+      ],
+      "feedback": "Kind of your colleague to evaluates considerate behaviour."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The organiser tells you that tickets may sell out, but this is not certain. Say one sentence beginning “The tickets” and using “likely to sell out soon”.",
+      "acceptedAnswers": [
+        "The tickets are likely to sell out soon."
+      ],
+      "feedback": "Are likely to states a probable outcome, not a certainty."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "You have just heard that your friend has recovered. Say one sentence using “I am glad to hear that” and “you have recovered”. Use full forms.",
+      "acceptedAnswers": [
+        "I am glad to hear that you have recovered."
+      ],
+      "feedback": "Glad to hear expresses a positive reaction to news."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "All other volunteers arrived before Eli. Identify Eli using one sentence that begins “Eli was the last volunteer” and ends “to arrive”.",
+      "acceptedAnswers": [
+        "Eli was the last volunteer to arrive."
+      ],
+      "feedback": "The last volunteer to arrive identifies the person at the end of the sequence."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A colleague is difficult to collaborate with. Change this sentence using the given start: “It is difficult to collaborate with my colleague.” Begin “My colleague” and keep the final preposition.",
+      "acceptedAnswers": [
+        "My colleague is difficult to collaborate with."
+      ],
+      "feedback": "The preposition with remains, but my colleague is not repeated after it."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give exactly two sentences using these facts and full forms. First: the result / likely / change. Second: we / relieved / hear / the news. Begin “The result” and then “We”.",
+      "acceptedAnswers": [
+        "The result is likely to change. We are relieved to hear the news."
+      ],
+      "feedback": "Likely to change predicts; relieved to hear expresses a reaction."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The new scanner is straightforward to operate, even for staff who have never used one.",
+      "prompt": "What does the speaker say about operating the scanner?",
+      "choices": [
+        "Only experienced staff can operate it.",
+        "It is easy to operate.",
+        "It needs to be repaired."
+      ],
+      "answerIndex": 1,
+      "feedback": "Straightforward to operate means the device is not difficult to use."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "It was careless of the courier to leave the parcel outside in the rain.",
+      "prompt": "How does the speaker judge the courier’s action?",
+      "choices": [
+        "As careless behaviour.",
+        "As a generous favour.",
+        "As an unavoidable accident."
+      ],
+      "answerIndex": 0,
+      "feedback": "Careless of the courier evaluates the courier’s decision, not the parcel."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "This engineer is pleasant to work with and always explains things clearly.",
+      "prompt": "Type the three-word expression immediately after “pleasant” that describes working with this person.",
+      "acceptedAnswers": [
+        "to work with"
+      ],
+      "feedback": "Work with someone requires with after the infinitive."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Sofia was the second runner to cross the finishing line, just behind Grace.",
+      "prompt": "Where did Sofia finish in the race?",
+      "choices": [
+        "First.",
+        "Third.",
+        "Second."
+      ],
+      "answerIndex": 2,
+      "feedback": "Second runner to cross identifies Sofia as the runner behind the winner."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I was surprised to discover that the small library stays open until midnight.",
+      "prompt": "What was unexpected for the speaker?",
+      "choices": [
+        "The library closes at noon.",
+        "The library stays open very late.",
+        "The library has moved to a new building."
+      ],
+      "answerIndex": 1,
+      "feedback": "Surprised to discover refers to learning about its late opening hours."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The road is unlikely to reopen today because the repairs are taking longer than expected.",
+      "prompt": "What does the speaker expect about the road?",
+      "choices": [
+        "It will probably remain closed today.",
+        "It has already reopened.",
+        "The repairs will finish early today."
+      ],
+      "answerIndex": 0,
+      "feedback": "Unlikely to reopen means reopening today is improbable."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The crossword is difficult to solve without checking the clues more than once.",
+      "prompt": "Type the two-word infinitive phrase immediately after “difficult” in the recording.",
+      "acceptedAnswers": [
+        "to solve"
+      ],
+      "feedback": "Difficult to solve describes the difficulty of completing the crossword."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "My sister was relieved to receive a message saying that everyone was safe.",
+      "prompt": "Type the two-word infinitive phrase immediately after “relieved”.",
+      "acceptedAnswers": [
+        "to receive"
+      ],
+      "feedback": "Relieved to receive reports her emotional reaction to getting the message."
+    }
+  ]
+}

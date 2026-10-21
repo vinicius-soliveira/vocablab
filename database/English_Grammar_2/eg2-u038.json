@@ -1,0 +1,413 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u038",
+  "title": "Real and Hypothetical If-Conditions",
+  "level": "B1",
+  "topicId": "eg2-u038-real-and-hypothetical-if-conditions",
+  "summary": "Contrast if + present simple for a future possibility with if + past simple for an imagined or unlikely situation. Choose will, would, could or might in the main clause to match the meaning, without putting would in an ordinary hypothetical if-clause.",
+  "learningObjectives": [
+    "Choose if + present simple when a future condition is treated as a real possibility.",
+    "Use if + past simple with would for an imagined, unlikely or contrary-to-plan situation.",
+    "Select could or might rather than would when the result expresses ability or possibility.",
+    "Correct common errors involving will or would inside ordinary conditional if-clauses."
+  ],
+  "explanation": [
+    {
+      "heading": "A future condition that may really happen",
+      "body": "Use if + present simple when you think a future event is possible and are discussing what will happen if it occurs. The result can use will for a predicted consequence. Although the meaning concerns the future, the verb immediately after if is normally present simple, not will. The if-clause may come first or second.",
+      "example": "If the delivery arrives this afternoon, we’ll unpack it together."
+    },
+    {
+      "heading": "An imagined or unlikely situation",
+      "body": "Use if + past simple when the situation is not true now, seems unlikely or is imagined rather than planned. The past form here does not refer to past time. Pair it commonly with would + base verb for a hypothetical result. The speaker’s perspective matters: the same situation can be presented as a live possibility or only an imagined alternative.",
+      "example": "If I owned a small studio, I would turn it into an art workshop."
+    },
+    {
+      "heading": "Comparing the speaker’s expectations",
+      "body": "If the speaker expects an action to be possible, a present-form condition is natural: If we catch the early ferry, we’ll arrive before lunch. If the speaker knows a different plan has already been chosen, a past-form condition can describe the alternative: If we caught the early ferry, we’d arrive before lunch, but we’ve booked the later one. The second pattern indicates distance from reality, not necessarily absolute impossibility.",
+      "example": "If we rented a larger room, we could invite more guests, but we have already booked this one."
+    },
+    {
+      "heading": "Would, could and might in results",
+      "body": "Use would + base verb for an imagined outcome, could + base verb for a hypothetical ability or opportunity, and might + base verb for an uncertain possible outcome. Would not, could not and might not are possible negatives. For ordinary hypothetical conditions, do not add would after if: say If the shop opened earlier, not If the shop would open earlier.",
+      "example": "If the rain stopped, we could walk to the station."
+    },
+    {
+      "heading": "Questions, negatives and clause order",
+      "body": "A hypothetical question can begin What would you do if …? or Would you … if …? The condition may be negative: If I didn’t work on Saturdays, I would volunteer. A condition at the beginning is normally separated from the result by a comma; when the result comes first, a comma is usually unnecessary. Keep the tense choice consistent with whether the situation is a real possibility or an imagined one.",
+      "example": "Would you change your route if the bridge were closed?"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Possible plan versus imaginary alternative",
+      "left": {
+        "label": "If + present, will",
+        "example": "If we finish before six, we’ll call you.",
+        "note": "Finishing before six is treated as a genuine possibility."
+      },
+      "right": {
+        "label": "If + past, would",
+        "example": "If we finished before six, we’d call you, but the schedule is too full.",
+        "note": "The earlier finish is treated as an unlikely alternative."
+      }
+    },
+    {
+      "title": "Predicted result versus hypothetical ability",
+      "left": {
+        "label": "Would + base verb",
+        "example": "If I had an extra chair, I would put it by the window.",
+        "note": "Would states the action expected in the imagined situation."
+      },
+      "right": {
+        "label": "Could + base verb",
+        "example": "If I had an extra chair, I could seat another guest.",
+        "note": "Could states what would become possible, not what definitely would happen."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "If the meeting ends on time, I’ll catch the 5:30 train.",
+      "note": "The speaker considers an on-time finish possible, so uses present simple plus will."
+    },
+    {
+      "sentence": "If I spoke Japanese, I would apply for that position.",
+      "note": "The past verb spoke describes an imagined present ability, not a past event."
+    },
+    {
+      "sentence": "We might move to the countryside if we worked remotely.",
+      "note": "Might expresses only a possible outcome of an imagined condition."
+    },
+    {
+      "sentence": "If this café stayed open later, we could meet here after work.",
+      "note": "Could describes an opportunity that is unavailable under the current opening hours."
+    },
+    {
+      "sentence": "Would you feel safer if the street had better lighting?",
+      "note": "A hypothetical question can put the result before the if-clause."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "If I will see the manager tomorrow, I will ask.",
+      "correct": "If I see the manager tomorrow, I will ask.",
+      "why": "In a normal possible-future if-clause, use present simple rather than will."
+    },
+    {
+      "incorrect": "If I would own a bicycle, I would ride to work.",
+      "correct": "If I owned a bicycle, I would ride to work.",
+      "why": "In an ordinary hypothetical condition, use the past simple in the if-clause, not would."
+    },
+    {
+      "incorrect": "If the museum opened earlier, we will visit before breakfast.",
+      "correct": "If the museum opened earlier, we would visit before breakfast.",
+      "why": "The imaginary condition calls for a matching hypothetical result with would."
+    },
+    {
+      "incorrect": "If she could drive, she can give us a lift.",
+      "correct": "If she could drive, she could give us a lift.",
+      "why": "A hypothetical ability in the result should use could rather than the present-form can."
+    }
+  ],
+  "studyTips": [
+    "Before choosing a tense, label the if-event as a live possibility or an imagined alternative.",
+    "Practise pairs using the same topic: If it rains, we’ll stay in; If it rained, we’d stay in.",
+    "Check each half separately: present or past after if, then will, would, could or might for the intended result."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The picnic might still go ahead tomorrow. Complete a real future condition: “___ tomorrow, we’ll move the picnic indoors.”",
+      "choices": [
+        "If it rains",
+        "If it rained",
+        "If it would rain"
+      ],
+      "answerIndex": 0,
+      "feedback": "For a possible future event, use if + present simple; the result may use will."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "You are imagining an unlikely job offer abroad. “If a company ___ me a job overseas, I would think carefully.”",
+      "choices": [
+        "offers",
+        "offered",
+        "would offer"
+      ],
+      "answerIndex": 1,
+      "feedback": "Offered is the past form used for an imagined situation. It does not refer to the past here."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The office is closed today. Imagine an alternative: “If it ___ open, we could collect our package.”",
+      "choices": [
+        "is",
+        "will be",
+        "were"
+      ],
+      "answerIndex": 2,
+      "feedback": "Were is a past-form hypothetical condition describing a situation contrary to the present facts."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "You have booked a taxi and will not drive. “If I ___ instead, I would need to pay for parking.”",
+      "choices": [
+        "drive",
+        "drove",
+        "will drive"
+      ],
+      "answerIndex": 1,
+      "feedback": "Drove describes a hypothetical alternative to the plan that has already been made."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "There is still a chance you will finish early. Complete with the present simple of finish: “If we ___ early, we’ll join the others.”",
+      "acceptedAnswers": [
+        "finish"
+      ],
+      "feedback": "If + present simple describes a possible future condition; will appears in the result."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "You cannot take a year off. Use the hypothetical past form of have: “If I ___ a year off, I’d learn Italian.”",
+      "acceptedAnswers": [
+        "had"
+      ],
+      "feedback": "Had describes the imagined condition; I’d learn describes its hypothetical result."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Imagine a later closing time. Use could to express opportunity: “If the library stayed open later, students ___ study after work.”",
+      "acceptedAnswers": [
+        "could"
+      ],
+      "feedback": "Could + base verb indicates an opportunity created by the imagined situation."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The concert is not online. Write would + not + need, allowing a contraction: “We ___ a taxi if the concert were online.”",
+      "acceptedAnswers": [
+        "wouldn't need",
+        "would not need"
+      ],
+      "feedback": "Wouldn’t need and would not need express the negative result of a hypothetical condition."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the hypothetical if-clause: “If the printer would work, we could print the handouts.”",
+      "acceptedAnswers": [
+        "If the printer worked, we could print the handouts."
+      ],
+      "feedback": "Use if + past simple, not if + would, for an ordinary imagined condition."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the possible-future condition: “If I will find your keys tonight, I’ll text you.”",
+      "acceptedAnswers": [
+        "If I find your keys tonight, I'll text you.",
+        "If I find your keys tonight, I will text you."
+      ],
+      "feedback": "The if-clause uses present simple even when the condition concerns the future."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the result of the hypothetical condition: “If I had a larger desk, I will keep both monitors.”",
+      "acceptedAnswers": [
+        "If I had a larger desk, I would keep both monitors.",
+        "If I had a larger desk, I'd keep both monitors."
+      ],
+      "feedback": "A hypothetical condition in the past form normally takes would, not will, in this result."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the expression of hypothetical ability: “If she joined the course, she can meet new people.”",
+      "acceptedAnswers": [
+        "If she joined the course, she could meet new people."
+      ],
+      "feedback": "Could expresses the opportunity to meet new people in the imagined situation."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Your team may finish early tomorrow. Say: “If we finish early, we’ll send the report tonight.” You may say will instead of ’ll.",
+      "acceptedAnswers": [
+        "If we finish early, we'll send the report tonight.",
+        "If we finish early, we will send the report tonight."
+      ],
+      "feedback": "A realistic future condition uses if + present simple, followed by will."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "You do not expect to own a boat. Imagine it: say “If I owned a boat, I’d sail on weekends.” You may expand I’d.",
+      "acceptedAnswers": [
+        "If I owned a boat, I'd sail on weekends.",
+        "If I owned a boat, I would sail on weekends."
+      ],
+      "feedback": "Owned is a past form with hypothetical present meaning; would introduces the imagined result."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "You are too busy to take a course. Express this hypothetical using “If I had more time” and “I would take the course”. Say one sentence.",
+      "acceptedAnswers": [
+        "If I had more time, I would take the course.",
+        "If I had more time, I'd take the course."
+      ],
+      "feedback": "If I had more time is an unreal present condition; I would take describes the result."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The outdoor concert may be canceled if there is heavy snow. Say one possible-future sentence using “If it snows heavily” and “we’ll cancel the concert”.",
+      "acceptedAnswers": [
+        "If it snows heavily, we'll cancel the concert.",
+        "If it snows heavily, we will cancel the concert."
+      ],
+      "feedback": "Snows is present simple even though the concert and weather are future events."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "The match is still on, and it is not raining. Imagine the opposite. Say: “If it rained, the match would be canceled.”",
+      "acceptedAnswers": [
+        "If it rained, the match would be canceled.",
+        "If it rained, the match would be cancelled."
+      ],
+      "feedback": "If it rained presents an unreal alternative to current weather conditions."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Correct this imagined situation aloud: “If I would live closer, I could walk to work.” Say the complete corrected sentence.",
+      "acceptedAnswers": [
+        "If I lived closer, I could walk to work."
+      ],
+      "feedback": "A hypothetical condition normally uses if + past simple; would does not belong in that clause."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Ask one hypothetical question about a loss of internet service. Say exactly: “What would you do if the internet stopped working?”",
+      "acceptedAnswers": [
+        "What would you do if the internet stopped working?"
+      ],
+      "feedback": "What would you do + if + past simple asks about a hypothetical response."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly these two related sentences in order: “We have enough time.” Then “If we leave now, we’ll catch the train.” You may expand we’ll.",
+      "acceptedAnswers": [
+        "We have enough time. If we leave now, we'll catch the train.",
+        "We have enough time. If we leave now, we will catch the train."
+      ],
+      "feedback": "A present fact introduces the context; if we leave now states the real condition for catching the train."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The forecast says rain is possible on Sunday. If it rains, we will move the market inside.",
+      "prompt": "What will the organisers do if it rains?",
+      "choices": [
+        "Move the market indoors",
+        "Cancel the market for a month",
+        "Hold the market outdoors anyway"
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker treats rain as a possible future condition and says the market will move inside."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I already booked my flight, but if I took the night train, I would save money.",
+      "prompt": "Which journey has the speaker actually arranged?",
+      "choices": [
+        "A trip by night train",
+        "A flight",
+        "A journey by coach"
+      ],
+      "answerIndex": 1,
+      "feedback": "The flight is already booked. Taking the night train is only an imagined alternative."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "If I lived closer to the office, I could cycle to work.",
+      "prompt": "Type the two-word phrase expressing hypothetical ability immediately before “to work”.",
+      "acceptedAnswers": [
+        "could cycle"
+      ],
+      "feedback": "Could cycle expresses an ability or opportunity created by living closer."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "If our landlord allowed pets, we might adopt a cat, but she doesn't.",
+      "prompt": "Why have the speakers not adopted a cat?",
+      "choices": [
+        "They have already adopted a dog",
+        "They do not like cats",
+        "Their landlord does not allow pets"
+      ],
+      "answerIndex": 2,
+      "feedback": "Allowed is an unreal condition; but she doesn’t tells us permission is not currently given."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "If you receive the parcel by Thursday, please let me know. We need it for Friday.",
+      "prompt": "How does the speaker treat receiving the parcel by Thursday?",
+      "choices": [
+        "As a possible future event",
+        "As an event that already happened",
+        "As an impossible event in the past"
+      ],
+      "answerIndex": 0,
+      "feedback": "Receive is present simple in an if-clause about a realistic future possibility."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I don't know whether the café is open. If it is, I'll buy us sandwiches.",
+      "prompt": "Under what condition will the speaker buy sandwiches?",
+      "choices": [
+        "If the café has already closed",
+        "If the café is open",
+        "If someone cooks at home"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker promises to buy sandwiches only if the café is open."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "If someone offered me a job overseas, I would consider it.",
+      "prompt": "Type the two-word expression immediately after “I” in the main clause.",
+      "acceptedAnswers": [
+        "would consider"
+      ],
+      "feedback": "Would consider is the hypothetical result associated with if someone offered."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I would stay longer if I didn't have an early meeting.",
+      "prompt": "Type the two-word negative verb phrase immediately after “if I”.",
+      "acceptedAnswers": [
+        "didn't have"
+      ],
+      "feedback": "Didn’t have is the negative past form used in an imagined present condition."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u129",
+  "title": "Nouns and Their Prepositions",
+  "level": "B2",
+  "topicId": "eg2-u129-noun-preposition-combinations",
+  "summary": "Choose the preposition that naturally follows a noun: a reason for a decision, a change in a figure, a solution to a problem, or a relationship with someone. Learn how the noun changes the pattern even when the meaning seems similar.",
+  "learningObjectives": [
+    "Use noun + for to express a reason, need, demand or excuse and noun + of to identify a cause, illustration or advantage.",
+    "Report movements in figures using increase, decrease, rise and fall + in.",
+    "Select noun + to for a result, response, impact, invitation or attitude.",
+    "Distinguish connections and contact with one person or thing from comparisons or links between two."
+  ],
+  "explanation": [
+    {
+      "heading": "Use for after reasons, needs and demand",
+      "body": "Reason for identifies what explains an event or choice. A need for something tells us what is required; a demand for something describes how strongly people want it. We also say an excuse for behaviour. Learn these as noun–preposition pairs instead of choosing a preposition from the verb that might be related.",
+      "example": "The organiser gave a clear reason for moving the meeting."
+    },
+    {
+      "heading": "Use of for causes, representations and advantages",
+      "body": "The cause of an event identifies what produced it. A photo, sketch, diagram or map of something represents it. An advantage or disadvantage of a choice identifies its benefit or drawback. When naming the activity that benefits you, an advantage in doing something and an advantage to doing something are also possible; in and to are followed by an -ing form here.",
+      "example": "One advantage of the new schedule is having a longer lunch break."
+    },
+    {
+      "heading": "Use in after nouns that report changes",
+      "body": "An increase in, decrease in, rise in or fall in identifies the quantity that changed. The noun names the direction, while the phrase after in names what went up or down. An amount such as ten per cent may be added separately. Compare a rise in enrolment with a rise of ten per cent: in introduces the category, of the size of the change.",
+      "example": "There was a sharp decrease in electricity use over the summer."
+    },
+    {
+      "heading": "Use to for responses, effects and directed attitudes",
+      "body": "Common pairs include damage to property, an invitation to an event, a solution to a problem, an answer to a question, a reply to a message and a reaction to news. A key to a lock also follows this pattern. We say an attitude to or towards somebody or something. These phrases show a target or point of reference, not a destination someone is travelling to.",
+      "example": "The team finally agreed on a practical solution to the scheduling problem."
+    },
+    {
+      "heading": "Choose with for one link and between for two sides",
+      "body": "A relationship with someone, a connection with something and contact with someone each point to one person or thing being linked to another. Use between when you explicitly name the two sides of a relationship, connection or difference: a difference between two approaches. Between makes the comparison or pair central, while with names the other party relative to the subject.",
+      "example": "There is a strong connection between regular practice and improved confidence."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "What caused it versus what explains it",
+      "left": {
+        "label": "cause of",
+        "example": "The cause of the outage was a damaged cable.",
+        "note": "Of introduces the event whose cause is being discussed."
+      },
+      "right": {
+        "label": "reason for",
+        "example": "The reason for the delay was missing equipment.",
+        "note": "For introduces the situation that needs an explanation."
+      }
+    },
+    {
+      "title": "Category of change versus its size",
+      "left": {
+        "label": "increase in",
+        "example": "We noticed an increase in online orders.",
+        "note": "In introduces the measure that changed."
+      },
+      "right": {
+        "label": "increase of",
+        "example": "Online orders showed an increase of twelve per cent.",
+        "note": "Of introduces the numerical size of a change."
+      }
+    },
+    {
+      "title": "A person you know versus two people compared",
+      "left": {
+        "label": "relationship with",
+        "example": "I have a good relationship with my supervisor.",
+        "note": "With names the other person in the relationship."
+      },
+      "right": {
+        "label": "relationship between",
+        "example": "The relationship between the two neighbours has improved.",
+        "note": "Between introduces both sides of the relationship."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "There is growing demand for evening language classes.",
+      "note": "Demand for names the service people want."
+    },
+    {
+      "sentence": "I cannot think of a good excuse for missing the deadline.",
+      "note": "Excuse for is used to justify an action or failure."
+    },
+    {
+      "sentence": "The museum displayed a detailed drawing of the old harbour.",
+      "note": "Of identifies what a drawing depicts."
+    },
+    {
+      "sentence": "We saw a steady rise in the number of volunteers.",
+      "note": "In introduces the quantity that increased."
+    },
+    {
+      "sentence": "The storm caused considerable damage to several rooftops.",
+      "note": "Damage to identifies what was harmed."
+    },
+    {
+      "sentence": "Her reply to the complaint was polite and specific.",
+      "note": "Reply to introduces the message being answered."
+    },
+    {
+      "sentence": "The only difference between these plans is their delivery date.",
+      "note": "Between identifies the two plans being compared."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "We could not find the reason of the cancellation.",
+      "correct": "We could not find the reason for the cancellation.",
+      "why": "Use reason for, not reason of, to identify what requires an explanation."
+    },
+    {
+      "incorrect": "There was a big increase on ticket sales.",
+      "correct": "There was a big increase in ticket sales.",
+      "why": "In introduces the category or quantity that increased."
+    },
+    {
+      "incorrect": "The committee proposed a solution for the dispute.",
+      "correct": "The committee proposed a solution to the dispute.",
+      "why": "The standard noun pattern is a solution to a problem or dispute."
+    },
+    {
+      "incorrect": "He has lost contact between his former classmates.",
+      "correct": "He has lost contact with his former classmates.",
+      "why": "Contact with names the people he no longer communicates with; between compares or links explicitly named sides."
+    }
+  ],
+  "studyTips": [
+    "Keep a noun-led phrase list: reason for, cause of, rise in, response to and contact with. Practise each phrase in a full sentence.",
+    "When reading statistics, underline the noun naming the change and circle the noun after in; add a separate figure after of if you need to state the amount.",
+    "Practise describing a workplace change using a reason for it, an increase or decrease in something, and someone’s reaction to it."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "There is no demand ___ printed tickets now that most visitors use their phones.",
+      "choices": [
+        "in",
+        "for",
+        "to"
+      ],
+      "answerIndex": 1,
+      "feedback": "Demand for introduces what people want or no longer want."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The report describes a fall ___ the number of missed appointments.",
+      "choices": [
+        "in",
+        "of",
+        "to"
+      ],
+      "answerIndex": 0,
+      "feedback": "A fall in the number identifies the quantity that declined."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "We need a practical solution ___ the problem of overcrowded classrooms.",
+      "choices": [
+        "for",
+        "of",
+        "to"
+      ],
+      "answerIndex": 2,
+      "feedback": "The standard noun phrase is a solution to a problem."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The guide described the differences ___ the two routes.",
+      "choices": [
+        "with",
+        "between",
+        "to"
+      ],
+      "answerIndex": 1,
+      "feedback": "Differences between names the two options being compared."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The engineers are still investigating the cause ___ the equipment failure. (Supply one preposition.)",
+      "acceptedAnswers": [
+        "of"
+      ],
+      "feedback": "Cause of identifies the event whose cause is being investigated."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The local school sent us an invitation ___ its open day. (Supply one preposition.)",
+      "acceptedAnswers": [
+        "to"
+      ],
+      "feedback": "Invitation to identifies the event someone is invited to."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The public response showed a clear need ___ more accessible buses. (Supply one preposition.)",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "Need for identifies the service that is required."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Marta maintains regular contact ___ her former colleagues. (Supply one preposition.)",
+      "acceptedAnswers": [
+        "with"
+      ],
+      "feedback": "Contact with identifies the people Marta stays in touch with."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The team still needs to discover the reason of the missing shipment.",
+      "acceptedAnswers": [
+        "The team still needs to discover the reason for the missing shipment."
+      ],
+      "feedback": "Use reason for when explaining a missing shipment."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: There has been a sharp decrease on the number of late deliveries.",
+      "acceptedAnswers": [
+        "There has been a sharp decrease in the number of late deliveries."
+      ],
+      "feedback": "A decrease in identifies the quantity that fell."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: His reaction for the unexpected announcement was very calm.",
+      "acceptedAnswers": [
+        "His reaction to the unexpected announcement was very calm."
+      ],
+      "feedback": "Use reaction to to identify the event that prompted the response."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: There is a close connection with exercise and sleep quality.",
+      "acceptedAnswers": [
+        "There is a close connection between exercise and sleep quality."
+      ],
+      "feedback": "Two named factors are connected by between, not with."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "A café needs more customers. Say a complete sentence beginning 'There is a need' and ending 'more customers'. Use the correct preposition.",
+      "acceptedAnswers": [
+        "There is a need for more customers."
+      ],
+      "feedback": "Need for names what is required."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "The price of bread went up. Convert the fact into one sentence beginning 'There was an increase' and ending 'the price of bread'.",
+      "acceptedAnswers": [
+        "There was an increase in the price of bread."
+      ],
+      "feedback": "Increase in introduces the price that changed."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Correct the noun phrase and say the whole sentence, changing nothing else: 'We found a solution of the problem.'",
+      "acceptedAnswers": [
+        "We found a solution to the problem."
+      ],
+      "feedback": "Solution to is the correct noun–preposition pair."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A colleague asks what the manager said after your email. Say one sentence beginning 'I received a reply' and ending 'my email'.",
+      "acceptedAnswers": [
+        "I received a reply to my email."
+      ],
+      "feedback": "Reply to links a response to the original message."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "A diagram shows the building. Rephrase 'The diagram represents the building.' Begin 'This is a diagram' and finish 'the building'.",
+      "acceptedAnswers": [
+        "This is a diagram of the building."
+      ],
+      "feedback": "A diagram of something identifies what it shows."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Two products have different prices. Use the supplied facts to say exactly one sentence: 'There is a difference' + 'the two prices'.",
+      "acceptedAnswers": [
+        "There is a difference between the two prices."
+      ],
+      "feedback": "Difference between introduces the two things compared."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Choose the relationship meaning, not the comparison meaning. Say one sentence beginning 'Leo has a good relationship' and ending 'his team'.",
+      "acceptedAnswers": [
+        "Leo has a good relationship with his team."
+      ],
+      "feedback": "Relationship with names the people Leo works well with."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give two separate sentences using these facts in order: there is a demand for the service; there is an advantage to using it. Use exactly 'There is' at the start of both sentences.",
+      "acceptedAnswers": [
+        "There is a demand for the service. There is an advantage to using it."
+      ],
+      "feedback": "Demand for names what people want; an advantage to doing something describes a benefit of the activity."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The town needs more late buses, not more parking spaces. Demand for evening transport is rising.",
+      "prompt": "What service do residents increasingly want?",
+      "choices": [
+        "Additional parking spaces",
+        "More evening buses",
+        "A wider cycle path"
+      ],
+      "answerIndex": 1,
+      "feedback": "Rising demand for evening transport refers to late buses, not parking."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The bakery reported a rise in online orders but a fall in purchases made at the counter.",
+      "prompt": "Which part of the business declined?",
+      "choices": [
+        "Counter sales",
+        "Online orders",
+        "Both types of sales"
+      ],
+      "answerIndex": 0,
+      "feedback": "Fall in purchases at the counter identifies the decreasing category."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The project leader said there was no excuse for ignoring the safety signs.",
+      "prompt": "Type the two-word noun–preposition expression heard immediately after \"no\".",
+      "acceptedAnswers": [
+        "excuse for"
+      ],
+      "feedback": "Excuse for introduces the behaviour the leader considers unjustified."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "An invitation to the workshop arrived on Monday, but the reply to it did not arrive until Thursday.",
+      "prompt": "Which event happened later?",
+      "choices": [
+        "The workshop invitation was sent",
+        "The invitation was received",
+        "The response arrived"
+      ],
+      "answerIndex": 2,
+      "feedback": "The reply came on Thursday, after the invitation arrived on Monday."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The technician found a cause of the noise but still has no solution to the problem.",
+      "prompt": "What has the technician not yet found?",
+      "choices": [
+        "An explanation for the noise",
+        "A way to fix the issue",
+        "The source of the noise"
+      ],
+      "answerIndex": 1,
+      "feedback": "The cause has been identified, but a solution has not."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Nora stays in contact with her former manager, but there is no connection between their two companies.",
+      "prompt": "Which relationship does the speaker confirm?",
+      "choices": [
+        "The companies are formally linked",
+        "Nora still communicates with her old manager",
+        "Both companies have the same director"
+      ],
+      "answerIndex": 1,
+      "feedback": "Contact with the former manager continues; a connection between companies is denied."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The new screen caused minor damage to the wall during installation.",
+      "prompt": "Type the two-word noun–preposition expression immediately before \"the wall\".",
+      "acceptedAnswers": [
+        "damage to"
+      ],
+      "feedback": "Damage to identifies what was harmed."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "There was an increase in the number of applications submitted last week.",
+      "prompt": "Type the two words heard immediately after \"an\".",
+      "acceptedAnswers": [
+        "increase in"
+      ],
+      "feedback": "Increase in identifies the number that changed."
+    }
+  ]
+}

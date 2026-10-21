@@ -1,0 +1,420 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u111",
+  "title": "Still, Any More, Yet and Already",
+  "level": "B1",
+  "topicId": "eg2-u111-continuation-change-and-expectation",
+  "summary": "Explain whether a situation continues, has stopped, is expected to happen soon or has happened sooner than expected. Choose between still, not ... any more, yet, already and no longer, and notice the extra impatience in still not.",
+  "learningObjectives": [
+    "Describe an unchanged situation with still and a discontinued habit or state with not ... any more or no longer.",
+    "Use yet in questions and negative statements when an event is expected but has not happened up to now.",
+    "Use already for an event or state that has occurred sooner than expected.",
+    "Contrast neutral not ... yet with the stronger surprise or impatience expressed by still ... not."
+  ],
+  "explanation": [
+    {
+      "heading": "Still means the situation continues",
+      "body": "Use still when something that was true before remains true now, or an action has not stopped. In ordinary statements, still comes before most main verbs but after a form of be. It can also highlight a contrast: someone has had plenty of rest but is still exhausted. The key idea is no change.",
+      "example": "After three months of lessons, Miriam still takes the same bus to college."
+    },
+    {
+      "heading": "Not ... any more and no longer describe a change",
+      "body": "Use a negative verb followed by any more (also written anymore) or any longer when something was true but is no longer true. The final phrase normally goes at the end: does not work there any more. No longer expresses the same change but is placed before an ordinary main verb or after be. In standard usage, do not replace no longer with no more in these patterns.",
+      "example": "My grandparents do not run their small shop any more; they retired in June."
+    },
+    {
+      "heading": "Yet signals an expected event up to now",
+      "body": "Yet is especially common at the end of questions and negative clauses. It asks whether an expected event has happened, or states that it has not happened so far. Present perfect is frequent, but yet also occurs with be and other verbs. Yet does not, by itself, mean the event will definitely happen later.",
+      "example": "The invitation has not arrived yet, but we expect it this week."
+    },
+    {
+      "heading": "Still not adds a stronger expectation",
+      "body": "Both has not replied yet and still has not replied describe an unfinished situation. Still before the negative auxiliary often sounds more surprised, frustrated or impatient because the speaker expected a change by now. Use the neutral form with yet if you simply want to report the status.",
+      "example": "The support team still has not answered, although I sent three messages."
+    },
+    {
+      "heading": "Already marks something unexpectedly early",
+      "body": "Use already when an action has happened, or a state exists, earlier than someone expected. It commonly appears after the first auxiliary, before a simple main verb, or after be; it can also come at the end. Unlike yet, already is natural in ordinary positive statements, and it can appear in questions expressing surprise.",
+      "example": "You have already finished the report? I thought it would take until Friday."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Situation continuing versus situation changed",
+      "left": {
+        "label": "Still",
+        "example": "Noah still lives near the harbour.",
+        "note": "His home situation has not changed."
+      },
+      "right": {
+        "label": "Not ... any more",
+        "example": "Noah does not live near the harbour any more.",
+        "note": "He lived there before, but he has moved."
+      }
+    },
+    {
+      "title": "Waiting normally versus unexpected delay",
+      "left": {
+        "label": "Not ... yet",
+        "example": "The technician has not called yet.",
+        "note": "The call is pending; this can be a neutral status update."
+      },
+      "right": {
+        "label": "Still ... not",
+        "example": "The technician still has not called.",
+        "note": "The delay feels significant or unexpected."
+      }
+    },
+    {
+      "title": "Expected but pending versus unexpectedly complete",
+      "left": {
+        "label": "Yet",
+        "example": "Has the interview started yet?",
+        "note": "The speaker is checking whether the expected event has begun."
+      },
+      "right": {
+        "label": "Already",
+        "example": "The interview has already started.",
+        "note": "The start happened earlier than anticipated."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The bakery is still open, so we can buy bread before it closes.",
+      "note": "Still describes a condition that continues."
+    },
+    {
+      "sentence": "We no longer print every document; most records are electronic now.",
+      "note": "No longer sits before the main verb print and marks a changed practice."
+    },
+    {
+      "sentence": "I have not chosen a course yet, but I am comparing several options.",
+      "note": "Yet marks a decision that is still pending."
+    },
+    {
+      "sentence": "The flight was due at six, but the passengers are already boarding at five thirty.",
+      "note": "Already expresses surprise that boarding has begun early."
+    },
+    {
+      "sentence": "The builders still have not repaired the entrance, despite several reminders.",
+      "note": "Still with a negative highlights the unexpectedly long wait."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "My aunt no more works at that school.",
+      "correct": "My aunt no longer works at that school.",
+      "why": "For a discontinued situation, standard English uses no longer before the main verb."
+    },
+    {
+      "incorrect": "We do not need that old printer still.",
+      "correct": "We do not need that old printer any more.",
+      "why": "The meaning is that the need has ended, so put any more after the negative clause."
+    },
+    {
+      "incorrect": "Have you sent the application already yet?",
+      "correct": "Have you sent the application yet?",
+      "why": "A neutral check of whether an expected action has happened uses yet; combining it with already here is redundant."
+    },
+    {
+      "incorrect": "The guests have already arrived yet.",
+      "correct": "The guests have already arrived.",
+      "why": "Already is sufficient for this affirmative statement about an earlier-than-expected arrival; remove the unnecessary yet."
+    }
+  ],
+  "studyTips": [
+    "Write two opposite updates about one familiar routine: I still do it versus I do not do it any more.",
+    "When reporting a pending task, use not ... yet for a neutral update and still ... not only when the delay is important.",
+    "Practise the timeline: before now and continuing = still; stopped = no longer; pending = yet; earlier than expected = already."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Lena began volunteering last year and continues every Saturday. Which sentence communicates that nothing has changed?",
+      "choices": [
+        "Lena already volunteers on Saturdays.",
+        "Lena still volunteers on Saturdays.",
+        "Lena does not volunteer on Saturdays any more."
+      ],
+      "answerIndex": 1,
+      "feedback": "Still marks the continuation of a regular activity from the past to the present."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The gallery used to open on Mondays, but it is closed every Monday now. Choose the accurate update.",
+      "choices": [
+        "The gallery does not open on Mondays any more.",
+        "The gallery has not opened on Monday yet.",
+        "The gallery still opens on Mondays."
+      ],
+      "answerIndex": 0,
+      "feedback": "Not ... any more indicates that the former Monday opening schedule has ended."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "You expect a package, but it has not arrived. Which is the most neutral status update?",
+      "choices": [
+        "The package has not arrived already.",
+        "The package no longer arrives.",
+        "The package has not arrived yet."
+      ],
+      "answerIndex": 2,
+      "feedback": "Yet naturally reports that an expected arrival has not happened up to now."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "You expected a friend to need an hour, but she finishes in ten minutes. What would you say?",
+      "choices": [
+        "You still finished!",
+        "You have already finished!",
+        "You have not finished yet!"
+      ],
+      "answerIndex": 1,
+      "feedback": "Already expresses surprise that the action happened earlier than expected."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The library began renovating last week, and the work continues today. The library is ___ being renovated. (one word expressing continuation)",
+      "acceptedAnswers": [
+        "still"
+      ],
+      "feedback": "Still shows that the renovation has not finished."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The factory stopped producing paper tickets last year. It ___ prints paper tickets. (use the two-word expression meaning not any more)",
+      "acceptedAnswers": [
+        "no longer"
+      ],
+      "feedback": "No longer precedes the ordinary main verb prints and marks a discontinued practice."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The exam results are expected tomorrow; they have not been published ___. (one word for an expected event that is pending)",
+      "acceptedAnswers": [
+        "yet"
+      ],
+      "feedback": "Yet belongs at the end of this negative statement about the anticipated results."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "I expected a long wait, but the nurse has ___ called my name. (one word showing an unexpectedly early event)",
+      "acceptedAnswers": [
+        "already"
+      ],
+      "feedback": "Already after has shows that the call came sooner than the speaker expected."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct only the discontinued-habit expression: I do not collect old coins no more.",
+      "acceptedAnswers": [
+        "I do not collect old coins any more.",
+        "I do not collect old coins anymore."
+      ],
+      "feedback": "In standard English, use not ... any more or not ... anymore rather than not ... no more."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the word order by moving only still: The restaurant is serving still dinner at nine.",
+      "acceptedAnswers": [
+        "The restaurant is still serving dinner at nine."
+      ],
+      "feedback": "With is serving, still normally follows the auxiliary is and precedes serving."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the final word for a neutral question about a pending delivery: Has the parcel arrived still?",
+      "acceptedAnswers": [
+        "Has the parcel arrived yet?"
+      ],
+      "feedback": "Yet, not still, is natural at the end of a neutral question checking an expected arrival."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct by moving only already to the usual middle position: We have booked already the train tickets.",
+      "acceptedAnswers": [
+        "We have already booked the train tickets."
+      ],
+      "feedback": "Already goes after the auxiliary have and before the past participle booked."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Your neighbour has lived in the same apartment for five years and lives there now. Say one sentence beginning \"My neighbour\" and using \"still lives\" and \"in the same apartment\".",
+      "acceptedAnswers": [
+        "My neighbour still lives in the same apartment."
+      ],
+      "feedback": "Still before lives expresses an unchanged home situation."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Transform the discontinued habit without changing the subject or activity: \"I used to play chess after school, but I stopped.\" Begin with \"I do not\" and end with \"any more\".",
+      "acceptedAnswers": [
+        "I do not play chess after school any more."
+      ],
+      "feedback": "Not ... any more means the former habit has ended."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "A colleague asks whether the report has arrived. It is expected but has not arrived. Reply with one sentence beginning \"The report\" and ending \"yet\". Use \"has not arrived\".",
+      "acceptedAnswers": [
+        "The report has not arrived yet."
+      ],
+      "feedback": "Yet belongs at the end of this negative status update."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You are surprised that Sophie has finished the task much earlier than expected. Say a sentence beginning \"Sophie has\" and using \"already finished the task\".",
+      "acceptedAnswers": [
+        "Sophie has already finished the task."
+      ],
+      "feedback": "Already follows has and stresses that the task ended unexpectedly early."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Rewrite \"Dylan does not work at the cinema any longer\" with \"no longer\". Begin with \"Dylan\" and keep every other fact.",
+      "acceptedAnswers": [
+        "Dylan no longer works at the cinema."
+      ],
+      "feedback": "No longer goes before works, and the main verb takes -s with Dylan."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You have waited two weeks for a reply and are frustrated. Say \"They have not replied yet\" using \"still\" to express the frustration. Begin with \"They\".",
+      "acceptedAnswers": [
+        "They still have not replied.",
+        "They still haven't replied."
+      ],
+      "feedback": "Still before the negative helper emphasizes the unexpectedly long wait."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A friend asks whether the museum is closed now. It remains open. Answer with a complete sentence beginning \"The museum\" and using \"is still open\".",
+      "acceptedAnswers": [
+        "The museum is still open."
+      ],
+      "feedback": "Still follows is and confirms the museum remains open."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences using these facts in order. First: the engineer / not finish / the draft / yet. Second: the manager / already approve / the budget. Use the present perfect with has, begin with \"The engineer\" and \"The manager\", and keep the supplied nouns and verbs.",
+      "acceptedAnswers": [
+        "The engineer has not finished the draft yet. The manager has already approved the budget.",
+        "The engineer hasn't finished the draft yet. The manager has already approved the budget."
+      ],
+      "feedback": "Has not finished yet shows an expected task is pending, while has already approved describes a completed decision."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I used to take the bus every morning, but I do not take it any more.",
+      "prompt": "What has changed for the speaker?",
+      "choices": [
+        "They have stopped using the bus.",
+        "They still use the bus daily.",
+        "They have never travelled by bus."
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker used to travel by bus but no longer does so. The audio does not say how they travel now."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I checked my inbox twice this morning, but the confirmation email has not arrived yet.",
+      "prompt": "What is the speaker still waiting for?",
+      "choices": [
+        "A train to leave.",
+        "An email to arrive.",
+        "A colleague to phone."
+      ],
+      "answerIndex": 1,
+      "feedback": "The message has not arrived yet, so the expected email is pending."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The players are still on the field, although the match ended ten minutes ago.",
+      "prompt": "Type the single word heard after \"are\" that shows the situation continues.",
+      "acceptedAnswers": [
+        "still"
+      ],
+      "feedback": "Still follows are and indicates the players remain on the field."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The party starts at eight, but our first guests have already arrived at seven.",
+      "prompt": "Why does the speaker sound surprised?",
+      "choices": [
+        "The guests are unusually early.",
+        "The guests are arriving tomorrow.",
+        "The guests have decided not to visit."
+      ],
+      "answerIndex": 0,
+      "feedback": "Already shows that the guests arrived ahead of the expected time."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I reported the broken door three weeks ago, and they still have not fixed it.",
+      "prompt": "What is the speaker implying about the repair?",
+      "choices": [
+        "It was completed ahead of schedule.",
+        "It was cancelled permanently.",
+        "The delay is becoming frustrating."
+      ],
+      "answerIndex": 2,
+      "feedback": "Still have not fixed signals irritation that the problem remains unresolved."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "That corner shop sold newspapers for years, but it no longer sells them.",
+      "prompt": "Which description is true now?",
+      "choices": [
+        "The shop has never sold newspapers.",
+        "The shop used to sell newspapers but has stopped.",
+        "The shop will begin selling newspapers today."
+      ],
+      "answerIndex": 1,
+      "feedback": "No longer signals that the former service has ended."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "After changing jobs, Amelia no longer needs to drive into the city.",
+      "prompt": "Type the two-word expression heard just before \"needs\" that shows a change from the past.",
+      "acceptedAnswers": [
+        "no longer"
+      ],
+      "feedback": "No longer comes before needs and means the need has ended."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Have the students submitted their final projects yet?",
+      "prompt": "Type the final word heard after \"submitted\" that checks whether an expected task is complete.",
+      "acceptedAnswers": [
+        "yet"
+      ],
+      "feedback": "Yet at the end asks if the expected submission has happened."
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u078",
+  "title": "Proper names: Streets, buildings and organisations",
+  "level": "B2",
+  "topicId": "eg2-u078-named-buildings-streets-organisations",
+  "summary": "Use or omit the in names of streets, parks, stations, universities, cultural buildings, shops, newspapers, organisations and companies. Notice how descriptive names and names containing of affect article choice.",
+  "learningObjectives": [
+    "Use most names of streets, public squares, parks and place- or person-named institutions without the.",
+    "Use the with many descriptive hotel, museum, theatre and landmark names.",
+    "Choose between the University of Oxford and Oxford University-style naming patterns.",
+    "Distinguish possessive business and church names from newspaper, organisation and company names."
+  ],
+  "explanation": [
+    {
+      "heading": "Streets, squares and parks",
+      "body": "Most individual street, road, avenue, square and park names stand without the. The name itself identifies the place: Willow Street, Market Square and Riverside Park. This rule applies to many official place names, not to every phrase referring to a street or a park; we can still say the street or the park when no proper name follows.",
+      "example": "The new café is on Willow Street, close to Riverside Park."
+    },
+    {
+      "heading": "Stations, airports and institutions named after people or places",
+      "body": "When a place or person name comes before words such as Station, Airport, University, Cathedral or Castle, the full name is usually used without the. A plain category description, such as the airport, still takes the when a particular location is meant. The identity of the first part of the official name is important.",
+      "example": "We arranged to meet at Paddington Station instead of at the airport."
+    },
+    {
+      "heading": "Descriptive names for hotels, museums and theatres",
+      "body": "Many hotels, museums, galleries, theatres and famous buildings use the as part of their normal name. A descriptive adjective or general noun commonly appears at the beginning: the Harbour Hotel or the Natural History Museum. We may sometimes shorten a familiar venue name while keeping the article, such as the Harbour for the Harbour Hotel.",
+      "example": "The school booked an afternoon visit to the Natural History Museum."
+    },
+    {
+      "heading": "Names containing of",
+      "body": "Place and institution names built with of very often take the, especially universities, museums and historic structures. Contrast the University of Oxford with Oxford University: changing the name structure also changes the normal article choice. Treat these as established naming patterns rather than applying the to every proper name.",
+      "example": "Maya hopes to study at the University of Oxford after finishing school."
+    },
+    {
+      "heading": "Possessive names, publications and organisations",
+      "body": "Shops, restaurants and churches named with a personal possessive, such as Rossi’s Bakery or St Mary’s Church, normally omit the. Many newspaper names and organisations take the, as in the Guardian and the World Health Organization. By contrast, most company and airline names, such as Honda and Qantas, do not normally use the. There are exceptions, so check the conventional form of unfamiliar names.",
+      "example": "The Guardian reported the announcement, and Honda issued a statement."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Named street versus named cultural venue",
+      "left": {
+        "label": "Street name",
+        "example": "Our office is on Willow Street.",
+        "note": "Most named streets omit the."
+      },
+      "right": {
+        "label": "Theatre name",
+        "example": "The play is at the Rose Theatre.",
+        "note": "This descriptive theatre name normally includes the."
+      }
+    },
+    {
+      "title": "Two ways to name a university",
+      "left": {
+        "label": "Place name first",
+        "example": "She lectures at Oxford University.",
+        "note": "A place-name-first university expression normally has no the."
+      },
+      "right": {
+        "label": "Name containing of",
+        "example": "She lectures at the University of Oxford.",
+        "note": "The is normally included before a university name structured with of."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The travellers waited at Heathrow Airport.",
+      "note": "A specific airport named with a place name normally has no the."
+    },
+    {
+      "sentence": "Our class toured the Royal Albert Hall.",
+      "note": "The is normally part of this named performance venue."
+    },
+    {
+      "sentence": "His office is next to Windsor Castle.",
+      "note": "Castle preceded by its place name does not usually take the."
+    },
+    {
+      "sentence": "They stopped for lunch at Rossi’s Bakery.",
+      "note": "A business name ending in a personal possessive generally has no the."
+    },
+    {
+      "sentence": "She works for Qantas and reads the Guardian online.",
+      "note": "An airline name generally omits the; this newspaper name takes it."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "We turned left onto the Willow Street.",
+      "correct": "We turned left onto Willow Street.",
+      "why": "A named street normally stands without the."
+    },
+    {
+      "incorrect": "Our tickets are for Rose Theatre tonight.",
+      "correct": "Our tickets are for the Rose Theatre tonight.",
+      "why": "A descriptive theatre name typically needs the."
+    },
+    {
+      "incorrect": "She applied to University of Oxford.",
+      "correct": "She applied to the University of Oxford.",
+      "why": "Use the with this formal university name containing of."
+    },
+    {
+      "incorrect": "We waited outside the St Mary’s Church.",
+      "correct": "We waited outside St Mary’s Church.",
+      "why": "Church names built with St plus a personal name generally omit the."
+    }
+  ],
+  "studyTips": [
+    "When you encounter a venue, identify whether the first part is a person/place name or a descriptive label; that often predicts the article.",
+    "Compare place-first and of-pattern names aloud, for example Oxford University versus the University of Oxford.",
+    "Keep separate flashcards for newspapers and organisations that take the and company or airline names that usually omit it."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Our office is on ___, which is the official name of the street.",
+      "choices": [
+        "the Willow Street",
+        "Willow Street",
+        "a Willow Street"
+      ],
+      "answerIndex": 1,
+      "feedback": "Most names of streets have no the: Willow Street."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The exhibition opens next week at ___, a museum named descriptively.",
+      "choices": [
+        "the City History Museum",
+        "City History Museum",
+        "a City History Museum"
+      ],
+      "answerIndex": 0,
+      "feedback": "A descriptively named museum normally includes the."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "They flew into ___ and took a train towards the city centre.",
+      "choices": [
+        "the Bristol Airport",
+        "the Airport Bristol",
+        "Bristol Airport"
+      ],
+      "answerIndex": 2,
+      "feedback": "A name formed with a place name plus Airport is normally used without the."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The college has a formal name built with of: she studies at ___.",
+      "choices": [
+        "University of Oxford",
+        "the University of Oxford",
+        "the Oxford University"
+      ],
+      "answerIndex": 1,
+      "feedback": "The University of Oxford uses the because the formal institution name contains of."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The café is on ___ near the river. (Complete the street name King Street without an article.)",
+      "acceptedAnswers": [
+        "King Street"
+      ],
+      "feedback": "The named street stands without the."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The tourists booked a room at ___ for two nights. (Hotel name: Harbour Hotel; include the usual article.)",
+      "acceptedAnswers": [
+        "the Harbour Hotel"
+      ],
+      "feedback": "A descriptive hotel name ordinarily includes the."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The award ceremony will take place at ___ in London. (Name: Royal Albert Hall; include the article.)",
+      "acceptedAnswers": [
+        "the Royal Albert Hall"
+      ],
+      "feedback": "The Royal Albert Hall is a named performance venue that includes the."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Her degree comes from ___. (Formal name: University of Edinburgh; add its normal article.)",
+      "acceptedAnswers": [
+        "the University of Edinburgh"
+      ],
+      "feedback": "Use the with formal university names built with of."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We met outside the Paddington Station after the concert.",
+      "acceptedAnswers": [
+        "We met outside Paddington Station after the concert."
+      ],
+      "feedback": "Named railway stations such as Paddington Station normally omit the."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We saw an exhibition at National Maritime Museum yesterday.",
+      "acceptedAnswers": [
+        "We saw an exhibition at the National Maritime Museum yesterday."
+      ],
+      "feedback": "A descriptive museum name normally needs the."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She works at University of Glasgow as a researcher.",
+      "acceptedAnswers": [
+        "She works at the University of Glasgow as a researcher."
+      ],
+      "feedback": "The University of Glasgow has an of-name structure requiring the."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The St Andrew’s Church is on the next street.",
+      "acceptedAnswers": [
+        "St Andrew’s Church is on the next street."
+      ],
+      "feedback": "Names of churches that include St and a saint’s name generally have no the."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make one complete past-simple statement from these facts: the guests; arrive at; Bristol Airport; before noon. Begin “The guests”.",
+      "acceptedAnswers": [
+        "The guests arrived at Bristol Airport before noon."
+      ],
+      "feedback": "The place-name-first airport name omits the."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Correct only the article error and say the full sentence: “We walked along the Oak Street after lunch.”",
+      "acceptedAnswers": [
+        "We walked along Oak Street after lunch."
+      ],
+      "feedback": "Oak Street is a proper street name without the."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Describe a museum visit in the past. Use exactly these facts: we; visit; the Natural History Museum; yesterday. Start with “We”.",
+      "acceptedAnswers": [
+        "We visited the Natural History Museum yesterday."
+      ],
+      "feedback": "This descriptive museum name needs the."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Make one statement about two different universities. Begin “She works” and say “at Oxford University”; then join with “and he works” and say “at the University of Leeds”.",
+      "acceptedAnswers": [
+        "She works at Oxford University, and he works at the University of Leeds."
+      ],
+      "feedback": "Place-first university names can omit the; university names with of normally require it."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Report what a named newspaper published about a company. Begin with “The Guardian” and use “published a report about Honda”.",
+      "acceptedAnswers": [
+        "The Guardian published a report about Honda."
+      ],
+      "feedback": "The Guardian is a newspaper name with the; Honda is a company name without it."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Explain where Sam buys pastries. Begin “Sam buys pastries” and finish “at Rossi’s Bakery”.",
+      "acceptedAnswers": [
+        "Sam buys pastries at Rossi’s Bakery."
+      ],
+      "feedback": "A possessive shop name normally omits the."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Produce exactly two sentences with these facts, using the past simple. First: we; meet at Paddington Station. Second: then; we; visit the Natural History Museum. Begin each sentence with “We”.",
+      "acceptedAnswers": [
+        "We met at Paddington Station. We then visited the Natural History Museum."
+      ],
+      "feedback": "Paddington Station omits the, but the museum’s descriptive name includes it."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Describe where a named church is. Begin “St Mary’s Church” and end “is near the Rose Theatre”.",
+      "acceptedAnswers": [
+        "St Mary’s Church is near the Rose Theatre."
+      ],
+      "feedback": "The church’s saint-based name omits the; the theatre’s descriptive name takes it."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The group will meet outside Riverside Park, not at the Harbour Hotel.",
+      "prompt": "Where should the group meet?",
+      "choices": [
+        "At the Harbour Hotel.",
+        "Inside the museum.",
+        "Outside Riverside Park."
+      ],
+      "answerIndex": 2,
+      "feedback": "The meeting point is outside Riverside Park, specifically not the hotel."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Amelia is studying at the University of Glasgow, while her brother attends Oxford University.",
+      "prompt": "Where is Amelia studying?",
+      "choices": [
+        "At the University of Glasgow.",
+        "At Oxford University.",
+        "At a railway station."
+      ],
+      "answerIndex": 0,
+      "feedback": "Amelia studies at the university named with of; her brother attends Oxford University."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The award ceremony takes place at the Grand Theatre on Friday evening.",
+      "prompt": "Type the complete theatre name immediately after “at”, including its article.",
+      "acceptedAnswers": [
+        "the Grand Theatre"
+      ],
+      "feedback": "The named theatre is the Grand Theatre, with the."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Please deliver the equipment to Heathrow Airport, not to the National Gallery.",
+      "prompt": "Where should the equipment be delivered?",
+      "choices": [
+        "To the National Gallery.",
+        "To Heathrow Airport.",
+        "To the Royal Opera House."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker specifies Heathrow Airport as the delivery destination."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I read the Guardian on the train, then sent the article to my colleague at Samsung.",
+      "prompt": "Which publication did the speaker read?",
+      "choices": [
+        "A magazine published by Samsung.",
+        "A university newsletter.",
+        "The Guardian."
+      ],
+      "answerIndex": 2,
+      "feedback": "The newspaper mentioned is the Guardian; Samsung is the company where the colleague works."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We walked down Mill Street, passed St Agnes’s Church, and finally reached the City Museum.",
+      "prompt": "Which place was the final destination?",
+      "choices": [
+        "The City Museum.",
+        "Mill Street.",
+        "St Agnes’s Church."
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker walked along the street and passed the church before reaching the museum."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Her parents booked a room at the Riverside Hotel for Saturday night.",
+      "prompt": "Type the complete hotel name immediately after “at”, including its article.",
+      "acceptedAnswers": [
+        "the Riverside Hotel"
+      ],
+      "feedback": "The audio says the Riverside Hotel, using the with a descriptive hotel name."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The press release came from the World Health Organization this morning.",
+      "prompt": "Type the complete organisation name directly after “from”, including the article.",
+      "acceptedAnswers": [
+        "the World Health Organization"
+      ],
+      "feedback": "This organisation name is spoken with the definite article."
+    }
+  ]
+}

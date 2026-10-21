@@ -1,0 +1,408 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u026",
+  "title": "Can, could and be able to: ability and success",
+  "level": "B1",
+  "topicId": "eg2-u026-can-could-be-able-to",
+  "summary": "Use can for ability, permission and possibility; could for general past ability, permission and past perception; and be able to after other verbs and auxiliaries. Distinguish past ability from a successful action on one specific occasion.",
+  "learningObjectives": [
+    "Express present ability, permission and possibility with can or cannot plus a base verb.",
+    "Use could and could not for general past abilities, permissions and sensory experiences.",
+    "Distinguish general past ability with could from a specific past achievement with was/were able to or managed to.",
+    "Use appropriate forms of be able to after infinitives, perfect auxiliaries and modal verbs."
+  ],
+  "explanation": [
+    {
+      "heading": "Can and cannot in the present",
+      "body": "Use can + base verb to describe an ability, something allowed or something possible. Can has the same form for every subject, and cannot (can’t) gives the negative. Do not add to between can and the main verb. Context determines whether can is about skill, permission or practical possibility.",
+      "example": "Visitors can borrow audio guides at the entrance."
+    },
+    {
+      "heading": "Could for general past ability and permission",
+      "body": "Could is often the past form of can. Use it for a skill or general possibility that existed over a period in the past, or for past permission. Could does not normally report whether someone successfully completed a difficult action on one particular occasion. Use couldn’t for an inability or unsuccessful attempt.",
+      "example": "When my aunt was younger, she could cycle for hours."
+    },
+    {
+      "heading": "Past perception with could",
+      "body": "Could commonly appears with verbs of perception and thought such as see, hear, smell, feel, taste, understand and remember when describing an experience in the past. It can refer to what someone perceived in a particular situation: We could hear music through the wall. This use differs from claiming success at a one-off task.",
+      "example": "From the upstairs window, we could see the boats on the river."
+    },
+    {
+      "heading": "Successful actions on a particular occasion",
+      "body": "For a successful action in one specific past situation, use was/were able to or managed to. These forms show that the person actually succeeded, rather than merely had the skill. In negative statements, couldn’t works for both general and specific inability. Some natural uses of could occur in special contexts, but managed to is a safe, clear choice for a completed difficult achievement.",
+      "example": "Despite the traffic, the driver managed to reach the airport on time."
+    },
+    {
+      "heading": "Be able to in other grammatical forms",
+      "body": "Can has no infinitive or past participle, so use be able to in structures that require them: want to be able to, might be able to and have been able to. The auxiliary or preceding verb controls the form of be. Do not say will can or have can. In ordinary present statements, can is usually shorter and more natural than am/is/are able to.",
+      "example": "The new interns will be able to access the workshop after training."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A past skill versus one successful achievement",
+      "left": {
+        "label": "General past ability",
+        "example": "At university, Omar could solve complex puzzles quickly.",
+        "note": "Could states what Omar was generally capable of."
+      },
+      "right": {
+        "label": "Specific success",
+        "example": "Yesterday Omar managed to solve the final puzzle.",
+        "note": "Managed to shows he actually succeeded in that particular task."
+      }
+    },
+    {
+      "title": "Present ability versus ability with another auxiliary",
+      "left": {
+        "label": "Can",
+        "example": "Leah can use the scanner.",
+        "note": "Can directly precedes the base verb for an ability now."
+      },
+      "right": {
+        "label": "Be able to",
+        "example": "Leah has been able to use the scanner since her training.",
+        "note": "The present perfect needs been able to rather than can."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "You can use the meeting room after five.",
+      "note": "Can expresses permission in this context."
+    },
+    {
+      "sentence": "My grandfather could read music before he was ten.",
+      "note": "Could reports a skill possessed in the past."
+    },
+    {
+      "sentence": "Even from the back row, we could hear every word.",
+      "note": "Could hear describes past perception on one occasion."
+    },
+    {
+      "sentence": "The door was jammed, but the caretaker was able to open it.",
+      "note": "Was able to identifies successful action despite a particular difficulty."
+    },
+    {
+      "sentence": "I hope to be able to drive again next month.",
+      "note": "The infinitive to be able to is required after hope, not to can."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "My sister can to repair bicycles.",
+      "correct": "My sister can repair bicycles.",
+      "why": "Can takes the base verb repair directly without to."
+    },
+    {
+      "incorrect": "I have can contact the library this week.",
+      "correct": "I have been able to contact the library this week.",
+      "why": "After have, use the participial construction been able to, not can."
+    },
+    {
+      "incorrect": "After several tries, they managed unlock the gate.",
+      "correct": "After several tries, they managed to unlock the gate.",
+      "why": "Managed must be followed by to + the base verb."
+    },
+    {
+      "incorrect": "My parents will can visit next month.",
+      "correct": "My parents will be able to visit next month.",
+      "why": "After will, use be able to, because can has no infinitive form."
+    }
+  ],
+  "studyTips": [
+    "For each sentence with can, identify whether it expresses ability, permission or practical possibility; do not rely on the form alone.",
+    "Build pairs about the past: could for a longstanding skill, then managed to for one actual success.",
+    "Practise changing can into a perfect or future construction: can attend → have been able to attend → will be able to attend."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Marta is a qualified interpreter. She ___ speak three languages fluently.",
+      "choices": [
+        "can",
+        "is can",
+        "can to"
+      ],
+      "answerIndex": 0,
+      "feedback": "Can + speak describes a present ability. No to or extra auxiliary is needed."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The lock was badly damaged, but the team ___ open it after an hour of work.",
+      "choices": [
+        "could",
+        "managed to",
+        "can"
+      ],
+      "answerIndex": 1,
+      "feedback": "Managed to reports a completed success in one specific difficult past situation."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Students may borrow these laptops from the library. Which sentence expresses that permission correctly?",
+      "choices": [
+        "Students can to borrow these laptops.",
+        "Students are can borrow these laptops.",
+        "Students can borrow these laptops."
+      ],
+      "answerIndex": 2,
+      "feedback": "Can + the base verb borrow expresses that borrowing is permitted."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Since the operation, Nina hasn’t ___ lift heavy boxes.",
+      "choices": [
+        "could",
+        "can",
+        "been able to"
+      ],
+      "answerIndex": 2,
+      "feedback": "After hasn’t, use been able to; can and could do not have a past participle."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "When he was sixteen, my brother ___ (swim) two kilometres easily. Use could for general past ability.",
+      "acceptedAnswers": [
+        "could swim"
+      ],
+      "feedback": "Could swim describes what he was generally capable of in the past."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The corridor was full of smoke, but everyone ___ (escape) through a side door. Use was able to.",
+      "acceptedAnswers": [
+        "was able to escape"
+      ],
+      "feedback": "Was able to escape expresses that everyone succeeded in escaping in this particular event."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "All applicants must ___ (operate) this machine safely. Use be able to.",
+      "acceptedAnswers": [
+        "be able to operate"
+      ],
+      "feedback": "After must, use be able to + base verb: must be able to operate."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "I ___ (not / reach) the manager yesterday despite six phone calls. Use could.",
+      "acceptedAnswers": [
+        "couldn't reach",
+        "could not reach"
+      ],
+      "feedback": "Couldn’t reach reports that the attempt failed yesterday."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My cousin can to understand the instructions in French.",
+      "acceptedAnswers": [
+        "My cousin can understand the instructions in French."
+      ],
+      "feedback": "Can is directly followed by the base verb understand; do not insert to."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The volunteers were able rescue the dog from the flooded garage.",
+      "acceptedAnswers": [
+        "The volunteers were able to rescue the dog from the flooded garage."
+      ],
+      "feedback": "Was/were able requires to before the base verb rescue."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: After three attempts, the technician managed restart the computer.",
+      "acceptedAnswers": [
+        "After three attempts, the technician managed to restart the computer."
+      ],
+      "feedback": "Managed to + base verb describes successful completion on a particular occasion."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She hasn’t can climb stairs since the injury.",
+      "acceptedAnswers": [
+        "She hasn’t been able to climb stairs since the injury."
+      ],
+      "feedback": "A present perfect construction needs has not been able to, not has not can."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Nora has the skill to play the violin. Say one sentence beginning “Nora” and using can.",
+      "acceptedAnswers": [
+        "Nora can play the violin."
+      ],
+      "feedback": "Can + base verb expresses Nora’s present ability."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "When Sam was younger, he had the general ability to run ten kilometres. Say one sentence beginning “Sam” using could.",
+      "acceptedAnswers": [
+        "Sam could run ten kilometres when he was younger."
+      ],
+      "feedback": "Could describes a general ability in a past period."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "The door was stuck yesterday, but the caretaker succeeded in opening it. Begin with “The caretaker” and use “managed to open the stuck door yesterday”.",
+      "acceptedAnswers": [
+        "The caretaker managed to open the stuck door yesterday."
+      ],
+      "feedback": "Managed to indicates an actual successful action on a specific occasion."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Noah tried to contact his colleague yesterday but failed. Begin with “Noah” and use couldn’t.",
+      "acceptedAnswers": [
+        "Noah couldn't contact his colleague yesterday.",
+        "Noah could not contact his colleague yesterday."
+      ],
+      "feedback": "Couldn’t indicates failure to reach the colleague on that past occasion."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "The job requires an ability to use spreadsheets. Make one sentence beginning “Applicants must” and ending “use spreadsheets”.",
+      "acceptedAnswers": [
+        "Applicants must be able to use spreadsheets."
+      ],
+      "feedback": "After must, the grammatical construction is be able to, not can."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Visitors have permission to use the lift. Say one sentence beginning “Visitors” using can.",
+      "acceptedAnswers": [
+        "Visitors can use the lift."
+      ],
+      "feedback": "Can expresses permission to use the lift."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the modal phrase and say the complete sentence: “We will can meet on Thursday.”",
+      "acceptedAnswers": [
+        "We will be able to meet on Thursday.",
+        "We'll be able to meet on Thursday."
+      ],
+      "feedback": "Use will be able to because can cannot follow will."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences. First: as a child, Nora / could / skate well. Second: last Saturday, she / managed to / finish the race. Begin with “As a child” and “Last Saturday”.",
+      "acceptedAnswers": [
+        "As a child, Nora could skate well. Last Saturday, she managed to finish the race."
+      ],
+      "feedback": "Could describes an old skill; managed to describes one completed event."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "prompt": "What does could communicate about the speaker’s mother?",
+      "choices": [
+        "She succeeded at a particular concert yesterday.",
+        "She had musical abilities when she was young.",
+        "She can no longer hear music."
+      ],
+      "answerIndex": 1,
+      "feedback": "Could describes general ability during an earlier stage of life.",
+      "audioText": "When my mother was a teenager, she could play the piano and the flute."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "prompt": "What happened despite the damaged bridge?",
+      "choices": [
+        "The crew reached the village successfully.",
+        "The crew decided never to travel.",
+        "The crew could not find the village."
+      ],
+      "answerIndex": 0,
+      "feedback": "Managed to reach confirms success in one difficult past situation.",
+      "audioText": "The storm damaged the bridge, but the rescue crew managed to reach the village before sunset."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "prompt": "Type the two-word verb phrase immediately after “we”.",
+      "acceptedAnswers": [
+        "could hear"
+      ],
+      "feedback": "Could hear is a natural past-perception construction.",
+      "audioText": "From our balcony, we could hear music coming from the square."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "prompt": "What is the speaker allowing?",
+      "choices": [
+        "The listener can buy the umbrella.",
+        "The listener can keep the umbrella forever.",
+        "The listener can borrow the umbrella temporarily."
+      ],
+      "answerIndex": 2,
+      "feedback": "Can expresses permission, with a request to return the umbrella.",
+      "audioText": "You can borrow my umbrella, but please bring it back before dinner."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "prompt": "What has changed for the staff?",
+      "choices": [
+        "They lost permission to process forms.",
+        "They have gained the ability to process forms faster.",
+        "They no longer work with forms."
+      ],
+      "answerIndex": 1,
+      "feedback": "Have been able to describes an ability available over a period up to now.",
+      "audioText": "Since the new software arrived, the staff have been able to process forms much faster."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "prompt": "Was the speaker successful in opening the window?",
+      "choices": [
+        "Yes, on the first attempt.",
+        "Yes, after several attempts.",
+        "No, the attempts did not work."
+      ],
+      "answerIndex": 2,
+      "feedback": "Couldn’t open expresses failure in a particular past situation.",
+      "audioText": "I couldn’t open the window this morning, although I tried several times."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "prompt": "Type the negative verb phrase immediately after “I”, ending with “sleep”.",
+      "acceptedAnswers": [
+        "haven't been able to sleep",
+        "have not been able to sleep"
+      ],
+      "feedback": "Have not been able to sleep is the negative present-perfect ability construction.",
+      "audioText": "I haven't been able to sleep well this week because of the noise."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "prompt": "Type the three-word success phrase immediately after “the technician”.",
+      "acceptedAnswers": [
+        "managed to restart"
+      ],
+      "feedback": "Managed to restart expresses a successful specific past effort.",
+      "audioText": "After three tries, the technician managed to restart the server."
+    }
+  ]
+}

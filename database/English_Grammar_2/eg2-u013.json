@@ -1,0 +1,407 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u013",
+  "title": "Present perfect and past simple: present results and past events",
+  "level": "B1",
+  "topicId": "eg2-u013-present-results-past-events",
+  "summary": "Distinguish news and events that matter to the present from events viewed as part of a finished past. Learn how an initial present-perfect announcement is commonly followed by past-simple questions and details.",
+  "learningObjectives": [
+    "Describe an event with a present consequence using the present perfect.",
+    "Use the past simple to report completed past events without implying a current result.",
+    "Introduce recent news naturally, while recognising that the past simple can also report recent events.",
+    "Switch from a present-perfect announcement to past-simple questions about the event and its circumstances."
+  ],
+  "explanation": [
+    {
+      "heading": "Present perfect: what the situation means now",
+      "body": "The present perfect connects an earlier event with the situation at the moment of speaking. It is useful when the important fact is that the event has left a result now. It does not normally tell us exactly when the event took place. Contrast “has disappeared” (the item is missing now) with “disappeared” (the event happened in the past, without stating its present status).",
+      "example": "The entrance code has changed, so the old code no longer works."
+    },
+    {
+      "heading": "Past simple: describe what happened",
+      "body": "Use the past simple when you report an event as something that happened in the past. A past-simple statement can be true even if the situation has subsequently changed. It does not, by itself, tell us whether a result continues now. A subsequent sentence can make the current situation clear.",
+      "example": "The heating failed during the night, but the engineer restored it before breakfast."
+    },
+    {
+      "heading": "Announce new information",
+      "body": "The present perfect is common for giving news or announcing a recently completed development, especially when the speaker wants listeners to consider its present importance. In many contexts a past-simple announcement can also be natural, especially in American English. Do not assume the present perfect is the only possible tense for every recent event.",
+      "example": "The organisers have announced a new date for the concert."
+    },
+    {
+      "heading": "Ask for details using the past simple",
+      "body": "After a speaker introduces an event as news, the conversation often moves to what happened, how it happened, who did it, or where it happened. These follow-up questions normally use the past simple because they examine the event itself, not the current result.",
+      "example": "“I have found the missing photograph.” “Where did you find it?”"
+    },
+    {
+      "heading": "Historical facts are past facts",
+      "body": "Use the past simple for events firmly located in an earlier historical period, especially the achievements or lives of people who are no longer alive. Their influence may continue, but the events belong to a completed past. Specific finished dates are studied in more detail in Unit 14.",
+      "example": "The architect designed several public buildings during her career."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Current result versus a completed episode",
+      "left": {
+        "label": "Present perfect",
+        "example": "The lift has broken down, so we must use the stairs.",
+        "note": "The lift is not working now."
+      },
+      "right": {
+        "label": "Past simple",
+        "example": "The lift broke down last week, but it is working again.",
+        "note": "The breakdown belongs to a past episode; the problem has ended."
+      }
+    },
+    {
+      "title": "An announcement versus a follow-up detail",
+      "left": {
+        "label": "News now",
+        "example": "The committee has approved the proposal.",
+        "note": "A decision is being announced and matters now."
+      },
+      "right": {
+        "label": "Past detail",
+        "example": "How did the committee reach its decision?",
+        "note": "The question asks about how a past event occurred."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The kitchen tap has started leaking, so we have turned off the water.",
+      "note": "The present perfect explains a present problem and its current consequence."
+    },
+    {
+      "sentence": "A tree fell across the path during the storm, but the path is clear again.",
+      "note": "Past simple describes the event without suggesting the blockage continues."
+    },
+    {
+      "sentence": "Researchers have discovered an easier way to test the material.",
+      "note": "Present perfect introduces a new development of present interest."
+    },
+    {
+      "sentence": "“Someone has taken my umbrella.” “Who took it?”",
+      "note": "The first speaker reports a present loss; the question asks for past-event details."
+    },
+    {
+      "sentence": "The painter created these murals more than a century ago.",
+      "note": "A historical achievement is treated as a past event."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The door has locked, so somebody unlocked it and it is open now.",
+      "correct": "The door locked, but somebody has unlocked it and it is open now.",
+      "why": "The opening result, rather than the earlier locking, is the relevant current situation."
+    },
+    {
+      "incorrect": "The famous scientist has received her first award in 1932.",
+      "correct": "The famous scientist received her first award in 1932.",
+      "why": "A dated historical event is expressed with the past simple."
+    },
+    {
+      "incorrect": "“I have damaged the screen.” “How have you damaged it?”",
+      "correct": "“I have damaged the screen.” “How did you damage it?”",
+      "why": "After introducing the problem, ask about the circumstances with the past simple."
+    },
+    {
+      "incorrect": "The snow has melted, but there is still deep snow on every road.",
+      "correct": "The snow melted briefly, but it has fallen again and the roads are covered.",
+      "why": "A present-perfect result should not be presented as continuing when the context states that it has ended."
+    }
+  ],
+  "studyTips": [
+    "After each present-perfect sentence, ask: “What is true now because of this?”",
+    "Practise a two-step conversation: announce news with have/has + past participle, then ask a past-simple question about how it happened.",
+    "For a completed historical event, choose the past simple; do not use the present perfect merely because the event is important today."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The old access code no longer works. The security team ___ it, so we need the new one.",
+      "choices": [
+        "will change",
+        "has changed",
+        "was changing"
+      ],
+      "answerIndex": 1,
+      "feedback": "Has changed explains the code’s present status: it is different now."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The hall was dark for ten minutes during the concert, but the lights are working now. The lights ___ unexpectedly.",
+      "choices": [
+        "have gone out",
+        "were going out",
+        "went out"
+      ],
+      "answerIndex": 2,
+      "feedback": "Went out describes a finished episode; the lights are no longer out."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Breaking news: the organisers ___ a replacement venue. The updated tickets are available now.",
+      "choices": [
+        "have confirmed",
+        "had confirming",
+        "will have confirmed"
+      ],
+      "answerIndex": 0,
+      "feedback": "Have confirmed announces a completed decision with a present result."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "A friend says, “I’ve recovered the missing folder.” Which question asks for a detail of the discovery?",
+      "choices": [
+        "Where have you recovering it?",
+        "Where did you recover it?",
+        "Where will you have recovered it?"
+      ],
+      "answerIndex": 1,
+      "feedback": "After the announcement, where did you recover it? asks for a past detail."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The technician ___ (repair) the scanner, so we can use it again now. Write the present-perfect verb phrase.",
+      "acceptedAnswers": [
+        "has repaired"
+      ],
+      "feedback": "The completed repair has a result now: the scanner is usable."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The artist ___ (paint) the mural during a residency decades ago. Write the past-simple verb.",
+      "acceptedAnswers": [
+        "painted"
+      ],
+      "feedback": "Painted places the creation in a completed historical episode."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We have just heard the news: our neighbour ___ (win) the local award. Write the present-perfect verb phrase.",
+      "acceptedAnswers": [
+        "has won"
+      ],
+      "feedback": "Has won introduces news that is important at the moment of speaking."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "A: “I’ve recovered the lost documents.” B: “Where ___ (you / find) them?” Write the past-simple question phrase after Where.",
+      "acceptedAnswers": [
+        "did you find"
+      ],
+      "feedback": "Did you find asks about the location of the past discovery."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The composer has written her first opera in 1972.",
+      "acceptedAnswers": [
+        "The composer wrote her first opera in 1972."
+      ],
+      "feedback": "A historical event located in 1972 takes the past simple."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “I have just received the parcel.” “Where did the driver left it?”",
+      "acceptedAnswers": [
+        "“I have just received the parcel.” “Where did the driver leave it?”"
+      ],
+      "feedback": "After the announcement, the past-simple follow-up question uses did + the base verb leave, not left."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My grandfather has worked as a sailor when he was young.",
+      "acceptedAnswers": [
+        "My grandfather worked as a sailor when he was young."
+      ],
+      "feedback": "When he was young describes a completed period in the past."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The screen has cracked, but it is completely intact again after yesterday’s replacement.",
+      "acceptedAnswers": [
+        "The screen cracked, but it is completely intact again after yesterday’s replacement."
+      ],
+      "feedback": "The cracked state no longer applies now, so use past simple for the earlier event."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "The building entrance is locked now because someone changed the code. Begin “Someone” and announce this present result using the present perfect.",
+      "acceptedAnswers": [
+        "Someone has changed the code.",
+        "Someone's changed the code."
+      ],
+      "feedback": "Have/has + past participle highlights why the code is different now."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "A power cut happened on Tuesday, but the power has been restored. State only the past event. Start “The power” and end “on Tuesday”.",
+      "acceptedAnswers": [
+        "The power went out on Tuesday."
+      ],
+      "feedback": "Went out treats the power cut as a past event."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "The bakery oven stopped working and is still broken. Say one sentence beginning “The oven” and use “has stopped working”.",
+      "acceptedAnswers": [
+        "The oven has stopped working.",
+        "The oven's stopped working."
+      ],
+      "feedback": "Present perfect gives a problem that matters now."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Announce this new result: your team has won the photography competition. Begin “Our team” and use the present perfect.",
+      "acceptedAnswers": [
+        "Our team has won the photography competition.",
+        "Our team's won the photography competition."
+      ],
+      "feedback": "Has won introduces the result as news."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Your friend says, “I’ve lost the spare key.” Ask a follow-up about the circumstances. Begin “How did” and use “lose it”.",
+      "acceptedAnswers": [
+        "How did you lose it?"
+      ],
+      "feedback": "A past-simple question asks for details after the initial announcement."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A museum opened in 1895. Say a complete historical sentence beginning “The museum” and ending “in 1895”.",
+      "acceptedAnswers": [
+        "The museum opened in 1895."
+      ],
+      "feedback": "Opened refers to a finished historical event."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences using the supplied facts and full forms. First: the printer broke down yesterday. Second: a technician has now repaired it. Begin the second sentence “A technician”.",
+      "acceptedAnswers": [
+        "The printer broke down yesterday. A technician has repaired it."
+      ],
+      "feedback": "The first sentence describes a past failure; the second presents the repair as a current result."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "A colleague announces, “We’ve completed the survey.” Reply with a past-simple question asking who organised it. Say only the question, beginning “Who”.",
+      "acceptedAnswers": [
+        "Who organised it?"
+      ],
+      "feedback": "Ask who organised it to focus on the completed event, not the current result."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We have replaced the corridor lights, so it is much easier to see at night.",
+      "prompt": "What is true about the corridor now?",
+      "choices": [
+        "The corridor is brighter than before.",
+        "The lights will be replaced next year.",
+        "The lights have stopped working again."
+      ],
+      "answerIndex": 0,
+      "feedback": "Have replaced reports a finished change with an observable result now."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Our boat broke down during the trip last month, but we repaired it the next day.",
+      "prompt": "What happened to the boat?",
+      "choices": [
+        "It has remained broken ever since.",
+        "It broke down, then was repaired.",
+        "It will be repaired before a future trip."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker describes a completed breakdown followed by a repair."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The caretaker has replaced the broken lock, so we can enter the hall again.",
+      "prompt": "Type the two-word verb phrase immediately after “The caretaker”.",
+      "acceptedAnswers": [
+        "has replaced"
+      ],
+      "feedback": "The words has replaced announce a repair with a current effect."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I have some news: the library has won a national award, and the staff are celebrating.",
+      "prompt": "Why are the staff celebrating?",
+      "choices": [
+        "The library will close tomorrow.",
+        "The award ceremony was cancelled.",
+        "The library has received an award."
+      ],
+      "answerIndex": 2,
+      "feedback": "Has won introduces news that matters at the moment of speaking."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I have found your scarf. It was under the back seat of the car.",
+      "prompt": "Which statement distinguishes the discovery from the location detail?",
+      "choices": [
+        "The scarf is still missing.",
+        "The scarf has been found; its earlier location was under a seat.",
+        "The scarf will be placed under the seat tomorrow."
+      ],
+      "answerIndex": 1,
+      "feedback": "The present perfect announces the current result; was locates it in the past."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The city built this bridge more than a hundred years ago, but people still use it every day.",
+      "prompt": "What does the speaker say about the bridge?",
+      "choices": [
+        "Its construction was long ago, but it remains useful.",
+        "Its construction has only just begun.",
+        "People stopped using it a century ago."
+      ],
+      "answerIndex": 0,
+      "feedback": "Built places construction in the past, although its effect continues."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The team has solved the connection problem, and customers can log in again.",
+      "prompt": "Type the two-word verb phrase immediately after “The team”.",
+      "acceptedAnswers": [
+        "has solved"
+      ],
+      "feedback": "Has solved presents the now-available connection as the result of the completed work."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I have heard about the exhibition. Who designed it?",
+      "prompt": "Type the single past-simple verb immediately after “Who”.",
+      "acceptedAnswers": [
+        "designed"
+      ],
+      "feedback": "Designed asks for a past-event detail after the initial news."
+    }
+  ]
+}

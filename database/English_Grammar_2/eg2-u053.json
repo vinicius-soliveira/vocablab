@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u053",
+  "title": "Verb + -ing: Actions and Reactions",
+  "level": "B2",
+  "topicId": "eg2-u053-verb-ing-actions-reactions",
+  "summary": "Use an -ing form after verbs such as enjoy, avoid, suggest and deny; understand continuing or postponing an activity, negative -ing forms, people before -ing clauses, and the optional perfect -ing form for earlier completed actions.",
+  "learningObjectives": [
+    "Choose -ing rather than to + infinitive after verbs such as enjoy, mind, suggest, avoid and admit.",
+    "Describe an activity that stops, continues, is delayed or is given up using natural verb + -ing patterns.",
+    "Place a person or object before an -ing form when using verbs such as mind, imagine, stop and keep.",
+    "Use not + -ing and (having + past participle) accurately when the meaning requires them."
+  ],
+  "explanation": [
+    {
+      "heading": "Verbs followed by -ing",
+      "body": "Several verbs treat another activity as their object and take an -ing form, not a to-infinitive. These include enjoy, mind, avoid, consider, imagine, suggest, recommend, admit, deny and risk. Choose the form according to the first verb, even when the second activity is in the future. In this construction, -ing names the activity rather than an action occurring right now.",
+      "example": "The residents recommended installing better lighting outside the building."
+    },
+    {
+      "heading": "Ending, postponing and continuing an activity",
+      "body": "After stop and finish, the -ing form can describe the activity that ends. Give up + -ing means to stop an activity or habit; put off + -ing means to delay it. Keep (on), carry on and go on + -ing describe repetition or continuation. These are verb patterns, not necessarily progressive tenses.",
+      "example": "The organisers put off announcing the results until the following morning."
+    },
+    {
+      "heading": "Putting a person before the -ing action",
+      "body": "Some verbs can be followed by a person or thing and then an -ing clause: mind somebody doing something, imagine somebody doing something, stop somebody doing something, and keep somebody waiting. The person is the doer of the -ing activity. This is different from automatically adding to before every second verb.",
+      "example": "Would you mind us bringing an extra guest?"
+    },
+    {
+      "heading": "Negating an -ing activity",
+      "body": "Place not immediately before the -ing form when the activity itself is negative: enjoy not working, admit not checking, or mind not being included. Contrast this with a negative main verb, which negates the attitude or report rather than the activity. The position of not matters to meaning.",
+      "example": "I enjoy not checking my messages during a weekend away."
+    },
+    {
+      "heading": "Completed actions and alternative reporting patterns",
+      "body": "When an admitted or denied action happened earlier, the ordinary -ing form may be enough; having + past participle can make the earlier completion explicit. For instance, admitted using and admitted having used can both refer to a completed act. Some reporting verbs also allow a that-clause, and suggest or recommend can introduce a clause with a base verb in formal English. Do not assume every -ing verb has the same alternatives.",
+      "example": "The supplier admitted having sent the invoice to the wrong department."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Doing an activity versus delaying it",
+      "left": {
+        "label": "enjoy + -ing",
+        "example": "I enjoy organising community events.",
+        "note": "The activity itself gives the speaker satisfaction."
+      },
+      "right": {
+        "label": "put off + -ing",
+        "example": "We put off organising the event until autumn.",
+        "note": "The activity is postponed, not necessarily abandoned."
+      }
+    },
+    {
+      "title": "An activity versus someone doing it",
+      "left": {
+        "label": "verb + -ing",
+        "example": "The host suggested changing the seating plan.",
+        "note": "The -ing clause names the proposed action."
+      },
+      "right": {
+        "label": "verb + person + -ing",
+        "example": "I cannot imagine the host changing the plan now.",
+        "note": "The person is the subject of the imagined -ing action."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The analyst avoided mentioning confidential figures during the public meeting.",
+      "note": "Avoid takes -ing even though the omitted action would have happened later in the meeting."
+    },
+    {
+      "sentence": "The team carried on testing after the first prototype failed.",
+      "note": "Carry on + -ing means the testing continued."
+    },
+    {
+      "sentence": "She does not mind her colleagues borrowing her reference books.",
+      "note": "Her colleagues is the doer of borrowing inside the -ing clause."
+    },
+    {
+      "sentence": "I appreciate not having to commute every day.",
+      "note": "Not negates the -ing clause that follows the main verb."
+    },
+    {
+      "sentence": "The director denied having approved the extra expenditure.",
+      "note": "Having approved highlights the earlier, completed action being denied."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "They suggested to move the meeting online.",
+      "correct": "They suggested moving the meeting online.",
+      "why": "Suggest takes an -ing action in this pattern; a to-infinitive is not used directly after suggest."
+    },
+    {
+      "incorrect": "We should avoid to reveal client details.",
+      "correct": "We should avoid revealing client details.",
+      "why": "Avoid is followed by -ing when its object is an activity."
+    },
+    {
+      "incorrect": "I cannot imagine him to work there.",
+      "correct": "I cannot imagine him working there.",
+      "why": "After imagine + person, use an -ing clause for what the person does."
+    },
+    {
+      "incorrect": "She admitted not to read the safety notice.",
+      "correct": "She admitted not reading the safety notice.",
+      "why": "With admit + -ing, not precedes the -ing form to describe the action she did not perform."
+    }
+  ],
+  "studyTips": [
+    "Group verbs by meaning: enjoyment or attitude (enjoy, mind), risk or avoidance (risk, avoid), and reporting or proposals (admit, deny, suggest). Practise the -ing form after each.",
+    "Turn a simple statement into a sentence about another person: She parked here → I remember her parking here. Check who performs the second action.",
+    "For negative and earlier actions, compare admitted not checking with admitted having checked. Explain precisely what was not done or already completed."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The editor avoided ___ the confidential figures during the press briefing.",
+      "choices": [
+        "to mention",
+        "mentioning",
+        "mention"
+      ],
+      "answerIndex": 1,
+      "feedback": "Avoid is followed by an -ing activity: avoided mentioning."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The committee suggested ___ the deadline by one week.",
+      "choices": [
+        "extending",
+        "to extend",
+        "extend"
+      ],
+      "answerIndex": 0,
+      "feedback": "Suggest takes -ing for a proposed activity: suggested extending."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Even after the audit, the contractor denied ___ the records.",
+      "choices": [
+        "to change",
+        "change",
+        "changing"
+      ],
+      "answerIndex": 2,
+      "feedback": "Deny is followed by -ing when the speaker rejects responsibility for an action."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Without a helmet, you risk ___ seriously injured on this route.",
+      "choices": [
+        "to get",
+        "getting",
+        "get"
+      ],
+      "answerIndex": 1,
+      "feedback": "Risk + -ing expresses a possible unwanted consequence: risk getting injured."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The team put off ___ (announce) the award winners until Thursday. Write the -ing verb.",
+      "acceptedAnswers": [
+        "announcing"
+      ],
+      "feedback": "Put off announcing means the announcement was postponed."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "I do not mind ___ (stay) for another twenty minutes to finish the review. Write the -ing verb.",
+      "acceptedAnswers": [
+        "staying"
+      ],
+      "feedback": "Mind is followed by -ing to express acceptance of an activity."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Please stop ___ (interrupt) the presenter while she explains the changes. Write the -ing verb.",
+      "acceptedAnswers": [
+        "interrupting"
+      ],
+      "feedback": "Stop interrupting means cease the repeated action."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "He admitted ___ (not / read) the instructions before submitting the form. Use the simple negative -ing expression.",
+      "acceptedAnswers": [
+        "not reading"
+      ],
+      "feedback": "The negative of the -ing activity is not reading, placed after admitted."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct only the incorrect verb pattern in this sentence: The coach suggested to practise the routine once more.",
+      "acceptedAnswers": [
+        "The coach suggested practising the routine once more."
+      ],
+      "feedback": "Use suggested + -ing rather than suggested + to-infinitive."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct only the incorrect verb pattern in this sentence: We should avoid to share our account passwords.",
+      "acceptedAnswers": [
+        "We should avoid sharing our account passwords."
+      ],
+      "feedback": "Avoid + -ing requires sharing."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct only the incorrect verb pattern in this sentence: I do not mind you to use my charger.",
+      "acceptedAnswers": [
+        "I do not mind you using my charger."
+      ],
+      "feedback": "Use mind + person + -ing; you is the person doing the activity."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct only the incorrect verb pattern in this sentence: She kept to check her phone throughout the performance.",
+      "acceptedAnswers": [
+        "She kept checking her phone throughout the performance."
+      ],
+      "feedback": "Keep + -ing describes a repeatedly continuing activity."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Report a recommendation in one past-tense sentence. Use these facts: the editor; recommend; check the facts again. Use an -ing clause.",
+      "acceptedAnswers": [
+        "The editor recommended checking the facts again."
+      ],
+      "feedback": "Recommended is followed by checking, not to check."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Make a polite request with Would you mind. Supplied action: lower the music. Say one complete question.",
+      "acceptedAnswers": [
+        "Would you mind lowering the music?"
+      ],
+      "feedback": "Would you mind is followed by lowering, the -ing form of the requested action."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say one sentence about a positive feeling, using the facts: I; enjoy; not have; a fixed schedule. Keep the negative inside the -ing activity.",
+      "acceptedAnswers": [
+        "I enjoy not having a fixed schedule."
+      ],
+      "feedback": "Not having describes the absence of a fixed schedule that the speaker enjoys."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Make one negative statement from: I; cannot imagine; Maya; run a marathon. Use the person + -ing pattern.",
+      "acceptedAnswers": [
+        "I cannot imagine Maya running a marathon.",
+        "I can't imagine Maya running a marathon."
+      ],
+      "feedback": "Maya performs the action in the imagined -ing clause."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Report an earlier denial: Martin; deny; leave the door unlocked; yesterday. Use past tense and a simple -ing clause.",
+      "acceptedAnswers": [
+        "Martin denied leaving the door unlocked yesterday."
+      ],
+      "feedback": "Denied leaving reports an action Martin says he did not do."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Describe a delay: we; put off; launch the website; until Friday. Use the past simple of put.",
+      "acceptedAnswers": [
+        "We put off launching the website until Friday."
+      ],
+      "feedback": "Put off + launching means the launch was delayed."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences from these facts, in order: the children / keep / ask questions (past); the instructor / stop / answer them (past).",
+      "acceptedAnswers": [
+        "The children kept asking questions. The instructor stopped answering them."
+      ],
+      "feedback": "Kept asking describes repetition; stopped answering means the responses ended."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "A review found that the analyst used the wrong formula, and the analyst acknowledged it. Report this with: the analyst; admit; use the wrong formula. One sentence in the past.",
+      "acceptedAnswers": [
+        "The analyst admitted using the wrong formula."
+      ],
+      "feedback": "Admitted using reports acknowledged responsibility for a completed action."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I considered moving closer to the office, but the rent was higher than I could afford.",
+      "prompt": "Which change did the speaker think about?",
+      "choices": [
+        "Changing jobs",
+        "Moving nearer to work",
+        "Buying office equipment"
+      ],
+      "answerIndex": 1,
+      "feedback": "Considered moving means the speaker thought about relocating."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We kept repairing the old oven for months before we finally bought a new one.",
+      "prompt": "What activity happened repeatedly?",
+      "choices": [
+        "Buying ovens",
+        "Cooking large meals",
+        "Repairing the old oven"
+      ],
+      "answerIndex": 2,
+      "feedback": "Kept repairing expresses repeated attempts to fix the same appliance."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The team avoided discussing the delay in front of the visitors.",
+      "prompt": "Type the single -ing verb immediately after “avoided”.",
+      "acceptedAnswers": [
+        "discussing"
+      ],
+      "feedback": "The audio says avoided discussing; avoid takes an -ing form."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I do not mind waiting another ten minutes, but I must leave before six.",
+      "prompt": "What is the speaker willing to do?",
+      "choices": [
+        "Wait ten more minutes",
+        "Stay for the entire evening",
+        "Return tomorrow morning"
+      ],
+      "answerIndex": 0,
+      "feedback": "Do not mind waiting expresses willingness to wait a little longer."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Nora admitted sending the draft to the wrong address, but denied sharing the password.",
+      "prompt": "What did Nora acknowledge doing?",
+      "choices": [
+        "Sharing a password",
+        "Sending a draft incorrectly",
+        "Deleting the draft"
+      ],
+      "answerIndex": 1,
+      "feedback": "She admitted sending the draft to the wrong address but denied the other action."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Rather than cancel the exhibition, the organisers put off opening it until June.",
+      "prompt": "What happened to the exhibition?",
+      "choices": [
+        "It opened earlier",
+        "It was cancelled permanently",
+        "Its opening was postponed"
+      ],
+      "answerIndex": 2,
+      "feedback": "Put off opening indicates a delay rather than a cancellation."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "It is quiet now because the neighbours have stopped drilling.",
+      "prompt": "Type the single -ing verb immediately after “stopped”.",
+      "acceptedAnswers": [
+        "drilling"
+      ],
+      "feedback": "Stopped drilling means that activity has ended."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "After leaving the night shift, she enjoys not working nights.",
+      "prompt": "Type the two-word negative -ing expression immediately after “enjoys”.",
+      "acceptedAnswers": [
+        "not working"
+      ],
+      "feedback": "Not working is the negative -ing expression heard after enjoys."
+    }
+  ]
+}

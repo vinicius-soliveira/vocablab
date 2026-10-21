@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u106",
+  "title": "Comparatives: Degree, Change and Linked Results",
+  "level": "B2",
+  "topicId": "eg2-u106-comparative-modifiers-patterns",
+  "summary": "Express the size of a difference with much, a lot, far, a bit and slightly; use any and no with comparatives; describe continuing change through repeated forms; connect related changes with the ... the ...; and distinguish older from elder.",
+  "learningObjectives": [
+    "Modify comparatives with expressions of large and small differences, avoiding very directly before a comparative.",
+    "Use any or no plus a comparative to ask about a difference or indicate none.",
+    "Describe progressive change using repeated comparatives and link related degrees with the ... the ... .",
+    "Distinguish older from the family attributive use of elder and avoid elder than."
+  ],
+  "explanation": [
+    {
+      "heading": "Show how large the difference is",
+      "body": "Place much, a lot or far before a comparative to express a substantial difference: much warmer, a lot more useful or far less practical. To show a small difference, use a bit, a little or slightly: a little shorter, slightly more expensive. These words modify the comparison, not the noun. Very does not normally directly modify a comparative: use much faster rather than very faster.",
+      "example": "The updated map is slightly clearer, but the printed version is far easier to read."
+    },
+    {
+      "heading": "Any and no comparatives",
+      "body": "Use any + comparative especially in questions and negatives: Is it any quieter? or It is not any cheaper. No + comparative states that the difference is zero: The new ticket is no more expensive. Any and no do not mean the same as much; they focus on whether even a small difference exists. Negative constructions may express the same fact in different ways.",
+      "example": "The larger room is no more expensive than the smaller one."
+    },
+    {
+      "heading": "Repeat comparatives for change over time",
+      "body": "A comparative repeated with and shows that a change is continuing or intensifying: colder and colder, better and better, or more and more difficult. With adjectives that use more, repeat more rather than the adjective. More and more may also modify plural or uncountable nouns to describe growing quantities: more and more visitors or more and more time.",
+      "example": "As the storm approached, the wind grew stronger and stronger."
+    },
+    {
+      "heading": "Link one changing quantity to another: the ... the ...",
+      "body": "The + comparative ..., the + comparative ... states that changes in one factor are connected to changes in another. The more carefully you plan, the fewer mistakes you make describes a general relationship. The expression can also give a preferred extreme, as in The sooner, the better. These are comparative structures, even though they start with the.",
+      "example": "The more we practised the presentation, the more confident we became."
+    },
+    {
+      "heading": "Older versus elder",
+      "body": "Older is the usual comparative of old for people, objects and ages: older than my cousin and an older building. Elder can appear directly before a family relationship noun, such as my elder brother or her elder daughter; older also works there. Elder is not normally used after be or with than: say My brother is older than me, not elder than me.",
+      "example": "My elder sister is an architect, and she is five years older than I am."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A large difference versus a small difference",
+      "left": {
+        "label": "Much / a lot / far",
+        "example": "The new batteries last much longer.",
+        "note": "Much indicates that the extra duration is substantial."
+      },
+      "right": {
+        "label": "A bit / slightly",
+        "example": "The new batteries last slightly longer.",
+        "note": "Slightly signals only a small improvement."
+      }
+    },
+    {
+      "title": "Family position versus comparison of ages",
+      "left": {
+        "label": "Elder + family noun",
+        "example": "Her elder son works abroad.",
+        "note": "Elder can appear immediately before a family relationship noun."
+      },
+      "right": {
+        "label": "Older than",
+        "example": "Her son is older than his cousin.",
+        "note": "Use older, not elder, in a predicative comparison with than."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The revised proposal is a lot more detailed than our first draft.",
+      "note": "A lot strengthens more detailed to signal a substantial difference."
+    },
+    {
+      "sentence": "Is the meeting room any quieter after the repairs?",
+      "note": "Any asks whether there is even a small improvement."
+    },
+    {
+      "sentence": "The bus service became less and less reliable during the winter.",
+      "note": "Less and less followed by an adjective indicates a continuous decrease."
+    },
+    {
+      "sentence": "The earlier we book, the more choice we will have.",
+      "note": "Two the-comparative clauses link booking time and the number of options."
+    },
+    {
+      "sentence": "My older brother works with our elder sister.",
+      "note": "Older and elder can both directly modify family nouns."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "My new phone is very faster than yours.",
+      "correct": "My new phone is much faster than yours.",
+      "why": "Use much, a lot, far or a small-degree modifier before a comparative; very faster is not standard."
+    },
+    {
+      "incorrect": "Sales are becoming more and more higher.",
+      "correct": "Sales are becoming higher and higher.",
+      "why": "Repeat the -er comparative itself; do not add more in front of higher."
+    },
+    {
+      "incorrect": "The harder you train, stronger you get.",
+      "correct": "The harder you train, the stronger you get.",
+      "why": "Both parts of this linked-comparative pattern need the before the comparative."
+    },
+    {
+      "incorrect": "My sister is elder than me.",
+      "correct": "My sister is older than me.",
+      "why": "Use older for a direct age comparison with than; elder is used before family nouns."
+    }
+  ],
+  "studyTips": [
+    "Draw a two-point scale and describe one large change with much and one small change with slightly; compare their meanings.",
+    "Read pairs aloud such as no better / not any better and bigger and bigger / more and more expensive; note the form that repeats.",
+    "Write three cause-and-effect observations with The more ..., the ... and separately practise my elder brother versus my brother is older."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Since the upgrade, the computer starts ___ faster than before.",
+      "choices": [
+        "much",
+        "very",
+        "many"
+      ],
+      "answerIndex": 0,
+      "feedback": "Much is a natural intensifier before the comparative faster; very faster is ungrammatical."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "We measured both rooms. The new one is not ___ larger than the old one.",
+      "choices": [
+        "no",
+        "any",
+        "very"
+      ],
+      "answerIndex": 1,
+      "feedback": "Not any larger says there is no increase in size, even a small one."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "With every extra practice session, her pronunciation is getting ___.",
+      "choices": [
+        "more clear and clear",
+        "clearly and clearly",
+        "clearer and clearer"
+      ],
+      "answerIndex": 2,
+      "feedback": "Repeat the comparative clearer with and to describe continued improvement."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "___ you practise, ___ confident you become.",
+      "choices": [
+        "The more / the more",
+        "More / more",
+        "The most / the most"
+      ],
+      "answerIndex": 0,
+      "feedback": "The more ... the more ... links increased practice with increased confidence."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The new screen is ___ brighter than the old one. (slightly; write the modifier)",
+      "acceptedAnswers": [
+        "slightly"
+      ],
+      "feedback": "Slightly before brighter indicates a small improvement."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "We have compared the prices, and this option is not ___ cheaper. (any; write the modifier)",
+      "acceptedAnswers": [
+        "any"
+      ],
+      "feedback": "Not any cheaper says there is no saving."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Since the heating stopped, the rooms have been getting ___. (cold; use a repeated comparative)",
+      "acceptedAnswers": [
+        "colder and colder"
+      ],
+      "feedback": "A repeating -er comparative describes continuing change."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "___ we leave, the sooner we can arrive. (early; use the ... the ... pattern)",
+      "acceptedAnswers": [
+        "The earlier"
+      ],
+      "feedback": "The earlier links an earlier departure with an earlier arrival."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The traffic is becoming heavier and more heavier each week.",
+      "acceptedAnswers": [
+        "The traffic is becoming heavier and heavier each week."
+      ],
+      "feedback": "For increasing change, repeat the comparative heavier without more."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The closer we got to the concert hall, louder the music became.",
+      "acceptedAnswers": [
+        "The closer we got to the concert hall, the louder the music became."
+      ],
+      "feedback": "In the linked-comparative structure, both comparative clauses take the."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My elder brother is elder than me.",
+      "acceptedAnswers": [
+        "My elder brother is older than me."
+      ],
+      "feedback": "Elder may modify brother, but a direct comparison with than requires older."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: These seats are no more cheaper than the standard seats.",
+      "acceptedAnswers": [
+        "These seats are no cheaper than the standard seats."
+      ],
+      "feedback": "The comparative of cheap is cheaper; do not put more before it."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make one sentence using these exact facts: the updated sensor; far more accurate; the old sensor. Start with “The updated sensor”.",
+      "acceptedAnswers": [
+        "The updated sensor is far more accurate than the old sensor."
+      ],
+      "feedback": "Far more accurate signals a substantial improvement."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask whether the new café is even a little quieter. Start with “Is the new café” and end with “the old one”. Use any quieter than.",
+      "acceptedAnswers": [
+        "Is the new café any quieter than the old one?"
+      ],
+      "feedback": "Any quieter asks whether any difference exists."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Two suitcases have exactly the same capacity. Say this beginning “This suitcase” and using “no bigger than mine”.",
+      "acceptedAnswers": [
+        "This suitcase is no bigger than mine."
+      ],
+      "feedback": "No bigger means its size does not exceed the other suitcase’s size."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Describe a continuing decline. Start with “The weather” and use “worse and worse”.",
+      "acceptedAnswers": [
+        "The weather is getting worse and worse."
+      ],
+      "feedback": "Worse and worse means the situation is continually deteriorating."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "A friend wants the task finished as soon as possible. Give the conventional four-word response beginning “The sooner” and ending “better”.",
+      "acceptedAnswers": [
+        "The sooner, the better."
+      ],
+      "feedback": "The sooner, the better expresses a preference for the earliest possible completion."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Use elder before a family noun, not after the verb. Say one sentence using: my elder sister; work in a bank. Begin with “My elder sister”.",
+      "acceptedAnswers": [
+        "My elder sister works in a bank."
+      ],
+      "feedback": "Elder is natural before sister when identifying the older of siblings."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences. First: the new printer; a little faster; the old printer. Second: it; no more expensive; the old printer. Start with “The new printer” and then “It”.",
+      "acceptedAnswers": [
+        "The new printer is a little faster than the old printer. It is no more expensive than the old printer."
+      ],
+      "feedback": "A little indicates a small difference in speed; no more expensive says there is no price increase."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "State how practice improves understanding, in one complete sentence. Use exactly this structure: The more you practise, the easier it gets.",
+      "acceptedAnswers": [
+        "The more you practise, the easier it gets."
+      ],
+      "feedback": "The ... the ... links more practice with greater ease."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "After the update, the tablet is a little faster, but it still freezes sometimes.",
+      "prompt": "How big is the improvement in the tablet’s speed?",
+      "choices": [
+        "It is small.",
+        "It is very large.",
+        "There is no improvement."
+      ],
+      "answerIndex": 0,
+      "feedback": "A little faster describes a modest speed improvement."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The new apartment is no bigger than our old one, but it is considerably quieter.",
+      "prompt": "How does the new apartment compare with the old one?",
+      "choices": [
+        "It is bigger and noisier.",
+        "It is the same size but quieter.",
+        "It is smaller and more expensive."
+      ],
+      "answerIndex": 1,
+      "feedback": "No bigger says there is no extra space; quieter identifies the improvement."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Our street is much quieter now that trucks use the new road.",
+      "prompt": "Type the two-word comparative phrase immediately after “is”.",
+      "acceptedAnswers": [
+        "much quieter"
+      ],
+      "feedback": "Much emphasises the large reduction in traffic noise."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I was nervous at first, but as the guests arrived, I became more and more confident.",
+      "prompt": "How did the speaker’s confidence change during the event?",
+      "choices": [
+        "It stayed the same.",
+        "It fell as guests arrived.",
+        "It increased steadily."
+      ],
+      "answerIndex": 2,
+      "feedback": "More and more confident indicates continued growth in confidence."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The sooner we leave, the less traffic we will meet on the ring road.",
+      "prompt": "What does the speaker expect from leaving earlier?",
+      "choices": [
+        "Less traffic on the road.",
+        "A more expensive journey.",
+        "A later arrival."
+      ],
+      "answerIndex": 0,
+      "feedback": "The sooner we leave, the less traffic we will meet links an earlier departure with reduced traffic."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I am the elder daughter, although my younger sister is taller than I am.",
+      "prompt": "Which person is older in the speaker’s family?",
+      "choices": [
+        "The younger sister.",
+        "The speaker.",
+        "They are the same age."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker describes herself as the elder daughter, so she is older than her younger sister."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Are you feeling any better after taking a short break?",
+      "prompt": "Type the two-word comparative phrase heard immediately after “feeling”.",
+      "acceptedAnswers": [
+        "any better"
+      ],
+      "feedback": "Any better asks whether there has been an improvement, however small."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The internet connection got worse and worse during the video call.",
+      "prompt": "Type the three-word phrase heard immediately after “got”.",
+      "acceptedAnswers": [
+        "worse and worse"
+      ],
+      "feedback": "Worse and worse describes a connection that deteriorated continuously."
+    }
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u015",
+  "title": "Past perfect: events before another past moment",
+  "level": "B1",
+  "topicId": "eg2-u015-past-perfect-earlier-past-events",
+  "summary": "Look back from one point in the past to something that happened earlier. Use had + past participle to make the sequence clear, describe prior experiences, and distinguish earlier actions from later events and present results.",
+  "learningObjectives": [
+    "Form affirmative, negative and question forms with had + past participle.",
+    "Use the past perfect to identify an event completed before a past reference point.",
+    "Contrast earlier actions expressed with the past perfect and later events expressed with the past simple.",
+    "Describe prior experiences and earlier results, including already, just, before and never."
+  ],
+  "explanation": [
+    {
+      "heading": "Look backwards from a past moment",
+      "body": "Choose a moment in a past story as your reference point. Use the past simple for that moment and the past perfect for something that happened before it. The past perfect does not mean a more distant or more important action; it shows which action was earlier relative to the reference point.",
+      "example": "When the caretaker unlocked the hall, the organisers had already set out the chairs."
+    },
+    {
+      "heading": "Form: had + past participle",
+      "body": "Use had for every subject, followed by a past participle: had completed, had taken, had written. Short forms such as I’d and they’d are common in conversation. In questions, place had before the subject. The negative is had not or hadn’t. Do not use the past-simple verb after had.",
+      "example": "Had the delivery arrived before you closed the office?"
+    },
+    {
+      "heading": "Explain what was true at that earlier time",
+      "body": "The past perfect can explain a past situation: why someone was pleased, confused, unable to enter or ready to leave. The earlier action may still have a consequence at the moment being described, even if that moment is not now.",
+      "example": "Felix could not open the presentation because he had forgotten the password."
+    },
+    {
+      "heading": "Prior experiences and never before",
+      "body": "Use had never + past participle or had not + past participle + before to describe the absence of an experience up to a past moment. If someone had already done something before that moment, already often appears between had and the participle. These expressions establish a past boundary, not a claim about the present.",
+      "example": "Before that weekend, Aisha had never travelled alone."
+    },
+    {
+      "heading": "Move between the earlier and later events",
+      "body": "Use the past simple for the next events in the story and the past perfect when you need to look further back. You need not force the past perfect into every past-time sentence: words such as before and after can already make the order clear. Use the perfect where it helps the listener track the timeline.",
+      "example": "I checked the mailbox, realised that the letter had arrived, and then called my neighbour."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Earlier action versus later event",
+      "left": {
+        "label": "Past perfect",
+        "example": "The guests had left before we reached the gallery.",
+        "note": "Leaving was complete before the point when we reached the gallery."
+      },
+      "right": {
+        "label": "Past simple",
+        "example": "We reached the gallery at half past six.",
+        "note": "Reaching the gallery is the later event in the past story."
+      }
+    },
+    {
+      "title": "Reference point: now or a past moment",
+      "left": {
+        "label": "Present perfect",
+        "example": "I have read this article, so I know the argument now.",
+        "note": "A present result or experience is relevant at the moment of speaking."
+      },
+      "right": {
+        "label": "Past perfect",
+        "example": "I had read the article before the discussion began.",
+        "note": "The reading happened before another past event."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "By the time the seminar began, the speakers had tested their microphones.",
+      "note": "The testing was complete before the past starting point."
+    },
+    {
+      "sentence": "Maya had never cooked that dish before she tried it on holiday.",
+      "note": "Had never cooked describes her experience up to that earlier holiday."
+    },
+    {
+      "sentence": "The train had departed when we finally reached the platform.",
+      "note": "The train left first; we reached the platform later."
+    },
+    {
+      "sentence": "I had not noticed the missing page until the editor mentioned it.",
+      "note": "The negative perfect describes a lack of awareness before a past discovery."
+    },
+    {
+      "sentence": "Had the guests already arrived when you opened the doors?",
+      "note": "Had + subject + past participle makes a past-perfect question."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "When we returned, someone has moved the furniture.",
+      "correct": "When we returned, someone had moved the furniture.",
+      "why": "The furniture was moved before the past moment when we returned, so had is the appropriate auxiliary."
+    },
+    {
+      "incorrect": "She had wrote the address on the envelope before leaving.",
+      "correct": "She had written the address on the envelope before leaving.",
+      "why": "Had must be followed by the past participle written, not the past-simple form wrote."
+    },
+    {
+      "incorrect": "Had they pack the supplies before they left?",
+      "correct": "Had they packed the supplies before they left?",
+      "why": "Had must be followed by the past participle packed, not the base form pack."
+    },
+    {
+      "incorrect": "He had not never visited a science museum before that trip.",
+      "correct": "He had never visited a science museum before that trip.",
+      "why": "Use had never to express no previous experience; do not combine not and never."
+    }
+  ],
+  "studyTips": [
+    "Draw two points on a timeline: the earlier completed action takes had + participle; the later event normally takes past simple.",
+    "Check irregular participles after had: had left, had written, had seen, had taken—not had leaved or had wrote.",
+    "In short stories, ask “What had happened before this past moment?” before choosing the perfect."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "By the time the first visitors entered the exhibition, the curators ___ every display.",
+      "choices": [
+        "have checked",
+        "had checked",
+        "were check"
+      ],
+      "answerIndex": 1,
+      "feedback": "The checking happened before the past moment when the visitors entered. Had checked marks that earlier completion."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The envelope was missing from the desk. At that point, Nora realised that she ___ it in the taxi.",
+      "choices": [
+        "had left",
+        "has left",
+        "had leave"
+      ],
+      "answerIndex": 0,
+      "feedback": "At the time of her realisation, leaving the envelope behind was already in the past: had left."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "When I finally called the supplier, they ___ the replacement parts two days earlier.",
+      "choices": [
+        "will send",
+        "have sent",
+        "had sent"
+      ],
+      "answerIndex": 2,
+      "feedback": "Two days earlier establishes an action before the past call. Use had sent."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Before the conference last spring, Farah ___ to an international event.",
+      "choices": [
+        "had never been",
+        "has never went",
+        "had never went"
+      ],
+      "answerIndex": 0,
+      "feedback": "Had never been records a lack of experience up to that specific past conference."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "At eight o’clock, the room was empty. The last guests ___ (leave) before eight. Write the past-perfect verb phrase.",
+      "acceptedAnswers": [
+        "had left"
+      ],
+      "feedback": "Had left identifies a departure completed before the past reference time of eight o’clock."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "When the workshop started, the presenter ___ (prepare) all the handouts. Write the past-perfect verb phrase.",
+      "acceptedAnswers": [
+        "had prepared"
+      ],
+      "feedback": "The handouts were prepared before the workshop started: had prepared."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The team was surprised because nobody ___ (not / mention) the new deadline before the meeting. Write the negative past-perfect verb phrase.",
+      "acceptedAnswers": [
+        "hadn't mentioned",
+        "had not mentioned"
+      ],
+      "feedback": "A lack of earlier information explains the team’s surprise at the meeting."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "___ (you / ever / meet) the project leader before you joined the team? Write the past-perfect question phrase before “the project leader”.",
+      "acceptedAnswers": [
+        "Had you ever met"
+      ],
+      "feedback": "Had precedes the subject, and met is the past participle of meet."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: When we reached the harbour, the boat has already sailed.",
+      "acceptedAnswers": [
+        "When we reached the harbour, the boat had already sailed."
+      ],
+      "feedback": "Sailing preceded the past arrival, so change has to had."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Lena had took the wrong turn before she noticed the road sign.",
+      "acceptedAnswers": [
+        "Lena had taken the wrong turn before she noticed the road sign."
+      ],
+      "feedback": "The participle after had is taken, not took."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We had never saw that painting before the exhibition.",
+      "acceptedAnswers": [
+        "We had never seen that painting before the exhibition."
+      ],
+      "feedback": "The verb must be in its past-participle form: seen."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Had the visitors leave before the final announcement?",
+      "acceptedAnswers": [
+        "Had the visitors left before the final announcement?"
+      ],
+      "feedback": "In a past-perfect question, had is followed by the past participle left."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one complete sentence using these facts: Sana finished the diagram before four o’clock. Begin “Sana had” and use “by four o’clock”.",
+      "acceptedAnswers": [
+        "Sana had finished the diagram by four o’clock."
+      ],
+      "feedback": "Had finished puts the completion before the past reference time."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "At noon, the parcel still had not arrived. Say one sentence beginning “The parcel” and ending “by noon”. Use past perfect. Contractions are allowed.",
+      "acceptedAnswers": [
+        "The parcel hadn't arrived by noon.",
+        "The parcel had not arrived by noon."
+      ],
+      "feedback": "Had not arrived describes a delivery still missing at the past time of noon."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Ask whether Theo paid the registration fee before registration closed. Begin with “Had Theo” and end with “before registration closed?”.",
+      "acceptedAnswers": [
+        "Had Theo paid the registration fee before registration closed?"
+      ],
+      "feedback": "Had + subject + paid asks about completion before a later past event."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A colleague asks why the projector was ready when everyone arrived. Fact: Jules set it up earlier. Reply in one sentence beginning “Jules”.",
+      "acceptedAnswers": [
+        "Jules had set up the projector."
+      ],
+      "feedback": "Had set up explains why the projector was ready at that later moment."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Yesterday at noon, the museum was already locked because the staff closed it earlier. Say one sentence beginning “The staff” and ending “before noon”.",
+      "acceptedAnswers": [
+        "The staff had locked the museum before noon."
+      ],
+      "feedback": "Had locked identifies the earlier action explaining its state at noon."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Change this present-result sentence to a past reference point. Original: “I have checked the figures.” New context: I checked them before yesterday’s meeting. Begin “I had” and finish with “before yesterday’s meeting”.",
+      "acceptedAnswers": [
+        "I had checked the figures before yesterday’s meeting."
+      ],
+      "feedback": "Had checked looks backward from the meeting, rather than reporting a result now."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences using these facts and full forms: Mika arrived at the venue at seven. The choir had left earlier. Begin the sentences “Mika arrived” and “The choir had”.",
+      "acceptedAnswers": [
+        "Mika arrived at the venue at seven. The choir had left earlier."
+      ],
+      "feedback": "The past simple gives the reference event; the past perfect supplies the preceding event."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Before a trip in 2021, your group had no experience staying in that city. Begin “We had never” and end “before that trip”.",
+      "acceptedAnswers": [
+        "We had never stayed in that city before that trip."
+      ],
+      "feedback": "Had never stayed reports no previous experience before a specified past trip."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "When we got to the recording studio, the band had already packed its instruments.",
+      "prompt": "What was true when the speaker reached the studio?",
+      "choices": [
+        "The band had not started packing.",
+        "The band was in the middle of setting up.",
+        "The band had finished packing."
+      ],
+      "answerIndex": 2,
+      "feedback": "Had already packed means the packing was complete before the arrival."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I had saved my notes before the laptop shut down, so the work was not lost.",
+      "prompt": "Why did the speaker avoid losing the notes?",
+      "choices": [
+        "The notes were saved before the shutdown.",
+        "The laptop never shut down.",
+        "The notes were rewritten the next day."
+      ],
+      "answerIndex": 0,
+      "feedback": "The earlier saving protected the notes when the laptop shut down later."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "By nine o’clock, the volunteers had finished sorting the donated books.",
+      "prompt": "Type the two-word past-perfect verb phrase immediately after “the volunteers”.",
+      "acceptedAnswers": [
+        "had finished"
+      ],
+      "feedback": "Had finished makes clear that the sorting was complete before nine."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Nora had never tried skiing before last winter, but she enjoyed her first lesson.",
+      "prompt": "What happened for the first time last winter?",
+      "choices": [
+        "Nora taught a skiing lesson.",
+        "Nora tried skiing.",
+        "Nora returned to skiing after a break."
+      ],
+      "answerIndex": 1,
+      "feedback": "Had never tried marks an absence of previous skiing experience."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The conductor checked our tickets after we had boarded the train, just before the next stop.",
+      "prompt": "Which action happened first?",
+      "choices": [
+        "The conductor checked the tickets.",
+        "The train reached the next stop.",
+        "The passengers boarded the train."
+      ],
+      "answerIndex": 2,
+      "feedback": "Had boarded shows that the passengers got on the train before their tickets were checked."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I told the group that the timetable had changed, but they had already printed the old version.",
+      "prompt": "What problem had happened before the speaker informed the group?",
+      "choices": [
+        "They had printed an outdated timetable.",
+        "They had cancelled all the sessions.",
+        "They had replaced the printer."
+      ],
+      "answerIndex": 0,
+      "feedback": "They printed the old version before learning about the change."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Before the interview, Amir hadn't seen the updated job description.",
+      "prompt": "Type the negative past-perfect verb phrase immediately after “Amir”.",
+      "acceptedAnswers": [
+        "hadn't seen",
+        "had not seen"
+      ],
+      "feedback": "Had not seen shows the description was unfamiliar before the interview."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Had you booked the seats before the prices increased?",
+      "prompt": "Type the three opening words of the question.",
+      "acceptedAnswers": [
+        "Had you booked"
+      ],
+      "feedback": "Had you booked asks whether the action was complete before a later change."
+    }
+  ]
+}

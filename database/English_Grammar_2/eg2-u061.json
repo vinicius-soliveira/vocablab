@@ -1,0 +1,410 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u061",
+  "title": "Be Used to and Get Used to",
+  "level": "B2",
+  "topicId": "eg2-u061-familiarity-and-adjustment",
+  "summary": "Describe situations that already feel familiar with be used to, and processes of becoming familiar with get used to. Follow these expressions with nouns, pronouns or -ing, and distinguish them from used to + base verb for a past habit.",
+  "learningObjectives": [
+    "Describe established familiarity using be used to + noun, pronoun or -ing.",
+    "Describe adjustment over time using get used to in present, past and future contexts.",
+    "Form negative statements and questions about unfamiliar experiences and routines.",
+    "Distinguish be/get used to doing from used to do, which refers to a past habit or situation."
+  ],
+  "explanation": [
+    {
+      "heading": "Be used to: something feels normal",
+      "body": "Be used to describes a situation, routine or experience that is already familiar rather than strange. It does not say when the habit began. Use the appropriate form of be: am used to, is used to, were used to or will be used to. The words after to name the familiar thing or activity.",
+      "example": "After several years near the railway, Farah is used to the sound of passing trains."
+    },
+    {
+      "heading": "Get used to: the process of adapting",
+      "body": "Get used to describes the change from unfamiliar to familiar. It can happen gradually, quickly or not at all. Choose the tense of get to show the time: is getting used to for adjustment in progress, got used to for completed adjustment, and will get used to for expected adjustment. This contrasts with be used to, which describes the resulting state.",
+      "example": "The new volunteers are getting used to the early morning schedule."
+    },
+    {
+      "heading": "A noun, pronoun or -ing verb follows to",
+      "body": "In be/get used to, to is a preposition, not the marker of an infinitive. Follow it with a noun (the heat), a pronoun (it) or an -ing verb (speaking in meetings). A person can also appear before the -ing form: someone may be used to their colleagues changing plans. Do not put the bare verb after this to.",
+      "example": "I have got used to sharing my desk with another designer."
+    },
+    {
+      "heading": "Negatives and questions describe unfamiliarity",
+      "body": "Use not before used to after be when a situation still feels unusual: is not used to. Questions invert be and the subject: Are you used to ...? With get, use ordinary tense patterns, such as Did they get used to ...? or Have they got used to ...? Not yet can emphasise that adjustment remains incomplete.",
+      "example": "Are the new students used to taking the bus across town?"
+    },
+    {
+      "heading": "Different meaning: used to do for the past",
+      "body": "Used to + base verb describes a past habit or state that is no longer true. It does not express familiarity with an activity. Compare I used to work nights (a former routine) with I am used to working nights (night work feels normal now). After be/get used to, use working, not work.",
+      "example": "I used to live above a shop, but I am now used to the quiet streets outside my new flat."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Familiar state versus process of adjustment",
+      "left": {
+        "label": "Be used to",
+        "example": "Jules is used to presenting to large groups.",
+        "note": "The activity no longer feels unfamiliar to Jules."
+      },
+      "right": {
+        "label": "Get used to",
+        "example": "Jules is getting used to presenting to large groups.",
+        "note": "Jules is still adapting and may not feel completely comfortable yet."
+      }
+    },
+    {
+      "title": "Present familiarity versus former routine",
+      "left": {
+        "label": "Be used to + -ing",
+        "example": "I am used to travelling on crowded buses.",
+        "note": "Crowded bus journeys feel normal to me now."
+      },
+      "right": {
+        "label": "Used to + base verb",
+        "example": "I used to travel by bus, but now I walk.",
+        "note": "Bus travel was a past routine that has changed."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The workshop is noisy, but the mechanics are used to it.",
+      "note": "A pronoun can follow used to when referring to something familiar."
+    },
+    {
+      "sentence": "It took Leila three weeks to get used to her new timetable.",
+      "note": "Got used to describes adjustment that was eventually completed."
+    },
+    {
+      "sentence": "We are not used to eating dinner so late.",
+      "note": "A negative form shows that this routine still feels unusual."
+    },
+    {
+      "sentence": "Will you get used to sharing a bedroom?",
+      "note": "The question asks whether adaptation will happen in the future."
+    },
+    {
+      "sentence": "My grandfather used to own a small bakery.",
+      "note": "Used to + base verb refers to a former state, not present familiarity."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I am used to wake up before sunrise.",
+      "correct": "I am used to waking up before sunrise.",
+      "why": "The to in be used to is a preposition, so the following verb must take -ing."
+    },
+    {
+      "incorrect": "She is getting use to the colder weather.",
+      "correct": "She is getting used to the colder weather.",
+      "why": "The expression is get used to; used must retain its -d."
+    },
+    {
+      "incorrect": "They used to working in this building.",
+      "correct": "They used to work in this building.",
+      "why": "A former routine uses used to + base verb, without -ing."
+    },
+    {
+      "incorrect": "Are you use to the new software?",
+      "correct": "Are you used to the new software?",
+      "why": "The familiarity expression uses the adjective used, not use."
+    }
+  ],
+  "studyTips": [
+    "Ask whether a situation feels normal now or whether it is becoming normal; choose be used to or get used to accordingly.",
+    "Test what follows to: a noun or -ing form is correct after be/get used to, but a base verb follows the past-habit form used to.",
+    "Build a three-stage timeline: I was not used to it; I got used to it; now I am used to it."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "After years at the busy airport, Elena ___ hearing aircraft overhead.",
+      "choices": [
+        "used to",
+        "is used to",
+        "is used to hear"
+      ],
+      "answerIndex": 1,
+      "feedback": "Is used to hearing describes a sound that feels familiar now; to is followed by an -ing verb."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The first rehearsals felt strange, but after a month the actors ___ performing on the smaller stage.",
+      "choices": [
+        "got used to",
+        "used to",
+        "got used to perform"
+      ],
+      "answerIndex": 0,
+      "feedback": "Got used to performing describes their completed adjustment; the new stage stopped feeling strange."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The new employee still finds the night shift exhausting. She ___ working at night yet.",
+      "choices": [
+        "is used to",
+        "used to",
+        "is not used to"
+      ],
+      "answerIndex": 2,
+      "feedback": "Is not used to working expresses that this schedule still feels unfamiliar."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "When I was a teenager, I ___ read on the train every morning, but now I drive to college.",
+      "choices": [
+        "am used to",
+        "used to",
+        "got used to"
+      ],
+      "answerIndex": 1,
+      "feedback": "Used to read refers to a former routine; the other choices describe familiarity or adjustment."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "My brothers ___ a room, so sharing a bedroom feels normal. (be used to / share; present affirmative verb phrase)",
+      "acceptedAnswers": [
+        "are used to sharing"
+      ],
+      "feedback": "Are used to sharing describes an established familiar routine."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The boots felt uncomfortable initially, but I eventually ___ them. (get used to; past simple, write the whole verb phrase)",
+      "acceptedAnswers": [
+        "got used to"
+      ],
+      "feedback": "Got used to states that the unfamiliar boots became comfortable over time."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The newcomers ___ answering questions in front of strangers, so they feel nervous. (not / be used to; present negative)",
+      "acceptedAnswers": [
+        "are not used to",
+        "aren't used to"
+      ],
+      "feedback": "The plural subject newcomers takes are not used to; answering follows the preposition to."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "___ working on weekends yet? (you / be used to; form a complete present-tense question; write the words before working)",
+      "acceptedAnswers": [
+        "Are you used to"
+      ],
+      "feedback": "A question about familiarity starts Are you used to; working is the -ing complement."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I am used to wake up before six in the morning. (Change only the form of the verb after to.)",
+      "acceptedAnswers": [
+        "I am used to waking up before six in the morning."
+      ],
+      "feedback": "Be used to requires an -ing verb, here waking."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: After two weeks in the new flat, we get used to the street noise. (Change only the tense of get to past simple.)",
+      "acceptedAnswers": [
+        "After two weeks in the new flat, we got used to the street noise."
+      ],
+      "feedback": "After two weeks places the completed adjustment in the past; use got used to."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My parents used to living near the sea, but they moved inland years ago. (Correct only the verb following used to to express a former home.)",
+      "acceptedAnswers": [
+        "My parents used to live near the sea, but they moved inland years ago."
+      ],
+      "feedback": "Past-habit used to takes the base verb live, not living."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: It took me a fortnight to get used to drive in heavy traffic. (Change only the verb form after to.)",
+      "acceptedAnswers": [
+        "It took me a fortnight to get used to driving in heavy traffic."
+      ],
+      "feedback": "Get used to is followed by driving because its to is a preposition."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Maya now finds the trains outside her home normal. Say one sentence using the exact words “Maya is used to hearing loud trains”.",
+      "acceptedAnswers": [
+        "Maya is used to hearing loud trains."
+      ],
+      "feedback": "Is used to hearing expresses familiarity with a repeated sound."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say one complete negative sentence from these facts: we; not be used to; sharing a small room. Use the present tense.",
+      "acceptedAnswers": [
+        "We aren't used to sharing a small room.",
+        "We are not used to sharing a small room."
+      ],
+      "feedback": "Are not used to sharing describes unfamiliarity with the shared space."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Ask a yes/no question about a colleague’s familiarity with night shifts. Start with “Are you” and use “used to working nights”.",
+      "acceptedAnswers": [
+        "Are you used to working nights?"
+      ],
+      "feedback": "Are you used to working asks about an established familiar routine."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Kian found early mornings difficult at first, but later adjusted. Begin “Kian got used to” and end with “waking up early”.",
+      "acceptedAnswers": [
+        "Kian got used to waking up early."
+      ],
+      "feedback": "Got used to states a completed process of adaptation."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Express a former habit, not present familiarity: I; take a taxi; every Friday in the past. Begin “I used to” and end “every Friday”.",
+      "acceptedAnswers": [
+        "I used to take a taxi every Friday."
+      ],
+      "feedback": "Used to take describes a past routine; it does not mean the routine feels familiar now."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "The loud music is now normal for Hana. Refer to the music with “it”. Begin “Hana” and say one sentence ending “used to it”.",
+      "acceptedAnswers": [
+        "Hana is used to it.",
+        "Hana's used to it."
+      ],
+      "feedback": "A pronoun can follow prepositional to in be used to."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences about the same activity. First: “At first, I was not used to speaking in public.” Second: “Now I am used to speaking in public.” You may contract was not and I am.",
+      "acceptedAnswers": [
+        "At first, I was not used to speaking in public. Now I am used to speaking in public.",
+        "At first, I wasn't used to speaking in public. Now I am used to speaking in public.",
+        "At first, I was not used to speaking in public. Now I'm used to speaking in public.",
+        "At first, I wasn't used to speaking in public. Now I'm used to speaking in public."
+      ],
+      "feedback": "The first sentence describes unfamiliarity; the second describes the familiar situation after adjustment."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Predict future adjustment with these exact facts: the interns; will get used to; working in a shared office. Say one sentence.",
+      "acceptedAnswers": [
+        "The interns will get used to working in a shared office."
+      ],
+      "feedback": "Will get used to describes an expected process of becoming comfortable with something."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "During my first week in the bakery, I hated the early starts. Now I'm used to getting up before dawn.",
+      "prompt": "How does the speaker feel about early starts now?",
+      "choices": [
+        "They still feel completely unfamiliar.",
+        "They are now part of a familiar routine.",
+        "They were only necessary on the first day."
+      ],
+      "answerIndex": 1,
+      "feedback": "Now I am used to getting up shows that the routine has become familiar."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I used to cycle to the studio every day, but I drive there now because the roads are busier.",
+      "prompt": "Which activity belonged to the speaker’s earlier routine?",
+      "choices": [
+        "Cycling to the studio.",
+        "Driving to the studio.",
+        "Taking a train to the studio."
+      ],
+      "answerIndex": 0,
+      "feedback": "Used to cycle identifies what happened regularly in the past but no longer does."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "My uncle is used to living in a busy neighbourhood.",
+      "prompt": "Type the three-word expression immediately after “is”.",
+      "acceptedAnswers": [
+        "used to living"
+      ],
+      "feedback": "Used to living is the audible familiarity expression followed by -ing."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "At the first rehearsal the singers struggled with the new rhythm, but after three sessions they got used to it.",
+      "prompt": "What changed after the three sessions?",
+      "choices": [
+        "The singers gave up the song.",
+        "The rhythm became faster.",
+        "The rhythm became familiar to the singers."
+      ],
+      "answerIndex": 2,
+      "feedback": "Got used to it means that the originally strange rhythm became easier for the singers."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I'm not used to the bright lights in this office yet, so I keep closing the blinds.",
+      "prompt": "What still feels unusual to the speaker?",
+      "choices": [
+        "The bright office lighting.",
+        "Working with closed blinds.",
+        "Leaving the office at night."
+      ],
+      "answerIndex": 0,
+      "feedback": "Not used to the bright lights identifies what has not yet become familiar."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The chef is getting used to working with a new team, but coordinating their tasks still takes some effort.",
+      "prompt": "Which stage of adjustment is the chef in?",
+      "choices": [
+        "Fully comfortable with no difficulties.",
+        "Still learning to work smoothly with the team.",
+        "Planning to stop working with the team."
+      ],
+      "answerIndex": 1,
+      "feedback": "Is getting used to signals a process that is in progress rather than completed."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "They are not used to travelling in icy weather.",
+      "prompt": "Type the four-word expression immediately after “They”.",
+      "acceptedAnswers": [
+        "are not used to"
+      ],
+      "feedback": "Are not used to is the audible negative familiarity pattern."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "By June, we'll have got used to the new schedule.",
+      "prompt": "Type the three-word phrase heard immediately after “have”.",
+      "acceptedAnswers": [
+        "got used to"
+      ],
+      "feedback": "Have got used to describes completed adjustment by a future point; the requested words are got used to."
+    }
+  ]
+}

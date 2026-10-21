@@ -1,0 +1,421 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u032",
+  "title": "Mustn’t and needn’t: prohibition and unnecessary actions",
+  "level": "B2",
+  "topicId": "eg2-u032-mustnt-neednt-prohibition-necessity",
+  "summary": "Distinguish a ban from an action that is optional, use needn’t and don’t need to correctly, and explain the difference between an action that was completed unnecessarily and one that was never necessary in the past.",
+  "learningObjectives": [
+    "Express strong requirements and prohibitions with must and mustn’t, without adding to before the verb.",
+    "Explain that needn’t and don’t need to remove an obligation rather than forbid an action.",
+    "Describe a completed but unnecessary past action using needn’t have + past participle.",
+    "Contrast needn’t have done with didn’t need to do, which does not establish whether the action happened."
+  ],
+  "explanation": [
+    {
+      "heading": "Must means required; mustn’t means forbidden",
+      "body": "Must + base verb states that an action is necessary. Mustn’t + base verb tells someone not to do it, often because of a rule or serious consequence. Both are followed by the base verb without to, and their meanings are not opposites of necessity in a simple yes/no sense: mustn’t describes a ban, not freedom of choice.",
+      "example": "Passengers must keep the aisle clear and mustn’t block the emergency exit."
+    },
+    {
+      "heading": "Needn’t removes a requirement",
+      "body": "Needn’t + base verb means there is no need to perform the action, although doing it may still be allowed. Don’t need to and doesn’t need to often express the same meaning in everyday English. Needn’t takes a bare infinitive, but don’t need to requires to before the main verb. In both cases, the speaker is saying the action is optional.",
+      "example": "You needn’t bring a notebook; the course provides one."
+    },
+    {
+      "heading": "A ban is different from a choice",
+      "body": "Choose mustn’t when the action is not permitted, and needn’t when the action is not required. A sentence such as You mustn’t reply warns against sending a reply, while You needn’t reply says there is no obligation to do so. Changing one to the other can seriously alter instructions at work or in daily life.",
+      "example": "You mustn’t touch the display, but you needn’t stand behind the barrier."
+    },
+    {
+      "heading": "Needn’t have done: it happened, but it was unnecessary",
+      "body": "Use needn’t have + past participle when someone actually performed an action and later learned it was not necessary. The verb after have must be a past participle: brought, booked, checked or waited. This construction often expresses hindsight, mild regret or surprise rather than a general statement about an old rule.",
+      "example": "We needn’t have ordered extra chairs; half the guests cancelled."
+    },
+    {
+      "heading": "Didn’t need to do: the action was unnecessary, but its occurrence is open",
+      "body": "Didn’t need to + base verb says there was no necessity in the past. By itself it does not tell the listener whether the action happened; additional context can establish either outcome. This differs from needn’t have done, which confirms that the person did the action. Didn’t have to behaves similarly to didn’t need to in this contrast.",
+      "example": "I didn’t need to drive to the station, so I walked instead."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Prohibition versus lack of necessity",
+      "left": {
+        "label": "Mustn’t: do not do it",
+        "example": "You mustn’t feed the birds in this park.",
+        "note": "The park forbids feeding the birds."
+      },
+      "right": {
+        "label": "Needn’t: it is optional",
+        "example": "You needn’t buy bird food for the trip.",
+        "note": "Buying the food is unnecessary, not banned."
+      }
+    },
+    {
+      "title": "Unnecessary action completed versus occurrence unspecified",
+      "left": {
+        "label": "Needn’t have + participle",
+        "example": "I needn’t have printed the map; the guide supplied one.",
+        "note": "The speaker printed the map, but it was unnecessary."
+      },
+      "right": {
+        "label": "Didn’t need to + base verb",
+        "example": "I didn’t need to print a map for the trip.",
+        "note": "Printing was unnecessary; this sentence alone does not say if it happened."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "You mustn’t leave personal bags beside the fire door.",
+      "note": "Mustn’t marks a prohibition related to safety."
+    },
+    {
+      "sentence": "The forms are online, so you needn’t visit the office in person.",
+      "note": "Needn’t visit means an in-person trip is not required."
+    },
+    {
+      "sentence": "Marco doesn’t need to wear formal clothes on Fridays.",
+      "note": "Doesn’t need to uses ordinary present-tense negative do-support."
+    },
+    {
+      "sentence": "I needn’t have bought a replacement charger; the original was in my drawer.",
+      "note": "The purchase happened and later proved unnecessary."
+    },
+    {
+      "sentence": "There was no entrance fee, so we didn’t need to bring cash.",
+      "note": "The lack of necessity is established without necessarily stating whether cash was brought."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "You mustn’t reserve a seat; there are plenty available, but you may reserve one.",
+      "correct": "You needn’t reserve a seat; there are plenty available, but you may reserve one.",
+      "why": "Mustn’t would forbid reservations, conflicting with the statement that booking is allowed."
+    },
+    {
+      "incorrect": "You needn’t to explain the delay.",
+      "correct": "You needn’t explain the delay.",
+      "why": "Needn’t is followed directly by the base verb, without to."
+    },
+    {
+      "incorrect": "I needn’t have bring a coat; the theatre was warm.",
+      "correct": "I needn’t have brought a coat; the theatre was warm.",
+      "why": "Needn’t have takes a past participle: brought."
+    },
+    {
+      "incorrect": "She needn’t have gone to the shop, so she stayed at home.",
+      "correct": "She didn’t need to go to the shop, so she stayed at home.",
+      "why": "Needn’t have gone incorrectly implies that she went; didn’t need to go allows the stated fact that she stayed home."
+    }
+  ],
+  "studyTips": [
+    "For a rule, ask two questions before choosing a modal: Is the action forbidden (mustn’t), or simply optional (needn’t)?",
+    "Check the verb after the phrase: needn’t bring, don’t need to bring, and needn’t have brought are three different forms.",
+    "Draw two past timelines: one with an unnecessary action that happened (needn’t have) and another where the action may or may not have happened (didn’t need to)."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The gallery forbids photography in the exhibition room. Visitors ___ take pictures there.",
+      "choices": [
+        "needn’t",
+        "mustn’t",
+        "don’t need to"
+      ],
+      "answerIndex": 1,
+      "feedback": "Mustn’t take expresses a ban. The other options mean photography is optional."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The lecture recording is available, so you ___ attend the live session unless you want to.",
+      "choices": [
+        "needn’t",
+        "mustn’t",
+        "cannot"
+      ],
+      "answerIndex": 0,
+      "feedback": "Needn’t attend means that attendance is not compulsory, not that it is forbidden."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Yesterday I paid for express delivery. Today I learned ordinary delivery would have arrived at the same time. I ___.",
+      "choices": [
+        "didn’t need to pay for express delivery, so I didn’t",
+        "needn’t pay for express delivery yesterday",
+        "needn’t have paid for express delivery"
+      ],
+      "answerIndex": 2,
+      "feedback": "Needn’t have paid confirms a payment was made but was unnecessary in hindsight."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The instructions said extra documents were optional. We chose not to send them. Which sentence matches the situation?",
+      "choices": [
+        "We needn’t have sent extra documents.",
+        "We didn’t need to send extra documents.",
+        "We mustn’t send extra documents."
+      ],
+      "answerIndex": 1,
+      "feedback": "Didn’t need to send fits an unnecessary action that was not carried out; needn’t have sent would imply sending happened."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "This corridor is a fire escape. “You ___ (not / leave) bicycles here.” Use must to express prohibition.",
+      "acceptedAnswers": [
+        "mustn’t leave",
+        "must not leave"
+      ],
+      "feedback": "Mustn’t leave or must not leave prohibits the action; it does not mean leaving bicycles is optional."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The company supplies all the tools. “You ___ (bring) your own.” Use needn’t.",
+      "acceptedAnswers": [
+        "needn’t bring",
+        "need not bring"
+      ],
+      "feedback": "Needn’t bring has no to and removes the obligation to bring tools."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "I packed three umbrellas, but we used none and the hotel supplied them. “I ___ (pack) three umbrellas.” Use needn’t have.",
+      "acceptedAnswers": [
+        "needn’t have packed",
+        "need not have packed"
+      ],
+      "feedback": "Needn’t have packed confirms the unnecessary packing took place."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "There was no dress code, and Sara chose jeans. “Sara ___ (wear) a suit.” Use didn’t need to.",
+      "acceptedAnswers": [
+        "didn’t need to wear",
+        "did not need to wear"
+      ],
+      "feedback": "Didn’t need to wear says wearing a suit was unnecessary; the context tells us Sara chose jeans."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: You needn’t to call the office; the answer is on the website.",
+      "acceptedAnswers": [
+        "You needn’t call the office; the answer is on the website."
+      ],
+      "feedback": "The modal needn’t is followed by the base verb call without to."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: They mustn’t buy advance tickets because tickets are optional and available at the door.",
+      "acceptedAnswers": [
+        "They needn’t buy advance tickets because tickets are optional and available at the door."
+      ],
+      "feedback": "Needn’t communicates no advance-purchase obligation; mustn’t would forbid buying tickets."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We needn’t have booked extra rooms, so we never made a booking.",
+      "acceptedAnswers": [
+        "We didn’t need to book extra rooms, so we never made a booking."
+      ],
+      "feedback": "Needn’t have booked means a booking occurred, contrary to the second clause; didn’t need to book fits."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I needn’t have drove to the office; the meeting was online.",
+      "acceptedAnswers": [
+        "I needn’t have driven to the office; the meeting was online."
+      ],
+      "feedback": "After needn’t have, use the past participle driven rather than the simple past drove."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "The swimming pool has a strict ban on glass bottles. Begin “Visitors” and say “mustn’t bring glass bottles”.",
+      "acceptedAnswers": [
+        "Visitors mustn’t bring glass bottles.",
+        "Visitors must not bring glass bottles."
+      ],
+      "feedback": "Mustn’t bring states a rule forbidding glass bottles."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "An umbrella is supplied at reception, so carrying one is optional. Begin “You” and use “needn’t bring an umbrella”.",
+      "acceptedAnswers": [
+        "You needn’t bring an umbrella.",
+        "You need not bring an umbrella."
+      ],
+      "feedback": "Needn’t bring removes necessity without forbidding the action."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Rewrite this sentence using don’t need to: “We needn’t print the itinerary.” Keep all the other words.",
+      "acceptedAnswers": [
+        "We don’t need to print the itinerary.",
+        "We do not need to print the itinerary."
+      ],
+      "feedback": "Don’t need to print and needn’t print express the same lack of necessity."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "I bought a spare key yesterday. Today I found the original and learned the purchase was unnecessary. Say one sentence starting “I” and using “needn’t have bought a spare key”.",
+      "acceptedAnswers": [
+        "I needn’t have bought a spare key.",
+        "I need not have bought a spare key."
+      ],
+      "feedback": "Needn’t have bought confirms the purchase was made unnecessarily."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "No form was required, and Ben did not submit one. Begin “Ben” and use “didn’t need to submit a form”.",
+      "acceptedAnswers": [
+        "Ben didn’t need to submit a form.",
+        "Ben did not need to submit a form."
+      ],
+      "feedback": "Didn’t need to suits an unnecessary action that the context confirms did not happen."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "The instructions prohibit sharing the password. Say a complete sentence beginning “You” and ending “your password”. Use mustn’t and share.",
+      "acceptedAnswers": [
+        "You mustn’t share your password.",
+        "You must not share your password."
+      ],
+      "feedback": "Mustn’t share means the action is prohibited."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "The booking was made and later proved unnecessary. Correct the verb form in this full sentence and say the correction: “We needn’t have book a taxi.”",
+      "acceptedAnswers": [
+        "We needn’t have booked a taxi.",
+        "We need not have booked a taxi."
+      ],
+      "feedback": "Needn’t have needs the past participle booked because the unnecessary action occurred."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce exactly two sentences. First describe a ban: “You mustn’t open this cabinet.” Then describe a choice: “You needn’t wait for me.”",
+      "acceptedAnswers": [
+        "You mustn’t open this cabinet. You needn’t wait for me.",
+        "You must not open this cabinet. You needn’t wait for me.",
+        "You mustn’t open this cabinet. You need not wait for me.",
+        "You must not open this cabinet. You need not wait for me."
+      ],
+      "feedback": "The first sentence prohibits an action; the second removes an obligation."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "prompt": "What is forbidden?",
+      "choices": [
+        "Waiting outside for a guide.",
+        "Entering the workshop.",
+        "Speaking to the guide."
+      ],
+      "answerIndex": 1,
+      "feedback": "Mustn’t enter expresses the prohibition; needn’t wait removes a separate obligation.",
+      "audioText": "The signs say guests mustn’t enter the workshop, but they needn’t wait outside for a guide."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "prompt": "What is the speaker telling the listener?",
+      "choices": [
+        "Bringing plates is unnecessary.",
+        "Bringing plates is forbidden.",
+        "Everyone must bring two plates."
+      ],
+      "answerIndex": 0,
+      "feedback": "Needn’t bring says that plates are not required, though they are not banned.",
+      "audioText": "You needn’t bring any plates to the picnic. We have enough for everyone."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "prompt": "Type the verb phrase immediately after “you”. You may use its contracted or full form.",
+      "acceptedAnswers": [
+        "needn’t purchase",
+        "need not purchase"
+      ],
+      "feedback": "Needn’t purchase uses the base verb without to.",
+      "audioText": "The equipment is provided, so you needn’t purchase any tools."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "prompt": "What does the speaker say about translating the guide?",
+      "choices": [
+        "The guide was never translated.",
+        "The translation will be required next week.",
+        "The speaker translated it unnecessarily."
+      ],
+      "answerIndex": 2,
+      "feedback": "Needn’t have translated confirms the action was performed but was unnecessary.",
+      "audioText": "I spent an hour translating the guide, but it already had an English version. I needn’t have translated it."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "prompt": "What did the group do?",
+      "choices": [
+        "They rented a van anyway.",
+        "They travelled using their own car.",
+        "They cancelled the journey."
+      ],
+      "answerIndex": 1,
+      "feedback": "The second clause states they used their own car; didn’t need to rent says van rental was unnecessary.",
+      "audioText": "We didn’t need to rent a van for the trip, so we used our own car instead."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "prompt": "Which sentence best captures the past situation?",
+      "choices": [
+        "I needn’t have signed the paper form.",
+        "I mustn’t have signed the paper form.",
+        "I never signed the paper form."
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker confirms signing, and the action was unnecessary: needn’t have signed.",
+      "audioText": "There was no need to sign the paper form, but I signed it anyway."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "prompt": "Type the verb phrase immediately after “We”. You may use its contracted or full form.",
+      "acceptedAnswers": [
+        "needn’t have ordered",
+        "need not have ordered"
+      ],
+      "feedback": "Needn’t have ordered shows that an unnecessary order really was placed.",
+      "audioText": "We needn’t have ordered extra food; almost everyone had eaten before arriving."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "prompt": "Type the negative verb phrase immediately after “Maya”. You may use its contracted or full form.",
+      "acceptedAnswers": [
+        "didn’t need to leave",
+        "did not need to leave"
+      ],
+      "feedback": "Didn’t need to leave means departure was not required; the second clause confirms she stayed.",
+      "audioText": "Maya didn’t need to leave early, so she stayed for the whole meeting."
+    }
+  ]
+}

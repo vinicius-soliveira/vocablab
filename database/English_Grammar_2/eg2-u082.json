@@ -1,0 +1,421 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u082",
+  "title": "Reflexive Pronouns: Same Person, Emphasis and Each Other",
+  "level": "B1",
+  "topicId": "eg2-u082-reflexive-pronouns-and-each-other",
+  "summary": "Use myself, yourself, himself, herself, itself, ourselves, yourselves and themselves when the subject and object refer to the same person or thing. Contrast reflexive actions with reciprocal each other, recognise verbs that normally take no reflexive pronoun, and add emphasis when someone acts personally.",
+  "learningObjectives": [
+    "Choose the reflexive pronoun that agrees with the subject in number and person.",
+    "Use reflexive pronouns as objects when the subject acts on itself, including after prepositions.",
+    "Distinguish looking after themselves from helping each other or one another.",
+    "Avoid unnecessary reflexives with common verbs and use reflexives to emphasise personal action."
+  ],
+  "explanation": [
+    {
+      "heading": "Forms and the same subject-object relationship",
+      "body": "Reflexive pronouns are myself, yourself, himself, herself, itself, ourselves, yourselves and themselves. Use one as an object when the action returns to the subject: He injured himself. Choose the form according to who or what performs the action. They also occur after prepositions when the reference is the same, as in proud of herself.",
+      "example": "I accidentally splashed myself while watering the plants."
+    },
+    {
+      "heading": "Common reflexive expressions",
+      "body": "Verbs such as introduce, blame, hurt, defend and enjoy often use a reflexive when the person acts upon or refers back to themselves. Help yourself to something is an invitation to take food or drink; for a group, use help yourselves. A different person takes an ordinary object pronoun, as in She introduced him to her colleagues.",
+      "example": "The new volunteers introduced themselves before the workshop started."
+    },
+    {
+      "heading": "When a reflexive is normally unnecessary",
+      "body": "English normally says feel better, relax, concentrate and meet without a reflexive. Routine actions such as wash, shave and dress also generally omit a reflexive unless the speaker needs to stress who is affected. Compare She washed and got dressed with She washed the dog. Don't add a reflexive automatically just because someone performs the action alone.",
+      "example": "After the walk, we sat down and relaxed."
+    },
+    {
+      "heading": "Reflexive action versus reciprocal action",
+      "body": "Themselves can mean each member acts on their own person or the group as a whole. Each other, or one another, means people act towards one another. If two runners look at themselves in a mirror, they see their own reflections; if they look at each other, they see the other runner. The situation determines the intended meaning.",
+      "example": "The two neighbours waved at each other from opposite balconies."
+    },
+    {
+      "heading": "Reflexives for emphasis",
+      "body": "A reflexive can add emphasis even when it is not an object: I wrote the invitation myself means nobody wrote it for me. The emphatic word may follow the noun or come later in the clause: the artist herself designed it; the artist designed it herself. Itself can emphasise a thing: The device itself works, but the cable is damaged. This is different from by myself, which is treated in the next unit.",
+      "example": "The coach herself carried the equipment onto the field."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Reflexive and ordinary object pronouns",
+      "left": {
+        "label": "Same person",
+        "example": "Noah introduced himself to the visitors.",
+        "note": "Noah is both the person introducing and the person introduced."
+      },
+      "right": {
+        "label": "Different person",
+        "example": "Noah introduced her to the visitors.",
+        "note": "Her refers to someone other than Noah."
+      }
+    },
+    {
+      "title": "Looking at oneself versus looking at one another",
+      "left": {
+        "label": "Reflexive action",
+        "example": "The dancers watched themselves in the mirror.",
+        "note": "The dancers watched their own reflections."
+      },
+      "right": {
+        "label": "Reciprocal action",
+        "example": "The dancers watched each other during the rehearsal.",
+        "note": "Each dancer watched the other dancers."
+      }
+    },
+    {
+      "title": "Required reflexive versus unnecessary reflexive",
+      "left": {
+        "label": "Reflexive needed",
+        "example": "Alia accidentally burned herself.",
+        "note": "The person burned is the subject herself."
+      },
+      "right": {
+        "label": "No reflexive normally needed",
+        "example": "Alia relaxed after the exam.",
+        "note": "Relax is ordinarily intransitive in this context."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Be careful with that sharp edge, or you might hurt yourself.",
+      "note": "Yourself refers back to the person being warned."
+    },
+    {
+      "sentence": "We taught ourselves the rules before joining the game.",
+      "note": "Ourselves shows that we were both teachers and learners."
+    },
+    {
+      "sentence": "The guests helped themselves to juice after the talk.",
+      "note": "The plural guests requires themselves."
+    },
+    {
+      "sentence": "After the disagreement, the sisters apologised to each other.",
+      "note": "Each other describes a two-way action, not separate actions on themselves."
+    },
+    {
+      "sentence": "The designer himself presented the new logo.",
+      "note": "Himself adds emphasis: the designer, not a representative, presented it."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I introduced me to the new neighbours.",
+      "correct": "I introduced myself to the new neighbours.",
+      "why": "The subject I and the introduced person are the same, so use myself rather than me."
+    },
+    {
+      "incorrect": "The children prepared the meal themself.",
+      "correct": "The children prepared the meal themselves.",
+      "why": "The plural subject children takes themselves, not themself."
+    },
+    {
+      "incorrect": "We met ourselves at the station.",
+      "correct": "We met at the station.",
+      "why": "When people meet, the verb does not normally need a reflexive object."
+    },
+    {
+      "incorrect": "The two friends exchanged gifts with themselves.",
+      "correct": "The two friends exchanged gifts with each other.",
+      "why": "A two-way exchange is reciprocal. Each other (or one another) expresses that relationship."
+    }
+  ],
+  "studyTips": [
+    "Underline the subject and ask who receives the action; if it is the same participant, test whether a reflexive is required.",
+    "Use pairs of sketches or sentences to distinguish themselves (their own reflections) from each other (the other person).",
+    "Practise a short group invitation using help yourselves, then describe work done personally using ourselves or myself for emphasis."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Nora saw her own reflection in the dark window. She recognised ___ immediately.",
+      "choices": [
+        "her",
+        "herself",
+        "each other"
+      ],
+      "answerIndex": 1,
+      "feedback": "Nora is the person seeing and being seen, so the reflexive is herself."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "You are speaking to two guests: 'Please help ___ to some water.'",
+      "choices": [
+        "yourself",
+        "themselves",
+        "yourselves"
+      ],
+      "answerIndex": 2,
+      "feedback": "When you addresses more than one person, the reflexive form is yourselves."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Each cyclist examined their own reflection in the shop window. The cyclists looked at ___.",
+      "choices": [
+        "themselves",
+        "each other",
+        "them"
+      ],
+      "answerIndex": 0,
+      "feedback": "They looked at their own reflections, so use themselves rather than reciprocal each other."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Jon and Bea exchanged phone numbers so that they could call ___.",
+      "choices": [
+        "themselves",
+        "each other",
+        "itself"
+      ],
+      "answerIndex": 1,
+      "feedback": "The action goes from each person to the other, so use each other."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "I accidentally cut ___ while opening the parcel. (same person; write the reflexive pronoun)",
+      "acceptedAnswers": [
+        "myself"
+      ],
+      "feedback": "I is the subject and the person injured; myself refers back to I."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The brothers apologised to ___ after the argument. (one to the other; use a reciprocal expression)",
+      "acceptedAnswers": [
+        "each other",
+        "one another"
+      ],
+      "feedback": "Each other and one another both express a two-way action."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We completed the decorations ___; no one else helped. (write the emphatic reflexive)",
+      "acceptedAnswers": [
+        "ourselves"
+      ],
+      "feedback": "Ourselves emphasises that we personally did the work."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The speaker paused to ___ before answering. (use the verb concentrate; do not add a reflexive)",
+      "acceptedAnswers": [
+        "concentrate"
+      ],
+      "feedback": "Concentrate normally appears without a reflexive pronoun."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: During my speech, I described me as a beginner.",
+      "acceptedAnswers": [
+        "During my speech, I described myself as a beginner."
+      ],
+      "feedback": "The subject I refers to the same person as the object, so use myself."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The hikers kept themself warm by walking.",
+      "acceptedAnswers": [
+        "The hikers kept themselves warm by walking."
+      ],
+      "feedback": "The plural noun hikers requires the plural reflexive themselves."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We arranged to meet ourselves at the café.",
+      "acceptedAnswers": [
+        "We arranged to meet at the café."
+      ],
+      "feedback": "Meet is normally used without a reflexive when people arrange to see each other."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Two players greeted themselves with a handshake before the match.",
+      "acceptedAnswers": [
+        "Two players greeted each other with a handshake before the match.",
+        "Two players greeted one another with a handshake before the match."
+      ],
+      "feedback": "A handshake between two people is reciprocal, so use each other or one another."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "You looked in a mirror and saw your own reflection. Say one sentence starting 'I saw' and ending 'in the mirror'.",
+      "acceptedAnswers": [
+        "I saw myself in the mirror."
+      ],
+      "feedback": "The object is the same person as the subject I, so use myself."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Mila repaired the lamp without help. Emphasise that she did the work personally. Begin with 'Mila fixed' and end with 'herself'.",
+      "acceptedAnswers": [
+        "Mila fixed the lamp herself."
+      ],
+      "feedback": "Herself adds emphasis without being the object of fixed."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Tariq joined the team yesterday and told the members who he was, without anyone presenting him. Express this using 'introduced himself'; begin with 'Tariq' and end with 'yesterday'.",
+      "acceptedAnswers": [
+        "Tariq introduced himself to the team yesterday."
+      ],
+      "feedback": "Use himself because Tariq and the person introduced are the same."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Nobody helped your group decorate the room. Use 'We decorated' and end with 'ourselves'.",
+      "acceptedAnswers": [
+        "We decorated the room ourselves."
+      ],
+      "feedback": "Ourselves emphasises personal action by we."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Two players congratulated one another after the match. Say one complete sentence starting 'The players' and using a reciprocal expression.",
+      "acceptedAnswers": [
+        "The players congratulated each other after the match.",
+        "The players congratulated one another after the match."
+      ],
+      "feedback": "Each other and one another both show that each person congratulated the other."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Jules is nervous before the interview and needs to relax. Say one sentence beginning 'Jules needs', ending 'before the interview', and using no reflexive pronoun.",
+      "acceptedAnswers": [
+        "Jules needs to relax before the interview."
+      ],
+      "feedback": "Relax does not normally take a reflexive pronoun here."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Produce exactly two sentences using these facts and verbs. First: Kira and Noah / looked at / themselves / in the mirror. Second: they / greeted / each other / afterwards. Begin with 'Kira and Noah' and then 'They'.",
+      "acceptedAnswers": [
+        "Kira and Noah looked at themselves in the mirror. They greeted each other afterwards.",
+        "Kira and Noah looked at themselves in the mirror. They greeted one another afterwards."
+      ],
+      "feedback": "Themselves describes their reflections; each other or one another describes a two-way greeting."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You are inviting several guests to take the sandwiches on the table. Say one sentence, beginning 'Please' and using the exact expression 'help yourselves to the sandwiches'.",
+      "acceptedAnswers": [
+        "Please help yourselves to the sandwiches."
+      ],
+      "feedback": "The plural addressees require yourselves in this invitation."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "prompt": "Who did Leo introduce?",
+      "choices": [
+        "A visiting engineer.",
+        "His manager.",
+        "Himself."
+      ],
+      "answerIndex": 2,
+      "feedback": "Introduced himself means Leo presented his own identity; the manager presented another person.",
+      "audioText": "At the meeting, Leo introduced himself to the team. His manager introduced a visiting engineer."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "prompt": "What did Lina and Noah look at?",
+      "choices": [
+        "Their own reflections.",
+        "One another's faces directly.",
+        "A photograph of their friends."
+      ],
+      "answerIndex": 0,
+      "feedback": "Themselves refers to their reflections; each other would mean one person looking at the other.",
+      "audioText": "Lina and Noah looked at themselves in the shop window, not at each other."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "prompt": "Type the single reflexive pronoun immediately after 'helped'.",
+      "acceptedAnswers": [
+        "themselves"
+      ],
+      "feedback": "The plural guests helped themselves to food; no other person served them.",
+      "audioText": "After the hike, the guests helped themselves to bowls of hot soup."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "prompt": "Who put the shelves together?",
+      "choices": [
+        "The delivery staff.",
+        "The speakers themselves.",
+        "A professional carpenter."
+      ],
+      "answerIndex": 1,
+      "feedback": "Ourselves emphasises that the speakers performed the assembly.",
+      "audioText": "We assembled the shelves ourselves. The delivery company only brought the boxes."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "prompt": "What did Sam and Vera do when they reunited?",
+      "choices": [
+        "They greeted someone else.",
+        "They stood apart without touching.",
+        "They embraced one another."
+      ],
+      "answerIndex": 2,
+      "feedback": "Each other expresses a reciprocal hug between the two people.",
+      "audioText": "When Sam and Vera met again after five years, they hugged each other and laughed."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "prompt": "What changed for the speaker?",
+      "choices": [
+        "They became calmer and focused on the interview.",
+        "They left before the interview.",
+        "They introduced a new interviewer."
+      ],
+      "answerIndex": 0,
+      "feedback": "Relaxed and concentrated show a calmer, more focused state, with no unnecessary reflexive pronouns.",
+      "audioText": "I felt nervous at first, but I relaxed and concentrated during the interview."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "prompt": "Type the single word heard immediately after 'reminded'.",
+      "acceptedAnswers": [
+        "myself"
+      ],
+      "feedback": "Myself refers back to I: the speaker reminded the same person.",
+      "audioText": "I reminded myself to turn off the lights before leaving the office."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "prompt": "Type the two-word reciprocal expression immediately after 'congratulated'.",
+      "acceptedAnswers": [
+        "one another"
+      ],
+      "feedback": "One another indicates that the neighbours congratulated each other.",
+      "audioText": "The neighbours congratulated one another after finishing the community garden."
+    }
+  ]
+}

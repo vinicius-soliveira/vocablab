@@ -1,0 +1,407 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u042",
+  "title": "Passive Voice: Present and Past Simple",
+  "level": "B1",
+  "topicId": "eg2-u042-passive-present-past-simple",
+  "summary": "Use am/is/are or was/were with a past participle to focus on what receives an action, rather than who performs it. Contrast active and passive statements, questions and negatives in the present simple and past simple.",
+  "learningObjectives": [
+    "Distinguish an active clause from a passive clause by identifying who performs and who receives the action.",
+    "Form present-simple passives with am/is/are + past participle for general processes and repeated events.",
+    "Form past-simple passives with was/were + past participle for completed past events.",
+    "Create accurate passive negatives and questions and include by + agent only when the actor is relevant."
+  ],
+  "explanation": [
+    {
+      "heading": "Choose the viewpoint: doer or receiver",
+      "body": "An active clause presents the person or thing doing the action as its subject. A passive clause makes the person or thing affected by the action the subject. Choose the passive when the result or receiver matters more, or when the actor is unknown or unnecessary. The action still takes place; only the viewpoint changes.",
+      "example": "The caretaker locks the gates at night. The gates are locked at night."
+    },
+    {
+      "heading": "The passive pattern: be + past participle",
+      "body": "Build a passive with a form of be followed by a past participle. Regular participles often end in -ed, but many are irregular: made, sent, written, built and stolen. Do not leave out be, and do not use the base verb immediately after be to form a passive.",
+      "example": "The invitations are sent from the main office."
+    },
+    {
+      "heading": "Present-simple passive for routines and facts",
+      "body": "Use am, is or are + past participle for regular actions, rules and general facts. Select the form of be to agree with the new subject. A singular item takes is; plural items take are. The passive does not tell you who acts unless you choose to add that information.",
+      "example": "The swimming pool is inspected every morning."
+    },
+    {
+      "heading": "Past-simple passive for completed events",
+      "body": "Use was or were + past participle for a passive event at a finished time in the past. A singular subject takes was, while a plural subject takes were. Time expressions such as yesterday, last year or during the storm help identify when the action happened.",
+      "example": "The old streetlights were replaced last winter."
+    },
+    {
+      "heading": "Negatives, questions and by + actor",
+      "body": "Make negatives with be + not + past participle. For yes/no questions, put the form of be before the subject: Was the package delivered? For wh-questions, put the question word first: When were the rooms painted? Use by when the actor adds useful information; omit it when it is unimportant.",
+      "example": "Were the instructions written by the safety team?"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Active action versus passive result",
+      "left": {
+        "label": "Active",
+        "example": "A volunteer checks the tickets.",
+        "note": "The person performing the action is the subject."
+      },
+      "right": {
+        "label": "Passive",
+        "example": "The tickets are checked by a volunteer.",
+        "note": "The tickets become the subject; the actor can be named after by."
+      }
+    },
+    {
+      "title": "Routine action versus completed event",
+      "left": {
+        "label": "Present passive",
+        "example": "The equipment is tested every Monday.",
+        "note": "Is tested describes a repeated current procedure."
+      },
+      "right": {
+        "label": "Past passive",
+        "example": "The equipment was tested last Monday.",
+        "note": "Was tested describes one completed past procedure."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The meeting rooms are cleaned after every event.",
+      "note": "Are cleaned is a present-simple passive with a plural subject."
+    },
+    {
+      "sentence": "My backpack was found near the reception desk yesterday.",
+      "note": "Was found focuses on the recovered object and uses an irregular participle."
+    },
+    {
+      "sentence": "Are these bicycles repaired here?",
+      "note": "The question starts with are and keeps repaired as the participle."
+    },
+    {
+      "sentence": "The documents were not signed before the deadline.",
+      "note": "Were not signed is a negative past passive with a plural subject."
+    },
+    {
+      "sentence": "The new mural was painted by local students.",
+      "note": "By names the actors because their identity adds information."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The forms is checked every afternoon.",
+      "correct": "The forms are checked every afternoon.",
+      "why": "Forms is plural, so the present passive needs are."
+    },
+    {
+      "incorrect": "The festival was organise last year.",
+      "correct": "The festival was organised last year.",
+      "why": "A passive needs a past participle after was."
+    },
+    {
+      "incorrect": "Where the parcels were delivered?",
+      "correct": "Where were the parcels delivered?",
+      "why": "In a passive question, put were before the subject the parcels."
+    },
+    {
+      "incorrect": "The manager was arrived at ten.",
+      "correct": "The manager arrived at ten.",
+      "why": "Arrive does not take an object, so it cannot normally form an ordinary passive."
+    }
+  ],
+  "studyTips": [
+    "Underline the object in an active sentence and move it to the subject position; then choose be to match the new subject.",
+    "Practise pairs of regular and irregular participles: repair/repaired, send/sent, make/made and build/built.",
+    "Check the time expression first: every day normally calls for is/are; last night normally calls for was/were."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The museum floors ___ by volunteers every Saturday.",
+      "choices": [
+        "were cleaned",
+        "are cleaned",
+        "clean"
+      ],
+      "answerIndex": 1,
+      "feedback": "Every Saturday describes a routine; floors is plural, so use are cleaned."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The conference rooms ___ for yesterday’s workshop.",
+      "choices": [
+        "were prepared",
+        "was prepared",
+        "are preparing"
+      ],
+      "answerIndex": 0,
+      "feedback": "Yesterday points to the past; rooms is plural, so were prepared is the correct passive."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "How ___ these biscuits normally made?",
+      "choices": [
+        "do",
+        "were",
+        "are"
+      ],
+      "answerIndex": 2,
+      "feedback": "How are ... made is a present passive question about a regular process."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The artist ___ the mural in 2021.",
+      "choices": [
+        "was painted",
+        "painted",
+        "is painted"
+      ],
+      "answerIndex": 1,
+      "feedback": "The artist performed the action, so an active past verb, painted, is needed."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Several documents ___ (send) to customers every Monday. Write the present-simple passive verb phrase.",
+      "acceptedAnswers": [
+        "are sent"
+      ],
+      "feedback": "Documents is plural; are + sent forms a present passive."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The statue ___ (damage) in the storm last night. Write the past-simple passive verb phrase.",
+      "acceptedAnswers": [
+        "was damaged"
+      ],
+      "feedback": "The singular subject statue takes was damaged for a past event."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Visitors ___ (not / allow) inside the building on Sundays. Write the negative present passive verb phrase.",
+      "acceptedAnswers": [
+        "aren't allowed",
+        "are not allowed"
+      ],
+      "feedback": "Visitors is plural; are not allowed expresses a regular restriction."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Where ___ (the bicycles / store) at the end of each shift? Write the passive question words after Where.",
+      "acceptedAnswers": [
+        "are the bicycles stored"
+      ],
+      "feedback": "In a present passive question use are + subject + past participle."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: These packages is delivered every Tuesday.",
+      "acceptedAnswers": [
+        "These packages are delivered every Tuesday."
+      ],
+      "feedback": "Packages is plural, requiring are in the present passive."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The new bridge built in 2014.",
+      "acceptedAnswers": [
+        "The new bridge was built in 2014."
+      ],
+      "feedback": "A past passive needs was before the irregular past participle built."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: When was the visitors informed about the change?",
+      "acceptedAnswers": [
+        "When were the visitors informed about the change?"
+      ],
+      "feedback": "The plural subject visitors requires were rather than was."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The report was finish last night.",
+      "acceptedAnswers": [
+        "The report was finished last night."
+      ],
+      "feedback": "Use the participle finished after the past passive auxiliary was."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Describe this daily routine in one passive sentence: the halls; clean; each evening. Begin “The halls”.",
+      "acceptedAnswers": [
+        "The halls are cleaned each evening."
+      ],
+      "feedback": "The plural subject halls takes are cleaned."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Yesterday a technician repaired your laptop. Focus on the laptop rather than the technician. Begin “My laptop” and end “yesterday”.",
+      "acceptedAnswers": [
+        "My laptop was repaired yesterday."
+      ],
+      "feedback": "The singular object becomes the subject and takes was repaired."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Change this active fact into one passive sentence, leaving out the actor: “A volunteer checks the tickets at the entrance.” Begin “The tickets”.",
+      "acceptedAnswers": [
+        "The tickets are checked at the entrance."
+      ],
+      "feedback": "The original object tickets becomes the plural passive subject."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Your colleagues did not sign the documents on Monday. Report that fact using a negative past passive, beginning “The documents”.",
+      "acceptedAnswers": [
+        "The documents weren't signed on Monday.",
+        "The documents were not signed on Monday."
+      ],
+      "feedback": "Were not signed expresses a negative past passive."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Ask when the bridge was constructed. Use the exact verb build in a past passive question and begin “When”.",
+      "acceptedAnswers": [
+        "When was the bridge built?"
+      ],
+      "feedback": "Past passive questions invert was and the singular subject."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Use a present passive sentence to say that your team writes the newsletter. Begin “The newsletter” and mention the agent using by.",
+      "acceptedAnswers": [
+        "The newsletter is written by our team."
+      ],
+      "feedback": "Is written is a present passive; by names the agent."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this sentence aloud, changing only the auxiliary: “The chairs was delivered before noon.”",
+      "acceptedAnswers": [
+        "The chairs were delivered before noon."
+      ],
+      "feedback": "A plural passive subject takes were, not was."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two passive sentences about these facts. First: the orders / pack / every morning. Second: the orders / collect / yesterday afternoon. Begin each sentence with “The orders”.",
+      "acceptedAnswers": [
+        "The orders are packed every morning. The orders were collected yesterday afternoon."
+      ],
+      "feedback": "Are packed expresses a routine; were collected reports a finished past event."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "audioText": "The front door is locked at eight each evening, although the courtyard stays open until nine.",
+      "id": "li-01",
+      "type": "multiple-choice",
+      "prompt": "What is locked at eight?",
+      "choices": [
+        "The courtyard",
+        "The front door",
+        "All the meeting rooms"
+      ],
+      "answerIndex": 1,
+      "feedback": "Is locked refers to the front door; the courtyard stays open."
+    },
+    {
+      "audioText": "A painting was stolen from the gallery last winter, but it was returned yesterday.",
+      "id": "li-02",
+      "type": "multiple-choice",
+      "prompt": "When did the theft take place?",
+      "choices": [
+        "Last winter",
+        "Yesterday",
+        "Next winter"
+      ],
+      "answerIndex": 0,
+      "feedback": "The painting was stolen last winter, not yesterday; yesterday is when it was returned."
+    },
+    {
+      "audioText": "Fresh bread is delivered to the café before six every morning.",
+      "id": "li-03",
+      "type": "gap-fill",
+      "prompt": "Type the two-word passive verb phrase immediately after “Fresh bread”.",
+      "acceptedAnswers": [
+        "is delivered"
+      ],
+      "feedback": "Is delivered is the present passive describing a repeated delivery."
+    },
+    {
+      "audioText": "The manager approved the new timetable, and it was emailed to the staff this morning.",
+      "id": "li-04",
+      "type": "multiple-choice",
+      "prompt": "Who approved the timetable?",
+      "choices": [
+        "The staff",
+        "The email provider",
+        "The manager"
+      ],
+      "answerIndex": 2,
+      "feedback": "The first clause names the manager as the person who approved the timetable."
+    },
+    {
+      "audioText": "Bicycles are repaired at our workshop, but spare parts are ordered from a supplier.",
+      "id": "li-05",
+      "type": "multiple-choice",
+      "prompt": "Which action happens at the workshop?",
+      "choices": [
+        "Bicycles are repaired",
+        "Spare parts are manufactured",
+        "Suppliers collect all bicycles"
+      ],
+      "answerIndex": 0,
+      "feedback": "Are repaired at our workshop names the action done there."
+    },
+    {
+      "audioText": "The community garden was designed by local students, not by a professional firm.",
+      "id": "li-06",
+      "type": "multiple-choice",
+      "prompt": "Who created the garden design?",
+      "choices": [
+        "A professional design firm",
+        "Local students",
+        "The shop manager"
+      ],
+      "answerIndex": 1,
+      "feedback": "By local students names the agents of the passive action."
+    },
+    {
+      "audioText": "We weren't invited to the opening ceremony last Friday.",
+      "id": "li-07",
+      "type": "gap-fill",
+      "prompt": "Type the negative passive auxiliary phrase immediately after “We”.",
+      "acceptedAnswers": [
+        "weren't invited",
+        "were not invited"
+      ],
+      "feedback": "Were not invited is the past passive negative."
+    },
+    {
+      "audioText": "The pedestrian bridge was built in 1998 and repaired recently.",
+      "id": "li-08",
+      "type": "gap-fill",
+      "prompt": "Type the two-word passive verb phrase immediately after “The pedestrian bridge”.",
+      "acceptedAnswers": [
+        "was built"
+      ],
+      "feedback": "Was built is the past passive using the irregular participle built."
+    }
+  ]
+}

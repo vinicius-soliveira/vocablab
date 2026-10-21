@@ -1,0 +1,409 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u010",
+  "title": "Present perfect simple vs continuous: results and activity",
+  "level": "B2",
+  "topicId": "eg2-u010-present-perfect-simple-vs-continuous",
+  "summary": "Choose between the present perfect simple for completed results, counts and achievements and the present perfect continuous for ongoing or recent activity and duration. Recognise cases where a state verb requires the simple form, and interpret the difference in meaning.",
+  "learningObjectives": [
+    "Choose the continuous form to emphasise recent effort or the duration of an activity, without assuming completion.",
+    "Choose the simple form when a completed result, quantity or number of occurrences matters.",
+    "Ask contrasting how-long and how-many questions with the appropriate present perfect form.",
+    "Use the present perfect simple with state verbs such as know and own, while recognising natural exceptions such as have been meaning to."
+  ],
+  "explanation": [
+    {
+      "heading": "Focus on the activity or on its completed result",
+      "body": "The present perfect continuous highlights an activity across time: what someone has been doing. It may be unfinished, or it may have stopped very recently. The present perfect simple highlights something completed and its consequence now. The same verb may work in either form, but the focus changes. Do not assume that a continuous statement by itself tells you whether the task is finished.",
+      "example": "Jun has been designing the poster; he has designed the final version now."
+    },
+    {
+      "heading": "Use the simple for finished pieces of work and measurable totals",
+      "body": "When you give a number of completed items, a completed change or a result already achieved, use have/has + past participle. Phrases such as four reports, twice, all the invitations or the final draft often point to a completed count or outcome. Continuous forms generally describe the work rather than count distinct completions.",
+      "example": "We have sent nine reminders since the registration opened."
+    },
+    {
+      "heading": "Use the continuous for how long an activity has lasted",
+      "body": "Ask how long have/has ... been + -ing when the focus is time spent on an activity still happening or only just stopped. Ask how many, how much or how many times with the simple present perfect when counting completed items, quantity achieved or distinct finished events. One speaker can use both forms to describe the same project.",
+      "example": "How long have you been developing the app, and how many screens have you finished?"
+    },
+    {
+      "heading": "Read evidence carefully: effort does not guarantee completion",
+      "body": "Messy hands, fatigue, noise or an interrupted task often draw attention to what someone has been doing; a fixed machine, a packed suitcase or a submitted form draws attention to the completed result. Context can make either tense reasonable in some situations, so choose the one that matches the explicit message rather than applying a one-word rule.",
+      "example": "Kai has been assembling shelves all day, but he has assembled only two so far."
+    },
+    {
+      "heading": "State verbs and a useful exception",
+      "body": "Verbs that describe possession, knowledge or stable states usually resist the continuous form: use I have known, we have owned, and she has had rather than have been knowing or have been owning. Some uses of normally stative verbs do allow a continuous reading: “I have been meaning to reply” is natural when describing an intention repeatedly left undone.",
+      "example": "I have known this neighbourhood for years, but I have been meaning to explore the new park."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Effort in progress versus completed output",
+      "left": {
+        "label": "Activity in focus",
+        "example": "Eva has been updating the guide all afternoon.",
+        "note": "We know she has spent time on it; completion is not established."
+      },
+      "right": {
+        "label": "Result in focus",
+        "example": "Eva has updated all six sections of the guide.",
+        "note": "Six finished sections are the reported achievement."
+      }
+    },
+    {
+      "title": "Duration versus number completed",
+      "left": {
+        "label": "How long?",
+        "example": "How long have they been filming the interviews?",
+        "note": "The continuous asks about time spent on the activity."
+      },
+      "right": {
+        "label": "How many?",
+        "example": "How many interviews have they filmed?",
+        "note": "The simple asks for the total of completed interviews."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "We have been repainting the fence, so there are drops of paint on the path.",
+      "note": "The recent effort is the point; the fence may not yet be finished."
+    },
+    {
+      "sentence": "The volunteers have repaired seven bicycles this morning.",
+      "note": "The simple form counts completed repairs."
+    },
+    {
+      "sentence": "How long has Priya been preparing for the audition?",
+      "note": "A duration question typically takes the continuous when the action is ongoing."
+    },
+    {
+      "sentence": "I have had this notebook since my first semester.",
+      "note": "The state of possession takes have had, not have been having."
+    },
+    {
+      "sentence": "I have been meaning to introduce you to my supervisor.",
+      "note": "Have been meaning to describes an ongoing intention that has not yet been acted on."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I have been knowing Clara for ten years.",
+      "correct": "I have known Clara for ten years.",
+      "why": "Know is a state verb and normally uses the present perfect simple."
+    },
+    {
+      "incorrect": "They have been finished eight portraits this month.",
+      "correct": "They have finished eight portraits this month.",
+      "why": "Eight portraits is a count of completed products; use have finished."
+    },
+    {
+      "incorrect": "How many articles have you been published so far?",
+      "correct": "How many articles have you published so far?",
+      "why": "A question about completed articles needs the present perfect simple."
+    },
+    {
+      "incorrect": "He has worked on the sculpture all morning and is still shaping it.",
+      "correct": "He has been working on the sculpture all morning and is still shaping it.",
+      "why": "For a continuing activity and its duration, use has been working."
+    }
+  ],
+  "studyTips": [
+    "Ask “Do I mean time and effort, or a finished outcome?” before choosing between been + -ing and the past participle.",
+    "Write two updates about the same task: one with how long and the continuous, another with how many and the simple.",
+    "Keep a small set of state verbs—know, own and have (possession)—and practise them with the simple present perfect."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The editor ___ all five articles, and the magazine can now go to print.",
+      "choices": [
+        "has been checking",
+        "has checked",
+        "have checked"
+      ],
+      "answerIndex": 1,
+      "feedback": "All five articles and the readiness to print make the completed result important: has checked."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Your hands are covered in soil. Ask about the recent activity rather than whether planting is finished: ___ flowers in the garden?",
+      "choices": [
+        "Have you been planting",
+        "Have you planted all",
+        "Do you been planting"
+      ],
+      "answerIndex": 0,
+      "feedback": "The question asks about recent activity evidenced by muddy hands, without assuming finished work."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "___ that old piano? You started restoring it in the spring and are still working on it.",
+      "choices": [
+        "How many have you restored",
+        "How long have you been restoring",
+        "How long did you restored"
+      ],
+      "answerIndex": 1,
+      "feedback": "How long asks about time spent on an unfinished activity."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The team ___ three working prototypes so far, although development is continuing.",
+      "choices": [
+        "has been building",
+        "have build",
+        "has built"
+      ],
+      "answerIndex": 2,
+      "feedback": "Three prototypes is a count of completed outputs; the collective team is treated as singular here."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The translator ___ (translate) twelve short stories so far this year. Write the present-perfect-simple verb phrase.",
+      "acceptedAnswers": [
+        "has translated"
+      ],
+      "feedback": "The quantity twelve counts completed stories, so use has translated."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Marta has wet paint on her hands. She ___ (paint) a mural for the school, and she has not finished it. Write the present-perfect-continuous verb phrase.",
+      "acceptedAnswers": [
+        "has been painting"
+      ],
+      "feedback": "The painting activity is not yet finished and explains the evidence on her hands."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "This camera still works perfectly. I ___ (have) it since my first job. Write the present-perfect-simple verb phrase.",
+      "acceptedAnswers": [
+        "have had",
+        "'ve had"
+      ],
+      "feedback": "Have meaning own describes a state, so possession over time takes have had."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "I ___ (mean) to thank you for your help, but I keep forgetting. Write the natural present-perfect-continuous verb phrase.",
+      "acceptedAnswers": [
+        "have been meaning",
+        "'ve been meaning"
+      ],
+      "feedback": "Have been meaning to expresses an intention that has persisted without being carried out."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I have been knowing the owner of this café for years.",
+      "acceptedAnswers": [
+        "I have known the owner of this café for years."
+      ],
+      "feedback": "Know is not normally used in a continuous form; use have known."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Sofia has been completed four training modules this week.",
+      "acceptedAnswers": [
+        "Sofia has completed four training modules this week."
+      ],
+      "feedback": "Four finished modules are a completed count, so use has completed."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: How many concerts have they been performed this year?",
+      "acceptedAnswers": [
+        "How many concerts have they performed this year?"
+      ],
+      "feedback": "A count of finished performances uses have performed, not have been performed."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: He has restored that wooden chair all afternoon and is still working on it.",
+      "acceptedAnswers": [
+        "He has been restoring that wooden chair all afternoon and is still working on it."
+      ],
+      "feedback": "An activity still under way over a period calls for has been restoring, not has restored."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "State the number of completed tasks in one sentence. Facts: Aisha / finish / six illustrations / this week. Begin with “Aisha” and use the present perfect simple.",
+      "acceptedAnswers": [
+        "Aisha has finished six illustrations this week.",
+        "Aisha's finished six illustrations this week."
+      ],
+      "feedback": "Has finished reports six completed results."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask your colleague directly how long they have been working on the archive. Begin with “How long” and use the present perfect continuous.",
+      "acceptedAnswers": [
+        "How long have you been working on the archive?"
+      ],
+      "feedback": "Have you been working asks about the duration of the continuing project."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Your friend is covered in flour. Ask whether they have recently been baking bread. Begin with “Have you”.",
+      "acceptedAnswers": [
+        "Have you been baking bread?"
+      ],
+      "feedback": "The continuous is natural when asking about an activity suggested by present evidence."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Ask for a total number of finished sketches. Use the exact question content: how many sketches / Nora / complete / so far? Begin with “How many sketches”.",
+      "acceptedAnswers": [
+        "How many sketches has Nora completed so far?"
+      ],
+      "feedback": "Has completed asks for the number of finished sketches."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Report a state lasting until now. Facts: I / know / Elena / for five years. Begin with “I” and use the correct present perfect, not a continuous form.",
+      "acceptedAnswers": [
+        "I have known Elena for five years.",
+        "I've known Elena for five years."
+      ],
+      "feedback": "Know is a state verb; have known describes the relationship over time."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Report an unfinished intention. Use: I / mean / to write to you / for weeks. Begin with “I” and use have been meaning.",
+      "acceptedAnswers": [
+        "I have been meaning to write to you for weeks.",
+        "I've been meaning to write to you for weeks."
+      ],
+      "feedback": "Have been meaning to is a natural continuous expression for an unfulfilled intention."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Change this statement to focus on an ongoing activity instead of a completed result. Say the sentence exactly, using “been”: “They have repaired the roof all morning, and they are still working on it.”",
+      "acceptedAnswers": [
+        "They have been repairing the roof all morning, and they are still working on it."
+      ],
+      "feedback": "The ongoing work plus all morning calls for have been repairing."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences using full forms. First: “We / work / on the display / since Monday” with the present perfect continuous. Second: “We / finish / three panels / so far” with the simple present perfect. Begin both sentences with “We”.",
+      "acceptedAnswers": [
+        "We have been working on the display since Monday. We have finished three panels so far."
+      ],
+      "feedback": "The continuous names the duration of work; the simple counts completed panels."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "prompt": "What has the speaker achieved so far?",
+      "choices": [
+        "The repair is finished and successful.",
+        "The speaker has been working but the radio still has a problem.",
+        "The speaker has not started work."
+      ],
+      "answerIndex": 1,
+      "feedback": "The continuous highlights the effort; the second clause says the fault remains.",
+      "audioText": "I have been repairing the radio all afternoon, but the sound is still distorted."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "prompt": "What has happened to the logo designs?",
+      "choices": [
+        "Five versions have been completed.",
+        "The designer has only planned the first version.",
+        "No version has been selected."
+      ],
+      "answerIndex": 0,
+      "feedback": "Has created five reports a completed count, and has chosen marks a result.",
+      "audioText": "Our designer has created five versions of the logo, and the client has chosen the last one."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "prompt": "Type the three-word verb phrase immediately after “I”.",
+      "acceptedAnswers": [
+        "have been sorting"
+      ],
+      "feedback": "Have been sorting describes work extending from an earlier starting point.",
+      "audioText": "I have been sorting the photographs since breakfast."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "prompt": "Which detail describes a completed result rather than the duration?",
+      "choices": [
+        "The six weeks of writing",
+        "The introduction and two finished chapters",
+        "The time when Lena began learning to write"
+      ],
+      "answerIndex": 1,
+      "feedback": "Has completed counts finished material, whereas has been writing gives duration.",
+      "audioText": "Lena has been writing the guide for six weeks. She has completed only the introduction and two chapters."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "prompt": "Which statement is correct?",
+      "choices": [
+        "The speaker began owning the shop in July.",
+        "The renovation lasted twelve years.",
+        "The ownership started before the renovations."
+      ],
+      "answerIndex": 2,
+      "feedback": "Have owned expresses a long-running state; have been renovating refers to a more recent activity.",
+      "audioText": "I have owned this little bookshop for twelve years, but I have been renovating it only since July."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "prompt": "Which question would have forty as its answer?",
+      "choices": [
+        "How many lunch boxes have they packed?",
+        "How long have they been preparing food?",
+        "When did the volunteers arrive?"
+      ],
+      "answerIndex": 0,
+      "feedback": "Forty is the number of completed boxes, so how many and the simple perfect fit.",
+      "audioText": "The volunteers have packed forty lunch boxes. They have been preparing food since sunrise."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "prompt": "Type the two-word present-perfect verb phrase immediately after “The workshop”.",
+      "acceptedAnswers": [
+        "has produced"
+      ],
+      "feedback": "Has produced reports a completed quantity during the ongoing month.",
+      "audioText": "The workshop has produced twelve chairs this month."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "prompt": "Type the two-word verb phrase immediately after “I”.",
+      "acceptedAnswers": [
+        "have known"
+      ],
+      "feedback": "Have known, not have been knowing, is used for this ongoing state.",
+      "audioText": "I have known Priya since we studied together."
+    }
+  ]
+}

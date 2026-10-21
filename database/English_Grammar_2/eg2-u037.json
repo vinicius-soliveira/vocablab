@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u037",
+  "title": "Polite Requests, Permission, Offers and Invitations",
+  "level": "B1",
+  "topicId": "eg2-u037-polite-requests-permission-offers-invitations",
+  "summary": "Use can, could, may, do you mind, would you like and I’d like to ask for help or things, seek permission, offer help and invite people. Choose the structure that matches your intention and the level of politeness.",
+  "learningObjectives": [
+    "Ask another person to do a specific action with can you, could you or do you think you could.",
+    "Request an item or ask permission using an appropriate can, could, may or do you mind question.",
+    "Distinguish an offer of help from an invitation and use would you like with a noun or to-infinitive.",
+    "State a polite preference using I would like and respond appropriately to a permission question."
+  ],
+  "explanation": [
+    {
+      "heading": "Requesting another person’s action",
+      "body": "Use Can you + base verb to ask someone to do something. Could you + base verb usually sounds a little less direct, especially when speaking to a stranger or making an inconvenient request. Add please when suitable. Do you think you could + base verb softens a larger favour. This last expression is a tactful request, not a question about the person’s actual ability.",
+      "example": "Could you check the meeting room before everyone arrives, please?"
+    },
+    {
+      "heading": "Asking for an item or service",
+      "body": "At a counter, café or reception desk, Can I have …? and Could I have …? ask for something you want to receive. Can I get …? is also common in everyday conversation. May I have …? is more formal. Keep the person and the requested item clear; Could you bring …? instead asks the other person to perform an action.",
+      "example": "Could I have a copy of the schedule, please?"
+    },
+    {
+      "heading": "Asking permission for your own action",
+      "body": "Use Can I …? or Could I …? before a base verb when you want to do something yourself. May I …? is a more formal option. Do you mind if I + present simple and Is it OK if I + present simple ask whether an action is acceptable. With Do you mind if I …?, a reply such as No, not at all normally gives permission; Yes, I mind refuses it.",
+      "example": "Do you mind if I charge my phone here?"
+    },
+    {
+      "heading": "Offering help and inviting people",
+      "body": "Can I + base verb commonly offers an action you are willing to do for another person. Would you like + noun offers an item; Would you like to + base verb invites someone to do an activity. Do you like …? is generally about preferences, not an immediate offer or invitation. A short acceptance or refusal can be polite without a long explanation.",
+      "example": "Would you like to join our walking group on Sunday?"
+    },
+    {
+      "heading": "Stating wants politely",
+      "body": "I would like, often shortened to I’d like, is a courteous way to state what you want. Follow it with a noun or to + base verb: I’d like a seat; I’d like to book a seat. When answering an offer, That would be lovely or Yes, please accepts it; No, thanks declines it. Choose words that fit the relationship and situation rather than treating one expression as universally correct.",
+      "example": "I’d like to book a table for four, please."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Request versus permission",
+      "left": {
+        "label": "Could you + verb",
+        "example": "Could you switch on the projector?",
+        "note": "You want someone else to do the action."
+      },
+      "right": {
+        "label": "Could I + verb",
+        "example": "Could I use the projector?",
+        "note": "You want to do the action yourself and need permission."
+      }
+    },
+    {
+      "title": "Immediate invitation versus general preference",
+      "left": {
+        "label": "Would you like to …?",
+        "example": "Would you like to visit the museum with us tomorrow?",
+        "note": "This invites someone to one particular activity."
+      },
+      "right": {
+        "label": "Do you like …?",
+        "example": "Do you like visiting museums?",
+        "note": "This asks about a general preference, not a specific invitation."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Do you think you could cover the front desk for ten minutes?",
+      "note": "The longer request form makes the favour sound less demanding."
+    },
+    {
+      "sentence": "May I leave my coat at reception?",
+      "note": "May I is a relatively formal way to request permission for your own action."
+    },
+    {
+      "sentence": "Can I bring you a chair?",
+      "note": "Can I introduces an offer to do something helpful."
+    },
+    {
+      "sentence": "Would you like some fruit after lunch?",
+      "note": "Would you like + noun offers a thing rather than an activity."
+    },
+    {
+      "sentence": "No, not at all. You can sit there.",
+      "note": "No, not at all answers Do you mind if …? by saying there is no objection."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Could you to email the receipt?",
+      "correct": "Could you email the receipt?",
+      "why": "After a modal such as could, use the base verb without to."
+    },
+    {
+      "incorrect": "Would you like join our team dinner?",
+      "correct": "Would you like to join our team dinner?",
+      "why": "A verb after would like takes a to-infinitive when inviting someone to act."
+    },
+    {
+      "incorrect": "Do you mind if I to close the door?",
+      "correct": "Do you mind if I close the door?",
+      "why": "Do you mind if I is followed by a finite clause, not to + infinitive."
+    },
+    {
+      "incorrect": "Do you like a cup of tea right now?",
+      "correct": "Would you like a cup of tea right now?",
+      "why": "For a present offer, would you like is the normal expression; do you like asks about general taste."
+    }
+  ],
+  "studyTips": [
+    "Mark who will perform the action: use Could you …? for the listener and Could I …? for yourself.",
+    "Practise a complete service exchange: a polite request, a brief answer and a natural thank-you.",
+    "When hearing Do you mind if …?, interpret No, not at all as permission rather than refusal."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Your colleague has the updated file. Complete a polite request: “___ send me the updated file before noon, please?”",
+      "choices": [
+        "Could you",
+        "May I",
+        "Would you like"
+      ],
+      "answerIndex": 0,
+      "feedback": "Could you asks the colleague to do the sending. May I would ask permission for your own action."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "You are buying bread at a bakery. Complete: “___ two wholegrain rolls, please?”",
+      "choices": [
+        "Would you like",
+        "Could I have",
+        "Do you mind"
+      ],
+      "answerIndex": 1,
+      "feedback": "Could I have politely asks to receive an item. The other options do not make this customer request."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "You are a guest and want to move a chair. Ask whether the host objects: “___ move this chair closer to the table?”",
+      "choices": [
+        "Would you like to",
+        "Could you",
+        "Do you mind if I"
+      ],
+      "answerIndex": 2,
+      "feedback": "Do you mind if I asks whether your own action is acceptable. Would you like to and could you address the other person’s action."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "You have an extra ticket and want to invite a friend: “___ come to the concert with me on Friday?”",
+      "choices": [
+        "Can I",
+        "I’d like",
+        "Would you like to"
+      ],
+      "answerIndex": 2,
+      "feedback": "Would you like to + base verb invites someone to a particular event."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "At a café, ask for a receipt using could + I + have: “___ a receipt, please?”",
+      "acceptedAnswers": [
+        "Could I have"
+      ],
+      "feedback": "Could I have is a polite request for something to be given to you."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "You see someone carrying a heavy suitcase. Offer to carry it using Can I + carry: “___ your suitcase?”",
+      "acceptedAnswers": [
+        "Can I carry"
+      ],
+      "feedback": "Can I + base verb offers to do something helpful for another person."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "State your food choice with the contraction of I would like: “___ a vegetable sandwich, please.”",
+      "acceptedAnswers": [
+        "I'd like"
+      ],
+      "feedback": "I’d like is the contracted form of I would like and politely expresses a preference."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "At a formal meeting, ask permission with May I: “___ ask a question before we finish?”",
+      "acceptedAnswers": [
+        "May I"
+      ],
+      "feedback": "May I + base verb is a formal way to ask permission for your own action."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence by removing the grammatical error: “Could you to send me the details, please?”",
+      "acceptedAnswers": [
+        "Could you send me the details, please?"
+      ],
+      "feedback": "The verb immediately after could is in the base form, with no to."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the form after would like: “Would you like joining us for lunch?”",
+      "acceptedAnswers": [
+        "Would you like to join us for lunch?"
+      ],
+      "feedback": "For an invitation to do something, would like is followed by to + base verb."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “Do you mind if I to sit here?”",
+      "acceptedAnswers": [
+        "Do you mind if I sit here?"
+      ],
+      "feedback": "After if I, use the finite present-simple verb sit, not to sit."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “Can I helping you with those boxes?”",
+      "acceptedAnswers": [
+        "Can I help you with those boxes?"
+      ],
+      "feedback": "Can I is followed by the base verb help, not the -ing form."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Ask a coworker to turn down the music. Say one question using “Could you”, the words “turn down the music”, and “please”.",
+      "acceptedAnswers": [
+        "Could you turn down the music, please?"
+      ],
+      "feedback": "Could you + base verb politely asks another person to take an action."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "At a counter, ask for a bottle of water. Say exactly one question beginning “Could I have” and ending “please”.",
+      "acceptedAnswers": [
+        "Could I have a bottle of water, please?"
+      ],
+      "feedback": "Could I have introduces a polite request to receive an item."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "At a friend’s home, ask whether you may open the window. Use “Do you mind if I” and “open the window” in one question.",
+      "acceptedAnswers": [
+        "Do you mind if I open the window?"
+      ],
+      "feedback": "Do you mind if I is followed by a present-simple clause describing your action."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A visitor is holding a heavy bag. Offer to carry it using “Can I” and “carry your bag”. Say one question.",
+      "acceptedAnswers": [
+        "Can I carry your bag?"
+      ],
+      "feedback": "Can I + base verb is a natural offer of help."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Invite Mia to the theatre tonight. Begin “Would you like to” and use “come to the theatre with me tonight”.",
+      "acceptedAnswers": [
+        "Would you like to come to the theatre with me tonight?"
+      ],
+      "feedback": "Would you like to + verb invites someone to a particular activity."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Someone asks, “Do you mind if I sit here?” You do not object. Answer with exactly “No, not at all.”",
+      "acceptedAnswers": [
+        "No, not at all."
+      ],
+      "feedback": "For Do you mind if …?, No, not at all means you have no objection and give permission."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "At a training centre, politely request information. Use “I’d like some information about the training course, please” as one sentence.",
+      "acceptedAnswers": [
+        "I'd like some information about the training course, please.",
+        "I would like some information about the training course, please."
+      ],
+      "feedback": "I’d like / I would like makes the statement of a want polite and direct."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two questions in order as the host: offer your visitor tea using “Would you like some tea?”; then offer to bring water using “Can I get you some water?”",
+      "acceptedAnswers": [
+        "Would you like some tea? Can I get you some water?"
+      ],
+      "feedback": "Would you like + noun offers an item; Can I + verb offers to perform an action."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "It is quite chilly in here. Could you close the balcony door, please?",
+      "prompt": "What does the speaker want the other person to do?",
+      "choices": [
+        "Close the balcony door",
+        "Turn up the heating",
+        "Leave the room"
+      ],
+      "answerIndex": 0,
+      "feedback": "Could you introduces a request; the requested action is to close the balcony door."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Would you like to come to my sister's art show on Friday evening?",
+      "prompt": "What is the speaker doing?",
+      "choices": [
+        "Asking for permission to leave early",
+        "Inviting someone to an exhibition",
+        "Offering to lend a painting"
+      ],
+      "answerIndex": 1,
+      "feedback": "Would you like to come …? invites the listener to a specific event."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Excuse me, could I have an extra blanket for room twelve?",
+      "prompt": "Type the three-word request immediately before “an extra blanket”.",
+      "acceptedAnswers": [
+        "could I have"
+      ],
+      "feedback": "Could I have introduces the item the guest is asking to receive."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Do you mind if I move this chair closer to the window?",
+      "prompt": "What does the speaker want permission to do?",
+      "choices": [
+        "Open a window",
+        "Move a chair",
+        "Close a door"
+      ],
+      "answerIndex": 1,
+      "feedback": "Do you mind if I seeks permission; move this chair states the intended action."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Can I carry those folders for you? Your hands are full.",
+      "prompt": "What help does the speaker offer?",
+      "choices": [
+        "Printing new documents",
+        "Checking the documents",
+        "Carrying the folders"
+      ],
+      "answerIndex": 2,
+      "feedback": "Can I carry those folders for you? offers to take the folders."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "No, not at all. Go ahead and plug your laptop in here.",
+      "prompt": "Is the person giving permission to use the power socket?",
+      "choices": [
+        "Yes, permission is given",
+        "No, the socket is unavailable",
+        "Only if the laptop is switched off"
+      ],
+      "answerIndex": 0,
+      "feedback": "No, not at all signals no objection to a Do you mind …? question; go ahead confirms permission."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "I would like a table for three near the garden, please.",
+      "prompt": "Type the two-word polite expression immediately after “I”.",
+      "acceptedAnswers": [
+        "would like"
+      ],
+      "feedback": "Would like expresses the customer’s preference politely."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "May I leave my bicycle behind the building until six?",
+      "prompt": "Type the two words at the beginning that form a formal permission question.",
+      "acceptedAnswers": [
+        "May I"
+      ],
+      "feedback": "May I + base verb asks permission in a relatively formal style."
+    }
+  ]
+}

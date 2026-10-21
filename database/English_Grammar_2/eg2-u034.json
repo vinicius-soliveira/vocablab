@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u034",
+  "title": "Should in recommendations, reactions and formal conditions",
+  "level": "B2",
+  "topicId": "eg2-u034-should-recommendations-reactions-conditions",
+  "summary": "Use should after suggestions, demands and expressions of importance; recognise the bare subjunctive as an alternative. Avoid suggest + object + to-infinitive, interpret should in surprised reactions, and use if ... should or Should ... for less likely conditions.",
+  "learningObjectives": [
+    "Form that-clauses after recommendations, demands and expressions of necessity with should or the bare subjunctive.",
+    "Use suggest + that-clause correctly instead of suggest + person + to-infinitive.",
+    "Identify the special meaning of should after adjectives expressing surprise or unexpectedness.",
+    "Create conditional clauses with if ... should and inverted Should ...; recognise I should as advice in some British English contexts."
+  ],
+  "explanation": [
+    {
+      "heading": "Should after demands, proposals and statements of importance",
+      "body": "After verbs such as insist, recommend, demand, propose and suggest, a that-clause can describe what someone wants to happen. British English often uses should + base verb in such clauses. Similar patterns occur after expressions such as it is essential, important or necessary that. Passive forms use should be + past participle. These clauses express a requested or important action, not a prediction.",
+      "example": "The coach recommended that every runner should warm up before the race."
+    },
+    {
+      "heading": "The bare subjunctive and other possible clause forms",
+      "body": "A that-clause after a recommendation or requirement can use the plain base verb without should, called the bare subjunctive: they insisted that she attend. Be stays be even after a singular subject, as in it is important that he be ready. Both should-clauses and bare-subjunctive clauses are standard; usage varies by variety and register. Ordinary indicative forms can also appear in some contexts, so do not assume only one form is possible.",
+      "example": "It is vital that the replacement part be tested before installation."
+    },
+    {
+      "heading": "Suggest does not take a person + to-infinitive",
+      "body": "Use suggest that someone do/should do something, or suggest + -ing: she suggested meeting earlier. Avoid suggest someone to do something. In a that-clause, the suggested action may follow should, a bare subjunctive, or another suitable clause form. The meaning is a proposal, not an instruction to a person using a direct object before to.",
+      "example": "Our supervisor suggested that we should discuss the proposal before Friday."
+    },
+    {
+      "heading": "Should in reactions to something unexpected",
+      "body": "After adjectives such as strange, surprising, odd and natural, should can mark the speaker’s reaction to a fact. In “It is surprising that he should object”, the speaker reacts to his objection rather than advising him to object. This use is particularly associated with British English and a somewhat formal tone.",
+      "example": "It is odd that the usually talkative presenter should remain silent today."
+    },
+    {
+      "heading": "Unlikely conditions and advice with I should",
+      "body": "If + subject + should + base verb describes a possible but less expected event. A formal alternative places Should at the start and removes if: Should a problem arise, contact us. This inversion does not mean that the problem is certain. In some British English, I should + base verb can also politely advise someone, with the sense “I would do this in your position”. It should not be confused with a prediction.",
+      "example": "Should the delivery address change, please tell the office before dispatch."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Recommendation with should versus the bare subjunctive",
+      "left": {
+        "label": "Should-clause",
+        "example": "The panel asked that the report should be revised.",
+        "note": "Should + be revised presents the requested action."
+      },
+      "right": {
+        "label": "Bare subjunctive",
+        "example": "The panel asked that the report be revised.",
+        "note": "Be revised gives the same request without should; be remains uninflected."
+      }
+    },
+    {
+      "title": "Two forms of a less likely condition",
+      "left": {
+        "label": "If ... should",
+        "example": "If a vacancy should arise, we will post a notice.",
+        "note": "If remains and should follows the subject."
+      },
+      "right": {
+        "label": "Inversion with Should",
+        "example": "Should a vacancy arise, we will post a notice.",
+        "note": "Moving Should to the front replaces if, with the same conditional meaning."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The landlord insisted that the damaged lock should be replaced.",
+      "note": "An insistence can be followed by that + should be + past participle."
+    },
+    {
+      "sentence": "The committee recommended that every volunteer receive a briefing.",
+      "note": "Receive is a bare-subjunctive verb, with no -s after every volunteer."
+    },
+    {
+      "sentence": "Mina suggested discussing the budget after the presentation.",
+      "note": "Suggest can take an -ing form rather than a person + to-infinitive."
+    },
+    {
+      "sentence": "It is surprising that the normally careful editor should miss that detail.",
+      "note": "Should expresses a reaction of surprise, not advice."
+    },
+    {
+      "sentence": "If a seat should become available, the booking system will send an alert.",
+      "note": "If ... should frames the opening of a seat as a possibility that may not occur."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The chair recommended us to postpone the vote.",
+      "correct": "The chair recommended that we postpone the vote.",
+      "why": "For a recommendation about what people should do, use a that-clause rather than recommended us to + verb."
+    },
+    {
+      "incorrect": "It is essential that the supervisor to be present.",
+      "correct": "It is essential that the supervisor be present.",
+      "why": "The bare subjunctive uses be directly, without to, even after a singular subject."
+    },
+    {
+      "incorrect": "Should the network fails, call the support desk.",
+      "correct": "Should the network fail, call the support desk.",
+      "why": "After inverted conditional Should + subject, the verb must be the base form fail."
+    },
+    {
+      "incorrect": "I suggest you to check the delivery date.",
+      "correct": "I suggest that you check the delivery date.",
+      "why": "Suggest does not take you to check; use that + subject + base verb instead."
+    }
+  ],
+  "studyTips": [
+    "Practise each formal recommendation in two versions: that everyone should arrive and that everyone arrive; note that both convey the same requested action.",
+    "When you use suggest, test the structure: suggest + -ing or suggest + that + clause; remove any pattern such as suggest me to.",
+    "Convert a conditional twice: If the schedule should change, ... and Should the schedule change, ...; compare both with the ordinary if-clause."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The council requested a formal report. Complete with the bare subjunctive: “They recommended that the damaged bridge ___ before winter.”",
+      "choices": [
+        "to be inspected",
+        "should to be inspected",
+        "be inspected"
+      ],
+      "answerIndex": 2,
+      "feedback": "The passive bare subjunctive is be inspected, without should or to."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which sentence uses suggest correctly to propose a meeting?",
+      "choices": [
+        "She suggested us to meet on Monday.",
+        "She suggested that we meet on Monday.",
+        "She suggested that we to meet on Monday."
+      ],
+      "answerIndex": 1,
+      "feedback": "Suggest accepts a that-clause, such as that we meet; it does not take us to meet."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Use a formal inverted condition for an unexpected problem: “___ the heating fail overnight, call the caretaker.”",
+      "choices": [
+        "Should",
+        "If should",
+        "Does"
+      ],
+      "answerIndex": 0,
+      "feedback": "Should + subject + base verb is an inverted conditional equivalent to if the heating should fail."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "It is surprising that the usually calm captain ___ so suddenly.",
+      "choices": [
+        "should to resign",
+        "should resigns",
+        "should resign"
+      ],
+      "answerIndex": 2,
+      "feedback": "After surprising that, should + base verb expresses reaction to an unexpected fact."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The director insisted that the equipment ___ (inspect) before it was used. Use should + passive.",
+      "acceptedAnswers": [
+        "should be inspected"
+      ],
+      "feedback": "Should be inspected is a passive construction for a requested action."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "It is essential that every participant ___ (be) ready for the safety briefing. Use the bare subjunctive.",
+      "acceptedAnswers": [
+        "be"
+      ],
+      "feedback": "The bare subjunctive of be remains be, even after the singular subject every participant."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "___ (a fault / occur), turn off the machine and tell the supervisor. Begin with conditional Should.",
+      "acceptedAnswers": [
+        "Should a fault occur"
+      ],
+      "feedback": "The inverted conditional places Should before the subject a fault and uses the base verb occur."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The tickets are expensive. “I ___ (check) the refund policy before buying,” is advice in British English. Use I should.",
+      "acceptedAnswers": [
+        "should check"
+      ],
+      "feedback": "I should check can express what the speaker advises the listener to do in this British English usage."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence using a that-clause with the bare subjunctive: The tutor suggested us to review the notes after class.",
+      "acceptedAnswers": [
+        "The tutor suggested that we review the notes after class."
+      ],
+      "feedback": "Use suggest that we review; suggest does not accept us to review."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence using the bare subjunctive: It is important that each learner to receive clear instructions.",
+      "acceptedAnswers": [
+        "It is important that each learner receive clear instructions."
+      ],
+      "feedback": "After that in a formal importance clause, the bare subjunctive is receive, not to receive."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Should the river rises above the warning level, the path will close.",
+      "acceptedAnswers": [
+        "Should the river rise above the warning level, the path will close."
+      ],
+      "feedback": "After conditional Should + subject, use the base verb rise, not rises."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence using the bare subjunctive: The committee demanded that the form to be rewritten.",
+      "acceptedAnswers": [
+        "The committee demanded that the form be rewritten."
+      ],
+      "feedback": "The passive bare subjunctive after demanded that is be rewritten, with no to."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Give a formal recommendation using these facts: the organiser; recommend; everyone; arrive early. Begin “The organiser recommended that” and use should.",
+      "acceptedAnswers": [
+        "The organiser recommended that everyone should arrive early."
+      ],
+      "feedback": "A recommendation can take that + subject + should + base verb."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Change “The chair insisted that Hana should speak first” to a bare-subjunctive clause. Keep the rest of the sentence.",
+      "acceptedAnswers": [
+        "The chair insisted that Hana speak first."
+      ],
+      "feedback": "The bare subjunctive speak replaces should speak without an -s ending."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say one correct sentence with a that-clause: Priya; suggest; we; postpone; the meeting. Begin “Priya suggested that” and use the bare subjunctive.",
+      "acceptedAnswers": [
+        "Priya suggested that we postpone the meeting."
+      ],
+      "feedback": "Suggest that + a full clause avoids the incorrect pattern suggest us to postpone."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "It is unusual that Ellis has left without telling anyone. Express surprise. Begin “It is odd that Ellis” and use should leave without telling anyone.",
+      "acceptedAnswers": [
+        "It is odd that Ellis should leave without telling anyone."
+      ],
+      "feedback": "Should in this clause marks a reaction to the unexpected departure."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Make a conditional sentence using these supplied facts: the date; change; we will email you. Begin “If the date should”.",
+      "acceptedAnswers": [
+        "If the date should change, we will email you.",
+        "If the date should change, we’ll email you."
+      ],
+      "feedback": "If ... should describes a possible but less expected change."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Rephrase “If the date should change, we will email you” with formal inversion. Start with “Should the date” and do not use if.",
+      "acceptedAnswers": [
+        "Should the date change, we will email you.",
+        "Should the date change, we’ll email you."
+      ],
+      "feedback": "Initial Should replaces if and keeps change in its base form."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A friend asks how to avoid buying a non-refundable ticket. In a British-style reply, begin “I should” and say “check the refund policy first”.",
+      "acceptedAnswers": [
+        "I should check the refund policy first."
+      ],
+      "feedback": "I should can politely offer advice about what you would do in the listener’s position."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce exactly two sentences. First recommend that the event start early using: “The committee suggested that the event should start early.” Second, use the bare subjunctive: “It is important that everyone be ready by eight.”",
+      "acceptedAnswers": [
+        "The committee suggested that the event should start early. It is important that everyone be ready by eight."
+      ],
+      "feedback": "The first clause contains should after suggested; the second uses be as a bare subjunctive."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "prompt": "What has the board proposed?",
+      "choices": [
+        "Closing the café every Saturday.",
+        "Keeping the café open on Saturdays.",
+        "Hiring new trustees immediately."
+      ],
+      "answerIndex": 1,
+      "feedback": "Recommended that ... should stay open reports a proposal, not a final decision.",
+      "audioText": "The board recommended that the museum café should stay open on Saturdays, but the trustees have not decided yet."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "prompt": "What surprises the speaker?",
+      "choices": [
+        "The guide normally arrives early.",
+        "The guide is leading an evening tour.",
+        "The guide has missed two morning tours."
+      ],
+      "answerIndex": 2,
+      "feedback": "Strange that ... should expresses surprise about the missed tours.",
+      "audioText": "It is strange that our usually punctual guide should miss two morning tours in a row."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "prompt": "Type the modal and base-verb phrase immediately after “every pupil”.",
+      "acceptedAnswers": [
+        "should receive"
+      ],
+      "feedback": "Should receive follows insisted that to state a requirement.",
+      "audioText": "The principal insisted that every pupil should receive the same instructions."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "prompt": "When should the listener use the intercom?",
+      "choices": [
+        "If the lift unexpectedly stops.",
+        "Whenever the lift is moving normally.",
+        "Only after walking out of the lift."
+      ],
+      "answerIndex": 0,
+      "feedback": "Should the lift stop is a conditional referring to an unexpected event.",
+      "audioText": "Should the lift stop unexpectedly, use the emergency intercom and wait for assistance."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "prompt": "What did the speaker propose?",
+      "choices": [
+        "Hiring a driver for the train station.",
+        "Travelling on an earlier train.",
+        "Delaying the journey until tomorrow."
+      ],
+      "answerIndex": 1,
+      "feedback": "Suggested that we take reports the speaker’s proposal, which the group did not choose.",
+      "audioText": "I suggested that we take the earlier train, but the rest of the group preferred to drive."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "prompt": "What is required when the building closes?",
+      "choices": [
+        "Leaving all the lights on.",
+        "Keeping the building open late.",
+        "Switching off the lights."
+      ],
+      "answerIndex": 2,
+      "feedback": "Essential that ... be switched off sets an important requirement using the passive bare subjunctive.",
+      "audioText": "The gallery manager says it is essential that the lights be switched off when the building closes."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "prompt": "Type the opening conditional phrase, ending with “change”.",
+      "acceptedAnswers": [
+        "Should the route change"
+      ],
+      "feedback": "Should the route change is an inverted conditional with the base verb change.",
+      "audioText": "Should the route change, we will send an updated map to all runners."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "prompt": "Type the two-word passive expression immediately after “the permit”.",
+      "acceptedAnswers": [
+        "be renewed"
+      ],
+      "feedback": "Be renewed is the passive bare subjunctive after recommended that.",
+      "audioText": "The committee recommended that the permit be renewed before December."
+    }
+  ]
+}

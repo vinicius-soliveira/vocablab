@@ -1,0 +1,407 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u022",
+  "title": "Will for Predictions and Expectations",
+  "level": "B1",
+  "topicId": "eg2-u022-will-predictions-expectations",
+  "summary": "Predict future results, situations and reactions with will or won’t. Express how certain you feel with I think, I’m sure, probably, I don’t think and I wonder; use present forms after I hope in common usage, and recognise will for a confident assumption about the present.",
+  "learningObjectives": [
+    "Make affirmative and negative predictions with will and won’t rather than describing a plan already arranged.",
+    "Express different degrees of confidence using I think, I’m sure, probably and I don’t think.",
+    "Form embedded prediction questions beginning Do you think…? and distinguish them from direct will-questions.",
+    "Use natural present-tense clauses after I hope and recognise occasional will for assumptions about the present."
+  ],
+  "explanation": [
+    {
+      "heading": "What we expect or believe",
+      "body": "Use will + the base form to predict what you believe is likely to happen or be true later. You may not control the outcome; a prediction reflects your judgment. Will contracts to ’ll after many subjects and will not to won’t. Use questions such as Will the changes affect us? to ask about expected results.",
+      "example": "The new bridge will make the journey shorter for commuters."
+    },
+    {
+      "heading": "Positive, negative and conditional outcomes",
+      "body": "Will not and won’t predict that something is unlikely to happen, not necessarily that anyone refuses. Predictions can describe a result after a condition: if something happens, a consequence will follow. In an ordinary real future conditional, the if-clause generally has a present form rather than will.",
+      "example": "If the roads are icy tonight, the morning buses will be late."
+    },
+    {
+      "heading": "Show the strength of your belief",
+      "body": "Use I think, I don’t think, I’m sure and probably to show how confidently you predict an outcome. Probably often goes between will and the main verb in affirmative clauses: will probably arrive. In a negative prediction, probably won’t is common. I wonder introduces uncertainty about a future event. These expressions describe belief, not arrangements.",
+      "example": "I’m sure Rosa will understand, but I don’t think she’ll agree immediately."
+    },
+    {
+      "heading": "Ask for an opinion about the future",
+      "body": "Do you think + subject + will + base verb asks for somebody’s forecast. In a direct question, will comes before the subject: Will the repairs take long? After Do you think, keep ordinary statement order: Do you think the repairs will take long? You can also ask When do you think…? or How much do you think…? with the same order.",
+      "example": "When do you think the results will arrive?"
+    },
+    {
+      "heading": "Hope, present assumptions and shall",
+      "body": "After I hope, a present form is a very common way to express a desired future result: I hope the interview goes well. Will is also possible in some hope clauses, but the present pattern is particularly natural. Will can occasionally express a confident assumption about the present, as in She’ll be in class right now. Shall may replace will with I or we, especially in formal British English; everyday speech generally prefers I’ll and we’ll.",
+      "example": "I hope the package reaches you by Friday. Sam will be at his desk now, I expect."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Prediction versus a confirmed arrangement",
+      "left": {
+        "label": "Will: predicted result",
+        "example": "I think the interview will be difficult.",
+        "note": "This is a judgment about what may happen."
+      },
+      "right": {
+        "label": "Present continuous: fixed arrangement",
+        "example": "My interview is taking place on Thursday.",
+        "note": "The interview has already been scheduled."
+      }
+    },
+    {
+      "title": "Direct question versus an opinion question",
+      "left": {
+        "label": "Direct future question",
+        "example": "Will the flight be delayed?",
+        "note": "Will comes before the subject in a direct yes/no question."
+      },
+      "right": {
+        "label": "Question about someone’s belief",
+        "example": "Do you think the flight will be delayed?",
+        "note": "After Do you think, the clause keeps subject + will order."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I expect the new software will save us some time.",
+      "note": "Will expresses a belief about a future result, not an action someone has chosen."
+    },
+    {
+      "sentence": "You probably won’t need a coat in the afternoon.",
+      "note": "Probably won’t expresses a negative prediction without absolute certainty."
+    },
+    {
+      "sentence": "Do you think the roads will be busy after the concert?",
+      "note": "A question about belief uses the subject before will in the embedded clause."
+    },
+    {
+      "sentence": "I wonder whether the organisers will change the schedule.",
+      "note": "I wonder introduces uncertainty about a possible future decision."
+    },
+    {
+      "sentence": "I hope your presentation goes smoothly tomorrow.",
+      "note": "A present-simple verb is natural after I hope when the event is in the future."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Do you think will the shop be busy tomorrow?",
+      "correct": "Do you think the shop will be busy tomorrow?",
+      "why": "After Do you think, use the usual statement order: subject + will + base verb."
+    },
+    {
+      "incorrect": "I think they will probably arrives after lunch.",
+      "correct": "I think they will probably arrive after lunch.",
+      "why": "Will must be followed by the base verb arrive, with no -s."
+    },
+    {
+      "incorrect": "I hope she will passes her test.",
+      "correct": "I hope she passes her test.",
+      "why": "Passes is the present-simple form after I hope; will passes is ungrammatical because will needs the base form."
+    },
+    {
+      "incorrect": "I’m sure the news don’t surprise him tomorrow.",
+      "correct": "I’m sure the news won’t surprise him tomorrow.",
+      "why": "For a negative future prediction, use won’t + the base verb rather than a present-simple negative."
+    }
+  ],
+  "studyTips": [
+    "Sort each example into a confirmed arrangement, an on-the-spot decision or a prediction; choose will for predictions in this lesson.",
+    "Practise moving from Will the train be late? to Do you think the train will be late? without inverting the second clause.",
+    "Build confidence scales aloud: I’m sure it’ll happen, it’ll probably happen, I don’t think it’ll happen."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The technology team is discussing its forecast for next year, not a plan already agreed. “I think battery life ___ considerably.”",
+      "choices": [
+        "will improve",
+        "improves yesterday",
+        "will improving"
+      ],
+      "answerIndex": 0,
+      "feedback": "Will improve expresses a belief about a future development, and will takes the base verb."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the most natural negative prediction: “The roads are clear, so I think the delivery ___ late.”",
+      "choices": [
+        "won't arriving",
+        "doesn’t late",
+        "won't arrive"
+      ],
+      "answerIndex": 2,
+      "feedback": "Won’t arrive predicts a future result; won’t must be followed by the base verb."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "You want a friend’s opinion about a possible price rise. Which question has the correct word order?",
+      "choices": [
+        "Do you think will prices increase next month?",
+        "Do you think prices will increase next month?",
+        "Do prices think you will increase next month?"
+      ],
+      "answerIndex": 1,
+      "feedback": "The clause following Do you think uses statement order: prices will increase."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Complete a prediction with the natural position of probably: “I’m not certain, but they ___ the deadline.”",
+      "choices": [
+        "will meet probably",
+        "will probably meet",
+        "probably will meeting"
+      ],
+      "answerIndex": 1,
+      "feedback": "Will probably meet places probably between will and the base verb in a standard affirmative prediction."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Your friend is nervous about an exam. Reassure them with a confident prediction: “I’m sure you ___.” (pass; use the full form will)",
+      "acceptedAnswers": [
+        "will pass"
+      ],
+      "feedback": "After I’m sure, will pass predicts a favourable future outcome."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The sky is clear and the forecast is dry. “I think it ___ tonight.” (rain; use the negative contraction of will)",
+      "acceptedAnswers": [
+        "won't rain"
+      ],
+      "feedback": "I think it won’t rain predicts dry weather. Avoid using don’t think together with won’t here: that would change the meaning."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete the embedded prediction question: “When do you think the repairs ___?” (finish; use will)",
+      "acceptedAnswers": [
+        "will finish"
+      ],
+      "feedback": "The clause following do you think keeps statement order: the repairs will finish."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the common present-simple pattern after hope: “I hope your interview ___ well tomorrow.” (go)",
+      "acceptedAnswers": [
+        "goes"
+      ],
+      "feedback": "After I hope, present simple goes naturally refers to a desired future result."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the word order in this request for a forecast: Do you think will Nina enjoy the course?",
+      "acceptedAnswers": [
+        "Do you think Nina will enjoy the course?"
+      ],
+      "feedback": "In the embedded clause after Do you think, Nina comes before will."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the verb after the modal in this prediction: The new timetable will probably helps everyone.",
+      "acceptedAnswers": [
+        "The new timetable will probably help everyone."
+      ],
+      "feedback": "Will probably must be followed by help, not helps."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the auxiliary form in this negative prediction: I think the audience willn’t recognise the actor.",
+      "acceptedAnswers": [
+        "I think the audience won’t recognise the actor.",
+        "I think the audience will not recognise the actor."
+      ],
+      "feedback": "The correct negative contraction of will is won’t, not willn’t."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the verb in this sentence, keeping the present-simple pattern after I hope: I hope the repairs finishes before Monday.",
+      "acceptedAnswers": [
+        "I hope the repairs finish before Monday."
+      ],
+      "feedback": "The plural subject repairs takes finish, not finishes, in the present simple after I hope."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "A new footbridge should make the crossing easier. Give your prediction, beginning “The new footbridge” and using will plus make.",
+      "acceptedAnswers": [
+        "The new footbridge will make the crossing easier."
+      ],
+      "feedback": "Will make expresses a prediction about the bridge’s effect."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Predict that Mia will not miss the train. Begin “Mia” and use the negative contraction won’t.",
+      "acceptedAnswers": [
+        "Mia won't miss the train."
+      ],
+      "feedback": "Won’t miss predicts that a negative event will not happen."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "You believe a new course will be useful. Begin “I think” and say that the course will be useful.",
+      "acceptedAnswers": [
+        "I think the new course will be useful."
+      ],
+      "feedback": "I think frames will be useful as an opinion rather than an arrangement."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Ask for a prediction about the weather. Begin “Do you think” and use “it will snow tomorrow”.",
+      "acceptedAnswers": [
+        "Do you think it will snow tomorrow?",
+        "Do you think it'll snow tomorrow?"
+      ],
+      "feedback": "An embedded prediction question keeps it before will."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "You are not completely certain about a visitor’s arrival. Predict that the visitor will probably arrive before six. Begin “The visitor”.",
+      "acceptedAnswers": [
+        "The visitor will probably arrive before six."
+      ],
+      "feedback": "Will probably arrive expresses a likely outcome with appropriately qualified certainty."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Express hope that the bus arrives on time. Begin “I hope” and use the present simple “the bus arrives”.",
+      "acceptedAnswers": [
+        "I hope the bus arrives on time."
+      ],
+      "feedback": "A present tense after I hope can refer to a future event."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the word order aloud, changing nothing else: “When do you think will the results come?”",
+      "acceptedAnswers": [
+        "When do you think the results will come?"
+      ],
+      "feedback": "After When do you think, the embedded clause keeps subject–will order."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences. First predict, beginning “I’m sure”, that the team will finish today. Then express the hope, beginning “I hope”, that the client likes the result.",
+      "acceptedAnswers": [
+        "I'm sure the team will finish today. I hope the client likes the result.",
+        "I am sure the team will finish today. I hope the client likes the result."
+      ],
+      "feedback": "Will finish expresses expectation; likes is present simple following I hope."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The review meeting is on Wednesday. I think the client will like our revised plan.",
+      "prompt": "Which part is the speaker predicting, rather than describing as already arranged?",
+      "choices": [
+        "The date of the meeting.",
+        "That the revised plan will satisfy the client.",
+        "That the meeting has been cancelled."
+      ],
+      "answerIndex": 1,
+      "feedback": "The meeting date is fixed, while the client’s reaction is an expectation expressed with will."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Traffic is moving slowly near the stadium. The next bus will probably be late.",
+      "prompt": "How confident is the speaker that the bus will arrive late?",
+      "choices": [
+        "The speaker thinks lateness is likely.",
+        "The speaker is certain the bus is already late.",
+        "The speaker believes the bus will be early."
+      ],
+      "answerIndex": 0,
+      "feedback": "Will probably be late expresses a likelihood, not certainty or a report of current lateness."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The instructions are much clearer now. I think they will understand them this time.",
+      "prompt": "Type the two-word future prediction heard immediately after “they”.",
+      "acceptedAnswers": [
+        "will understand"
+      ],
+      "feedback": "The audio contains will understand after they, predicting a better result this time."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "We sent the visitors a detailed map. I don't think they'll get lost on the way.",
+      "prompt": "What future outcome does the speaker NOT expect?",
+      "choices": [
+        "The visitors entering through a side gate.",
+        "The visitors finding the entrance.",
+        "The visitors being unable to find the entrance."
+      ],
+      "answerIndex": 2,
+      "feedback": "I don’t think they’ll get lost predicts that being unable to find the way is unlikely."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "This presentation has already run for an hour. When do you think it will finish?",
+      "prompt": "What is the speaker asking for?",
+      "choices": [
+        "A confirmed booking time.",
+        "Permission to leave the event now.",
+        "Someone’s opinion about when an event will finish."
+      ],
+      "answerIndex": 2,
+      "feedback": "When do you think…will finish? asks for a prediction about the finishing time."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Try calling Alex in the office. He'll be at his desk now, I expect.",
+      "prompt": "What does the speaker believe about Alex right now?",
+      "choices": [
+        "Alex is expected to be at his desk.",
+        "Alex has definitely gone home.",
+        "Alex will start working in a week."
+      ],
+      "answerIndex": 0,
+      "feedback": "He’ll be at his desk now is an assumption about the present, not an arranged future event."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "We're planning to walk along the coast. I hope it doesn't rain tomorrow.",
+      "prompt": "Type the two-word phrase immediately after “it” and before “tomorrow”.",
+      "acceptedAnswers": [
+        "doesn't rain"
+      ],
+      "feedback": "The speaker says doesn’t rain after I hope. The present simple can express a future hope."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "It's been great working with you. I'm sure we will meet again sometime soon.",
+      "prompt": "Type the two-word future prediction after “we” and before “again”.",
+      "acceptedAnswers": [
+        "will meet"
+      ],
+      "feedback": "The speaker says will meet; I’m sure makes this prediction confident."
+    }
+  ]
+}

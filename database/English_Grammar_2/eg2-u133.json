@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u133",
+  "title": "Verb and Preposition Patterns: About, For, Of and After",
+  "level": "B2",
+  "topicId": "eg2-u133-verb-prepositions-about-for-of-after",
+  "summary": "Use common verb patterns for discussing an issue, asking for something, applying for an opportunity, searching, waiting, leaving for a destination and taking care of people or possessions. Distinguish look for from look after and care about from care for.",
+  "learningObjectives": [
+    "Use talk about, read about and do something about a problem while keeping discuss directly before its object.",
+    "Choose for in asking for, applying for, waiting for, searching for and leaving for constructions.",
+    "Explain the difference between caring about someone, caring for someone and taking care of something.",
+    "Contrast look for when searching with look after when protecting or caring for someone or something."
+  ],
+  "explanation": [
+    {
+      "heading": "Talking about a topic and addressing a problem",
+      "body": "Talk about, read about and know about introduce a topic or subject. Discuss is different: it takes its object directly, without about. You can also have a discussion about an issue, because discussion is a noun. Do something about a problem means take action to improve it; merely talking about it does not imply action.",
+      "example": "We discussed the poor lighting and agreed to do something about it."
+    },
+    {
+      "heading": "Requests, applications and waiting with for",
+      "body": "Ask somebody for an object or information, apply for a position or an award, and wait for somebody or something. The organisation receiving an application can be introduced with to: apply to a college for a place. With common requests for directions or the time, English can use ask somebody the way or ask somebody the time without for. Learn the full patterns with their objects.",
+      "example": "Daria applied to the theatre for a part-time role and is waiting for an answer."
+    },
+    {
+      "heading": "Searching and leaving: the object changes the pattern",
+      "body": "Look for something and search for something mean try to find it. Search a place, person or container for an object means examine that location to find the object; search a bag is different from search for a bag. Use leave a place for a destination. In this sense for introduces the place you are travelling to, not the place you are departing from.",
+      "example": "Before leaving the island for the mainland, the hikers searched their bags for the tickets."
+    },
+    {
+      "heading": "Care about, care for and take care of",
+      "body": "Care about someone or something means regard them as important. Care for a person often means provide practical support, while take care of can mean protect, maintain or handle a task. In negative statements, not care for something can also express dislike, which is different from not caring about it. Care followed directly by a clause such as what happens or how much it costs does not take about.",
+      "example": "Sana cares about her neighbours and helps care for an elderly resident."
+    },
+    {
+      "heading": "Look for versus look after",
+      "body": "Look for means try to locate someone or something that is missing. Look after means take responsibility for a person, animal or object and keep them safe or in good condition. The verbs cannot be exchanged simply because both contain look. For a missing pet, you look for it; once you find it, you look after it.",
+      "example": "The children looked for their missing rabbit while their father looked after the other pets."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A verb with a direct object versus a prepositional phrase",
+      "left": {
+        "label": "discuss + object",
+        "example": "The board discussed the delayed opening.",
+        "note": "Discuss takes its topic directly; do not insert about."
+      },
+      "right": {
+        "label": "talk about + object",
+        "example": "The board talked about the delayed opening.",
+        "note": "Talk requires about before the topic in this construction."
+      }
+    },
+    {
+      "title": "Searching versus taking responsibility",
+      "left": {
+        "label": "look for",
+        "example": "Ben is looking for the neighbour’s dog.",
+        "note": "He wants to locate the dog."
+      },
+      "right": {
+        "label": "look after",
+        "example": "Ben is looking after the neighbour’s dog.",
+        "note": "He is responsible for its care."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The residents talked about the flooding at their local meeting.",
+      "note": "About marks the topic of their conversation."
+    },
+    {
+      "sentence": "Jade asked the librarian for help with the catalogue.",
+      "note": "Ask someone for something names a person and the requested help."
+    },
+    {
+      "sentence": "The team searched the storage room for the missing projector.",
+      "note": "The room is the location searched; the projector is the target."
+    },
+    {
+      "sentence": "The train leaves Manchester for Liverpool just after seven.",
+      "note": "For identifies the destination after leave."
+    },
+    {
+      "sentence": "I do not care for very sweet desserts, but I care about healthy eating.",
+      "note": "Do not care for expresses dislike; care about marks importance."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "We discussed about the cost during the call.",
+      "correct": "We discussed the cost during the call.",
+      "why": "Discuss introduces its object without about; use talked about if you want that preposition."
+    },
+    {
+      "incorrect": "The guests are waiting the shuttle outside.",
+      "correct": "The guests are waiting for the shuttle outside.",
+      "why": "Wait for introduces the person or thing expected to arrive."
+    },
+    {
+      "incorrect": "My uncle leaves the village to the city every Monday.",
+      "correct": "My uncle leaves the village for the city every Monday.",
+      "why": "In the pattern leave a place for a destination, the destination takes for."
+    },
+    {
+      "incorrect": "My neighbour is looking after for her elderly mother while she recovers.",
+      "correct": "My neighbour is looking after her elderly mother while she recovers.",
+      "why": "Look after takes its object directly; adding for after after is incorrect."
+    }
+  ],
+  "studyTips": [
+    "Make two-column flashcards: discuss the issue versus talk about the issue; search a cupboard versus search for a key.",
+    "Practise a mini-scenario using three patterns together: apply for an opportunity, ask for details and wait for a reply.",
+    "Sort short situations into importance (care about), practical support (care for or look after), and finding (look for)."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The committee ___ the noise complaints before voting on a new policy.",
+      "choices": [
+        "discussed",
+        "discussed about",
+        "talked"
+      ],
+      "answerIndex": 0,
+      "feedback": "Discussed takes the object noise complaints directly. Talked would require about."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Marta applied ___ an internship at the museum.",
+      "choices": [
+        "to",
+        "for",
+        "after"
+      ],
+      "answerIndex": 1,
+      "feedback": "Apply for introduces the position or opportunity requested."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The lift has stopped working again. Someone must do something ___ it.",
+      "choices": [
+        "for",
+        "on",
+        "about"
+      ],
+      "answerIndex": 2,
+      "feedback": "Do something about a situation means take action to improve it."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "If you cannot read the sign, ask the station attendant ___ help.",
+      "choices": [
+        "for",
+        "of",
+        "after"
+      ],
+      "answerIndex": 0,
+      "feedback": "Ask somebody for help uses for before the thing requested."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The passengers are waiting ___ the replacement bus. (Supply one preposition.)",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "Wait for introduces the person or thing expected."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Next month, our friends are leaving Dublin ___ Edinburgh. (Supply the preposition before the destination.)",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "Leave one place for another names the destination with for."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Ruth is working late, so her sister will look ___ the children tonight. (Supply the preposition meaning care for.)",
+      "acceptedAnswers": [
+        "after"
+      ],
+      "feedback": "Look after means take responsibility for the children while Ruth is away."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The guard searched the visitor’s bag ___ sharp objects. (Supply the preposition before the target of the search.)",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "Search a container for something distinguishes the location searched from the object sought."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Our manager discussed about the staffing plan yesterday.",
+      "acceptedAnswers": [
+        "Our manager discussed the staffing plan yesterday."
+      ],
+      "feedback": "Discuss is followed directly by its object without about."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The babysitter looks of the twins every Friday.",
+      "acceptedAnswers": [
+        "The babysitter looks after the twins every Friday."
+      ],
+      "feedback": "Look after means care for; looks of is not a correct verb-preposition pattern."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: A passenger asked the driver to a receipt.",
+      "acceptedAnswers": [
+        "A passenger asked the driver for a receipt."
+      ],
+      "feedback": "Ask someone for an item uses for, not to."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I am waiting the courier near the reception desk.",
+      "acceptedAnswers": [
+        "I am waiting for the courier near the reception desk."
+      ],
+      "feedback": "Wait requires for before the person expected."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Use the exact facts in one past-simple sentence: the neighbours / talk / the roadworks / yesterday. Include about.",
+      "acceptedAnswers": [
+        "The neighbours talked about the roadworks yesterday."
+      ],
+      "feedback": "Talked about names the subject of the conversation."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "You requested additional details from your manager this morning. Say one sentence starting with “I asked” and use the expression “my manager for more information”.",
+      "acceptedAnswers": [
+        "I asked my manager for more information this morning."
+      ],
+      "feedback": "Asked somebody for something correctly introduces the requested information."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Correct the sentence and say it without adding any new information: “We discussed about the budget yesterday.”",
+      "acceptedAnswers": [
+        "We discussed the budget yesterday."
+      ],
+      "feedback": "Discuss takes the budget directly, with no about."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A friend asks who will care for the puppy during the holiday. Fact: Mila will do it. Answer with one complete sentence starting “Mila will”, using look after and “the puppy during the holiday”.",
+      "acceptedAnswers": [
+        "Mila will look after the puppy during the holiday."
+      ],
+      "feedback": "Look after means take care of an animal."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Your passport is missing. Use the present continuous and the words “I”, “look for” and “my passport” to say what you are doing now.",
+      "acceptedAnswers": [
+        "I am looking for my passport.",
+        "I'm looking for my passport."
+      ],
+      "feedback": "Looking for describes a search for a missing object."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A neighbour complains that the lights on your street are broken. Give a one-sentence response beginning “We need”, using “do something about the broken lights”.",
+      "acceptedAnswers": [
+        "We need to do something about the broken lights."
+      ],
+      "feedback": "Do something about a problem means take steps to fix it."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Produce exactly two sentences from these facts. First: Leo / apply for / the scholarship (past simple). Second: he / wait for / a reply (present continuous). Use full forms only.",
+      "acceptedAnswers": [
+        "Leo applied for the scholarship. He is waiting for a reply."
+      ],
+      "feedback": "Apply for names the opportunity; wait for names the expected response."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say that Nora considers her neighbours important. Use one complete sentence beginning “Nora”, with care about in the present simple.",
+      "acceptedAnswers": [
+        "Nora cares about her neighbours."
+      ],
+      "feedback": "Cares about expresses importance or concern, not a practical caregiving duty."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The council talked about the broken pavement, but nobody agreed to repair it yet.",
+      "prompt": "What happened to the pavement problem?",
+      "choices": [
+        "The repair was completed.",
+        "Nobody mentioned the problem.",
+        "It was discussed, but no repair was agreed."
+      ],
+      "answerIndex": 2,
+      "feedback": "The council talked about the damage without agreeing to do anything about it."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I have applied for the weekend library job, and now I am waiting for an interview invitation.",
+      "prompt": "What is the speaker expecting next?",
+      "choices": [
+        "An invitation to an interview.",
+        "A letter rejecting a university place.",
+        "A delivery from the library."
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker has applied for a job and is waiting for an interview invitation."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "They searched the entire garage for the missing spare wheel.",
+      "prompt": "Type the single preposition heard immediately after “garage”.",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "The garage is the place searched; for the missing spare wheel identifies the target."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Marcel looked for the missing kitten all morning. When he found it, he took care of it.",
+      "prompt": "What did Marcel do after finding the kitten?",
+      "choices": [
+        "He left it in the garden.",
+        "He searched for it again.",
+        "He cared for it."
+      ],
+      "answerIndex": 2,
+      "feedback": "After finding the kitten, he took care of it rather than continuing to search."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I do not care for strong coffee, but I care a lot about my colleagues getting a proper break.",
+      "prompt": "Which statement reflects the speaker’s attitude?",
+      "choices": [
+        "They dislike strong coffee and value their colleagues’ wellbeing.",
+        "They dislike their colleagues and enjoy strong coffee.",
+        "They are responsible for serving everyone coffee."
+      ],
+      "answerIndex": 0,
+      "feedback": "Not care for describes dislike; care about describes what matters to the speaker."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The family left Bristol for Cardiff early, while their neighbour looked after their garden.",
+      "prompt": "What was the neighbour responsible for?",
+      "choices": [
+        "Driving the family to Cardiff.",
+        "Maintaining the garden while the family was away.",
+        "Searching for the family’s luggage."
+      ],
+      "answerIndex": 1,
+      "feedback": "Looked after the garden means maintained it while the family travelled."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "My cousin is applying for a role at the new sports centre.",
+      "prompt": "Type the two-word verb and preposition immediately after “is”.",
+      "acceptedAnswers": [
+        "applying for"
+      ],
+      "feedback": "Applying for introduces the opportunity requested."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We looked after the neighbours’ cat while they were abroad.",
+      "prompt": "Type the two words immediately after “We”.",
+      "acceptedAnswers": [
+        "looked after"
+      ],
+      "feedback": "Looked after means cared for, rather than searched for."
+    }
+  ]
+}

@@ -1,0 +1,411 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u016",
+  "title": "Past perfect continuous: earlier activities and duration",
+  "level": "B2",
+  "topicId": "eg2-u016-past-perfect-continuous-activity-duration",
+  "summary": "Use had been + -ing to describe an activity that continued up to a past point or explained evidence at that point. Contrast duration and earlier effort with completed results, ongoing past actions and stative verbs.",
+  "learningObjectives": [
+    "Build affirmative, negative and question forms using had been + -ing.",
+    "Explain a past result or visible evidence by describing activity before it.",
+    "Express how long an activity had continued before a specified past event.",
+    "Choose between past perfect continuous, past perfect simple and past continuous according to meaning and verb type."
+  ],
+  "explanation": [
+    {
+      "heading": "Describe activity before a past point",
+      "body": "The past perfect continuous looks back from a past moment at an activity already under way before it. Form it with had been + verb-ing for every subject. The activity may have stopped just before that moment or may have continued into it. The focus is the activity, not necessarily its completion.",
+      "example": "When the guests finally arrived, we had been preparing the garden for hours."
+    },
+    {
+      "heading": "Explain evidence visible in the past",
+      "body": "Use had been + -ing to explain an earlier process that produced a noticeable situation at the past reference point. Tiredness, wet clothes or a messy room may be clues about what had been happening. The activity itself need not still be in progress.",
+      "example": "At the finish line, Nia was breathless because she had been climbing a steep hill."
+    },
+    {
+      "heading": "Duration up to a later event",
+      "body": "With for, since and how long, emphasise the time spent doing an activity before another past event. Say had been waiting for forty minutes when the train came, not have been waiting if the reference point is in the past. In questions, put had before the subject: How long had they been waiting?",
+      "example": "The researchers had been collecting data for six months when the grant ended."
+    },
+    {
+      "heading": "Differentiate activity, completion and an action in progress",
+      "body": "Had been painting focuses on the earlier work or its duration; had painted may focus on a completed picture or result. Was painting describes what was in progress at a particular past time without itself telling us how long the activity had gone on before that time. Choose the form that matches the information you want to highlight.",
+      "example": "At seven, Jo was painting the gate. She had been painting it since lunchtime."
+    },
+    {
+      "heading": "Use simple forms with most stative meanings",
+      "body": "Verbs such as know, own and want are not normally continuous when they describe states. Use had known, had owned or had wanted when the state existed before the past reference point, rather than had been knowing or had been owning. Also use the simple past perfect when a finished result or number of completed items is the focus.",
+      "example": "Before their reunion, the two neighbours had known each other for over a decade."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Earlier activity versus completed result",
+      "left": {
+        "label": "Past perfect continuous",
+        "example": "At dusk, we had been repairing the fence for hours.",
+        "note": "This stresses the work and how long it had continued; the fence might not have been finished."
+      },
+      "right": {
+        "label": "Past perfect simple",
+        "example": "By dusk, we had repaired the entire fence.",
+        "note": "This stresses the completed result before dusk."
+      }
+    },
+    {
+      "title": "Activity at a past time versus before it",
+      "left": {
+        "label": "Past continuous",
+        "example": "When I arrived, the technicians were checking the cables.",
+        "note": "The checking was happening at that particular moment."
+      },
+      "right": {
+        "label": "Past perfect continuous",
+        "example": "They had been checking the cables since dawn.",
+        "note": "This looks back at the duration leading up to that moment."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "By the time the coach called a break, the players had been training for nearly two hours.",
+      "note": "The training continued for a period before the break."
+    },
+    {
+      "sentence": "Elisa’s sleeves were covered in flour because she had been baking.",
+      "note": "The evidence at that past moment points to earlier activity."
+    },
+    {
+      "sentence": "How long had you been living there when the factory closed?",
+      "note": "Had comes before the subject in a question about duration before a past event."
+    },
+    {
+      "sentence": "We had not been rehearsing for very long when the lights failed.",
+      "note": "The negative continuous describes a short activity period before the interruption."
+    },
+    {
+      "sentence": "They had known the route for years, but they had been practising the climb for only a week.",
+      "note": "Known is a state, whereas practising describes an extended activity."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "When the bus finally came, we have been waiting for an hour.",
+      "correct": "When the bus finally came, we had been waiting for an hour.",
+      "why": "The duration ended at a past reference point, so use had, not have."
+    },
+    {
+      "incorrect": "Sam was exhausted because he had been run since sunrise.",
+      "correct": "Sam was exhausted because he had been running since sunrise.",
+      "why": "After had been, use the -ing form: running."
+    },
+    {
+      "incorrect": "The room smelt of paint because someone had been paint there all morning.",
+      "correct": "The room smelt of paint because someone had been painting there all morning.",
+      "why": "After had been, use painting; the -ing form describes an activity leading up to the past result."
+    },
+    {
+      "incorrect": "By 2019, she had been knowing the family for ten years.",
+      "correct": "By 2019, she had known the family for ten years.",
+      "why": "Know is normally stative, so use had known rather than a continuous form."
+    }
+  ],
+  "studyTips": [
+    "Underline the later past event first; then identify the longer activity that was happening before it.",
+    "Use clues such as tired, muddy, out of breath or for two hours to consider an earlier activity rather than a completed result.",
+    "Before using had been -ing, test whether the verb describes a state: had known and had owned are usually better than continuous forms."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "By the time the referee stopped the match, the players ___ for almost two hours. Choose the form that emphasises duration.",
+      "choices": [
+        "have run",
+        "had been running",
+        "had ran"
+      ],
+      "answerIndex": 1,
+      "feedback": "Had been running shows a continuing activity over the period leading up to the past interruption."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "At the photo shoot, Lina’s jacket was muddy because she ___ through wet fields earlier.",
+      "choices": [
+        "had been walking",
+        "has been walking",
+        "had been walk"
+      ],
+      "answerIndex": 0,
+      "feedback": "Had been walking links an earlier activity to the muddy jacket seen in the past."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "When customer support finally answered, we ___ on hold for forty minutes. Select the past-perfect continuous form.",
+      "choices": [
+        "have been waiting",
+        "had waiting",
+        "had been waiting"
+      ],
+      "answerIndex": 2,
+      "feedback": "Had been waiting marks the duration before support answered."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Before the reunion, the cousins ___ each other for more than twenty years. Choose the natural form for a state.",
+      "choices": [
+        "had been knowing",
+        "had known",
+        "were knowing"
+      ],
+      "answerIndex": 1,
+      "feedback": "Know is generally stative in this meaning, so use had known."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "When the bus arrived, we ___ (stand) in the cold for half an hour. Write the past-perfect continuous verb phrase.",
+      "acceptedAnswers": [
+        "had been standing"
+      ],
+      "feedback": "Standing had continued for half an hour before the bus arrived."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Her eyes were tired at the end of the shift because she ___ (read) tiny labels for hours. Write the past-perfect continuous verb phrase.",
+      "acceptedAnswers": [
+        "had been reading"
+      ],
+      "feedback": "The tired eyes were evidence of extended reading before the past reference point."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "They ___ (not / practise) for very long when the coach ended the session. Write the negative past-perfect continuous verb phrase.",
+      "acceptedAnswers": [
+        "hadn't been practising",
+        "had not been practising",
+        "hadn't been practicing",
+        "had not been practicing"
+      ],
+      "feedback": "Had not been practising says the period of activity before the coach stopped it was short. Both common spellings are acceptable."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "How long ___ (the engineers / test) the device when the fault appeared? Write the words between “How long” and “the device”.",
+      "acceptedAnswers": [
+        "had the engineers been testing"
+      ],
+      "feedback": "Had + subject + been testing is the question form about prior duration."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Before the play began, we had waiting outside for an hour. Use the past perfect continuous to correct the verb phrase.",
+      "acceptedAnswers": [
+        "Before the play began, we had been waiting outside for an hour."
+      ],
+      "feedback": "Had been waiting needs both been and the -ing verb to express the earlier activity."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: At the finish line, Zoe was breathless because she has been running uphill.",
+      "acceptedAnswers": [
+        "At the finish line, Zoe was breathless because she had been running uphill."
+      ],
+      "feedback": "The evidence was observed in the past, so use had been running."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: When the lights went out, the technicians had been work all night.",
+      "acceptedAnswers": [
+        "When the lights went out, the technicians had been working all night."
+      ],
+      "feedback": "The -ing form working follows had been."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I had been knowing Dana for six years when we started working together.",
+      "acceptedAnswers": [
+        "I had known Dana for six years when we started working together."
+      ],
+      "feedback": "Know describes a state in this context. Use had known, not had been knowing."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one sentence using these facts: I / wait / for thirty minutes / before the taxi arrived. Begin “I had been”.",
+      "acceptedAnswers": [
+        "I had been waiting for thirty minutes before the taxi arrived."
+      ],
+      "feedback": "Had been waiting expresses duration before the taxi’s arrival."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "At sunrise, the bakers were tired. They had spent hours preparing dough. Say one sentence beginning “The bakers” and ending “by sunrise”. Use the past perfect continuous.",
+      "acceptedAnswers": [
+        "The bakers had been preparing the dough for hours by sunrise."
+      ],
+      "feedback": "Had been preparing highlights their activity leading up to sunrise."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "The coach stopped the session shortly after it began. Say one negative past-perfect continuous sentence beginning “We” and ending “when the coach stopped the session”. Include “for very long”.",
+      "acceptedAnswers": [
+        "We hadn't been practising for very long when the coach stopped the session.",
+        "We had not been practising for very long when the coach stopped the session.",
+        "We hadn't been practicing for very long when the coach stopped the session.",
+        "We had not been practicing for very long when the coach stopped the session."
+      ],
+      "feedback": "The negative form expresses the short duration before the session ended."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Ask how long the engineers had been testing the device before the alarm sounded. Begin “How long had the engineers” and end “before the alarm sounded?”.",
+      "acceptedAnswers": [
+        "How long had the engineers been testing the device before the alarm sounded?"
+      ],
+      "feedback": "Had the engineers been testing is the past-perfect continuous question order."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Lara’s fingers were stained with paint after an afternoon of painting. Explain the stains in one sentence beginning “Lara’s fingers” and using “because she had been painting”.",
+      "acceptedAnswers": [
+        "Lara's fingers were stained with paint because she had been painting."
+      ],
+      "feedback": "The earlier painting explains the marks visible in the past."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "By six o’clock yesterday, the crew had spent six hours digging. Say one sentence beginning “The crew” and ending “by six o’clock”. Use had been + digging.",
+      "acceptedAnswers": [
+        "The crew had been digging for six hours by six o’clock."
+      ],
+      "feedback": "The continuous highlights the activity’s duration before six."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences with full forms using these facts: The audience was restless. They / wait / for an hour before the show began. Begin “The audience” and “They had”.",
+      "acceptedAnswers": [
+        "The audience was restless. They had been waiting for an hour before the show began."
+      ],
+      "feedback": "The second sentence uses the earlier waiting to explain the restlessness."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You knew Dana for six years before you began working together. Use the state verb know correctly. Begin “I had” and end “when we started working together”.",
+      "acceptedAnswers": [
+        "I had known Dana for six years when we started working together."
+      ],
+      "feedback": "Known is the past participle; the stative verb know is not normally continuous."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "By the time the museum doors opened, we had been queuing outside for almost an hour.",
+      "prompt": "What does the speaker indicate about the queue?",
+      "choices": [
+        "It formed only after the doors opened.",
+        "It had lasted almost an hour before opening.",
+        "It continued for an hour after the museum closed."
+      ],
+      "answerIndex": 1,
+      "feedback": "Had been queuing expresses duration leading up to the past opening."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Max’s hair was wet because he had been cycling through the rain, although the rain had stopped.",
+      "prompt": "Why was Max’s hair wet at that time?",
+      "choices": [
+        "He had just showered.",
+        "He was standing under a leaking pipe.",
+        "He had been riding in the rain."
+      ],
+      "answerIndex": 2,
+      "feedback": "The earlier cycling in the rain explains the later condition of his hair."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The team had been reviewing the designs for weeks before the final decision.",
+      "prompt": "Type the three-word verb phrase immediately after “The team”.",
+      "acceptedAnswers": [
+        "had been reviewing"
+      ],
+      "feedback": "Had been reviewing focuses on sustained work before the decision."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "When I entered, the musicians were practising. They had been practising since lunchtime.",
+      "prompt": "What does the speaker add in the second sentence?",
+      "choices": [
+        "How long the practice had continued.",
+        "The number of songs completed.",
+        "Where the musicians would perform next."
+      ],
+      "answerIndex": 0,
+      "feedback": "Had been practising since lunchtime adds duration before the past entry."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "We had been driving all night, so everyone was exhausted when we reached the hotel.",
+      "prompt": "What explains the group’s exhaustion?",
+      "choices": [
+        "They had lost their luggage.",
+        "They had been travelling through the night.",
+        "They were planning another long drive tomorrow."
+      ],
+      "answerIndex": 1,
+      "feedback": "All-night driving before arrival caused the tiredness."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Dina had known the coach for years, but she had been training with him for only a month.",
+      "prompt": "Which comparison is correct?",
+      "choices": [
+        "She trained with the coach for years before meeting him.",
+        "She knew the coach for only a month.",
+        "She had known him much longer than she had trained with him."
+      ],
+      "answerIndex": 2,
+      "feedback": "The stative had known covers years, whereas had been training covers only a month."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Before the match was cancelled, the players hadn't been warming up for long.",
+      "prompt": "Type the negative past-perfect continuous verb phrase immediately after “the players”.",
+      "acceptedAnswers": [
+        "hadn't been warming up",
+        "had not been warming up"
+      ],
+      "feedback": "Had not been warming up describes an activity that had continued only briefly before the cancellation."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "How long had the gardeners been working before the storm started?",
+      "prompt": "Type the two-word verb phrase immediately after “gardeners”.",
+      "acceptedAnswers": [
+        "been working"
+      ],
+      "feedback": "Been working follows had + subject in a past-perfect continuous question."
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u122",
+  "title": "On Time, In Time, At the End and In the End",
+  "level": "B2",
+  "topicId": "eg2-u122-punctuality-timely-action-and-endings",
+  "summary": "Distinguish punctual events that happen on time from actions completed in time, then contrast at the end of a period or event with in the end as a final outcome. Use just in time and recognise the different opposite expressions.",
+  "learningObjectives": [
+    "Use on time when an event matches its planned schedule and in time when something is early enough for a purpose.",
+    "Use just in time for a narrowly avoided delay or missed opportunity.",
+    "Use at the end of a named period or event rather than in the end of it.",
+    "Use in the end to introduce a final outcome, contrasting it with at first and distinguishing it from punctuality."
+  ],
+  "explanation": [
+    {
+      "heading": "On time means punctual or according to schedule",
+      "body": "When something happens on time, it happens at the arranged or expected time, rather than late. Meetings, buses and performances can begin or arrive on time. Someone can also be on time for an appointment. The expression focuses on respecting a schedule, not on whether there was enough time to do something.",
+      "example": "The workshop started on time despite the heavy traffic outside."
+    },
+    {
+      "heading": "In time means soon enough for a purpose",
+      "body": "Use in time for something or in time to do something when an action happens early enough to allow the next event. There need not be a formal scheduled appointment. If you arrive too late, you did not arrive in time. Just in time emphasises that you almost missed the opportunity.",
+      "example": "We reached the ticket desk just in time to buy the last two seats."
+    },
+    {
+      "heading": "At the end marks the final part of a named period or event",
+      "body": "Use at the end of plus a noun phrase such as the month, the course or the ceremony. It tells us when something happened near the conclusion of that period or event. The contrasting expression is at the beginning of. Do not say in the end of a period in this sense.",
+      "example": "Everyone received a certificate at the end of the course."
+    },
+    {
+      "heading": "In the end introduces what finally happened",
+      "body": "In the end reports a result or decision after events, attempts or uncertainty, similar to finally or eventually. It does not normally take of plus a named event. At first is a useful contrast when explaining how an initial plan or impression changed before the outcome.",
+      "example": "We considered three locations, but in the end we chose the smallest room."
+    },
+    {
+      "heading": "Select the phrase from the intended meaning",
+      "body": "Ask two separate questions: was the timing punctual or merely early enough, and are you naming the close of an event or summarising the outcome? On time and in time can both relate to arriving, but they are not interchangeable in every context. Likewise, at the end of the meeting names a moment, while in the end tells the reader what was ultimately decided.",
+      "example": "The presenter arrived in time to check the microphone, and the talk began on time."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Following a schedule versus having enough time",
+      "left": {
+        "label": "On time: punctual",
+        "example": "The coach departed on time.",
+        "note": "The coach left at its advertised departure time."
+      },
+      "right": {
+        "label": "In time: soon enough",
+        "example": "We got to the stop in time to catch the coach.",
+        "note": "We arrived early enough to board before departure."
+      }
+    },
+    {
+      "title": "The final moment versus the final outcome",
+      "left": {
+        "label": "At the end of + event",
+        "example": "At the end of the exhibition, visitors signed a guest book.",
+        "note": "This identifies the concluding stage of a named event."
+      },
+      "right": {
+        "label": "In the end: outcome",
+        "example": "We nearly cancelled the exhibition, but in the end it went ahead.",
+        "note": "This gives the result of earlier uncertainty."
+      }
+    },
+    {
+      "title": "Almost late versus exactly punctual",
+      "left": {
+        "label": "Just in time",
+        "example": "I found my passport just in time to board.",
+        "note": "The chance to board was nearly lost."
+      },
+      "right": {
+        "label": "Right on time",
+        "example": "The shuttle reached the terminal right on time.",
+        "note": "The shuttle arrived exactly according to the schedule."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The train left on time at 7:10, just as the timetable promised.",
+      "note": "On time means the actual departure matched the advertised one."
+    },
+    {
+      "sentence": "We hurried through the station and arrived in time for the announcement.",
+      "note": "The arrival was early enough to hear the announcement."
+    },
+    {
+      "sentence": "The nurse noticed the problem just in time to prevent a mistake.",
+      "note": "Just in time implies there was very little time to spare."
+    },
+    {
+      "sentence": "At the end of the interview, the candidate asked a final question.",
+      "note": "At the end of locates an event at the close of a specified interview."
+    },
+    {
+      "sentence": "At first we wanted to travel by ferry, but in the end we took a train.",
+      "note": "In the end contrasts the eventual decision with the original plan."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The lecture started in time at exactly the planned hour.",
+      "correct": "The lecture started on time at exactly the planned hour.",
+      "why": "An event happening at its scheduled hour is on time."
+    },
+    {
+      "incorrect": "We arrived just on time to catch the closing doors of the lift.",
+      "correct": "We arrived just in time to catch the closing doors of the lift.",
+      "why": "A nearly missed opportunity calls for just in time."
+    },
+    {
+      "incorrect": "In the end of the seminar, the organiser collected our badges.",
+      "correct": "At the end of the seminar, the organiser collected our badges.",
+      "why": "A named event after of takes at the end of."
+    },
+    {
+      "incorrect": "We debated for weeks; at the end we finally agreed on a location.",
+      "correct": "We debated for weeks; in the end we finally agreed on a location.",
+      "why": "In the end is the conventional way to introduce a final decision after uncertainty; at the end normally needs a clear event or period."
+    }
+  ],
+  "studyTips": [
+    "Test punctuality with the question “Was it scheduled for that exact time?” If yes, choose on time; otherwise ask whether in time for/to fits.",
+    "Invent a near-miss and explain it with just in time, then compare the situation with too late.",
+    "Write two closing sentences: one with at the end of plus a named event and another with in the end describing an eventual result."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The audience took their seats, and the concert began at exactly the advertised time. It began ___.",
+      "choices": [
+        "on time",
+        "in time",
+        "in the end"
+      ],
+      "answerIndex": 0,
+      "feedback": "On time describes a punctual start matching the advertised schedule."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "We entered the building seconds before the doors were locked. We got inside ___.",
+      "choices": [
+        "on time",
+        "just in time",
+        "at the end"
+      ],
+      "answerIndex": 1,
+      "feedback": "Just in time means we succeeded narrowly before the opportunity disappeared."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "___ of the training course, everyone gave feedback about the lessons.",
+      "choices": [
+        "In the end",
+        "On time",
+        "At the end"
+      ],
+      "answerIndex": 2,
+      "feedback": "At the end of identifies the closing stage of a named course."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "After several unsuccessful attempts, ___ we found a way to repair the machine.",
+      "choices": [
+        "in the end",
+        "at the end of",
+        "on time"
+      ],
+      "answerIndex": 0,
+      "feedback": "In the end expresses the eventual successful result following earlier difficulties."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The bus departed at its exact scheduled time. It left ___ . (write the punctuality expression)",
+      "acceptedAnswers": [
+        "on time"
+      ],
+      "feedback": "On time means the departure matched the timetable."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "We reached the hall ___ . (early enough to hear the opening speech; use in + a single time word)",
+      "acceptedAnswers": [
+        "in time"
+      ],
+      "feedback": "The arrival occurred soon enough to hear the speech."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Everyone took a group photo ___ . (the final minutes of the course; use at the end of + the course)",
+      "acceptedAnswers": [
+        "at the end of the course"
+      ],
+      "feedback": "At the end of names the concluding part of a specific event."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "We tried four different solutions, but ___ we called a specialist. (give the eventual outcome expression)",
+      "acceptedAnswers": [
+        "in the end"
+      ],
+      "feedback": "In the end signals the final decision after unsuccessful attempts."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence, keeping all other words unchanged: The presentation began in time at precisely the scheduled hour.",
+      "acceptedAnswers": [
+        "The presentation began on time at precisely the scheduled hour."
+      ],
+      "feedback": "Use on time for an event starting punctually according to its schedule."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence, keeping all other words unchanged: The gates were about to close, but I arrived just on time to enter.",
+      "acceptedAnswers": [
+        "The gates were about to close, but I arrived just in time to enter."
+      ],
+      "feedback": "Just in time shows that entry was possible by a very narrow margin."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence, keeping all other words unchanged: In the end of the workshop, the instructor collected the evaluation sheets.",
+      "acceptedAnswers": [
+        "At the end of the workshop, the instructor collected the evaluation sheets."
+      ],
+      "feedback": "A specified workshop ending takes at the end of, not in the end of."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence, keeping all other words unchanged: In the end of the month, the team will review its results.",
+      "acceptedAnswers": [
+        "At the end of the month, the team will review its results."
+      ],
+      "feedback": "Use at the end of to locate a planned event at the close of a month."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one complete sentence using these facts: the webinar / start / on time. Use the past simple.",
+      "acceptedAnswers": [
+        "The webinar started on time."
+      ],
+      "feedback": "On time says the webinar followed its planned starting time."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "You arrived early enough to catch the last tram, with almost no time left. Begin with “I arrived” and use “just in time to catch the last tram”.",
+      "acceptedAnswers": [
+        "I arrived just in time to catch the last tram."
+      ],
+      "feedback": "Just in time shows the opportunity was nearly missed."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "A colleague asks if the parcel was early enough for the exhibition. Answer from these facts: the parcel / arrive / in time for the exhibition. Use past simple.",
+      "acceptedAnswers": [
+        "The parcel arrived in time for the exhibition."
+      ],
+      "feedback": "In time for the exhibition means it arrived soon enough for that event."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Correct the time expression without changing the other words: “The conference started in time at nine, exactly as scheduled.”",
+      "acceptedAnswers": [
+        "The conference started on time at nine, exactly as scheduled."
+      ],
+      "feedback": "On time expresses a punctual start."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Rephrase as one sentence: the training course ended; then students received certificates. Begin with “At the end of the course” and use “the students received certificates”.",
+      "acceptedAnswers": [
+        "At the end of the course, the students received certificates."
+      ],
+      "feedback": "At the end of identifies the final stage of the named course."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "After many discussions, the team finally chose the cheaper supplier. Begin with “In the end” and end with “the cheaper supplier”.",
+      "acceptedAnswers": [
+        "In the end, the team chose the cheaper supplier."
+      ],
+      "feedback": "In the end introduces the final decision after discussion."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Produce exactly two sentences from these facts: the bus / arrive / at its scheduled time; we / reach the stop / early enough to board. Use on time in the first sentence and in time to board in the second. Begin with The bus and We.",
+      "acceptedAnswers": [
+        "The bus arrived on time. We reached the stop in time to board."
+      ],
+      "feedback": "The first sentence concerns the timetable; the second concerns reaching the bus before it departed."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "A project was difficult at first but finally succeeded. Say one sentence that begins “At first the project was difficult” and ends “in the end it succeeded”. Join the ideas with “but”.",
+      "acceptedAnswers": [
+        "At first the project was difficult, but in the end it succeeded."
+      ],
+      "feedback": "At first introduces the initial situation; in the end introduces the eventual outcome."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The intercity coach was due at eight, and it pulled into the station at exactly eight.",
+      "prompt": "What does the speaker say about the coach?",
+      "choices": [
+        "It arrived ahead of schedule.",
+        "It was punctual.",
+        "It arrived too late."
+      ],
+      "answerIndex": 1,
+      "feedback": "The actual arrival matched the planned time, so the coach was on time."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We arrived just in time to catch the final ferry. They were already preparing to close the gate.",
+      "prompt": "What nearly happened?",
+      "choices": [
+        "They almost missed the final ferry.",
+        "They waited hours for the next ferry.",
+        "They boarded long before the gate opened."
+      ],
+      "answerIndex": 0,
+      "feedback": "Just in time indicates they boarded narrowly before entry closed."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Despite the traffic, the lecture began on time, exactly when the timetable said it would.",
+      "prompt": "Type the two-word expression immediately after “began”.",
+      "acceptedAnswers": [
+        "on time"
+      ],
+      "feedback": "On time indicates that the lecture followed the scheduled starting time."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "At the end of the rehearsal, the dancers stayed to discuss their final performance.",
+      "prompt": "When did the dancers stay to talk?",
+      "choices": [
+        "Before the rehearsal began.",
+        "Halfway through the performance.",
+        "After the rehearsal reached its end."
+      ],
+      "answerIndex": 2,
+      "feedback": "At the end of the rehearsal identifies the final point of a named event."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "We originally planned to order food, but in the end we cooked dinner ourselves.",
+      "prompt": "What did the people finally decide to do?",
+      "choices": [
+        "Go to a restaurant.",
+        "Make dinner themselves.",
+        "Skip dinner entirely."
+      ],
+      "answerIndex": 1,
+      "feedback": "In the end introduces their final choice, which replaced the original plan."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The speaker arrived in time to test the microphone, but the public talk itself started fifteen minutes late.",
+      "prompt": "Which statement matches what happened?",
+      "choices": [
+        "The speaker had enough time to prepare, but the talk was late.",
+        "The talk began punctually and the speaker missed it.",
+        "The speaker arrived after the talk finished."
+      ],
+      "answerIndex": 0,
+      "feedback": "In time describes arriving early enough for preparation; the talk did not start on time."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "At the end of the tournament, the organisers thanked the volunteer teams.",
+      "prompt": "Type the four-word expression immediately before “the tournament”.",
+      "acceptedAnswers": [
+        "at the end of"
+      ],
+      "feedback": "At the end of marks the closing stage of a particular event."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We tried to fix the old heater, but in the end we decided to replace it.",
+      "prompt": "Type the three-word expression immediately after “but”.",
+      "acceptedAnswers": [
+        "in the end"
+      ],
+      "feedback": "In the end introduces the final result after previous attempts."
+    }
+  ]
+}

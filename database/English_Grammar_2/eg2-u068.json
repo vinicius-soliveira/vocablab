@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u068",
+  "title": "-ing Clauses for Time, Reason and Sequence",
+  "level": "B2",
+  "topicId": "eg2-u068-participle-clauses-time-reason-sequence",
+  "summary": "Combine closely related actions with -ing clauses, express simultaneous activity or circumstances, and use having + past participle for an earlier completed action. Introduce reasons with -ing or negative -ing clauses while keeping the implied subject clear.",
+  "learningObjectives": [
+    "Join two simultaneous actions or describe what happened during another event using an -ing clause.",
+    "Use while or when + -ing to make a time relationship explicit.",
+    "Use having + past participle or after + -ing when one action precedes another.",
+    "Give reasons with initial -ing and negative -ing clauses, applying commas and shared-subject rules."
+  ],
+  "explanation": [
+    {
+      "heading": "Add an -ing clause for simultaneous activity",
+      "body": "Use an -ing clause to add an action or detail that occurs at the same time as the main clause. The person performing the -ing action is normally the same person as the subject of the main clause. The extra detail may appear after the main clause.",
+      "example": "The guests walked towards the exit, chatting quietly about the show."
+    },
+    {
+      "heading": "Describe what happened while doing something",
+      "body": "An -ing clause can tell us when something happened during a longer activity. While + -ing and when + -ing can make this relationship especially clear. The shorter clause leaves out a repeated subject when it is understood from the main clause.",
+      "example": "While carrying the boxes upstairs, Dev found a loose step."
+    },
+    {
+      "heading": "Mark an earlier completed action",
+      "body": "Use having + past participle for an action finished before the main action. After + -ing also puts one event before another. These patterns often appear in more formal writing than in relaxed conversation. Put a comma after an initial participle clause.",
+      "example": "Having checked the seating plan, the organiser opened the doors."
+    },
+    {
+      "heading": "Give a reason or background circumstance",
+      "body": "A sentence-initial -ing clause can explain why the subject acted in a certain way. To express a negative reason, start with not + -ing or not having + a noun or past participle as appropriate. A comma separates the initial clause from the main statement.",
+      "example": "Not knowing the entrance code, Felix waited for someone to arrive."
+    },
+    {
+      "heading": "Make sure both clauses have the same understood subject",
+      "body": "The subject of the main clause must make sense as the person or thing performing the participle action. “Walking to the station, the rain started” wrongly implies that rain was walking. Name the actual walker in the main clause, or rewrite with a full subordinate clause if the subjects differ.",
+      "example": "Walking towards the station, I noticed dark clouds gathering."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Activity at the same time versus a completed earlier step",
+      "left": {
+        "label": "-ing: simultaneous",
+        "example": "Mila waited at the stop, checking the timetable.",
+        "note": "Checking occurred during the wait."
+      },
+      "right": {
+        "label": "Having + past participle: earlier",
+        "example": "Having checked the timetable, Mila boarded the bus.",
+        "note": "The checking was finished before she boarded."
+      }
+    },
+    {
+      "title": "Time circumstance versus reason",
+      "left": {
+        "label": "While + -ing",
+        "example": "While installing the shelf, Bea noticed a crack.",
+        "note": "The -ing clause says when Bea noticed the crack."
+      },
+      "right": {
+        "label": "Reason with -ing",
+        "example": "Feeling concerned about the crack, Bea stopped working.",
+        "note": "The -ing clause explains why Bea stopped."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The assistant answered the questions, pointing to the diagram.",
+      "note": "Pointing adds a simultaneous action by the assistant."
+    },
+    {
+      "sentence": "I cut my finger opening the parcel.",
+      "note": "Opening identifies the activity during which the injury happened."
+    },
+    {
+      "sentence": "When crossing the courtyard, Hannah always uses the marked path.",
+      "note": "When + -ing describes the occasion for Hannah’s usual action."
+    },
+    {
+      "sentence": "Having saved the final draft, Nikhil closed his laptop.",
+      "note": "Saving was completed before closing the computer."
+    },
+    {
+      "sentence": "Not having a spare key, I rang the neighbour.",
+      "note": "The opening clause gives the reason for ringing the neighbour."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Having wrote the summary, Jen sent it to her manager.",
+      "correct": "Having written the summary, Jen sent it to her manager.",
+      "why": "Having must be followed by a past participle; the past participle of write is written."
+    },
+    {
+      "incorrect": "While carry the trays, Theo slipped.",
+      "correct": "While carrying the trays, Theo slipped.",
+      "why": "After while in this shortened time clause, use the -ing form carrying."
+    },
+    {
+      "incorrect": "Feeling cold, the window was closed by Oliver.",
+      "correct": "Feeling cold, Oliver closed the window.",
+      "why": "The person feeling cold must be the subject of the main clause, not the window."
+    },
+    {
+      "incorrect": "Not knew the address, I asked at reception.",
+      "correct": "Not knowing the address, I asked at reception.",
+      "why": "A negative participle reason begins not + the -ing form, here not knowing."
+    }
+  ],
+  "studyTips": [
+    "For every -ing clause, name the person doing the action; check that the main clause has the same understood subject.",
+    "Draw a short timeline before choosing -ing for overlap or having + past participle for a finished earlier step.",
+    "Read initial participle clauses aloud and pause at the comma: Having checked ..., we ... / Not knowing ..., I ... ."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The customers left the gallery ___ excitedly about the new exhibition.",
+      "choices": [
+        "talked",
+        "talking",
+        "to talking"
+      ],
+      "answerIndex": 1,
+      "feedback": "Talking adds an activity performed as the visitors were leaving; it is an -ing clause."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "After ___ the invoice, Ava saved a copy for the accounts team.",
+      "choices": [
+        "checking",
+        "checked",
+        "to checking"
+      ],
+      "answerIndex": 0,
+      "feedback": "After is a preposition here, so a following action takes the -ing form checking."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "___ the last safety test, the engineer authorised the restart.",
+      "choices": [
+        "Having approve",
+        "Have approved",
+        "Having approved"
+      ],
+      "answerIndex": 2,
+      "feedback": "Having + past participle marks a test completed before the authorisation."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "___ the route to the new venue, I asked the organiser for directions.",
+      "choices": [
+        "Not knowing",
+        "Not know",
+        "Not known"
+      ],
+      "answerIndex": 0,
+      "feedback": "Not knowing is a negative -ing clause explaining why the speaker asked for help."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Liam hurt his wrist ___ (lift) a heavy suitcase. Write the -ing form to describe the activity during which it happened.",
+      "acceptedAnswers": [
+        "lifting"
+      ],
+      "feedback": "Lifting names the activity during which Liam injured his wrist."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "___ (finish) her shift, Nora checked the door and left. Begin with Having + past participle.",
+      "acceptedAnswers": [
+        "Having finished"
+      ],
+      "feedback": "Having finished places the completed shift before checking the door and leaving."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "___ (not / understand) the instructions, I asked the trainer for help. Write a negative -ing clause.",
+      "acceptedAnswers": [
+        "Not understanding"
+      ],
+      "feedback": "Not understanding gives the reason the speaker asked for help."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Be careful when ___ (carry) the glass shelves. Write the -ing form.",
+      "acceptedAnswers": [
+        "carrying"
+      ],
+      "feedback": "When carrying means during the activity of carrying the shelves."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct only the verb form in the opening clause: Having wrote the proposal, Elise emailed it to the team.",
+      "acceptedAnswers": [
+        "Having written the proposal, Elise emailed it to the team."
+      ],
+      "feedback": "The form after having must be the past participle written, not wrote."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct only the verb form after While: While drive to work, Yara noticed a fallen tree.",
+      "acceptedAnswers": [
+        "While driving to work, Yara noticed a fallen tree."
+      ],
+      "feedback": "While driving is the shortened time clause and the subject is Yara."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the opening verb form without changing the facts: Feel nervous, Ezra spoke slowly at the meeting.",
+      "acceptedAnswers": [
+        "Feeling nervous, Ezra spoke slowly at the meeting."
+      ],
+      "feedback": "Feeling nervous is an -ing clause explaining Ezra’s state while speaking."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the words “After to review” using an -ing form; keep everything else: After to review the contract, we signed it.",
+      "acceptedAnswers": [
+        "After reviewing the contract, we signed it."
+      ],
+      "feedback": "After followed by a verb uses the -ing form reviewing, not a to-infinitive."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Combine these facts into one sentence. Amir entered the room. He was carrying two folders. Begin “Amir entered the room” and end “two folders”. Use an -ing clause.",
+      "acceptedAnswers": [
+        "Amir entered the room carrying two folders."
+      ],
+      "feedback": "Carrying describes a simultaneous action by Amir."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say a complete sentence starting “While waiting for the bus” and ending “Rosa checked her messages”. Use a comma after the opening clause.",
+      "acceptedAnswers": [
+        "While waiting for the bus, Rosa checked her messages."
+      ],
+      "feedback": "While waiting describes the time when Rosa checked her messages."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "The figures were checked before the report was sent. Begin “Having checked the figures” and end “they submitted the report”. Say one sentence.",
+      "acceptedAnswers": [
+        "Having checked the figures, they submitted the report."
+      ],
+      "feedback": "Having checked places the completed review before submission."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Give Mia’s reason for going home early. Begin “Feeling exhausted” and end “Mia went home early”.",
+      "acceptedAnswers": [
+        "Feeling exhausted, Mia went home early."
+      ],
+      "feedback": "Feeling exhausted gives Mia’s reason for leaving early."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "You did not know the password, so you asked for help. Begin “Not knowing the password” and finish “I asked for help”.",
+      "acceptedAnswers": [
+        "Not knowing the password, I asked for help."
+      ],
+      "feedback": "Not knowing is a negative participle clause expressing the reason for asking."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Combine two ordered actions in one sentence: We finished the workshop. Afterwards, we went for a walk. Begin “After finishing the workshop” and end “we went for a walk”.",
+      "acceptedAnswers": [
+        "After finishing the workshop, we went for a walk."
+      ],
+      "feedback": "After finishing puts the completion of the workshop before the walk."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences using these facts and order. First: Lena waited outside; she was reading a magazine. Begin “Lena waited outside”. Second: She completed her appointment before calling a taxi. Begin “Having finished her appointment”.",
+      "acceptedAnswers": [
+        "Lena waited outside reading a magazine. Having finished her appointment, she called a taxi."
+      ],
+      "feedback": "The first -ing clause adds simultaneous activity; having finished marks an earlier completed action."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Describe Theo’s regular safety habit in exactly these words: begin “When crossing the road” and end “Theo checks for cars”.",
+      "acceptedAnswers": [
+        "When crossing the road, Theo checks for cars."
+      ],
+      "feedback": "When crossing gives the occasion for Theo’s regular safety check."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Holding a stack of notebooks, Daniel hurried into the classroom before the bell.",
+      "prompt": "What was Daniel doing as he hurried into the classroom?",
+      "choices": [
+        "Carrying notebooks.",
+        "Writing on the board.",
+        "Returning books to the library."
+      ],
+      "answerIndex": 0,
+      "feedback": "Holding a stack of notebooks gives Daniel’s simultaneous action."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Having read the safety instructions, Priya switched on the device for the first time.",
+      "prompt": "What happened before the device was switched on?",
+      "choices": [
+        "The device failed an inspection.",
+        "Priya read the safety instructions.",
+        "Priya replaced the battery."
+      ],
+      "answerIndex": 1,
+      "feedback": "Having read marks the instructions as completed before the device was switched on."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "After locking the front door, Mara checked her pockets for her keys.",
+      "prompt": "Type the single -ing word immediately after “After”.",
+      "acceptedAnswers": [
+        "locking"
+      ],
+      "feedback": "Locking is the verb after the preposition after in the opening time clause."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Feeling dizzy after the long journey, Lina sat down beside the fountain.",
+      "prompt": "Why did Lina sit down?",
+      "choices": [
+        "She needed to tie her shoes.",
+        "She wanted to take a photograph.",
+        "She was feeling dizzy."
+      ],
+      "answerIndex": 2,
+      "feedback": "Feeling dizzy is the reason given by the opening -ing clause."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "While carrying the dishes to the dining room, Erik tripped over a loose mat.",
+      "prompt": "During which activity did Erik trip?",
+      "choices": [
+        "Carrying dishes.",
+        "Cleaning the dining room floor.",
+        "Rolling up a mat."
+      ],
+      "answerIndex": 0,
+      "feedback": "While carrying places the trip during the act of transporting dishes."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Not having an umbrella, we waited beneath the shelter until the rain stopped.",
+      "prompt": "Why did the group remain under the shelter?",
+      "choices": [
+        "They were waiting for a bus driver.",
+        "They did not have an umbrella.",
+        "They had already finished a picnic."
+      ],
+      "answerIndex": 1,
+      "feedback": "Not having an umbrella provides the reason for sheltering from the rain."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Having saved the document, Theo shut down his laptop before leaving.",
+      "prompt": "Type the two-word opening phrase that means the saving was already complete.",
+      "acceptedAnswers": [
+        "Having saved"
+      ],
+      "feedback": "Having saved is the audible participle construction that marks the earlier completed action."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Not knowing the caller’s number, Daniel let the phone ring without answering.",
+      "prompt": "Type the two-word opening phrase that explains Daniel’s decision.",
+      "acceptedAnswers": [
+        "Not knowing"
+      ],
+      "feedback": "Not knowing supplies the negative reason for not answering the call."
+    }
+  ]
+}

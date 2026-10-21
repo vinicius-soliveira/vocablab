@@ -1,0 +1,413 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u001",
+  "title": "Present continuous: actions in progress",
+  "level": "B1",
+  "topicId": "eg2-u001-present-continuous-actions",
+  "summary": "Use am, is or are with an -ing verb to describe an unfinished activity now, an activity in progress around the present, a temporary situation, or a change that is developing.",
+  "learningObjectives": [
+    "Build affirmative, negative and question forms using am/is/are + verb-ing.",
+    "Describe what is happening at the moment of speaking and what is still in progress.",
+    "Use present continuous for temporary situations and activities taking place around now.",
+    "Describe developing changes with verbs such as getting, improving and increasing."
+  ],
+  "explanation": [
+    {
+      "heading": "The basic form and its meaning",
+      "body": "The present continuous joins a form of be (am, is or are) to the -ing form of the main verb. Use it when an action has started but is not finished. The auxiliary carries the tense; the main verb names the activity. Short forms such as I’m and they’re are natural in conversation.",
+      "example": "The technicians are inspecting the lift right now."
+    },
+    {
+      "heading": "Statements, negatives and questions",
+      "body": "For a positive statement, place am, is or are before the -ing verb. Put not after the auxiliary to make a negative. To ask a yes/no question, move the auxiliary before the subject; for a wh-question, put the question word first. Keep the -ing form in all three patterns.",
+      "example": "Is Lara waiting outside, or is she coming in?"
+    },
+    {
+      "heading": "An activity in progress around now",
+      "body": "An unfinished activity may extend over days or weeks even when the person is not doing it at the exact second they speak. Phrases such as at the moment, these days and this month can identify a wider period around the present. The activity is ongoing, not necessarily constant.",
+      "example": "I’m taking a photography course this month, although I have no class today."
+    },
+    {
+      "heading": "Temporary periods and current circumstances",
+      "body": "Use the present continuous to describe an arrangement or situation that is true for a limited period. Today, this week and this year often set a temporary frame. The sentence does not say the situation is permanent or repeated indefinitely.",
+      "example": "We’re using a smaller meeting room this week while the main one is unavailable."
+    },
+    {
+      "heading": "Changes that are developing",
+      "body": "Use the present continuous for changes already under way. Verbs such as get, become, improve, grow, rise and fall often describe a trend rather than one completed event. The change can be slow or fast, but it is happening over a period around now.",
+      "example": "The queue is getting shorter as more staff arrive."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "At this instant versus over the current period",
+      "left": {
+        "label": "Happening right now",
+        "example": "The chef is chopping onions in the kitchen.",
+        "note": "The action is occurring as the speaker describes it."
+      },
+      "right": {
+        "label": "In progress these days",
+        "example": "The chef is developing a new menu this month.",
+        "note": "The project is underway, even if the chef is not working on it at this instant."
+      }
+    },
+    {
+      "title": "A current action versus an ongoing change",
+      "left": {
+        "label": "Activity in progress",
+        "example": "The volunteers are painting the fence.",
+        "note": "People are carrying out a specific unfinished task."
+      },
+      "right": {
+        "label": "Developing change",
+        "example": "The paint is drying more quickly in the warm air.",
+        "note": "The situation is changing progressively rather than naming a task someone performs."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Please keep the hallway clear; the movers are bringing in a sofa.",
+      "note": "The action is happening at the time of speaking."
+    },
+    {
+      "sentence": "I’m not driving today because my car is at the garage.",
+      "note": "Not follows am to describe an activity that is not happening in the current period."
+    },
+    {
+      "sentence": "Are your neighbours renovating their kitchen?",
+      "note": "Are moves before the plural subject to create a question."
+    },
+    {
+      "sentence": "Sam is writing a guide for new employees this month.",
+      "note": "The guide is an unfinished project, not necessarily being written at this moment."
+    },
+    {
+      "sentence": "The evenings are becoming cooler as autumn approaches.",
+      "note": "Are becoming describes a change in progress."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "She working on the report now.",
+      "correct": "She is working on the report now.",
+      "why": "A present continuous verb needs am, is or are before its -ing form."
+    },
+    {
+      "incorrect": "They are not wait for us.",
+      "correct": "They are not waiting for us.",
+      "why": "The main verb must use the -ing form after are not."
+    },
+    {
+      "incorrect": "Is preparing Nina the presentation?",
+      "correct": "Is Nina preparing the presentation?",
+      "why": "In a yes/no question, place the auxiliary before the subject, then the -ing verb."
+    },
+    {
+      "incorrect": "The days become shorter at the moment.",
+      "correct": "The days are becoming shorter at the moment.",
+      "why": "A developing change around the present takes the present continuous in this context."
+    }
+  ],
+  "studyTips": [
+    "Underline time clues such as right now, this week and these days; decide whether they point to an immediate or ongoing unfinished activity.",
+    "Practise converting one continuous statement into a negative and a question while keeping the -ing verb unchanged.",
+    "Describe three real or imagined trends with is/are getting, becoming or improving; mention what is changing."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Someone is at the door. Listen: the dog ___ loudly right now.",
+      "choices": [
+        "bark",
+        "is barking",
+        "barks"
+      ],
+      "answerIndex": 1,
+      "feedback": "The noise is happening now, so use is + barking for the singular subject the dog."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Jordan has started a short design course. This month, Jordan ___ new software.",
+      "choices": [
+        "learn",
+        "learns",
+        "is learning"
+      ],
+      "answerIndex": 2,
+      "feedback": "This month describes an unfinished learning activity around the present, so use is learning."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "As the sun comes out, the icy road ___ less slippery.",
+      "choices": [
+        "is becoming",
+        "becoming",
+        "become"
+      ],
+      "answerIndex": 0,
+      "feedback": "The road is undergoing a change, so the singular subject takes is becoming."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Mina has the day off. She ___ at the office today.",
+      "choices": [
+        "doesn’t working",
+        "isn’t working",
+        "not working"
+      ],
+      "answerIndex": 1,
+      "feedback": "The negative present continuous is is not + working. Isn’t is the normal contraction."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The guests ___ (wait) in the lobby right now. Write the present continuous verb phrase.",
+      "acceptedAnswers": [
+        "are waiting"
+      ],
+      "feedback": "Guests is plural, so are waiting describes the action in progress."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "I ___ (prepare) a portfolio for an interview this week. Write the present continuous verb phrase.",
+      "acceptedAnswers": [
+        "am preparing"
+      ],
+      "feedback": "An unfinished project during the current week takes am preparing with I."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Amir ___ (not / use) the old system this month. Write the negative present continuous verb phrase.",
+      "acceptedAnswers": [
+        "is not using",
+        "isn't using"
+      ],
+      "feedback": "Amir is one person, so is not using or isn’t using expresses the temporary negative situation."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Why ___ (the lights / flash) at the moment? Write the words between Why and the question mark.",
+      "acceptedAnswers": [
+        "are the lights flashing"
+      ],
+      "feedback": "In a wh-question, put are before the plural subject the lights, followed by flashing."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She are studying in the library this afternoon.",
+      "acceptedAnswers": [
+        "She is studying in the library this afternoon."
+      ],
+      "feedback": "She takes is, not are, before an -ing verb."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The builders are repair the roof this week.",
+      "acceptedAnswers": [
+        "The builders are repairing the roof this week."
+      ],
+      "feedback": "After are, the main verb needs the -ing form: repairing."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Are reading you the instructions now?",
+      "acceptedAnswers": [
+        "Are you reading the instructions now?"
+      ],
+      "feedback": "In a question, the subject you comes between are and reading."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The internet connection getting faster in our area.",
+      "acceptedAnswers": [
+        "The internet connection is getting faster in our area."
+      ],
+      "feedback": "A developing change needs the auxiliary is before getting."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one sentence using these facts: Theo; carry; a blue suitcase; right now. Use the affirmative present continuous.",
+      "acceptedAnswers": [
+        "Theo is carrying a blue suitcase right now.",
+        "Theo's carrying a blue suitcase right now."
+      ],
+      "feedback": "Is carrying identifies what Theo is doing at this moment."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask a yes/no question using these facts: your sister; practise the piano; now. Start with Is.",
+      "acceptedAnswers": [
+        "Is your sister practising the piano now?"
+      ],
+      "feedback": "In a present continuous question, is comes before your sister."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Make one negative sentence: we; not watch television; right now. Use the present continuous.",
+      "acceptedAnswers": [
+        "We are not watching television right now.",
+        "We're not watching television right now.",
+        "We aren’t watching television right now."
+      ],
+      "feedback": "Use are not or aren’t with watching to express a current negative activity."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A colleague asks what is happening in the conference room. Respond in one sentence with these facts: the managers; discuss; the budget; at the moment.",
+      "acceptedAnswers": [
+        "The managers are discussing the budget at the moment."
+      ],
+      "feedback": "Are discussing names the activity underway in the room."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Rephrase the idea as one sentence in the present continuous: Priya has started learning Italian and has not finished. Include these days.",
+      "acceptedAnswers": [
+        "Priya is learning Italian these days.",
+        "Priya's learning Italian these days."
+      ],
+      "feedback": "These days allows an unfinished activity around now, even when it is not happening every minute."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Describe one developing change, not a finished result: the river level; rise; steadily. Use the present continuous.",
+      "acceptedAnswers": [
+        "The river level is rising steadily."
+      ],
+      "feedback": "Is rising describes a trend that is still unfolding."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Produce exactly two sentences using these facts. First: I / stay with friends / this week. Second: they / share their spare room / with me. Use the present continuous in both sentences. Say “this week” only in the first sentence.",
+      "acceptedAnswers": [
+        "I am staying with friends this week. They are sharing their spare room with me.",
+        "I'm staying with friends this week. They're sharing their spare room with me.",
+        "I'm staying with friends this week. They are sharing their spare room with me.",
+        "I am staying with friends this week. They're sharing their spare room with me."
+      ],
+      "feedback": "Am staying and are sharing describe two activities in progress during the current week."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Someone asks, “Why is the printer making a noise?” Reply with one sentence: it; print; the invoices; now.",
+      "acceptedAnswers": [
+        "It is printing the invoices now.",
+        "It's printing the invoices now."
+      ],
+      "feedback": "Is printing refers to what the printer is doing at the time of the question."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I’m staying with my cousin until I find an apartment of my own.",
+      "prompt": "What does the speaker indicate about the living arrangement?",
+      "choices": [
+        "It is temporary.",
+        "It happens every weekend.",
+        "It has already ended."
+      ],
+      "answerIndex": 0,
+      "feedback": "I’m staying and until I find signal a temporary situation still in progress."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Look at Elena. She is carrying three heavy boxes into the office.",
+      "prompt": "What is Elena doing now?",
+      "choices": [
+        "Packing boxes for tomorrow.",
+        "Carrying boxes inside.",
+        "Unpacking a box outside."
+      ],
+      "answerIndex": 1,
+      "feedback": "Is carrying describes the action currently taking place."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The children are drawing pictures for the school fair.",
+      "prompt": "Type the two-word verb phrase immediately after “The children”.",
+      "acceptedAnswers": [
+        "are drawing"
+      ],
+      "feedback": "The audible verb phrase are drawing uses are + -ing for a current activity."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Our delivery times are getting shorter as we improve the process.",
+      "prompt": "What change is happening?",
+      "choices": [
+        "Deliveries are taking longer.",
+        "Delivery times are unchanged.",
+        "Deliveries are becoming faster."
+      ],
+      "answerIndex": 2,
+      "feedback": "Are getting shorter identifies an improvement that is developing."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Please wait a moment. I’m checking your booking in the system.",
+      "prompt": "Why does the speaker ask the listener to wait?",
+      "choices": [
+        "The booking has been cancelled.",
+        "The speaker is checking a booking now.",
+        "The system is being closed for the day."
+      ],
+      "answerIndex": 1,
+      "feedback": "I’m checking explains the action taking place during the requested wait."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We are not serving lunch today because the kitchen equipment is broken.",
+      "prompt": "What is unavailable today?",
+      "choices": [
+        "Breakfast.",
+        "A repaired oven.",
+        "Lunch service."
+      ],
+      "answerIndex": 2,
+      "feedback": "Are not serving lunch today describes an activity that is not happening during this temporary period."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "I am not using the printer this afternoon, so you can take it.",
+      "prompt": "Type the three-word verb phrase immediately after “I”.",
+      "acceptedAnswers": [
+        "am not using"
+      ],
+      "feedback": "Am not using is the audible negative present continuous phrase."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The weather is improving steadily after several rainy days.",
+      "prompt": "Type the two-word verb phrase immediately after “The weather”.",
+      "acceptedAnswers": [
+        "is improving"
+      ],
+      "feedback": "Is improving describes an ongoing change in conditions."
+    }
+  ]
+}

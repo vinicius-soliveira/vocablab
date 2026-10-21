@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u069",
+  "title": "Countable and Uncountable Nouns: Basic Patterns",
+  "level": "B1",
+  "topicId": "eg2-u069-countable-uncountable-nouns-basic-patterns",
+  "summary": "Distinguish nouns that can be counted from nouns treated as a mass or substance. Choose singular or plural forms, articles, some and any, and quantity expressions such as many, much, a few and a little.",
+  "learningObjectives": [
+    "Identify singular and plural countable nouns and uncountable nouns in everyday contexts.",
+    "Choose an appropriate article or determiner for a singular countable noun, and avoid a/an directly before an uncountable noun.",
+    "Use some and any naturally with plural countable nouns and uncountable nouns.",
+    "Match many and a few with countable plurals, and much and a little with uncountable nouns."
+  ],
+  "explanation": [
+    {
+      "heading": "Countable nouns have singular and plural forms",
+      "body": "A countable noun identifies an item that can be counted separately. It can be singular or plural: one camera, three cameras. A singular countable noun normally needs an article or another determiner in a complete noun phrase. In statements about a whole category, a bare plural is common.",
+      "example": "The studio owns four cameras, and cameras need regular cleaning."
+    },
+    {
+      "heading": "Uncountable nouns describe substances and abstract quantities",
+      "body": "Many materials, substances and general activities are normally uncountable. These nouns do not take an ordinary plural ending when they refer to a mass: water, flour, music, electricity and luck. They can be used without an article when speaking generally. A singular verb is normally used when the uncountable noun is the subject.",
+      "example": "Fresh water is available near the entrance."
+    },
+    {
+      "heading": "Choose articles and measurable units",
+      "body": "Use a/an with a singular countable noun when it is appropriate: a ticket, an umbrella. Do not attach a/an directly to an uncountable mass noun: not a flour or a music. To identify a countable portion, add a unit such as a bag of flour, a glass of water or a piece of equipment.",
+      "example": "We bought an umbrella and a large bottle of water."
+    },
+    {
+      "heading": "Some and any work with plurals and mass nouns",
+      "body": "Some and any can refer both to an unspecified number of countable items and an unspecified amount of uncountable material. Some is common in affirmative statements; any is common in questions and negatives. These are common tendencies, not absolute rules: offers and requests often use some.",
+      "example": "We have some chairs, but we do not have any spare tables."
+    },
+    {
+      "heading": "Many/few and much/little measure different kinds of quantity",
+      "body": "Use many and (a) few with plural countable nouns; use much and (a) little with uncountable nouns. A few and a little both express a positive, though small, quantity; few and little without a sound more negative. Much is particularly common in negatives and questions; a lot of works with both types in many everyday statements.",
+      "example": "We have a few minutes, but we do not have much time."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Individual objects versus an uncountable substance",
+      "left": {
+        "label": "Countable objects",
+        "example": "There are six cups on the shelf.",
+        "note": "Cups are separate objects and take a plural form after six."
+      },
+      "right": {
+        "label": "Uncountable substance",
+        "example": "There is some water in the jug.",
+        "note": "Water is treated as a mass and takes a singular verb here."
+      }
+    },
+    {
+      "title": "Different quantity words for different noun types",
+      "left": {
+        "label": "Plural countable",
+        "example": "We have a few spare tickets.",
+        "note": "A few modifies the plural countable noun tickets."
+      },
+      "right": {
+        "label": "Uncountable",
+        "example": "We have a little spare time.",
+        "note": "A little modifies the uncountable noun time."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "An electrician checked the faulty sockets.",
+      "note": "Electrician is a singular countable noun and takes an; sockets is plural."
+    },
+    {
+      "sentence": "Most people enjoy music while travelling.",
+      "note": "Music is uncountable in this general sense and appears without a/an."
+    },
+    {
+      "sentence": "We received some messages before the meeting.",
+      "note": "Some modifies the countable plural messages."
+    },
+    {
+      "sentence": "There is not much petrol in the tank.",
+      "note": "Much modifies the uncountable noun petrol."
+    },
+    {
+      "sentence": "Only a few students arrived early for the workshop.",
+      "note": "A few describes a small but positive number of countable students."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Our office has three printer.",
+      "correct": "Our office has three printers.",
+      "why": "A countable noun after a number greater than one needs a plural form."
+    },
+    {
+      "incorrect": "They asked for an equipment to record the event.",
+      "correct": "They asked for equipment to record the event.",
+      "why": "Equipment is uncountable, so it does not take an directly."
+    },
+    {
+      "incorrect": "We heard a beautiful music from upstairs.",
+      "correct": "We heard beautiful music from upstairs.",
+      "why": "Music is uncountable in this sense and does not take a directly."
+    },
+    {
+      "incorrect": "There are a little seats left near the front.",
+      "correct": "There are a few seats left near the front.",
+      "why": "Seats is plural and countable, so use a few rather than a little."
+    }
+  ],
+  "studyTips": [
+    "Classify a noun as separate items or a mass before choosing its article, number and quantifier.",
+    "Make two columns for many/a few and much/a little; add your own nouns to each column and read the combinations aloud.",
+    "When you want to count an uncountable substance, name the unit: a glass of juice, three bags of flour or two pieces of equipment."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "For the training course, I need ___ notebook to record my observations.",
+      "choices": [
+        "a",
+        "many",
+        "much"
+      ],
+      "answerIndex": 0,
+      "feedback": "Notebook is a singular countable noun beginning with a consonant sound, so a is required here."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "There is not ___ water left in the container.",
+      "choices": [
+        "many",
+        "a",
+        "much"
+      ],
+      "answerIndex": 2,
+      "feedback": "Water is uncountable; much is natural in negative quantity statements."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "There are still ___ empty chairs at the back of the room.",
+      "choices": [
+        "a little",
+        "a few",
+        "much"
+      ],
+      "answerIndex": 1,
+      "feedback": "Chairs is a plural countable noun, so a few expresses a small number."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "We do not need ___ flour for this small cake.",
+      "choices": [
+        "many",
+        "much",
+        "a"
+      ],
+      "answerIndex": 1,
+      "feedback": "Flour is a mass noun, so use much after do not need."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The studio has three ___ (camera). Write the correct plural noun.",
+      "acceptedAnswers": [
+        "cameras"
+      ],
+      "feedback": "Three requires the plural form cameras."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The organisers sent us ___ (information). Use some + the uncountable noun.",
+      "acceptedAnswers": [
+        "some information"
+      ],
+      "feedback": "Some information is grammatical; information is uncountable here."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Mira is ___ (architect). Write the correct indefinite article and noun.",
+      "acceptedAnswers": [
+        "an architect"
+      ],
+      "feedback": "Architect begins with a vowel sound and is a singular countable noun, so use an architect."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "There is ___ (work) left before the exhibition opens. Use a little + the noun.",
+      "acceptedAnswers": [
+        "a little work"
+      ],
+      "feedback": "A little modifies the uncountable noun work."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Add only the missing indefinite article a/an: She ordered new laptop for the office.",
+      "acceptedAnswers": [
+        "She ordered a new laptop for the office."
+      ],
+      "feedback": "A singular countable noun such as laptop needs an appropriate determiner; the required indefinite article here is a."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the quantity word only: There is not many milk left in the fridge.",
+      "acceptedAnswers": [
+        "There is not much milk left in the fridge."
+      ],
+      "feedback": "Milk is uncountable, so much replaces many."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct only the noun ending: There are five book on the desk.",
+      "acceptedAnswers": [
+        "There are five books on the desk."
+      ],
+      "feedback": "A number greater than one requires the countable plural books."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Remove the unnecessary article only: A music was playing quietly in the shop.",
+      "acceptedAnswers": [
+        "Music was playing quietly in the shop."
+      ],
+      "feedback": "Music is uncountable here, so it does not take a before the noun."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one sentence using these exact facts: the office; have; four printers. Begin “The office has”.",
+      "acceptedAnswers": [
+        "The office has four printers."
+      ],
+      "feedback": "Printers is plural after four."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say one sentence using these facts: we; need; an umbrella. Begin “We need”.",
+      "acceptedAnswers": [
+        "We need an umbrella."
+      ],
+      "feedback": "Umbrella is a singular countable noun that takes an."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say one negative sentence using the exact words “I”, “do not”, “have”, “much” and “time”. End with “today”.",
+      "acceptedAnswers": [
+        "I do not have much time today."
+      ],
+      "feedback": "Much is used with the uncountable noun time."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Answer in one full sentence. Question: What is in the jar? Given fact: there is some sugar in the jar. Begin “There is”.",
+      "acceptedAnswers": [
+        "There is some sugar in the jar."
+      ],
+      "feedback": "Some sugar is natural because sugar is uncountable here."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Rephrase “The team has a small number of spare chairs”. Begin “The team has a few” and end “spare chairs”.",
+      "acceptedAnswers": [
+        "The team has a few spare chairs."
+      ],
+      "feedback": "A few is used with the plural countable noun chairs."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Say a complete question. Use these facts: any / batteries / in / the drawer. Begin “Are there”.",
+      "acceptedAnswers": [
+        "Are there any batteries in the drawer?"
+      ],
+      "feedback": "Any can modify a plural countable noun in a question."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences from these facts. First: the children / have / three books. Second: they / need / some paper. Use these words in this order and do not add details.",
+      "acceptedAnswers": [
+        "The children have three books. They need some paper."
+      ],
+      "feedback": "Books takes a plural ending after three; paper is uncountable as a writing material."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "A colleague asks whether the studio has any spare space. Give one negative sentence with the exact phrase “not much room”. Begin “There is”.",
+      "acceptedAnswers": [
+        "There is not much room."
+      ],
+      "feedback": "Room means space here and takes much, not many."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "For the celebration, Marta packed four candles and some ribbon, but she forgot the matches.",
+      "prompt": "Which item did Marta forget?",
+      "choices": [
+        "Candles.",
+        "Matches.",
+        "Ribbon."
+      ],
+      "answerIndex": 1,
+      "feedback": "She packed four candles and some ribbon, but forgot the matches."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We already have six eggs, but there is no flour left for the cake.",
+      "prompt": "What ingredient do they still need?",
+      "choices": [
+        "Eggs.",
+        "Butter.",
+        "Flour."
+      ],
+      "answerIndex": 2,
+      "feedback": "No flour left means they need flour; the six eggs are already available."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The school library has some new magazines on the entrance table.",
+      "prompt": "Type the three-word noun phrase immediately after “has” in the recording.",
+      "acceptedAnswers": [
+        "some new magazines"
+      ],
+      "feedback": "Some new magazines is a plural noun phrase; some refers to an unspecified number."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "There are plenty of free desks, but there is very little storage space behind the counter.",
+      "prompt": "What is particularly limited?",
+      "choices": [
+        "Storage space.",
+        "The number of free desks.",
+        "The number of staff members."
+      ],
+      "answerIndex": 0,
+      "feedback": "Very little describes the small amount of uncountable storage space."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I brought an umbrella on the walk, but I did not bring any drinking water.",
+      "prompt": "Which thing did the speaker not bring?",
+      "choices": [
+        "An umbrella.",
+        "Walking shoes.",
+        "Water."
+      ],
+      "answerIndex": 2,
+      "feedback": "Did not bring any drinking water states the missing item."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We have very little fuel left, so we need to stop at a petrol station soon.",
+      "prompt": "Why do the travellers need to stop?",
+      "choices": [
+        "To collect extra passengers.",
+        "To buy more fuel.",
+        "To repair a tyre."
+      ],
+      "answerIndex": 1,
+      "feedback": "Very little fuel left explains why they need a petrol station."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "There are a few questions that the visitors want to ask before the tour.",
+      "prompt": "Type the two-word quantity expression immediately after “are”.",
+      "acceptedAnswers": [
+        "a few"
+      ],
+      "feedback": "A few modifies the plural countable noun questions."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We do not have much time before the doors close, so please hurry.",
+      "prompt": "Type the single quantity word immediately after “have”.",
+      "acceptedAnswers": [
+        "much"
+      ],
+      "feedback": "Much modifies the uncountable noun time."
+    }
+  ]
+}

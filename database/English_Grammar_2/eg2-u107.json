@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u107",
+  "title": "As ... As, Less Than and Equal Comparisons",
+  "level": "B2",
+  "topicId": "eg2-u107-as-as-than-equality",
+  "summary": "Compare equal and unequal qualities, amounts and actions using as ... as and not as ... as. Use less than for differences, express multiples with twice as ... as, form the same as, and choose natural pronouns or full clauses after than and as.",
+  "learningObjectives": [
+    "Use as + adjective/adverb + as to describe equality and not as ... as to describe a lower degree.",
+    "Express equal and unequal quantities with as much/many ... as and contrast them with less than.",
+    "Build twice as ... as and the same ... as correctly without substituting like or than.",
+    "Use natural object-pronoun or full-clause alternatives after as and than without confusing the comparison."
+  ],
+  "explanation": [
+    {
+      "heading": "Equal degrees with as ... as",
+      "body": "Use as + adjective or adverb + as when two things share a degree of quality or an action has the same manner or speed. This works in affirmative sentences and questions. Use as, not so, to express a positive equality. With quantities, put much before an uncountable noun and many before a plural countable noun: as much water as and as many seats as.",
+      "example": "The updated timetable is as clear as the printed version."
+    },
+    {
+      "heading": "A lower degree: not as ... as",
+      "body": "Use not as + adjective/adverb + as when the first item has a lower degree than the second. The same pattern works with as many and as much. The alternative not so ... as is also possible in many negative statements, but not as ... as is generally more common. Use the context to decide which person or thing is less, slower or smaller.",
+      "example": "The smaller room is not as quiet as the upstairs studio."
+    },
+    {
+      "heading": "Less than and equivalent negative comparisons",
+      "body": "Less + adjective/adverb + than often expresses a meaning similar to not as ... as, although focus and naturalness may differ. With uncountable amounts, less money than can correspond to not as much money as; with plural countable nouns, fewer often corresponds to not as many. Do not treat every negative comparison as a statement of absolute absence.",
+      "example": "The workshop attracted fewer visitors than the exhibition next door."
+    },
+    {
+      "heading": "Emphasis, multiples and the same as",
+      "body": "You can strengthen equality with just as ... as and express multiples with twice as ... as or three times as ... as. Use the same as, not the same like, to compare shared features. The same may modify a noun: the same colour as, the same age as, or stand alone when the reference is already clear. As soon as possible is also a common as ... as expression for urgency.",
+      "example": "The second backpack has the same capacity as the first, but weighs half as much."
+    },
+    {
+      "heading": "After than and as: pronouns or complete clauses",
+      "body": "Informal speech commonly uses object pronouns after than and as: taller than me and not as quick as him. You can also use a complete clause with a subject and a verb: taller than I am and not as quick as he is. Do not use a lone subject pronoun where the comparison needs a complete clause in ordinary conversation. Full clauses often help make the meaning clearer.",
+      "example": "My colleague speaks as confidently as I do during presentations."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Equal performance versus a lower degree",
+      "left": {
+        "label": "As ... as: equality",
+        "example": "Mila types as quickly as her manager.",
+        "note": "Their typing speed is presented as equal."
+      },
+      "right": {
+        "label": "Not as ... as: difference",
+        "example": "Mila does not type as quickly as her manager.",
+        "note": "Her typing speed is lower than her manager’s."
+      }
+    },
+    {
+      "title": "Informal pronoun versus complete clause",
+      "left": {
+        "label": "Than + object pronoun",
+        "example": "The coach is younger than me.",
+        "note": "An object pronoun after than is natural in everyday speech."
+      },
+      "right": {
+        "label": "Than + full clause",
+        "example": "The coach is younger than I am.",
+        "note": "The clause includes the subject I and the verb am."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "These two monitors are just as sharp at normal viewing distance.",
+      "note": "Just reinforces a statement that the degree of sharpness is equal."
+    },
+    {
+      "sentence": "I did not spend as much time on the introduction as on the conclusion.",
+      "note": "Much modifies the uncountable noun time in a negative comparison."
+    },
+    {
+      "sentence": "The smaller bus has only half as many seats as the larger one.",
+      "note": "Many is used with the plural countable noun seats, and half shows proportion."
+    },
+    {
+      "sentence": "Their registration fee is the same as ours.",
+      "note": "The same as states that the two fees are equal."
+    },
+    {
+      "sentence": "The guest arrived earlier than we had expected.",
+      "note": "A full clause after than makes the point of comparison explicit."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The second floor is as bright than the first.",
+      "correct": "The second floor is as bright as the first.",
+      "why": "An equality comparison needs as on both sides of the adjective."
+    },
+    {
+      "incorrect": "The new screen is not so clearer as the old one.",
+      "correct": "The new screen is not as clear as the old one.",
+      "why": "Use the base adjective clear between as and as; not as clear as expresses lower degree."
+    },
+    {
+      "incorrect": "My schedule is the same like yours.",
+      "correct": "My schedule is the same as yours.",
+      "why": "The expression is the same as, never the same like."
+    },
+    {
+      "incorrect": "Their rent is twice more high as ours.",
+      "correct": "Their rent is twice as high as ours.",
+      "why": "For a multiple of degree, use twice as + adjective + as."
+    }
+  ],
+  "studyTips": [
+    "Write two true or imagined facts about price, speed or size, then express the same relationship with a comparative and not as ... as.",
+    "Practise matching as much with uncountable nouns and as many with plurals; add an explicit reference after the second as.",
+    "Make paired sentences with than me and than I am, or as her and as she is, so pronoun choices become automatic."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Both suitcases weigh exactly four kilograms. The green one is ___ the blue one.",
+      "choices": [
+        "as heavy as",
+        "heavier as",
+        "as heavier than"
+      ],
+      "answerIndex": 0,
+      "feedback": "As heavy as expresses equal weight; both cases weigh the same."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The express route is twelve kilometres; the riverside route is twenty. The express route is ___ the riverside route.",
+      "choices": [
+        "as long as",
+        "not as long as",
+        "longer than"
+      ],
+      "answerIndex": 1,
+      "feedback": "The twelve-kilometre route is shorter, so it is not as long as the twenty-kilometre one."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The premium plan costs sixty reais; the basic plan costs thirty reais. The premium plan is ___.",
+      "choices": [
+        "twice more costly as the basic plan",
+        "twice as costly than the basic plan",
+        "twice as costly as the basic plan"
+      ],
+      "answerIndex": 2,
+      "feedback": "To state a two-to-one price ratio, use twice as + adjective + as."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Both of the twins started school on the same day and are the same age. Ava is ___ her sister.",
+      "choices": [
+        "the same age as",
+        "the same age like",
+        "as the same age than"
+      ],
+      "answerIndex": 0,
+      "feedback": "The same age as identifies equality; the same is followed by as."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Sofia and Rana both type sixty words per minute. Sofia types ___ Rana does. (fast; use as ... as)",
+      "acceptedAnswers": [
+        "as fast as"
+      ],
+      "feedback": "Use as fast as to describe equal typing speeds."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "I know about thirty people at the club, but my cousin knows only ten. My cousin does not know ___ I do. (many people; use as ... as)",
+      "acceptedAnswers": [
+        "as many people as"
+      ],
+      "feedback": "Many modifies countable plural people; the negative comparison says my cousin knows fewer people."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The wooden table costs 180 reais and the marble one costs 500 reais. The wooden table is ___ the marble one. (expensive; use not as ... as)",
+      "acceptedAnswers": [
+        "not as expensive as"
+      ],
+      "feedback": "The lower price is expressed with not as expensive as."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Our offices are both twenty square metres. Her office is ___ mine. (size; use the same ... as)",
+      "acceptedAnswers": [
+        "the same size as"
+      ],
+      "feedback": "The same size as compares two equal areas."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She does not speak as clearly than her colleague.",
+      "acceptedAnswers": [
+        "She does not speak as clearly as her colleague."
+      ],
+      "feedback": "The second comparison word after as clearly must be as, not than."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Our new flat is twice as big than our old flat.",
+      "acceptedAnswers": [
+        "Our new flat is twice as big as our old flat."
+      ],
+      "feedback": "Twice as big as is the correct proportional equality construction."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Nina has the same backpack like I do.",
+      "acceptedAnswers": [
+        "Nina has the same backpack as I do."
+      ],
+      "feedback": "Use as after the same; like cannot replace it in this pattern."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The new tablet is not as more responsive as the older model.",
+      "acceptedAnswers": [
+        "The new tablet is not as responsive as the older model."
+      ],
+      "feedback": "As ... as takes the base adjective responsive, not the comparative more responsive."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "The two rooms are both twenty square metres. Say one sentence beginning “The first room” and using “as large as the second room”.",
+      "acceptedAnswers": [
+        "The first room is as large as the second room."
+      ],
+      "feedback": "As large as states that the two rooms have the same area."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "The morning and evening trains travel the same route. The evening journey takes sixty minutes; the morning journey takes forty. Make one sentence beginning “The evening train” and using “not as fast as”.",
+      "acceptedAnswers": [
+        "The evening train is not as fast as the morning train."
+      ],
+      "feedback": "The longer journey means the evening service is not as fast."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Rephrase this fact using not as ... as: “The oak desk is heavier than the pine desk.” Begin with “The pine desk”.",
+      "acceptedAnswers": [
+        "The pine desk is not as heavy as the oak desk."
+      ],
+      "feedback": "To reverse the comparison, put the lighter desk first and use not as heavy as."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Two notebooks have an identical cover colour. Begin with “This notebook” and use “the same colour as that one”.",
+      "acceptedAnswers": [
+        "This notebook is the same colour as that one."
+      ],
+      "feedback": "The same colour as expresses a shared feature."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "The large hall seats two hundred; the small hall seats one hundred. Say one sentence beginning “The large hall” and using “twice as many seats as”.",
+      "acceptedAnswers": [
+        "The large hall has twice as many seats as the small hall."
+      ],
+      "feedback": "Twice as many seats as states a two-to-one ratio of countable seats."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Correct the comparison aloud using a full clause: “My neighbour is taller than I.” End with “than I am”.",
+      "acceptedAnswers": [
+        "My neighbour is taller than I am."
+      ],
+      "feedback": "A subject pronoun after than naturally takes its verb in a complete clause."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences. First fact: the blue bag / not as heavy as / the black bag. Second fact: the bags / the same price. Start with “The blue bag” and then “The bags”.",
+      "acceptedAnswers": [
+        "The blue bag is not as heavy as the black bag. The bags are the same price."
+      ],
+      "feedback": "The first sentence contrasts weight, and the second uses the same to describe equal prices."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Ask a polite question using exactly the words “Can you send the results as soon as possible?”",
+      "acceptedAnswers": [
+        "Can you send the results as soon as possible?"
+      ],
+      "feedback": "As soon as possible asks for the earliest practical time."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The latest camera costs more, but it is just as reliable as last year’s model.",
+      "prompt": "How does the new camera compare with the old model in reliability?",
+      "choices": [
+        "They are equally reliable.",
+        "The new one is less reliable.",
+        "The old one is unreliable."
+      ],
+      "answerIndex": 0,
+      "feedback": "Just as reliable as expresses equal reliability, even though the price has changed."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The queue on the left is not as long as the queue outside the right entrance.",
+      "prompt": "What does the speaker say about the two queues?",
+      "choices": [
+        "The left queue is longer.",
+        "The right queue is longer.",
+        "Both queues are equally long."
+      ],
+      "answerIndex": 1,
+      "feedback": "Not as long as signals that the queue on the left is shorter than the one on the right."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The second exam was not as difficult as the first one.",
+      "prompt": "Type the four-word comparison heard immediately after “was”.",
+      "acceptedAnswers": [
+        "not as difficult as"
+      ],
+      "feedback": "Not as difficult as compares the second test with the first at a lower level of difficulty."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The evening membership costs twice as much as the morning membership.",
+      "prompt": "How do the two monthly membership fees compare?",
+      "choices": [
+        "The morning plan costs more.",
+        "They have the same price.",
+        "The evening plan costs twice as much."
+      ],
+      "answerIndex": 2,
+      "feedback": "Twice as much as identifies the evening plan as costing two times the morning price."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "My two sisters have different interests, but one is exactly the same age as the other.",
+      "prompt": "What do we learn about the sisters?",
+      "choices": [
+        "They are the same age.",
+        "One sister is three years older.",
+        "They attend the same school."
+      ],
+      "answerIndex": 0,
+      "feedback": "The same age as indicates identical ages, not merely shared interests."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I am improving, but I still cannot speak as confidently as my teammate during meetings.",
+      "prompt": "What does the speaker say about their speaking ability?",
+      "choices": [
+        "They speak more confidently than before.",
+        "They speak less confidently than their teammate.",
+        "They speak with the same confidence as their teammate."
+      ],
+      "answerIndex": 1,
+      "feedback": "Not as confidently as the teammate identifies a lower degree of confidence."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "We brought as many blankets as we could carry for the overnight trip.",
+      "prompt": "Type the four-word phrase heard between “brought” and “we could carry”.",
+      "acceptedAnswers": [
+        "as many blankets as"
+      ],
+      "feedback": "As many blankets as refers to the maximum number of countable blankets."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Our first apartment was the same size as this one, but it was farther from work.",
+      "prompt": "Type the four-word phrase immediately after “was” and before “this one”.",
+      "acceptedAnswers": [
+        "the same size as"
+      ],
+      "feedback": "The same size as states equality of apartment size."
+    }
+  ]
+}

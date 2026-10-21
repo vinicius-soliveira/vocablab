@@ -1,0 +1,421 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u110",
+  "title": "Adverb Position with Main Verbs and Auxiliaries",
+  "level": "B2",
+  "topicId": "eg2-u110-middle-adverb-position",
+  "summary": "Place common middle-position adverbs naturally before a simple main verb, after a form of be, and after the first auxiliary. Practise negative predictions with probably, the placement of all and both, and short answers that omit an already-mentioned verb.",
+  "learningObjectives": [
+    "Place frequency and attitude adverbs before ordinary one-word main verbs.",
+    "Put middle-position adverbs after be or after the first auxiliary or modal in a verb phrase.",
+    "Use probably with a negative prediction without placing it awkwardly after the negative auxiliary.",
+    "Position all and both within a verb phrase and place an adverb before a substitute auxiliary in an elliptical reply."
+  ],
+  "explanation": [
+    {
+      "heading": "Before a one-word main verb",
+      "body": "Many short adverbs that describe frequency, certainty or an additional action sit before an ordinary main verb. Common examples include always, often, rarely, sometimes, usually and also. Keep the subject before the adverb and the verb after it. This placement differs from the end-position phrases studied in the previous unit.",
+      "example": "Leah often brings her lunch to work."
+    },
+    {
+      "heading": "After forms of be",
+      "body": "With am, is, are, was and were, an adverb such as usually or always commonly follows the form of be. This is true whether be connects to an adjective or is the first part of a longer continuous form. In neutral statements, do not put the adverb between the subject and be.",
+      "example": "The desks are usually empty after six."
+    },
+    {
+      "heading": "After the first auxiliary or modal",
+      "body": "If a verb phrase includes have, can, will, might or another auxiliary, a middle-position adverb usually comes after that first auxiliary and before the following verb. The same pattern works after a negative auxiliary, except that probably is commonly moved before the whole negative group. The focus is word order, not the tense selected.",
+      "example": "Jules has never visited that museum, but he might eventually go."
+    },
+    {
+      "heading": "Special position with have to and negative probably",
+      "body": "Have to expresses necessity but behaves like an ordinary main-verb expression for adverb placement: usually have to, not have usually to. For a negative forecast, prefer probably before the negative auxiliary: I probably will not attend in full form, or I probably won’t attend with a contraction.",
+      "example": "We probably won’t need extra chairs for the meeting."
+    },
+    {
+      "heading": "All, both and shortened verb phrases",
+      "body": "All and both can appear with the verb to indicate how many people or things share an action: the players all cheered; the players are all ready; they have both agreed. If a second clause omits a repeated main verb and ends with an auxiliary or a form of be, the adverb can appear before that final substitute verb: she promised she would help, and she always does.",
+      "example": "The two organisers have both signed the agreement."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Ordinary verb versus be",
+      "left": {
+        "label": "Before main verb",
+        "example": "Nico frequently works from home.",
+        "note": "Frequently is directly before the one-word main verb works."
+      },
+      "right": {
+        "label": "After be",
+        "example": "Nico is frequently busy on Mondays.",
+        "note": "With is, put frequently after be."
+      }
+    },
+    {
+      "title": "Single verb versus auxiliary verb phrase",
+      "left": {
+        "label": "Single main verb",
+        "example": "The team sometimes changes its schedule.",
+        "note": "The adverb is before changes."
+      },
+      "right": {
+        "label": "Auxiliary and main verb",
+        "example": "The team has sometimes changed its schedule.",
+        "note": "The adverb follows the first auxiliary has."
+      }
+    },
+    {
+      "title": "Positive expectation versus negative prediction",
+      "left": {
+        "label": "Positive",
+        "example": "The parcel will probably arrive on Friday.",
+        "note": "Probably goes between will and arrive."
+      },
+      "right": {
+        "label": "Negative",
+        "example": "The parcel probably won’t arrive on Friday.",
+        "note": "Probably naturally comes before the negative auxiliary won’t."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I normally record my expenses at the end of the week.",
+      "note": "Normally comes before the simple main verb record."
+    },
+    {
+      "sentence": "The kitchen is often noisy around lunchtime.",
+      "note": "Often follows the form of be."
+    },
+    {
+      "sentence": "We have never used that entrance before.",
+      "note": "Never sits between have and used."
+    },
+    {
+      "sentence": "The organisers may also extend the registration deadline.",
+      "note": "Also follows the modal may."
+    },
+    {
+      "sentence": "All the volunteers are ready, and they have all signed the form.",
+      "note": "The second all comes after the auxiliary have."
+    },
+    {
+      "sentence": "Dana says she is never worried before a test, but she often is.",
+      "note": "In the second clause, often precedes the final substitute is."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Morgan checks always the timetable.",
+      "correct": "Morgan always checks the timetable.",
+      "why": "With an ordinary one-word verb, always usually appears before it."
+    },
+    {
+      "incorrect": "Our receptionists usually late are.",
+      "correct": "Our receptionists are usually late.",
+      "why": "The adverb usually belongs after are and before the adjective late."
+    },
+    {
+      "incorrect": "She has written already the instructions.",
+      "correct": "She has already written the instructions.",
+      "why": "With a multiword verb phrase, the adverb normally follows the first auxiliary."
+    },
+    {
+      "incorrect": "The bus won’t probably stop here.",
+      "correct": "The bus probably won’t stop here.",
+      "why": "In a normal negative prediction, probably belongs before the negative auxiliary won’t."
+    }
+  ],
+  "studyTips": [
+    "Mark the first verb in each clause, then ask whether it is a form of be, an auxiliary or an ordinary main verb.",
+    "Practise a single fact three ways: she often calls, she is often busy, and she has often called.",
+    "For negative predictions, say probably won’t as one chunk; for shared actions, try both are and have both in full sentences."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which sentence uses \"often\" in the standard middle position?",
+      "choices": [
+        "Nina often reviews her notes on the train.",
+        "Nina reviews often her notes on the train.",
+        "Nina her notes often reviews on the train."
+      ],
+      "answerIndex": 0,
+      "feedback": "With reviews as a one-word main verb, often normally comes before it."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which sentence puts \"always\" in the correct position after a form of be?",
+      "choices": [
+        "The operators ready always are for the inspection.",
+        "The operators are always ready for the inspection.",
+        "The operators are ready always for the inspection."
+      ],
+      "answerIndex": 1,
+      "feedback": "With are, the adverb comes immediately after the form of be."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which sentence uses \"never\" naturally in a multiword verb phrase?",
+      "choices": [
+        "They have visited never the island.",
+        "They have the island never visited.",
+        "They have never visited the island."
+      ],
+      "answerIndex": 2,
+      "feedback": "The adverb follows the first auxiliary have and precedes the participle visited."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the natural word order for a negative prediction.",
+      "choices": [
+        "The delivery won’t today probably arrive.",
+        "The delivery probably won’t arrive today.",
+        "The delivery won’t probably today arrive."
+      ],
+      "answerIndex": 1,
+      "feedback": "Probably appears before the negative auxiliary won’t in the standard prediction."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Put the words in the natural order: usually / walks. Jamie ___ to college.",
+      "acceptedAnswers": [
+        "usually walks"
+      ],
+      "feedback": "Usually precedes the simple main verb walks."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Arrange the words with the adverb after be: are / often / incomplete. The reports ___ when we receive them.",
+      "acceptedAnswers": [
+        "are often incomplete"
+      ],
+      "feedback": "Often follows are and precedes the adjective incomplete."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with the short answer in the natural order: often / is. The guide says the path isn’t steep, but it ___.",
+      "acceptedAnswers": [
+        "often is"
+      ],
+      "feedback": "When is substitutes for is steep at the end of the second clause, often comes before is."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Arrange the words for a negative prediction: probably / won’t / need. We ___ a bigger room.",
+      "acceptedAnswers": [
+        "probably won’t need"
+      ],
+      "feedback": "Probably is positioned before the negative auxiliary won’t."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct this sentence by moving \"always\" to the normal position: Daniel speaks always very softly.",
+      "acceptedAnswers": [
+        "Daniel always speaks very softly."
+      ],
+      "feedback": "Always normally goes before the one-word main verb speaks."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct by moving only \"already\": The children have finished already their homework.",
+      "acceptedAnswers": [
+        "The children have already finished their homework."
+      ],
+      "feedback": "Already usually goes after the first auxiliary, here have."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct by moving only \"probably\": The new chairs won’t probably fit through the door.",
+      "acceptedAnswers": [
+        "The new chairs probably won’t fit through the door."
+      ],
+      "feedback": "A negative forecast generally places probably before won’t."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence by moving only \"both\": My cousins are teachers both.",
+      "acceptedAnswers": [
+        "My cousins are both teachers."
+      ],
+      "feedback": "Both appears after be in this middle position, not after the noun teachers."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make one sentence with the given facts. Jordan studies at the library on most days. Use \"usually\" immediately before \"studies\". Start with \"Jordan\".",
+      "acceptedAnswers": [
+        "Jordan usually studies at the library."
+      ],
+      "feedback": "Place usually before the simple main verb studies."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Describe this routine in one sentence. The meeting is delayed in many weeks. Use \"often\" after \"is\" and start with \"The meeting\".",
+      "acceptedAnswers": [
+        "The meeting is often delayed."
+      ],
+      "feedback": "With the auxiliary is in a passive verb phrase, often comes after is."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Rewrite as one sentence: \"I can solve this problem.\" Add \"probably\" between \"can\" and \"solve\".",
+      "acceptedAnswers": [
+        "I can probably solve this problem."
+      ],
+      "feedback": "Probably normally sits after the modal can."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Make a negative prediction about these exact facts: I expect not to attend next week’s workshop. Start with \"I\" and use \"probably won’t\".",
+      "acceptedAnswers": [
+        "I probably won’t attend next week’s workshop."
+      ],
+      "feedback": "Probably comes before the negative auxiliary won’t."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Say one sentence using \"all\" after the subject. Facts: the players felt tired after the game. Begin with \"The players\".",
+      "acceptedAnswers": [
+        "The players all felt tired after the game."
+      ],
+      "feedback": "All sits between the plural subject and felt."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Say one sentence stating that both of your parents are doctors. Start with \"My parents\" and put \"both\" after \"are\".",
+      "acceptedAnswers": [
+        "My parents are both doctors."
+      ],
+      "feedback": "Both goes after the form of be."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say two sentences. Fact one: Eva arrives early every time; use \"always\". Fact two: her brother does not arrive early at any time; use \"never\". Begin \"Eva\" and then \"Her brother\".",
+      "acceptedAnswers": [
+        "Eva always arrives early. Her brother never arrives early."
+      ],
+      "feedback": "Both frequency adverbs come before one-word main verbs."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "State this necessity as one sentence. Fact: your sister regularly needs to arrange transport herself. Start with \"My sister\" and use \"always has to\" immediately before \"arrange transport\".",
+      "acceptedAnswers": [
+        "My sister always has to arrange transport."
+      ],
+      "feedback": "Always comes before the whole main-verb expression has to, not between has and to."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Our accountant usually sends the invoices on the first working day of the month.",
+      "prompt": "Does the speaker describe a regular habit or a single past action?",
+      "choices": [
+        "A regular habit.",
+        "One action yesterday.",
+        "Something that never happens."
+      ],
+      "answerIndex": 0,
+      "feedback": "Usually signals a regular pattern, not a specific past event."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The two supervisors are both available after lunch, but the trainees are unavailable.",
+      "prompt": "Which group is available after lunch?",
+      "choices": [
+        "Only the trainees.",
+        "Both supervisors.",
+        "Neither group."
+      ],
+      "answerIndex": 1,
+      "feedback": "Are both available applies to the two supervisors."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I have never worked at a hotel, but I would like to try.",
+      "prompt": "Type the exact verb phrase that shows no past experience before \"at a hotel\".",
+      "acceptedAnswers": [
+        "have never worked"
+      ],
+      "feedback": "Never occurs between the auxiliary have and the participle worked."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "We will probably postpone the picnic because the forecast looks bad.",
+      "prompt": "What does the speaker think is likely to happen to the picnic?",
+      "choices": [
+        "It will begin earlier.",
+        "It has already happened.",
+        "It will be postponed."
+      ],
+      "answerIndex": 2,
+      "feedback": "Probably indicates an expectation rather than a certainty, and postpone identifies the likely action."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Marta rarely takes the bus, but she always cycles to college.",
+      "prompt": "How does Marta usually travel to college?",
+      "choices": [
+        "By bus.",
+        "By bicycle.",
+        "By train."
+      ],
+      "answerIndex": 1,
+      "feedback": "Always cycles contrasts with rarely takes the bus."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The guests have all checked in, so we can start the tour.",
+      "prompt": "How many guests have checked in?",
+      "choices": [
+        "All of them.",
+        "None of them.",
+        "Only half of them."
+      ],
+      "answerIndex": 0,
+      "feedback": "All is placed within the verb phrase have all checked in and includes every guest."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The package will probably arrive tomorrow afternoon.",
+      "prompt": "Type the exact future verb phrase you hear before \"tomorrow afternoon\".",
+      "acceptedAnswers": [
+        "will probably arrive"
+      ],
+      "feedback": "Probably follows will and precedes arrive."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "My brothers are both studying for their driving tests this week.",
+      "prompt": "Type the exact words between \"brothers\" and \"studying\" in the recording.",
+      "acceptedAnswers": [
+        "are both"
+      ],
+      "feedback": "Both is placed directly after are before studying."
+    }
+  ]
+}

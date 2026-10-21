@@ -1,0 +1,409 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u103",
+  "title": "Enough and Too: Amounts, Degree and Ability",
+  "level": "B1",
+  "topicId": "eg2-u103-enough-too-degree",
+  "summary": "Explain when an amount or quality meets a need, falls short, or exceeds a useful limit. Place enough correctly with nouns and modifiers, use too with adjectives and quantities, and build natural for- and to-infinitive clauses.",
+  "learningObjectives": [
+    "Place enough after adjectives and adverbs but before nouns, or use enough on its own.",
+    "Distinguish too, too much and too many from enough and not ... enough.",
+    "Explain suitability for a person or purpose using enough/too ... for and ... to + verb.",
+    "Avoid repeating the object after an infinitive when it is already identified earlier in the sentence."
+  ],
+  "explanation": [
+    {
+      "heading": "Put enough in the right position",
+      "body": "Enough means that the amount or degree meets a requirement. After an adjective or adverb, put enough second: warm enough, carefully enough. With a noun, put enough first: enough blankets, enough information. If the noun is already clear, enough can stand alone. This position changes the grammar, not merely the emphasis.",
+      "example": "We have enough microphones, but the speakers are not loud enough."
+    },
+    {
+      "heading": "Too means beyond an acceptable limit",
+      "body": "Too + adjective/adverb suggests that a degree causes a problem or prevents an intended action. Compare a chair that is too low to use at the desk with one that is not high enough. Both can describe a problem, but too points to an excessive degree and not ... enough to an insufficient one. The limit depends on the situation.",
+      "example": "The path is too narrow for the delivery vehicle."
+    },
+    {
+      "heading": "Too much, too many and enough with quantities",
+      "body": "Use too many before plural countable nouns and too much before uncountable nouns. These expressions indicate an excessive quantity. Use enough before either type of noun to express an adequate quantity; not enough identifies a shortage. Do not use much with a plural count noun or many with an uncountable noun.",
+      "example": "There are too many bags and not enough space in the boot."
+    },
+    {
+      "heading": "Describe suitability using for and to",
+      "body": "Enough and too can be followed by for + a person or situation: enough room for three guests, too noisy for a phone call. To name an action, add to + base verb: strong enough to hold the shelf, too tired to continue. You can combine them: too difficult for a beginner to finish alone. The for-phrase identifies who faces the limitation.",
+      "example": "The guide is detailed enough for new staff to follow without help."
+    },
+    {
+      "heading": "Do not repeat an understood infinitive object",
+      "body": "When the thing being described is also the understood object of the infinitive, leave the object pronoun out. Say the parcel is too heavy to carry, not too heavy to carry it. The same applies to an infinitive ending in a preposition: the chair is strong enough to stand on, without adding on it.",
+      "example": "These instructions are clear enough to understand on the first reading."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Enough has a different position with nouns and adjectives",
+      "left": {
+        "label": "Adjective + enough",
+        "example": "The hall is quiet enough for the interview.",
+        "note": "Enough follows the adjective quiet."
+      },
+      "right": {
+        "label": "Enough + noun",
+        "example": "We have enough chairs for the interview.",
+        "note": "Enough precedes the plural noun chairs."
+      }
+    },
+    {
+      "title": "Excess and shortage can both prevent success",
+      "left": {
+        "label": "Too + adjective",
+        "example": "The box is too large to fit in the cupboard.",
+        "note": "Excessive size is the problem."
+      },
+      "right": {
+        "label": "Not + adjective + enough",
+        "example": "The cupboard is not large enough for the box.",
+        "note": "Insufficient available space is the problem."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The battery is charged enough to power the camera all afternoon.",
+      "note": "Enough follows a past-participle adjective and signals adequate charge."
+    },
+    {
+      "sentence": "There were too many applicants for the available places.",
+      "note": "Many is used because applicants is a plural countable noun."
+    },
+    {
+      "sentence": "I have already eaten enough, thank you.",
+      "note": "Enough can appear without an expressed noun when the quantity is understood."
+    },
+    {
+      "sentence": "The instructions were too complicated for us to follow immediately.",
+      "note": "For us identifies who would struggle, and to follow names the action."
+    },
+    {
+      "sentence": "That shelf is not sturdy enough to put the printer on.",
+      "note": "The understood object of put ... on is that shelf, so no it is added after on."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The room is enough warm for the guests.",
+      "correct": "The room is warm enough for the guests.",
+      "why": "Enough follows adjectives; it does not normally precede warm."
+    },
+    {
+      "incorrect": "We have tickets enough for the whole group.",
+      "correct": "We have enough tickets for the whole group.",
+      "why": "Enough normally goes before a noun such as tickets."
+    },
+    {
+      "incorrect": "There are too much bicycles outside.",
+      "correct": "There are too many bicycles outside.",
+      "why": "Bicycles is plural and countable, so use too many."
+    },
+    {
+      "incorrect": "This package is too heavy to lift it.",
+      "correct": "This package is too heavy to lift.",
+      "why": "The package is already the understood object of lift; do not repeat it."
+    }
+  ],
+  "studyTips": [
+    "Underline what enough describes: if it is a noun, put enough before it; if it is an adjective or adverb, put enough after it.",
+    "When a plan fails, ask whether there is too much of something or not enough of something, and make one sentence for each view.",
+    "Read too ... to and enough ... to examples aloud, then check whether a final it or them has been unnecessarily repeated."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The storage room is ___ for all thirty boxes; we need a bigger room.",
+      "choices": [
+        "too small",
+        "small enough",
+        "enough small"
+      ],
+      "answerIndex": 0,
+      "feedback": "Too small explains why the room cannot hold all the boxes."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "We cannot begin the workshop: there are not ___ for all the participants.",
+      "choices": [
+        "chairs enough",
+        "enough chairs",
+        "too chairs"
+      ],
+      "answerIndex": 1,
+      "feedback": "Enough normally comes before the plural noun chairs."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "At thirty kilograms, this suitcase is ___ for me to lift without help.",
+      "choices": [
+        "heavy enough",
+        "enough heavy",
+        "too heavy"
+      ],
+      "answerIndex": 2,
+      "feedback": "Too heavy identifies a degree of weight that prevents the action."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The explanation was clear ___ for the new students to follow.",
+      "choices": [
+        "too",
+        "enough",
+        "much"
+      ],
+      "answerIndex": 1,
+      "feedback": "Enough follows the adjective clear and means the clarity met the students’ needs."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The ceiling is ___ for that tall cabinet. (not / high / enough)",
+      "acceptedAnswers": [
+        "not high enough"
+      ],
+      "feedback": "Not high enough says the ceiling does not meet the required height."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The volunteers have ___ to prepare the hall before six. (enough / time)",
+      "acceptedAnswers": [
+        "enough time"
+      ],
+      "feedback": "Enough precedes the uncountable noun time."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The test is ___ for beginners to finish in ten minutes. (too / difficult)",
+      "acceptedAnswers": [
+        "too difficult"
+      ],
+      "feedback": "Too difficult identifies a degree beyond what beginners can manage in the time."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "There are ___ on this bus, so some passengers must stand. (too / many / passengers)",
+      "acceptedAnswers": [
+        "too many passengers"
+      ],
+      "feedback": "Use too many before the plural countable noun passengers."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We don't have tickets enough for everyone.",
+      "acceptedAnswers": [
+        "We don't have enough tickets for everyone.",
+        "We do not have enough tickets for everyone."
+      ],
+      "feedback": "Enough belongs before tickets, not after it."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: This desk is too wide to move it through the doorway.",
+      "acceptedAnswers": [
+        "This desk is too wide to move through the doorway."
+      ],
+      "feedback": "The desk is already the object understood after move, so it must be omitted."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The children are not enough tall to reach the top shelf.",
+      "acceptedAnswers": [
+        "The children are not tall enough to reach the top shelf."
+      ],
+      "feedback": "Enough follows tall in an adjective phrase."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: There are too much cars on this narrow road.",
+      "acceptedAnswers": [
+        "There are too many cars on this narrow road."
+      ],
+      "feedback": "Use too many with the plural countable noun cars."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make one negative sentence using these exact facts: the pool; not warm enough; to swim in. Start with “The pool”.",
+      "acceptedAnswers": [
+        "The pool is not warm enough to swim in.",
+        "The pool isn't warm enough to swim in."
+      ],
+      "feedback": "Not warm enough describes insufficient warmth; the final in needs no object."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "There are twelve dinner guests, but only eight plates. Tell the host in one sentence beginning “We” and using “enough plates for twelve guests”.",
+      "acceptedAnswers": [
+        "We don't have enough plates for twelve guests.",
+        "We do not have enough plates for twelve guests."
+      ],
+      "feedback": "Enough must come before the plural noun plates; the negative states the shortage."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Ask whether this passage has sufficient width for a wheelchair. Start with “Is this passage” and use “wide enough”.",
+      "acceptedAnswers": [
+        "Is this passage wide enough for a wheelchair?"
+      ],
+      "feedback": "Wide enough follows the adjective and asks whether the width is adequate."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A large piano cannot fit through the doorway. Start with “The piano” and use the words “too wide to fit through the doorway”.",
+      "acceptedAnswers": [
+        "The piano is too wide to fit through the doorway."
+      ],
+      "feedback": "Too wide to fit describes a degree that prevents the action without repeating the piano."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "A colleague worked longer than necessary today. Say one sentence starting with “You have” or “You’ve”, using “worked too long today”.",
+      "acceptedAnswers": [
+        "You have worked too long today.",
+        "You've worked too long today."
+      ],
+      "feedback": "Too long shows that the duration exceeded an appropriate limit."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "There is insufficient space for the desk. Say one sentence beginning “There” and ending “for the desk”.",
+      "acceptedAnswers": [
+        "There isn't enough space for the desk.",
+        "There is not enough space for the desk."
+      ],
+      "feedback": "Enough space places enough before the uncountable noun space."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Give exactly two sentences. Facts: a table seats four, but six people need seats. Start the first sentence with “The table” and use “too small for six people”. Start the second with “It” and use “enough room for four people”.",
+      "acceptedAnswers": [
+        "The table is too small for six people. It has enough room for four people."
+      ],
+      "feedback": "Too small explains the six-person problem, while enough room identifies the capacity for four."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "The soup is so hot that no one can eat it yet. Begin with “The soup” and end with “to eat”.",
+      "acceptedAnswers": [
+        "The soup is too hot to eat."
+      ],
+      "feedback": "Use too hot to eat without a final it; soup is already the understood object of eat."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We reserved a meeting room for eight, but ten people are coming, so it is not big enough.",
+      "prompt": "Why do they need a different meeting room?",
+      "choices": [
+        "The reserved room cannot hold everyone.",
+        "The room was reserved for too long.",
+        "The meeting has been cancelled."
+      ],
+      "answerIndex": 0,
+      "feedback": "A room for eight is not big enough when ten people are attending."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The museum has enough volunteers for the morning shift, but it needs two more for the afternoon.",
+      "prompt": "Which shift still needs extra volunteers?",
+      "choices": [
+        "The morning shift.",
+        "The afternoon shift.",
+        "Both shifts equally."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker says the morning has enough volunteers, but the afternoon needs two more."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The ladder is too short to reach the roof safely.",
+      "prompt": "Type the two-word degree phrase immediately after “is”.",
+      "acceptedAnswers": [
+        "too short"
+      ],
+      "feedback": "Too short explains why the ladder cannot reach the roof."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Maya speaks clearly enough for the visitors at the back to understand her.",
+      "prompt": "What can the visitors at the back do?",
+      "choices": [
+        "Understand Maya without moving.",
+        "Only understand Maya if they move closer.",
+        "See her but cannot hear her at all."
+      ],
+      "answerIndex": 0,
+      "feedback": "Clearly enough for them to understand indicates successful communication at the back."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "We packed too many books into one bag, and now the handle has torn.",
+      "prompt": "What most likely caused the handle to tear?",
+      "choices": [
+        "There was not enough time to pack.",
+        "Too many books were packed into one bag.",
+        "The bag was left outside in the rain."
+      ],
+      "answerIndex": 1,
+      "feedback": "Too many books describes an excessive load in one bag."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We have enough flour for the bread, but not enough eggs for the cake.",
+      "prompt": "Which recipe can they make with the ingredients available?",
+      "choices": [
+        "The cake, but not the bread.",
+        "Neither the cake nor the bread.",
+        "The bread, but not the cake."
+      ],
+      "answerIndex": 2,
+      "feedback": "They have enough flour for bread but not enough eggs for the cake."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "It is too noisy here for me to concentrate on the instructions.",
+      "prompt": "Type the two-word degree phrase immediately after “It is”.",
+      "acceptedAnswers": [
+        "too noisy"
+      ],
+      "feedback": "Too noisy means the sound level prevents concentration."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "There is not enough time to finish both reports before noon.",
+      "prompt": "Type the two-word quantity phrase immediately after “not”.",
+      "acceptedAnswers": [
+        "enough time"
+      ],
+      "feedback": "Not enough time signals a shortage of time for both reports."
+    }
+  ]
+}

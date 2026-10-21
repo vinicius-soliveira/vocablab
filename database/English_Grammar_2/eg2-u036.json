@@ -1,0 +1,413 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u036",
+  "title": "Would: imagined situations, past alternatives and habits",
+  "level": "B2",
+  "topicId": "eg2-u036-would-imagined-past-habits",
+  "summary": "Use would and wouldn’t for imagined present or future possibilities, would have plus a past participle for events that did not happen, would as the past form of will in reports, and would for repeated behaviour in the past. Recognise wouldn’t as past refusal and distinguish hypothetical actions from real commitments.",
+  "learningObjectives": [
+    "Use would or wouldn’t plus the base verb for imagined situations and choices.",
+    "Express an unrealised past possibility with would have plus a past participle.",
+    "Report a past promise or refusal using would or wouldn’t in the appropriate context.",
+    "Describe repeated past actions with would while distinguishing them from past states."
+  ],
+  "explanation": [
+    {
+      "heading": "Would for an imagined action or situation",
+      "body": "Use would + base verb to describe what you imagine happening, especially when reality prevents it. Would not (wouldn’t) gives the negative. The form can occur with an if-clause, but it can also stand alone when the imaginary circumstances are clear. I’d and we’d are common contractions; the meaning depends on context.",
+      "example": "I’d cycle to the office, but the bridge on my route is closed."
+    },
+    {
+      "heading": "Would have for a different past",
+      "body": "Use would have + past participle for an action or result imagined in the past but not realised. The past situation is already settled, so plain would + verb is not enough when you mean a missed past opportunity. The negative is would not have or wouldn’t have + past participle.",
+      "example": "They would have joined the tour, but their train arrived after it started."
+    },
+    {
+      "heading": "Would versus will",
+      "body": "Will can announce a realistic decision or expectation, while would often presents a conditional or imagined alternative. With the same verb, this contrast changes whether an action is expected to happen or is only possible under other circumstances. A speaker can say what they would like to do without saying it is planned.",
+      "example": "I’ll buy the ticket because I have enough money; I’d buy another one if my sister could come."
+    },
+    {
+      "heading": "Would as the past of will and in refusals",
+      "body": "In a report about earlier speech, will often becomes would and won’t often becomes wouldn’t. Wouldn’t also describes a person who refused to cooperate in the past, or equipment that failed to respond despite attempts. The refusal meaning is different from the imaginary negative in a hypothetical situation.",
+      "example": "Theo promised he would send the details, but the scanner wouldn’t connect that evening."
+    },
+    {
+      "heading": "Would for repeated behaviour in the past",
+      "body": "Would + base verb can describe actions that happened repeatedly in an earlier period, often introduced by when, whenever or every summer. In this sense it resembles used to for habitual actions. For a past state rather than repeated action, used to is usually clearer: we used to live there, not we would live there for that state.",
+      "example": "Every spring, our neighbours would plant vegetables together behind the flats."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Real decision versus imagined possibility",
+      "left": {
+        "label": "Will",
+        "example": "I’ll take the early flight because my reservation is confirmed.",
+        "note": "The speaker expects to carry out a feasible plan."
+      },
+      "right": {
+        "label": "Would",
+        "example": "I’d take the early flight, but there are no seats left.",
+        "note": "The speaker imagines an option that present conditions prevent."
+      }
+    },
+    {
+      "title": "Imagined present versus imagined past",
+      "left": {
+        "label": "Would + base verb",
+        "example": "I would visit the museum if it were open today.",
+        "note": "An imagined action concerns the current situation."
+      },
+      "right": {
+        "label": "Would have + past participle",
+        "example": "I would have visited the museum yesterday, but it was closed.",
+        "note": "The alternative belongs to a past that can no longer change."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I would gladly help with the decorations, but I have another commitment.",
+      "note": "Would describes a willingness that circumstances prevent from becoming an action."
+    },
+    {
+      "sentence": "She wouldn’t accept the offer without a written agreement.",
+      "note": "Wouldn’t describes a choice in an imagined situation."
+    },
+    {
+      "sentence": "We would have bought the cheaper tickets if we had seen the sale in time.",
+      "note": "Would have bought describes a past purchase that did not happen."
+    },
+    {
+      "sentence": "Jules said he would update the figures by Friday.",
+      "note": "Would reports an earlier promise about the future from that earlier viewpoint."
+    },
+    {
+      "sentence": "When I worked at the bakery, the first customer would arrive before sunrise.",
+      "note": "Would describes a repeated past occurrence, not an imagined action."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I would to travel more if I had extra leave.",
+      "correct": "I would travel more if I had extra leave.",
+      "why": "The modal would takes a bare verb, not to + infinitive."
+    },
+    {
+      "incorrect": "I would have went to the concert, but I was ill.",
+      "correct": "I would have gone to the concert, but I was ill.",
+      "why": "Would have is followed by a past participle: gone, not went."
+    },
+    {
+      "incorrect": "Yesterday I asked the technician for help, but he won’t listen.",
+      "correct": "Yesterday I asked the technician for help, but he wouldn’t listen.",
+      "why": "The past refusal is expressed with wouldn’t, not the present/future won’t."
+    },
+    {
+      "incorrect": "We would own that house for ten years when we were young.",
+      "correct": "We used to own that house when we were young.",
+      "why": "For a past state of ownership, used to is more suitable than habitual would."
+    }
+  ],
+  "studyTips": [
+    "Put an imagined option beside a real plan: I’ll go because I can; I’d go, but I can’t. Explain the difference in certainty.",
+    "For past alternatives, build the chain would + have + past participle, and check irregular verbs such as gone, seen and taken.",
+    "After a past-time introduction such as Every Saturday when I was young, practise would + action verb; use used to for states such as live or own."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "All the tickets have sold out. I ___ to the concert if one became available.",
+      "choices": [
+        "will attend",
+        "would attend",
+        "would attending"
+      ],
+      "answerIndex": 1,
+      "feedback": "Would attend expresses an imagined possibility dependent on a ticket becoming available."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "We missed the lecture because we failed to book. With a reservation, we ___ it yesterday.",
+      "choices": [
+        "would enjoy",
+        "will have enjoyed",
+        "would have enjoyed"
+      ],
+      "answerIndex": 2,
+      "feedback": "Would have enjoyed refers to an unrealised event in the past; yesterday confirms the time reference."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "When we were children, our grandfather ___ us a riddle every Sunday.",
+      "choices": [
+        "would tell",
+        "would told",
+        "will tell"
+      ],
+      "answerIndex": 0,
+      "feedback": "Would tell describes a repeated activity during childhood."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Last night, I asked the driver to stop at the pharmacy, but he ___ .",
+      "choices": [
+        "doesn’t",
+        "wouldn’t",
+        "won’t"
+      ],
+      "answerIndex": 1,
+      "feedback": "Wouldn’t describes refusal to cooperate in the past."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "I ___ (take) a year off if I had enough savings. Use would with the base verb.",
+      "acceptedAnswers": [
+        "would take"
+      ],
+      "feedback": "Would take describes an imagined action under an unreal or uncertain condition."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "I was not invited to the dinner last Saturday. Otherwise, I ___ (join) the group. Use would have with the past participle.",
+      "acceptedAnswers": [
+        "would have joined"
+      ],
+      "feedback": "Would have joined expresses an opportunity in the past that did not occur."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "After the storm, the generator ___ (not / start) despite several attempts. Use negative would.",
+      "acceptedAnswers": [
+        "wouldn't start",
+        "would not start"
+      ],
+      "feedback": "Wouldn’t start describes equipment that failed to respond in the past."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "During childhood summers, our neighbours ___ (share) their garden with us each weekend. Use would for repeated past behaviour.",
+      "acceptedAnswers": [
+        "would share"
+      ],
+      "feedback": "Would share describes something that regularly happened during a past period."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: If I knew her address, I will send her a letter.",
+      "acceptedAnswers": [
+        "If I knew her address, I would send her a letter.",
+        "If I knew her address, I'd send her a letter."
+      ],
+      "feedback": "The hypothetical if-clause calls for would in the main clause, not will."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I would have go to the show, but my car broke down.",
+      "acceptedAnswers": [
+        "I would have gone to the show, but my car broke down.",
+        "I'd have gone to the show, but my car broke down."
+      ],
+      "feedback": "Would have must be followed by the past participle gone."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: When I was a child, my aunt would baked bread every Friday.",
+      "acceptedAnswers": [
+        "When I was a child, my aunt would bake bread every Friday."
+      ],
+      "feedback": "The modal would takes the base verb bake to describe an earlier repeated action."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Last week, I asked the librarian to extend the deadline, but she won’t agree.",
+      "acceptedAnswers": [
+        "Last week, I asked the librarian to extend the deadline, but she wouldn't agree.",
+        "Last week, I asked the librarian to extend the deadline, but she would not agree."
+      ],
+      "feedback": "The refusal took place last week; wouldn’t or would not expresses past refusal."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Imagine you could live near the mountains, but you cannot afford it. Begin with I and express your imagined wish using would love (or its contraction), followed by to live near the mountains.",
+      "acceptedAnswers": [
+        "I would love to live near the mountains.",
+        "I'd love to live near the mountains."
+      ],
+      "feedback": "Would love expresses a desired but imagined possibility."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "You cannot visit the gallery today because it is closed. Make one sentence beginning I would visit and ending but it is closed. Use full forms.",
+      "acceptedAnswers": [
+        "I would visit the gallery, but it is closed."
+      ],
+      "feedback": "Would visit is an imagined action prevented by the gallery being closed."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "You missed a seminar yesterday because your train was cancelled. Begin with I; use would have attended (or its contraction), and end with but my train was cancelled.",
+      "acceptedAnswers": [
+        "I would have attended the seminar, but my train was cancelled.",
+        "I'd have attended the seminar, but my train was cancelled."
+      ],
+      "feedback": "Would have attended describes the missed seminar in a settled past."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Report this earlier promise in one sentence, using would: Nora said, “I will email the plan.” Begin with Nora said.",
+      "acceptedAnswers": [
+        "Nora said she would email the plan."
+      ],
+      "feedback": "Would is the past reporting form of will in Nora’s promise."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Yesterday the door refused to open. Begin with The door and use would not open yesterday. Allow the negative contraction.",
+      "acceptedAnswers": [
+        "The door wouldn't open yesterday.",
+        "The door would not open yesterday."
+      ],
+      "feedback": "Wouldn’t open describes failed operation in the past."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Every Saturday when Leo was a child, he visited his aunt. Use would to describe this past habit. Begin with As a child, Leo and end with his aunt on Saturdays.",
+      "acceptedAnswers": [
+        "As a child, Leo would visit his aunt on Saturdays."
+      ],
+      "feedback": "Would visit describes repeated action in a clearly established past period."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences, using the supplied words and full forms. First: I / would / call / now / but / my phone / is dead. Second: I / would have / called / yesterday / but / I / was away.",
+      "acceptedAnswers": [
+        "I would call now, but my phone is dead. I would have called yesterday, but I was away."
+      ],
+      "feedback": "Would call imagines an action now, whereas would have called imagines a missed action yesterday."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Rewrite this past refusal with would not or its contraction, beginning Ruth: Ruth refused to send the figures.",
+      "acceptedAnswers": [
+        "Ruth wouldn't send the figures.",
+        "Ruth would not send the figures."
+      ],
+      "feedback": "Would not or wouldn’t can report a person’s refusal to cooperate in the past."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I'd volunteer at the festival, but I'm working that weekend.",
+      "prompt": "Why will the speaker not volunteer?",
+      "choices": [
+        "They dislike the festival.",
+        "They have to work during it.",
+        "They forgot when the festival is."
+      ],
+      "answerIndex": 1,
+      "feedback": "I’d volunteer expresses willingness in an imagined alternative; work prevents it."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We would have arrived earlier if we'd taken the express bus, but we chose the local one.",
+      "prompt": "Which transport did the travellers actually choose?",
+      "choices": [
+        "The express bus.",
+        "A taxi.",
+        "The local bus."
+      ],
+      "answerIndex": 2,
+      "feedback": "The local bus was their actual choice; the express bus is an unreal past alternative."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "My uncle would mend broken toys for neighbours on Saturdays.",
+      "prompt": "Type the two-word verb phrase immediately after My uncle.",
+      "acceptedAnswers": [
+        "would mend"
+      ],
+      "feedback": "Would mend describes a repeated action during an earlier period."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I asked the mechanic to check the battery, but he wouldn't look at it.",
+      "prompt": "What happened when the speaker requested help?",
+      "choices": [
+        "The mechanic refused to examine the battery.",
+        "The mechanic replaced the battery immediately.",
+        "The speaker repaired the battery alone."
+      ],
+      "answerIndex": 0,
+      "feedback": "Wouldn’t look describes past refusal after the speaker asked for assistance."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Maya said she would bring the documents, and she arrived with them this morning.",
+      "prompt": "What had Maya said she would do?",
+      "choices": [
+        "Cancel her visit.",
+        "Bring the documents.",
+        "Email a photograph instead."
+      ],
+      "answerIndex": 1,
+      "feedback": "Would reports Maya’s earlier statement that she would bring documents."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I would try the new hiking trail, but the park is shut until Monday.",
+      "prompt": "What prevents the speaker from trying the trail now?",
+      "choices": [
+        "The trail is too difficult.",
+        "They have never heard of the park.",
+        "The park is currently closed."
+      ],
+      "answerIndex": 2,
+      "feedback": "Would try presents an imagined action, blocked by the park being shut."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "They would have stayed longer, but the last train was due at ten.",
+      "prompt": "Type the verb phrase immediately after They, stopping before longer.",
+      "acceptedAnswers": [
+        "would have stayed"
+      ],
+      "feedback": "Would have stayed marks a past alternative that was not realised."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The old printer wouldn't work, even after we replaced the paper.",
+      "prompt": "Type the negative verb phrase immediately after The old printer.",
+      "acceptedAnswers": [
+        "wouldn't work",
+        "would not work"
+      ],
+      "feedback": "Wouldn’t work reports equipment failing despite an attempt to fix it."
+    }
+  ]
+}

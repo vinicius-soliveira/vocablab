@@ -1,0 +1,409 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u051",
+  "title": "Auxiliary Verbs: Short Replies and Agreement",
+  "level": "B2",
+  "topicId": "eg2-u051-auxiliary-short-replies-agreement",
+  "summary": "Use auxiliary verbs without repeating full verb phrases, respond to agreement or contradiction, react to news with short echo questions, and choose natural expressions such as so do I, neither can I, I think so and I hope not.",
+  "learningObjectives": [
+    "Complete short replies and contrasts by reusing the correct auxiliary for the tense or modal in context.",
+    "Use emphatic affirmative auxiliaries to contradict negative claims, and form short echo questions to react to news.",
+    "Agree with affirmative or negative statements using so or neither with inverted auxiliary–subject order.",
+    "Distinguish the short expressions I think so, I hope so and their natural negative counterparts."
+  ],
+  "explanation": [
+    {
+      "heading": "Auxiliaries can replace repeated information",
+      "body": "An auxiliary can stand for a verb phrase that the listener already understands. Match the tense, aspect or modal of the omitted phrase: has for present perfect, was for past continuous, and can or will for modal clauses. In the present simple and past simple, use do, does or did instead of repeating the main verb. The short answer carries the meaning even when the main verb is left out.",
+      "example": "Nadia has completed the safety course, but her brother has not."
+    },
+    {
+      "heading": "Short answers, corrections and emphasis",
+      "body": "After yes or no, use the subject and an appropriate auxiliary: Yes, they are; No, he did not. When someone says a negative statement that is false, an emphatic positive reply can correct it: Yes, I did. The word yes refers to the actual positive fact, not agreement with the negative accusation. Do not repeat the lexical verb after a complete short reply unless clarity requires it.",
+      "example": "“You never called the supplier.” “Yes, I did. I called yesterday.”"
+    },
+    {
+      "heading": "Echo questions show interest or surprise",
+      "body": "Replying with an auxiliary and a pronoun can acknowledge a new fact or invite the speaker to continue. Use the same auxiliary family as the original statement and invert the subject: She has moved abroad → Has she?; They cannot attend → Can’t they? A rising voice commonly makes this sound interested or surprised, not sceptical. These are conversational reactions, not tags attached to a statement.",
+      "example": "“My neighbours have adopted a dog.” “Have they? What kind?”"
+    },
+    {
+      "heading": "So and neither express shared experience",
+      "body": "For positive agreement, place so before the matching auxiliary and subject: So did I; So am I. For negative agreement, use neither or nor before the auxiliary and subject: Neither can we; Nor have I. Inversion is essential. You can also express negative agreement with subject + negative auxiliary + either, such as I can’t either. The auxiliary must match the original verb structure, not merely the time reference.",
+      "example": "“I was confused by the instructions.” “So was I.”"
+    },
+    {
+      "heading": "So and not after thinking, hoping and expecting",
+      "body": "Short expressions avoid repeating a whole proposition: I think so, I suppose so, I expect so, I hope so and I’m afraid so. Their usual negative choices differ. Use I don’t think so or I don’t expect so; use I hope not or I’m afraid not; and normally use I suppose not or I guess not. I’m afraid so often introduces unwelcome confirmation, while I hope not expresses a desired negative result rather than a prediction.",
+      "example": "“Will the outdoor concert be cancelled?” “I hope not.”"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Avoid repeating a verb phrase",
+      "left": {
+        "label": "Full clause",
+        "example": "Both drivers have checked the tyres.",
+        "note": "The action is expressed in full."
+      },
+      "right": {
+        "label": "Auxiliary substitution",
+        "example": "One driver has checked the tyres, and the other has too.",
+        "note": "Has stands for has checked the tyres."
+      }
+    },
+    {
+      "title": "Positive versus negative agreement",
+      "left": {
+        "label": "Positive agreement",
+        "example": "“I enjoyed the workshop.” “So did I.”",
+        "note": "So + auxiliary + subject agrees with a positive statement."
+      },
+      "right": {
+        "label": "Negative agreement",
+        "example": "“I did not enjoy the delays.” “Neither did I.”",
+        "note": "Neither + auxiliary + subject agrees with a negative statement."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "This printer works, but the older model does not.",
+      "note": "Does not avoids repeating work in a present-simple contrast."
+    },
+    {
+      "sentence": "“Did everyone receive the update?” “Yes, they did.”",
+      "note": "The past-simple auxiliary did replaces receive the update."
+    },
+    {
+      "sentence": "“Aria is starting a new job.” “Is she? That is exciting.”",
+      "note": "An auxiliary-first response shows interest in news."
+    },
+    {
+      "sentence": "The interns have finished their training, and so have the supervisors.",
+      "note": "So have the supervisors uses inversion after an affirmative present-perfect clause."
+    },
+    {
+      "sentence": "“Do you expect the meeting to be cancelled?” “I do not think so.”",
+      "note": "I do not think so reports a negative judgement without repeating the prediction."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "My sister can swim, and so I can.",
+      "correct": "My sister can swim, and so can I.",
+      "why": "After so expressing agreement, place the auxiliary before the subject."
+    },
+    {
+      "incorrect": "I have not seen the email, and neither she has.",
+      "correct": "I have not seen the email, and neither has she.",
+      "why": "Negative agreement with neither requires auxiliary–subject inversion."
+    },
+    {
+      "incorrect": "“Did you finish the report?” “Yes, I finished.”",
+      "correct": "“Did you finish the report?” “Yes, I did.”",
+      "why": "An ordinary short answer uses the past-simple auxiliary did rather than leaving finished without its object."
+    },
+    {
+      "incorrect": "“I hope the flight is not delayed.” “I do not hope so.”",
+      "correct": "“I hope the flight is not delayed.” “I hope not.”",
+      "why": "To express a wish that a bad outcome will not happen, use I hope not, not I do not hope so."
+    }
+  ],
+  "studyTips": [
+    "Underline the auxiliary in the original utterance, then practise an answer without repeating the main verb.",
+    "Transform pairs of short statements into so/neither agreements and check that the auxiliary comes before the subject.",
+    "Sort real-life predictions into belief, hope and reluctant confirmation; practise I don’t think so, I hope not and I’m afraid so."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Marta has read the guidelines, but her colleague ___.",
+      "choices": [
+        "has not",
+        "does not",
+        "is not"
+      ],
+      "answerIndex": 0,
+      "feedback": "The omitted phrase is has read the guidelines, so use the present-perfect auxiliary has not."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "“I cannot access the shared folder.” “___ can I.”",
+      "choices": [
+        "So",
+        "Neither",
+        "Either"
+      ],
+      "answerIndex": 1,
+      "feedback": "Neither + can + I expresses agreement with a negative modal statement."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "“I passed the practical exam.” “___? Congratulations!”",
+      "choices": [
+        "Have you",
+        "Are you",
+        "Did you"
+      ],
+      "answerIndex": 2,
+      "feedback": "A past-simple statement is echoed with did + subject."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "“Will the outdoor event be cancelled?” You want it to go ahead. “___”",
+      "choices": [
+        "I hope not.",
+        "I do not hope so.",
+        "I am afraid so."
+      ],
+      "answerIndex": 0,
+      "feedback": "I hope not expresses a desire for the negative possibility—cancellation—not to occur."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The new scanner works, but the old one ___ . (not / work) Write only the auxiliary-based negative, without repeating work.",
+      "acceptedAnswers": [
+        "does not",
+        "doesn't"
+      ],
+      "feedback": "The present-simple auxiliary does not substitutes for does not work with a singular subject."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "I was nervous before the interview, and ___ . (my friend / also) Complete with so + auxiliary + subject.",
+      "acceptedAnswers": [
+        "so was my friend"
+      ],
+      "feedback": "So was my friend uses inverted was + subject to agree with a past state."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "“You did not submit the form!” “Yes, ___!” (I / submit it) Give only the two-word short reply after Yes.",
+      "acceptedAnswers": [
+        "I did"
+      ],
+      "feedback": "Yes, I did contradicts the negative accusation and confirms submission."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "“Do you think the trains will be on time?” “___.” (negative belief; use think) Write a complete short expression.",
+      "acceptedAnswers": [
+        "I do not think so",
+        "I don't think so"
+      ],
+      "feedback": "I don’t think so is the conventional negative opinion when the prediction seems unlikely."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My cousin likes jazz, and so I do.",
+      "acceptedAnswers": [
+        "My cousin likes jazz, and so do I."
+      ],
+      "feedback": "After so in an agreement clause, the present-simple auxiliary do comes before I."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We could not hear the announcement, and neither they could.",
+      "acceptedAnswers": [
+        "We could not hear the announcement, and neither could they."
+      ],
+      "feedback": "Neither requires inversion: could they, not they could."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “Have the invitations been sent?” “Yes, they do.”",
+      "acceptedAnswers": [
+        "“Have the invitations been sent?” “Yes, they have.”"
+      ],
+      "feedback": "A present-perfect passive question uses have in its short reply, not do."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: “Is the storm going to reach us?” “I do not hope so.”",
+      "acceptedAnswers": [
+        "“Is the storm going to reach us?” “I hope not.”"
+      ],
+      "feedback": "The normal negative expression of a wish is I hope not."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Someone asks, “Have the samples arrived?” The answer is yes. Give only a complete short reply beginning with “Yes”.",
+      "acceptedAnswers": [
+        "Yes, they have."
+      ],
+      "feedback": "Use have in the reply because the question is in the present perfect."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "A colleague says, “You did not check the figures.” In fact, you checked them. Contradict the claim with a short reply beginning “Yes”.",
+      "acceptedAnswers": [
+        "Yes, I did."
+      ],
+      "feedback": "An emphatic Yes, I did rejects the negative accusation."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "A friend says, “My brother has moved to Cardiff.” React with a two-word echo question and the correct pronoun.",
+      "acceptedAnswers": [
+        "Has he?"
+      ],
+      "feedback": "Use the present-perfect auxiliary has before he to express interest."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Combine these facts in one sentence without repeating the verb drive: Maya can drive; her brother cannot drive. Begin “Maya can drive” and connect with but.",
+      "acceptedAnswers": [
+        "Maya can drive, but her brother can't.",
+        "Maya can drive, but her brother cannot."
+      ],
+      "feedback": "The modal cannot stands in for cannot drive."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Someone says, “I was surprised by the result.” You were surprised too. Reply using so and the same past auxiliary.",
+      "acceptedAnswers": [
+        "So was I."
+      ],
+      "feedback": "So was I agrees with a positive past state and inverts was and I."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A colleague says, “I have not read the update.” You also have not read it. Agree using neither, not either.",
+      "acceptedAnswers": [
+        "Neither have I."
+      ],
+      "feedback": "Neither have I matches the present perfect and begins with negative agreement."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A friend asks, “Will the flight be late?” You believe it probably will not. Give one short opinion beginning with I and containing think.",
+      "acceptedAnswers": [
+        "I don't think so.",
+        "I do not think so."
+      ],
+      "feedback": "I don’t think so communicates an unfavourable prediction without repeating the flight details."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Speak exactly two short replies in order. First, someone says “I was late yesterday”; you were late too, so start with So. Then someone says “I cannot attend Friday”; you also cannot, so start with Neither.",
+      "acceptedAnswers": [
+        "So was I. Neither can I."
+      ],
+      "feedback": "So was I agrees with a positive past statement; Neither can I matches a negative modal statement."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "“I have finally finished the online training.” “So have I. It took me most of the afternoon.”",
+      "prompt": "What does the second speaker confirm?",
+      "choices": [
+        "She has finished the training too.",
+        "She will start the training next week.",
+        "She did not attend the training."
+      ],
+      "answerIndex": 0,
+      "feedback": "So have I agrees with the present-perfect statement, so both have finished."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "“The organisers changed the starting time.” “Did they? What time does it begin now?”",
+      "prompt": "How does the listener react to the announcement?",
+      "choices": [
+        "He disagrees with the announcement.",
+        "He shows surprise and asks for details.",
+        "He says he had already heard about it."
+      ],
+      "answerIndex": 1,
+      "feedback": "Did they? is an echo question expressing surprise and interest, followed by a request for details."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "My sister can speak Italian. So can I, although I speak it slowly.",
+      "prompt": "Type the short agreement that immediately follows the first sentence.",
+      "acceptedAnswers": [
+        "So can I"
+      ],
+      "feedback": "So can I shows positive agreement using the same modal."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "“Do you think it will rain during the picnic?” “I hope not. We have no shelter.”",
+      "prompt": "What does the reply mean?",
+      "choices": [
+        "The speaker hopes it rains.",
+        "The speaker knows it will rain.",
+        "The speaker does not want it to rain."
+      ],
+      "answerIndex": 2,
+      "feedback": "I hope not expresses a wish against the possible rain."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "One assistant has checked the travel documents, but the other has not.",
+      "prompt": "Which statement about the two assistants is correct?",
+      "choices": [
+        "Neither has checked the documents.",
+        "One has checked them and the other has not.",
+        "Both checked them yesterday."
+      ],
+      "answerIndex": 1,
+      "feedback": "Has not substitutes for has checked the documents, leaving one completed check and one incomplete."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "“You never sent the reminder.” “Yes, I did. I sent it on Tuesday morning.”",
+      "prompt": "Does the second speaker accept the criticism?",
+      "choices": [
+        "No, she says she did send the reminder.",
+        "Yes, she admits she forgot.",
+        "She says someone else sent it."
+      ],
+      "answerIndex": 0,
+      "feedback": "Yes, I did is a positive correction to a negative accusation."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Will the bus arrive before noon? I do not think so; the road is closed.",
+      "prompt": "Type the words after “I” that convey the speaker’s negative belief.",
+      "acceptedAnswers": [
+        "do not think",
+        "don't think"
+      ],
+      "feedback": "The speaker uses don’t think to express an opinion without restating the whole prediction."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The visitors did not understand the instructions. Neither did we, so we asked for help.",
+      "prompt": "Type the three-word reply heard after the first statement.",
+      "acceptedAnswers": [
+        "Neither did we"
+      ],
+      "feedback": "Neither did we expresses negative agreement with a past-simple statement."
+    }
+  ]
+}

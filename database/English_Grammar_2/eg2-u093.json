@@ -1,0 +1,426 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u093",
+  "title": "Relative Clauses: When You Can Leave Out the Pronoun",
+  "level": "B2",
+  "topicId": "eg2-u093-relative-pronoun-omission",
+  "summary": "Decide whether a defining relative pronoun is the subject or object of its clause. Keep subject pronouns, optionally omit object pronouns, place prepositions naturally, and distinguish what from a relative clause following an existing noun.",
+  "learningObjectives": [
+    "Distinguish subject relative pronouns, which cannot be omitted, from object relative pronouns, which may be omitted in defining clauses.",
+    "Produce natural defining relative clauses with an omitted object pronoun and no repeated object.",
+    "Keep necessary prepositions at the end of informal relative clauses when the relative object is omitted.",
+    "Choose what when it means the thing(s) that, but use optional that after words such as everything and all."
+  ],
+  "explanation": [
+    {
+      "heading": "Keep the relative pronoun when it does the action",
+      "body": "A defining relative clause can identify a person or thing. When who, that or which acts as the subject of the relative verb, you must keep it. Check the words immediately after the relative pronoun: if the next word is a verb and no other subject appears, the relative word is probably doing the subject job. Deleting it would leave a clause without its subject.",
+      "example": "The volunteer who organised the exhibition also designed the posters."
+    },
+    {
+      "heading": "Leave out an object relative pronoun if you wish",
+      "body": "When another subject appears inside the relative clause, the relative word may be its object: the song that we chose. In a defining relative clause, you can say the song we chose, or retain that or which. For a person, who and that are possible as object relatives too. Omitting the object relative often sounds natural in conversation. Do not apply this option to the subject relative or to extra-information clauses set off by commas.",
+      "example": "The instructions we received yesterday were much clearer."
+    },
+    {
+      "heading": "Do not repeat the object inside the clause",
+      "body": "Whether you include the object relative word or leave it out, it already refers to the person or thing before the clause. An extra him, her, it or them after the verb creates a double object. Look for a complete subject and verb followed by a gap where the object would normally go: the parcels they delivered, not the parcels they delivered them.",
+      "example": "The colleague I invited arrived a few minutes early."
+    },
+    {
+      "heading": "Keep a needed preposition with the verb",
+      "body": "Some verbs and phrases need a preposition, such as speak to, look for, sit next to and apply for. In everyday defining relative clauses, the preposition commonly stays near the end when its object is the earlier noun. You can omit the object relative word but you cannot drop the needed preposition. Do not add an extra object pronoun after it.",
+      "example": "The course I signed up for starts on Monday."
+    },
+    {
+      "heading": "Contrast what with an existing noun plus (that)",
+      "body": "What can mean the thing or things that and does not require an earlier noun as its reference. If you already have a noun or a phrase such as everything, anything, all the information or the best, use an appropriate defining relative construction instead; an object that can often be left out. Compare what we discovered with everything (that) we discovered.",
+      "example": "What you explained was helpful, and I understood everything you showed me."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Subject relative versus object relative",
+      "left": {
+        "label": "Subject: keep who",
+        "example": "The guest who complained received an apology.",
+        "note": "Who is the subject of complained and cannot be deleted."
+      },
+      "right": {
+        "label": "Object: may omit who",
+        "example": "The guest we invited arrived at noon.",
+        "note": "We is the subject; the guest is the object of invited."
+      }
+    },
+    {
+      "title": "Correct object gap versus repeated object",
+      "left": {
+        "label": "Object gap",
+        "example": "The chairs we ordered have arrived.",
+        "note": "We ordered the chairs; chairs is already represented by the gap."
+      },
+      "right": {
+        "label": "Optional relative word",
+        "example": "The chairs that we ordered have arrived.",
+        "note": "That may be included, but an additional them would be wrong."
+      }
+    },
+    {
+      "title": "What versus all (that)",
+      "left": {
+        "label": "what + clause",
+        "example": "What the guide explained surprised us.",
+        "note": "What already means the thing that; no earlier noun is needed."
+      },
+      "right": {
+        "label": "all + (that) + clause",
+        "example": "All the details the guide explained were useful.",
+        "note": "The earlier noun details gives the reference; that could be inserted, but what could not."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The musician who composed this tune now teaches at the college.",
+      "note": "Who is the subject of composed, so it cannot be left out."
+    },
+    {
+      "sentence": "The recipe my aunt sent me is easy to follow.",
+      "note": "My aunt is the subject of sent; the recipe is its omitted object relative."
+    },
+    {
+      "sentence": "That is the friend I shared a room with last summer.",
+      "note": "With stays after the verb phrase when friend is the omitted object of the preposition."
+    },
+    {
+      "sentence": "Is this the document you asked me about?",
+      "note": "About belongs to ask someone about something and cannot simply disappear."
+    },
+    {
+      "sentence": "I could not find anything I wanted to buy.",
+      "note": "Anything is the earlier reference, and object that could be inserted after it."
+    },
+    {
+      "sentence": "What the audience heard was only the first part of the announcement.",
+      "note": "What stands for the thing that, with no earlier noun."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The technician repaired our printer works here.",
+      "correct": "The technician who repaired our printer works here.",
+      "why": "Who is the subject of repaired; it cannot be omitted from a defining subject relative clause."
+    },
+    {
+      "incorrect": "The invitation we received it was unexpected.",
+      "correct": "The invitation we received was unexpected.",
+      "why": "The noun invitation is already the object of received in the relative clause; do not repeat it."
+    },
+    {
+      "incorrect": "This is the company I applied last month.",
+      "correct": "This is the company I applied to last month.",
+      "why": "Apply to a company needs the preposition to, even when the object relative pronoun is omitted."
+    },
+    {
+      "incorrect": "Everything what you suggested sounds practical.",
+      "correct": "Everything that you suggested sounds practical.",
+      "why": "After an existing reference such as everything, use optional object that, not what."
+    },
+    {
+      "incorrect": "What that the manager decided is final.",
+      "correct": "What the manager decided is final.",
+      "why": "What already includes the meaning the thing that, so an additional that is not needed here."
+    }
+  ],
+  "studyTips": [
+    "Find the verb inside the relative clause and ask who or what is its subject; do not omit a relative word that fills the subject role.",
+    "For object clauses, test the longer version with that or who and then remove the relative word without changing the verb or adding a pronoun.",
+    "Underline prepositional verbs such as speak to or depend on, and keep the preposition when the relative object moves to the front."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The designer ___ created the logo has moved to another city.",
+      "choices": [
+        "who",
+        "whom",
+        "no word"
+      ],
+      "answerIndex": 0,
+      "feedback": "Who is the subject of created; a subject relative word cannot be left out."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The documentary ___ we watched last night explained the problem clearly.",
+      "choices": [
+        "what",
+        "that",
+        "which it"
+      ],
+      "answerIndex": 1,
+      "feedback": "We is the subject of watched; that is an optional object relative. What and which it are not suitable here."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "That is the editor I sent the final article ___. She was the person who received it.",
+      "choices": [
+        "with",
+        "for",
+        "to"
+      ],
+      "answerIndex": 2,
+      "feedback": "Send an article to someone: the preposition to remains when the object relative pronoun is omitted."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "I cannot remember ___ the presenter said about the delay.",
+      "choices": [
+        "what",
+        "that",
+        "which"
+      ],
+      "answerIndex": 0,
+      "feedback": "What means the thing that and supplies the object of said without an earlier noun."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The person ___ handles all returns. (Complete with “work / at the front desk”; start with who and use the present simple.)",
+      "acceptedAnswers": [
+        "who works at the front desk"
+      ],
+      "feedback": "Who is the subject of works, so it must remain in the clause."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The proposal ___ will be discussed on Monday. (Use “the team / submit / yesterday”; omit the object relative word.)",
+      "acceptedAnswers": [
+        "the team submitted yesterday"
+      ],
+      "feedback": "The team is the subject of submitted; the proposal is its omitted object."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "That is the consultant ___. (Use “we / speak / to / yesterday”; omit the object relative word.)",
+      "acceptedAnswers": [
+        "we spoke to yesterday"
+      ],
+      "feedback": "Speak to keeps to at the end when the consultant is the omitted object of the preposition."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "She believes ___ about the timetable. (Use what followed by “you said”.)",
+      "acceptedAnswers": [
+        "what you said"
+      ],
+      "feedback": "What you said means the thing that you said; no earlier noun is needed."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The cyclist won the race trains at our club. Insert “who” immediately before “won”, and change nothing else.",
+      "acceptedAnswers": [
+        "The cyclist who won the race trains at our club."
+      ],
+      "feedback": "Who supplies the missing subject of won in the relative clause."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The notes I borrowed them from the library were useful. Remove only the redundant object pronoun.",
+      "acceptedAnswers": [
+        "The notes I borrowed from the library were useful."
+      ],
+      "feedback": "The notes is already the object represented by the gap after borrowed; them duplicates it."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The tutor I talked yesterday offered extra help. Add only the missing preposition after “talked”.",
+      "acceptedAnswers": [
+        "The tutor I talked to yesterday offered extra help."
+      ],
+      "feedback": "Talk to requires to before the time phrase, even with an omitted object relative pronoun."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Everything what we packed fitted into one case. Replace “what” with “that” and change nothing else.",
+      "acceptedAnswers": [
+        "Everything that we packed fitted into one case."
+      ],
+      "feedback": "Everything already supplies the reference, so the object relative word is that (which may also be omitted)."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Two facts: A researcher found the missing files. That researcher has retired. Combine them into one sentence starting “The researcher who” and ending “has retired”.",
+      "acceptedAnswers": [
+        "The researcher who found the missing files has retired."
+      ],
+      "feedback": "Who is the subject of found; keep it when identifying the researcher."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "You borrowed a book yesterday. The book was fascinating. Make one sentence starting “The book I” and ending “was fascinating”. Omit the object relative word.",
+      "acceptedAnswers": [
+        "The book I borrowed yesterday was fascinating."
+      ],
+      "feedback": "I is the relative-clause subject, so an object relative word may be left out."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "A colleague says: “The chef that we interviewed has opened a café.” Repeat the meaning without “that”, keeping the other words.",
+      "acceptedAnswers": [
+        "The chef we interviewed has opened a café."
+      ],
+      "feedback": "That is an object relative here, so it can be omitted."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You wrote to a person. That person replied immediately. Combine the facts using the exact beginning “The person I wrote to”.",
+      "acceptedAnswers": [
+        "The person I wrote to replied immediately."
+      ],
+      "feedback": "To belongs to wrote and remains at the end of the relative clause."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Turn “The thing you suggested makes sense” into one sentence beginning “What” and ending “makes sense”.",
+      "acceptedAnswers": [
+        "What you suggested makes sense."
+      ],
+      "feedback": "What replaces the thing that as a complete reference."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You ordered several items, and all of them have arrived. Say exactly one sentence beginning “Everything” and using “you ordered” without that.",
+      "acceptedAnswers": [
+        "Everything you ordered has arrived."
+      ],
+      "feedback": "Everything is followed by a defining clause with an omitted object relative."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct only the repeated object pronoun, and say the complete sentence: “The film we saw it was excellent.”",
+      "acceptedAnswers": [
+        "The film we saw was excellent."
+      ],
+      "feedback": "Remove it; the film already fills the object role inside the relative clause."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Tell a friend two facts in exactly two sentences: a colleague you worked with called; the manager who hired that colleague replied. Start the sentences with “The colleague I worked with” and “The manager who hired her”.",
+      "acceptedAnswers": [
+        "The colleague I worked with called. The manager who hired her replied."
+      ],
+      "feedback": "With stays at the end of the first object relative; who is required as subject of hired in the second."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The reporter who interviewed the mayor left early, but the reporter we met stayed for the whole event.",
+      "prompt": "Which reporter left early?",
+      "choices": [
+        "The reporter we met.",
+        "The reporter who interviewed the mayor.",
+        "Both reporters."
+      ],
+      "answerIndex": 1,
+      "feedback": "Who interviewed the mayor identifies the reporter who left early; we met identifies the other reporter."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I kept the tickets you booked online, but I threw away the old receipts.",
+      "prompt": "What did the listener arrange online?",
+      "choices": [
+        "The tickets.",
+        "The receipts.",
+        "Both the tickets and the receipts."
+      ],
+      "answerIndex": 0,
+      "feedback": "You booked is a defining object relative clause identifying the tickets."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The technician we spoke to yesterday is coming back tomorrow.",
+      "prompt": "Type the three words heard immediately after “technician” and before “yesterday”.",
+      "acceptedAnswers": [
+        "we spoke to"
+      ],
+      "feedback": "The relative clause omits its object pronoun but keeps the preposition to."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The jacket I tried on was too small, so I bought another jacket that fitted properly.",
+      "prompt": "Which jacket did the speaker buy?",
+      "choices": [
+        "The first jacket, despite its size.",
+        "Both jackets.",
+        "Another jacket that fitted properly."
+      ],
+      "answerIndex": 2,
+      "feedback": "I tried on identifies the jacket rejected; that fitted properly identifies the one purchased."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "What Maria promised was a refund, not a replacement for the damaged item.",
+      "prompt": "What did Maria promise?",
+      "choices": [
+        "A refund.",
+        "A replacement item.",
+        "Both a refund and a replacement."
+      ],
+      "answerIndex": 0,
+      "feedback": "What Maria promised introduces the content of her promise: a refund."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Everything we ordered on Monday arrived on time, but none of the extra items we requested on Thursday was available.",
+      "prompt": "Which items arrived on time?",
+      "choices": [
+        "Only the extra Thursday items.",
+        "The original Monday order.",
+        "All items from both days."
+      ],
+      "answerIndex": 1,
+      "feedback": "Everything we ordered on Monday refers to the original order; Thursday extras were unavailable."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The client I sent the draft to approved it immediately.",
+      "prompt": "Type the four words heard immediately after “I” and before “approved” that complete the relative clause.",
+      "acceptedAnswers": [
+        "sent the draft to"
+      ],
+      "feedback": "The preposition to remains after the verb phrase because the client is its object."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The thing they forgot was the password for the shared account.",
+      "prompt": "Type the two words heard between “The thing” and “was”.",
+      "acceptedAnswers": [
+        "they forgot"
+      ],
+      "feedback": "The object relative word is omitted after the thing; they remains the subject of forgot."
+    }
+  ]
+}

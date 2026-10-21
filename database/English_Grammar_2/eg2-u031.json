@@ -1,0 +1,407 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u031",
+  "title": "Have to and must: obligation and necessity",
+  "level": "B1",
+  "topicId": "eg2-u031-have-to-must-obligation-necessity",
+  "summary": "Express necessary actions with have to and must, report existing obligations and personal judgments, and form past, future, question and negative patterns accurately. Distinguish an obligation from the absence of one and recognise informal have got to.",
+  "learningObjectives": [
+    "Describe present and past requirements with have/has to and had to, including negatives and do/does/did questions.",
+    "Use must for a personal judgment of necessity or a strong recommendation, and have to for an existing external requirement.",
+    "Use must in formal written requirements and choose will/might have to for future or possible obligations.",
+    "Distinguish mustn’t (prohibited) from don’t have to (optional), and recognise the spoken pattern have got to."
+  ],
+  "explanation": [
+    {
+      "heading": "Have to means something is necessary",
+      "body": "Use have to + base verb when an action is required by circumstances, a schedule, rules or another person. The form changes with the subject: I have to and she has to. For earlier obligations use had to, not must as a past tense. The sentence describes a requirement, not simply a wish or preference.",
+      "example": "The museum guides have to arrive before visitors enter."
+    },
+    {
+      "heading": "Questions and negatives take do, does or did",
+      "body": "For ordinary present and past forms of have to, use do-support: Do we have to register? Does he have to pay? Did they have to leave? Negatives use don’t/doesn’t/didn’t have to. These negative patterns mean that an action is not required; they do not forbid it. After does or did, use have, not has or had.",
+      "example": "Did the volunteers have to bring their own equipment?"
+    },
+    {
+      "heading": "Must can express the speaker’s judgment",
+      "body": "Must + base verb often expresses what the speaker believes is urgently necessary or recommends strongly: I must respond to that letter. Have to is also possible when stating a personal need. To describe a fixed obligation that already exists, have to is often more natural, especially for regular work routines or obligations imposed from outside. This is a tendency, not an absolute rule.",
+      "example": "I must finish the application tonight; the deadline is close."
+    },
+    {
+      "heading": "Formal rules and obligations in other time frames",
+      "body": "Must is common in notices, instructions and formal requirements: All guests must show identification. For past necessity use had to. For future obligation or uncertainty about a future requirement, use will have to, may have to or might have to + base verb. These forms carry the correct time or uncertainty meaning without treating must as a freely changing tense.",
+      "example": "If the bridge stays closed, commuters will have to use the northern road."
+    },
+    {
+      "heading": "Mustn’t, don’t have to, and have got to",
+      "body": "Mustn’t means an action is prohibited; don’t have to means the action is optional. Confusing them reverses the message. In conversation, have got to is another way to express a current obligation: I’ve got to go. It is especially natural in informal speech; ordinary have to is flexible across tenses and in do-questions.",
+      "example": "You don’t have to wear a jacket, but you mustn’t enter without a badge."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Speaker’s immediate priority versus an existing requirement",
+      "left": {
+        "label": "Must: speaker’s judgment",
+        "example": "I must reply to that invitation today.",
+        "note": "The speaker personally treats the reply as necessary."
+      },
+      "right": {
+        "label": "Have to: existing obligation",
+        "example": "I have to submit attendance records every Friday.",
+        "note": "A regular requirement exists independently of this statement."
+      }
+    },
+    {
+      "title": "Forbidden versus not required",
+      "left": {
+        "label": "Mustn’t: prohibition",
+        "example": "You mustn’t enter the storage room.",
+        "note": "Entry is not allowed."
+      },
+      "right": {
+        "label": "Don’t have to: no obligation",
+        "example": "You don’t have to attend the optional lecture.",
+        "note": "Attending is a choice, not a requirement."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Because she opens the bakery, Alina has to be there by six.",
+      "note": "Has to expresses a requirement attached to Alina’s job."
+    },
+    {
+      "sentence": "Do all applicants have to upload a photograph?",
+      "note": "Do forms a question about a general rule."
+    },
+    {
+      "sentence": "We didn’t have to pay for the shuttle last weekend.",
+      "note": "Didn’t have to says payment was unnecessary in the past; it does not state whether anyone offered money."
+    },
+    {
+      "sentence": "I must remember to collect the medicine before the pharmacy closes.",
+      "note": "Must highlights the speaker’s own strong sense of necessity."
+    },
+    {
+      "sentence": "The inspection may take longer, so we might have to change the opening time.",
+      "note": "Might have to expresses a possible future requirement."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "She have to report to the office by nine.",
+      "correct": "She has to report to the office by nine.",
+      "why": "In the present tense, a third-person singular subject takes has to."
+    },
+    {
+      "incorrect": "Did you had to wait for the technician?",
+      "correct": "Did you have to wait for the technician?",
+      "why": "After did in a question, return the main verb to its base form have."
+    },
+    {
+      "incorrect": "We must to wear helmets in the workshop.",
+      "correct": "We must wear helmets in the workshop.",
+      "why": "A modal such as must is followed directly by a base verb, without to."
+    },
+    {
+      "incorrect": "I must leave early yesterday because the road was closed.",
+      "correct": "I had to leave early yesterday because the road was closed.",
+      "why": "Use had to, not must, to report an obligation in the past."
+    }
+  ],
+  "studyTips": [
+    "Label requirements in short situations as an external obligation, the speaker’s priority, a prohibition or an optional action before selecting a modal.",
+    "Practise converting “She has to leave” into “Does she have to leave?” and “She doesn’t have to leave”; keep have in its base form.",
+    "Create a three-time-frame series: have to today, had to yesterday, and might have to tomorrow; explain what changes."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The stadium has a published rule: every visitor ___ present a ticket at the entrance.",
+      "choices": [
+        "must to",
+        "must",
+        "musts"
+      ],
+      "answerIndex": 1,
+      "feedback": "Written rules naturally use must + the base verb present, without to or -s."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The receptionist works the early shift every Monday. She ___ unlock the doors before eight.",
+      "choices": [
+        "has to",
+        "must have",
+        "have to"
+      ],
+      "answerIndex": 0,
+      "feedback": "Has to describes a regular work requirement with a singular subject."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Last Tuesday the lift stopped working, so we ___ carry the boxes upstairs.",
+      "choices": [
+        "must",
+        "have to",
+        "had to"
+      ],
+      "answerIndex": 2,
+      "feedback": "Had to is the past form for an obligation caused by a situation last Tuesday."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The seminar is optional, so employees ___ attend it unless they want to.",
+      "choices": [
+        "mustn’t",
+        "don’t have to",
+        "must"
+      ],
+      "answerIndex": 1,
+      "feedback": "Don’t have to means attendance is not compulsory; mustn’t would wrongly forbid it."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "For the morning shift, Dina ___ (arrive) at the clinic by seven every weekday. Use have to in the present.",
+      "acceptedAnswers": [
+        "has to arrive"
+      ],
+      "feedback": "The singular subject Dina takes has to followed by the base verb arrive."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "___ (you / submit) a receipt to claim the refund? Write the words before “a receipt” using have to.",
+      "acceptedAnswers": [
+        "Do you have to submit"
+      ],
+      "feedback": "Use Do you have to + base verb in a present simple question about a requirement."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The door was jammed yesterday, so we ___ (use) the back entrance. Use the past form of have to.",
+      "acceptedAnswers": [
+        "had to use"
+      ],
+      "feedback": "Had to use expresses an obligation imposed by yesterday’s circumstances."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "We may be short of volunteers on Saturday, so we ___ (ask) for extra help. Use might have to.",
+      "acceptedAnswers": [
+        "might have to ask"
+      ],
+      "feedback": "Might have to ask presents a possible future necessity, not a firm decision."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Our new assistant have to complete safety training this week.",
+      "acceptedAnswers": [
+        "Our new assistant has to complete safety training this week."
+      ],
+      "feedback": "A singular subject needs has to, not have to."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Does Clara has to work on public holidays?",
+      "acceptedAnswers": [
+        "Does Clara have to work on public holidays?"
+      ],
+      "feedback": "After does, use the base form have in a have-to question."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I had to repaired the gate after the storm.",
+      "acceptedAnswers": [
+        "I had to repair the gate after the storm."
+      ],
+      "feedback": "Had to is followed by the base verb repair, not its past form."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: All visitors must to register at reception.",
+      "acceptedAnswers": [
+        "All visitors must register at reception."
+      ],
+      "feedback": "The modal must takes a base verb directly without to."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "A company rule requires Leo to wear an ID badge. Say one sentence beginning “Leo” and using “has to wear an ID badge”.",
+      "acceptedAnswers": [
+        "Leo has to wear an ID badge."
+      ],
+      "feedback": "Has to wear describes an external requirement."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask about a requirement using these exact facts: visitors; pay for parking. Begin “Do visitors” and use have to.",
+      "acceptedAnswers": [
+        "Do visitors have to pay for parking?"
+      ],
+      "feedback": "Do + plural subject + have to asks whether payment is required."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "The fee is optional. Say one complete negative sentence beginning “We” and ending “the extra service”. Use don’t have to and the verb buy.",
+      "acceptedAnswers": [
+        "We don’t have to buy the extra service.",
+        "We do not have to buy the extra service."
+      ],
+      "feedback": "Don’t have to buy says purchasing the service is not obligatory."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The alarm sounded last night, and the workers were required to leave. Say one sentence beginning “The workers” and containing “had to leave last night”.",
+      "acceptedAnswers": [
+        "The workers had to leave last night."
+      ],
+      "feedback": "Had to leave reports a necessity in the past."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "You have decided that calling your grandmother today is important. Say a sentence beginning “I” with “must call my grandmother today”.",
+      "acceptedAnswers": [
+        "I must call my grandmother today."
+      ],
+      "feedback": "Must expresses the speaker’s own strong sense of necessity."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A signed rule says visitors may not take photos. Express the prohibition. Begin “Visitors” and use “mustn’t take photos”.",
+      "acceptedAnswers": [
+        "Visitors mustn’t take photos.",
+        "Visitors must not take photos."
+      ],
+      "feedback": "Mustn’t marks a prohibition; it does not mean the photos are merely optional."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Bad weather might force the organisers to change the route tomorrow. Begin “The organisers” and use “might have to change the route tomorrow”.",
+      "acceptedAnswers": [
+        "The organisers might have to change the route tomorrow."
+      ],
+      "feedback": "Might have to expresses a future obligation that is not certain yet."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce exactly two sentences. First: “We have to sign in.” Second: “We don’t have to stay late.” Use these facts to contrast required registration with optional overtime.",
+      "acceptedAnswers": [
+        "We have to sign in. We don’t have to stay late.",
+        "We have to sign in. We do not have to stay late."
+      ],
+      "feedback": "Have to expresses the compulsory action; don’t have to says the second action is optional."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "prompt": "Which item is compulsory?",
+      "choices": [
+        "A lab coat.",
+        "Closed shoes.",
+        "Both items."
+      ],
+      "answerIndex": 1,
+      "feedback": "Must wear identifies closed shoes as mandatory, whereas optional excludes a requirement for the coat.",
+      "audioText": "The laboratory rules say everyone must wear closed shoes, but a lab coat is optional."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "prompt": "Why did the speaker work on Sunday?",
+      "choices": [
+        "A deadline changed unexpectedly.",
+        "The speaker was on holiday.",
+        "The speaker was practising a hobby."
+      ],
+      "answerIndex": 0,
+      "feedback": "Had to finish because the supplier arrived early explains the external reason for Sunday work.",
+      "audioText": "I had to finish the inventory on Sunday because the supplier arrived earlier than expected."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "prompt": "Type the two-word obligation expression immediately after “Our interns”.",
+      "acceptedAnswers": [
+        "have to"
+      ],
+      "feedback": "Have to introduces a compulsory action with the plural subject interns.",
+      "audioText": "Our interns have to attend a safety briefing before entering the factory."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "prompt": "What may the listener choose to do?",
+      "choices": [
+        "Enter without showing any ticket.",
+        "Print a paper ticket as the only valid option.",
+        "Use a digital ticket instead of printing one."
+      ],
+      "answerIndex": 2,
+      "feedback": "Don’t have to print removes the printing requirement; the digital ticket is accepted.",
+      "audioText": "You don’t have to print your ticket; you can show the digital version at the entrance."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "prompt": "What does must communicate here?",
+      "choices": [
+        "A past appointment that was cancelled.",
+        "The speaker’s strong sense that a call is needed.",
+        "A general ability to make calls."
+      ],
+      "answerIndex": 1,
+      "feedback": "Must describes the speaker’s urgent judgment about the current leak.",
+      "audioText": "I must call the landlord this afternoon. The water leak is getting worse."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "prompt": "What happens if the courier misses the collection?",
+      "choices": [
+        "The parcel must be sent the next day.",
+        "The parcel was already delivered.",
+        "Sending the parcel will no longer be necessary."
+      ],
+      "answerIndex": 0,
+      "feedback": "Will have to send connects the condition to a future requirement.",
+      "audioText": "If the courier misses the last collection, we will have to send the parcel tomorrow."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "prompt": "Type the two-word obligation expression immediately after “your team”.",
+      "acceptedAnswers": [
+        "have to"
+      ],
+      "feedback": "After did in a past question, the form is have to, not had to.",
+      "audioText": "Did your team have to complete the paperwork before leaving?"
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "prompt": "Type the three-word expression immediately after “We”.",
+      "acceptedAnswers": [
+        "might have to"
+      ],
+      "feedback": "Might have to expresses an uncertain possible requirement caused by the weather.",
+      "audioText": "We might have to postpone the outdoor concert if the wind becomes stronger."
+    }
+  ]
+}

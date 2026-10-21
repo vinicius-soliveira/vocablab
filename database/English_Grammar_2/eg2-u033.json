@@ -1,0 +1,407 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u033",
+  "title": "Should and ought to: advice, expectations and past judgments",
+  "level": "B2",
+  "topicId": "eg2-u033-should-advice-expectations-past",
+  "summary": "Use should and ought to to recommend actions, judge what is appropriate, and express expectations. Contrast present or future advice with should have + past participle for missed actions, past criticism and unfulfilled expectations.",
+  "learningObjectives": [
+    "Give and ask for advice using should, should not, and the weaker force of should compared with must.",
+    "Express expectations about present situations and future results with should or should not.",
+    "Use should have and should not have + past participle to evaluate earlier actions or expectations.",
+    "Use ought to and ought to have as alternatives to should and should have in suitable statements."
+  ],
+  "explanation": [
+    {
+      "heading": "Advice, opinions and the force of should",
+      "body": "Should + base verb presents an action as sensible or appropriate. Use should not (shouldn’t) when an action is unwise. The pattern does not take to and does not change for different subjects: she should rest; they shouldn’t rush. Questions such as Should I...? or Do you think we should...? ask for advice. Should generally gives softer guidance than must or have to, which express a stronger requirement.",
+      "example": "You should save a second copy of your presentation before editing it."
+    },
+    {
+      "heading": "Should when something does not match what is normal",
+      "body": "Use should be or should be doing to describe the situation you reasonably expect at a particular moment. If reality differs, should can point to a surprising delay or a problem. This is an expectation rather than a statement of certainty; context tells the listener whether the situation is normal or unexpectedly different.",
+      "example": "The caretaker should be here already; the building usually opens at seven."
+    },
+    {
+      "heading": "Predictions based on what you expect",
+      "body": "Should + base verb can express a fairly confident forecast based on available information. Expressions such as should arrive, should work and shouldn’t take long signal what you expect, not a guarantee. The prediction can concern tomorrow or another future time. Negating should here predicts that an event or difficulty is unlikely.",
+      "example": "The replacement battery should last several hours after a full charge."
+    },
+    {
+      "heading": "Should have and shouldn’t have for past actions",
+      "body": "Should have + past participle often says that a good action did not happen; shouldn’t have + past participle often says an unwise action did happen. The construction looks back from now, so use the past participle, not a simple past form. It may express regret, criticism or advice about an earlier decision. It does not simply state what someone did.",
+      "example": "I should have checked the address before sending the package to the wrong office."
+    },
+    {
+      "heading": "Past expectations and alternatives with ought to",
+      "body": "Should have + past participle also describes an earlier event that was expected to be complete by now, whether or not it happened: the report should have arrived by noon. Ought to + base verb is an alternative to should for advice and expectation; ought to have + past participle can look back in a similar way. The to belongs to ought to, not to should. Ought not to is possible but less common in everyday conversation.",
+      "example": "The registration email ought to have arrived yesterday, but I cannot find it."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Recommended versus required",
+      "left": {
+        "label": "Should: recommended",
+        "example": "You should label the folders clearly.",
+        "note": "Clear labels are sensible but the sentence does not establish a compulsory rule."
+      },
+      "right": {
+        "label": "Must: required",
+        "example": "You must display your visitor badge.",
+        "note": "Must communicates a strong rule or non-optional requirement."
+      }
+    },
+    {
+      "title": "What is advisable now versus what was missed",
+      "left": {
+        "label": "Should + base verb",
+        "example": "You should revise your notes before tomorrow’s quiz.",
+        "note": "The recommended action is still possible."
+      },
+      "right": {
+        "label": "Should have + participle",
+        "example": "You should have revised your notes before yesterday’s quiz.",
+        "note": "The relevant time has passed; the sentence evaluates an earlier choice."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Should we ask another colleague to check the figures?",
+      "note": "A should-question requests an opinion about a sensible action."
+    },
+    {
+      "sentence": "The new timetable should reduce waiting times at the station.",
+      "note": "Should predicts a likely improvement rather than guaranteeing one."
+    },
+    {
+      "sentence": "You shouldn’t leave confidential papers on an empty desk.",
+      "note": "Shouldn’t advises against an unwise practice."
+    },
+    {
+      "sentence": "I shouldn’t have booked two seats for the same performance.",
+      "note": "The speaker made the booking and now judges it a mistake."
+    },
+    {
+      "sentence": "The letter ought to arrive by Thursday if it is posted today.",
+      "note": "Ought to expresses an expectation and keeps to before the base verb."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "You should to read the safety instructions.",
+      "correct": "You should read the safety instructions.",
+      "why": "Should is followed by the base verb directly, without to."
+    },
+    {
+      "incorrect": "The repair should takes less than an hour.",
+      "correct": "The repair should take less than an hour.",
+      "why": "Modal should is followed by the uninflected base form take."
+    },
+    {
+      "incorrect": "I should have went to the meeting earlier.",
+      "correct": "I should have gone to the meeting earlier.",
+      "why": "Should have requires a past participle: gone, not went."
+    },
+    {
+      "incorrect": "You ought check the terms before paying.",
+      "correct": "You ought to check the terms before paying.",
+      "why": "Ought requires to before the base verb."
+    }
+  ],
+  "studyTips": [
+    "For each should sentence, decide whether it is advice, a prediction or a past judgment; the same modal can communicate different meanings.",
+    "To review an earlier decision, change should + base verb to should have + past participle and check whether the action actually happened.",
+    "Compare your own pairs aloud using should, must and ought to; listen for the difference in strength and the presence or absence of to."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The extra rehearsal is optional, but it would help the choir prepare. Members ___ attend it if they can.",
+      "choices": [
+        "should have",
+        "should",
+        "must not"
+      ],
+      "answerIndex": 1,
+      "feedback": "Should expresses useful advice about a rehearsal that is optional."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The courier left the depot an hour ago, and the journey usually takes forty minutes. The parcel ___ here soon.",
+      "choices": [
+        "should be",
+        "should have been",
+        "should to be"
+      ],
+      "answerIndex": 0,
+      "feedback": "Should be expresses a reasonable expectation about the parcel’s arrival."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "I sent the design to the wrong client yesterday. I ___ the recipient’s address first.",
+      "choices": [
+        "should check",
+        "shouldn’t check",
+        "should have checked"
+      ],
+      "answerIndex": 2,
+      "feedback": "Should have checked describes a sensible earlier action that the speaker failed to take."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The museum guide advised us to read the map first. We ___ read it before entering the galleries.",
+      "choices": [
+        "ought",
+        "ought to",
+        "ought have"
+      ],
+      "answerIndex": 1,
+      "feedback": "Ought to is followed by the base verb read and expresses advice."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The restaurant usually has free tables on weekday afternoons. It ___ (not / be) difficult to get a seat today. Use should.",
+      "acceptedAnswers": [
+        "shouldn’t be",
+        "should not be"
+      ],
+      "feedback": "Should not be predicts that getting a seat is unlikely to be difficult."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The garden path is slippery after rain. Visitors ___ (wear) shoes with good grip. Use ought to.",
+      "acceptedAnswers": [
+        "ought to wear"
+      ],
+      "feedback": "Ought to wear gives sensible advice using the required to + base verb pattern."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "I missed my flight because I left too late. I ___ (leave) home earlier. Use should have.",
+      "acceptedAnswers": [
+        "should have left"
+      ],
+      "feedback": "Should have left evaluates a past action that did not happen."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The players have practised together for months. They ___ (perform) well in tomorrow’s concert. Use should.",
+      "acceptedAnswers": [
+        "should perform"
+      ],
+      "feedback": "Should perform predicts a likely successful performance on the basis of preparation."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The visitors should to keep their tickets until the end of the tour.",
+      "acceptedAnswers": [
+        "The visitors should keep their tickets until the end of the tour."
+      ],
+      "feedback": "Do not use to between should and the base verb keep."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The meeting should starts at nine, according to the updated schedule.",
+      "acceptedAnswers": [
+        "The meeting should start at nine, according to the updated schedule."
+      ],
+      "feedback": "After should use start, not starts."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I should have wrote down the access code before closing the message.",
+      "acceptedAnswers": [
+        "I should have written down the access code before closing the message."
+      ],
+      "feedback": "Should have must be followed by the past participle written, not wrote."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We ought bring water on the walking tour.",
+      "acceptedAnswers": [
+        "We ought to bring water on the walking tour."
+      ],
+      "feedback": "Ought takes to before the base verb bring."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Marta is preparing for a long walk, and carrying water is advisable. Begin “Marta” and give one sentence using should and carry water.",
+      "acceptedAnswers": [
+        "Marta should carry water."
+      ],
+      "feedback": "Should carry gives sensible advice; should is followed by the base verb."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "The group wants your advice. Ask one yes/no question about this action: we; check the address; again. Begin with Should.",
+      "acceptedAnswers": [
+        "Should we check the address again?"
+      ],
+      "feedback": "A should-question asks whether repeating the check is sensible."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "The weather is mild, so heavy winter clothes are unnecessary. Make one negative recommendation beginning “You” and ending “a heavy coat”. Use shouldn’t and wear.",
+      "acceptedAnswers": [
+        "You shouldn’t wear a heavy coat.",
+        "You should not wear a heavy coat."
+      ],
+      "feedback": "Shouldn’t wear advises against an unnecessary choice."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The replacement part has been tested and is expected to function. Make one positive prediction beginning “The replacement part” and ending “properly”. Use should and work.",
+      "acceptedAnswers": [
+        "The replacement part should work properly."
+      ],
+      "feedback": "Should work communicates an expectation rather than a command."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Rephrase “You should keep a copy of the receipt” with ought to. Keep all other words.",
+      "acceptedAnswers": [
+        "You ought to keep a copy of the receipt."
+      ],
+      "feedback": "Ought to keep is a natural alternative to should keep for advice."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Correct the single verb-form error aloud: “I should have took the earlier bus.” Say the full corrected sentence.",
+      "acceptedAnswers": [
+        "I should have taken the earlier bus."
+      ],
+      "feedback": "After should have use the past participle taken."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Produce exactly two sentences from the supplied facts. First, advise “You / back up / the laptop”. Second, predict “The update / work / tomorrow”. Use should in both sentences.",
+      "acceptedAnswers": [
+        "You should back up the laptop. The update should work tomorrow."
+      ],
+      "feedback": "The first should gives advice; the second expresses an expectation."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You sent the invitation to the wrong address yesterday and regret it. Say one sentence beginning “I” and using “should have checked the address”.",
+      "acceptedAnswers": [
+        "I should have checked the address."
+      ],
+      "feedback": "Should have checked evaluates an earlier mistake; checked is the past participle."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "prompt": "What does the speaker expect?",
+      "choices": [
+        "The concert will probably take place.",
+        "The concert has already finished.",
+        "The concert is definitely cancelled."
+      ],
+      "answerIndex": 0,
+      "feedback": "Should go ahead reports an expectation that the planned event can take place.",
+      "audioText": "The weather service expects clearer skies in the afternoon, so the outdoor concert should go ahead."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "prompt": "How does the speaker present asking for help?",
+      "choices": [
+        "As a strict requirement.",
+        "As a sensible suggestion.",
+        "As something already done."
+      ],
+      "answerIndex": 1,
+      "feedback": "Should signals advice; the speaker explicitly leaves the choice to the listener.",
+      "audioText": "I think you should ask the librarian for help, but it is entirely your decision."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "prompt": "Type the modal and base-verb phrase immediately after “The parcel”.",
+      "acceptedAnswers": [
+        "should arrive"
+      ],
+      "feedback": "Should arrive communicates a reasonable future expectation.",
+      "audioText": "The parcel should arrive before lunchtime if the main road is clear."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "prompt": "What does the speaker regret?",
+      "choices": [
+        "Closing the balcony door early.",
+        "Cancelling a trip because of the storm.",
+        "Leaving the balcony door open."
+      ],
+      "answerIndex": 2,
+      "feedback": "Should not have done that criticises the earlier action of leaving the door open.",
+      "audioText": "We left the balcony door open during the storm. We should not have done that."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "prompt": "What expectation has not been met?",
+      "choices": [
+        "The company has not sent any message.",
+        "The confirmation has not appeared in the inbox.",
+        "The speaker has already confirmed payment by phone."
+      ],
+      "answerIndex": 1,
+      "feedback": "Should have received expresses an expected completed event; the empty inbox shows it has not happened as expected.",
+      "audioText": "The company sent our payment confirmation on Monday. We should have received it by now, but the inbox is empty."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "prompt": "What is recommended?",
+      "choices": [
+        "Compare two possible costs before choosing.",
+        "Order a replacement without checking prices.",
+        "Pay for the repair immediately."
+      ],
+      "answerIndex": 0,
+      "feedback": "Ought to compare is advice to evaluate the repair and replacement costs before a decision.",
+      "audioText": "You ought to compare the repair estimate with the cost of a replacement before deciding."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "prompt": "Type the three-word verb phrase immediately after “I”.",
+      "acceptedAnswers": [
+        "should have brought"
+      ],
+      "feedback": "Should have brought identifies a useful earlier action the speaker did not take.",
+      "audioText": "I should have brought a spare charger to the conference yesterday."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "prompt": "Type the negative modal and base verb immediately after “You”.",
+      "acceptedAnswers": [
+        "shouldn’t ignore",
+        "should not ignore"
+      ],
+      "feedback": "Shouldn’t ignore advises against disregarding the warning lights.",
+      "audioText": "You shouldn’t ignore the warning lights on the dashboard."
+    }
+  ]
+}

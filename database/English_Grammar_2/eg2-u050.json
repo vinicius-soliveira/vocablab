@@ -1,0 +1,427 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u050",
+  "title": "Indirect and Reported Questions",
+  "level": "B2",
+  "topicId": "eg2-u050-indirect-and-reported-questions",
+  "summary": "Use statement word order inside indirect questions, keep or remove do-support appropriately, introduce yes/no information with if or whether, and report what someone asked using the correct perspective and tense.",
+  "learningObjectives": [
+    "Turn direct wh-questions into polite embedded questions with statement word order.",
+    "Remove direct-question do-support when building embedded present-simple or past-simple clauses.",
+    "Use if or whether to embed yes/no questions in both enquiries and reports.",
+    "Report wh-questions and yes/no questions with appropriate pronouns and past reporting tenses."
+  ],
+  "explanation": [
+    {
+      "heading": "Use normal statement order inside an indirect question",
+      "body": "A question can be part of another sentence after phrases such as Could you tell me, Do you know, I wonder or I can’t remember. Within that embedded clause, put the subject before the verb, even though the whole sentence may still ask for information. Only the outer question, if there is one, uses direct-question inversion.",
+      "example": "Could you tell me where the conference room is?"
+    },
+    {
+      "heading": "Remove unnecessary do, does and did inside the clause",
+      "body": "Do, does and did help form direct simple-tense questions but do not normally remain when those questions become embedded clauses. Use the correctly inflected main verb with ordinary subject–verb order: where she works or why they left, not where does she work or why did they leave.",
+      "example": "I wonder why the courier arrived so late."
+    },
+    {
+      "heading": "Keep existing auxiliaries after the embedded subject",
+      "body": "For embedded questions involving can, will, have or be, keep the auxiliary but put it after the embedded subject: how long she has been waiting or where they can park. The outer expression may itself be a direct question and still needs its own word order.",
+      "example": "Do you know when the new timetable will be published?"
+    },
+    {
+      "heading": "Use if or whether for yes/no information",
+      "body": "A direct yes/no question has no what or where to introduce its embedded form. Instead, use if or whether after know, ask, wonder or similar expressions. Both can convey uncertainty about whether a statement is true; neither requires an extra do-support verb inside the clause.",
+      "example": "I don’t know whether the final presentation has started."
+    },
+    {
+      "heading": "Report wh-questions using asked and a clause",
+      "body": "When retelling a past question, start with a reporting verb such as asked or wanted to know, then use question word + subject + verb. Backshift is common after a past reporting verb, and first- or second-person pronouns must reflect who asked and answered. A reported question normally ends with a full stop, not a question mark.",
+      "example": "The receptionist asked me where I was staying."
+    },
+    {
+      "heading": "Report yes/no questions and keep the original meaning",
+      "body": "A question like Are you free tomorrow? becomes asked if/whether I was free the next day when the reporter is the original listener. The reporting verb identifies the earlier speech; the if/whether clause is not a fresh direct question. Choose time references and tenses that remain true to the original situation.",
+      "example": "My tutor asked whether I had received the instructions."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A direct question and an embedded question",
+      "left": {
+        "label": "Direct",
+        "example": "Where is the registration desk?",
+        "note": "The auxiliary is precedes the subject in a direct enquiry."
+      },
+      "right": {
+        "label": "Embedded",
+        "example": "Could you tell me where the registration desk is?",
+        "note": "The embedded clause has the subject before is."
+      }
+    },
+    {
+      "title": "Do-support and a simple embedded clause",
+      "left": {
+        "label": "Direct with do-support",
+        "example": "Why did the client cancel the appointment?",
+        "note": "Did helps form the direct past-simple question."
+      },
+      "right": {
+        "label": "Embedded without did",
+        "example": "I wonder why the client cancelled the appointment.",
+        "note": "The embedded clause uses cancelled directly, without did."
+      }
+    },
+    {
+      "title": "Reporting a wh-question and a yes/no question",
+      "left": {
+        "label": "Wh-question",
+        "example": "The interviewer asked how I travelled to work.",
+        "note": "How introduces a reported question about manner."
+      },
+      "right": {
+        "label": "Yes/no question",
+        "example": "The interviewer asked whether I travelled to work by train.",
+        "note": "Whether introduces a reported question with two possible truth values."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Could you explain why the connection keeps dropping?",
+      "note": "Only the main question uses inversion; why the connection keeps dropping has statement order."
+    },
+    {
+      "sentence": "I don’t remember what time the guests arrived.",
+      "note": "The embedded past-simple clause does not need did."
+    },
+    {
+      "sentence": "Do you know how much the repairs will cost?",
+      "note": "Will follows the subject the repairs in the embedded clause."
+    },
+    {
+      "sentence": "We are not sure if the restaurant is open on Mondays.",
+      "note": "If introduces a yes/no uncertainty in normal clause order."
+    },
+    {
+      "sentence": "The guide asked us why we had chosen the longer route.",
+      "note": "The reported wh-question uses subject–verb order and a past perfect reporting form."
+    },
+    {
+      "sentence": "She wanted to know whether I could work on Saturdays.",
+      "note": "Whether introduces a reported yes/no question; could reports earlier can."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Can you tell me where is the nearest exit?",
+      "correct": "Can you tell me where the nearest exit is?",
+      "why": "Inside the embedded question, the subject must precede is."
+    },
+    {
+      "incorrect": "I wonder what did the manager decide.",
+      "correct": "I wonder what the manager decided.",
+      "why": "An embedded past-simple clause uses decided without question-form did."
+    },
+    {
+      "incorrect": "He asked me did I have enough time.",
+      "correct": "He asked me if I had enough time.",
+      "why": "A reported yes/no question needs if or whether and ordinary clause order."
+    },
+    {
+      "incorrect": "Do you know when will the results be announced?",
+      "correct": "Do you know when the results will be announced?",
+      "why": "The modal will comes after the embedded subject the results."
+    }
+  ],
+  "studyTips": [
+    "Underline the outer phrase, then mark the embedded subject; place every embedded auxiliary after that subject.",
+    "Turn short direct questions into clauses after I wonder and Do you know; delete do-support when it no longer belongs.",
+    "For reported questions, check three separate changes: if/whether or wh-word, statement word order, and who I/you refers to now."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A visitor needs directions. Could you tell me where ___?",
+      "choices": [
+        "is the information desk",
+        "the information desk is",
+        "does the information desk be"
+      ],
+      "answerIndex": 1,
+      "feedback": "An embedded where-clause has statement order: the information desk is."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The organiser left early yesterday. I can’t remember why ___.",
+      "choices": [
+        "she left early",
+        "did she leave early",
+        "she did leave early?"
+      ],
+      "answerIndex": 0,
+      "feedback": "Inside I can’t remember why, use subject + past verb: she left early."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "We are unsure about the starting time. Do you know ___ the seminar starts at nine?",
+      "choices": [
+        "who",
+        "where",
+        "whether"
+      ],
+      "answerIndex": 2,
+      "feedback": "Whether introduces a yes/no question about the truth of the starting time."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "During yesterday’s interview, the recruiter asked me ___ the proposal.",
+      "choices": [
+        "had I sent",
+        "if I had sent",
+        "if had I sent"
+      ],
+      "answerIndex": 1,
+      "feedback": "A reported yes/no question uses if + subject + auxiliary + participle."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Ask politely where the laboratory is now. Complete: Could you tell me ___? (where / the laboratory / be). Write the embedded clause.",
+      "acceptedAnswers": [
+        "where the laboratory is"
+      ],
+      "feedback": "The embedded where-clause uses the laboratory is, not is the laboratory."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete the statement about yesterday: I wonder ___ yesterday. (why / the manager / leave). Write the words between wonder and yesterday.",
+      "acceptedAnswers": [
+        "why the manager left"
+      ],
+      "feedback": "A simple past embedded question drops did and uses the manager left."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Use the present perfect to ask whether confirmation has already arrived: We do not know ___ yet. (whether / the supplier / confirm / the order). Write the embedded clause.",
+      "acceptedAnswers": [
+        "whether the supplier has confirmed the order"
+      ],
+      "feedback": "Whether introduces a yes/no uncertainty and has confirmed stays after the subject."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Yesterday an interviewer asked if you were available for weekend work. Report it using whether and past tense: The interviewer asked me ___. (whether / I / be / available for weekend work).",
+      "acceptedAnswers": [
+        "whether I was available for weekend work"
+      ],
+      "feedback": "The reported question uses whether + I + was, not direct-question inversion."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Can you tell me where does the shuttle stop?",
+      "acceptedAnswers": [
+        "Can you tell me where the shuttle stops?"
+      ],
+      "feedback": "Inside the embedded question, delete does and use the third-person present form stops."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I don’t know what time did the event finish.",
+      "acceptedAnswers": [
+        "I don’t know what time the event finished."
+      ],
+      "feedback": "The embedded past-simple clause takes subject + finished without did."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: They asked if was I ready for the inspection.",
+      "acceptedAnswers": [
+        "They asked if I was ready for the inspection."
+      ],
+      "feedback": "A reported yes/no question uses if + subject + verb, not inversion."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Could you explain why does the app freeze at launch?",
+      "acceptedAnswers": [
+        "Could you explain why the app freezes at launch?"
+      ],
+      "feedback": "The embedded why-clause needs statement word order and the singular verb freezes."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Turn “Where is the nearest pharmacy?” into a polite question beginning “Could you tell me”. Keep the word nearest.",
+      "acceptedAnswers": [
+        "Could you tell me where the nearest pharmacy is?"
+      ],
+      "feedback": "In the embedded clause, the pharmacy comes before is."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Turn “When does the conference begin?” into an indirect question beginning “Do you know”.",
+      "acceptedAnswers": [
+        "Do you know when the conference begins?"
+      ],
+      "feedback": "Delete direct-question does and change begin to begins in the embedded clause."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Ask whether the printer is available now. Begin “Do you know whether” and use one complete question.",
+      "acceptedAnswers": [
+        "Do you know whether the printer is available now?"
+      ],
+      "feedback": "Whether introduces yes/no information; the printer is uses statement word order."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Turn “Why did the visitor leave early?” into a statement beginning “I wonder”.",
+      "acceptedAnswers": [
+        "I wonder why the visitor left early."
+      ],
+      "feedback": "The embedded clause uses left without did."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Yesterday an interviewer asked you, “Do you work remotely?” Report the question. Begin “The interviewer asked me whether” and use the past simple.",
+      "acceptedAnswers": [
+        "The interviewer asked me whether I worked remotely."
+      ],
+      "feedback": "The reported yes/no question changes you to I and work to worked."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A guide asked you, “Where are you staying?” Report the question starting “The guide asked me”. Use the past continuous.",
+      "acceptedAnswers": [
+        "The guide asked me where I was staying."
+      ],
+      "feedback": "Where I was staying is embedded word order; was staying reports are staying."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences in this order. First turn “What time does the shipment arrive?” into a question beginning “Could you tell me”. Second report a friend’s question “Where are you waiting?” beginning “My friend asked me” and using the past continuous.",
+      "acceptedAnswers": [
+        "Could you tell me what time the shipment arrives? My friend asked me where I was waiting."
+      ],
+      "feedback": "Arrives needs no does inside the first question; was waiting uses statement order in the reported question."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Turn “How much will the repair cost?” into one statement starting “I would like to know”. Keep will.",
+      "acceptedAnswers": [
+        "I would like to know how much the repair will cost.",
+        "I’d like to know how much the repair will cost."
+      ],
+      "feedback": "The repair precedes will within the embedded question."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Could you tell me when the next ferry leaves? I must be at the harbour before noon.",
+      "prompt": "What information does the speaker need?",
+      "choices": [
+        "The ferry’s departure time.",
+        "The cost of a hotel.",
+        "The name of the ferry captain."
+      ],
+      "answerIndex": 0,
+      "feedback": "When the next ferry leaves asks for a departure time."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I asked whether the library was open on Sunday, and the librarian said it would be closed.",
+      "prompt": "What did the speaker learn?",
+      "choices": [
+        "The library would open early.",
+        "The library would be closed on Sunday.",
+        "The librarian did not know the hours."
+      ],
+      "answerIndex": 1,
+      "feedback": "The answer would be closed directly settles the earlier whether-question."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I don’t know where the spare key is. Perhaps it is with the caretaker.",
+      "prompt": "Type the five-word embedded question immediately after “know”.",
+      "acceptedAnswers": [
+        "where the spare key is"
+      ],
+      "feedback": "Where the spare key is has the subject before the auxiliary is."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The interviewer asked where I had worked before, and I told her about my job at the regional museum.",
+      "prompt": "Where had the speaker worked?",
+      "choices": [
+        "At a technology company.",
+        "At a hospital.",
+        "At a regional museum."
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker names a past job at the regional museum."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I wondered why the train stopped just outside the station. The announcement mentioned a signal problem.",
+      "prompt": "Why did the train stop?",
+      "choices": [
+        "There was a signal problem.",
+        "The passengers requested a break.",
+        "It had arrived at its destination."
+      ],
+      "answerIndex": 0,
+      "feedback": "The announcement identifies a signal problem as the cause."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Could you tell me if the workshop has moved to Thursday? No, it is still on Wednesday.",
+      "prompt": "When will the workshop take place?",
+      "choices": [
+        "Thursday.",
+        "Wednesday.",
+        "Friday."
+      ],
+      "answerIndex": 1,
+      "feedback": "The negative answer rules out Thursday and confirms Wednesday."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "She asked me whether I had received the invitation before the deadline.",
+      "prompt": "Type the four-word embedded phrase immediately after “me”.",
+      "acceptedAnswers": [
+        "whether I had received"
+      ],
+      "feedback": "Whether I had received uses normal embedded word order with the past perfect."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Do you know what time the workshop starts on Friday? I need to arrange transport.",
+      "prompt": "Type the five-word embedded phrase immediately after “know”.",
+      "acceptedAnswers": [
+        "what time the workshop starts"
+      ],
+      "feedback": "What time the workshop starts is an embedded simple-present question without does."
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u035",
+  "title": "Had better and it’s time: urgency and overdue action",
+  "level": "B2",
+  "topicId": "eg2-u035-had-better-its-time",
+  "summary": "Give situation-specific warnings with had better, including negative advice, and use it’s time or it’s about time to signal that an action should begin now or is already overdue. Distinguish urgent consequences from general recommendations with should.",
+  "learningObjectives": [
+    "Use had better plus the base verb to advise action when delay or inaction risks a problem.",
+    "Form had better not correctly and distinguish it from general advice with should.",
+    "Use it’s time for somebody to do something to announce that the appropriate moment has arrived.",
+    "Use it’s time or it’s about time plus a past-form clause to express overdue action, without referring to past time."
+  ],
+  "explanation": [
+    {
+      "heading": "Had better for a specific risk",
+      "body": "Use had better + base verb when someone faces a particular situation and failing to act could cause trouble. It often sounds more urgent than should. The fixed word had does not refer to a past event here: the action is relevant now or later. Short forms like I’d better and we’d better are common in speech.",
+      "example": "We’d better save a copy before the laptop battery runs out."
+    },
+    {
+      "heading": "Negative advice: had better not",
+      "body": "Put not after better and before the base verb: had better not do. Do not add to before the verb, and do not replace had with have. The warning can be about a serious risk or a smaller practical problem.",
+      "example": "You’d better not leave those tickets in the rain; the ink could run."
+    },
+    {
+      "heading": "Had better is not general advice",
+      "body": "Use should to describe what is beneficial in general, including habits and long-term improvements. Had better is normally tied to a particular moment with a foreseeable consequence. Both may be possible for one urgent situation, but had better highlights the risk of ignoring the warning.",
+      "example": "You should take regular breaks from your screen, but you’d better finish this upload before switching the computer off."
+    },
+    {
+      "heading": "It’s time for someone to take action",
+      "body": "The form it’s time + to-infinitive announces an appropriate point to act; add for + person when useful. It describes a current need without suggesting that anyone has necessarily delayed. Do not substitute a bare infinitive after for someone.",
+      "example": "It’s time for the volunteers to collect their name badges."
+    },
+    {
+      "heading": "It’s time plus a past form for overdue action",
+      "body": "It’s time + subject + past simple means the action should already be under way or completed. Although the verb looks past, its meaning concerns the present. It’s about time adds impatience or criticism. Choose the correct past form for the subject, including were for a plural subject with be.",
+      "example": "It’s about time the housing office answered our repeated requests."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Urgent warning versus general advice",
+      "left": {
+        "label": "Had better",
+        "example": "We’d better charge the radio now; the storm is approaching.",
+        "note": "This warning refers to an immediate possible problem."
+      },
+      "right": {
+        "label": "Should",
+        "example": "People should check emergency supplies regularly.",
+        "note": "This recommends a sensible habit without one immediate threat."
+      }
+    },
+    {
+      "title": "Time to act versus action already overdue",
+      "left": {
+        "label": "It’s time + to-infinitive",
+        "example": "It’s time for the guests to take their seats.",
+        "note": "The proper moment has arrived; delay is not necessarily criticised."
+      },
+      "right": {
+        "label": "It’s time + past clause",
+        "example": "It’s time the landlord repaired the front gate.",
+        "note": "A past verb expresses frustration with a repair that is overdue."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The road is closing in five minutes, so you’d better take the next exit.",
+      "note": "Had better signals a risk of being delayed if the driver does not act."
+    },
+    {
+      "sentence": "You had better not send the draft before checking the figures.",
+      "note": "The negative is had better not followed by the base verb send."
+    },
+    {
+      "sentence": "You should keep a record of your monthly expenses.",
+      "note": "Should expresses general advice without a specific immediate danger."
+    },
+    {
+      "sentence": "It’s time for the orchestra to begin the rehearsal.",
+      "note": "The for-phrase identifies who should act and takes a to-infinitive."
+    },
+    {
+      "sentence": "It’s about time the organisers announced the revised schedule.",
+      "note": "Announced is a past form with present, overdue meaning after it’s about time."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "You had better to back up the file.",
+      "correct": "You had better back up the file.",
+      "why": "Had better takes a bare infinitive, not to + infinitive."
+    },
+    {
+      "incorrect": "We had better not to park in the loading area.",
+      "correct": "We had better not park in the loading area.",
+      "why": "In negative advice, place not before the bare verb park."
+    },
+    {
+      "incorrect": "It’s time the children are in bed.",
+      "correct": "It’s time the children were in bed.",
+      "why": "The it’s time + subject clause uses a past form for a present situation that should already exist."
+    },
+    {
+      "incorrect": "It’s about time the manager answers our complaint.",
+      "correct": "It’s about time the manager answered our complaint.",
+      "why": "Use the past form answered after it’s about time to express criticism of a delay."
+    }
+  ],
+  "studyTips": [
+    "When giving advice, ask whether there is a concrete consequence: use had better for that risk and should for a general recommendation.",
+    "Practise positive and negative pairs aloud: had better check / had better not touch. Notice that to never follows better.",
+    "Write a real or imagined delayed task in two ways: It’s time for us to begin and It’s about time we began. Explain the change in tone."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The last boat leaves in eight minutes. We ___ now or we will miss it.",
+      "choices": [
+        "had better leave",
+        "had better to leave",
+        "should leaving"
+      ],
+      "answerIndex": 0,
+      "feedback": "Had better + base verb gives an immediate warning about missing the boat."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Those steps are covered in ice. You ___ on them; you could fall.",
+      "choices": [
+        "had better not to run",
+        "had better not run",
+        "had not better run"
+      ],
+      "answerIndex": 1,
+      "feedback": "Put not after better and use the base verb run when warning against a dangerous action."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the natural advice for developing a long-term reading habit, without any urgent consequence.",
+      "choices": [
+        "You had better to read every week.",
+        "You should reading every week.",
+        "You should read every week."
+      ],
+      "answerIndex": 2,
+      "feedback": "Should is suitable for a general beneficial habit; the other two options have incorrect verb forms."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Residents have reported the broken lift for a month. It’s about time the owner ___ it.",
+      "choices": [
+        "fixes",
+        "fixed",
+        "has fix"
+      ],
+      "answerIndex": 1,
+      "feedback": "It’s about time takes a past-form clause even though the needed repair concerns the present."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "___ now or I will miss my train. Begin with I and use an affirmative had better phrase with go.",
+      "acceptedAnswers": [
+        "I had better go",
+        "I'd better go"
+      ],
+      "feedback": "Both I had better go and I’d better go warn that failing to leave now risks missing the train."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "___ on the icy steps; you could fall. Begin with You and use had better not with run.",
+      "acceptedAnswers": [
+        "You had better not run",
+        "You'd better not run"
+      ],
+      "feedback": "The negative pattern is subject + had better not + base verb."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "It’s time ___ home; the library closed ten minutes ago. Complete with we and the past simple of go.",
+      "acceptedAnswers": [
+        "we went"
+      ],
+      "feedback": "It’s time we went home describes an action that is already overdue, not an action in the past."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "It’s about time ___ the broken corridor light. Complete with the landlord and the past simple of fix.",
+      "acceptedAnswers": [
+        "the landlord fixed"
+      ],
+      "feedback": "The past form fixed follows it’s about time to express dissatisfaction with the delay."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: You had better to save the spreadsheet before restarting the computer.",
+      "acceptedAnswers": [
+        "You had better save the spreadsheet before restarting the computer."
+      ],
+      "feedback": "Remove to after had better; the verb save stays in its base form."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: It’s time we would leave for the airport.",
+      "acceptedAnswers": [
+        "It's time we left for the airport."
+      ],
+      "feedback": "Change leave to its past form left after it’s time; the meaning is that departure is due now."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We'd better not to mention the surprise to Maya.",
+      "acceptedAnswers": [
+        "We'd better not mention the surprise to Maya.",
+        "We had better not mention the surprise to Maya."
+      ],
+      "feedback": "After had better not, use the base verb mention without to."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: It's about time the council do something about the flooding.",
+      "acceptedAnswers": [
+        "It's about time the council did something about the flooding."
+      ],
+      "feedback": "It's about time is followed by the past form did, even though action is needed now."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "The ferry leaves in ten minutes. Give an urgent warning beginning with We. Use had better + leave and end with now.",
+      "acceptedAnswers": [
+        "We had better leave now.",
+        "We'd better leave now."
+      ],
+      "feedback": "Had better leave expresses the consequence-sensitive need to depart now."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Correct the extra word and say the complete sentence: You had better to check the address.",
+      "acceptedAnswers": [
+        "You had better check the address."
+      ],
+      "feedback": "Had better takes check directly, without to."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Rosa is about to touch a tray that is still hot. Warn her in one sentence beginning Rosa, using had better not touch the hot tray.",
+      "acceptedAnswers": [
+        "Rosa had better not touch the hot tray."
+      ],
+      "feedback": "The negative warning uses had better not plus touch."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A colleague asks why you are leaving immediately: the last bus is coming. Begin with I and say had better catch the bus.",
+      "acceptedAnswers": [
+        "I had better catch the bus.",
+        "I'd better catch the bus."
+      ],
+      "feedback": "The imminent departure of the bus creates a specific reason to use had better."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Recommend a general daily habit, not an urgent action. Start with You and use should drink more water every day.",
+      "acceptedAnswers": [
+        "You should drink more water every day."
+      ],
+      "feedback": "Should is natural for broad advice about a regular habit."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Rephrase It is time for Ben to call his manager using the subject-plus-past structure. Begin with It is time and keep the rest of the meaning.",
+      "acceptedAnswers": [
+        "It is time Ben called his manager.",
+        "It's time Ben called his manager."
+      ],
+      "feedback": "The past form called after it’s time indicates that Ben should act now."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences using these supplied words. First: it is time / we / leave. Second: we / had better / hurry. Use the past form of leave in the first sentence and begin each with It and We.",
+      "acceptedAnswers": [
+        "It's time we left. We'd better hurry.",
+        "It is time we left. We had better hurry.",
+        "It's time we left. We had better hurry.",
+        "It is time we left. We'd better hurry."
+      ],
+      "feedback": "The first sentence marks departure as due, and the second warns against further delay."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "The company has delayed a refund for a month. Make one complaint beginning It’s about time and continue with the company / issue / the refund using the past simple.",
+      "acceptedAnswers": [
+        "It's about time the company issued the refund.",
+        "It is about time the company issued the refund."
+      ],
+      "feedback": "Issued is the past form used after it’s about time for an overdue action."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The workshop starts in eight minutes, and we still have to cross the site. We'd better leave right away.",
+      "prompt": "Why does the speaker want the group to leave immediately?",
+      "choices": [
+        "They might miss the beginning of the workshop.",
+        "The workshop has already been cancelled.",
+        "They want to explore a different building."
+      ],
+      "answerIndex": 0,
+      "feedback": "Had better signals a concrete risk: the workshop starts soon and they still need to travel."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "You should read for twenty minutes every day, even when no test is coming up.",
+      "prompt": "What kind of advice is the speaker giving?",
+      "choices": [
+        "Only read before exams.",
+        "Build a regular reading habit.",
+        "Avoid reading on weekends."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker recommends reading every day as a general habit, not as an urgent warning."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The kettle is almost boiling. You had better turn down the heat.",
+      "prompt": "Type the two-word expression immediately before turn down.",
+      "acceptedAnswers": [
+        "had better"
+      ],
+      "feedback": "Had better is the expression that introduces the warning."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "It's time the building manager replaced those broken locks. We've been waiting six weeks.",
+      "prompt": "What attitude does the speaker express?",
+      "choices": [
+        "Satisfaction that the locks are already fixed.",
+        "Uncertainty about whether the locks need replacing.",
+        "Frustration that an important repair is overdue."
+      ],
+      "answerIndex": 2,
+      "feedback": "It’s time + past form, together with the six-week wait, signals dissatisfaction about the delay."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "There's a strong current today. You'd better not swim beyond the red flags.",
+      "prompt": "What action does the speaker warn against?",
+      "choices": [
+        "Swimming past the marked boundary.",
+        "Staying within the safe swimming zone.",
+        "Checking the weather before leaving home."
+      ],
+      "answerIndex": 0,
+      "feedback": "Had better not expresses a warning against going beyond the red flags."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "It's time for the new volunteers to collect their safety badges. Registration has just opened.",
+      "prompt": "What should the volunteers do now?",
+      "choices": [
+        "Wait for registration to close.",
+        "Collect their safety badges.",
+        "Finish their first shift."
+      ],
+      "answerIndex": 1,
+      "feedback": "It’s time for someone to do something marks the appropriate moment to collect the badges."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Mina had better not drive while she is so tired.",
+      "prompt": "Type the warning expression immediately after Mina, stopping before drive.",
+      "acceptedAnswers": [
+        "had better not"
+      ],
+      "feedback": "Had better not expresses advice to avoid an action in a particular risky situation."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "It's about time the club repaired the changing rooms.",
+      "prompt": "Type the two words between It’s and the club.",
+      "acceptedAnswers": [
+        "about time"
+      ],
+      "feedback": "About time intensifies the complaint about an overdue repair."
+    }
+  ]
+}

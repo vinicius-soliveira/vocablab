@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u058",
+  "title": "Like, Would Like and Past Wishes",
+  "level": "B2",
+  "topicId": "eg2-u058-like-would-like-and-past-wishes",
+  "summary": "Use -ing and to-infinitives after like, love and hate, recognising the difference between enjoyment and a preferred way of acting. Express present wishes with would like or would love, use -ing after mind and enjoy, and describe missed opportunities with would like to have + past participle.",
+  "learningObjectives": [
+    "Use -ing or to-infinitive after like, love and hate for general repeated activities.",
+    "Use -ing for enjoyment of an existing situation and distinguish enjoyment from a preferred practice.",
+    "Express a specific wish with would like, would love or would prefer + to-infinitive and requests with would mind + -ing.",
+    "Express feelings about missed past opportunities using would like/love/prefer to have + past participle."
+  ],
+  "explanation": [
+    {
+      "heading": "Like, love and hate with general activities",
+      "body": "For habits and repeated activities, like, love and hate can often take either -ing or a to-infinitive. In many everyday statements, both forms are acceptable. Use the context to decide whether the speaker is talking about an ongoing experience or a preferred practice.",
+      "example": "My cousins love visiting small towns at weekends."
+    },
+    {
+      "heading": "Existing experiences usually take -ing",
+      "body": "When the activity or situation is already a reality and the speaker is judging that experience, -ing is generally the natural choice. If someone already lives in a city and enjoys it, say they like living there. This does not describe a future plan.",
+      "example": "Nadia enjoys studying in the quiet room she uses every day."
+    },
+    {
+      "heading": "Enjoyment versus a chosen habit",
+      "body": "Like doing commonly means taking pleasure in the activity. Like to do may instead mean choosing or preferring a practice, even when the action itself is not enjoyable. These meanings overlap in some contexts, so do not assume that to always implies dislike.",
+      "example": "I do not enjoy tidying, but I like to clear my desk before leaving work."
+    },
+    {
+      "heading": "Would like and would mind",
+      "body": "Would like, would love, would hate and would prefer normally take a to-infinitive to express wishes or preferences, often about a particular occasion. Contrast this with general likes. To make a polite request, would you mind is followed by -ing. Enjoy and mind also take -ing, not a to-infinitive.",
+      "example": "I would love to join the tour tomorrow. Would you mind sending me the details?"
+    },
+    {
+      "heading": "Looking back at a missed opportunity",
+      "body": "Would like/love/hate/prefer + to have + past participle looks back at something that did not happen or was not possible. It expresses a present reaction to an imagined past experience. The perfect infinitive points backwards in time; would like to do normally concerns a present or future possibility.",
+      "example": "I would like to have heard the discussion, but I arrived after it ended."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Enjoyment versus a chosen practice",
+      "left": {
+        "label": "Enjoy the activity",
+        "example": "I like cooking with my friends.",
+        "note": "The speaker takes pleasure in cooking."
+      },
+      "right": {
+        "label": "Prefer a routine",
+        "example": "I like to prepare ingredients before guests arrive.",
+        "note": "The speaker prefers this practical habit; enjoyment is not the focus."
+      }
+    },
+    {
+      "title": "General liking versus a specific wish",
+      "left": {
+        "label": "General preference",
+        "example": "Ella likes visiting art galleries.",
+        "note": "This is a broad preference or repeated enjoyment."
+      },
+      "right": {
+        "label": "Specific intention",
+        "example": "Ella would like to visit the new gallery on Sunday.",
+        "note": "Would like to visit describes a particular wish."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Since moving to the coast, Hugo has loved living close to the sea.",
+      "note": "Loved living evaluates an existing experience."
+    },
+    {
+      "sentence": "I like to back up my documents before making a large change.",
+      "note": "Like to back up describes a chosen protective routine."
+    },
+    {
+      "sentence": "We would like to reserve a table for this evening.",
+      "note": "Would like to reserve expresses a wish on a particular occasion."
+    },
+    {
+      "sentence": "Would you mind waiting outside for a moment?",
+      "note": "Would mind takes -ing to make a polite request."
+    },
+    {
+      "sentence": "I would love to have watched the match in person, but I was working.",
+      "note": "Would love to have watched refers to an unrealised past opportunity."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I enjoy to read on the train.",
+      "correct": "I enjoy reading on the train.",
+      "why": "Enjoy takes an -ing form, not a to-infinitive."
+    },
+    {
+      "incorrect": "I would like visiting the museum tomorrow.",
+      "correct": "I would like to visit the museum tomorrow.",
+      "why": "Would like followed by an action normally takes a to-infinitive."
+    },
+    {
+      "incorrect": "Would you mind to open the window?",
+      "correct": "Would you mind opening the window?",
+      "why": "Would you mind + -ing is the normal polite-request pattern."
+    },
+    {
+      "incorrect": "I would love to have see the concert last week.",
+      "correct": "I would love to have seen the concert last week.",
+      "why": "The perfect infinitive requires have + past participle: have seen."
+    }
+  ],
+  "studyTips": [
+    "Describe an activity you already do and enjoy with -ing; describe a routine you choose to follow with like to + verb.",
+    "Compare two statements about the same action: I like visiting the park versus I would like to visit the park tomorrow.",
+    "To describe a missed opportunity, practise the structure would like to have + past participle with a clear past-time clue."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Zara has worked at the community café for two years and enjoys it. She likes ___ there.",
+      "choices": [
+        "working",
+        "to working",
+        "work"
+      ],
+      "answerIndex": 0,
+      "feedback": "Because Zara is describing enjoyment of her existing job, likes working is natural."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "I do not enjoy this chore, but I ___ the dishes straight after dinner so the sink stays clear.",
+      "choices": [
+        "like to washing",
+        "like to wash",
+        "like washed"
+      ],
+      "answerIndex": 1,
+      "feedback": "Like to wash describes a preferred routine, even though the speaker does not enjoy the chore."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "We have a free afternoon tomorrow. I ___ the new exhibition with you.",
+      "choices": [
+        "would love seeing",
+        "would love to see",
+        "would love see"
+      ],
+      "answerIndex": 1,
+      "feedback": "Would love to see expresses a wish to do something on a specific occasion."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Would you mind ___ your voice a little? I am on a call.",
+      "choices": [
+        "lower",
+        "to lower",
+        "lowering"
+      ],
+      "answerIndex": 2,
+      "feedback": "Would you mind is followed by an -ing verb when making a polite request."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "I am happy in my new flat. I ___ near the river. (like / live; current experience, use -ing)",
+      "acceptedAnswers": [
+        "like living"
+      ],
+      "feedback": "An existing situation that the speaker enjoys is naturally expressed as like living."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "To avoid losing data, I ___ my file after every major edit. (like / save; preferred routine, use a to-infinitive)",
+      "acceptedAnswers": [
+        "like to save"
+      ],
+      "feedback": "Like to save expresses a regular choice or preferred habit."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Our friends arrive tonight. We ___ dinner with them. (would / like / have; specific wish, use to-infinitive)",
+      "acceptedAnswers": [
+        "would like to have"
+      ],
+      "feedback": "Would like to have expresses a wish for the particular evening."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "I missed the concert, and I still wish I had gone. I ___ it live. (would / love / see; use to have + past participle)",
+      "acceptedAnswers": [
+        "would love to have seen"
+      ],
+      "feedback": "Would love to have seen expresses a missed chance to see something in the past."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I enjoy to cook for my friends.",
+      "acceptedAnswers": [
+        "I enjoy cooking for my friends."
+      ],
+      "feedback": "Enjoy is followed by cooking, not to cook."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I already live in this neighbourhood and I like to living here.",
+      "acceptedAnswers": [
+        "I already live in this neighbourhood and I like living here."
+      ],
+      "feedback": "For an existing experience, like living is appropriate; like to living is not grammatical."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Would you mind to turn the music down?",
+      "acceptedAnswers": [
+        "Would you mind turning the music down?"
+      ],
+      "feedback": "Would you mind takes an -ing verb: turning."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I would love to have visit the exhibition last month.",
+      "acceptedAnswers": [
+        "I would love to have visited the exhibition last month."
+      ],
+      "feedback": "After to have, use the past participle visited to refer to a missed past opportunity."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one sentence using these words: I / enjoy / cook / for my family. Use the -ing form after enjoy.",
+      "acceptedAnswers": [
+        "I enjoy cooking for my family."
+      ],
+      "feedback": "Enjoy + -ing expresses pleasure in an activity."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Noah dislikes travelling to work on buses. Begin “Noah hates” and use the -ing form of commute followed by “by bus”.",
+      "acceptedAnswers": [
+        "Noah hates commuting by bus."
+      ],
+      "feedback": "Hates commuting refers to a generally disliked repeated experience."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "You choose to check the windows before sleeping, although it is not enjoyable. Begin “I like” and use to + check followed by “the windows before bed”.",
+      "acceptedAnswers": [
+        "I like to check the windows before bed."
+      ],
+      "feedback": "Like to check describes a chosen practice rather than pleasure in the task."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Express one wish for today. Begin “I would like” or “I’d like” and finish with “to visit the new library today”.",
+      "acceptedAnswers": [
+        "I would like to visit the new library today.",
+        "I'd like to visit the new library today."
+      ],
+      "feedback": "Would like to visit expresses a wish concerning a particular day."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Make a polite offer to a guest. Begin “Would you like” and end with “to sit by the window?”",
+      "acceptedAnswers": [
+        "Would you like to sit by the window?"
+      ],
+      "feedback": "Would you like + to-infinitive is a polite way to offer an option."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Politely ask someone to wait one minute. Begin “Would you mind” and use waiting followed by “a minute?”",
+      "acceptedAnswers": [
+        "Would you mind waiting a minute?"
+      ],
+      "feedback": "Would you mind waiting follows the required -ing pattern."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "She missed a lecture and now wishes she had attended. Begin “She would love” and end with “the lecture”. Use “to have attended”.",
+      "acceptedAnswers": [
+        "She would love to have attended the lecture."
+      ],
+      "feedback": "Would love to have attended expresses an unrealised past wish."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce exactly two sentences. First, begin “I like” and say “walking in parks” as a general enjoyment. Second, begin “Today I would love” and say “to visit the botanical garden”.",
+      "acceptedAnswers": [
+        "I like walking in parks. Today I would love to visit the botanical garden."
+      ],
+      "feedback": "Like walking states a general preference; would love to visit expresses today’s specific wish."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I like cycling to work when the weather is nice. It helps me feel awake in the morning.",
+      "prompt": "What does the speaker generally enjoy?",
+      "choices": [
+        "Cycling to work in good weather.",
+        "Taking a taxi every morning.",
+        "Repairing a bicycle after work."
+      ],
+      "answerIndex": 0,
+      "feedback": "Like cycling describes a generally enjoyable activity."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I'd like to cycle to work tomorrow, but my bicycle is still at the repair shop.",
+      "prompt": "What does the speaker want to do tomorrow?",
+      "choices": [
+        "Buy a new bicycle.",
+        "Cycle to work.",
+        "Visit a different repair shop."
+      ],
+      "answerIndex": 1,
+      "feedback": "I'd like to cycle is a specific wish about tomorrow."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "My brother enjoys running after work, even when the weather is cold.",
+      "prompt": "Type the one-word activity immediately after “enjoys”.",
+      "acceptedAnswers": [
+        "running"
+      ],
+      "feedback": "Enjoys is followed by the -ing form running."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I don't enjoy washing the car, but I like to do it early on Saturdays before the streets get busy.",
+      "prompt": "Why does the speaker mention an early Saturday routine?",
+      "choices": [
+        "Washing the car is their favourite hobby.",
+        "They never wash the car at weekends.",
+        "They prefer to finish a disliked chore early."
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker dislikes the chore but prefers an early routine."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Would you mind lowering the blinds? The afternoon sun is shining directly on my screen.",
+      "prompt": "What action is the listener being asked to take?",
+      "choices": [
+        "Lower the blinds.",
+        "Turn up the screen brightness.",
+        "Open the windows."
+      ],
+      "answerIndex": 0,
+      "feedback": "Would you mind lowering is a polite request to lower the blinds."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I would love to have visited the museum while we were there, but it was closed throughout our trip.",
+      "prompt": "What does the speaker regret?",
+      "choices": [
+        "Buying the museum tickets.",
+        "Missing the chance to visit the museum.",
+        "Spending too much time inside the museum."
+      ],
+      "answerIndex": 1,
+      "feedback": "Would love to have visited looks back on an opportunity that was not possible."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The children would like to build a tree house during the holiday.",
+      "prompt": "Type the two-word infinitive phrase immediately after “would like”.",
+      "acceptedAnswers": [
+        "to build"
+      ],
+      "feedback": "Would like takes to build for a desired activity."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I would prefer to have stayed longer, but my train left at six.",
+      "prompt": "Type the three-word perfect infinitive phrase immediately after “prefer”.",
+      "acceptedAnswers": [
+        "to have stayed"
+      ],
+      "feedback": "To have stayed indicates a preference for a different past outcome."
+    }
+  ]
+}

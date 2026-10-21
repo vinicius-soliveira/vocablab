@@ -1,0 +1,423 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u121",
+  "title": "At, On and In: Expressions of Time",
+  "level": "B1",
+  "topicId": "eg2-u121-at-on-in-time-expressions",
+  "summary": "Choose at for precise clock times and certain fixed expressions, on for named days and dates, and in for longer periods or parts of the day. Recognise exceptions, zero-preposition expressions and the two meanings of in plus a time span.",
+  "learningObjectives": [
+    "Use at, on and in accurately with clock times, days, dates, months, years and seasons.",
+    "Choose conventional expressions for nights, weekends, holidays and parts of the day, noting common regional alternatives.",
+    "Combine a named day with morning, afternoon or evening, and omit time prepositions before this, next, last and every.",
+    "Distinguish in a few minutes meaning time from now from in two hours describing time required to finish an action."
+  ],
+  "explanation": [
+    {
+      "heading": "At introduces clock times and specific moments",
+      "body": "Use at before a stated clock time and fixed points such as noon, midnight and sunset. Certain current-time expressions, including at the moment and at present, also take at. The phrase at the same time refers to events occurring simultaneously.",
+      "example": "The briefing begins at quarter past ten."
+    },
+    {
+      "heading": "On names days, dates and particular days of the week",
+      "body": "Use on with days, specific calendar dates and named celebrations that refer to one day: on Wednesday, on 4 April or on New Year’s Day. Combine on with a day plus a part of that day, such as on Thursday afternoon. In conversational English, on is sometimes omitted before a day name.",
+      "example": "We are visiting the museum on Saturday morning."
+    },
+    {
+      "heading": "In names longer periods and ordinary parts of a day",
+      "body": "Use in with months, years, decades, centuries and seasons, and with the morning, afternoon or evening when no particular day is named. Compare in the evening with on Monday evening. These are typical time expressions, not a rule that every word for a period takes in.",
+      "example": "The community centre reopened in September."
+    },
+    {
+      "heading": "Learn fixed expressions and relevant varieties",
+      "body": "At night commonly means nights in general; in the night describes something happening during a particular night. British English commonly has at the weekend, while on the weekend is frequent in American English. At Christmas can mean the holiday season, but on Christmas Day singles out the day.",
+      "example": "A thunderstorm woke us in the night, although I normally sleep well at night."
+    },
+    {
+      "heading": "Leave out prepositions or use in for elapsed time",
+      "body": "Do not put at, on or in directly before last, next, this or every when they modify a time word: say next Tuesday and every morning. In plus a time span can mean after that amount of time from now, or the amount of time an activity takes to complete; the surrounding verb supplies the meaning.",
+      "example": "The technician will return in twenty minutes, and the test should finish in an hour."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Clock time, day and longer period",
+      "left": {
+        "label": "At + clock time",
+        "example": "The presentation starts at nine.",
+        "note": "Nine identifies a precise time of day."
+      },
+      "right": {
+        "label": "On + day",
+        "example": "The presentation starts on Thursday.",
+        "note": "Thursday identifies a particular day."
+      }
+    },
+    {
+      "title": "Part of a day in general versus a particular day",
+      "left": {
+        "label": "In + part of the day",
+        "example": "I usually study in the evening.",
+        "note": "The evening is not linked to one named day."
+      },
+      "right": {
+        "label": "On + named day and part",
+        "example": "I have a lesson on Thursday evening.",
+        "note": "The named day makes on the natural preposition."
+      }
+    },
+    {
+      "title": "A point in time versus time counted forward",
+      "left": {
+        "label": "At + stated hour",
+        "example": "Our bus leaves at six.",
+        "note": "Six is a clock-time reference."
+      },
+      "right": {
+        "label": "In + time from now",
+        "example": "Our bus leaves in six minutes.",
+        "note": "Six minutes is the amount of time before departure."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The documentary starts at half past eight.",
+      "note": "At introduces an exact time on the clock."
+    },
+    {
+      "sentence": "Her appointment is on 12 November.",
+      "note": "A calendar date is introduced with on."
+    },
+    {
+      "sentence": "The festival takes place in spring.",
+      "note": "In is used with seasons and other extended periods."
+    },
+    {
+      "sentence": "We normally take a break in the afternoon, but not on Friday afternoons.",
+      "note": "The general part-of-day phrase uses in; the named weekday uses on."
+    },
+    {
+      "sentence": "I started this course last month and will take another next year.",
+      "note": "Last and next do not take a preceding time preposition."
+    },
+    {
+      "sentence": "I solved the puzzle in ten minutes.",
+      "note": "In tells us the time required to complete the puzzle."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Our flight leaves on 6:45.",
+      "correct": "Our flight leaves at 6:45.",
+      "why": "Clock times use at, not on."
+    },
+    {
+      "incorrect": "The seminar is in Tuesday morning.",
+      "correct": "The seminar is on Tuesday morning.",
+      "why": "Use on with a named day plus morning, afternoon or evening."
+    },
+    {
+      "incorrect": "We usually exercise on the morning.",
+      "correct": "We usually exercise in the morning.",
+      "why": "An ordinary part of the day takes in when no named day is attached."
+    },
+    {
+      "incorrect": "I saw her on last Friday.",
+      "correct": "I saw her last Friday.",
+      "why": "Do not put on before last plus a time expression."
+    }
+  ],
+  "studyTips": [
+    "Group expressions into three columns: at for clock times, on for days and in for longer periods; add examples of each from your own schedule.",
+    "Practise pairs aloud: in the evening / on Wednesday evening and at night / in the night, paying attention to the intended meaning.",
+    "Write two sentences with in ten minutes: one about something happening ten minutes from now, the other about a task taking ten minutes."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The safety briefing starts ___ 8:20, so arrive a little earlier.",
+      "choices": [
+        "on",
+        "at",
+        "in"
+      ],
+      "answerIndex": 1,
+      "feedback": "Use at with 8:20 because it is a precise clock time."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The interview is scheduled ___ 17 August, not during the following week.",
+      "choices": [
+        "in",
+        "at",
+        "on"
+      ],
+      "answerIndex": 2,
+      "feedback": "Use on before a specific calendar date."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "This region gets heavy rain ___ winter, particularly in January.",
+      "choices": [
+        "in",
+        "on",
+        "at"
+      ],
+      "answerIndex": 0,
+      "feedback": "Use in to place a repeated situation within a season."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "We usually study ___ the evenings, after everyone finishes work.",
+      "choices": [
+        "at",
+        "on",
+        "in"
+      ],
+      "answerIndex": 2,
+      "feedback": "Without a named weekday, the ordinary expression is in the evenings."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The concert begins ___ . (7:45; supply the correct preposition and clock time)",
+      "acceptedAnswers": [
+        "at 7:45"
+      ],
+      "feedback": "At introduces a clock time."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Our monthly review is ___ . (Thursday afternoon; include the appropriate time preposition)",
+      "acceptedAnswers": [
+        "on Thursday afternoon"
+      ],
+      "feedback": "A named day combined with afternoon uses on."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The exhibition opens ___ . (October; include the time preposition)",
+      "acceptedAnswers": [
+        "in October"
+      ],
+      "feedback": "Months are introduced by in."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The courier will be here ___ . (20 minutes from now; use in plus the time span)",
+      "acceptedAnswers": [
+        "in 20 minutes"
+      ],
+      "feedback": "In 20 minutes expresses how long from now until the courier arrives."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence, keeping all other words unchanged: Our team meeting starts on noon.",
+      "acceptedAnswers": [
+        "Our team meeting starts at noon."
+      ],
+      "feedback": "Noon is a precise time, so use at."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence, keeping all other words unchanged: I usually answer emails on the morning.",
+      "acceptedAnswers": [
+        "I usually answer emails in the morning."
+      ],
+      "feedback": "The usual general part-of-day expression is in the morning."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence, keeping all other words unchanged: The appointment is in Friday evening.",
+      "acceptedAnswers": [
+        "The appointment is on Friday evening."
+      ],
+      "feedback": "A specific weekday plus evening is introduced by on."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence, keeping all other words unchanged: We moved to this apartment in last September.",
+      "acceptedAnswers": [
+        "We moved to this apartment last September."
+      ],
+      "feedback": "Omit the preposition before last plus a month."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one complete sentence from these details: the class / begin / at / nine o’clock. Use the present simple.",
+      "acceptedAnswers": [
+        "The class begins at nine o’clock."
+      ],
+      "feedback": "At goes before the precise start time."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "A colleague asks which day you have the inspection. Answer using: the inspection / be / on Tuesday. Begin with “The inspection”.",
+      "acceptedAnswers": [
+        "The inspection is on Tuesday.",
+        "The inspection's on Tuesday."
+      ],
+      "feedback": "Use on with a named weekday."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Turn these facts into one sentence: the museum / reopen / in April / last year. Begin with “The museum” and use the past simple.",
+      "acceptedAnswers": [
+        "The museum reopened in April last year."
+      ],
+      "feedback": "In introduces the month; last year needs no additional preposition."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Correct only the time preposition and say the whole sentence: “The training starts in 11:30.”",
+      "acceptedAnswers": [
+        "The training starts at 11:30."
+      ],
+      "feedback": "Use at before clock times."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Make a complete sentence about a regular habit: I / check my calendar / in the morning. Use the present simple and begin with “I”.",
+      "acceptedAnswers": [
+        "I check my calendar in the morning."
+      ],
+      "feedback": "In the morning refers to a general part of the day."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Say when the workshop takes place: the workshop / be / on Friday afternoon. Begin with “The workshop”.",
+      "acceptedAnswers": [
+        "The workshop is on Friday afternoon.",
+        "The workshop's on Friday afternoon."
+      ],
+      "feedback": "A weekday followed by afternoon takes on."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Make exactly two sentences using these office hours: the office / open / at eight; it / close / at five. Use the present simple and begin the second sentence with It.",
+      "acceptedAnswers": [
+        "The office opens at eight. It closes at five."
+      ],
+      "feedback": "At is used with both opening and closing clock times."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "A friend asks when the repairer will arrive. The repairer is expected 15 minutes from now. Answer in one sentence beginning “The repairer will arrive” and ending “in 15 minutes”.",
+      "acceptedAnswers": [
+        "The repairer will arrive in 15 minutes."
+      ],
+      "feedback": "In plus a duration can mean time measured from now."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The workshop begins at nine on Thursday, but registration opens half an hour earlier.",
+      "prompt": "At what clock time does the workshop itself begin?",
+      "choices": [
+        "Half past eight.",
+        "Nine o’clock.",
+        "Thursday afternoon."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker distinguishes registration from the workshop; the workshop begins at nine."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I have a dental appointment on Monday afternoon, not on Tuesday morning as we first planned.",
+      "prompt": "When is the revised appointment?",
+      "choices": [
+        "Tuesday morning.",
+        "Monday morning.",
+        "Monday afternoon."
+      ],
+      "answerIndex": 2,
+      "feedback": "Monday afternoon is the corrected appointment time, whereas Tuesday morning was the old plan."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The theatre doors will open at half past six, and the performance starts at seven.",
+      "prompt": "Type the four-word time expression immediately after “open”.",
+      "acceptedAnswers": [
+        "at half past six"
+      ],
+      "feedback": "The door-opening time is introduced with at followed by the clock-time expression."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "My brother works at night, but last night he came home early and slept until morning.",
+      "prompt": "Which statement describes his usual work pattern?",
+      "choices": [
+        "He usually works at night.",
+        "He only works in the morning.",
+        "He never works overnight."
+      ],
+      "answerIndex": 0,
+      "feedback": "At night refers to nights in general; last night describes one specific night."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "We planned to leave on Saturday the twenty-first, but now we are leaving on Saturday the fourteenth instead.",
+      "prompt": "What changed about the trip?",
+      "choices": [
+        "It was cancelled altogether.",
+        "It is taking place one week earlier.",
+        "It has moved from Saturday to Monday."
+      ],
+      "answerIndex": 1,
+      "feedback": "The fourteenth is one week earlier than the twenty-first."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The repairer says the new part will arrive in two hours, and fitting it should take another thirty minutes.",
+      "prompt": "When is the part expected to arrive?",
+      "choices": [
+        "In thirty minutes.",
+        "After the installation.",
+        "Two hours from now."
+      ],
+      "answerIndex": 2,
+      "feedback": "In two hours describes the wait until arrival; thirty minutes is the fitting duration."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Our local art club meets on Wednesday evenings, and new members are welcome.",
+      "prompt": "Type the three-word time expression immediately after “meets”.",
+      "acceptedAnswers": [
+        "on Wednesday evenings"
+      ],
+      "feedback": "On precedes a named weekday combined with the part of day."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The results will be ready in three days, so please check the website again then.",
+      "prompt": "Type the three-word expression immediately after “ready”.",
+      "acceptedAnswers": [
+        "in three days"
+      ],
+      "feedback": "In three days indicates a time measured from the present moment."
+    }
+  ]
+}

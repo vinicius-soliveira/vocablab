@@ -1,0 +1,432 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u044",
+  "title": "Passive structures: two objects, being and get",
+  "level": "B2",
+  "topicId": "eg2-u044-double-object-being-get-passive",
+  "summary": "Use different passive constructions to focus on a person receiving something, an experience of being treated in a certain way, events described with get, and the correct use of was or were born.",
+  "learningObjectives": [
+    "Transform verbs with two objects into person-focused and thing-focused passive sentences.",
+    "Use being + past participle after verbs and prepositions to describe receiving an action.",
+    "Describe a person’s birthplace or birth year with was or were born.",
+    "Choose informal get passives for events and be passives for neutral descriptions or states."
+  ],
+  "explanation": [
+    {
+      "heading": "Person-first passive with two-object verbs",
+      "body": "Some verbs such as give, offer, show, send and tell can involve a receiver and an item or piece of information. In the common person-first passive, the receiver becomes the subject: They offered Kim a position becomes Kim was offered a position. Use the tense appropriate to the event, and keep the other object after the past participle.",
+      "example": "Each participant was given a timetable at registration."
+    },
+    {
+      "heading": "Thing-first passive and the receiver",
+      "body": "You can instead make the thing or information the subject. Then introduce the receiver with a suitable preposition, commonly to: A timetable was given to each participant. This pattern is useful when the thing matters most. Not every verb has both patterns, so avoid extending the pattern automatically to all verbs.",
+      "example": "A revised itinerary was sent to the visiting researchers."
+    },
+    {
+      "heading": "Being + past participle after verbs or prepositions",
+      "body": "Use being + past participle when a passive meaning fills the role of an -ing form. It often follows verbs like enjoy, dislike, remember or avoid, and prepositions such as without or of. The person or thing receives the action, rather than doing it. Use being, not be or been, in this position.",
+      "example": "The presenter dislikes being interrupted during questions."
+    },
+    {
+      "heading": "Born as a passive expression",
+      "body": "For a completed birth event, say was born or were born, even when the person is alive now. Use was with I/he/she/it and were with you/we/they. A general statement about births happening every day can use are born. Do not use am born to state your own birthplace.",
+      "example": "My grandparents were born in different countries."
+    },
+    {
+      "heading": "Get passive for events in informal English",
+      "body": "Get + past participle can describe a passive event, often something unexpected or a change in circumstances. It is common in informal conversation: got injured or got selected. In a more neutral style, was or were plus the participle is also possible. Get is usually inappropriate for static meanings such as being known or liked by everyone.",
+      "example": "Our neighbour got injured during the weekend match."
+    },
+    {
+      "heading": "Not every get + participle expression is a passive",
+      "body": "Expressions such as get dressed, get married, get lost and get changed are common everyday expressions, but they are not automatically passive actions by an unnamed agent. Look at meaning rather than assuming every get + participle construction is a passive.",
+      "example": "We got dressed quickly and left before sunrise."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Focus on the recipient or on the item",
+      "left": {
+        "label": "Person-first passive",
+        "example": "The volunteers were sent detailed instructions.",
+        "note": "The people receiving the information are the subject."
+      },
+      "right": {
+        "label": "Thing-first passive",
+        "example": "Detailed instructions were sent to the volunteers.",
+        "note": "The information is the subject, and to introduces its recipients."
+      }
+    },
+    {
+      "title": "Passive experience versus active experience",
+      "left": {
+        "label": "Passive -ing",
+        "example": "She dislikes being questioned in public.",
+        "note": "She receives the questioning."
+      },
+      "right": {
+        "label": "Active -ing",
+        "example": "She dislikes questioning people in public.",
+        "note": "She does the questioning."
+      }
+    },
+    {
+      "title": "Neutral be passive versus informal get passive",
+      "left": {
+        "label": "Be passive",
+        "example": "The cyclist was injured during the race.",
+        "note": "A neutral way to describe what happened."
+      },
+      "right": {
+        "label": "Get passive",
+        "example": "The cyclist got injured during the race.",
+        "note": "A conversational way to describe an event or change."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The new staff were shown the equipment before their first shift.",
+      "note": "Were shown makes the people receiving the demonstration the subject."
+    },
+    {
+      "sentence": "A copy of the receipt was emailed to the customer.",
+      "note": "The receipt is the subject; to the customer identifies the receiver."
+    },
+    {
+      "sentence": "I appreciate being informed about changes in advance.",
+      "note": "Being informed is passive after the verb appreciate."
+    },
+    {
+      "sentence": "The team left the building without being noticed.",
+      "note": "After without, being noticed identifies an action the team did not receive."
+    },
+    {
+      "sentence": "Where were your parents born?",
+      "note": "Were born is used for a completed past birth event with a plural subject."
+    },
+    {
+      "sentence": "The camera got damaged while we were moving furniture.",
+      "note": "Got damaged is a natural informal passive for an event that happened."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The participants were gave a map.",
+      "correct": "The participants were given a map.",
+      "why": "A person-first passive uses were plus the past participle given."
+    },
+    {
+      "incorrect": "A refund was offered us yesterday.",
+      "correct": "A refund was offered to us yesterday.",
+      "why": "When the thing is the passive subject of offer, add to before the receiver."
+    },
+    {
+      "incorrect": "She dislikes be interrupted during calls.",
+      "correct": "She dislikes being interrupted during calls.",
+      "why": "After dislikes, use the -ing passive phrase being interrupted."
+    },
+    {
+      "incorrect": "I am born in 2001.",
+      "correct": "I was born in 2001.",
+      "why": "Use was born when describing a completed birth event in the past."
+    },
+    {
+      "incorrect": "This actor gets known by everyone in the town.",
+      "correct": "This actor is known by everyone in the town.",
+      "why": "For the state of being known, use be passive rather than event-focused get passive."
+    }
+  ],
+  "studyTips": [
+    "With give or show, practise two passives from the same fact: the person was given an item; the item was given to the person.",
+    "After a preposition such as without or of, check for being + past participle when the subject receives the action.",
+    "When choosing get versus be, ask whether the sentence reports an event that happened or a lasting state; choose neutral be for the state."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "At the welcome desk, every visitor ___ a numbered badge.",
+      "choices": [
+        "is given",
+        "is gave",
+        "is giving"
+      ],
+      "answerIndex": 0,
+      "feedback": "Is given makes each visitor the receiver of the badge."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The winners ___ their prizes at the end of the event yesterday.",
+      "choices": [
+        "were handing",
+        "were handed",
+        "were been handed"
+      ],
+      "answerIndex": 1,
+      "feedback": "Were handed is the past-simple passive with the winners as recipients."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "She dislikes ___ questions about her salary.",
+      "choices": [
+        "being asked",
+        "be asked",
+        "been asking"
+      ],
+      "answerIndex": 0,
+      "feedback": "After dislikes, use being asked when she receives the questions."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "During the match, the goalkeeper ___ injured and had to leave the field.",
+      "choices": [
+        "get",
+        "got",
+        "getting"
+      ],
+      "answerIndex": 1,
+      "feedback": "Got injured is an informal passive describing an event in the past."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The new employees ___ (show) the emergency exits yesterday. Use the past-simple passive with people as the subject.",
+      "acceptedAnswers": [
+        "were shown"
+      ],
+      "feedback": "The employees received the demonstration, so use were shown."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "An information pack ___ (send) to each candidate next week. Use will in the passive.",
+      "acceptedAnswers": [
+        "will be sent"
+      ],
+      "feedback": "Will be sent focuses on the information pack rather than on who sends it."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "I cannot stand ___ (interrupt) while I am explaining something. Use a passive -ing phrase.",
+      "acceptedAnswers": [
+        "being interrupted"
+      ],
+      "feedback": "After cannot stand, use being + past participle to express receiving the interruption."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "My grandmother ___ (born) in 1952. Use the usual birth expression.",
+      "acceptedAnswers": [
+        "was born"
+      ],
+      "feedback": "For a completed birth event with a singular subject, say was born."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The trainees were gave a copy of the guide.",
+      "acceptedAnswers": [
+        "The trainees were given a copy of the guide."
+      ],
+      "feedback": "Gave is the past tense; the passive requires the past participle given."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: A new password was given me at reception.",
+      "acceptedAnswers": [
+        "A new password was given to me at reception."
+      ],
+      "feedback": "When the password is the subject, give takes to before the receiver."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She is tired of be interrupted during meetings.",
+      "acceptedAnswers": [
+        "She is tired of being interrupted during meetings."
+      ],
+      "feedback": "After the preposition of, the passive -ing form is being interrupted."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I am born in 1994.",
+      "acceptedAnswers": [
+        "I was born in 1994."
+      ],
+      "feedback": "A personal birth event in a past year takes was born, not am born."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Someone offered Maya a traineeship yesterday. Express the same fact as a past-simple passive sentence beginning “Maya”.",
+      "acceptedAnswers": [
+        "Maya was offered a traineeship yesterday."
+      ],
+      "feedback": "Was offered makes Maya, the recipient, the subject."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "At the office, someone gave you a visitor pass. Begin your passive sentence “I was” and include the object “a visitor pass”; do not mention who gave it.",
+      "acceptedAnswers": [
+        "I was given a visitor pass."
+      ],
+      "feedback": "Was given is a natural person-first passive with a second object."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Convert this fact to a thing-first passive: the panel showed Olivia the results. Begin “The results” and include “to Olivia”.",
+      "acceptedAnswers": [
+        "The results were shown to Olivia."
+      ],
+      "feedback": "Were shown to introduces the recipient after the thing-focused subject."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A presenter dislikes interruptions while speaking. Begin “She dislikes” and finish “during presentations”. Express the interruption with passive -ing.",
+      "acceptedAnswers": [
+        "She dislikes being interrupted during presentations."
+      ],
+      "feedback": "Being interrupted is the passive -ing form after dislikes."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "You entered a room quietly, and nobody noticed you. Give one sentence beginning “I entered the room”; use “without being” and the verb notice.",
+      "acceptedAnswers": [
+        "I entered the room without being noticed."
+      ],
+      "feedback": "Without being noticed describes avoiding an action directed at you."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your aunt’s birthplace is Lisbon. Answer in one sentence starting “My aunt”; use the standard expression for birth.",
+      "acceptedAnswers": [
+        "My aunt was born in Lisbon."
+      ],
+      "feedback": "Was born reports a completed event, not a continuing present state."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "During a hike, Noah suffered an injury. State what happened using the informal get passive. Begin “Noah” and end “during the hike”.",
+      "acceptedAnswers": [
+        "Noah got injured during the hike."
+      ],
+      "feedback": "Got injured uses the informal event-focused passive."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Make exactly two passive sentences using these facts. Someone gave Nora instructions yesterday; her bicycle was damaged during delivery. Begin with “Nora” and “Her bicycle”. Use was for the first passive and got for the second.",
+      "acceptedAnswers": [
+        "Nora was given instructions yesterday. Her bicycle got damaged during delivery."
+      ],
+      "feedback": "Was given focuses on Nora as a recipient; got damaged describes an event in informal language."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The volunteers were given warm jackets before the evening shift began.",
+      "prompt": "What did the volunteers receive?",
+      "choices": [
+        "Warm jackets.",
+        "Extra pay.",
+        "New name badges."
+      ],
+      "answerIndex": 0,
+      "feedback": "Were given identifies jackets as the items the volunteers received."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "A detailed map was sent to every guest, but the local guides were only given a short summary.",
+      "prompt": "Who received just a short summary?",
+      "choices": [
+        "Every guest.",
+        "The local guides.",
+        "The event managers."
+      ],
+      "answerIndex": 1,
+      "feedback": "The local guides were given only the short summary, while guests received maps."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The finalists were offered a chance to perform on stage.",
+      "prompt": "Type the two-word passive verb phrase immediately after “The finalists”.",
+      "acceptedAnswers": [
+        "were offered"
+      ],
+      "feedback": "Were offered makes the finalists the people receiving an opportunity."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I enjoy editing my articles in peace, and I hate being interrupted when I am concentrating.",
+      "prompt": "What does the speaker dislike?",
+      "choices": [
+        "Being interrupted while working.",
+        "Editing written work.",
+        "Working without company."
+      ],
+      "answerIndex": 0,
+      "feedback": "Hate being interrupted identifies unwanted interruptions, not dislike of editing."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "My father was born in Portugal, but my children were born here in Canada.",
+      "prompt": "Where was the speaker’s father born?",
+      "choices": [
+        "Canada.",
+        "Spain.",
+        "Portugal."
+      ],
+      "answerIndex": 2,
+      "feedback": "The first part states the father was born in Portugal, unlike the children."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The drummer got injured during rehearsal, so the concert was postponed.",
+      "prompt": "Why was the concert postponed?",
+      "choices": [
+        "The venue was closed for renovations.",
+        "The drummer was hurt during rehearsal.",
+        "The tickets were never printed."
+      ],
+      "answerIndex": 1,
+      "feedback": "Got injured describes an event affecting the drummer and causing the postponement."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "She crossed the crowded station without being recognised.",
+      "prompt": "Type the three-word phrase immediately after “station”.",
+      "acceptedAnswers": [
+        "without being recognised",
+        "without being recognized"
+      ],
+      "feedback": "Without being recognised is a passive -ing phrase; both British and American spellings are acceptable."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "My neighbour got invited to a film premiere last weekend.",
+      "prompt": "Type the two-word passive verb phrase immediately after “My neighbour”.",
+      "acceptedAnswers": [
+        "got invited"
+      ],
+      "feedback": "Got invited is the informal passive heard in the recording."
+    }
+  ]
+}

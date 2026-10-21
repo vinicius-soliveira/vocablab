@@ -1,0 +1,410 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u003",
+  "title": "Present simple or continuous: meaning and context",
+  "level": "B1",
+  "topicId": "eg2-u003-present-simple-versus-continuous",
+  "summary": "Choose between the present simple for routines, general facts and lasting circumstances, and the present continuous for activity or change in progress. Express the difference between temporary and usual situations, including the critical use of always with -ing.",
+  "learningObjectives": [
+    "Select present simple or present continuous by interpreting time, duration and context rather than relying on a single time word.",
+    "Contrast repeated routines and general facts with actions unfolding now or around the present.",
+    "Describe temporary arrangements beside more lasting circumstances without changing the facts.",
+    "Distinguish neutral always + present simple from expressive always + present continuous for excessive repetition."
+  ],
+  "explanation": [
+    {
+      "heading": "A usual pattern versus an activity in progress",
+      "body": "Use the present simple when an action happens repeatedly or is generally true. Use the present continuous when an activity is underway now or during a period around now. The continuous says the activity has started and is not finished; the simple does not imply that it is happening as you speak.",
+      "example": "Rosa checks the workshop doors every morning, but she is checking the loading area right now."
+    },
+    {
+      "heading": "A lasting circumstance versus a temporary one",
+      "body": "The present simple often presents a situation as stable or normal. The present continuous can present the same kind of situation as temporary, with a clear or implied endpoint. Sometimes either tense is possible, but it changes the meaning the speaker chooses to highlight.",
+      "example": "My cousins live near the coast, but I’m staying there only until my course begins."
+    },
+    {
+      "heading": "Choosing time expressions in context",
+      "body": "Frequency words such as usually, often and every Friday typically introduce habitual meaning. Right now, at the moment and this week often suggest ongoing or temporary meaning. These expressions provide evidence, not automatic rules: decide whether the speaker means a routine or something unfolding.",
+      "example": "I normally take the tram, but I’m walking to work this week because the line is closed."
+    },
+    {
+      "heading": "What is changing around us",
+      "body": "The present continuous also describes a process of change that is underway: costs are rising, a service is improving or a crowd is growing. A present-simple statement instead describes a general rule or repeated pattern, even if its verb also refers to change.",
+      "example": "The waiting time is falling as the extra desks open."
+    },
+    {
+      "heading": "Always can be neutral or expressive",
+      "body": "With the present simple, always usually means on every relevant occasion and can be neutral. With the present continuous, always can suggest that something keeps happening too often or more than expected; speakers commonly use it to complain, although the attitude may sometimes be affectionate or admiring.",
+      "example": "I always label my files, but my flatmate is always borrowing my pens without asking."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "The same person: normal routine versus today",
+      "left": {
+        "label": "Usual activity",
+        "example": "Lena teaches evening classes twice a week.",
+        "note": "A regular part of her schedule: present simple."
+      },
+      "right": {
+        "label": "Activity today",
+        "example": "Lena is teaching an extra class tonight.",
+        "note": "A particular temporary event: present continuous."
+      }
+    },
+    {
+      "title": "Always as frequency versus always as an attitude",
+      "left": {
+        "label": "Neutral frequency",
+        "example": "Our manager always replies on the same day.",
+        "note": "Always means every time, without necessarily expressing emotion."
+      },
+      "right": {
+        "label": "Repeated behaviour that bothers the speaker",
+        "example": "Our manager is always changing the meeting time.",
+        "note": "The continuous suggests repeated changes that the speaker finds excessive."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The ferry leaves at seven most mornings, but it is leaving late today.",
+      "note": "The first verb expresses a timetable pattern; the second describes what is happening on this occasion."
+    },
+    {
+      "sentence": "I usually share an office with three people, but I’m working in the quiet room this week.",
+      "note": "The contrast separates an ordinary arrangement from one limited to the current week."
+    },
+    {
+      "sentence": "The town attracts tourists all year, and visitor numbers are increasing this spring.",
+      "note": "Attracts states a general fact; are increasing describes a change in progress."
+    },
+    {
+      "sentence": "You’re always interrupting me before I finish a sentence!",
+      "note": "Always with the continuous communicates annoyance about repeated interruptions."
+    },
+    {
+      "sentence": "Does your brother normally cycle to college, or is he taking the bus today?",
+      "note": "The question contrasts a repeated habit with today’s temporary choice."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "At the moment, the staff prepare the room for the next talk.",
+      "correct": "At the moment, the staff are preparing the room for the next talk.",
+      "why": "The room preparation is in progress at the moment of speaking, so use are preparing."
+    },
+    {
+      "incorrect": "Does your manager working at this site every Monday?",
+      "correct": "Does your manager work at this site every Monday?",
+      "why": "Questions about regular routines use does followed by the base verb work, not an -ing form."
+    },
+    {
+      "incorrect": "We are taking this route to work every day as our normal routine.",
+      "correct": "We take this route to work every day as our normal routine.",
+      "why": "Every day as our normal routine describes a repeated habit rather than a temporary activity."
+    },
+    {
+      "incorrect": "The number of people at the station increases right now as the concert ends.",
+      "correct": "The number of people at the station is increasing right now as the concert ends.",
+      "why": "The change is actively developing, so use is increasing."
+    }
+  ],
+  "studyTips": [
+    "When two tenses seem possible, write what each would mean: a normal pattern, an unfinished activity, or a temporary arrangement.",
+    "Practise paired facts about one person: usually versus today, normally versus this week, or a long-term home versus a short stay.",
+    "Listen to always + -ing in conversations and identify whether the speaker is describing frequency neutrally or reacting to repeated behaviour."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The museum ___ free guided tours every Saturday, but no tour is running today.",
+      "choices": [
+        "is offering",
+        "offers",
+        "offer"
+      ],
+      "answerIndex": 1,
+      "feedback": "Every Saturday describes the museum’s usual schedule, so offers is the present simple."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Don’t move those boxes. The volunteers ___ an inventory at the moment.",
+      "choices": [
+        "make",
+        "makes",
+        "are making"
+      ],
+      "answerIndex": 2,
+      "feedback": "At the moment describes an unfinished task, so the plural subject takes are making."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "I have my own apartment, but I ___ with a colleague for just two weeks while my kitchen is repaired.",
+      "choices": [
+        "am staying",
+        "stay",
+        "stays"
+      ],
+      "answerIndex": 0,
+      "feedback": "The two-week arrangement is temporary; am staying highlights the limited period."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "That dripping tap is driving me mad. It ___ a noise whenever I try to sleep!",
+      "choices": [
+        "is always making",
+        "always make",
+        "is making always"
+      ],
+      "answerIndex": 0,
+      "feedback": "Is always making conveys frustration at the repeated noise; the frequency word goes between is and making."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "My brother ___ (work) at a public library as his regular job. Write the verb in the present simple.",
+      "acceptedAnswers": [
+        "works"
+      ],
+      "feedback": "A regular job is presented as a lasting situation; brother requires works."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Usually I take the bus, but this week I ___ (cycle) to the office. Write the words after I in the present continuous.",
+      "acceptedAnswers": [
+        "am cycling"
+      ],
+      "feedback": "This week contrasts a temporary arrangement with the usual journey: am cycling."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Look at the display: the temperature ___ (fall) quickly right now. Write the present continuous verb phrase.",
+      "acceptedAnswers": [
+        "is falling"
+      ],
+      "feedback": "A change developing before us takes is falling."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Why ___ (you / normally / leave) so early on Fridays? Write the words after Why in the present simple.",
+      "acceptedAnswers": [
+        "do you normally leave"
+      ],
+      "feedback": "Normally points to a repeated pattern; a present-simple question needs do + subject + leave."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: On a typical weekday, Mara is starting her shift at eight.",
+      "acceptedAnswers": [
+        "On a typical weekday, Mara starts her shift at eight."
+      ],
+      "feedback": "A typical weekday describes her regular schedule, not a temporary shift in progress."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Be quiet for a minute; I try to hear the announcement right now.",
+      "acceptedAnswers": [
+        "Be quiet for a minute; I am trying to hear the announcement right now.",
+        "Be quiet for a minute; I'm trying to hear the announcement right now."
+      ],
+      "feedback": "The effort is happening right now; use am trying rather than the simple form."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The prices in our local market are usually increasing every January.",
+      "acceptedAnswers": [
+        "The prices in our local market usually increase every January."
+      ],
+      "feedback": "Usually and every January describe a recurring pattern, so use the present simple increase."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: This week only, the team uses the smaller conference room while the main room is renovated.",
+      "acceptedAnswers": [
+        "This week only, the team is using the smaller conference room while the main room is renovated."
+      ],
+      "feedback": "This week only points to a temporary arrangement; is using makes that meaning explicit."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say this routine as a complete sentence using the present simple. Facts: Nina / usually / walk to work. Start with \"Nina\".",
+      "acceptedAnswers": [
+        "Nina usually walks to work."
+      ],
+      "feedback": "Usually describes a habit; Nina takes walks."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Now describe today’s exception in one sentence. Facts: Nina / take the bus / today. Start with \"Nina\" and use the present continuous.",
+      "acceptedAnswers": [
+        "Nina is taking the bus today.",
+        "Nina's taking the bus today."
+      ],
+      "feedback": "Is taking describes today’s temporary activity."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Your manager asks whether the machines are running at this moment. They are not. Reply with one complete sentence beginning \"The machines\" and ending \"right now\".",
+      "acceptedAnswers": [
+        "The machines are not running right now.",
+        "The machines aren't running right now."
+      ],
+      "feedback": "Use are not running or aren’t running for an activity that is not happening now."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Rephrase this temporary situation. Facts: Leo / stay with his uncle / this month. Begin with \"Leo\" and use the present continuous.",
+      "acceptedAnswers": [
+        "Leo is staying with his uncle this month.",
+        "Leo's staying with his uncle this month."
+      ],
+      "feedback": "Is staying focuses on a temporary arrangement this month."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "A colleague repeatedly takes your chair without asking and it annoys you. Complain using this exact pattern: \"You / always / take / my chair without asking!\" Use the present continuous.",
+      "acceptedAnswers": [
+        "You are always taking my chair without asking!",
+        "You're always taking my chair without asking!"
+      ],
+      "feedback": "Are always taking expresses frustration about behaviour that keeps recurring."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Ask about a normal habit. Use these facts: your sister / usually / work / on Saturdays? Begin with \"Does\" and use the present simple.",
+      "acceptedAnswers": [
+        "Does your sister usually work on Saturdays?"
+      ],
+      "feedback": "Does + subject + usually + base verb forms a question about a normal routine."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the tense and say the whole sentence, keeping all other words: \"The students write their exam answers right now.\"",
+      "acceptedAnswers": [
+        "The students are writing their exam answers right now."
+      ],
+      "feedback": "A task underway right now calls for are writing."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give two contrasting sentences, in this order. Use the exact facts and full forms: I / normally / drive to work. Today / I / walk to work (present continuous).",
+      "acceptedAnswers": [
+        "I normally drive to work. Today I am walking to work."
+      ],
+      "feedback": "Drive describes the usual journey, while am walking describes today’s exception."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I normally work from home, but this week I'm using a desk at the library while my internet is repaired.",
+      "prompt": "Where is the speaker working this week?",
+      "choices": [
+        "At home.",
+        "At the library.",
+        "At a new company office."
+      ],
+      "answerIndex": 1,
+      "feedback": "Normally work from home describes the routine; I’m using a desk at the library describes the temporary location."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "My sister works at a bookshop, but she's helping at a food festival today.",
+      "prompt": "Where does the speaker’s sister normally work?",
+      "choices": [
+        "At a bookshop.",
+        "At a food festival.",
+        "At a restaurant."
+      ],
+      "answerIndex": 0,
+      "feedback": "Works at a bookshop describes her usual job; is helping refers only to today."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Our neighbours are renovating their kitchen this month.",
+      "prompt": "Type the verb phrase immediately after \"Our neighbours\".",
+      "acceptedAnswers": [
+        "are renovating"
+      ],
+      "feedback": "Are renovating describes an unfinished project this month."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "My cousin usually checks the bus schedule, but right now he's calling a taxi because the buses have stopped.",
+      "prompt": "What is the cousin doing right now?",
+      "choices": [
+        "Checking the bus schedule.",
+        "Waiting on a bus.",
+        "Calling a taxi."
+      ],
+      "answerIndex": 2,
+      "feedback": "He’s calling a taxi is the current action; usually checks describes a different habit."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "You're always leaving the front gate open, and I worry that the dog will run into the street.",
+      "prompt": "What is the speaker mainly doing?",
+      "choices": [
+        "Complaining about repeated behaviour.",
+        "Praising a reliable habit.",
+        "Reporting a single completed event."
+      ],
+      "answerIndex": 0,
+      "feedback": "You’re always leaving shows frustration at something that happens too often."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "On most days, the stream flows gently past the garden. Today it's rising after heavy rain.",
+      "prompt": "What is different about the stream today?",
+      "choices": [
+        "It has completely dried up.",
+        "Its water level is rising.",
+        "It is flowing at its usual level."
+      ],
+      "answerIndex": 1,
+      "feedback": "Flows gently states the general pattern; it’s rising describes today’s developing change."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "I usually cycle to the office, but I'm driving today because my bike has a flat tyre.",
+      "prompt": "Type the short phrase describing today’s journey, including the subject \"I\".",
+      "acceptedAnswers": [
+        "I'm driving",
+        "I am driving"
+      ],
+      "feedback": "The speaker contrasts a cycling routine with I’m driving today, the temporary exception."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "My neighbours are staying with their daughter until the roof repairs are finished.",
+      "prompt": "Type the verb phrase immediately after \"My neighbours\".",
+      "acceptedAnswers": [
+        "are staying"
+      ],
+      "feedback": "Are staying identifies an arrangement that lasts only until the repairs are done."
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u008",
+  "title": "Present perfect: life experience and unfinished time",
+  "level": "B1",
+  "topicId": "eg2-u008-present-perfect-experience-unfinished-time",
+  "summary": "Talk about experiences at any point in life, achievements within a period continuing until now, and first or repeated events. Use ever, never, so far, recently and this week without confusing an unfinished period with a finished date.",
+  "learningObjectives": [
+    "Ask and answer questions about life experiences using have/has ever and never with accurate past participles.",
+    "Report what has or has not happened during a period that is still open, such as today, recently or so far this month.",
+    "Describe first, second and subsequent occurrences using “This is the ... time” plus the present perfect.",
+    "Use a superlative with “I have ever ...” and recognise why a finished past-time reference changes tense choice."
+  ],
+  "explanation": [
+    {
+      "heading": "Use the present perfect for life experience",
+      "body": "A person’s life up to the present is an unfinished time period. Use have/has + past participle to ask whether something has happened at any point in that period. The exact date is not the focus. With visited places, been to commonly means visited and returned; with activities, choose the appropriate participle.",
+      "example": "Have you ever given a talk to a large audience?"
+    },
+    {
+      "heading": "Use ever, never and before",
+      "body": "Ever asks whether an experience happened at any time up to now, especially in questions. Never says it has not happened at any time up to now; do not add not to never in a normal sentence. Before can refer to an earlier experience. When a question is about the most extreme experience, “the ... I have ever ...” is a useful pattern.",
+      "example": "I have never worked on a night shift before."
+    },
+    {
+      "heading": "Describe achievements during an unfinished period",
+      "body": "Use the present perfect with an interval that continues to the time of speaking, such as today, this week, this year, recently, in the last few days or so far. It can report completed events within the open interval, including how many times something has happened. A phrase like last Tuesday points to a finished time instead and normally needs the past simple.",
+      "example": "Our team has completed four deliveries so far this morning."
+    },
+    {
+      "heading": "Relate now to a period that began earlier",
+      "body": "Expressions such as since the workshop started and in the last few weeks define a period reaching the present. The present perfect can tell us whether something has occurred within that window. This unit focuses on events and results inside the period, rather than the detailed grammar of duration that comes in later units.",
+      "example": "There have been no interruptions since the presentation began."
+    },
+    {
+      "heading": "Mark a first or repeated experience",
+      "body": "After “This is the first time ...”, “It is the second time ...” and similar expressions, use the present perfect to describe the event. The count includes the event happening now. You can also describe especially strong experiences with a superlative followed by the present perfect and ever.",
+      "example": "This is the second time I have presented the proposal this month."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Lifetime experience versus a dated past occasion",
+      "left": {
+        "label": "Experience up to now",
+        "example": "I have attended a science festival.",
+        "note": "No finished occasion is specified; the fact of experiencing it matters."
+      },
+      "right": {
+        "label": "Known finished occasion",
+        "example": "I attended a science festival last August.",
+        "note": "Last August identifies a finished past time, so the past simple is appropriate."
+      }
+    },
+    {
+      "title": "An open reporting period versus a first occurrence",
+      "left": {
+        "label": "So far: an unfinished interval",
+        "example": "We have held three interviews so far this week.",
+        "note": "The week is still continuing when the count is reported."
+      },
+      "right": {
+        "label": "First time: event count",
+        "example": "This is the first time I have chaired an interview.",
+        "note": "The present event is the person’s first experience of chairing one."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Have you ever repaired a bicycle yourself?",
+      "note": "Ever asks whether the activity has been part of someone’s experience so far."
+    },
+    {
+      "sentence": "I have never flown in a hot-air balloon.",
+      "note": "Never indicates that the experience has not happened at any point up to now."
+    },
+    {
+      "sentence": "We have received six applications this week.",
+      "note": "The week is treated as unfinished, so the count reaches the present."
+    },
+    {
+      "sentence": "This is the third time the alarm has sounded today.",
+      "note": "Has sounded follows the ordinal occurrence pattern."
+    },
+    {
+      "sentence": "That is the funniest speech I have ever heard.",
+      "note": "The superlative is measured against every comparable experience up to now."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Have you ever drank coconut water?",
+      "correct": "Have you ever drunk coconut water?",
+      "why": "After have, use the past participle drunk rather than the past-simple form drank."
+    },
+    {
+      "incorrect": "I haven’t never driven a scooter.",
+      "correct": "I have never driven a scooter.",
+      "why": "In standard English, use have never, not haven’t never, for a negative lifetime experience."
+    },
+    {
+      "incorrect": "This is the first time she uses a 3D printer.",
+      "correct": "This is the first time she has used a 3D printer.",
+      "why": "The “first time” experience pattern uses a present perfect clause."
+    },
+    {
+      "incorrect": "We did not have any complaints so far this morning.",
+      "correct": "We have not had any complaints so far this morning.",
+      "why": "So far this morning reaches the present; the present perfect is appropriate while the morning is still in progress."
+    }
+  ],
+  "studyTips": [
+    "Use two separate prompts when speaking: “Have you ever ...?” for lifetime experience and “How many ... so far?” for an unfinished interval.",
+    "Check whether a time phrase is still open. “This week” can extend to now, but “last week” is finished.",
+    "Practise the first-time pattern by moving the number: first time I have tried, second time I have tried, third time I have tried."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "I don’t know whether I would enjoy scuba diving because I ___ it before.",
+      "choices": [
+        "never try",
+        "have never tried",
+        "have never try"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker is talking about a lifetime experience that has not happened up to now: have never tried."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "This is the third time Felix ___ his access card this week.",
+      "choices": [
+        "has misplaced",
+        "misplaces",
+        "have misplaced"
+      ],
+      "answerIndex": 0,
+      "feedback": "After “This is the third time”, use has plus the past participle misplaced with singular Felix."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "It is only eleven o’clock, and we ___ five calls so far this morning.",
+      "choices": [
+        "made",
+        "have make",
+        "have made"
+      ],
+      "answerIndex": 2,
+      "feedback": "The morning has not finished, so have made reports a count up to the present."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Of all the performances I have attended, that was the most moving one I ___ .",
+      "choices": [
+        "have ever see",
+        "have ever seen",
+        "have ever saw"
+      ],
+      "answerIndex": 1,
+      "feedback": "The comparison covers all experiences up to now: have ever + past participle seen."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "___ (you / ever / give) a presentation in another language? Write the opening four-word question phrase.",
+      "acceptedAnswers": [
+        "Have you ever given"
+      ],
+      "feedback": "Use Have you ever given to ask about an experience at any point in life."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "No, I ___ (never / meet) a professional astronaut. Write the present-perfect verb phrase.",
+      "acceptedAnswers": [
+        "have never met"
+      ],
+      "feedback": "Never belongs after have and before the past participle met."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We ___ (not / have) any serious delays so far this week. Write the present-perfect negative verb phrase.",
+      "acceptedAnswers": [
+        "haven’t had",
+        "have not had"
+      ],
+      "feedback": "So far this week refers to an unfinished interval; use haven’t had or have not had."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "This is the first time Priya ___ (lead) a training workshop. Write the present-perfect verb phrase.",
+      "acceptedAnswers": [
+        "has led"
+      ],
+      "feedback": "The first-time construction uses has led: has + irregular participle led."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Have you ever ate Vietnamese food?",
+      "acceptedAnswers": [
+        "Have you ever eaten Vietnamese food?"
+      ],
+      "feedback": "Eaten, not ate, is the past participle after Have you ever."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: This is the second time he forgets his ticket this month.",
+      "acceptedAnswers": [
+        "This is the second time he has forgotten his ticket this month.",
+        "This is the second time he’s forgotten his ticket this month."
+      ],
+      "feedback": "Use has forgotten in a clause following “This is the second time”."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We have never went hiking in the mountains.",
+      "acceptedAnswers": [
+        "We have never gone hiking in the mountains.",
+        "We’ve never gone hiking in the mountains."
+      ],
+      "feedback": "Gone, not went, is the participle following have never."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I didn’t speak to Julia so far today.",
+      "acceptedAnswers": [
+        "I haven’t spoken to Julia so far today.",
+        "I have not spoken to Julia so far today."
+      ],
+      "feedback": "So far today defines an unfinished period; use the present perfect have not spoken."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Ask a complete question about Lea’s life experience. Facts: Lea / ever / visit / Scotland? Begin with “Has Lea”.",
+      "acceptedAnswers": [
+        "Has Lea ever visited Scotland?"
+      ],
+      "feedback": "Has Lea ever visited asks whether the experience has happened at any point up to now."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say you have no experience of working on a ship. Begin with “I” and use “have never worked on a ship”.",
+      "acceptedAnswers": [
+        "I have never worked on a ship.",
+        "I’ve never worked on a ship."
+      ],
+      "feedback": "Never belongs between have and the participle worked."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Report this unfinished-period total in one complete sentence. Facts: so far this morning / the team / receive / six messages. Begin with “The team” and end with “so far this morning”.",
+      "acceptedAnswers": [
+        "The team has received six messages so far this morning."
+      ],
+      "feedback": "Has received gives a count of completed events in a period that is still continuing."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Describe a superlative experience. Facts: this / the most impressive show / she / ever / see. Begin with “It is” and use the present perfect.",
+      "acceptedAnswers": [
+        "It is the most impressive show she has ever seen."
+      ],
+      "feedback": "Has ever seen compares this show with all the shows in her experience."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Omar is on a ferry now and has never been on one before. Make one sentence beginning “This is the first time” and ending “a ferry”.",
+      "acceptedAnswers": [
+        "This is the first time Omar has been on a ferry."
+      ],
+      "feedback": "After “the first time”, use has been on to describe the current first experience."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your team has changed the meeting time twice during the current week, including the change just made. Make one sentence beginning “This is the second time we” and ending “this week”.",
+      "acceptedAnswers": [
+        "This is the second time we have changed the meeting time this week.",
+        "This is the second time we’ve changed the meeting time this week."
+      ],
+      "feedback": "The second-time expression takes have changed in its subordinate clause."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct only the irregular verb form and say the complete question: “Have you ever drove a van?”",
+      "acceptedAnswers": [
+        "Have you ever driven a van?"
+      ],
+      "feedback": "The participle driven follows have; drove is the past-simple form."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences using full forms. First state that you have never ridden a scooter. Then state that your sister has ridden one twice. Begin with “I” and then “My sister”.",
+      "acceptedAnswers": [
+        "I have never ridden a scooter. My sister has ridden one twice."
+      ],
+      "feedback": "The two sentences contrast no lifetime experience with two completed lifetime experiences."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "prompt": "Who has experience of rock climbing?",
+      "choices": [
+        "Only the speaker",
+        "Only the cousin",
+        "Neither person"
+      ],
+      "answerIndex": 1,
+      "feedback": "Never tried rules out experience for the speaker; has done it several times confirms the cousin’s experience.",
+      "audioText": "I have never tried rock climbing, but my cousin has done it several times."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "prompt": "How many times has the doorbell failed this year, including now?",
+      "choices": [
+        "Four",
+        "Three",
+        "Five"
+      ],
+      "answerIndex": 0,
+      "feedback": "Fourth time counts the present failure as the fourth occurrence.",
+      "audioText": "This is the fourth time our doorbell has stopped working this year."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "prompt": "Type the three-word verb phrase immediately after “Dalia”.",
+      "acceptedAnswers": [
+        "has never ridden"
+      ],
+      "feedback": "Has never ridden reports an experience that has not occurred up to now.",
+      "audioText": "Dalia has never ridden a motorbike, although she can drive a car."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "prompt": "What does the speaker report about the current week?",
+      "choices": [
+        "Eight interviews will take place next month.",
+        "All interviews were cancelled.",
+        "Eight interviews have already happened."
+      ],
+      "answerIndex": 2,
+      "feedback": "The present perfect counts completed interviews during an unfinished week.",
+      "audioText": "It is only Tuesday, and we have already interviewed eight applicants this week."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "prompt": "Which place has the speaker never visited?",
+      "choices": [
+        "Kyoto",
+        "Osaka",
+        "Both cities"
+      ],
+      "answerIndex": 1,
+      "feedback": "The past visit to Kyoto contrasts with the lifetime negative never been to Osaka.",
+      "audioText": "I visited Kyoto during my holiday three years ago, but I have never been to Osaka."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "prompt": "How does the speaker rate this documentary?",
+      "choices": [
+        "Worse than most others",
+        "As the best among their viewing experiences",
+        "As the first one they have ever watched"
+      ],
+      "answerIndex": 1,
+      "feedback": "Best ... have ever watched compares it favourably with the speaker’s past viewing experiences.",
+      "audioText": "This is the best documentary I have ever watched, and I have seen quite a few."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "prompt": "Type the two-word present-perfect verb phrase immediately after “The organisers”.",
+      "acceptedAnswers": [
+        "have received"
+      ],
+      "feedback": "Have received counts completed registrations within the month so far.",
+      "audioText": "The organisers have received twelve registrations so far this month."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "prompt": "Type the two-word present-perfect verb phrase immediately after “Priya”.",
+      "acceptedAnswers": [
+        "has spoken"
+      ],
+      "feedback": "Has spoken follows the first-time structure; spoken is the past participle of speak.",
+      "audioText": "This is the first time Priya has spoken on stage."
+    }
+  ]
+}

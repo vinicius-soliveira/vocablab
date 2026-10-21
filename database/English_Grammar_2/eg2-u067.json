@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u067",
+  "title": "See and Hear Someone Do or Doing",
+  "level": "B2",
+  "topicId": "eg2-u067-perception-verbs-bare-infinitive-ing",
+  "summary": "Choose the bare infinitive or -ing after verbs of perception to distinguish witnessing an event as a whole from noticing an action in progress. Use appropriate patterns with see, hear, watch, listen to, feel, smell and find.",
+  "learningObjectives": [
+    "Use object + bare infinitive after perception verbs when reporting a complete event.",
+    "Use object + -ing to report a scene or action already in progress.",
+    "Recognise which perception verbs commonly allow both patterns and which naturally take -ing in the contexts taught.",
+    "Describe what was seen, heard, felt, smelt or found without inserting to before a bare infinitive."
+  ],
+  "explanation": [
+    {
+      "heading": "Object + bare infinitive for a witnessed event",
+      "body": "After see, hear, watch, listen to and feel, use an object followed by the verb without to when you present an event as a whole. This often means that you experienced its occurrence or observed it from beginning to end. The infinitive is bare: saw her leave, not saw her to leave.",
+      "example": "I watched the caretaker unlock the gate and let the visitors in."
+    },
+    {
+      "heading": "Object + -ing for something in progress",
+      "body": "Use an object followed by -ing when you notice or observe something while it is happening. Your attention is on the ongoing action at the moment of perception; you are not saying that you followed its beginning and end.",
+      "example": "As we passed the court, we saw a group of students practising volleyball."
+    },
+    {
+      "heading": "The viewpoint can change without changing the event",
+      "body": "Both forms can describe a real event, but they frame the observer’s experience differently. The bare infinitive presents the event as a whole; -ing places the observer inside the unfolding action. In some everyday contexts the difference is small, so do not force a distinction the sentence does not support.",
+      "example": "I heard the bell ring once; later, I heard it ringing while I was upstairs."
+    },
+    {
+      "heading": "Choose the pattern for the perception verb",
+      "body": "See, watch, hear, listen to and feel can take object + bare infinitive or object + -ing. In the patterns covered here, smell and find most naturally take object + -ing when reporting an action already underway. The object identifies who or what performs that action.",
+      "example": "When I opened the cupboard, I could smell something burning."
+    },
+    {
+      "heading": "Keep to out of the bare infinitive",
+      "body": "The object follows the perception verb directly, with no to before a bare infinitive: heard the door click, watched the machine stop. With -ing, the object still comes before the participle: noticed a child drawing. The past tense of saw or heard does not change the non-finite verb form that follows the object.",
+      "example": "We listened to the guitarist play the whole piece without stopping."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Whole event versus action in progress",
+      "left": {
+        "label": "Bare infinitive: complete viewpoint",
+        "example": "I watched Karim attach the label to the box.",
+        "note": "The speaker presents the attachment as a complete observed action."
+      },
+      "right": {
+        "label": "-ing: ongoing viewpoint",
+        "example": "I saw Karim attaching labels when I entered.",
+        "note": "The speaker noticed Karim in the middle of the task."
+      }
+    },
+    {
+      "title": "Perception verb with a bare infinitive or -ing",
+      "left": {
+        "label": "Hear + bare infinitive",
+        "example": "We heard the glass break.",
+        "note": "Break is a single event that the listeners heard occur."
+      },
+      "right": {
+        "label": "Hear + -ing",
+        "example": "We could hear water dripping in the kitchen.",
+        "note": "Dripping is an ongoing sound when the listeners notice it."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The audience watched the acrobat land safely on the platform.",
+      "note": "Land is a complete event observed by the audience; no to is used."
+    },
+    {
+      "sentence": "We noticed two painters working above the entrance.",
+      "note": "Working presents the painters in the middle of an activity."
+    },
+    {
+      "sentence": "I heard the elevator doors close before I reached the lobby.",
+      "note": "Close is the event heard, not a to-infinitive."
+    },
+    {
+      "sentence": "The receptionist found a visitor waiting beside the lift.",
+      "note": "Find + object + -ing reports the state of a scene when discovered."
+    },
+    {
+      "sentence": "Through the wall, I could hear a baby laughing.",
+      "note": "Laughing presents a sound continuing at the time of perception."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I watched the pilot to start the engine.",
+      "correct": "I watched the pilot start the engine.",
+      "why": "After watched + object, use a bare infinitive rather than to + infinitive when presenting the complete event."
+    },
+    {
+      "incorrect": "When I entered, I found my friends cook dinner.",
+      "correct": "When I entered, I found my friends cooking dinner.",
+      "why": "Find + object + -ing describes the action already underway at the moment of discovery."
+    },
+    {
+      "incorrect": "I heard someone was shout behind the door.",
+      "correct": "I heard someone shout behind the door.",
+      "why": "The object someone is followed directly by the bare infinitive shout when reporting a heard event."
+    },
+    {
+      "incorrect": "We could smell the bread bake in the oven.",
+      "correct": "We could smell the bread baking in the oven.",
+      "why": "The natural pattern for detecting an ongoing smell is smell + object + -ing."
+    }
+  ],
+  "studyTips": [
+    "First ask whether the speaker experienced the entire event or encountered it in progress; then choose do or doing.",
+    "Practise minimal pairs aloud: I saw Alex open the box / I saw Alex opening the box, and explain the change in viewpoint.",
+    "Underline the object in each perception sentence and check that a bare infinitive has no to; remember find and smell + -ing for ongoing scenes."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "I stayed until the end and watched the engineer ___ the final switch before leaving the room.",
+      "choices": [
+        "press",
+        "pressed",
+        "to press"
+      ],
+      "answerIndex": 0,
+      "feedback": "Watched + object + bare infinitive presents the switch being pressed as a whole event; pressed and to press cannot follow the object in this construction."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "When the supervisor opened the workshop, she found the apprentices ___ at their benches.",
+      "choices": [
+        "to work",
+        "working",
+        "work"
+      ],
+      "answerIndex": 1,
+      "feedback": "Find + object + -ing reports an activity already in progress when the supervisor entered."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "As we walked through the corridor, we could smell something ___ inside the kitchen.",
+      "choices": [
+        "burn",
+        "to burn",
+        "burning"
+      ],
+      "answerIndex": 2,
+      "feedback": "Smell + object + -ing naturally describes an odour produced by an ongoing action."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "We listened to the singer ___ the entire song, from the first note to the last.",
+      "choices": [
+        "perform",
+        "to perform",
+        "performed"
+      ],
+      "answerIndex": 0,
+      "feedback": "Listen to + object + bare infinitive presents the complete performance; do not insert another to before perform."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "I watched Noor ___ (fold) the map completely, then place it in her bag. Write the bare infinitive.",
+      "acceptedAnswers": [
+        "fold"
+      ],
+      "feedback": "After watched + object, fold is a bare infinitive that presents the completed action."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "When I entered the office, I saw Lena ___ (sort) the post. Write the -ing form to describe the ongoing task.",
+      "acceptedAnswers": [
+        "sorting"
+      ],
+      "feedback": "Sorting presents the action that was already underway when the speaker arrived."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "From the hallway, we could hear someone ___ (laugh). Write the -ing form for a sound in progress.",
+      "acceptedAnswers": [
+        "laughing"
+      ],
+      "feedback": "Hear + object + laughing focuses on a continuing sound."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "I felt the train ___ (stop) completely at the platform. Write the bare infinitive.",
+      "acceptedAnswers": [
+        "stop"
+      ],
+      "feedback": "Feel + object + bare infinitive can present the train coming to a full stop as one event."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the unwanted word only: We watched the guard to raise the barrier.",
+      "acceptedAnswers": [
+        "We watched the guard raise the barrier."
+      ],
+      "feedback": "A bare infinitive after watched + object has no to."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the verb form after “the children”: I found the children play in the courtyard when I arrived.",
+      "acceptedAnswers": [
+        "I found the children playing in the courtyard when I arrived."
+      ],
+      "feedback": "Found + object + -ing describes an activity already happening when the speaker arrived."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the misplaced “to” only: I heard to someone call my name.",
+      "acceptedAnswers": [
+        "I heard someone call my name."
+      ],
+      "feedback": "Heard takes its object someone directly before the bare infinitive call."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct only the form of rehearse; use -ing to describe an action in progress: She watched the dancers rehearsed from the doorway.",
+      "acceptedAnswers": [
+        "She watched the dancers rehearsing from the doorway."
+      ],
+      "feedback": "Watched + object + rehearsing focuses on the ongoing rehearsal, not a past-tense verb after the object."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "You saw the complete action. Say this exact idea in one sentence: Mei / close / the window. Begin “I saw Mei” and use the bare infinitive.",
+      "acceptedAnswers": [
+        "I saw Mei close the window."
+      ],
+      "feedback": "Saw Mei close reports the complete action using a bare infinitive."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "You entered while a task was happening. Begin “I saw Amir” and finish with “painting the gate”. Give one complete sentence.",
+      "acceptedAnswers": [
+        "I saw Amir painting the gate."
+      ],
+      "feedback": "Painting describes the action already underway when you noticed it."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "You heard the alarm sound two times as complete events. Begin “I heard the alarm” and use “ring twice”.",
+      "acceptedAnswers": [
+        "I heard the alarm ring twice."
+      ],
+      "feedback": "Ring follows the object without to and presents the two rings as events."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The smell came from bread still cooking. Begin “We could smell bread” and end “in the oven”. Use bake in the -ing form.",
+      "acceptedAnswers": [
+        "We could smell bread baking in the oven."
+      ],
+      "feedback": "Smell + object + baking is natural for the ongoing source of an odour."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Transform this idea into one sentence, keeping the same facts: “When I arrived, the children were building a fort, and I found them.” Begin “I found the children” and end “a fort”.",
+      "acceptedAnswers": [
+        "I found the children building a fort."
+      ],
+      "feedback": "Found + object + -ing describes what was happening when you arrived."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You listened to the musician play the piece from beginning to end. Use one sentence beginning “We listened to the musician”, and end with “the whole piece”.",
+      "acceptedAnswers": [
+        "We listened to the musician play the whole piece."
+      ],
+      "feedback": "Listen to + object + bare infinitive presents the full performance."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences using these facts. First: “I saw Ben” + turn off the lamp (complete event). Second: “Later, I saw him” + read by candlelight (action in progress).",
+      "acceptedAnswers": [
+        "I saw Ben turn off the lamp. Later, I saw him reading by candlelight."
+      ],
+      "feedback": "Turn off presents a complete event; reading presents a later ongoing activity."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Report one brief sound you noticed during an ongoing activity. Say exactly “I could hear” + “the neighbours” + “talking outside” as one sentence.",
+      "acceptedAnswers": [
+        "I could hear the neighbours talking outside."
+      ],
+      "feedback": "Talking gives the ongoing sound rather than its beginning or end."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I watched the electrician connect the final cable, and the display lit up immediately.",
+      "prompt": "What did the speaker observe?",
+      "choices": [
+        "A complete cable connection followed by an active display.",
+        "An electrician looking for a missing cable.",
+        "A display being switched off for repairs."
+      ],
+      "answerIndex": 0,
+      "feedback": "Connect presents the event as a whole, and the display turning on is the result mentioned."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "As I passed the studio, I saw two dancers practising, but I did not stay to watch.",
+      "prompt": "How much of the rehearsal did the speaker observe?",
+      "choices": [
+        "The entire performance from start to finish.",
+        "An activity in progress while passing.",
+        "Only the dancers leaving the studio."
+      ],
+      "answerIndex": 1,
+      "feedback": "Saw ... practising reports a scene in progress; the speaker did not stay until the end."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "As I walked past the bakery, I could smell cinnamon rolls baking inside.",
+      "prompt": "Type the single -ing word heard immediately after “cinnamon rolls”.",
+      "acceptedAnswers": [
+        "baking"
+      ],
+      "feedback": "Baking is the audible -ing form describing what produced the smell."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I did not hear Iris unlock the door, but I saw her walk into the room.",
+      "prompt": "Which event did the speaker actually see?",
+      "choices": [
+        "Iris unlocking a door.",
+        "Iris standing outside all morning.",
+        "Iris entering the room."
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker did not hear the unlocking but did see Iris walk into the room."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "After looking for an hour, we found our puppy sleeping underneath the bookshelf.",
+      "prompt": "What was the puppy doing when it was discovered?",
+      "choices": [
+        "It was sleeping.",
+        "It was eating.",
+        "It was following the searchers."
+      ],
+      "answerIndex": 0,
+      "feedback": "Found ... sleeping describes the puppy’s ongoing state when discovered."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I heard a bottle smash on the kitchen floor, although I did not see it fall.",
+      "prompt": "What does the speaker know from hearing rather than seeing?",
+      "choices": [
+        "The bottle was caught before it fell.",
+        "A bottle broke on the floor.",
+        "Someone placed a bottle carefully on a shelf."
+      ],
+      "answerIndex": 1,
+      "feedback": "Heard a bottle smash reports the sound of a complete breaking event, not a sight."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "From the corridor, we could hear the choir practising for the concert.",
+      "prompt": "Type the single -ing word immediately after “the choir”.",
+      "acceptedAnswers": [
+        "practising",
+        "practicing"
+      ],
+      "feedback": "The recording uses practising, the ongoing sound the listeners could hear; practicing is an accepted spelling variant."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "From the doorway, I could see tiny drops of rain running down the glass.",
+      "prompt": "Type the single -ing word immediately after “rain”.",
+      "acceptedAnswers": [
+        "running"
+      ],
+      "feedback": "Running reports the movement continuing when it was seen."
+    }
+  ]
+}

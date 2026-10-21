@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u080",
+  "title": "Compound nouns: meaning, order and measurement",
+  "level": "B2",
+  "topicId": "eg2-u080-compound-nouns-measurement",
+  "summary": "Build noun compounds in which an earlier noun describes the main noun, interpret longer chains and -ing forms, and distinguish an object intended for something from a container holding it. Use singular modifiers and hyphenated measurements before nouns.",
+  "learningObjectives": [
+    "Form common noun + noun compounds and identify which final noun names the main person, object or place.",
+    "Interpret longer noun chains and established compounds containing -ing.",
+    "Distinguish a purpose-based compound, such as a tea cup, from an of-phrase describing its contents.",
+    "Use singular noun modifiers and singular, hyphenated measurement expressions such as a six-day project."
+  ],
+  "explanation": [
+    {
+      "heading": "The head noun and the describing noun",
+      "body": "In a noun compound, the last noun is normally the head: it names the person, thing or place. Earlier nouns give a type, purpose, material, subject or connection. A garden chair is a chair for a garden, and a customer survey is a survey involving customers. Many compounds can be understood from the relationship between the words, but the intended relationship also depends on context.",
+      "example": "The café installed a new water filter beside the sink."
+    },
+    {
+      "heading": "Longer chains and -ing modifiers",
+      "body": "Compounds may contain three or more nouns, especially in work and service contexts. Read them from the last noun backwards: a visitor parking permit is a permit for visitor parking. Some fixed modifiers end in -ing, as in a training room, a parking space or a cooking lesson. The -ing form here helps name the type or purpose of the head noun.",
+      "example": "The supervisor signed the factory safety inspection report."
+    },
+    {
+      "heading": "Spelling compounds",
+      "body": "English uses solid compounds, open compounds and sometimes hyphenated compounds. For example, notebook is one word, bus stop is two, and a well-known type may use a hyphen. There is no reliable rule that predicts every compound spelling. Check a dictionary for established words, and avoid joining two nouns just because they form one idea.",
+      "example": "Our visitor left a notebook on the bus stop bench."
+    },
+    {
+      "heading": "Purpose versus actual contents",
+      "body": "A compound can describe what an item is intended for, even if it is empty. A tea cup is the kind of cup used for tea; a cup of tea tells us that the cup contains tea. Likewise, a shopping basket may be empty, while a basket of groceries contains purchased food or other items. When you need to state actual contents, an of-phrase is often clearer.",
+      "example": "The empty tea cup stood next to a full cup of hot chocolate."
+    },
+    {
+      "heading": "Singular modifiers and measured descriptions",
+      "body": "An attributive noun before a second noun is usually singular even when the meaning involves several items: a ticket machine sells tickets, and a book shelf can hold many books. The same pattern appears in measurements used before a noun, often with a hyphen: a six-day conference, a twenty-minute walk. After the noun, use an ordinary plural measure: the conference lasts six days. Some established compounds are exceptions to the singular-modifier tendency.",
+      "example": "Our team finished a five-day workshop that required five days of attendance."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "An object type versus what is inside it",
+      "left": {
+        "label": "Purpose or type",
+        "example": "The tea cup is empty.",
+        "note": "Tea cup names the kind of cup, without saying it contains tea."
+      },
+      "right": {
+        "label": "Actual contents",
+        "example": "There is a cup of tea on the table.",
+        "note": "A cup of tea refers to a quantity of tea in a cup."
+      }
+    },
+    {
+      "title": "Measurement before a noun versus after a verb",
+      "left": {
+        "label": "Before a noun",
+        "example": "She booked a six-hour workshop.",
+        "note": "Hour stays singular in the hyphenated modifier six-hour."
+      },
+      "right": {
+        "label": "Following a verb",
+        "example": "The workshop lasted six hours.",
+        "note": "The unit hours is plural when giving the duration directly."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The tourist information desk is beside the main entrance.",
+      "note": "Desk is the head noun; tourist information describes its purpose."
+    },
+    {
+      "sentence": "She left the lunch box empty on the kitchen counter.",
+      "note": "A lunch box is intended to hold lunch even when empty."
+    },
+    {
+      "sentence": "The reception team reviewed the staff training schedule.",
+      "note": "Schedule is the head noun of a three-noun chain."
+    },
+    {
+      "sentence": "A swimming lesson is scheduled for Thursday.",
+      "note": "Swimming functions as an -ing modifier that describes the lesson."
+    },
+    {
+      "sentence": "It was a nine-hour bus journey, although the journey felt shorter.",
+      "note": "Nine-hour is a singular hyphenated modifier before journey."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The museum has installed a new tickets machine.",
+      "correct": "The museum has installed a new ticket machine.",
+      "why": "Use the normally singular modifier ticket before machine."
+    },
+    {
+      "incorrect": "We booked a four days workshop for the volunteers.",
+      "correct": "We booked a four-day workshop for the volunteers.",
+      "why": "A compound duration before a noun uses a singular unit with a hyphen."
+    },
+    {
+      "incorrect": "She works for a company travel in the city centre.",
+      "correct": "She works for a travel company in the city centre.",
+      "why": "The describing noun travel comes before the head noun company."
+    },
+    {
+      "incorrect": "The repair took three-hour to complete.",
+      "correct": "The repair took three hours to complete.",
+      "why": "After a verb, a measured duration uses the plural noun hours rather than a hyphenated modifier."
+    }
+  ],
+  "studyTips": [
+    "Read a chain backwards from its final head noun: safety inspection report is a report about a safety inspection.",
+    "Ask whether the first noun expresses an intended purpose or whether an of-phrase is needed for actual contents.",
+    "Contrast a ten-minute break with the break lasts ten minutes to practise singular modifiers and plural amounts."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The container is empty, but it was made for carrying sandwiches. It is a ___.",
+      "choices": [
+        "sandwich box",
+        "box of sandwiches",
+        "sandwiches box"
+      ],
+      "answerIndex": 0,
+      "feedback": "A sandwich box names the intended type of container, even when it is empty."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "A report describing staff training is a ___.",
+      "choices": [
+        "training staff report",
+        "staff training report",
+        "staff report training"
+      ],
+      "answerIndex": 1,
+      "feedback": "The head noun is report; staff training identifies its subject."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "We registered for a ___ conference that runs from Monday to Thursday.",
+      "choices": [
+        "four days",
+        "four days’",
+        "four-day"
+      ],
+      "answerIndex": 2,
+      "feedback": "Before the noun conference, use the singular, hyphenated duration four-day."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The new ___ is large enough for two cars, but only one space is currently occupied.",
+      "choices": [
+        "parking cars area",
+        "cars parking area",
+        "car parking area"
+      ],
+      "answerIndex": 2,
+      "feedback": "Car parking area identifies a place used for parking cars; car is the usual singular noun modifier."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The train company installed a new ___ near the entrance. (Combine ticket + machine, in that order.)",
+      "acceptedAnswers": [
+        "ticket machine"
+      ],
+      "feedback": "Ticket is the singular modifier of machine."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The manager asked us to review the ___ before Friday. (Combine safety + inspection + report in that order.)",
+      "acceptedAnswers": [
+        "safety inspection report"
+      ],
+      "feedback": "Report is the final head noun, modified by safety inspection."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "It is a ___ training programme for new employees. (Change six weeks into one hyphenated modifier.)",
+      "acceptedAnswers": [
+        "six-week"
+      ],
+      "feedback": "Use a singular measurement unit and a hyphen before another noun."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "I left my tea in a ___ beside the kettle. (Combine tea + cup as an object type; do not use an of-phrase.)",
+      "acceptedAnswers": [
+        "tea cup"
+      ],
+      "feedback": "Tea cup names the type of cup, while a cup of tea would describe its contents."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The airport has installed two new passports scanners.",
+      "acceptedAnswers": [
+        "The airport has installed two new passport scanners."
+      ],
+      "feedback": "Passport is the normally singular noun modifier of scanners."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Maya joined a six weeks internship in June.",
+      "acceptedAnswers": [
+        "Maya joined a six-week internship in June."
+      ],
+      "feedback": "A measurement modifier before internship uses six-week, not six weeks."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Our guests waited at the reception hotel desk.",
+      "acceptedAnswers": [
+        "Our guests waited at the hotel reception desk."
+      ],
+      "feedback": "The noun chain is ordered hotel reception desk: desk is the head noun."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The guided tour lasts two-hour.",
+      "acceptedAnswers": [
+        "The guided tour lasts two hours."
+      ],
+      "feedback": "A duration after lasts uses plural hours, without a hyphen."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Name this kind of item in a complete sentence: a bag designed for carrying laptops, even when empty. Begin with “This is” and use “laptop bag”.",
+      "acceptedAnswers": [
+        "This is a laptop bag."
+      ],
+      "feedback": "Laptop specifies the bag’s purpose; it does not say there is a laptop inside."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "The bottle is empty but designed to carry water. Say one sentence using: the water bottle / be / empty. Use the present simple.",
+      "acceptedAnswers": [
+        "The water bottle is empty."
+      ],
+      "feedback": "Water bottle names the intended use; the bottle can still be empty."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "A customer asks what you purchased this morning. Use the exact words “train ticket” in a full sentence beginning “I bought” and ending “this morning”.",
+      "acceptedAnswers": [
+        "I bought a train ticket this morning."
+      ],
+      "feedback": "Train modifies the head noun ticket."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Correct the duration modifier and say the complete sentence: “We have a two hours meeting today.”",
+      "acceptedAnswers": [
+        "We have a two-hour meeting today."
+      ],
+      "feedback": "Two-hour is the correct modifier before meeting."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "State this need in one sentence: we; need; a garden chair; for the patio. Use the present simple.",
+      "acceptedAnswers": [
+        "We need a garden chair for the patio."
+      ],
+      "feedback": "Garden is a noun modifier describing the type of chair."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Give a precise location using this three-noun phrase: the hotel reception desk. Say “The keys are at” followed by that phrase.",
+      "acceptedAnswers": [
+        "The keys are at the hotel reception desk."
+      ],
+      "feedback": "The final word desk is the head noun of the compound."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Produce exactly two sentences with these facts: the internship lasts six weeks; it is a six-week internship. Use the exact wording given, and begin the second sentence with “It”.",
+      "acceptedAnswers": [
+        "The internship lasts six weeks. It is a six-week internship.",
+        "The internship lasts six weeks. It’s a six-week internship."
+      ],
+      "feedback": "Six weeks is a duration after lasts; six-week is a singular modifier before internship."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "An empty cup is intended for coffee. Say one complete sentence beginning “The coffee cup” and ending “empty”.",
+      "acceptedAnswers": [
+        "The coffee cup is empty."
+      ],
+      "feedback": "Coffee cup names its usual purpose, not its current contents."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The technician ordered a new coffee machine, but the delivery included no coffee at all.",
+      "prompt": "What was delivered without its usual contents?",
+      "choices": [
+        "A coffee machine.",
+        "A cup of coffee.",
+        "Several bags of beans."
+      ],
+      "answerIndex": 0,
+      "feedback": "A coffee machine is equipment; the sentence explicitly says no coffee was included."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "At reception, the clerk directed us to the luggage storage room rather than the meeting room.",
+      "prompt": "Where should the travellers take their bags?",
+      "choices": [
+        "To the meeting room.",
+        "To the luggage storage room.",
+        "To the restaurant."
+      ],
+      "answerIndex": 1,
+      "feedback": "The luggage storage room is the room intended for holding bags."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "They booked a six-hour workshop for the new employees.",
+      "prompt": "Type the two-word modifier and head noun immediately after “a”.",
+      "acceptedAnswers": [
+        "six-hour workshop"
+      ],
+      "feedback": "Six-hour remains singular before the noun workshop."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The tea cup was empty, but the cup of peppermint tea beside it was still warm.",
+      "prompt": "Which cup actually contained a drink?",
+      "choices": [
+        "The empty tea cup.",
+        "Neither cup.",
+        "The cup of peppermint tea."
+      ],
+      "answerIndex": 2,
+      "feedback": "A cup of peppermint tea describes a drink inside; tea cup only describes an item type."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Before the interview, Anika reviewed the staff training programme, not the customer satisfaction survey.",
+      "prompt": "Which document did Anika review?",
+      "choices": [
+        "The staff training programme.",
+        "The customer satisfaction survey.",
+        "The interview timetable."
+      ],
+      "answerIndex": 0,
+      "feedback": "The staff training programme, rather than the survey, was reviewed."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The updated factory safety inspection report is finished, but the actual inspection starts on Friday.",
+      "prompt": "What has already been completed?",
+      "choices": [
+        "The factory inspection.",
+        "The written inspection report.",
+        "The repairs to the factory."
+      ],
+      "answerIndex": 1,
+      "feedback": "The report is finished; the inspection itself is scheduled for Friday."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "There is a passport scanner at the boarding gate for checking documents.",
+      "prompt": "Type the two-word noun compound immediately after “a”.",
+      "acceptedAnswers": [
+        "passport scanner"
+      ],
+      "feedback": "Passport modifies the head noun scanner; passport stays singular."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Visitors can collect their visitor parking permit at the main reception desk.",
+      "prompt": "Type the three-word noun compound between “their” and “at”.",
+      "acceptedAnswers": [
+        "visitor parking permit"
+      ],
+      "feedback": "Visitor parking permit is a compound headed by permit."
+    }
+  ]
+}

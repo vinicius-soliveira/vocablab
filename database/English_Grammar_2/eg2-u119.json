@@ -1,0 +1,419 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u119",
+  "title": "During, For and While: Time and Duration",
+  "level": "B1",
+  "topicId": "eg2-u119-during-for-while-time-duration",
+  "summary": "Distinguish when an event happens from how long it lasts. Use during before a noun phrase, for before a length of time, and while before a clause describing a simultaneous activity or situation, including future contexts.",
+  "learningObjectives": [
+    "Choose during with a named event or period to locate something within it.",
+    "Use for with a duration to explain how long an action or state continues.",
+    "Build while-clauses with a subject and verb to link overlapping events.",
+    "Use a present tense after while when referring to future situations."
+  ],
+  "explanation": [
+    {
+      "heading": "During places an event inside a period",
+      "body": "During introduces a noun phrase naming an event or a period. It identifies when something happened between the beginning and end of that event, rather than measuring the length of the action. It can be used with a meeting, journey, ceremony or part of the day.",
+      "example": "A message arrived during the training session."
+    },
+    {
+      "heading": "For measures the length of time",
+      "body": "For introduces a duration such as forty minutes, three days or several months. It answers how long? Use for even if that period was entirely in the past or lies in the future. Do not replace for with during when a numerical span measures duration.",
+      "example": "The rehearsal lasted for ninety minutes."
+    },
+    {
+      "heading": "While introduces an action or situation",
+      "body": "While normally links to a clause with its own subject and verb. It shows that something happened during another action or situation. A past continuous clause is useful when one action interrupts an activity already in progress.",
+      "example": "I checked the directions while my friend was driving."
+    },
+    {
+      "heading": "Use during or while according to the grammar that follows",
+      "body": "During the inspection names an event with a noun; while the engineer inspected the equipment describes the event with a clause. Either can locate another action at the same time, but the words cannot simply exchange places without changing what follows.",
+      "example": "We heard a loud noise while the technician was testing the lift."
+    },
+    {
+      "heading": "A future while-clause normally uses the present",
+      "body": "When the main clause refers to the future, the time clause after while normally uses a present form, even though the event is still ahead. Say while you are away, not while you will be away. With time periods such as the evening or summer, during and in may sometimes both be possible, depending on the expression.",
+      "example": "I will water your balcony plants while you are travelling next week."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Time of an event versus duration",
+      "left": {
+        "label": "During + an event",
+        "example": "The lights dimmed during the performance.",
+        "note": "During locates the change within the performance."
+      },
+      "right": {
+        "label": "For + a duration",
+        "example": "The lights stayed dim for ten minutes.",
+        "note": "For measures how long the situation continued."
+      }
+    },
+    {
+      "title": "Noun phrase versus finite clause",
+      "left": {
+        "label": "During + noun phrase",
+        "example": "There was a power cut during the online lesson.",
+        "note": "The online lesson is the name of an event."
+      },
+      "right": {
+        "label": "While + subject + verb",
+        "example": "There was a power cut while we were studying online.",
+        "note": "We were studying is a complete clause."
+      }
+    },
+    {
+      "title": "Two actions now versus a future time clause",
+      "left": {
+        "label": "Past overlapping actions",
+        "example": "I was cooking while Maya was setting the table.",
+        "note": "Both actions were underway at the same time."
+      },
+      "right": {
+        "label": "Future overlapping actions",
+        "example": "I will cook while Maya sets the table.",
+        "note": "A present tense follows while in this future time clause."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The microphone stopped working during the opening speech.",
+      "note": "During marks the part of the event in which the failure occurred."
+    },
+    {
+      "sentence": "The exhibition remained open for four months.",
+      "note": "For four months specifies its duration."
+    },
+    {
+      "sentence": "I was reading the instructions while my colleague assembled the shelf.",
+      "note": "While introduces a clause describing a concurrent action."
+    },
+    {
+      "sentence": "During the afternoon, several more visitors arrived.",
+      "note": "During can combine with a part-of-day noun phrase."
+    },
+    {
+      "sentence": "You can use my desk while I am at the conference next week.",
+      "note": "A present form follows while despite the future meaning."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "We waited during forty minutes.",
+      "correct": "We waited for forty minutes.",
+      "why": "Forty minutes measures duration, so for is needed."
+    },
+    {
+      "incorrect": "The phone rang while the lecture.",
+      "correct": "The phone rang during the lecture.",
+      "why": "The lecture is a noun phrase; while normally requires a subject and verb."
+    },
+    {
+      "incorrect": "I met Jo during I was shopping.",
+      "correct": "I met Jo while I was shopping.",
+      "why": "I was shopping is a finite clause introduced by while."
+    },
+    {
+      "incorrect": "I will call you while I will be on the train.",
+      "correct": "I will call you while I am on the train.",
+      "why": "Future time clauses after while normally take the present tense."
+    }
+  ],
+  "studyTips": [
+    "Ask whether the expression answers when? or how long? Choose during for an event, but for for a duration.",
+    "Underline the words after a time connector: a noun phrase usually suggests during, while a subject plus verb suggests while.",
+    "Write a future promise containing while and then check that the while-clause does not contain will."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The fire alarm rang ___ the lecture, so everyone went outside.",
+      "choices": [
+        "during",
+        "for",
+        "while"
+      ],
+      "answerIndex": 0,
+      "feedback": "The lecture is a named event, so during locates the alarm within it."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The motorway remained closed ___ six hours after the accident.",
+      "choices": [
+        "during",
+        "while",
+        "for"
+      ],
+      "answerIndex": 2,
+      "feedback": "Six hours expresses how long the closure lasted, so use for."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Please keep your microphone muted ___ the presenter is speaking.",
+      "choices": [
+        "during",
+        "while",
+        "for"
+      ],
+      "answerIndex": 1,
+      "feedback": "The presenter is speaking is a clause with a subject and verb, so use while."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "I will feed your cat while you ___ away next weekend.",
+      "choices": [
+        "will be",
+        "being",
+        "are"
+      ],
+      "answerIndex": 2,
+      "feedback": "After while in a future time clause, use the present: while you are away."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Our neighbours stayed with us ___ . (two nights; write the whole time expression)",
+      "acceptedAnswers": [
+        "for two nights"
+      ],
+      "feedback": "For two nights measures the length of their stay."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The audience remained quiet ___ . (the final scene; name the event)",
+      "acceptedAnswers": [
+        "during the final scene"
+      ],
+      "feedback": "During introduces the noun phrase the final scene."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The lights went off ___ . (we / prepare / dinner; use while and the past continuous)",
+      "acceptedAnswers": [
+        "while we were preparing dinner"
+      ],
+      "feedback": "While connects the interruption to an activity already in progress."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The courier can leave the parcel at reception while ___ . (I / be / at work tomorrow; use the present tense)",
+      "acceptedAnswers": [
+        "I am at work",
+        "I'm at work"
+      ],
+      "feedback": "The future main clause is followed by a present-tense while-clause."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the time connector only, keeping all other words unchanged: The queue moved slowly during two hours.",
+      "acceptedAnswers": [
+        "The queue moved slowly for two hours."
+      ],
+      "feedback": "Use for, not during, before a duration such as two hours."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the time connector only, keeping all other words unchanged: Someone knocked on the door while the film.",
+      "acceptedAnswers": [
+        "Someone knocked on the door during the film."
+      ],
+      "feedback": "The film is a noun phrase; use during before an event."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the time connector only, keeping all other words unchanged: The waiter arrived during we were choosing dessert.",
+      "acceptedAnswers": [
+        "The waiter arrived while we were choosing dessert."
+      ],
+      "feedback": "We were choosing dessert is a subject-and-verb clause, so it follows while."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the auxiliary in the while-clause only, keeping visiting and all other words unchanged: I will send you the photos while I will be visiting my parents next week.",
+      "acceptedAnswers": [
+        "I will send you the photos while I am visiting my parents next week.",
+        "I will send you the photos while I'm visiting my parents next week."
+      ],
+      "feedback": "Use the present continuous in the future time clause after while, rather than will be visiting."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one complete sentence from these facts: the repairs / last / for three weeks. Use the past simple.",
+      "acceptedAnswers": [
+        "The repairs lasted for three weeks."
+      ],
+      "feedback": "For three weeks measures the length of the repairs."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "A phone interrupted the concert. State when it rang. Begin with \"A phone rang\" and end with \"during the concert\".",
+      "acceptedAnswers": [
+        "A phone rang during the concert."
+      ],
+      "feedback": "During identifies the event in which the ringing occurred."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Combine these facts in one sentence: the lights went out; we were cooking dinner. Begin with \"The lights went out\" and use while.",
+      "acceptedAnswers": [
+        "The lights went out while we were cooking dinner."
+      ],
+      "feedback": "While introduces the activity already underway."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Correct the connector and say the whole sentence without changing any other words: \"We talked while the lunch break.\"",
+      "acceptedAnswers": [
+        "We talked during the lunch break."
+      ],
+      "feedback": "The lunch break is a noun phrase; it follows during."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Rephrase these facts using a while-clause: I was editing the file; Dan checked the figures at the same time. Start with \"Dan checked\" and use the exact phrase \"while I was editing the file\".",
+      "acceptedAnswers": [
+        "Dan checked the figures while I was editing the file."
+      ],
+      "feedback": "While links two actions that were happening together."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You are going away tomorrow. Tell a friend: I will answer messages; you are travelling. Begin \"I will answer messages\" and use \"while I am travelling\".",
+      "acceptedAnswers": [
+        "I will answer messages while I am travelling."
+      ],
+      "feedback": "The while-clause uses am travelling, not will be travelling."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Produce exactly two sentences using these facts in order. First: The gallery was crowded during the exhibition. Second: We waited for an hour. Do not add other information.",
+      "acceptedAnswers": [
+        "The gallery was crowded during the exhibition. We waited for an hour."
+      ],
+      "feedback": "During locates a situation within the exhibition; for an hour measures waiting time."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "A friend asks what happened when the taxi arrived. Say one complete sentence from these facts: the taxi arrived; I was packing my bag. Begin \"The taxi arrived\" and use while.",
+      "acceptedAnswers": [
+        "The taxi arrived while I was packing my bag."
+      ],
+      "feedback": "While introduces the unfinished activity in progress when the taxi arrived."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The fire alarm sounded during the dress rehearsal, but the performers returned to the stage a few minutes later.",
+      "prompt": "When did the alarm sound?",
+      "choices": [
+        "Before the rehearsal began.",
+        "In the middle of the rehearsal.",
+        "After the performers left the theatre."
+      ],
+      "answerIndex": 1,
+      "feedback": "During the dress rehearsal places the alarm inside the rehearsal, before the performers returned."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We stayed at the mountain lodge for four nights, but the heavy snowfall lasted only one night.",
+      "prompt": "How long did the guests stay at the lodge?",
+      "choices": [
+        "One night.",
+        "A full week.",
+        "Four nights."
+      ],
+      "answerIndex": 2,
+      "feedback": "For four nights measures their stay, which was longer than the snowfall."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The technician worked on the broken lift for half an hour before it started moving again.",
+      "prompt": "Type the four-word duration expression immediately after \"lift\".",
+      "acceptedAnswers": [
+        "for half an hour"
+      ],
+      "feedback": "For half an hour measures the length of the repair work."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "While I was printing our train tickets, the office printer ran out of paper and stopped.",
+      "prompt": "What was the speaker doing when the printer stopped?",
+      "choices": [
+        "Printing tickets.",
+        "Boarding a train.",
+        "Buying new paper."
+      ],
+      "answerIndex": 0,
+      "feedback": "The printer stopped during the ticket-printing activity introduced by while."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I will finish the order details while I am waiting for my connecting flight tomorrow.",
+      "prompt": "When does the speaker plan to finish the order details?",
+      "choices": [
+        "Before leaving home tonight.",
+        "While waiting between flights.",
+        "After arriving at the final destination."
+      ],
+      "answerIndex": 1,
+      "feedback": "While I am waiting places the planned work during the connection, not after arrival."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "During the summer workshop, I met the organiser, but we spoke for only two minutes.",
+      "prompt": "What is the difference between the two time expressions?",
+      "choices": [
+        "Both describe exactly two minutes.",
+        "The conversation lasted all summer.",
+        "The meeting happened within the workshop; the conversation lasted two minutes."
+      ],
+      "answerIndex": 2,
+      "feedback": "During locates the meeting in a workshop; for measures the conversation’s duration."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The doorbell rang while the guests were arriving, so I asked my sister to answer it.",
+      "prompt": "Type the five-word clause starting with \"while\" and ending with \"arriving\".",
+      "acceptedAnswers": [
+        "while the guests were arriving"
+      ],
+      "feedback": "While introduces a complete clause about an overlapping action."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I slept during the flight, but I could not rest on the bus afterwards.",
+      "prompt": "Type the three-word time expression immediately after \"slept\".",
+      "acceptedAnswers": [
+        "during the flight"
+      ],
+      "feedback": "During the flight is an event-based time phrase, not a duration."
+    }
+  ]
+}

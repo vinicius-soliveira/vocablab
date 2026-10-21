@@ -1,0 +1,416 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u021",
+  "title": "Will for Decisions, Offers and Promises",
+  "level": "B1",
+  "topicId": "eg2-u021-will-shall-decisions-offers-promises",
+  "summary": "Use will to announce a decision made while speaking, offer or agree to help, make a promise, and recognise refusal with won’t. Use Shall I…? for offers and Shall we…? for shared suggestions, while Will you…? normally asks someone else to do something.",
+  "learningObjectives": [
+    "Choose will or the contraction ’ll to announce a spontaneous decision rather than describe an existing arrangement.",
+    "Offer help, accept a request and make a specific promise using will or won’t.",
+    "Interpret won’t as refusal or unwillingness, including when equipment fails to work.",
+    "Form Shall I…? and Shall we…? questions and distinguish them from requests beginning Will you…?"
+  ],
+  "explanation": [
+    {
+      "heading": "Decisions made as you speak",
+      "body": "Use will + the base form when a choice is made at the moment it is announced. A new problem, question or offer can trigger the decision. In informal conversation, I will usually becomes I’ll. With I think and I don’t think, will also makes a decision sound less abrupt. Do not use a plain present-simple statement to announce this new choice.",
+      "example": "I forgot to bring a pen. I’ll borrow one from reception."
+    },
+    {
+      "heading": "Offers and agreeing to requests",
+      "body": "Use I’ll when you volunteer to do something, and when you agree to a request. An offer is the speaker’s own action, while a request asks the listener to act. Give the action after will in its base form: I’ll carry, not I’ll carrying.",
+      "example": "Those folders look awkward. I’ll hold the door for you."
+    },
+    {
+      "heading": "Promises and reassurance",
+      "body": "Use will to commit to future action and won’t to promise not to do something. I promise can make the commitment explicit, but it is not required. A reply such as I won’t forget gives reassurance about the speaker’s future behaviour. Will not is often shortened to won’t, not willn’t.",
+      "example": "I’ll send the notes tonight, and I won’t share your password."
+    },
+    {
+      "heading": "Refusal and unwillingness with won’t",
+      "body": "Won’t can describe someone’s refusal to cooperate rather than a simple future negative. The same form can describe a device that fails to respond despite repeated attempts; the device is not literally making a choice. Use context to decide whether won’t reports refusal, failed operation or a promise.",
+      "example": "I’ve pressed the button twice, but the printer won’t start."
+    },
+    {
+      "heading": "Shall I, shall we and will you",
+      "body": "Use Shall I…? to ask whether you should do something for someone; use Shall we…? to suggest an action together. What shall I/we…? asks for advice or a joint decision. Will you…? normally asks the listener to act, and please can soften the request. Shall in these questions is particularly associated with British English; would you and should I may be more familiar elsewhere.",
+      "example": "Shall I move the chairs, or shall we leave them here?"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A new decision versus a prior arrangement",
+      "left": {
+        "label": "Will: decided just now",
+        "example": "The charger is missing. I’ll ask the office for a spare.",
+        "note": "The problem leads to a decision at the moment of speaking."
+      },
+      "right": {
+        "label": "Present continuous: arranged earlier",
+        "example": "I’m collecting my repaired laptop at four.",
+        "note": "The collection was organised before the speaker said this."
+      }
+    },
+    {
+      "title": "Offer to act versus request to another person",
+      "left": {
+        "label": "Shall I…?: I act",
+        "example": "Shall I carry this box upstairs?",
+        "note": "The speaker asks permission to help."
+      },
+      "right": {
+        "label": "Will you…?: you act",
+        "example": "Will you carry this box upstairs, please?",
+        "note": "The speaker requests an action from the listener."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "There is no clean cup. I’ll rinse this one.",
+      "note": "The speaker chooses an immediate solution."
+    },
+    {
+      "sentence": "I think I’ll take a short break before the next meeting.",
+      "note": "I think makes a just-made choice more tentative."
+    },
+    {
+      "sentence": "Yes, I’ll give Nia the message as soon as she gets back.",
+      "note": "The speaker agrees to carry out a request."
+    },
+    {
+      "sentence": "Don’t worry, I won’t post that photo online.",
+      "note": "Won’t expresses a promise not to act."
+    },
+    {
+      "sentence": "Shall we compare the two designs before making a choice?",
+      "note": "Shall we proposes a shared action rather than predicting the future."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I forgot the attachment. I send it now.",
+      "correct": "I forgot the attachment. I’ll send it now.",
+      "why": "A decision made on discovering the mistake is naturally announced with I’ll, not the present simple."
+    },
+    {
+      "incorrect": "I’ll helping you move the desk.",
+      "correct": "I’ll help you move the desk.",
+      "why": "Will is followed by the base verb help, not the -ing form."
+    },
+    {
+      "incorrect": "I willn’t mention your mistake.",
+      "correct": "I won’t mention your mistake.",
+      "why": "Won’t is the standard negative contraction of will not."
+    },
+    {
+      "incorrect": "Shall you turn the light off, please?",
+      "correct": "Will you turn the light off, please?",
+      "why": "Use Will you…? to request that the listener act; Shall I…? offers the speaker’s action."
+    }
+  ],
+  "studyTips": [
+    "Before choosing will for an action, ask whether the decision was made only after the current conversation began.",
+    "Practise a three-part exchange: hear a problem, offer help with I’ll, then respond to a request with I’ll or won’t.",
+    "Make paired questions using the same verb: Shall I open…? and Will you open…? Notice who is expected to act."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "You have just noticed that the kitchen light is still on. You decide this instant to switch it off. “Oh, ___ it off now.”",
+      "choices": [
+        "I switch",
+        "I’ll switch",
+        "I’m switching yesterday"
+      ],
+      "answerIndex": 1,
+      "feedback": "I’ll switch announces a decision made as the speaker notices the light."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Your coworker is carrying several boxes. You volunteer to help. Which response is most natural?",
+      "choices": [
+        "I’ll carry one for you.",
+        "Shall you carry one for me?",
+        "I carrying one for you."
+      ],
+      "answerIndex": 0,
+      "feedback": "I’ll carry one for you offers to perform an action for the coworker."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Someone asks you to keep a surprise confidential. Choose the promise.",
+      "choices": [
+        "I won’t telling anyone.",
+        "I don’t think I tell anyone.",
+        "I won’t tell anyone."
+      ],
+      "answerIndex": 2,
+      "feedback": "Won’t plus the base form tell is a natural negative promise."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "You would like your colleague to lower the blinds. Which question asks THEM to do it?",
+      "choices": [
+        "Shall I lower the blinds?",
+        "Will you lower the blinds, please?",
+        "Shall we lower the blinds together?"
+      ],
+      "answerIndex": 1,
+      "feedback": "Will you…? requests action from the listener, whereas Shall I…? offers your own action."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "You have just noticed a spelling mistake. “___ it right away.” (begin with I; use the contracted form of will and correct)",
+      "acceptedAnswers": [
+        "I'll correct"
+      ],
+      "feedback": "I’ll correct announces the new decision to fix the mistake immediately."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "A friend asks, “Can you bring the spare key?” Reply: “Sure, I ___ it.” (bring; use the full form will)",
+      "acceptedAnswers": [
+        "will bring"
+      ],
+      "feedback": "Will bring agrees to carry out the request, with bring in its base form."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Your phone refuses to charge even with a working cable. “My phone ___.” (charge; use the negative contraction of will)",
+      "acceptedAnswers": [
+        "won't charge"
+      ],
+      "feedback": "Won’t charge can describe a device that fails to operate despite attempts."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "You and your classmate need to choose a topic together. “___ we choose the first topic?” (use the suggestion word from this unit)",
+      "acceptedAnswers": [
+        "Shall"
+      ],
+      "feedback": "Shall we…? makes a suggestion about a shared action."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence. The speaker has just made a decision: I check the delivery address now.",
+      "acceptedAnswers": [
+        "I’ll check the delivery address now.",
+        "I will check the delivery address now."
+      ],
+      "feedback": "When the decision is made while speaking, will or I’ll naturally announces it."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the verb form in this offer: I will carrying your suitcase upstairs.",
+      "acceptedAnswers": [
+        "I will carry your suitcase upstairs.",
+        "I'll carry your suitcase upstairs."
+      ],
+      "feedback": "The base verb carry must follow will; carrying is not grammatical here."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the negative contraction in this promise: I willn’t use your account without asking.",
+      "acceptedAnswers": [
+        "I won’t use your account without asking.",
+        "I will not use your account without asking."
+      ],
+      "feedback": "Won’t, not willn’t, is the contraction of will not."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the first word in this question. You are asking the other person to turn down the sound: Shall you turn down the sound, please?",
+      "acceptedAnswers": [
+        "Will you turn down the sound, please?"
+      ],
+      "feedback": "Will you…? asks another person to act; Shall I…? would offer to do it yourself."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "The parcel has arrived unexpectedly. Decide now to open it. Say one sentence starting “I” and ending “the parcel now”. Use will and the verb open.",
+      "acceptedAnswers": [
+        "I'll open the parcel now.",
+        "I will open the parcel now."
+      ],
+      "feedback": "Will announces the decision made at this moment, followed by open in the base form."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "A friend has two heavy bags. Offer to carry one for them. Begin with “I” and use will, carry, one bag and for you.",
+      "acceptedAnswers": [
+        "I'll carry one bag for you.",
+        "I will carry one bag for you."
+      ],
+      "feedback": "I’ll carry makes a practical offer; one bag keeps the response specific."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "A colleague asks, “Can you email me the minutes?” Agree in a single sentence beginning “Yes,” and say that you will send them the minutes tonight.",
+      "acceptedAnswers": [
+        "Yes, I'll send you the minutes tonight.",
+        "Yes, I will send you the minutes tonight."
+      ],
+      "feedback": "The speaker agrees to perform the requested action. Will is followed by send."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You promise not to tell anyone about a surprise. Say one sentence beginning “I” using the negative of will and the verb tell.",
+      "acceptedAnswers": [
+        "I won't tell anyone about the surprise.",
+        "I will not tell anyone about the surprise."
+      ],
+      "feedback": "Won’t tell is a commitment to keep the surprise secret."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Ask whether you should open the door for the listener. Begin “Shall I” and end “the door?”",
+      "acceptedAnswers": [
+        "Shall I open the door?"
+      ],
+      "feedback": "Shall I…? asks whether the speaker should perform the action."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You and a friend are deciding what to do together. Suggest checking the timetable. Begin “Shall we”.",
+      "acceptedAnswers": [
+        "Shall we check the timetable?"
+      ],
+      "feedback": "Shall we…? offers a suggestion for both people."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A radio is too loud. Ask the listener to make it quieter. Begin “Will you” and use “turn the radio down” plus “please”.",
+      "acceptedAnswers": [
+        "Will you turn the radio down, please?",
+        "Will you please turn the radio down?"
+      ],
+      "feedback": "Will you…? asks the listener to act. The position of please can vary."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences: first state that the scanner refuses to work, beginning “The scanner”; then offer to call technical support, beginning “I” and using will.",
+      "acceptedAnswers": [
+        "The scanner won't work. I'll call technical support.",
+        "The scanner will not work. I'll call technical support.",
+        "The scanner won't work. I will call technical support.",
+        "The scanner will not work. I will call technical support."
+      ],
+      "feedback": "Won’t work reports failed operation; I’ll call offers an immediate response."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The lift is broken again. Oh well, I’ll take the stairs to the fourth floor.",
+      "prompt": "Why does the speaker say they will use the stairs?",
+      "choices": [
+        "They agreed yesterday to use them.",
+        "They decide on the spot because the lift is broken.",
+        "They have already taken the stairs."
+      ],
+      "answerIndex": 1,
+      "feedback": "The broken lift creates a new situation and I’ll take announces an immediate decision."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "You have a large suitcase. Wait a moment and I’ll hold the door for you.",
+      "prompt": "What is the speaker offering to do?",
+      "choices": [
+        "Hold the door for someone.",
+        "Ask the other person to hold the door.",
+        "Close the door after everyone leaves."
+      ],
+      "answerIndex": 0,
+      "feedback": "I’ll hold the door is an offer by the speaker, not a request addressed to the listener."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "You can trust me. I won't reveal your secret to anyone at work.",
+      "prompt": "Type the two-word promise immediately after “I” and before “your secret”.",
+      "acceptedAnswers": [
+        "won't reveal",
+        "will not reveal"
+      ],
+      "feedback": "The heard phrase is won’t reveal; will not reveal is an accepted full-form equivalent."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "This box is heavier than I expected. Will you help me carry it upstairs, please?",
+      "prompt": "What is the speaker asking the other person to do?",
+      "choices": [
+        "Help the speaker carry a box.",
+        "Suggest a different box.",
+        "Let the speaker carry the box alone."
+      ],
+      "answerIndex": 0,
+      "feedback": "Will you help me…? is a polite request for the listener to help."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "We have two possible routes to the station. Shall we compare their travel times first?",
+      "prompt": "What does the speaker suggest?",
+      "choices": [
+        "The speaker should choose the first route alone.",
+        "Both people should compare the routes.",
+        "The listener must use the shorter route."
+      ],
+      "answerIndex": 1,
+      "feedback": "Shall we compare…? proposes an action the two people can take together."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I charged this tablet overnight, but it still won’t turn on this morning.",
+      "prompt": "What problem is the speaker describing?",
+      "choices": [
+        "Someone will not answer a message.",
+        "The tablet has already been repaired.",
+        "A tablet is failing to turn on."
+      ],
+      "answerIndex": 2,
+      "feedback": "Won’t turn on describes equipment that refuses to operate despite attempts."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "I can see the instructions are confusing. I'll help you with the form.",
+      "prompt": "Type the two-word offer heard immediately before “you with the form”.",
+      "acceptedAnswers": [
+        "I'll help"
+      ],
+      "feedback": "The speaker offers to help; the two audible words are I’ll help."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "There is nowhere for our guest to sit. Shall I bring another chair?",
+      "prompt": "Type the single word immediately before “I bring another chair?”",
+      "acceptedAnswers": [
+        "Shall"
+      ],
+      "feedback": "The word Shall begins Shall I…?, which asks if the listener would like the speaker to act."
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u127",
+  "title": "In, on and at: Everyday Expressions",
+  "level": "B1",
+  "topicId": "eg2-u127-in-on-at-expressions",
+  "summary": "Use in, on and at in common expressions about weather, language, mood, media, activities, intention, age, speed and temperature. These patterns often depend on the expression rather than a general rule about place or time.",
+  "learningObjectives": [
+    "Choose in for environmental conditions, languages, opinions and emotional states.",
+    "Use on accurately for media, communication, intention and overall judgements.",
+    "Describe trips, holidays, business travel and other activities with on.",
+    "Express ages, speeds, temperatures and altitudes with at."
+  ],
+  "explanation": [
+    {
+      "heading": "In for conditions around you",
+      "body": "Use in when the situation surrounds someone: in the rain, in bright sunshine, in the shade, in the dark and in thick fog. These expressions describe the conditions in which an action takes place. The choice of preposition does not depend on whether someone is literally inside a building.",
+      "example": "We waited in the shade while the children played in the sunshine."
+    },
+    {
+      "heading": "In for language, currency and personal states",
+      "body": "Use in before a language or currency when expressing or converting information: in Italian and in euros. Personal states and viewpoints also have fixed patterns: be in love with someone, be in a cheerful mood, and in my opinion. The phrase in the mood for something describes a temporary desire, which is different from being in a good mood.",
+      "example": "In my opinion, the instructions are clearer in German."
+    },
+    {
+      "heading": "On for media, communication and attitudes",
+      "body": "Say on television or on TV, on the radio and on the phone to identify a medium or communication activity. Use on fire for something burning, on purpose for an intentional action, and on the whole to give a general evaluation despite exceptions. These are established expressions; replacing on with in or at usually sounds wrong.",
+      "example": "On the whole, I liked the concert, although the sound was poor on the radio."
+    },
+    {
+      "heading": "On for journeys and temporary activities",
+      "body": "We say be or go on holiday, on vacation, on a trip, on a tour and on a cruise. Other temporary circumstances include being away on business, being on strike and being on a diet. On business describes the purpose of travel, while on holiday means travelling or taking time off for pleasure.",
+      "example": "Our manager is on a business trip, and several colleagues are on holiday."
+    },
+    {
+      "heading": "At for measurements and ages",
+      "body": "At introduces a specific age, speed, temperature or altitude: at the age of twenty, at sixty kilometres an hour, at twenty-five degrees and at an altitude of two thousand metres. With age, both at twenty and at the age of twenty are natural. Use at to introduce the measured point, not in or on.",
+      "example": "The drone remained stable at an altitude of 120 metres."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Conditions versus planned activities",
+      "left": {
+        "label": "in + surrounding condition",
+        "example": "We walked in heavy rain.",
+        "note": "In identifies the weather around the people."
+      },
+      "right": {
+        "label": "on + organised activity",
+        "example": "We went on a guided walk.",
+        "note": "On identifies the activity or outing."
+      }
+    },
+    {
+      "title": "Language versus broadcast medium",
+      "left": {
+        "label": "in + language",
+        "example": "The interview was in Japanese.",
+        "note": "In tells you the language used."
+      },
+      "right": {
+        "label": "on + medium",
+        "example": "The interview was on television.",
+        "note": "On tells you where it was broadcast."
+      }
+    },
+    {
+      "title": "State versus measurement",
+      "left": {
+        "label": "in + mood",
+        "example": "Mina is in a relaxed mood.",
+        "note": "In is part of the fixed phrase describing an emotional state."
+      },
+      "right": {
+        "label": "at + speed",
+        "example": "The boat moved at fifteen knots.",
+        "note": "At introduces the numerical speed."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The guide gave the instructions in Portuguese.",
+      "note": "In introduces the language of the instructions."
+    },
+    {
+      "sentence": "We could hardly see the path in the fog.",
+      "note": "In presents fog as the surrounding condition."
+    },
+    {
+      "sentence": "The visitors heard the announcement on the radio.",
+      "note": "On identifies the broadcast medium."
+    },
+    {
+      "sentence": "The warehouse staff are on strike this week.",
+      "note": "On strike is a fixed expression for a work stoppage."
+    },
+    {
+      "sentence": "Ravi started university at the age of eighteen.",
+      "note": "At introduces an age in years."
+    },
+    {
+      "sentence": "On the whole, the training course was practical and clear.",
+      "note": "On the whole summarises an overall judgement."
+    },
+    {
+      "sentence": "I do not think she deleted the notes on purpose.",
+      "note": "On purpose means deliberately."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I watched the interview in TV.",
+      "correct": "I watched the interview on TV.",
+      "why": "Use on TV for a programme broadcast on television."
+    },
+    {
+      "incorrect": "She is at a bad mood this morning.",
+      "correct": "She is in a bad mood this morning.",
+      "why": "Mood expressions use in: in a good mood, in a bad mood."
+    },
+    {
+      "incorrect": "They are going in a cruise in December.",
+      "correct": "They are going on a cruise in December.",
+      "why": "Use on with a cruise and other planned journeys or tours."
+    },
+    {
+      "incorrect": "The bus was moving in seventy kilometres an hour.",
+      "correct": "The bus was moving at seventy kilometres an hour.",
+      "why": "Use at to introduce a measured speed."
+    }
+  ],
+  "studyTips": [
+    "Make three small expression groups in your notes: in the dark / in a mood; on TV / on a trip; at the age of / at a speed of.",
+    "When you hear a preposition in a fixed expression, record the whole phrase rather than the single preposition.",
+    "Describe a short news report using one language expression, one media expression and one age or speed expression."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "During the hike, we rested ___ the shade until the sun was less intense.",
+      "choices": [
+        "on",
+        "at",
+        "in"
+      ],
+      "answerIndex": 2,
+      "feedback": "In the shade describes a condition or sheltered environment around the hikers."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The chef demonstrated the recipe ___ television yesterday.",
+      "choices": [
+        "at",
+        "on",
+        "in"
+      ],
+      "answerIndex": 1,
+      "feedback": "A programme is shown on television, not in or at television."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The airport staff are ___ strike, so some flights have been cancelled.",
+      "choices": [
+        "on",
+        "at",
+        "in"
+      ],
+      "answerIndex": 0,
+      "feedback": "Workers are on strike when they stop working as part of an industrial dispute."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The aircraft was flying ___ an altitude of 10,500 metres.",
+      "choices": [
+        "on",
+        "in",
+        "at"
+      ],
+      "answerIndex": 2,
+      "feedback": "At introduces a measured altitude."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The instructor explained the safety rules ___ Spanish. (Supply one preposition.)",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "feedback": "In Spanish tells us which language the instructor used."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Leila seems to be ___ a good mood after receiving the news. (Supply one preposition.)",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "feedback": "The fixed expression is in a good mood."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We are going ___ a guided tour of the old town tomorrow. (Supply one preposition.)",
+      "acceptedAnswers": [
+        "on"
+      ],
+      "feedback": "Go on a tour describes taking part in an organised visit."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The cyclist was travelling ___ thirty kilometres an hour. (Supply one preposition.)",
+      "acceptedAnswers": [
+        "at"
+      ],
+      "feedback": "At introduces a speed followed by its units."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I heard the traffic report in the radio this morning.",
+      "acceptedAnswers": [
+        "I heard the traffic report on the radio this morning."
+      ],
+      "feedback": "For a broadcast on a radio station, use on the radio."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: They went in holiday to the coast in September.",
+      "acceptedAnswers": [
+        "They went on holiday to the coast in September."
+      ],
+      "feedback": "Go on holiday is the fixed expression for taking a vacation."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: He knocked over the vase in purpose to annoy his brother.",
+      "acceptedAnswers": [
+        "He knocked over the vase on purpose to annoy his brother."
+      ],
+      "feedback": "An intentional action is done on purpose."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Nadia learned to skate on the age of seven.",
+      "acceptedAnswers": [
+        "Nadia learned to skate at the age of seven."
+      ],
+      "feedback": "The age expression starts with at: at the age of seven."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one sentence using 'We sat', the fixed expression 'in the sun', and 'all afternoon', in that order.",
+      "acceptedAnswers": [
+        "We sat in the sun all afternoon."
+      ],
+      "feedback": "In the sun describes direct sunshine as the surrounding condition."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "A colleague asks where you heard the announcement. Say: 'I heard the announcement', followed by the correct expression for the radio.",
+      "acceptedAnswers": [
+        "I heard the announcement on the radio."
+      ],
+      "feedback": "Use on the radio to identify an audio broadcast."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Rephrase 'The presenter used Spanish for the announcement.' Say exactly 'The announcement was' followed by 'in Spanish'.",
+      "acceptedAnswers": [
+        "The announcement was in Spanish."
+      ],
+      "feedback": "Use in before a language when describing how information is presented."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Describe Daniel's unhappy emotional state. Say one sentence beginning 'Daniel is' and ending 'today'; use the expression 'a bad mood'.",
+      "acceptedAnswers": [
+        "Daniel is in a bad mood today."
+      ],
+      "feedback": "In a bad mood is the fixed expression for an unhappy emotional state."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Your manager is away for work tomorrow. Say exactly one sentence beginning 'My manager is away', using 'on business' and ending 'tomorrow'.",
+      "acceptedAnswers": [
+        "My manager is away on business tomorrow."
+      ],
+      "feedback": "On business identifies a work-related purpose for travelling."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Someone asks, 'Did you delete the file deliberately?' Answer with the sentence 'No, I did not do it on purpose', using the natural contraction.",
+      "acceptedAnswers": [
+        "No, I didn't do it on purpose.",
+        "No, I did not do it on purpose."
+      ],
+      "feedback": "On purpose means deliberately; the negative says the deletion was not intentional."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "A friend asks why the trains are not running. Reply with two sentences using exactly these facts: the drivers are on strike; you can take a taxi. Start 'The drivers'.",
+      "acceptedAnswers": [
+        "The drivers are on strike. We can take a taxi."
+      ],
+      "feedback": "On strike explains why the drivers have stopped working."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Make one sentence using 'On the whole', then 'the workshop was useful', then 'but the final section was too long'.",
+      "acceptedAnswers": [
+        "On the whole, the workshop was useful, but the final section was too long."
+      ],
+      "feedback": "On the whole introduces a balanced overall judgement despite one criticism."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The film was in German, but the subtitles were in English.",
+      "prompt": "Which language did the actors speak in the film?",
+      "choices": [
+        "English",
+        "Portuguese",
+        "German"
+      ],
+      "answerIndex": 2,
+      "feedback": "The film was in German; the English words belonged to the subtitles."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We did not watch the match on television; we listened to it on the radio.",
+      "prompt": "How did the speakers follow the match?",
+      "choices": [
+        "On the radio",
+        "On television",
+        "At the stadium"
+      ],
+      "answerIndex": 0,
+      "feedback": "They listened on the radio instead of watching on television."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "After the interview, Eva was in a great mood.",
+      "prompt": "Type the four-word expression describing Eva’s mood immediately after the word \"was\".",
+      "acceptedAnswers": [
+        "in a great mood"
+      ],
+      "feedback": "The heard expression in a great mood describes a positive emotional state."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I did not drop the plate on purpose. My hand slipped while I was washing it.",
+      "prompt": "Why did the plate fall?",
+      "choices": [
+        "Someone threw it deliberately.",
+        "It fell unintentionally.",
+        "The speaker left it outside."
+      ],
+      "answerIndex": 1,
+      "feedback": "Not on purpose means the plate fell by accident, not intentionally."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "My sister is on a cycling tour this month, not a business trip.",
+      "prompt": "What is the sister doing this month?",
+      "choices": [
+        "Visiting clients for work",
+        "Attending a conference",
+        "Travelling on a cycling tour"
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker contrasts a cycling tour with a business trip."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "At the age of seventeen, Nora could already speak four languages.",
+      "prompt": "How old was Nora when she could speak four languages?",
+      "choices": [
+        "Seventeen",
+        "Four",
+        "Seventy"
+      ],
+      "answerIndex": 0,
+      "feedback": "At the age of seventeen gives her age; four is the number of languages."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The ferry was travelling at twelve knots when the alarm sounded.",
+      "prompt": "Type the three-word speed expression immediately after \"travelling\".",
+      "acceptedAnswers": [
+        "at twelve knots"
+      ],
+      "feedback": "At twelve knots gives the vessel’s speed."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The morning was chaotic, but on the whole the event went well.",
+      "prompt": "Type the three-word expression immediately before \"the event went well\".",
+      "acceptedAnswers": [
+        "on the whole"
+      ],
+      "feedback": "On the whole signals an overall evaluation despite earlier problems."
+    }
+  ]
+}

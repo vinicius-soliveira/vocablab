@@ -1,0 +1,427 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u049",
+  "title": "Direct Questions: Word Order and Meaning",
+  "level": "B2",
+  "topicId": "eg2-u049-direct-questions-subject-object-and-negative-forms",
+  "summary": "Build direct questions with the correct auxiliary and word order. Distinguish questions about the subject from questions about the object, place prepositions naturally, and understand the intentions and answers in negative questions.",
+  "learningObjectives": [
+    "Form questions by placing the first auxiliary or be before the subject.",
+    "Use do, does and did correctly in ordinary present-simple and past-simple questions.",
+    "Distinguish subject questions without do-support from object questions that require it.",
+    "Form natural questions with final prepositions and interpret negative questions expressing surprise or expectation."
+  ],
+  "explanation": [
+    {
+      "heading": "Put the first auxiliary before the subject",
+      "body": "In a normal direct question, place the first auxiliary verb or be before the subject. For a yes/no question, start with that auxiliary; for a question with what, why, when or how, put the question word first. Keep the subject between the first auxiliary and the main verb when the verb phrase has several parts.",
+      "example": "Why have the organisers changed the venue?"
+    },
+    {
+      "heading": "Add do-support with present and past simple",
+      "body": "When a main verb has no other auxiliary, use do or does for most present-simple questions and did for past-simple questions. The verb after do, does or did remains in the base form, even with a third-person singular subject. With be or another auxiliary already present, do not add another do.",
+      "example": "When did the technicians replace the damaged cable?"
+    },
+    {
+      "heading": "Ask about a subject without ordinary do-support",
+      "body": "If who, what or which + noun identifies the subject performing an action, it usually takes the same word order as a statement. Do not insert do, does or did in a neutral subject question. If the question word refers to the object of an action, use normal question formation, including do-support when required.",
+      "example": "Who approved the revised timetable?"
+    },
+    {
+      "heading": "Ask about an object using the auxiliary",
+      "body": "The question word may identify the receiver or target of an action rather than its doer. In that case, a past-simple question such as Who did the manager invite? needs did; the manager is the subject and who is the object. Decide who performs the action before choosing the question pattern.",
+      "example": "Which supplier did the purchasing team contact?"
+    },
+    {
+      "heading": "Keep prepositions natural in everyday questions",
+      "body": "In everyday questions with who, what, which or where, a required preposition commonly appears at the end of the question. The preposition belongs to the verb or expression, such as speak to or apply for. Formal expressions with a fronted preposition and whom are possible but unusual in ordinary conversation.",
+      "example": "Who are you waiting for outside the theatre?"
+    },
+    {
+      "heading": "Use negative questions for surprise or expectation",
+      "body": "Negative questions such as Didn’t you receive the update? may convey surprise or suggest that the speaker expected something to be true. Why don’t we ...? can make a suggestion. In answering a negative question, yes confirms a positive fact and no confirms a negative fact; the answer is not reversed by the negative wording.",
+      "example": "Haven’t the guests arrived yet? I thought they were already here."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A subject question and an object question",
+      "left": {
+        "label": "Unknown subject",
+        "example": "Who repaired the gate yesterday?",
+        "note": "Who asks for the person who carried out the repair; neutral past simple needs no did."
+      },
+      "right": {
+        "label": "Unknown object",
+        "example": "Who did Ellis call yesterday?",
+        "note": "Ellis is the subject, so did helps ask for the person Ellis called."
+      }
+    },
+    {
+      "title": "A main verb and an existing auxiliary",
+      "left": {
+        "label": "Past simple main verb",
+        "example": "Where did the bus stop?",
+        "note": "Did supplies the question auxiliary and stop stays in the base form."
+      },
+      "right": {
+        "label": "Present perfect auxiliary",
+        "example": "Where has the bus stopped?",
+        "note": "Has is already an auxiliary; there is no need to add do."
+      }
+    },
+    {
+      "title": "A direct question and a negative question",
+      "left": {
+        "label": "Neutral enquiry",
+        "example": "Did you see the email?",
+        "note": "This simply requests information."
+      },
+      "right": {
+        "label": "Surprised expectation",
+        "example": "Didn’t you see the email?",
+        "note": "This suggests the speaker expected the email to have been seen."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "How long have the researchers been collecting these samples?",
+      "note": "Have is the first auxiliary and comes before the plural subject."
+    },
+    {
+      "sentence": "Does the new timetable include an evening service?",
+      "note": "Does carries third-person singular agreement; include stays in the base form."
+    },
+    {
+      "sentence": "What triggered the alarm during the rehearsal?",
+      "note": "What is the subject: it asks for the thing that caused the alarm."
+    },
+    {
+      "sentence": "What did the security officer find in the corridor?",
+      "note": "The security officer is the subject, so this object question uses did."
+    },
+    {
+      "sentence": "Which department are you applying to?",
+      "note": "The final preposition to belongs to apply to in normal spoken English."
+    },
+    {
+      "sentence": "Why aren’t you taking the earlier train?",
+      "note": "The negative question can imply surprise at a decision."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "When the session will begin?",
+      "correct": "When will the session begin?",
+      "why": "In a direct question, move the first auxiliary will before the subject."
+    },
+    {
+      "incorrect": "Why did she left so early?",
+      "correct": "Why did she leave so early?",
+      "why": "Use the base form leave after did."
+    },
+    {
+      "incorrect": "Who did broke the display yesterday?",
+      "correct": "Who broke the display yesterday?",
+      "why": "In a neutral subject question, who is the subject and broke is already past simple; no do-support is needed."
+    },
+    {
+      "incorrect": "Which colleague did you speak yesterday?",
+      "correct": "Which colleague did you speak to yesterday?",
+      "why": "Speak to someone requires the preposition to, often placed at the end of a question."
+    }
+  ],
+  "studyTips": [
+    "For each who or what question, identify whether the missing person or thing performed the action or received it before adding did.",
+    "Practise turning a statement into a question by moving the first auxiliary; if there is no auxiliary, add do, does or did.",
+    "Read surprised negative questions aloud and answer with a full positive or negative sentence before shortening the reply to yes or no."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The inspection is complete, but the report is missing. Where ___ the engineers put the report?",
+      "choices": [
+        "have",
+        "do have",
+        "have been"
+      ],
+      "answerIndex": 0,
+      "feedback": "Have comes before the subject the engineers in a present-perfect direct question."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The delivery arrived yesterday. What time ___ it reach the warehouse?",
+      "choices": [
+        "does",
+        "did",
+        "was"
+      ],
+      "answerIndex": 1,
+      "feedback": "Yesterday requires past-simple did, followed by the base verb reach."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Nobody knows what caused the interruption. ___ the live broadcast yesterday?",
+      "choices": [
+        "What did interrupted",
+        "What was interrupt",
+        "What interrupted"
+      ],
+      "answerIndex": 2,
+      "feedback": "What is the subject of the active verb interrupted; a neutral subject question needs no did."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The editor contacted someone after the meeting. ___ after the meeting?",
+      "choices": [
+        "Who contacted the editor",
+        "Who did the editor contact",
+        "Who the editor contacted"
+      ],
+      "answerIndex": 1,
+      "feedback": "The editor performs the action; who is the object, so use did + subject + base verb."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Ask about the time of the completed repair: When ___? (the technicians / finish / the repair / yesterday). Write the words after When.",
+      "acceptedAnswers": [
+        "did the technicians finish the repair yesterday"
+      ],
+      "feedback": "Did forms a past-simple question; finish remains in its base form."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "An unknown event caused the power cut yesterday. Ask a neutral subject question: What ___? (cause / the power cut / yesterday). Write the words after What.",
+      "acceptedAnswers": [
+        "caused the power cut yesterday"
+      ],
+      "feedback": "What represents the event that caused the cut, so use caused without did."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Ask which supplier the team contacted yesterday: Which supplier ___? (the team / speak / to / yesterday). Write the words after Which supplier.",
+      "acceptedAnswers": [
+        "did the team speak to yesterday"
+      ],
+      "feedback": "The team is the subject of speak to, so use did the team speak to."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "You expected your friend to call yesterday. Show surprise: Why ___? (you / not / call / me / yesterday). Use a negative past-simple question after Why.",
+      "acceptedAnswers": [
+        "didn’t you call me yesterday",
+        "did you not call me yesterday"
+      ],
+      "feedback": "Didn’t you call signals surprise and leaves call in its base form."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Why you are checking the figures again?",
+      "acceptedAnswers": [
+        "Why are you checking the figures again?"
+      ],
+      "feedback": "Are must precede the subject you in a direct present-continuous question."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Who did damaged the noticeboard this morning?",
+      "acceptedAnswers": [
+        "Who damaged the noticeboard this morning?"
+      ],
+      "feedback": "The unknown person is the subject; the neutral subject question is Who damaged ...?"
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Which supplier you contacted last week?",
+      "acceptedAnswers": [
+        "Which supplier did you contact last week?"
+      ],
+      "feedback": "An object question in the past simple needs did before you, followed by contact."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Why you don’t want to leave now?",
+      "acceptedAnswers": [
+        "Why don’t you want to leave now?"
+      ],
+      "feedback": "In a negative direct question, don’t precedes the subject you."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "The workshop starts at nine every Thursday. Ask what time it starts. Begin with “What time” and include “every Thursday”.",
+      "acceptedAnswers": [
+        "What time does the workshop start every Thursday?"
+      ],
+      "feedback": "Does comes before the singular subject the workshop; start remains in the base form."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Yesterday Clara borrowed a projector from someone. Ask who lent it to her by asking whom she borrowed it from. Begin with “Who did Clara” and end with “from”.",
+      "acceptedAnswers": [
+        "Who did Clara borrow the projector from?"
+      ],
+      "feedback": "Who is the object of borrow from; did precedes Clara and the preposition stays at the end."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "An unknown person damaged the noticeboard this morning. Ask a neutral question about that person. Begin with “Who” and do not use did.",
+      "acceptedAnswers": [
+        "Who damaged the noticeboard this morning?"
+      ],
+      "feedback": "Who is the subject of damaged; the past-simple verb follows directly."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A colleague points out that the lights are flashing now. Ask why this is happening. Begin with “Why” and use the present continuous.",
+      "acceptedAnswers": [
+        "Why are the lights flashing now?"
+      ],
+      "feedback": "Are goes before the lights, followed by flashing."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "A friend says they did not receive their invitation. You expected they had received it. Ask a surprised negative question beginning “Didn’t you”.",
+      "acceptedAnswers": [
+        "Didn’t you receive your invitation?"
+      ],
+      "feedback": "Didn’t you introduces a negative question expressing surprise; receive is the base verb."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A team won the match last night, but you do not know which team. Ask a neutral subject question beginning “Which team”.",
+      "acceptedAnswers": [
+        "Which team won the match last night?"
+      ],
+      "feedback": "The question phrase which team is the subject, so no did is required."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Ask two questions in this order. First: an unknown visitor phoned the receptionist; ask who phoned the receptionist. Second: the receptionist phoned an unknown contractor; ask who the receptionist phoned. Start both with “Who”.",
+      "acceptedAnswers": [
+        "Who phoned the receptionist? Who did the receptionist phone?"
+      ],
+      "feedback": "The first question asks about a subject without did; the second asks about an object using did."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "A colleague plans to miss tomorrow’s safety briefing. You expected them to attend. Ask a surprised why-question using “aren’t” and “attending”, beginning “Why”.",
+      "acceptedAnswers": [
+        "Why aren’t you attending the safety briefing tomorrow?"
+      ],
+      "feedback": "Why aren’t you attending signals an unexpected plan, with inversion after the question word."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Who inspected the machine after the alarm? I did. Max only recorded the results.",
+      "prompt": "Who actually inspected the machine?",
+      "choices": [
+        "The speaker.",
+        "Max.",
+        "Both of them."
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker says I did, while Max only recorded the results."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Who did Maya thank after the event? She thanked the stage crew, not the organisers.",
+      "prompt": "Who received Maya’s thanks?",
+      "choices": [
+        "The organisers.",
+        "The stage crew.",
+        "The ticket sellers."
+      ],
+      "answerIndex": 1,
+      "feedback": "Maya thanked the stage crew; the organisers are explicitly excluded."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Why didn’t you check the battery before starting the recording?",
+      "prompt": "Type the three words immediately after “Why”.",
+      "acceptedAnswers": [
+        "didn’t you check"
+      ],
+      "feedback": "Didn’t you check is the audible negative question phrase, with the base form check."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Didn’t you book the tickets? Yes, I did, but I reserved them for Saturday instead of Friday.",
+      "prompt": "Which statement is true?",
+      "choices": [
+        "No tickets were booked.",
+        "The tickets are for Friday.",
+        "Tickets were booked for Saturday."
+      ],
+      "answerIndex": 2,
+      "feedback": "Yes, I did confirms a positive action despite the negative question; Saturday is the booked day."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Which folder did you save the figures in? I put them in the blue folder, not the shared archive.",
+      "prompt": "Where are the figures stored?",
+      "choices": [
+        "In the blue folder.",
+        "In the shared archive.",
+        "On a paper form."
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker explicitly says the figures are in the blue folder."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "What caused the rattling sound? A loose panel caused it, not the ventilation fan.",
+      "prompt": "What was responsible for the noise?",
+      "choices": [
+        "The fan.",
+        "A loose panel.",
+        "A broken microphone."
+      ],
+      "answerIndex": 1,
+      "feedback": "The loose panel caused the noise, while the fan is ruled out."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "What happened to your access badge? It fell out of my pocket by the entrance.",
+      "prompt": "Type the two words immediately after “What”.",
+      "acceptedAnswers": [
+        "happened to"
+      ],
+      "feedback": "Happened to is the audible past-simple question phrase, without did."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Who did you speak to after the training session? I spoke to the course leader.",
+      "prompt": "Type the four words immediately after “Who”.",
+      "acceptedAnswers": [
+        "did you speak to"
+      ],
+      "feedback": "Did you speak to is an object-question pattern with a final preposition."
+    }
+  ]
+}

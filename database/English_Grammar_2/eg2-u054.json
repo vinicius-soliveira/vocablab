@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u054",
+  "title": "Verb + to-infinitive: Plans, Claims and Choices",
+  "level": "B2",
+  "topicId": "eg2-u054-verb-to-infinitive-plans-claims",
+  "summary": "Use verbs followed by to + base verb to express decisions, offers, promises and outcomes; form negative infinitives; interpret seem, appear, pretend and claim with simple, continuous or perfect infinitives; and use question words before to-infinitives.",
+  "learningObjectives": [
+    "Choose a to-infinitive after decide, agree, offer, refuse, manage, fail and similar verbs.",
+    "Express a decision or commitment not to act by placing not before to + base verb.",
+    "Distinguish simple, continuous and perfect infinitives after seem, appear, pretend and claim.",
+    "Use how, what, where or whether + to-infinitive when describing knowledge, decisions or instructions."
+  ],
+  "explanation": [
+    {
+      "heading": "Decision, agreement and outcome verbs",
+      "body": "A group of verbs takes to + base verb when introducing another action. Examples include decide, plan, agree, offer, refuse, hope, arrange, promise, manage, fail, learn, afford and tend. The to-infinitive may refer to an intended future event or to whether an attempt was successful. Keep the marker to before the verb; do not replace it with an -ing form simply because the action follows another verb.",
+      "example": "Despite a last-minute change, the crew managed to finish the installation on time."
+    },
+    {
+      "heading": "Negative intentions and commitments",
+      "body": "To negate the action inside a to-infinitive, place not before to: decide not to attend, promise not to disclose, or pretend not to notice. This is different from negating the main verb: did not promise to attend means no promise was made, while promised not to attend expresses a promise to stay away.",
+      "example": "The panel agreed not to release the names before Friday."
+    },
+    {
+      "heading": "Appear, seem, pretend and claim",
+      "body": "Seem and appear present an impression; pretend describes acting as though something were true; claim reports what someone says is true. These verbs can be followed by to be + -ing for an activity in progress or by to have + past participle for an earlier completed event. The infinitive form establishes when the reported event takes place in relation to the impression or statement.",
+      "example": "The technician claims to have restored the missing files already."
+    },
+    {
+      "heading": "Question word followed by to",
+      "body": "After know, decide, learn, remember, explain, ask, understand and similar verbs, a question word can introduce a to-infinitive: how to proceed, where to sit, what to bring or whether to wait. This compact structure describes a choice or method without a full finite question. With verbs such as show and tell, the person receiving guidance may appear before the question word.",
+      "example": "Could you show us how to update the contact details?"
+    },
+    {
+      "heading": "Important boundaries and the verb dare",
+      "body": "Do not use the same pattern after every main verb: enjoy and suggest usually need -ing rather than to + infinitive. Dare is exceptional: in some constructions it can take a base infinitive with or without to, while dare not and daren’t generally take the bare infinitive. Also distinguish verbs that take a direct person + to-infinitive pattern, which belongs to a later lesson.",
+      "example": "She did not dare to challenge the decision in public."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Agree to act versus enjoy an activity",
+      "left": {
+        "label": "agree + to-infinitive",
+        "example": "The volunteers agreed to sort the donations.",
+        "note": "Agree introduces the action to which the volunteers consented."
+      },
+      "right": {
+        "label": "enjoy + -ing",
+        "example": "The volunteers enjoy sorting donations.",
+        "note": "Enjoy evaluates the activity and therefore takes -ing."
+      }
+    },
+    {
+      "title": "Current appearance versus an earlier event",
+      "left": {
+        "label": "seem + to be -ing",
+        "example": "The auditor seems to be reviewing the accounts.",
+        "note": "The action appears to be happening now."
+      },
+      "right": {
+        "label": "seem + to have + participle",
+        "example": "The auditor seems to have finished the review.",
+        "note": "The completion appears to have occurred earlier."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Our neighbours offered to collect the parcels while we were away.",
+      "note": "Offer is followed by to + base verb for a voluntary action."
+    },
+    {
+      "sentence": "The museum refused to lend the painting to a private gallery.",
+      "note": "Refuse + to-infinitive indicates unwillingness to perform the action."
+    },
+    {
+      "sentence": "We promised not to reveal the shortlist before the official announcement.",
+      "note": "Not negates the promised infinitive action rather than the act of promising."
+    },
+    {
+      "sentence": "The actor pretended to be studying the script while the cameras were rolling.",
+      "note": "To be studying represents an activity in progress at that moment."
+    },
+    {
+      "sentence": "The students could not decide where to display their model.",
+      "note": "Where + to-infinitive expresses a choice of location without a full question."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The coordinator agreed helping us on Saturday.",
+      "correct": "The coordinator agreed to help us on Saturday.",
+      "why": "Agree takes a to-infinitive for the promised or accepted action."
+    },
+    {
+      "incorrect": "We decided not cancel the tour.",
+      "correct": "We decided not to cancel the tour.",
+      "why": "The negative infinitive is not to + base verb."
+    },
+    {
+      "incorrect": "Can you explain how using the scanner?",
+      "correct": "Can you explain how to use the scanner?",
+      "why": "After the question word how, use to + base verb in this construction."
+    },
+    {
+      "incorrect": "She seems to have forgot her badge.",
+      "correct": "She seems to have forgotten her badge.",
+      "why": "A perfect infinitive requires have + past participle, not the past simple form."
+    }
+  ],
+  "studyTips": [
+    "Make two columns of high-frequency verb patterns: plan/agree/offer + to and enjoy/avoid/suggest + -ing; rehearse a short original sentence for each.",
+    "To report a different time, contrast seems to be working (now) with seems to have worked (earlier); identify the evidence behind each impression.",
+    "Write practical instructions using how/where/what + to: how to connect, where to save, what to include. Keep the main verb in its base form."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Even with a delayed train, the visitors managed ___ before the exhibition closed.",
+      "choices": [
+        "reaching the gallery",
+        "reach the gallery",
+        "to reach the gallery"
+      ],
+      "answerIndex": 2,
+      "feedback": "Managed takes to + base verb: managed to reach."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The organiser offered ___ the replacement tickets by email.",
+      "choices": [
+        "to send",
+        "sending",
+        "send"
+      ],
+      "answerIndex": 0,
+      "feedback": "Offer + to-infinitive expresses willingness to do something."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "After examining both routes, we decided ___ the coastal road.",
+      "choices": [
+        "taking",
+        "to take",
+        "take"
+      ],
+      "answerIndex": 1,
+      "feedback": "Decide takes a to-infinitive when naming the choice."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "During the meeting, Rita pretended ___ carefully, but she was daydreaming.",
+      "choices": [
+        "to have listened",
+        "listening",
+        "to be listening"
+      ],
+      "answerIndex": 2,
+      "feedback": "Pretended to be listening represents an ongoing activity that was not genuine."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The journalist refused ___ (reveal) the source. Write the to-infinitive.",
+      "acceptedAnswers": [
+        "to reveal"
+      ],
+      "feedback": "Refuse takes to + base verb to express unwillingness."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "They promised ___ (not / publish) the details before the ceremony. Write the negative to-infinitive.",
+      "acceptedAnswers": [
+        "not to publish"
+      ],
+      "feedback": "The negative infinitive is not to publish: the promise concerns keeping the details private."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Despite the confusing directions, Lena managed ___ (locate) the correct entrance. Write the to-infinitive.",
+      "acceptedAnswers": [
+        "to locate"
+      ],
+      "feedback": "Manage to locate means she succeeded in locating the entrance."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The technician seems ___ (lose) his pass already; he is searching everywhere. Write a perfect to-infinitive.",
+      "acceptedAnswers": [
+        "to have lost"
+      ],
+      "feedback": "To have lost expresses a completed event inferred from the current search."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct only the incorrect verb pattern in this sentence: She agreed helping with the registration.",
+      "acceptedAnswers": [
+        "She agreed to help with the registration."
+      ],
+      "feedback": "Agree requires to + base verb, not an -ing complement in this construction."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct only the incorrect verb pattern in this sentence: The staff decided not postpone the announcement.",
+      "acceptedAnswers": [
+        "The staff decided not to postpone the announcement."
+      ],
+      "feedback": "Not must come before the full infinitive to postpone."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct only the incorrect verb pattern in this sentence: I do not know how operating this device.",
+      "acceptedAnswers": [
+        "I do not know how to operate this device."
+      ],
+      "feedback": "After know how, use a to-infinitive, not an -ing form."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct only the incorrect verb pattern in this sentence: The spokesperson claimed to repaired the fault already.",
+      "acceptedAnswers": [
+        "The spokesperson claimed to have repaired the fault already."
+      ],
+      "feedback": "The earlier completed repair requires a perfect infinitive, to have repaired."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make one past-tense sentence from: Nadia; offer; review the proposal. Use a to-infinitive.",
+      "acceptedAnswers": [
+        "Nadia offered to review the proposal."
+      ],
+      "feedback": "Offered is followed by to review."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Report the agreement: the volunteers; agree; help on Saturday (past). One complete sentence.",
+      "acceptedAnswers": [
+        "The volunteers agreed to help on Saturday."
+      ],
+      "feedback": "Agree + to help expresses consent to the action."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Describe a past choice in one sentence: I; decide; not accept the invitation. Keep not in the infinitive clause.",
+      "acceptedAnswers": [
+        "I decided not to accept the invitation."
+      ],
+      "feedback": "Not to accept is the negative infinitive after decided."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Your attempt to open a file was unsuccessful. Report the past event using I; fail; open the file. One sentence.",
+      "acceptedAnswers": [
+        "I failed to open the file."
+      ],
+      "feedback": "Failed to open means the attempt did not succeed."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "A colleague believes the engineer has probably fixed the bug already. Rephrase using: the engineer; seem; fix the bug already. Use the perfect infinitive.",
+      "acceptedAnswers": [
+        "The engineer seems to have fixed the bug already."
+      ],
+      "feedback": "Seems to have fixed expresses an impression of an earlier completed action."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "During the inspection, Mina acted as if she was working, but she was not. Say: Mina; pretend; work during the inspection. Use past tense and a continuous infinitive.",
+      "acceptedAnswers": [
+        "Mina pretended to be working during the inspection."
+      ],
+      "feedback": "Pretended to be working describes feigning an action in progress."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Ask a colleague for a demonstration. Begin Could you show me; use how / reset the password. Say a full question.",
+      "acceptedAnswers": [
+        "Could you show me how to reset the password?"
+      ],
+      "feedback": "Show me how to reset uses how + to-infinitive to ask for a method."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two past-tense sentences in order: the staff / plan / leave early; they / fail / catch the last bus. Use to-infinitives.",
+      "acceptedAnswers": [
+        "The staff planned to leave early. They failed to catch the last bus."
+      ],
+      "feedback": "Both planned to leave and failed to catch require to-infinitives."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We could not afford to replace every desk, so we repaired the damaged ones instead.",
+      "prompt": "What could the speakers not pay for?",
+      "choices": [
+        "Replacing all the desks",
+        "Repairing one damaged desk",
+        "Hiring a cleaner"
+      ],
+      "answerIndex": 0,
+      "feedback": "Could not afford to replace means that replacing all the desks cost too much."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I offered to drive Lena to the station, but she chose to walk.",
+      "prompt": "What did the speaker offer to do?",
+      "choices": [
+        "Buy a train ticket",
+        "Carry a suitcase",
+        "Give Lena a lift"
+      ],
+      "answerIndex": 2,
+      "feedback": "Offered to drive describes the voluntary transport offer."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The committee agreed to reconsider the schedule on Thursday.",
+      "prompt": "Type the two-word infinitive phrase immediately after “agreed”.",
+      "acceptedAnswers": [
+        "to reconsider"
+      ],
+      "feedback": "Agreed to reconsider uses the to-infinitive after agreed."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Jon appeared to be sleeping when I entered, but he was only resting his eyes.",
+      "prompt": "What impression did Jon give?",
+      "choices": [
+        "He was studying",
+        "He was asleep",
+        "He had left the room"
+      ],
+      "answerIndex": 1,
+      "feedback": "Appeared to be sleeping describes an impression, which may not match reality."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The manager claims to have sent the payment yesterday, although finance has not confirmed it.",
+      "prompt": "What does the manager say has happened?",
+      "choices": [
+        "The payment was sent",
+        "The payment was cancelled",
+        "Finance approved a refund"
+      ],
+      "answerIndex": 0,
+      "feedback": "Claims to have sent reports an earlier event without confirming that it occurred."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We have not decided where to hold the farewell dinner. The terrace and the garden are both possibilities.",
+      "prompt": "What remains undecided?",
+      "choices": [
+        "The date of the meal",
+        "The list of guests",
+        "The location of the meal"
+      ],
+      "answerIndex": 2,
+      "feedback": "Where to hold shows that the location is still being chosen."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Despite the heavy rain, the pilot managed to land safely.",
+      "prompt": "Type the two-word infinitive phrase immediately after “managed”.",
+      "acceptedAnswers": [
+        "to land"
+      ],
+      "feedback": "Managed to land expresses a successful outcome despite difficulty."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "She promised not to mention the surprise at dinner.",
+      "prompt": "Type the three-word negative infinitive phrase immediately after “promised”.",
+      "acceptedAnswers": [
+        "not to mention"
+      ],
+      "feedback": "Not to mention is the negative infinitive within the promise."
+    }
+  ]
+}

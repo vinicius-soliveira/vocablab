@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u137",
+  "title": "Phrasal Verbs: Meaning, Patterns and Object Position",
+  "level": "B2",
+  "topicId": "eg2-u137-phrasal-verbs-meaning-object-position",
+  "summary": "Recognise verb-and-particle combinations, interpret both movement and non-literal meanings, and put objects in the correct position. Use common three-word patterns and place object pronouns between the verb and particle in separable phrasal verbs.",
+  "learningObjectives": [
+    "Identify a particle after a verb and distinguish a literal direction from an idiomatic meaning.",
+    "Use common intransitive phrasal verbs to report movement, mechanical failure, coping or stopping an effort.",
+    "Use fixed phrasal-verb-plus-preposition combinations such as keep up with and look forward to.",
+    "Place noun objects flexibly but object pronouns between the verb and particle in separable constructions."
+  ],
+  "explanation": [
+    {
+      "heading": "Verb plus particle: one useful expression",
+      "body": "Many everyday expressions combine a verb with a short word such as out, on, off, up, back or away. This second word is often called a particle. Some combinations keep a clear idea of direction or movement: come back means return, while move away means leave a place. Learn the verb and particle as a unit rather than treating the particle as optional.",
+      "example": "The delivery team drove away as soon as the gate opened."
+    },
+    {
+      "heading": "The combined meaning can be different from the verb",
+      "body": "Some phrasal verbs have a meaning that you cannot predict by translating their parts separately. Break down can mean that a machine stops functioning; get by means manage with limited resources; give up means stop making an effort. Context helps you decide which meaning is intended. The grammar of the whole phrase matters as much as the meaning.",
+      "example": "When the old lift broke down, everyone took the stairs."
+    },
+    {
+      "heading": "Intransitive combinations need no direct object",
+      "body": "Some common phrasal verbs stand alone: the bus drove off, the guests came back, the engine broke down. Do not insert a direct object after these uses simply because other phrasal verbs allow one. You can add further information about time or place, but the verb-plus-particle expression stays together.",
+      "example": "The guests came back just before the concert started."
+    },
+    {
+      "heading": "Some expressions take a further preposition",
+      "body": "In combinations such as keep up with someone, look forward to something, run away from a place, and look up at something, the final preposition introduces the next noun or pronoun. Keep the entire pattern: look forward to is followed by a noun or an -ing verb, not a bare infinitive. Do not transfer the pronoun-placement rule for separable verbs to these fixed combinations.",
+      "example": "We are looking forward to meeting the new neighbours."
+    },
+    {
+      "heading": "Separable verbs: nouns versus object pronouns",
+      "body": "With a separable transitive phrasal verb, a noun object often goes after the particle or between the verb and particle: switch off the fan / switch the fan off. However, an unstressed object pronoun such as it, them, her or me must come in the middle: switch it off, not switch off it. This applies to common patterns like take them off, wake her up and give it back. Not every phrasal verb is separable, so learn which pattern each verb permits.",
+      "example": "Please put the spare chairs away, and then put them away in the storeroom."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Movement meaning versus special meaning",
+      "left": {
+        "label": "Direction: come back",
+        "example": "The volunteers came back after lunch.",
+        "note": "Back has an identifiable return meaning."
+      },
+      "right": {
+        "label": "Special meaning: get by",
+        "example": "The volunteers got by with a small budget.",
+        "note": "Get by means manage, not move past a physical object."
+      }
+    },
+    {
+      "title": "Noun placement versus pronoun placement",
+      "left": {
+        "label": "Noun object: two positions",
+        "example": "Turn the heater off. / Turn off the heater.",
+        "note": "Both arrangements are acceptable with this separable phrasal verb."
+      },
+      "right": {
+        "label": "Pronoun object: middle only",
+        "example": "Turn it off.",
+        "note": "It must appear before off; turn off it is not grammatical."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Our car broke down beside the bridge, so we called for help.",
+      "note": "Broke down expresses a machine failure; it has no direct object here."
+    },
+    {
+      "sentence": "The audience watched the helicopter take off.",
+      "note": "Take off here describes an aircraft leaving the ground."
+    },
+    {
+      "sentence": "I cannot keep up with the instructor when she walks this fast.",
+      "note": "Keep up with needs with before the person being followed."
+    },
+    {
+      "sentence": "Theo looked forward to visiting the science centre.",
+      "note": "To belongs to the expression look forward to and can precede an -ing form."
+    },
+    {
+      "sentence": "The batteries are empty, so please take them out of the remote.",
+      "note": "Them sits between the separable verb take and the particle out."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Could you switch off it before you leave?",
+      "correct": "Could you switch it off before you leave?",
+      "why": "In a separable phrasal verb, an object pronoun goes before the particle."
+    },
+    {
+      "incorrect": "I am looking forward to meet your colleagues.",
+      "correct": "I am looking forward to meeting your colleagues.",
+      "why": "Look forward to uses to as a preposition; a following verb takes -ing."
+    },
+    {
+      "incorrect": "The motor broke off during the test.",
+      "correct": "The motor broke down during the test.",
+      "why": "Break down, not break off, is the usual phrase for equipment stopping unexpectedly."
+    },
+    {
+      "incorrect": "We could not keep up the cyclist ahead of us.",
+      "correct": "We could not keep up with the cyclist ahead of us.",
+      "why": "Keep up with somebody needs the final preposition with."
+    }
+  ],
+  "studyTips": [
+    "Keep a three-column notebook: phrasal verb, meaning in a short context, and whether it takes an object.",
+    "For each separable verb, say three forms: switch off the fan, switch the fan off, switch it off.",
+    "Memorise complete three-word units such as keep up with and look forward to; then use a noun or -ing form after to."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "We have very little money this month, but we can still ___ until payday.",
+      "choices": [
+        "get by",
+        "get off",
+        "get back"
+      ],
+      "answerIndex": 0,
+      "feedback": "Get by means manage with the money or resources available."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Those documents are confidential. Please ___ when you have finished reading them.",
+      "choices": [
+        "throw away them",
+        "put them away",
+        "put away them"
+      ],
+      "answerIndex": 1,
+      "feedback": "With separable put away, the object pronoun them must come between the verb and particle."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "I have a fast walking pace, but my younger brother can usually keep ___ me.",
+      "choices": [
+        "out from",
+        "on to",
+        "up with"
+      ],
+      "answerIndex": 2,
+      "feedback": "Keep up with somebody means move or progress at a similar speed."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "At the end of the runway, the small aircraft began to ___.",
+      "choices": [
+        "take off",
+        "give up",
+        "get by"
+      ],
+      "answerIndex": 0,
+      "feedback": "Take off describes an aircraft leaving the ground."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The lift stopped working between floors. It ___ during the power failure. (Use the past simple of break down.)",
+      "acceptedAnswers": [
+        "broke down"
+      ],
+      "feedback": "Broke down describes equipment that stops working."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "After five unsuccessful attempts, we decided to ___. (Use the expression meaning stop trying; two words.)",
+      "acceptedAnswers": [
+        "give up"
+      ],
+      "feedback": "Give up means stop trying to achieve something."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We are looking forward ___ the opening ceremony next week. (Supply the one-word preposition.)",
+      "acceptedAnswers": [
+        "to"
+      ],
+      "feedback": "Look forward to is a fixed combination, with to before a noun or an -ing form."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "These boots are muddy. Please take ___ before entering the studio. (Use the object pronoun them and the particle off.)",
+      "acceptedAnswers": [
+        "them off"
+      ],
+      "feedback": "Take them off places the pronoun between the verb and particle."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Please turn on it when the room gets dark.",
+      "acceptedAnswers": [
+        "Please turn it on when the room gets dark."
+      ],
+      "feedback": "An object pronoun goes between turn and on in this separable construction."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We are looking forward to visit the exhibition on Friday.",
+      "acceptedAnswers": [
+        "We are looking forward to visiting the exhibition on Friday."
+      ],
+      "feedback": "Look forward to takes an -ing form after the preposition to."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: After the accident, the two cyclists could not keep up the rest of the group.",
+      "acceptedAnswers": [
+        "After the accident, the two cyclists could not keep up with the rest of the group."
+      ],
+      "feedback": "The fixed expression is keep up with somebody or something."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The mechanic said the generator broke off in the middle of the night.",
+      "acceptedAnswers": [
+        "The mechanic said the generator broke down in the middle of the night."
+      ],
+      "feedback": "For mechanical failure, use break down rather than break off."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one past-simple sentence using exactly these facts: the delivery van / break down / outside the factory. Begin with “The delivery van”.",
+      "acceptedAnswers": [
+        "The delivery van broke down outside the factory."
+      ],
+      "feedback": "Broke down means the van stopped working."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "A coworker asks whether you can manage on a limited budget. Respond with the exact idea “We can get by with less money.” Say one sentence.",
+      "acceptedAnswers": [
+        "We can get by with less money."
+      ],
+      "feedback": "Get by with expresses coping with a limited amount."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Correct the object position in this sentence and say it aloud, changing nothing else: “Could you turn off it now?”",
+      "acceptedAnswers": [
+        "Could you turn it off now?"
+      ],
+      "feedback": "Object pronouns go between the verb and particle in separable turn off."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Paraphrase “I cannot walk as fast as Nadia” using keep up with. Begin with “I cannot” and end with “Nadia”. Use full forms.",
+      "acceptedAnswers": [
+        "I cannot keep up with Nadia."
+      ],
+      "feedback": "Keep up with someone means maintain the same pace."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Describe this planned event in one sentence: the plane / take off / at seven. Begin with “The plane”, use will, and keep the given time.",
+      "acceptedAnswers": [
+        "The plane will take off at seven."
+      ],
+      "feedback": "Take off means leave the ground when referring to an aircraft."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "The cupboard needs organizing. Say one instruction beginning “Put” using “these files” and the particle away, with the noun object between the verb and particle.",
+      "acceptedAnswers": [
+        "Put these files away."
+      ],
+      "feedback": "A noun object may separate a verb and particle: put the files away."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two past-simple sentences in order, using the supplied facts: first “the visitors / come back / after lunch”; second “the guide / switch off / the lights”, replacing “the lights” with “them”. Use full forms.",
+      "acceptedAnswers": [
+        "The visitors came back after lunch. The guide switched them off."
+      ],
+      "feedback": "Came back is intransitive; switched them off places the pronoun in the middle."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say one present-continuous sentence beginning “We are” and ending “the new library”. Use the expression look forward to + visit in its correct form.",
+      "acceptedAnswers": [
+        "We are looking forward to visiting the new library."
+      ],
+      "feedback": "Look forward to must be followed by visiting, not visit."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The old delivery truck broke down on the way to the concert, so the instruments arrived late.",
+      "prompt": "Why did the instruments arrive late?",
+      "choices": [
+        "The truck stopped working.",
+        "The musicians forgot the address.",
+        "The concert began early."
+      ],
+      "answerIndex": 0,
+      "feedback": "Broke down signals a mechanical failure that delayed delivery."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We tried every solution, but none worked. Eventually, we gave up and called a specialist.",
+      "prompt": "What did the speakers do before calling a specialist?",
+      "choices": [
+        "They repaired everything themselves.",
+        "They stopped trying to solve it alone.",
+        "They bought a replacement immediately."
+      ],
+      "answerIndex": 1,
+      "feedback": "Gave up means they ended their own attempts."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "At the end of the presentation, Maya switched it off to save energy.",
+      "prompt": "Type the three-word verb phrase immediately after “Maya”.",
+      "acceptedAnswers": [
+        "switched it off"
+      ],
+      "feedback": "The object pronoun it sits between switched and off."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Evan walked very quickly, and I could not keep up with him until he slowed down.",
+      "prompt": "What changed to let the speaker follow Evan?",
+      "choices": [
+        "Evan began running.",
+        "The speaker took a taxi.",
+        "Evan reduced his speed."
+      ],
+      "answerIndex": 2,
+      "feedback": "Keep up with concerns matching pace; slowing down made that possible."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Our budget is smaller this year, but the club can still get by if we share equipment.",
+      "prompt": "What would help the club manage?",
+      "choices": [
+        "Sharing its equipment.",
+        "Cancelling every activity.",
+        "Hiring more staff."
+      ],
+      "answerIndex": 0,
+      "feedback": "Get by means manage; the conditional clause supplies the way to do that."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The coach took the training cones out of the bag and put them away after the session.",
+      "prompt": "What happened to the cones after the session?",
+      "choices": [
+        "They were left on the field.",
+        "They were stored away.",
+        "They were given to visitors."
+      ],
+      "answerIndex": 1,
+      "feedback": "Put them away means the cones were returned to storage."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The students are looking forward to visiting the new research centre next term.",
+      "prompt": "Type the three-word phrase heard immediately after “students are”.",
+      "acceptedAnswers": [
+        "looking forward to"
+      ],
+      "feedback": "Look forward to has three words and expresses positive anticipation."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The ferry came back to the harbour before the storm reached the coast.",
+      "prompt": "Type the two-word past-tense phrasal verb immediately after “The ferry”.",
+      "acceptedAnswers": [
+        "came back"
+      ],
+      "feedback": "Came back means returned to a previous place."
+    }
+  ]
+}

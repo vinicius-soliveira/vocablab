@@ -1,0 +1,412 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u011",
+  "title": "How long? States and activities continuing until now",
+  "level": "B1",
+  "topicId": "eg2-u011-how-long-present-perfect-duration",
+  "summary": "Talk about a state or activity that began in the past and remains true now. Use the present perfect simple for continuing states, the present perfect continuous for ongoing activities, appropriate forms with live and work, and negatives for things not done recently.",
+  "learningObjectives": [
+    "Ask and answer how-long questions about an ongoing state with the present perfect simple.",
+    "Use the present perfect continuous to give the duration of an activity that is still in progress.",
+    "Choose natural present perfect forms with know, have, live, work and always.",
+    "Explain how long it has been since an action last happened using a present perfect negative."
+  ],
+  "explanation": [
+    {
+      "heading": "Connect a state in the past with the present",
+      "body": "When a situation began earlier and is still true, use have or has plus a past participle to give its duration. A present-tense sentence describes the situation now; a present-perfect sentence can describe how long it has continued. Do not attach a duration beginning in the past to an ordinary present-simple form.",
+      "example": "My grandparents have been neighbours for more than thirty years."
+    },
+    {
+      "heading": "Ask how long a state has lasted",
+      "body": "Use How long have/has + subject + past participle? for a continuing state. State verbs such as know and have when it means possess normally use the present perfect simple rather than been + -ing. The answer can identify a period or a starting point.",
+      "example": "How long has your family owned that cottage?"
+    },
+    {
+      "heading": "Prefer the continuous for an unfolding activity",
+      "body": "For a continuing action, How long have/has + subject + been + -ing? often sounds natural because the speaker is interested in the process and its duration. The activity may be taking place at this instant or may be a regular commitment across the period; it need not happen without a break.",
+      "example": "How long have the volunteers been preparing the festival?"
+    },
+    {
+      "heading": "Live and work allow two perspectives",
+      "body": "With live and work, both the present perfect simple and continuous are often possible for a situation lasting until now. The simple can present the situation as a fact; the continuous may give more attention to the ongoing activity. With always to describe an entire life or an unbroken habit, the simple is normally preferred.",
+      "example": "I have always lived near the coast, but I have been working inland since June."
+    },
+    {
+      "heading": "Say what has not happened for a period",
+      "body": "Use have not or has not plus a past participle with a period or starting point to say that an event has not happened again up to now. In expressions such as have not seen and have not called, the duration describes the time since the last occurrence, not the length of a continuous action.",
+      "example": "Our project group has not met in person for several weeks."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Present fact versus state lasting until now",
+      "left": {
+        "label": "Present simple",
+        "example": "I know the owner of that bookstore.",
+        "note": "This identifies a relationship that is true now, without saying when it started."
+      },
+      "right": {
+        "label": "Present perfect simple",
+        "example": "I have known the owner of that bookstore for eight years.",
+        "note": "The relationship began years ago and continues now."
+      }
+    },
+    {
+      "title": "Ongoing action versus enduring state",
+      "left": {
+        "label": "Activity: continuous",
+        "example": "She has been organising community events since last spring.",
+        "note": "Organising events is a continuing or repeated activity; the duration is foregrounded."
+      },
+      "right": {
+        "label": "State: simple",
+        "example": "She has had the same membership card since last spring.",
+        "note": "Have expresses possession here, so has had is used."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "We have been members of the hiking club since 2022.",
+      "note": "Have been links an ongoing membership to its starting year."
+    },
+    {
+      "sentence": "How long have you known your driving instructor?",
+      "note": "Know expresses a state, so the question uses have known rather than have been knowing."
+    },
+    {
+      "sentence": "Jamal has been tutoring younger pupils for two semesters.",
+      "note": "Has been tutoring presents a recurring activity that extends up to now."
+    },
+    {
+      "sentence": "My mother has always worked in public libraries.",
+      "note": "Has always worked is the natural form for work across an entire period."
+    },
+    {
+      "sentence": "I have not heard from the organiser since our last meeting.",
+      "note": "The negative perfect describes the absence of a new message up to the present."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I know my neighbour since 2019.",
+      "correct": "I have known my neighbour since 2019.",
+      "why": "A state that began in 2019 and is still true needs the present perfect."
+    },
+    {
+      "incorrect": "How long have you been owning that bicycle?",
+      "correct": "How long have you owned that bicycle?",
+      "why": "Own is a state verb and does not normally take a continuous form."
+    },
+    {
+      "incorrect": "She has always live in the same village.",
+      "correct": "She has always lived in the same village.",
+      "why": "After has always, use the past participle lived."
+    },
+    {
+      "incorrect": "We have not spoke to the manager for months.",
+      "correct": "We have not spoken to the manager for months.",
+      "why": "The negative present perfect needs the past participle spoken, not the past form spoke."
+    }
+  ],
+  "studyTips": [
+    "For an existing relationship or possession, ask “How long have I known or had it?” rather than “How long do I know or have it?”",
+    "Practise paired duration sentences about a state (have known) and an activity (have been studying), then explain why each form fits.",
+    "Make a timeline of the last time you contacted someone and practise have not spoken, have not seen and have not heard."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Rita first met her neighbour when they were children, and they are still friends. Rita ___ her neighbour for years.",
+      "choices": [
+        "has been knowing",
+        "has known",
+        "knows"
+      ],
+      "answerIndex": 1,
+      "feedback": "Know expresses a continuing relationship, so has known reports its duration."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The heating failed on Tuesday and still does not work. It ___ out of order since Tuesday.",
+      "choices": [
+        "is",
+        "have been",
+        "has been"
+      ],
+      "answerIndex": 2,
+      "feedback": "Has been describes a state that started on Tuesday and continues now."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "You joined a singing group last autumn and still rehearse with it. Ask about the duration of the activity: ___ with the group?",
+      "choices": [
+        "How long have you been singing",
+        "How long are you singing",
+        "When have you been singing"
+      ],
+      "answerIndex": 0,
+      "feedback": "How long have you been singing asks about an activity continuing over a period until now."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Daniel was born in this town and has never moved away. He ___ here all his life.",
+      "choices": [
+        "has always been live",
+        "has always lived",
+        "always has live"
+      ],
+      "answerIndex": 1,
+      "feedback": "With always and a lifelong situation, the present perfect simple has always lived is natural."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "We became friends seven years ago and are still close. We ___ (know) each other for seven years. Use the present perfect simple.",
+      "acceptedAnswers": [
+        "have known"
+      ],
+      "feedback": "Know is a state verb: use have known for a relationship that has lasted seven years."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Our adviser started teaching at the college in 2018 and still teaches there. She ___ (work) at the college since 2018. Use the present perfect continuous.",
+      "acceptedAnswers": [
+        "has been working"
+      ],
+      "feedback": "Has been working highlights an ongoing activity that began in 2018."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "I bought this guitar during my studies and still own it. I ___ (have) this guitar for nine years. Use the present perfect simple.",
+      "acceptedAnswers": [
+        "have had"
+      ],
+      "feedback": "Have meaning possess uses the present perfect simple: have had."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The coordinator last replied three weeks ago. I ___ (not / hear) from her for three weeks. Use the present perfect simple.",
+      "acceptedAnswers": [
+        "haven't heard",
+        "have not heard"
+      ],
+      "feedback": "The past participle heard with have not describes an event that has not happened again."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We are neighbours since 2020.",
+      "acceptedAnswers": [
+        "We have been neighbours since 2020.",
+        "We've been neighbours since 2020."
+      ],
+      "feedback": "A state continuing from 2020 requires the present perfect, not are."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: How long have you been owning this shop?",
+      "acceptedAnswers": [
+        "How long have you owned this shop?"
+      ],
+      "feedback": "Own is a state verb; use have owned rather than have been owning."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She has always live in the same village.",
+      "acceptedAnswers": [
+        "She has always lived in the same village."
+      ],
+      "feedback": "The present perfect needs the past participle lived after has."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I have not saw my cousins since winter.",
+      "acceptedAnswers": [
+        "I have not seen my cousins since winter.",
+        "I haven't seen my cousins since winter."
+      ],
+      "feedback": "Use seen as the past participle of see after have not."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Nico became a volunteer in 2021 and is still a volunteer. Make one sentence beginning “Nico” and ending “since 2021”.",
+      "acceptedAnswers": [
+        "Nico has been a volunteer since 2021.",
+        "Nico's been a volunteer since 2021."
+      ],
+      "feedback": "Has been states how long Nico has held this role."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask someone directly about the duration of their friendship with Ada. Use the verb know and begin “How long”.",
+      "acceptedAnswers": [
+        "How long have you known Ada?"
+      ],
+      "feedback": "Have you known is the correct question form for the state verb know."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "The coach started training the team in April and still trains them. Say one sentence beginning “The coach” with the present perfect continuous and “since April”.",
+      "acceptedAnswers": [
+        "The coach has been training the team since April."
+      ],
+      "feedback": "Has been training shows a continuing activity from April until now."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You received these keys ten years ago and still have them. Say one sentence beginning “I” and using “have had these keys for ten years”.",
+      "acceptedAnswers": [
+        "I have had these keys for ten years.",
+        "I've had these keys for ten years."
+      ],
+      "feedback": "Possession across time uses have had, not have been having."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "You have received no message from Asha since Thursday. Say one negative sentence beginning “I” and using “a message from Asha since Thursday”.",
+      "acceptedAnswers": [
+        "I haven't received a message from Asha since Thursday.",
+        "I have not received a message from Asha since Thursday."
+      ],
+      "feedback": "The present perfect negative states that the expected event has not happened since Thursday."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Correct only the verb phrase in this sentence. Use the present perfect simple: “He works at the same museum since 2019.”",
+      "acceptedAnswers": [
+        "He has worked at the same museum since 2019.",
+        "He's worked at the same museum since 2019."
+      ],
+      "feedback": "Has worked describes continuing employment that began in 2019."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Your father grew up in Liverpool and has never lived anywhere else. Say one sentence beginning “My father” and using “always lived in Liverpool”.",
+      "acceptedAnswers": [
+        "My father has always lived in Liverpool.",
+        "My father's always lived in Liverpool."
+      ],
+      "feedback": "Has always lived is natural when the place has never changed."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences, using full auxiliary forms. First say that you have known Mira for five years. Then say that you and Mira have been running a shop together since June. Begin the sentences with “I” and “We”.",
+      "acceptedAnswers": [
+        "I have known Mira for five years. We have been running a shop together since June."
+      ],
+      "feedback": "Have known describes a state; have been running describes an ongoing joint activity."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "prompt": "What does the speaker say about committee membership?",
+      "choices": [
+        "It ended three years ago.",
+        "It began three years ago and continues today.",
+        "It will begin in three years."
+      ],
+      "answerIndex": 1,
+      "feedback": "The membership started in the past and remains current.",
+      "audioText": "I joined the neighbourhood committee three years ago, and I am still a member."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "prompt": "Which statement about the sofa is supported?",
+      "choices": [
+        "They sold it before moving.",
+        "They are choosing a sofa now.",
+        "They still have the sofa they got when they moved."
+      ],
+      "answerIndex": 2,
+      "feedback": "Have had connects past possession with continued ownership.",
+      "audioText": "We have had this old sofa since the day we moved into our first flat."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "prompt": "Type the three-word verb phrase immediately after “She”.",
+      "acceptedAnswers": [
+        "has been living"
+      ],
+      "feedback": "Has been living is the audible present perfect continuous phrase.",
+      "audioText": "She has been living with her sister since April."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "prompt": "How long has the aunt worked at the gallery?",
+      "choices": [
+        "Fifteen years",
+        "One month",
+        "Since yesterday"
+      ],
+      "answerIndex": 0,
+      "feedback": "Her overall employment has lasted fifteen years; her management role is recent.",
+      "audioText": "My aunt has worked at the gallery for fifteen years, but she only became its manager last month."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "prompt": "When did the speaker last speak to Leo?",
+      "choices": [
+        "This morning",
+        "During the workshop in May",
+        "They have never spoken"
+      ],
+      "answerIndex": 1,
+      "feedback": "There has been no conversation since the workshop ended in May.",
+      "audioText": "I have not spoken to Leo since we finished the workshop in May."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "prompt": "What kind of activity does the speaker describe?",
+      "choices": [
+        "One visit that ended two years ago.",
+        "Work done without stopping day and night.",
+        "Regular Saturday volunteering that is still ongoing."
+      ],
+      "answerIndex": 2,
+      "feedback": "Have been volunteering covers a repeated activity throughout a continuing period.",
+      "audioText": "I have been volunteering at the animal shelter every Saturday for two years, and I plan to continue."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "prompt": "Type the two-word verb phrase immediately after “I”.",
+      "acceptedAnswers": [
+        "have known"
+      ],
+      "feedback": "Have known is the spoken present perfect simple for a continuing relationship.",
+      "audioText": "I have known my dentist for over a decade."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "prompt": "Type the three-word negative verb phrase immediately after “I”.",
+      "acceptedAnswers": [
+        "have not visited"
+      ],
+      "feedback": "Have not visited says that the speaker has made no visit in that period.",
+      "audioText": "I have not visited that town since childhood."
+    }
+  ]
+}

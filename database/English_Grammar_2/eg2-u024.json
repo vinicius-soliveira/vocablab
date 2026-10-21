@@ -1,0 +1,408 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u024",
+  "title": "Future continuous and future perfect",
+  "level": "B2",
+  "topicId": "eg2-u024-future-continuous-perfect",
+  "summary": "Use will be + -ing to show an activity underway at a future time or expected as part of a future schedule. Use will have + past participle to say that something will be complete by a future deadline or will have lasted for a stated period by then.",
+  "learningObjectives": [
+    "Describe an activity in progress at a specified time in the future with will be + -ing.",
+    "Use future continuous to describe an expected or scheduled future activity and ask about it politely.",
+    "Use will have + past participle to express completion before a future reference point.",
+    "Describe how long a state will have continued by a future date and distinguish progress from completion."
+  ],
+  "explanation": [
+    {
+      "heading": "Future continuous: will be + -ing",
+      "body": "The future continuous is built with will be and the -ing form of a verb. It places the listener inside an activity at a later time, rather than presenting its beginning or end. A specific future moment such as at three tomorrow helps establish the point of view. For negatives use will not be + -ing.",
+      "example": "At eight tomorrow morning, the mechanics will be inspecting the lifts."
+    },
+    {
+      "heading": "An activity already under way at that future moment",
+      "body": "Use future continuous when an action will have begun before a specified future time and will still be in progress then. Context should establish the duration or the ongoing nature of the activity. Compare I’ll start at seven, which marks a new action, with I’ll be working at seven, which shows an action in progress then.",
+      "example": "The seminar lasts from two until four. At three, we’ll be discussing the results."
+    },
+    {
+      "heading": "Expected future activities and polite enquiries",
+      "body": "Will be + -ing can also describe an activity expected as part of a planned future course of events without focusing on a particular instant. It is natural in announcements and questions about what someone is likely to be doing. Will you be using ...? can sound less demanding than a direct request because it asks about an expected activity.",
+      "example": "Will you be using the shared screen during the afternoon session?"
+    },
+    {
+      "heading": "Future perfect: will have + past participle",
+      "body": "The future perfect presents an event as completed before a future moment. Build it with will have + past participle: will have sent, will have repaired, will have left. By Friday, by then and by the time ... commonly introduce the reference point. Put will not before have for the negative.",
+      "example": "By the time the library opens, the cleaners will have finished their work."
+    },
+    {
+      "heading": "An accumulated period by a future date",
+      "body": "The future perfect can also look back from a future date to measure how long a state has lasted. In this use, it is often followed by for and a duration. For example, will have worked here for ten years describes the duration reached by the reference date, even if the person continues working afterward.",
+      "example": "Next April, Jo will have lived in the same village for twelve years."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Future moment versus completed result",
+      "left": {
+        "label": "In progress at that time",
+        "example": "At half past six, we’ll be preparing the meal.",
+        "note": "The activity will still be taking place at the future moment."
+      },
+      "right": {
+        "label": "Finished by that time",
+        "example": "By half past six, we’ll have prepared the meal.",
+        "note": "The work will already be complete by the reference point."
+      }
+    },
+    {
+      "title": "A future action and an expected ongoing event",
+      "left": {
+        "label": "Start an action",
+        "example": "We’ll check the equipment after lunch.",
+        "note": "Will check presents a future action without placing us inside it."
+      },
+      "right": {
+        "label": "Activity expected then",
+        "example": "We’ll be checking the equipment during the afternoon.",
+        "note": "Will be checking focuses on the activity as part of the afternoon period."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "At five tomorrow, the volunteers will be setting up the food stalls.",
+      "note": "Future continuous locates an unfinished activity at five."
+    },
+    {
+      "sentence": "Will you be travelling through the city centre on Friday?",
+      "note": "Future continuous can enquire about a future activity without sounding like a direct request."
+    },
+    {
+      "sentence": "By six, the staff will have locked all the doors.",
+      "note": "Future perfect marks a completed action before the stated deadline."
+    },
+    {
+      "sentence": "The trainees won’t have finished the assessment by noon.",
+      "note": "The negative future perfect says the task will still be incomplete at that time."
+    },
+    {
+      "sentence": "By the end of this year, Amira will have worked at the clinic for eight years.",
+      "note": "Future perfect measures the duration reached by a future reference date."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "At this time tomorrow, I will be drive to the airport.",
+      "correct": "At this time tomorrow, I will be driving to the airport.",
+      "why": "Future continuous uses will be followed by a verb ending in -ing."
+    },
+    {
+      "incorrect": "By Thursday, the team will have complete the testing.",
+      "correct": "By Thursday, the team will have completed the testing.",
+      "why": "Future perfect requires the past participle completed after will have."
+    },
+    {
+      "incorrect": "At three tomorrow, we will have working on the display.",
+      "correct": "At three tomorrow, we will be working on the display.",
+      "why": "A process in progress at a future moment takes will be + -ing, not will have + -ing."
+    },
+    {
+      "incorrect": "By next January, she will have be here for five years.",
+      "correct": "By next January, she will have been here for five years.",
+      "why": "For the completed duration of a state, use the past participle been after will have."
+    }
+  ],
+  "studyTips": [
+    "Draw a timeline with two marks: when an activity starts and when it ends. Put a future clock time inside it to practise will be doing.",
+    "For a deadline, write By + future time before choosing will have + past participle; check that the event is finished by then.",
+    "Compare pairs such as at four I’ll be working versus by four I’ll have finished, and explain what remains unfinished at four."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The guided tour runs from two to four. At three, the visitors ___ the old theatre.",
+      "choices": [
+        "will have left",
+        "will be exploring",
+        "explored yesterday"
+      ],
+      "answerIndex": 1,
+      "feedback": "The tour is ongoing at three, so will be exploring locates the visitors inside that activity."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The safety inspection ends at eleven. By noon, the inspectors ___ their final report.",
+      "choices": [
+        "will have written",
+        "will have writing",
+        "will be wrote"
+      ],
+      "answerIndex": 0,
+      "feedback": "A completed report by a future deadline takes will have + the past participle written."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Tomorrow’s broadcast includes an interview at eight. At eight, the presenter ___ to the head gardener.",
+      "choices": [
+        "will have speaking",
+        "will be spoke",
+        "will be speaking"
+      ],
+      "answerIndex": 2,
+      "feedback": "Will be speaking describes the broadcast activity happening at that future time."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "My parents moved into this flat in December 2007. In December 2027, they ___ there for twenty years.",
+      "choices": [
+        "will have live",
+        "will have lived",
+        "will be lived"
+      ],
+      "answerIndex": 1,
+      "feedback": "By December 2027 their period of living there reaches twenty years: will have lived."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The concert lasts from seven until nine. At eight, the musicians ___ (perform). Use the future continuous.",
+      "acceptedAnswers": [
+        "will be performing"
+      ],
+      "feedback": "At eight the concert will be under way; use will be performing."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The repair is scheduled to end on Friday morning. By Friday afternoon, the crew ___ (complete) the work. Use the future perfect.",
+      "acceptedAnswers": [
+        "will have completed"
+      ],
+      "feedback": "By the afternoon the work is finished, so use will have completed."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The train is delayed until at least seven. By six, the passengers ___ (not / leave) the station. Use the future perfect negative.",
+      "acceptedAnswers": [
+        "will not have left",
+        "won't have left"
+      ],
+      "feedback": "Will not have left says the passengers’ departure will not yet have happened by six."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "At this time tomorrow, Lara ___ (travel) through the countryside. Use the future continuous.",
+      "acceptedAnswers": [
+        "will be travelling",
+        "will be traveling"
+      ],
+      "feedback": "The future continuous is will be + travelling (or American English traveling)."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: At noon tomorrow, the guides will showing visitors around the museum.",
+      "acceptedAnswers": [
+        "At noon tomorrow, the guides will be showing visitors around the museum."
+      ],
+      "feedback": "Future continuous needs will be showing, not will showing."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: By the time you return, I will have finish the draft.",
+      "acceptedAnswers": [
+        "By the time you return, I will have finished the draft."
+      ],
+      "feedback": "A future perfect verb needs the past participle finished after will have."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: By next June, the twins will have being married for ten years.",
+      "acceptedAnswers": [
+        "By next June, the twins will have been married for ten years."
+      ],
+      "feedback": "The state of being married lasting to a future reference date takes will have been."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Our drive starts at seven and ends at nine. At eight tomorrow, we will have driving through the mountains.",
+      "acceptedAnswers": [
+        "Our drive starts at seven and ends at nine. At eight tomorrow, we will be driving through the mountains."
+      ],
+      "feedback": "At eight the journey will still be in progress, so use will be driving."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "The equipment test begins at nine and ends at eleven. Describe the team’s activity at ten tomorrow. Begin “At ten tomorrow” and use “the team will be testing the new lift”.",
+      "acceptedAnswers": [
+        "At ten tomorrow, the team will be testing the new lift."
+      ],
+      "feedback": "Future continuous shows testing in progress at ten."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "You expect to submit the report before Friday evening. State the completed result by that time. Begin “By Friday evening” and use “I will have submitted the report”.",
+      "acceptedAnswers": [
+        "By Friday evening, I will have submitted the report."
+      ],
+      "feedback": "Will have submitted reports completion by the future deadline."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Politely ask about someone’s expected activity at three. Begin “Will you be” and use “using the projector at three”.",
+      "acceptedAnswers": [
+        "Will you be using the projector at three?"
+      ],
+      "feedback": "Will you be using is a future-continuous question about an expected activity."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The train cannot arrive until seven. Say that the visitors will not have arrived by six. Begin “The visitors”.",
+      "acceptedAnswers": [
+        "The visitors won't have arrived by six.",
+        "The visitors will not have arrived by six."
+      ],
+      "feedback": "The negative future perfect indicates no completed arrival by six."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Nia started working here five years before December 2027. Say how long she will have worked here by that December. Begin “By December 2027”.",
+      "acceptedAnswers": [
+        "By December 2027, Nia will have worked here for five years."
+      ],
+      "feedback": "The future perfect measures the duration accumulated by December 2027."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "The exam runs from three until five tomorrow. Describe the students at four. Begin “At four tomorrow” and use the future continuous with “take an exam”.",
+      "acceptedAnswers": [
+        "At four tomorrow, the students will be taking an exam."
+      ],
+      "feedback": "At four, the students will be in the middle of the exam."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the missing word and say the full sentence: “At noon tomorrow, I will working from home.”",
+      "acceptedAnswers": [
+        "At noon tomorrow, I will be working from home."
+      ],
+      "feedback": "Future continuous requires will be working."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences. First: at two tomorrow, the inspector / check the doors (use will be checking). Second: by four tomorrow, the inspector / check all the doors (use will have checked). Begin with “At two tomorrow” and “By four tomorrow”.",
+      "acceptedAnswers": [
+        "At two tomorrow, the inspector will be checking the doors. By four tomorrow, the inspector will have checked all the doors."
+      ],
+      "feedback": "The first sentence places the inspection in progress; the second presents its completion by four."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "prompt": "What will the speaker be doing at ten?",
+      "choices": [
+        "Preparing to start the interviews the next day.",
+        "Taking part in an interview already in progress.",
+        "Reviewing every completed interview."
+      ],
+      "answerIndex": 1,
+      "feedback": "Will be interviewing places the speaker in an ongoing activity at ten.",
+      "audioText": "I start interviewing applicants at nine and finish at eleven. At ten, I’ll be interviewing the final candidate."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "prompt": "What is expected before the listener arrives?",
+      "choices": [
+        "All broken windows will have been replaced.",
+        "The repairs will only be beginning.",
+        "The windows will still be broken."
+      ],
+      "answerIndex": 0,
+      "feedback": "Will have replaced shows that the whole task will be complete before arrival.",
+      "audioText": "By the time you arrive on Friday, we will have replaced every broken window."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "prompt": "Type the three-word future verb phrase immediately after “the research team”.",
+      "acceptedAnswers": [
+        "will be collecting"
+      ],
+      "feedback": "Will be collecting describes an activity in progress at a future time.",
+      "audioText": "This time tomorrow, the research team will be collecting samples in the valley."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "prompt": "What activity will be under way at half past eight?",
+      "choices": [
+        "Travelling to the stadium.",
+        "Buying tickets for next week.",
+        "Watching the first half of the match."
+      ],
+      "answerIndex": 2,
+      "feedback": "We’ll be watching says the match viewing will be in progress at eight thirty.",
+      "audioText": "At half past eight tonight, we’ll be watching the first half of the match, not travelling to the stadium."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "prompt": "What does the five-year period measure?",
+      "choices": [
+        "How long the speaker will be visiting Oslo.",
+        "How long the sister will have lived there by that date.",
+        "How long the sister plans to stay after New Year."
+      ],
+      "answerIndex": 1,
+      "feedback": "Will have lived for five years measures the period accumulated by New Year’s Eve.",
+      "audioText": "On New Year’s Eve, my sister will have lived in Oslo for exactly five years."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "prompt": "What is the speaker asking about?",
+      "choices": [
+        "A job completed yesterday.",
+        "Permission to borrow some books.",
+        "The listener’s expected activity tomorrow afternoon."
+      ],
+      "answerIndex": 2,
+      "feedback": "Will you be working enquires about a future activity rather than asking for a task to be done.",
+      "audioText": "Will you be working in the library tomorrow afternoon? I don’t want to interrupt your work."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "prompt": "Type the three-word future verb phrase immediately after “the electrician”.",
+      "acceptedAnswers": [
+        "will have restored"
+      ],
+      "feedback": "Will have restored expresses completion before seven.",
+      "audioText": "By seven tonight, the electrician will have restored power to the building."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "prompt": "Type the future-continuous negative verb phrase immediately after “the passengers”. Contraction or full form is accepted.",
+      "acceptedAnswers": [
+        "won't be sleeping",
+        "will not be sleeping"
+      ],
+      "feedback": "The negative future continuous says sleeping will not be in progress at midnight.",
+      "audioText": "At midnight, the passengers won’t be sleeping because of the noise."
+    }
+  ]
+}

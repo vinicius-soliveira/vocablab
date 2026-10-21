@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u135",
+  "title": "Verb and Preposition Patterns: Of, For, From and On",
+  "level": "B2",
+  "topicId": "eg2-u135-verb-prepositions-of-for-from-on",
+  "summary": "Use verb-preposition combinations to describe accusations, approval, payments, apologies, blame, protection, dependence and praise. Distinguish pay for a purchase from pay a bill, and blame someone for a problem from blame a problem on someone.",
+  "learningObjectives": [
+    "Choose of after accuse, suspect, approve and consist, and recognise die of/from when a cause is named.",
+    "Use for to identify a purchase, the reason for thanks or apologies, and responsibility for a problem; omit for after pay when naming a bill or fee.",
+    "Use from after suffer and protect to show an illness or the danger kept away.",
+    "Use on with depend, rely, live, congratulate and compliment, choosing the correct person and reason."
+  ],
+  "explanation": [
+    {
+      "heading": "Accusations, approval and composition with of",
+      "body": "Accuse somebody of doing something states an allegation; suspect somebody of doing something expresses suspicion without establishing guilt. Approve of introduces behaviour or an idea that you consider acceptable, while disapprove of expresses the opposite. Consist of describes the parts that make up a whole. With illnesses or other causes, die of and die from are both possible; do not treat them as different fixed meanings.",
+      "example": "The curator suspected a visitor of damaging a display, but the investigation was inconclusive."
+    },
+    {
+      "heading": "Payments: pay for versus pay directly",
+      "body": "Pay for identifies the goods or services bought: pay for a meal, a repair or a ticket. However, pay normally takes objects such as the bill, the rent, a tax, a fine or a fee without for. You may also pay somebody for work they have done. Learn the complete phrase rather than automatically adding for after every instance of pay.",
+      "example": "We paid the parking fee, then paid for the shuttle to the festival."
+    },
+    {
+      "heading": "Reasons, apologies and blame with for and on",
+      "body": "Thank or forgive somebody for something, and apologise to somebody for something you did. Blame somebody for a mistake assigns responsibility to that person; you can also blame the mistake on that person, making the problem the object of blame. This grammatical change determines whether for or on is used. The phrase be to blame for similarly introduces the problem.",
+      "example": "The organiser apologised to the performers for the delay and refused to blame it on the volunteers."
+    },
+    {
+      "heading": "Problems and protection with from",
+      "body": "Suffer from introduces a disease, condition or continuing problem that affects a person. Protect somebody or something from a hazard means keep the danger away or reduce its harmful effects. The preposition names the problem or danger, not the person receiving help. Both patterns often occur in medical, safety and everyday contexts.",
+      "example": "The new roof protects the paintings from moisture, which can damage them over time."
+    },
+    {
+      "heading": "Dependence, resources and praise with on",
+      "body": "Depend on and rely on express that an outcome or person needs something else; rely on someone often suggests trust that they will help. Live on a sum of money or a type of food describes resources used to survive. Congratulate somebody on an achievement or compliment somebody on a particular skill or feature: congratulate is about a success, while compliment expresses praise.",
+      "example": "The launch depends on the weather, but the team can rely on its experienced coordinator."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Payment object: goods versus an amount owed",
+      "left": {
+        "label": "pay for + goods or services",
+        "example": "Maya paid for the bicycle repairs.",
+        "note": "For introduces the service being purchased."
+      },
+      "right": {
+        "label": "pay + bill or fee",
+        "example": "Maya paid the repair bill.",
+        "note": "The bill is a direct object, so no for is needed."
+      }
+    },
+    {
+      "title": "Blame somebody for something versus blame something on somebody",
+      "left": {
+        "label": "blame + person + for + problem",
+        "example": "They blamed the driver for the delay.",
+        "note": "The person is the direct object; for marks the problem."
+      },
+      "right": {
+        "label": "blame + problem + on + person",
+        "example": "They blamed the delay on the driver.",
+        "note": "The delay becomes the object; on introduces the person."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The panel accused the supplier of changing the specifications without permission.",
+      "note": "Accuse someone of something introduces the alleged conduct."
+    },
+    {
+      "sentence": "Our weekly menu consists of three main dishes and a vegetarian option.",
+      "note": "Consists of describes the parts making up a complete set."
+    },
+    {
+      "sentence": "I thanked the neighbour for returning my lost keys.",
+      "note": "The person thanked comes first; for introduces the helpful act."
+    },
+    {
+      "sentence": "A strong case protects the tablet from accidental scratches.",
+      "note": "Protects from identifies the damage that the case helps prevent."
+    },
+    {
+      "sentence": "The director complimented the actor on her clear pronunciation.",
+      "note": "Complimented somebody on names the feature being praised."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Our lunch consisted from soup and two salads.",
+      "correct": "Our lunch consisted of soup and two salads.",
+      "why": "Consist of identifies the components of the meal; from is not the standard pattern here."
+    },
+    {
+      "incorrect": "The tenants paid for the rent on Monday.",
+      "correct": "The tenants paid the rent on Monday.",
+      "why": "Pay rent takes a direct object without for; pay for introduces a product or service."
+    },
+    {
+      "incorrect": "She apologised her colleague for the error.",
+      "correct": "She apologised to her colleague for the error.",
+      "why": "Use apologise to the person affected and for the reason for the apology."
+    },
+    {
+      "incorrect": "The instructor congratulated Leo for finishing the course.",
+      "correct": "The instructor congratulated Leo on finishing the course.",
+      "why": "The usual pattern is congratulate somebody on an achievement."
+    }
+  ],
+  "studyTips": [
+    "Record payment pairs aloud: pay for the tickets versus pay the entrance fee. Notice which noun follows pay.",
+    "Swap the focus of blame sentences: blame the person for the mistake, then blame the mistake on the person.",
+    "Group verb patterns by meaning: concern (suffer from), security (protect from), dependence (rely on), and praise (compliment on)."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The security team suspected the contractor ___ taking a restricted document.",
+      "choices": [
+        "for",
+        "of",
+        "on"
+      ],
+      "answerIndex": 1,
+      "feedback": "Suspect somebody of + -ing introduces what the contractor may have done; it does not establish guilt."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The membership fee is due today. Please ___ before the meeting.",
+      "choices": [
+        "pay for the fee",
+        "pay to the fee",
+        "pay the fee"
+      ],
+      "answerIndex": 2,
+      "feedback": "Pay a fee takes the fee directly as its object, without for."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The visitor complained after the accident, but the guide did not blame her ___ the damage.",
+      "choices": [
+        "for",
+        "of",
+        "on"
+      ],
+      "answerIndex": 0,
+      "feedback": "Blame somebody for something introduces the problem or action attributed to that person."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "We can always ___ our neighbour to feed the cat while we are away.",
+      "choices": [
+        "depend from",
+        "rely of",
+        "rely on"
+      ],
+      "answerIndex": 2,
+      "feedback": "Rely on somebody means trust them to help or do what they promise."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The album consists ___ ten original songs. (Supply the preposition that introduces its components.)",
+      "acceptedAnswers": [
+        "of"
+      ],
+      "feedback": "Consist of introduces the parts that make up a whole."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The student apologised to the tutor ___ arriving late. (Supply the preposition giving the reason.)",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "Apologise to somebody for doing something introduces the reason for the apology."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The protective goggles keep dust away and protect your eyes ___ flying particles. (Supply one preposition.)",
+      "acceptedAnswers": [
+        "from"
+      ],
+      "feedback": "Protect somebody or something from a hazard introduces the danger being prevented."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The coach congratulated the runners ___ completing the charity race. (Supply the achievement preposition.)",
+      "acceptedAnswers": [
+        "on"
+      ],
+      "feedback": "Congratulate somebody on an achievement or on doing something uses on."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The chairperson disapproves for using phones during the ceremony.",
+      "acceptedAnswers": [
+        "The chairperson disapproves of using phones during the ceremony."
+      ],
+      "feedback": "Disapprove of describes behaviour that the speaker considers unacceptable."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She forgave her colleague of forgetting the deadline.",
+      "acceptedAnswers": [
+        "She forgave her colleague for forgetting the deadline."
+      ],
+      "feedback": "Forgive somebody for + -ing gives the reason for forgiveness."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The supervisor blamed the confusion of the unclear instructions.",
+      "acceptedAnswers": [
+        "The supervisor blamed the confusion on the unclear instructions."
+      ],
+      "feedback": "When the problem is the object of blame, on introduces the cause assigned responsibility."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The reviewer complimented the singer for her expressive voice.",
+      "acceptedAnswers": [
+        "The reviewer complimented the singer on her expressive voice."
+      ],
+      "feedback": "Compliment somebody on something is the usual pattern for praising a quality."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make one past-simple sentence using exactly these facts: the inspector / accuse / the company / hiding information. Use of. Begin with “The inspector”.",
+      "acceptedAnswers": [
+        "The inspector accused the company of hiding information."
+      ],
+      "feedback": "Accused the company of + -ing introduces the alleged action."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Your friend bought two concert tickets. State this with “She paid for” and “two concert tickets” in one complete sentence.",
+      "acceptedAnswers": [
+        "She paid for two concert tickets."
+      ],
+      "feedback": "Pay for introduces purchased tickets rather than a bill or fee."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Correct the payment pattern and say the full sentence without adding words: “We paid for the rent yesterday.”",
+      "acceptedAnswers": [
+        "We paid the rent yesterday."
+      ],
+      "feedback": "Pay the rent takes the direct object rent without for."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Tell a colleague that the meeting time relies on the manager’s availability. Begin with “The meeting time”, use “depends on”, and end with “the manager’s availability”.",
+      "acceptedAnswers": [
+        "The meeting time depends on the manager's availability."
+      ],
+      "feedback": "Depends on introduces the condition that determines the time."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "You received help from Iris with a presentation. Thank her in one sentence beginning “I thanked Iris” and ending “helping with the presentation”.",
+      "acceptedAnswers": [
+        "I thanked Iris for helping with the presentation."
+      ],
+      "feedback": "Thank somebody for doing something gives the reason for the thanks."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Paraphrase the blame statement “They blamed Alex for the delay.” Make “the delay” the object. Begin “They blamed” and end “on Alex”.",
+      "acceptedAnswers": [
+        "They blamed the delay on Alex."
+      ],
+      "feedback": "Blame a problem on somebody reverses the grammatical positions while preserving the attributed responsibility."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Produce exactly two sentences in this order, using full forms. First: “The jacket / protect / me / the rain” (present simple). Second: “I / rely / this jacket / in winter” (present simple). Use from and on.",
+      "acceptedAnswers": [
+        "The jacket protects me from the rain. I rely on this jacket in winter."
+      ],
+      "feedback": "Protects me from identifies the hazard; rely on identifies what the speaker depends upon."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "A classmate has won an art award. Report the teacher’s response in one past-simple sentence using: the teacher / congratulate / the classmate / winning the award. Start with “The teacher”.",
+      "acceptedAnswers": [
+        "The teacher congratulated the classmate on winning the award."
+      ],
+      "feedback": "Congratulate somebody on + -ing describes praise for an achievement."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We paid for the museum tour online, but we paid the parking fee when we arrived.",
+      "prompt": "Which payment was made at the museum?",
+      "choices": [
+        "The parking fee.",
+        "The museum tour.",
+        "Both payments."
+      ],
+      "answerIndex": 0,
+      "feedback": "The parking fee was paid upon arrival; the tour had already been paid for online."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The committee suspected the clerk of altering the record, but there was no evidence to prove it.",
+      "prompt": "What is the committee’s position?",
+      "choices": [
+        "The clerk admitted wrongdoing.",
+        "The clerk has already been found guilty.",
+        "The clerk is under suspicion without proof."
+      ],
+      "answerIndex": 2,
+      "feedback": "Suspected of describes an allegation; the speaker explicitly says proof was lacking."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The festival programme consists of four short performances and one workshop.",
+      "prompt": "Type the two-word phrase immediately after “programme”.",
+      "acceptedAnswers": [
+        "consists of"
+      ],
+      "feedback": "Consists of identifies the parts of the programme."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I thanked Noor for driving us home and apologised to her for making her wait.",
+      "prompt": "Why did the speaker apologise?",
+      "choices": [
+        "For leaving a bag in the car.",
+        "For making Noor wait.",
+        "For refusing a lift."
+      ],
+      "answerIndex": 1,
+      "feedback": "The apology concerns the wait, while the thanks concern the lift."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The street musician lives on tips from visitors, so rainy weekends make it hard to buy food.",
+      "prompt": "What does the musician depend on for income?",
+      "choices": [
+        "Government funding.",
+        "Tips from visitors.",
+        "Ticket sales."
+      ],
+      "answerIndex": 1,
+      "feedback": "Lives on tips means tips provide the musician with money for everyday needs."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The instructor congratulated Niko on finishing the course and complimented him on his careful notes.",
+      "prompt": "What did the instructor praise about Niko’s work, besides completion?",
+      "choices": [
+        "His attendance record.",
+        "His examination score.",
+        "His careful notes."
+      ],
+      "answerIndex": 2,
+      "feedback": "Complimented on introduces the particular quality praised: the notes."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "A waterproof cover protects the outdoor sensor from heavy rain.",
+      "prompt": "Type the three-word phrase immediately after “sensor”.",
+      "acceptedAnswers": [
+        "from heavy rain"
+      ],
+      "feedback": "From introduces the hazard kept away by the cover."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The nurse has suffered from recurring headaches for several weeks.",
+      "prompt": "Type the two-word verb phrase immediately after “has”.",
+      "acceptedAnswers": [
+        "suffered from"
+      ],
+      "feedback": "Suffered from introduces the health problem the nurse experiences."
+    }
+  ]
+}

@@ -1,0 +1,429 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u099",
+  "title": "Adjective order and adjectives after linking verbs",
+  "level": "B2",
+  "topicId": "eg2-u099-adjective-order-linking-verbs",
+  "summary": "Put opinion and fact adjectives in natural order before nouns, use ordinary size–age–colour–origin–material sequences, and distinguish adjectives after linking verbs from adverbs describing actions. Place first, next and last before number expressions.",
+  "learningObjectives": [
+    "Distinguish opinion adjectives from factual descriptions and put opinions first in typical noun phrases.",
+    "Arrange common factual adjectives by size, age, colour, origin and material, including size before shape.",
+    "Join multiple colour adjectives with and while avoiding unnecessary and between different adjective types.",
+    "Use adjectives after be, get, become, seem and sensory linking verbs such as look and smell.",
+    "Use first, next and last before quantities in expressions such as the first three sessions."
+  ],
+  "explanation": [
+    {
+      "heading": "Opinion usually comes before fact",
+      "body": "Opinion adjectives express a judgement, such as charming, unpleasant or impressive. Fact adjectives identify observable properties such as size, colour or age. When both describe a noun, English usually places the opinion first: an impressive modern building. Context and emphasis sometimes allow variation, so the pattern is a guide to natural phrasing rather than an absolute rule.",
+      "example": "They rented a charming little cottage beside the harbour."
+    },
+    {
+      "heading": "A usual sequence for factual descriptions",
+      "body": "When several fact adjectives appear together, a common order is size, age, colour, origin and material before the noun. You rarely need every type at once. Use the sequence to make longer descriptions sound natural, such as a small old brown Italian leather bag. An age adjective normally follows size, and a material adjective usually sits near the noun.",
+      "example": "We discovered a small antique French silver bracelet."
+    },
+    {
+      "heading": "Size, shape and colour combinations",
+      "body": "Size or length normally precedes shape or width: a large square mirror, a long narrow corridor. If a thing has two or more colours, link the colours with and: a green and white scarf. Do not routinely insert and between unrelated adjectives directly before a noun; a long narrow path is the natural pattern.",
+      "example": "He wore a red and yellow striped jacket."
+    },
+    {
+      "heading": "Adjectives follow linking verbs",
+      "body": "After be, become, get and seem, use an adjective to describe the subject or its condition. Look, feel, sound, taste and smell can also function as linking verbs: the soup smells wonderful describes the soup, not the act of smelling. When you describe how someone performs an action, an adverb is normally needed, a distinction explored more fully in the next unit.",
+      "example": "The hallway became quiet after the visitors left."
+    },
+    {
+      "heading": "First, next and last come before quantities",
+      "body": "With a time period, event or ordered group, English normally puts first, next or last before the number or quantity. Say the first two lessons, the next three days and the last few questions. The number follows the ordering word, not the reverse.",
+      "example": "Please review the last five pages before tomorrow."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Opinion before a factual description",
+      "left": {
+        "label": "Opinion first",
+        "example": "a beautiful old theatre",
+        "note": "Beautiful gives the speaker’s evaluation, followed by the fact of age."
+      },
+      "right": {
+        "label": "Reversed adjective order",
+        "example": "an old beautiful theatre",
+        "note": "This order is much less natural when old is a simple factual description."
+      }
+    },
+    {
+      "title": "Adjective after a linking verb versus an adverb for an action",
+      "left": {
+        "label": "Linking verb + adjective",
+        "example": "The fabric feels soft.",
+        "note": "Soft describes the fabric’s condition or quality."
+      },
+      "right": {
+        "label": "Action verb + adverb",
+        "example": "The tailor handled the fabric gently.",
+        "note": "Gently describes how the tailor performed the action."
+      }
+    },
+    {
+      "title": "Several colours versus different descriptive properties",
+      "left": {
+        "label": "Colours joined with and",
+        "example": "a blue and silver bicycle",
+        "note": "Use and to link two colours of one bicycle."
+      },
+      "right": {
+        "label": "Size before colour without and",
+        "example": "a small silver bicycle",
+        "note": "Different descriptive types normally appear together without and."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Our guide showed us a lovely old stone bridge.",
+      "note": "An opinion comes before the factual age and material descriptions."
+    },
+    {
+      "sentence": "She carried a large rectangular black case.",
+      "note": "Size comes before shape, then colour."
+    },
+    {
+      "sentence": "The dancers wore blue and gold costumes.",
+      "note": "And links the two colours."
+    },
+    {
+      "sentence": "The meeting room seems unusually bright today.",
+      "note": "Bright is an adjective after the linking verb seems."
+    },
+    {
+      "sentence": "The cake smells delicious, although it has not cooled yet.",
+      "note": "Delicious describes the cake after the sensory linking verb smells."
+    },
+    {
+      "sentence": "We spent the first four days collecting samples.",
+      "note": "First precedes the number four."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "They bought a wooden beautiful desk.",
+      "correct": "They bought a beautiful wooden desk.",
+      "why": "An opinion such as beautiful usually comes before a fact such as the material wooden."
+    },
+    {
+      "incorrect": "We followed a narrow long path.",
+      "correct": "We followed a long narrow path.",
+      "why": "Length normally comes before width or shape."
+    },
+    {
+      "incorrect": "The traffic lights were red yellow and green.",
+      "correct": "The traffic lights were red, yellow and green.",
+      "why": "A list of three colours is separated by commas and linked with and before the final colour."
+    },
+    {
+      "incorrect": "The flowers smell sweetly.",
+      "correct": "The flowers smell sweet.",
+      "why": "Smell is a linking verb here, so an adjective describes the flowers."
+    },
+    {
+      "incorrect": "I missed the two first questions.",
+      "correct": "I missed the first two questions.",
+      "why": "First precedes the quantity two in this expression."
+    }
+  ],
+  "studyTips": [
+    "Divide a multi-adjective noun phrase into opinion, size, age, colour, origin and material before ordering the words.",
+    "Test a sensory verb by asking whether the word describes the subject (adjective) or an action (adverb).",
+    "Memorise useful chunks such as a long narrow street, a black and white photo and the next three weeks."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which is the most natural description of a house?",
+      "choices": [
+        "a wooden beautiful house",
+        "a beautiful wooden house",
+        "a wooden house beautiful"
+      ],
+      "answerIndex": 1,
+      "feedback": "Beautiful is an opinion adjective; wooden states the material and normally comes closer to the noun."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The photographer carried ___ camera.",
+      "choices": [
+        "a small old Japanese",
+        "an old small Japanese",
+        "a Japanese old small"
+      ],
+      "answerIndex": 0,
+      "feedback": "Size usually precedes age, which precedes origin: a small old Japanese camera."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the natural description for a flag with two colours.",
+      "choices": [
+        "a blue white flag",
+        "a blue and white flag",
+        "a blue and a white flag"
+      ],
+      "answerIndex": 1,
+      "feedback": "Two colours of one flag are normally linked by and: a blue and white flag."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "After the long walk, everyone ___.",
+      "choices": [
+        "felt exhaustingly",
+        "felt tiredly",
+        "felt tired"
+      ],
+      "answerIndex": 2,
+      "feedback": "Feel is a linking verb and tired describes the people; an adjective is required."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Reorder the adjectives into the most natural noun phrase: They bought a ___ table. (round / beautiful / wooden; write the three adjectives only)",
+      "acceptedAnswers": [
+        "beautiful round wooden"
+      ],
+      "feedback": "Opinion beautiful comes first; shape round comes before material wooden."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The jeweller displayed a ___ ring. (gold / tiny / antique; order the adjectives only)",
+      "acceptedAnswers": [
+        "tiny antique gold"
+      ],
+      "feedback": "Size typically comes before age, which comes before material."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The curtains ___ very soft. (feel; write the correct simple-present verb only)",
+      "acceptedAnswers": [
+        "feel"
+      ],
+      "feedback": "Feel describes the subject, with the adjective soft following the linking verb."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "We will spend ___ preparing for the conference. (three / next / days; include the article and put the words in order)",
+      "acceptedAnswers": [
+        "the next three days"
+      ],
+      "feedback": "Next comes before the number in the next three days."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct only the adjective order: We found a plastic small green box.",
+      "acceptedAnswers": [
+        "We found a small green plastic box."
+      ],
+      "feedback": "Use size before colour before material: small green plastic."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct only the adjective form: Your suggestion sounds sensibly.",
+      "acceptedAnswers": [
+        "Your suggestion sounds sensible."
+      ],
+      "feedback": "Sounds links the subject to a descriptive adjective: sensible."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct only the colour combination: She chose a black white dress.",
+      "acceptedAnswers": [
+        "She chose a black and white dress."
+      ],
+      "feedback": "Two colours describing one dress are linked with and."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct only the position of the number: The three last chapters are difficult.",
+      "acceptedAnswers": [
+        "The last three chapters are difficult."
+      ],
+      "feedback": "Last precedes the quantity in the last three chapters."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say one complete sentence. Facts: the museum is in an old stone building; you think it is beautiful. Begin “The museum is in” and use beautiful, old and stone in natural order.",
+      "acceptedAnswers": [
+        "The museum is in a beautiful old stone building."
+      ],
+      "feedback": "Place opinion beautiful before factual age old and material stone."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Describe this bag in one complete sentence. Begin “It is” and use: small, black, leather, bag. Use ordinary adjective order.",
+      "acceptedAnswers": [
+        "It is a small black leather bag.",
+        "It's a small black leather bag."
+      ],
+      "feedback": "Size comes before colour, and material comes immediately before bag."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say one sentence about a coat in two colours. Begin “She wore” and include “a red and grey coat”.",
+      "acceptedAnswers": [
+        "She wore a red and grey coat."
+      ],
+      "feedback": "And joins the two colour adjectives."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A friend asks how the new sofa feels to the touch. It feels smooth. Reply with one sentence, beginning “The sofa” and using the present simple.",
+      "acceptedAnswers": [
+        "The sofa feels smooth."
+      ],
+      "feedback": "Use the adjective smooth after the linking verb feels."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Correct only the adjective order and say the sentence: “They rented a French lovely apartment.”",
+      "acceptedAnswers": [
+        "They rented a lovely French apartment."
+      ],
+      "feedback": "Opinion lovely generally comes before origin French."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Rephrase this information in one sentence: you worked on days one, two and three of the project. Start “I worked on” and end “of the project”. Use the first three days.",
+      "acceptedAnswers": [
+        "I worked on the first three days of the project."
+      ],
+      "feedback": "Place first before three in the first three days."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences using these facts. First: the tea; smell; fresh. Second: the room; become; quiet. Use the present simple in the first and past simple in the second.",
+      "acceptedAnswers": [
+        "The tea smells fresh. The room became quiet."
+      ],
+      "feedback": "Linking verbs take the adjectives fresh and quiet to describe their subjects."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "An architect points to a window: it is large, square and made of glass. Say one sentence beginning “That is” with the natural adjective order.",
+      "acceptedAnswers": [
+        "That is a large square glass window.",
+        "That's a large square glass window."
+      ],
+      "feedback": "Size large comes before shape square, followed by material glass."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "At the market, I chose a beautiful small ceramic bowl instead of a plain metal one.",
+      "prompt": "Which bowl did the speaker choose?",
+      "choices": [
+        "A plain metal bowl.",
+        "A small ceramic bowl the speaker found beautiful.",
+        "A large wooden bowl."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker chose the beautiful small ceramic bowl, not the plain metal one."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The fabric feels rough, but the tailor cuts it carefully so the edges stay straight.",
+      "prompt": "According to the speaker, what feels rough?",
+      "choices": [
+        "The way the tailor cuts.",
+        "The fabric itself.",
+        "The edges after cutting."
+      ],
+      "answerIndex": 1,
+      "feedback": "Feels rough describes the fabric; carefully describes the tailor’s action."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The café has a long narrow entrance that leads into a bright dining room.",
+      "prompt": "Type the two adjectives immediately before “entrance”.",
+      "acceptedAnswers": [
+        "long narrow"
+      ],
+      "feedback": "Length usually comes before width: long narrow."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "We saw an old blue wooden boat near the pier, but the newer white boat was out at sea.",
+      "prompt": "Which boat was near the pier?",
+      "choices": [
+        "The newer white boat.",
+        "A modern metal boat.",
+        "The old blue wooden boat."
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker locates the old blue wooden boat near the pier."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The bread smells wonderful, although the crust looks a little dark.",
+      "prompt": "Which description reflects the speaker’s impression?",
+      "choices": [
+        "The bread smells bad and looks pale.",
+        "The bread smells good, but its crust looks rather dark.",
+        "The crust smells burnt and has been thrown away."
+      ],
+      "answerIndex": 1,
+      "feedback": "Wonderful refers to the smell, while dark describes the appearance of the crust."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We will spend the first two weeks training, and the last three days checking everything.",
+      "prompt": "When will they check everything?",
+      "choices": [
+        "During the final three days.",
+        "For the opening two weeks.",
+        "Throughout the entire training period."
+      ],
+      "answerIndex": 0,
+      "feedback": "The checking period is the last three days, after the first two weeks of training."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The children wore green and white scarves during the school parade.",
+      "prompt": "Type the three-word colour expression immediately before “scarves”.",
+      "acceptedAnswers": [
+        "green and white"
+      ],
+      "feedback": "And connects the two colours of the scarves."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The stage became quiet after the final song ended.",
+      "prompt": "Type the two-word verb and adjective phrase immediately after “The stage”.",
+      "acceptedAnswers": [
+        "became quiet"
+      ],
+      "feedback": "Became quiet uses a linking verb plus an adjective describing the stage."
+    }
+  ]
+}

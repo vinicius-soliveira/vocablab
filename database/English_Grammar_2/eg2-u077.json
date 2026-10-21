@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u077",
+  "title": "Proper names: Places, geography and regions",
+  "level": "B1",
+  "topicId": "eg2-u077-names-geography-and-regions",
+  "summary": "Choose when to omit the before personal names, titles and many geographical names, and when to include it with waterways, deserts, plural place names, families and compass regions.",
+  "learningObjectives": [
+    "Use personal titles, most singular place names, Mount and Lake without the definite article.",
+    "Identify geographical names that normally need the, including seas, rivers, deserts and plural names.",
+    "Distinguish the name of one mountain or island from a mountain range or island group.",
+    "Choose correctly between the north of a place and adjective forms such as northern."
+  ],
+  "explanation": [
+    {
+      "heading": "Names, titles and individual places",
+      "body": "A proper name usually identifies someone or somewhere directly, without the. This applies to personal names and titles followed by a surname, such as Professor Shah or Doctor Lewis. Most cities, continents, ordinary country names, individual islands and single mountains follow the same pattern. A title used without a personal name is different: the professor can identify a particular person by role.",
+      "example": "Professor Shah is speaking at a conference in Nairobi."
+    },
+    {
+      "heading": "Named mountains, lakes and country-name exceptions",
+      "body": "Put Mount before the name of a mountain and Lake before a named lake without adding the: Mount Fuji and Lake Como. Most standalone mountain and lake names also omit the, although individual geographical names have exceptions. Country names are usually bare, but names containing words such as Kingdom, Republic or States take the; some plural country names do too.",
+      "example": "They flew from Chile to the United Arab Emirates before visiting Japan."
+    },
+    {
+      "heading": "Waterways, seas and deserts",
+      "body": "Names of rivers, oceans, seas and canals usually begin with the, even when the name itself is distinctive. Desert names also normally take the. Learn these as complete place names instead of assuming that all geographical names follow the same article rule.",
+      "example": "The research boat travelled along the Mekong River."
+    },
+    {
+      "heading": "Plural geographical names and family names",
+      "body": "We use the with many plural proper names. This includes mountain ranges, groups of islands and countries with plural names, as well as a family referred to by its shared surname. One named peak may have no article, while the range containing many peaks generally does.",
+      "example": "The Patels spent a week hiking in the Pyrenees."
+    },
+    {
+      "heading": "Compass areas and adjective forms",
+      "body": "To identify a part of a place, use expressions such as the north of Italy or the east of Canada. Before a place name, a directional adjective normally takes no the: northern Italy, eastern Canada. Some established region names use north, south, east or west directly as part of the name, such as North Africa; memorise those names separately.",
+      "example": "The vineyard is in southern France, not in the north of the country."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A person identified by name or by role",
+      "left": {
+        "label": "Named title",
+        "example": "Doctor Lewis will call this evening.",
+        "note": "Doctor is directly followed by a surname, so there is no the."
+      },
+      "right": {
+        "label": "Role without a name",
+        "example": "The doctor will call this evening.",
+        "note": "The identifies a particular person described by their profession."
+      }
+    },
+    {
+      "title": "One landmark versus a named group",
+      "left": {
+        "label": "Single mountain",
+        "example": "The climbers could see Mount Fuji.",
+        "note": "Mount before an individual mountain name does not take the."
+      },
+      "right": {
+        "label": "Mountain range",
+        "example": "The climbers crossed the Pyrenees.",
+        "note": "The Pyrenees is a plural mountain-range name."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "We stayed in Slovenia for five nights.",
+      "note": "An ordinary country name stands without the."
+    },
+    {
+      "sentence": "The ferry crossed the Baltic Sea before dawn.",
+      "note": "A named sea generally takes the definite article."
+    },
+    {
+      "sentence": "Our photography club visited the Atacama Desert.",
+      "note": "The is part of the usual expression for a named desert."
+    },
+    {
+      "sentence": "The Martins have moved to a flat nearby.",
+      "note": "The plus a plural family surname refers to members of the family."
+    },
+    {
+      "sentence": "A new road is being built in western Kenya.",
+      "note": "The adjective western directly modifies a country name without the."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The Doctor Lewis has signed the form.",
+      "correct": "Doctor Lewis has signed the form.",
+      "why": "A professional title before a surname normally has no article."
+    },
+    {
+      "incorrect": "Our hotel overlooks the Lake Como.",
+      "correct": "Our hotel overlooks Lake Como.",
+      "why": "Use Lake plus its name without the."
+    },
+    {
+      "incorrect": "They spent two days exploring Pyrenees.",
+      "correct": "They spent two days exploring the Pyrenees.",
+      "why": "Plural mountain-range names normally require the."
+    },
+    {
+      "incorrect": "The museum is in the southern Portugal.",
+      "correct": "The museum is in southern Portugal.",
+      "why": "Southern directly modifies Portugal and is not preceded by the."
+    }
+  ],
+  "studyTips": [
+    "Sort new place names into three groups: no article, the, and plural names with the; rehearse them as full phrases.",
+    "Practise paired descriptions such as in the west of Spain and in western Spain to notice the shift in structure.",
+    "When a role title precedes a surname, check that no article has slipped in; compare Professor Shah with the professor."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The conference programme identifies the speaker by title and surname: ___.",
+      "choices": [
+        "the Professor Malik",
+        "Professor Malik",
+        "the professor"
+      ],
+      "answerIndex": 1,
+      "feedback": "A title followed by a person’s surname is used without the; the professor has no surname and is not the listed full name."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Their ferry travelled across ___ on the way to a coastal town.",
+      "choices": [
+        "Baltic Sea",
+        "a Baltic Sea",
+        "the Baltic Sea"
+      ],
+      "answerIndex": 2,
+      "feedback": "A named sea is normally introduced by the: the Baltic Sea."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The brochure identifies a single mountain, not a mountain range: ___.",
+      "choices": [
+        "Mount Fuji",
+        "the Mount Fuji",
+        "the Fuji Mount"
+      ],
+      "answerIndex": 0,
+      "feedback": "Use Mount Fuji without the when Mount is part of a single mountain’s name."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The family moved to ___, a country with a plural name that includes an article.",
+      "choices": [
+        "Philippines",
+        "the Philippines",
+        "a Philippines"
+      ],
+      "answerIndex": 1,
+      "feedback": "The Philippines is a plural country name traditionally used with the."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Our boat crossed ___ before sunset. (Use the full geographical name: Adriatic Sea, with its article.)",
+      "acceptedAnswers": [
+        "the Adriatic Sea"
+      ],
+      "feedback": "A named sea takes the: the Adriatic Sea."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Aisha spent six months living in ___. (Country: Netherlands; include its article.)",
+      "acceptedAnswers": [
+        "the Netherlands"
+      ],
+      "feedback": "The Netherlands has a plural name and normally includes the."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The field study took place in ___ rather than the western part of the country. (Write eastern + Kenya, without an article.)",
+      "acceptedAnswers": [
+        "eastern Kenya"
+      ],
+      "feedback": "Eastern is an adjective modifying Kenya and takes no the."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "We spent three days near ___ before heading to the coast. (Write Lake + Como without an article.)",
+      "acceptedAnswers": [
+        "Lake Como"
+      ],
+      "feedback": "Lake Como is a named lake with Lake before its name, so omit the."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We sailed along Mekong River for two days.",
+      "acceptedAnswers": [
+        "We sailed along the Mekong River for two days."
+      ],
+      "feedback": "River names usually need the: the Mekong River."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The Mount Fuji is visible from their hotel.",
+      "acceptedAnswers": [
+        "Mount Fuji is visible from their hotel."
+      ],
+      "feedback": "Do not use the before Mount followed by the mountain name."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The Martins moved to Netherlands last spring.",
+      "acceptedAnswers": [
+        "The Martins moved to the Netherlands last spring."
+      ],
+      "feedback": "The Netherlands is a plural country name that takes the."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Our field trip takes place in the northern Morocco.",
+      "acceptedAnswers": [
+        "Our field trip takes place in northern Morocco."
+      ],
+      "feedback": "Do not place the before northern when it directly modifies Morocco."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "You stayed close to a named lake last year. Say one sentence using these exact facts: we; stay near; Lake Como; last year. Use the past simple.",
+      "acceptedAnswers": [
+        "We stayed near Lake Como last year."
+      ],
+      "feedback": "Lake Como is used without the; stayed reports the completed visit."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Correct only the article error and say the whole sentence: “The Mount Fuji appears on the poster.”",
+      "acceptedAnswers": [
+        "Mount Fuji appears on the poster."
+      ],
+      "feedback": "The is not used in front of Mount followed by the name Fuji."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "State this travel plan in a complete sentence: they; plan to visit; the Netherlands; in April. Start with They.",
+      "acceptedAnswers": [
+        "They plan to visit the Netherlands in April."
+      ],
+      "feedback": "The is part of the name the Netherlands."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "The documentary discusses two named waterways. Begin with “The documentary” and use these exact facts: discuss; the Baltic Sea; and; the Hudson River.",
+      "acceptedAnswers": [
+        "The documentary discusses the Baltic Sea and the Hudson River."
+      ],
+      "feedback": "Both named waterways take the; the verb discusses agrees with the singular subject."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Replace “in the east of Spain” with “in eastern Spain” without changing anything else. Say the full sentence: “The factory is in the east of Spain.”",
+      "acceptedAnswers": [
+        "The factory is in eastern Spain."
+      ],
+      "feedback": "Eastern directly describes Spain and has no the."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Talk about a family whose surname is Chen. Begin with “The Chens” and say that they live next door, using the present simple.",
+      "acceptedAnswers": [
+        "The Chens live next door."
+      ],
+      "feedback": "The plus a plural surname identifies members of the Chen family."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Produce exactly two sentences. First, use the professional title and surname Doctor Nasser to say she is speaking today. Second, call her “the doctor” and say she is taking questions afterwards. Use the present continuous in both sentences.",
+      "acceptedAnswers": [
+        "Doctor Nasser is speaking today. The doctor is taking questions afterwards.",
+        "Doctor Nasser is speaking today. The doctor is taking questions afterward."
+      ],
+      "feedback": "Doctor Nasser is a named title without the; the doctor is a role description requiring the. Afterwards and afterward are both natural here."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "State one geography-class fact. Begin with “We studied” and name Mount Fuji and the Pyrenees, followed by “in geography class”.",
+      "acceptedAnswers": [
+        "We studied Mount Fuji and the Pyrenees in geography class."
+      ],
+      "feedback": "An individual Mount name omits the, while a plural mountain-range name uses it."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "My grandparents settled in the Netherlands, but my uncle moved to Norway.",
+      "prompt": "Where did the speaker’s grandparents settle?",
+      "choices": [
+        "In Norway.",
+        "In the Netherlands.",
+        "In the Philippines."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker assigns the Netherlands to the grandparents, not to the uncle."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The guide showed us Mount Fuji on the map, then pointed to the Japanese Alps.",
+      "prompt": "What did the guide show the group first?",
+      "choices": [
+        "Mount Fuji.",
+        "The Japanese Alps.",
+        "A lake in Japan."
+      ],
+      "answerIndex": 0,
+      "feedback": "The individual mountain was shown first; the range was pointed out afterwards."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "They photographed the Adriatic Sea from the hill above the harbour.",
+      "prompt": "Type the complete named sea immediately after “photographed”, including its article.",
+      "acceptedAnswers": [
+        "the Adriatic Sea"
+      ],
+      "feedback": "The spoken name includes the before Adriatic Sea."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I spoke to Professor Hayes yesterday, but the professor will not be back until Friday.",
+      "prompt": "Who will not return before Friday?",
+      "choices": [
+        "A different student.",
+        "The speaker’s relative.",
+        "Professor Hayes."
+      ],
+      "answerIndex": 2,
+      "feedback": "The professor refers back to the named Professor Hayes."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "We drove through northern Italy before stopping in the south of Switzerland.",
+      "prompt": "Which region did the travellers pass through before entering Switzerland?",
+      "choices": [
+        "Northern Italy.",
+        "Southern Switzerland.",
+        "Northern Switzerland."
+      ],
+      "answerIndex": 0,
+      "feedback": "The adjective northern describes the Italian region visited first."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "My cousin is visiting the Maldives for a week, while her colleagues are working in Malaysia.",
+      "prompt": "Where is the speaker’s cousin spending the week?",
+      "choices": [
+        "In Malaysia.",
+        "In the Maldives.",
+        "In the Andes."
+      ],
+      "answerIndex": 1,
+      "feedback": "The cousin is visiting the Maldives; the colleagues are in Malaysia."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The travellers followed the Mekong River for much of the morning.",
+      "prompt": "Type the complete name of the river heard after “followed”, including the article.",
+      "acceptedAnswers": [
+        "the Mekong River"
+      ],
+      "feedback": "The audible geographical name is the Mekong River."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I met the Chens at a concert last Saturday.",
+      "prompt": "Type the family-name expression heard directly after “met”, including its article.",
+      "acceptedAnswers": [
+        "the Chens"
+      ],
+      "feedback": "The plus a plural surname identifies a family group."
+    }
+  ]
+}

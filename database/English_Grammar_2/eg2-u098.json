@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u098",
+  "title": "-ing and -ed adjectives: causes and feelings",
+  "level": "B1",
+  "topicId": "eg2-u098-ing-ed-adjectives-feelings",
+  "summary": "Distinguish qualities that produce a reaction from the feelings that people experience. Use -ing adjectives for interesting, tiring or surprising experiences and -ed adjectives for how people feel in response, with natural complements.",
+  "learningObjectives": [
+    "Use -ing adjectives to describe events, activities or people that produce a feeling.",
+    "Use -ed adjectives to describe someone experiencing a feeling or reaction.",
+    "Distinguish pairs such as confusing/confused and frightening/frightened in realistic contexts.",
+    "Use expressions such as interested in, excited about and disappointed with naturally."
+  ],
+  "explanation": [
+    {
+      "heading": "Use -ing to describe what causes a feeling",
+      "body": "Many -ing adjectives describe a quality of an experience, thing or person that creates a reaction. A confusing notice causes confusion; an entertaining performance makes people enjoy themselves. The -ing ending is part of the adjective here, not necessarily a present continuous verb.",
+      "example": "The instructions were confusing, so we asked for an example."
+    },
+    {
+      "heading": "Use -ed to describe a person’s reaction",
+      "body": "An -ed adjective usually tells us how somebody feels because of an event or experience. The same event may be disappointing while its audience feels disappointed. Do not use an -ing adjective for the person’s feeling unless you actually mean that the person causes that reaction in others.",
+      "example": "The audience was disappointed by the cancelled concert."
+    },
+    {
+      "heading": "A person can be interesting or interested",
+      "body": "The choice depends on meaning, not simply whether the subject is human. An interesting speaker keeps an audience engaged; an interested speaker wants to learn more about a subject. Similarly, a boring person makes others bored, while a bored person is experiencing boredom.",
+      "example": "The guide was interesting, and the visitors were interested in her stories."
+    },
+    {
+      "heading": "Match common adjective pairs to context",
+      "body": "Common pairs include exciting/excited, tiring/tired, exhausting/exhausted, surprising/surprised, frightening/frightened, embarrassing/embarrassed and satisfying/satisfied. Choose the adjective by deciding whether the noun or person is the source of the feeling or the person experiencing it.",
+      "example": "The sudden announcement was surprising, and the staff were surprised."
+    },
+    {
+      "heading": "Use natural complements with feeling adjectives",
+      "body": "Some -ed adjectives commonly combine with prepositions: interested in a subject, excited about a plan, disappointed with or by a result, and frightened of or by something. The preposition links the feeling to its topic or cause. Get + an -ed adjective often describes the moment a feeling develops.",
+      "example": "Maya got excited about the chance to study abroad."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Experience versus reaction",
+      "left": {
+        "label": "-ing: the cause",
+        "example": "The workshop was exhausting.",
+        "note": "The workshop demanded so much effort that it made people very tired."
+      },
+      "right": {
+        "label": "-ed: the reaction",
+        "example": "The participants were exhausted.",
+        "note": "The people felt the result of the demanding workshop."
+      }
+    },
+    {
+      "title": "Person who causes interest versus person who feels it",
+      "left": {
+        "label": "Interesting",
+        "example": "Ravi is an interesting storyteller.",
+        "note": "Ravi makes other people interested in his stories."
+      },
+      "right": {
+        "label": "Interested",
+        "example": "Ravi is interested in local history.",
+        "note": "Ravi himself feels curiosity about the subject."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The documentary was fascinating, and several viewers asked questions afterward.",
+      "note": "Fascinating describes the film as something that attracts interest."
+    },
+    {
+      "sentence": "Everyone was confused by the new timetable.",
+      "note": "Confused tells us the reaction of the people, not the quality of the timetable."
+    },
+    {
+      "sentence": "It was an embarrassing mistake, but she did not stay embarrassed for long.",
+      "note": "Embarrassing characterises the mistake, while embarrassed describes her feeling."
+    },
+    {
+      "sentence": "Our first flight was frightening because of strong winds.",
+      "note": "Frightening describes the journey as a cause of fear."
+    },
+    {
+      "sentence": "The research team was satisfied with the results of the trial.",
+      "note": "Satisfied describes the team’s reaction, with with connecting it to the results."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I was confusing when I read the timetable.",
+      "correct": "I was confused when I read the timetable.",
+      "why": "Confused describes the reader’s feeling; confusing would mean the person caused confusion in others."
+    },
+    {
+      "incorrect": "The three-hour journey was exhausted.",
+      "correct": "The three-hour journey was exhausting.",
+      "why": "The journey caused fatigue; exhausted is normally a description of a tired person."
+    },
+    {
+      "incorrect": "She is interesting in joining the book club.",
+      "correct": "She is interested in joining the book club.",
+      "why": "Interested in describes her desire to join, not her effect on other people."
+    },
+    {
+      "incorrect": "The children were frightening by the sudden noise.",
+      "correct": "The children were frightened by the sudden noise.",
+      "why": "The children experienced fear, so use frightened; frightening would describe a cause of fear."
+    }
+  ],
+  "studyTips": [
+    "For each adjective pair, write two linked sentences: the situation was confusing; the people were confused.",
+    "When the subject is a person, check the meaning: are they causing a reaction in others or feeling that reaction themselves?",
+    "Learn frequently used combinations as chunks: interested in, excited about, disappointed with and frightened by."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The instructions were so ___ that nobody knew which form to complete.",
+      "choices": [
+        "confused",
+        "confuse",
+        "confusing"
+      ],
+      "answerIndex": 2,
+      "feedback": "The instructions caused confusion, so confusing describes their effect on readers."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "After the overnight journey, everyone felt ___.",
+      "choices": [
+        "exhausted",
+        "exhausting",
+        "exhaust"
+      ],
+      "answerIndex": 0,
+      "feedback": "Exhausted describes how the travellers felt after a tiring experience."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Lena tells wonderful stories. She is a very ___ person to listen to.",
+      "choices": [
+        "interested",
+        "interesting",
+        "interest"
+      ],
+      "answerIndex": 1,
+      "feedback": "Interesting describes Lena as someone who holds other people’s attention."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The final result was ___, so the players looked ___.",
+      "choices": [
+        "surprised / surprising",
+        "surprising / surprised",
+        "surprised / surprised"
+      ],
+      "answerIndex": 1,
+      "feedback": "The result caused the reaction, so it was surprising; the players felt surprised."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The trainees felt ___ by the unclear diagram. (confuse; use the adjective for a feeling)",
+      "acceptedAnswers": [
+        "confused"
+      ],
+      "feedback": "Confused describes the trainees’ reaction to a diagram they could not understand."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The dance performance was ___. (amaze; use the adjective describing its effect)",
+      "acceptedAnswers": [
+        "amazing"
+      ],
+      "feedback": "Amazing describes a performance that caused wonder in its audience."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "I felt ___ when I forgot the presenter’s name. (embarrass; use the feeling adjective)",
+      "acceptedAnswers": [
+        "embarrassed"
+      ],
+      "feedback": "Embarrassed describes how the speaker felt after making the mistake."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Travelling to the remote village was ___, although the visit was worth it. (tire; describe the journey)",
+      "acceptedAnswers": [
+        "tiring"
+      ],
+      "feedback": "The journey made people tired, so tiring describes the cause."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct by changing only the adjective: I was very surprising when the decision was announced.",
+      "acceptedAnswers": [
+        "I was very surprised when the decision was announced."
+      ],
+      "feedback": "Surprised describes the speaker’s feeling after hearing the decision."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct by changing only the adjective: The lecture was so bored that several people left early.",
+      "acceptedAnswers": [
+        "The lecture was so boring that several people left early."
+      ],
+      "feedback": "The lecture made listeners bored; boring describes the cause."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct by changing only the adjective: We are interesting in taking the afternoon class.",
+      "acceptedAnswers": [
+        "We are interested in taking the afternoon class."
+      ],
+      "feedback": "Interested in expresses the group’s desire to join the class."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct by changing only the adjective: The sudden loud noise was frightened for the young visitors.",
+      "acceptedAnswers": [
+        "The sudden loud noise was frightening for the young visitors."
+      ],
+      "feedback": "Frightening describes the noise as a cause of fear, not as someone who feels afraid."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "A new project makes the team feel excited. Describe the project as the cause. Begin “The new project” and use exciting.",
+      "acceptedAnswers": [
+        "The new project is exciting."
+      ],
+      "feedback": "Exciting identifies the project as something that creates excitement."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "You feel excitement about the new project. Say one sentence starting “I am” and ending “about the new project”. Use excited.",
+      "acceptedAnswers": [
+        "I am excited about the new project.",
+        "I'm excited about the new project."
+      ],
+      "feedback": "Excited describes the speaker’s feeling, followed by about to name its cause."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "The instructions caused confusion in the team. Produce exactly two sentences. First begin “The instructions were”; second begin “The team was”. Use confusing and confused.",
+      "acceptedAnswers": [
+        "The instructions were confusing. The team was confused."
+      ],
+      "feedback": "The source of confusion is confusing; the people experiencing it are confused."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A long course made Dana extremely tired. Describe the course, not Dana. Begin “The course” and use exhausting.",
+      "acceptedAnswers": [
+        "The course was exhausting."
+      ],
+      "feedback": "Exhausting describes the course as the cause of fatigue."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Correct only the adjective, then say the full sentence: “The result was surprised.”",
+      "acceptedAnswers": [
+        "The result was surprising."
+      ],
+      "feedback": "The result causes surprise; it does not experience the feeling."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A museum guide tells stories that hold everyone’s attention. Describe the guide in a complete sentence. Start “The guide” and use interesting.",
+      "acceptedAnswers": [
+        "The guide is interesting."
+      ],
+      "feedback": "A person can be interesting when they cause interest in other people."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Paraphrase the supplied fact as a feeling: “The long delay annoyed us.” Begin “We were” and finish “by the long delay”.",
+      "acceptedAnswers": [
+        "We were annoyed by the long delay."
+      ],
+      "feedback": "Annoyed describes the group’s reaction; by names the cause."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce exactly two sentences about these facts. First: the loud noise caused fear; use “The noise was frightening.” Second: the children felt fear; use “The children were frightened.”",
+      "acceptedAnswers": [
+        "The noise was frightening. The children were frightened."
+      ],
+      "feedback": "Frightening describes the cause; frightened describes the children’s feeling."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I expected the presentation to be dull, but it was fascinating. I left feeling inspired.",
+      "prompt": "How did the speaker feel after the presentation?",
+      "choices": [
+        "Bored and disappointed.",
+        "Inspired by something fascinating.",
+        "Embarrassed about leaving early."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker found the presentation fascinating and explicitly says they felt inspired."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The instructions were confusing, so the new volunteers asked for a practical demonstration.",
+      "prompt": "Why did the volunteers ask for a demonstration?",
+      "choices": [
+        "The instructions were difficult to understand.",
+        "They already knew the procedure perfectly.",
+        "The training had been cancelled."
+      ],
+      "answerIndex": 0,
+      "feedback": "Confusing explains why the volunteers needed an additional demonstration."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The long walk uphill was exhausting, even though the view was beautiful.",
+      "prompt": "Type the single adjective immediately after “was” in the recording.",
+      "acceptedAnswers": [
+        "exhausting"
+      ],
+      "feedback": "Exhausting describes the walk as something that caused tiredness."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Marco tells amusing stories at dinner, but he looked bored during the long speech.",
+      "prompt": "Which statement best describes Marco?",
+      "choices": [
+        "He makes others laugh, but the speech did not interest him.",
+        "He was frightened by his own stories.",
+        "He was entertaining the audience throughout the speech."
+      ],
+      "answerIndex": 0,
+      "feedback": "Amusing describes his usual stories; bored describes his reaction to the speech."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The race results were disappointing. We had hoped to finish first, but our team came fourth.",
+      "prompt": "Why did the team feel disappointed?",
+      "choices": [
+        "They won by a narrow margin.",
+        "They did not finish as high as they had hoped.",
+        "The race was cancelled before the finish."
+      ],
+      "answerIndex": 1,
+      "feedback": "The team expected first place but came fourth; disappointing refers to that outcome."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The science exhibit was frightening for the younger children, but the adults found it interesting.",
+      "prompt": "How did the two groups respond differently?",
+      "choices": [
+        "Both groups felt frightened.",
+        "The adults were frightened and the children were interested.",
+        "The children felt afraid, while the adults were interested."
+      ],
+      "answerIndex": 2,
+      "feedback": "Frightening describes the effect on children, while interesting describes the adults’ reaction."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "At first I was embarrassed by my mistake, but everyone was kind about it.",
+      "prompt": "Type the single adjective immediately after “was” in the recording.",
+      "acceptedAnswers": [
+        "embarrassed"
+      ],
+      "feedback": "Embarrassed describes the speaker’s own reaction to making the mistake."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The documentary was inspiring, and the students felt inspired after watching it.",
+      "prompt": "Type the single adjective immediately after “felt” in the recording.",
+      "acceptedAnswers": [
+        "inspired"
+      ],
+      "feedback": "Inspired describes the students’ reaction to the inspiring documentary."
+    }
+  ]
+}

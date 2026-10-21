@@ -1,0 +1,408 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u059",
+  "title": "Prefer and Would Rather: Expressing Choices",
+  "level": "B2",
+  "topicId": "eg2-u059-prefer-would-rather-choices",
+  "summary": "Express general preferences and choices in a particular situation using prefer, would prefer and would rather. Compare activities correctly, form polite negative preferences, and say what you would prefer another person to do.",
+  "learningObjectives": [
+    "Describe general preferences using prefer + -ing or prefer + to-infinitive.",
+    "Compare alternatives using prefer A to B and prefer to do A rather than do B.",
+    "Express choices for a specific occasion with would prefer to and would rather + base verb.",
+    "State what another person should or should not do using would rather + subject + past simple."
+  ],
+  "explanation": [
+    {
+      "heading": "Prefer for general tastes",
+      "body": "Use prefer when you describe what you generally like better. Before an activity, prefer can take an -ing form or a to-infinitive: prefer working or prefer to work. When two activities are compared with prefer + -ing, use to before the second -ing form. Prefer can also compare nouns directly.",
+      "example": "I prefer cycling to taking the crowded morning bus."
+    },
+    {
+      "heading": "Comparing activities with rather than",
+      "body": "Another way to contrast activities is prefer to + base verb + rather than + base verb. With prefer + -ing, rather than + -ing is also natural. Be consistent about the pattern you choose: prefer to cook rather than order, or prefer cooking rather than ordering. This describes a general preference unless a specific occasion is stated.",
+      "example": "Our neighbours prefer to repair old furniture rather than replace it."
+    },
+    {
+      "heading": "Would prefer: a choice on this occasion",
+      "body": "Would prefer often describes what someone wants in a particular situation rather than a long-term habit. With a verb, use would prefer to + base verb; with nouns, use would prefer + noun. Use would prefer to do A rather than do B when comparing actions on this occasion. Would prefer doing is not the usual choice in this pattern.",
+      "example": "For tomorrow’s appointment, I would prefer to arrive before nine."
+    },
+    {
+      "heading": "Would rather: no to before the verb",
+      "body": "Would rather has a similar meaning to would prefer to, but it is followed directly by the base verb: I’d rather leave, not I’d rather to leave. Make a negative with would rather not + base verb. Use than, not rather than, to contrast the second action after would rather.",
+      "example": "I’d rather stay for the questions than leave halfway through."
+    },
+    {
+      "heading": "Would rather someone did or did not do something",
+      "body": "To express a preference about another person’s action, use would rather + person + past simple: I’d rather you called first. Although the verb looks past, it refers here to the present or future. For an unwanted action, use would rather + person + didn’t + base verb. The pattern changes because the subject of the second action is different.",
+      "example": "I’d rather the delivery driver didn’t ring the bell before seven."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "General preference versus a choice today",
+      "left": {
+        "label": "Prefer: usual taste",
+        "example": "I prefer working at the office to working at home.",
+        "note": "Prefer + -ing describes the choice that generally suits the speaker."
+      },
+      "right": {
+        "label": "Would prefer: this occasion",
+        "example": "Today, I’d prefer to work at home.",
+        "note": "Would prefer to + verb selects an option for a particular day."
+      }
+    },
+    {
+      "title": "Your action versus someone else’s action",
+      "left": {
+        "label": "I would rather do it",
+        "example": "I’d rather carry the bags myself.",
+        "note": "When the speaker performs the action, use the base verb after rather."
+      },
+      "right": {
+        "label": "I would rather you did it",
+        "example": "I’d rather you carried the bags.",
+        "note": "When another person performs it, use a past-form verb after that person."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Tara prefers walking to taking short taxi rides.",
+      "note": "Prefer + -ing uses to before the second activity in a general comparison."
+    },
+    {
+      "sentence": "I prefer to start tasks early rather than rush at the end.",
+      "note": "Prefer to + base verb can contrast two actions with rather than + base verb."
+    },
+    {
+      "sentence": "At this table, I would prefer a seat away from the door.",
+      "note": "Would prefer can take a noun when making a specific choice."
+    },
+    {
+      "sentence": "We would rather not discuss the figures during lunch.",
+      "note": "Rather not + base verb expresses a polite negative preference."
+    },
+    {
+      "sentence": "I would rather the children played outside this afternoon.",
+      "note": "A past-form verb after another subject expresses a present or future preference."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I prefer working early than working late.",
+      "correct": "I prefer working early to working late.",
+      "why": "When prefer + -ing directly compares two activities, use to before the second -ing form."
+    },
+    {
+      "incorrect": "I would prefer leave after the presentation.",
+      "correct": "I would prefer to leave after the presentation.",
+      "why": "Would prefer takes a to-infinitive when the preferred option is an action."
+    },
+    {
+      "incorrect": "We would rather to walk than take a taxi.",
+      "correct": "We would rather walk than take a taxi.",
+      "why": "Would rather is followed by the base verb without to."
+    },
+    {
+      "incorrect": "I’d rather you don’t post these pictures yet.",
+      "correct": "I’d rather you didn’t post these pictures yet.",
+      "why": "For a present or future action by someone else, use a past-form verb after would rather you."
+    }
+  ],
+  "studyTips": [
+    "Describe one general choice with prefer A to B, and then a different choice for today using would prefer to.",
+    "Practise substitution pairs aloud: I’d prefer to leave / I’d rather leave; I’d prefer not to leave / I’d rather not leave.",
+    "To check who acts, compare I’d rather call them with I’d rather you called them; notice the verb-form change."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "On most weekends, I ___ at home to eating in crowded restaurants.",
+      "choices": [
+        "prefer cooking",
+        "prefer cook",
+        "would rather cooking"
+      ],
+      "answerIndex": 0,
+      "feedback": "For a general comparison between activities, use prefer cooking ... to eating."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "“What time should we meet tomorrow?” “I ___ meet before lunch.”",
+      "choices": [
+        "would rather to",
+        "would prefer to",
+        "prefer to meeting"
+      ],
+      "answerIndex": 1,
+      "feedback": "For a specific choice, would prefer to + base verb is correct."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The pavement is dry, so I’d rather ___ to the library than take the bus.",
+      "choices": [
+        "to walk",
+        "walking",
+        "walk"
+      ],
+      "answerIndex": 2,
+      "feedback": "Would rather takes the base verb walk without to or -ing."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "“Can I tell the whole team about your idea now?” “I’d rather you ___ until Monday.”",
+      "choices": [
+        "waited",
+        "wait",
+        "to wait"
+      ],
+      "answerIndex": 0,
+      "feedback": "A preference about someone else’s action takes a past-form verb: I’d rather you waited."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "I ___ at home rather than eat in restaurants. (prefer / cook; general preference; use to + base verb)",
+      "acceptedAnswers": [
+        "prefer to cook"
+      ],
+      "feedback": "Prefer to cook rather than eat compares two actions as a general preference."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "For tonight only, I ___ early. (would prefer / leave; write the phrase after I)",
+      "acceptedAnswers": [
+        "would prefer to leave",
+        "'d prefer to leave"
+      ],
+      "feedback": "Would prefer to leave states a choice for this evening."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "I ___ than stay for another meeting. (would rather / go; write the phrase after I)",
+      "acceptedAnswers": [
+        "would rather go",
+        "'d rather go"
+      ],
+      "feedback": "Would rather takes go without to; than introduces the less-preferred action."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Please keep the window closed during the call. I’d rather you ___ it. (not / open; past-form negative)",
+      "acceptedAnswers": [
+        "did not open",
+        "didn't open"
+      ],
+      "feedback": "Would rather you didn’t open expresses a preference about another person’s present or future action."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I prefer travelling by tram than travelling by car. (Change only the word linking the two activities.)",
+      "acceptedAnswers": [
+        "I prefer travelling by tram to travelling by car."
+      ],
+      "feedback": "Prefer + -ing takes to, not than, for this direct comparison."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: For this afternoon, I’d prefer work in the reading room. (Insert the missing word.)",
+      "acceptedAnswers": [
+        "For this afternoon, I'd prefer to work in the reading room."
+      ],
+      "feedback": "Would prefer + action requires to + base verb."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I’d rather to take the stairs than use the lift. (Remove the unnecessary word.)",
+      "acceptedAnswers": [
+        "I'd rather take the stairs than use the lift."
+      ],
+      "feedback": "Would rather is followed by take, not to take."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I’d rather you don’t mention the budget today. (Use the textbook past-form pattern after you.)",
+      "acceptedAnswers": [
+        "I'd rather you didn't mention the budget today.",
+        "I'd rather you did not mention the budget today."
+      ],
+      "feedback": "Would rather you didn’t + base verb refers to an unwanted present or future action by someone else."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "State a general preference using these exact activities: cooking at home; eating out. Begin “I prefer” and connect them with “to”.",
+      "acceptedAnswers": [
+        "I prefer cooking at home to eating out."
+      ],
+      "feedback": "Prefer + -ing ... to + -ing compares two habitual choices."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "For tomorrow’s journey, choose the train. Begin “I’d prefer” and end with “to travel by train”.",
+      "acceptedAnswers": [
+        "I'd prefer to travel by train."
+      ],
+      "feedback": "Would prefer to travel describes a choice for one occasion."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Politely decline the late concert. Begin “I’d rather not” and use “go to the late concert”.",
+      "acceptedAnswers": [
+        "I'd rather not go to the late concert."
+      ],
+      "feedback": "A negative choice uses rather not followed by the base verb go."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A colleague offers to send the files today; you prefer tomorrow. Begin “I’d rather you” and use “sent the files tomorrow”.",
+      "acceptedAnswers": [
+        "I'd rather you sent the files tomorrow."
+      ],
+      "feedback": "The past form sent expresses what you want someone else to do in the future."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Paraphrase “I’d prefer to walk rather than drive” using “I’d rather ... than ...”. Say one sentence without adding words.",
+      "acceptedAnswers": [
+        "I'd rather walk than drive."
+      ],
+      "feedback": "Would rather uses the base verb walk, followed by than drive."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend asks whether to share your private notes now. Prefer that they wait. Begin “I’d rather you” and finish with “waited until tomorrow”.",
+      "acceptedAnswers": [
+        "I'd rather you waited until tomorrow."
+      ],
+      "feedback": "A different subject after rather takes a past form for a present or future preference."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Make exactly two sentences from these facts. First: usual preference / hiking / swimming; use “prefer ... to” and begin with “I”. Second: tonight / stay indoors; use “I’d rather”, and begin the sentence with “Tonight”.",
+      "acceptedAnswers": [
+        "I prefer hiking to swimming. Tonight, I'd rather stay indoors."
+      ],
+      "feedback": "Prefer expresses a general preference; would rather makes tonight’s choice."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Change “I’d prefer to pay now” to an equivalent with “I’d rather”. Keep “pay now” and say one sentence.",
+      "acceptedAnswers": [
+        "I'd rather pay now."
+      ],
+      "feedback": "Would rather pay has the same intended choice without to before pay."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I usually prefer working alone, but for this project I would prefer to work with Maya.",
+      "prompt": "What does the speaker want for the current project?",
+      "choices": [
+        "To work alone as usual.",
+        "To postpone the project.",
+        "To work with Maya."
+      ],
+      "answerIndex": 2,
+      "feedback": "For this project introduces a specific choice that differs from the usual preference."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Would you like to eat now? I would rather wait until the others arrive.",
+      "prompt": "When would the second speaker prefer to eat?",
+      "choices": [
+        "After the others arrive.",
+        "Immediately, before anyone comes.",
+        "Tomorrow morning."
+      ],
+      "answerIndex": 0,
+      "feedback": "Would rather wait shows that eating now is not the preferred option."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I'd prefer to reserve a seat near the door.",
+      "prompt": "Type the three-word phrase immediately after “I’d”.",
+      "acceptedAnswers": [
+        "prefer to reserve"
+      ],
+      "feedback": "Prefer to reserve is the audible to-infinitive pattern after would prefer."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I told my flatmate I'd rather she didn't leave the kitchen window open overnight.",
+      "prompt": "What does the speaker want the flatmate to avoid?",
+      "choices": [
+        "Closing the window at night.",
+        "Leaving the window open overnight.",
+        "Opening the window during the day."
+      ],
+      "answerIndex": 1,
+      "feedback": "Would rather she didn't leave indicates an unwanted action by another person."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Nina would rather cycle than drive in the city, even when it rains.",
+      "prompt": "Which transport choice does Nina favour?",
+      "choices": [
+        "Driving whenever it rains.",
+        "Taking a taxi in wet weather.",
+        "Cycling instead of driving."
+      ],
+      "answerIndex": 2,
+      "feedback": "Would rather cycle than drive gives a clear comparison, even in rainy weather."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I used to prefer tea to coffee, but these days I prefer coffee.",
+      "prompt": "How has the speaker’s preference changed?",
+      "choices": [
+        "From tea to coffee.",
+        "From coffee to tea.",
+        "The preference has stayed the same."
+      ],
+      "answerIndex": 0,
+      "feedback": "Used to marks the old preference for tea; these days marks the new preference for coffee."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "We'd rather not change the deadline this week.",
+      "prompt": "Type the three-word expression immediately after “We’d”.",
+      "acceptedAnswers": [
+        "rather not change"
+      ],
+      "feedback": "Rather not change combines would rather with a negative base verb."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I would rather you checked the figures before sending them.",
+      "prompt": "Type the two words immediately after “rather”.",
+      "acceptedAnswers": [
+        "you checked"
+      ],
+      "feedback": "The past form checked follows another subject, you, to express a preference about a future action."
+    }
+  ]
+}

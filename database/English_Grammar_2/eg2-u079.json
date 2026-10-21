@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u079",
+  "title": "Singular and plural: forms and agreement",
+  "level": "B2",
+  "topicId": "eg2-u079-singular-plural-agreement",
+  "summary": "Choose natural singular or plural forms and verb agreement with paired objects, school subjects, invariant nouns, collective nouns, police and people. Treat a total amount, distance or time period as one quantity when the meaning calls for it.",
+  "learningObjectives": [
+    "Use plural verbs with clothing and objects that conventionally have plural forms, and use a pair of for one set.",
+    "Recognise singular -ics subject names and news, and count means, series and species without changing their form.",
+    "Use plural agreement with police and people while recognising that British English collective nouns can take singular or plural agreement.",
+    "Use singular verbs for time, money and distance when a single total is the subject."
+  ],
+  "explanation": [
+    {
+      "heading": "Things made of two parts",
+      "body": "Words such as trousers, shorts, tights, spectacles, scissors and binoculars are grammatically plural when they name a single item. Use are, have or these with the plural noun. For one set, say a pair of scissors or a pair of trousers; pair is singular, so this pair is correct. Multiple sets take pairs. The expression a scissors is not standard.",
+      "example": "Those hiking trousers are waterproof, but this pair is too small."
+    },
+    {
+      "heading": "Singular subjects ending in -s",
+      "body": "An -s ending does not always mean that a noun is plural. Academic subjects such as physics, economics and gymnastics normally take a singular verb when referring to a field of study or a sport. News is an uncountable singular noun in ordinary use: the news is, not the news are. Remember that politics can have other meanings, so use the singular pattern here for the academic field.",
+      "example": "Economics is offered as an evening course at the college."
+    },
+    {
+      "heading": "Same noun form for one or several",
+      "body": "Means, series and species have the same shape in the singular and plural. Use a or one to identify one item, and several, two or many for multiple items. The determiner and the context—not an extra -s—tell us the number: one species and several species. Agreement follows the actual number, not the ending alone.",
+      "example": "Three documentary series are available, but only one series is new."
+    },
+    {
+      "heading": "Groups of people and plural-only people nouns",
+      "body": "In British English, a collective noun such as team, committee, staff or family may take a singular verb when treated as one unit or a plural verb when the members are emphasised. Both patterns are sometimes possible, so context and consistent reference matter. Police and people, however, normally take plural verbs: the police are and several people have. For one officer, use a police officer, not a police.",
+      "example": "The committee are discussing their different proposals before the vote."
+    },
+    {
+      "heading": "One sum, period or distance",
+      "body": "Although a total may contain a plural measurement word, use a singular verb when you view it as one amount, period or distance. This is especially natural in judgements such as five hours is enough, or twenty kilometres is a long way. If separate coins, hours or distances are meant rather than one quantity, the meaning and agreement may change.",
+      "example": "Eighty pounds is more than we planned to spend on the repair."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "One paired item versus one pair",
+      "left": {
+        "label": "Plural object noun",
+        "example": "My headphones are in the drawer.",
+        "note": "Headphones is grammatically plural even for one set."
+      },
+      "right": {
+        "label": "Singular pair",
+        "example": "This pair of headphones is brand-new.",
+        "note": "The head noun pair controls the singular verb."
+      }
+    },
+    {
+      "title": "A group name versus the police",
+      "left": {
+        "label": "Collective noun",
+        "example": "The research team is meeting today.",
+        "note": "Treating the team as a single group makes singular agreement natural."
+      },
+      "right": {
+        "label": "Plural-only group noun",
+        "example": "The police are speaking to witnesses.",
+        "note": "Police takes plural agreement in standard usage."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Her new binoculars have adjustable lenses.",
+      "note": "A plural-only object takes have even when it is one device."
+    },
+    {
+      "sentence": "The news from the interview is positive.",
+      "note": "News is singular despite its -s ending."
+    },
+    {
+      "sentence": "Several species of butterfly live in the reserve.",
+      "note": "Species has the same form for one and for several."
+    },
+    {
+      "sentence": "The staff are exchanging ideas before the meeting.",
+      "note": "British English can use a plural verb to highlight individual staff members."
+    },
+    {
+      "sentence": "Six weeks is enough time to finish the project.",
+      "note": "The six weeks are considered one time period."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The trousers was still wet.",
+      "correct": "The trousers were still wet.",
+      "why": "Trousers takes a plural verb even when only one pair is meant."
+    },
+    {
+      "incorrect": "The news about the flight are disappointing.",
+      "correct": "The news about the flight is disappointing.",
+      "why": "News behaves as a singular, uncountable noun."
+    },
+    {
+      "incorrect": "The police is checking the security cameras.",
+      "correct": "The police are checking the security cameras.",
+      "why": "Police normally takes plural agreement."
+    },
+    {
+      "incorrect": "Four kilometres are too far for this short walk.",
+      "correct": "Four kilometres is too far for this short walk.",
+      "why": "The distance is judged as one total, so use is."
+    }
+  ],
+  "studyTips": [
+    "Test agreement by finding the head noun: these scissors are, but this pair of scissors is.",
+    "Make a two-column list for tricky -s endings: school subjects and news are singular; police and people are plural.",
+    "With a collective noun, decide whether you mean the organisation as one unit or its members, and keep agreement consistent."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The safety goggles ___ on the shelf beside the helmets.",
+      "choices": [
+        "are",
+        "is",
+        "has"
+      ],
+      "answerIndex": 0,
+      "feedback": "Goggles is a plural-only noun, so it takes are."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "___ one of the hardest subjects in the engineering programme.",
+      "choices": [
+        "Physics are",
+        "Physics is",
+        "Physic is"
+      ],
+      "answerIndex": 1,
+      "feedback": "The subject name physics is grammatically singular."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "We identified four different ___ in the pond during the survey.",
+      "choices": [
+        "specieses",
+        "specie",
+        "species"
+      ],
+      "answerIndex": 2,
+      "feedback": "Species has the same spelling with singular and plural meanings."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The police ___ looking for the owner of the abandoned suitcase.",
+      "choices": [
+        "is",
+        "are",
+        "has"
+      ],
+      "answerIndex": 1,
+      "feedback": "Police is plural in standard English and takes are looking."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "After the hike, my boots were dry, but my trousers ___ still wet. (Write the past form of be.)",
+      "acceptedAnswers": [
+        "were"
+      ],
+      "feedback": "Trousers takes the plural form were."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "I could not hear the announcement because the ___ was unclear. (Write the singular noun meaning information about recent events.)",
+      "acceptedAnswers": [
+        "news"
+      ],
+      "feedback": "News has an -s ending but takes singular was."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The students watched two documentary ___ about deep-sea animals. (Use the noun series.)",
+      "acceptedAnswers": [
+        "series"
+      ],
+      "feedback": "The plural of series is still series."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "In this budget, thirty euros ___ enough for the bus tickets. (Complete with is or are; treat the amount as one total.)",
+      "acceptedAnswers": [
+        "is"
+      ],
+      "feedback": "A single amount of money takes singular agreement."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My new sunglasses is in the blue case.",
+      "acceptedAnswers": [
+        "My new sunglasses are in the blue case."
+      ],
+      "feedback": "Sunglasses is a plural-only noun, so use are."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Several peoples were waiting outside the theatre.",
+      "acceptedAnswers": [
+        "Several people were waiting outside the theatre."
+      ],
+      "feedback": "People is already the ordinary plural of person; do not add -s here."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The police has questioned both drivers.",
+      "acceptedAnswers": [
+        "The police have questioned both drivers."
+      ],
+      "feedback": "Police takes plural agreement, so the auxiliary is have."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Ten hours are too long for a single shift.",
+      "acceptedAnswers": [
+        "Ten hours is too long for a single shift."
+      ],
+      "feedback": "Ten hours describes one duration being evaluated, so singular is is natural."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "State the location of one set of glasses using these exact facts: my reading glasses; be; on the desk. Use the present simple.",
+      "acceptedAnswers": [
+        "My reading glasses are on the desk."
+      ],
+      "feedback": "Glasses takes plural are even when only one set is meant."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Change only the incorrect verb and say the complete sentence: “Economics are my favourite subject.”",
+      "acceptedAnswers": [
+        "Economics is my favourite subject."
+      ],
+      "feedback": "Economics as a school subject takes a singular verb."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "A colleague asks whether the update is useful. Give one sentence beginning “The news” and ending “encouraging”.",
+      "acceptedAnswers": [
+        "The news is encouraging."
+      ],
+      "feedback": "News is singular, so use is."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Report this exact viewing history in one sentence: we; watch; two documentary series; last month. Use past simple.",
+      "acceptedAnswers": [
+        "We watched two documentary series last month."
+      ],
+      "feedback": "Series is unchanged in the plural; two gives the number."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "The officers are checking witness statements. Explain what the police are doing in one complete sentence beginning “The police”. Use the present continuous and the exact words “checking witness statements”.",
+      "acceptedAnswers": [
+        "The police are checking witness statements."
+      ],
+      "feedback": "Police is plural and takes are checking."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "In British English, treat the committee as one decision-making unit. Say this fact: the committee; have decided; to postpone the vote. Use singular agreement and one sentence.",
+      "acceptedAnswers": [
+        "The committee has decided to postpone the vote."
+      ],
+      "feedback": "When the committee is viewed as one unit, has decided is appropriate."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences using these facts: my headphones / be / new. This pair / be / comfortable. Use the present simple in both sentences.",
+      "acceptedAnswers": [
+        "My headphones are new. This pair is comfortable."
+      ],
+      "feedback": "Headphones is plural; the head noun pair is singular."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say a single judgement about one walking distance using the exact words: three kilometres / be / too far / before breakfast. Start with “Three kilometres”.",
+      "acceptedAnswers": [
+        "Three kilometres is too far to walk before breakfast."
+      ],
+      "feedback": "The distance is considered as one amount, so use is."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The update is reassuring: the news is good, although my protective glasses are damaged.",
+      "prompt": "Which item needs replacing?",
+      "choices": [
+        "The protective glasses.",
+        "The written news update.",
+        "The entire work schedule."
+      ],
+      "answerIndex": 0,
+      "feedback": "The glasses are damaged; good describes the news, not the eyewear."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We bought two pairs of binoculars for the wildlife volunteers, one for each team.",
+      "prompt": "How many sets of binoculars did they buy?",
+      "choices": [
+        "One set.",
+        "Two sets.",
+        "Three sets."
+      ],
+      "answerIndex": 1,
+      "feedback": "Two pairs refers to two sets of binoculars."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The police are checking the cameras outside the station.",
+      "prompt": "Type the two-word verb phrase immediately after “The police”.",
+      "acceptedAnswers": [
+        "are checking"
+      ],
+      "feedback": "Police takes the plural present-continuous verb phrase are checking."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The design team are comparing their proposals before the manager selects a single option.",
+      "prompt": "What are the team members doing before the decision?",
+      "choices": [
+        "Delivering the final design.",
+        "Cancelling the meeting.",
+        "Comparing different proposals."
+      ],
+      "answerIndex": 2,
+      "feedback": "The plural team agreement highlights the members comparing their proposals."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "We watched two science series last weekend, but only one series covered space travel.",
+      "prompt": "How many of the programmes were about space travel?",
+      "choices": [
+        "One series.",
+        "Two series.",
+        "None of the series."
+      ],
+      "answerIndex": 0,
+      "feedback": "One series covered space travel; series stays the same in both numbers."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Eight kilometres is the complete length of the charity route, not the distance from the car park.",
+      "prompt": "What does eight kilometres measure?",
+      "choices": [
+        "The drive from the car park.",
+        "The full charity route.",
+        "The distance between two towns."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker calls it the complete length of the route."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Physics is taught in the upstairs classroom on Wednesdays.",
+      "prompt": "Type the two-word verb phrase immediately after “Physics”.",
+      "acceptedAnswers": [
+        "is taught"
+      ],
+      "feedback": "Physics is the singular subject of is taught."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Several people are waiting outside the health centre for the doors to open.",
+      "prompt": "Type the three words immediately after “Several”.",
+      "acceptedAnswers": [
+        "people are waiting"
+      ],
+      "feedback": "People is plural, and it takes are waiting."
+    }
+  ]
+}

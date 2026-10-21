@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u029",
+  "title": "May and might: uncertain present and past",
+  "level": "B2",
+  "topicId": "eg2-u029-may-might-present-past-possibility",
+  "summary": "Use may and might to express uncertainty about a situation now or an event in the past. Build positive, negative and continuous forms, distinguish may be from maybe, and contrast a possible negative explanation with a conclusion that something was impossible.",
+  "learningObjectives": [
+    "Express an uncertain present situation with may/might + base verb, including be and have.",
+    "Describe a possible activity in progress using may/might be + -ing, and a possible negative situation with may/might not.",
+    "Speculate about earlier actions and conditions with may/might (not) have + past participle.",
+    "Distinguish might not have (perhaps not) from couldn’t have (not possible), and use may be and maybe appropriately."
+  ],
+  "explanation": [
+    {
+      "heading": "May and might mean perhaps",
+      "body": "Use may or might before the base form of a verb when you think something is possible but you do not know whether it is true. Both forms express uncertainty rather than a firm conclusion. There is normally no reliable difference in probability between may and might; either often works. After these modals, use a base verb such as know, have or be, without to or an -s ending.",
+      "example": "The caretaker may know where the spare chairs are kept."
+    },
+    {
+      "heading": "Uncertain present activities and negatives",
+      "body": "Use may/might be + -ing to suggest what someone could be doing at the moment. To suggest that a statement is perhaps not true, put not immediately after the modal: may not or might not. This expresses an open possibility, not proof that the negative statement is true. The same word order works with an -ing form: might not be listening.",
+      "example": "The design team might be discussing the new layout right now."
+    },
+    {
+      "heading": "Past possibilities with have",
+      "body": "To speculate about an earlier event, use may/might have followed by a past participle: left, forgotten, taken or been. This tells the listener the event is possible; it does not establish that it happened. For a possible earlier ongoing activity, use may/might have been + -ing. Time phrases such as yesterday or last night help anchor the interpretation.",
+      "example": "The delivery may have arrived while we were out."
+    },
+    {
+      "heading": "Negative past possibility versus impossibility",
+      "body": "May not have and might not have suggest it is possible that an earlier event did not occur. In contrast, couldn’t have says the event was impossible according to the available evidence. This difference matters when you are explaining an unanswered message, a missed appointment or an uncertain report. Use the same have + participle pattern in each case.",
+      "example": "Lena might not have seen the email; her account was temporarily locked."
+    },
+    {
+      "heading": "May be is a verb phrase; maybe is an adverb",
+      "body": "May be consists of a modal followed by be and fits inside a clause with a subject. Maybe is one word, meaning perhaps; it can introduce or modify a whole idea. Compare The address may be wrong with Maybe the address is wrong. Neither form removes the uncertainty. Avoid writing maybe where a modal verb is required.",
+      "example": "Maybe the shop is closed, or the staff may be on a break."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A possible fact versus a possible current activity",
+      "left": {
+        "label": "May/might + base verb",
+        "example": "Nora might know the answer.",
+        "note": "The uncertainty concerns what is true now."
+      },
+      "right": {
+        "label": "May/might be + -ing",
+        "example": "Nora might be checking the answer.",
+        "note": "The uncertainty concerns an activity in progress now."
+      }
+    },
+    {
+      "title": "An uncertain past negative versus a ruled-out past event",
+      "left": {
+        "label": "Might not have",
+        "example": "The driver might not have received our instructions.",
+        "note": "The speaker is unsure whether the instructions arrived."
+      },
+      "right": {
+        "label": "Couldn’t have",
+        "example": "The driver couldn’t have received the instructions on Monday; they were sent on Tuesday.",
+        "note": "Known dates make Monday receipt impossible."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The package may be at the neighbour’s house.",
+      "note": "May be states an uncertain current location."
+    },
+    {
+      "sentence": "The visitors might not understand the signs.",
+      "note": "Might not understand allows for a possible lack of understanding."
+    },
+    {
+      "sentence": "Maya may be waiting at the side entrance.",
+      "note": "May be waiting speculates about an activity currently underway."
+    },
+    {
+      "sentence": "The technician might have replaced the cable before leaving.",
+      "note": "Might have replaced presents an uncertain completed earlier action."
+    },
+    {
+      "sentence": "I may not have locked the bicycle properly this morning.",
+      "note": "May not have locked leaves open the possibility that the past action was not done."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "There maybe a mistake in the invoice.",
+      "correct": "There may be a mistake in the invoice.",
+      "why": "After there, the clause needs the verb phrase may be; maybe is a separate adverb."
+    },
+    {
+      "incorrect": "Jon might to know why the alarm stopped.",
+      "correct": "Jon might know why the alarm stopped.",
+      "why": "Use the base verb know immediately after might, without to."
+    },
+    {
+      "incorrect": "She may have leave her notebook at the studio.",
+      "correct": "She may have left her notebook at the studio.",
+      "why": "Past speculation needs have + a past participle: left."
+    },
+    {
+      "incorrect": "He might not has heard the announcement.",
+      "correct": "He might not have heard the announcement.",
+      "why": "Use have, not has, after the modal and not; heard is the past participle."
+    }
+  ],
+  "studyTips": [
+    "For every uncertain idea, write two forms using may and might, then check that the following verb is in its base form.",
+    "Pair a present possibility with a past possibility: She might be at the office now; she might have worked there yesterday.",
+    "When a negative past modal appears, ask whether the speaker means perhaps not (might not have) or definitely impossible (couldn’t have)."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The receptionist is away from the desk. We do not know her location. She ___ in the stockroom.",
+      "choices": [
+        "must have been",
+        "may be",
+        "is certainly"
+      ],
+      "answerIndex": 1,
+      "feedback": "May be presents the stockroom as one possible current location without claiming certainty."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The studio lights are on, but we cannot see inside. The dancers ___ a rehearsal now.",
+      "choices": [
+        "might be having",
+        "might have had",
+        "might having"
+      ],
+      "answerIndex": 0,
+      "feedback": "Might be having describes an uncertain activity in progress now."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "No one knows why the printer stopped yesterday. It ___ an error message before it shut down.",
+      "choices": [
+        "may show",
+        "may have shown",
+        "may have show"
+      ],
+      "answerIndex": 1,
+      "feedback": "Yesterday calls for may have + past participle shown to express a possible earlier event."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The archive was completely sealed until Friday. The document was supposedly removed on Wednesday. Which conclusion fits the known facts?",
+      "choices": [
+        "It might not have been removed on Wednesday.",
+        "It may have been removed on Wednesday.",
+        "It couldn’t have been removed on Wednesday."
+      ],
+      "answerIndex": 2,
+      "feedback": "If the archive was inaccessible until Friday, removal on Wednesday was impossible; couldn’t have states that stronger conclusion."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The parcel has not reached us, and its current location is unknown. “It ___ (be) at the sorting centre.” Use may.",
+      "acceptedAnswers": [
+        "may be"
+      ],
+      "feedback": "May be + place identifies one uncertain current location."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "We can hear footsteps in the attic. “Someone ___ (work) up there.” Use might to describe a possible activity happening now.",
+      "acceptedAnswers": [
+        "might be working"
+      ],
+      "feedback": "Might be working follows the modal with be + -ing to describe an uncertain current activity."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The missing keys were found near the entrance. “I ___ (drop) them there yesterday.” Use may to express uncertainty about the past.",
+      "acceptedAnswers": [
+        "may have dropped"
+      ],
+      "feedback": "May have dropped uses the past participle after have for an uncertain earlier action."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The audience remained silent, and no one knows whether the warning was heard. “They ___ (not / hear) the announcement.” Use might.",
+      "acceptedAnswers": [
+        "might not have heard"
+      ],
+      "feedback": "Might not have heard says it is possible that they failed to hear the earlier announcement."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The missing file maybe on the shared drive.",
+      "acceptedAnswers": [
+        "The missing file may be on the shared drive."
+      ],
+      "feedback": "May be is a two-word modal verb phrase; maybe cannot replace it after the subject."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The visitors might waiting outside the theatre.",
+      "acceptedAnswers": [
+        "The visitors might be waiting outside the theatre."
+      ],
+      "feedback": "An uncertain activity happening now takes might be + -ing."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Leo may have forgot the meeting was moved to Thursday.",
+      "acceptedAnswers": [
+        "Leo may have forgotten the meeting was moved to Thursday."
+      ],
+      "feedback": "Use forgotten, the past participle, after may have."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The courier might not have receive the new address before leaving.",
+      "acceptedAnswers": [
+        "The courier might not have received the new address before leaving."
+      ],
+      "feedback": "The negative past possibility takes might not have + past participle received."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "The caretaker’s location is unknown. Suggest one possible current location using exactly “The caretaker”, “may be” and “in the garden”.",
+      "acceptedAnswers": [
+        "The caretaker may be in the garden."
+      ],
+      "feedback": "May be presents a possible present location, not a confirmed fact."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "You hear voices outside a meeting room. Say one sentence with these exact words: they / might / be / discussing / the timetable. Begin with “They”.",
+      "acceptedAnswers": [
+        "They might be discussing the timetable."
+      ],
+      "feedback": "Might be discussing expresses uncertainty about an activity happening now."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "You are unsure whether the speaker knows the answer. Make a negative possibility with “She”, “might not” and “know the answer”.",
+      "acceptedAnswers": [
+        "She might not know the answer."
+      ],
+      "feedback": "Might not know leaves open the possibility that she lacks the information."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A colleague asks why the chairs are missing. Give one possible earlier explanation using “The organisers”, “may have” and “moved the chairs”.",
+      "acceptedAnswers": [
+        "The organisers may have moved the chairs."
+      ],
+      "feedback": "May have moved expresses a possible completed action in the past."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "We do not know whether Theo read the notice yesterday. Begin with “Theo” and say “might not have read the notice yesterday”.",
+      "acceptedAnswers": [
+        "Theo might not have read the notice yesterday."
+      ],
+      "feedback": "Might not have read is an uncertain negative explanation for the past."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Correct the modal phrase and say the entire sentence: “The manager might be work in the office now.”",
+      "acceptedAnswers": [
+        "The manager might be working in the office now."
+      ],
+      "feedback": "After might be, an ongoing action uses the -ing form working."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "The museum was locked from Monday until Thursday. Reject the claim it opened on Tuesday. Begin with “The museum” and use “couldn’t have opened on Tuesday”.",
+      "acceptedAnswers": [
+        "The museum couldn’t have opened on Tuesday.",
+        "The museum could not have opened on Tuesday."
+      ],
+      "feedback": "Couldn’t have opened is appropriate when the past event was impossible."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences. First, use these words: “Maybe the train is delayed.” Second, restate the possibility with these exact words: “The train may be delayed.”",
+      "acceptedAnswers": [
+        "Maybe the train is delayed. The train may be delayed."
+      ],
+      "feedback": "Maybe is an adverb, while may be is a modal verb phrase inside a clause."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "prompt": "What does the speaker know about Nia’s location?",
+      "choices": [
+        "Nia definitely went home.",
+        "Nia may be in another room.",
+        "Nia has already finished her shift."
+      ],
+      "answerIndex": 1,
+      "feedback": "Might be gives a possible location rather than a confirmed one.",
+      "audioText": "The bakery is open, but I cannot find Nia. She might be in the storeroom."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "prompt": "What does the speaker think may be happening now?",
+      "choices": [
+        "The heating system is possibly being repaired.",
+        "The maintenance team finished repairs yesterday.",
+        "The building is being demolished."
+      ],
+      "answerIndex": 0,
+      "feedback": "May be fixing speculates about work in progress at the moment.",
+      "audioText": "We can hear drilling upstairs. The maintenance team may be fixing the heating system."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "prompt": "Type the three-word modal expression immediately after “The manager”.",
+      "acceptedAnswers": [
+        "might not be"
+      ],
+      "feedback": "Might not be expresses an uncertain negative present situation.",
+      "audioText": "The office is quiet today. The manager might not be here."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "prompt": "What is uncertain about the past?",
+      "choices": [
+        "Whether breakfast was cancelled.",
+        "Whether the chairs are new.",
+        "Whether the cleaners moved the chairs."
+      ],
+      "answerIndex": 2,
+      "feedback": "May have moved offers an uncertain explanation for an earlier action.",
+      "audioText": "Nobody saw who moved the chairs, but the cleaners may have moved them before breakfast."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "prompt": "What does the speaker suggest?",
+      "choices": [
+        "It is possible Zoe did not get the invitation.",
+        "Zoe definitely rejected the invitation.",
+        "The invitation is certainly arriving tomorrow."
+      ],
+      "answerIndex": 0,
+      "feedback": "Might not have received expresses uncertainty about a negative past event, not a firm conclusion.",
+      "audioText": "Zoe did not reply yesterday. She might not have received the invitation."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "prompt": "How certain is the speaker about the bus crossing at nine?",
+      "choices": [
+        "The crossing was likely but unconfirmed.",
+        "The crossing was impossible at that time.",
+        "The crossing is scheduled for next week."
+      ],
+      "answerIndex": 1,
+      "feedback": "Couldn’t have crossed rules out the earlier event using the known closure.",
+      "audioText": "The bridge was closed all morning. The tour bus couldn’t have crossed it at nine."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "prompt": "Type the three-word modal verb phrase immediately after “The courier”.",
+      "acceptedAnswers": [
+        "may have taken"
+      ],
+      "feedback": "May have taken gives one possible explanation of an earlier route choice.",
+      "audioText": "The courier may have taken the shorter road because there was heavy traffic."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "prompt": "Type the four-word verb expression immediately after “The neighbour”.",
+      "acceptedAnswers": [
+        "might have been sleeping"
+      ],
+      "feedback": "Might have been sleeping describes an uncertain past activity in progress.",
+      "audioText": "The neighbour might have been sleeping when the phone rang."
+    }
+  ]
+}

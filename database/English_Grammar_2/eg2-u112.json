@@ -1,0 +1,417 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u112",
+  "title": "Even: Unexpected Facts and Concessions",
+  "level": "B2",
+  "topicId": "eg2-u112-even-emphasis-comparisons-and-clauses",
+  "summary": "Use even to highlight a surprising example, express an unexpectedly low or high degree, strengthen a comparison, or introduce a concession. Distinguish actual facts with even though, possible conditions with even if, and repeated situations with even when.",
+  "learningObjectives": [
+    "Use even and not even to single out an unexpected person, thing, circumstance or action.",
+    "Place even naturally before a focused phrase or inside a verb phrase.",
+    "Strengthen comparatives with even before a comparative adjective or adverb.",
+    "Choose even though, even if and even when according to factual contrast, hypothetical condition and repeated circumstances."
+  ],
+  "explanation": [
+    {
+      "heading": "Even singles out the surprising case",
+      "body": "Even draws attention to something unusual compared with other possibilities. You can place it before a noun phrase, prepositional phrase or other element you want to emphasize. The meaning depends on context: the person, place or action marked with even is less expected than the alternatives. Even on its own is not a conjunction linking two full clauses.",
+      "example": "Everyone in the office enjoyed the puzzle, even the director who dislikes games."
+    },
+    {
+      "heading": "Use even inside a verb phrase and with negatives",
+      "body": "Even may appear before an ordinary main verb or after the first auxiliary, similar to other middle-position adverbs. A negative plus even highlights failure to do something very small or basic: did not even say thanks. With not even plus a noun, the noun is an especially surprising exception. The placement shows exactly what the speaker is emphasizing.",
+      "example": "The hotel did not even provide clean towels for the guests."
+    },
+    {
+      "heading": "Even strengthens comparisons",
+      "body": "Put even directly before a comparative to say that a new difference goes further than one already mentioned: even smaller, even more useful, even better or even less. Do not add more to a comparative that already ends in -er. Even here strengthens a degree rather than introducing an unexpected person or event.",
+      "example": "The replacement keyboard is even quieter than the old one."
+    },
+    {
+      "heading": "Even though describes an actual contrast",
+      "body": "Use even though plus a subject and verb when the circumstance is known to be true but the result is surprising. It is similar to although but often emphasizes the contrast more strongly. Do not use bare even to connect an entire clause: even though the road was flooded, not even the road was flooded, when you mean despite that fact.",
+      "example": "Even though the café was crowded, we found a quiet table."
+    },
+    {
+      "heading": "Even if and even when express different situations",
+      "body": "Even if introduces a possible condition that does not change the decision or result; it does not say the condition will occur. Even when refers to occasions on which something happens repeatedly or is expected to happen in a familiar situation. Compare We will walk even if it snows (a possibility) with She walks even when it snows (repeated circumstances). An ordinary if-clause, by contrast, can make the action depend on the condition.",
+      "example": "We will hold the outdoor class even if the forecast is poor."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Unexpected item versus an unexpectedly missing basic action",
+      "left": {
+        "label": "Even + focused phrase",
+        "example": "Even the new trainee understood the instructions.",
+        "note": "The trainee is a surprising person to understand them."
+      },
+      "right": {
+        "label": "Not even + basic action",
+        "example": "The trainer did not even explain the first step.",
+        "note": "The missing explanation is surprising because it is a minimum expected action."
+      }
+    },
+    {
+      "title": "Known fact versus possible condition",
+      "left": {
+        "label": "Even though",
+        "example": "Even though the battery was low, the camera worked.",
+        "note": "The battery really was low, but the camera still worked."
+      },
+      "right": {
+        "label": "Even if",
+        "example": "The camera will work even if the battery gets low.",
+        "note": "The low battery is a possibility, not an established fact."
+      }
+    },
+    {
+      "title": "Decision regardless of conditions versus a dependent decision",
+      "left": {
+        "label": "Even if",
+        "example": "We will cycle even if the wind is strong.",
+        "note": "Strong wind will not change the plan."
+      },
+      "right": {
+        "label": "If",
+        "example": "We will cycle if the wind is light.",
+        "note": "Light wind is a condition for the plan."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Nobody recognised the melody, not even the music teacher.",
+      "note": "Not even singles out the person most likely to know the melody."
+    },
+    {
+      "sentence": "The guide even remembered the visitors who had come last year.",
+      "note": "Even before remembered presents that achievement as surprising."
+    },
+    {
+      "sentence": "The return journey was even slower than the outward trip.",
+      "note": "Even intensifies the comparative slower."
+    },
+    {
+      "sentence": "Even though the first explanation was clear, I asked for another example.",
+      "note": "The first explanation really was clear; the extra request is a contrast."
+    },
+    {
+      "sentence": "My grandfather goes for a walk even when the weather is unpleasant.",
+      "note": "Even when describes the repeated situations in which his habit continues."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "They did not even brought a map.",
+      "correct": "They did not even bring a map.",
+      "why": "After did not, the main verb remains in its base form bring; even does not change this rule."
+    },
+    {
+      "incorrect": "The updated model is even more smaller than the first.",
+      "correct": "The updated model is even smaller than the first.",
+      "why": "Smaller is already comparative, so do not add more before it."
+    },
+    {
+      "incorrect": "Even the roads were icy, the buses ran.",
+      "correct": "Even though the roads were icy, the buses ran.",
+      "why": "Even alone cannot introduce this full factual contrast clause; even though can."
+    },
+    {
+      "incorrect": "We will perform outdoors even the temperature drops.",
+      "correct": "We will perform outdoors even if the temperature drops.",
+      "why": "Even if introduces the possible condition that will not alter the plan."
+    }
+  ],
+  "studyTips": [
+    "Ask what surprises you: an unlikely person, a missing basic action or a greater difference. Place even next to that element.",
+    "For clauses, identify whether the circumstance is real (even though), possible (even if) or recurrent (even when).",
+    "Practise pairs aloud: faster → even faster; did not call → did not even call; we will go if it is dry → we will go even if it rains."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Everyone completed the advanced task, including the beginner who had joined yesterday. Which sentence highlights the surprising person?",
+      "choices": [
+        "Even the beginner completed the advanced task.",
+        "The beginner even if completed the advanced task.",
+        "Even though the beginner completed the advanced task."
+      ],
+      "answerIndex": 0,
+      "feedback": "Even before the beginner identifies the unexpectedly successful person."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The receptionist failed to offer the most basic greeting. Choose the natural wording.",
+      "choices": [
+        "The receptionist did not say even hello.",
+        "The receptionist did not even say hello.",
+        "The receptionist did even not say hello."
+      ],
+      "answerIndex": 1,
+      "feedback": "After did not, even naturally emphasizes the basic action say hello."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The second exam was more difficult than the first. Choose the best strengthened comparative.",
+      "choices": [
+        "The second exam was even more difficulter.",
+        "The second exam was more even difficult.",
+        "The second exam was even more difficult."
+      ],
+      "answerIndex": 2,
+      "feedback": "Even directly strengthens more difficult; do not create a double comparative."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Our event will go ahead whether it rains or not. Which sentence expresses this decision?",
+      "choices": [
+        "We will cancel the event if it rains.",
+        "We will hold the event even if it rains.",
+        "We held the event even though it rained."
+      ],
+      "answerIndex": 1,
+      "feedback": "Even if presents rain as a possible condition that will not change the future plan."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The competition was difficult, but ___ the youngest competitor reached the final. (one emphasis word)",
+      "acceptedAnswers": [
+        "Even"
+      ],
+      "feedback": "Even singles out the unusually young finalist as surprising."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The manager ignored us completely. She did not ___ look in our direction. (one emphasis word)",
+      "acceptedAnswers": [
+        "even"
+      ],
+      "feedback": "Even strengthens the negative by highlighting the most basic expected attention."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The first proposal was expensive, but the revised proposal is ___ more expensive. (one emphasis word)",
+      "acceptedAnswers": [
+        "even"
+      ],
+      "feedback": "Even strengthens the comparative more expensive."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "We completed the journey ___ the motorway was closed throughout the day. (two-word conjunction introducing a confirmed fact)",
+      "acceptedAnswers": [
+        "even though"
+      ],
+      "feedback": "Even though presents the closure as real, despite the successful journey."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct only the verb form after \"did not\": The visitors did not even knew the building was closed.",
+      "acceptedAnswers": [
+        "The visitors did not even know the building was closed."
+      ],
+      "feedback": "Did not requires the base form know; even does not affect the verb form."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the doubled comparative: The second hill was even more steeper than the first.",
+      "acceptedAnswers": [
+        "The second hill was even steeper than the first."
+      ],
+      "feedback": "Steeper already includes the comparative -er, so remove more."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "The road was definitely icy, but the driver arrived safely. Correct only the clause opener: Even the road was icy, the driver arrived safely.",
+      "acceptedAnswers": [
+        "Even though the road was icy, the driver arrived safely."
+      ],
+      "feedback": "Even though links a confirmed circumstance to an unexpected result."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "The storm tomorrow is only a possibility, and the concert will continue regardless. Correct the missing connector: The concert will continue even a storm arrives tomorrow.",
+      "acceptedAnswers": [
+        "The concert will continue even if a storm arrives tomorrow."
+      ],
+      "feedback": "Even if introduces a possible event that will not change the concert plan."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "A very young visitor solved a difficult riddle, which surprised everyone. Say one sentence beginning \"Even the youngest visitor\" and ending \"solved the riddle\".",
+      "acceptedAnswers": [
+        "Even the youngest visitor solved the riddle."
+      ],
+      "feedback": "Even focuses on the least expected person succeeding."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "The host provided no water, although water was the least guests expected. Say \"The host did not provide water\" again, adding \"even\" immediately before \"provide\".",
+      "acceptedAnswers": [
+        "The host did not even provide water."
+      ],
+      "feedback": "Not even stresses the surprisingly missing basic service."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "The current room is brighter than the previous one, and you want to emphasize the difference. Say one sentence beginning \"This room is\" with \"even brighter\" and ending \"than the old one\".",
+      "acceptedAnswers": [
+        "This room is even brighter than the old one."
+      ],
+      "feedback": "Even goes directly before the comparative brighter."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "It is a known fact that the exhibition was crowded, but you enjoyed it. Say one sentence beginning \"Even though the exhibition was crowded\" and ending \"I enjoyed it\".",
+      "acceptedAnswers": [
+        "Even though the exhibition was crowded, I enjoyed it."
+      ],
+      "feedback": "Even though introduces a real circumstance that contrasts with the result."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Tomorrow may be windy, but you will go cycling regardless. Say one sentence beginning \"I will go cycling\" and ending \"even if it is windy\".",
+      "acceptedAnswers": [
+        "I will go cycling even if it is windy."
+      ],
+      "feedback": "Even if marks uncertain weather that will not change the plan."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Nora attends the early class on every occasion when she feels tired. Say a sentence beginning \"Nora attends the early class\" and ending \"even when she feels tired\".",
+      "acceptedAnswers": [
+        "Nora attends the early class even when she feels tired."
+      ],
+      "feedback": "Even when describes recurring circumstances during which Nora keeps her habit."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "You will finish the book regardless of whether it becomes difficult. Transform \"I will finish the book if it is easy\" into a promise using \"even if it becomes difficult\". Begin with \"I will\".",
+      "acceptedAnswers": [
+        "I will finish the book even if it becomes difficult."
+      ],
+      "feedback": "Unlike a simple if condition, even if shows the plan will continue despite difficulty."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Make exactly two sentences from the supplied facts. First, it was cold last night but Theo went running anyway; begin with \"Even though it was cold last night\" and end with \"Theo went running\". Second, he plans to run tomorrow regardless of colder weather; begin with \"He will run tomorrow\" and end with \"even if it is colder\".",
+      "acceptedAnswers": [
+        "Even though it was cold last night, Theo went running. He will run tomorrow even if it is colder."
+      ],
+      "feedback": "Even though introduces a real past contrast. Even if introduces a possible future condition that will not change the plan."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The challenge was difficult, but even the trainee who started yesterday completed it.",
+      "prompt": "Who was unexpectedly able to complete the challenge?",
+      "choices": [
+        "The oldest instructor.",
+        "The least experienced trainee.",
+        "The person who designed it."
+      ],
+      "answerIndex": 1,
+      "feedback": "Even highlights the new trainee as the surprising successful participant."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I spent two hours helping them move, and they did not even send a thank-you message.",
+      "prompt": "What basic courtesy did the speaker fail to receive?",
+      "choices": [
+        "A thank-you message.",
+        "A written contract.",
+        "A refund."
+      ],
+      "answerIndex": 0,
+      "feedback": "Did not even send thanks emphasizes the missing basic courtesy."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "After we added more lighting, the hall looks even more spacious than before.",
+      "prompt": "Type the two-word phrase heard immediately after \"looks\" that strengthens the comparison.",
+      "acceptedAnswers": [
+        "even more"
+      ],
+      "feedback": "Even more makes the adjective following it a stronger comparison."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The first repair quote was expensive, but the second one was even higher.",
+      "prompt": "What changed between the first and second price quotes?",
+      "choices": [
+        "The second was lower.",
+        "The prices were identical.",
+        "The second was higher."
+      ],
+      "answerIndex": 2,
+      "feedback": "Even higher means the new quotation exceeds an already high initial price."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Even though the library was noisy, Maya managed to finish her revision there.",
+      "prompt": "Which fact is established by the speaker?",
+      "choices": [
+        "The library was noisy, but she studied successfully.",
+        "The library might be noisy tomorrow.",
+        "She left because the library was noisy."
+      ],
+      "answerIndex": 0,
+      "feedback": "Even though presents the noise as a fact and contrasts it with successful study."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The organisers say the outdoor market will open on Saturday, even if it rains.",
+      "prompt": "What will happen if it rains on Saturday?",
+      "choices": [
+        "The market will be cancelled.",
+        "The market will still take place.",
+        "The market will move to Sunday."
+      ],
+      "answerIndex": 1,
+      "feedback": "Even if tells us that rain will not prevent the future market."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The visitors did not even notice the large warning sign by the entrance.",
+      "prompt": "Type the two-word phrase heard directly after \"did\" that emphasizes what the visitors failed to do.",
+      "acceptedAnswers": [
+        "not even"
+      ],
+      "feedback": "Did not even highlights the missing basic action of noticing the warning."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Our team continues to train even when the weather is cold and wet.",
+      "prompt": "Type the two-word phrase that introduces the recurring difficult circumstance after \"train\".",
+      "acceptedAnswers": [
+        "even when"
+      ],
+      "feedback": "Even when introduces the occasions of poor weather during which they continue training."
+    }
+  ]
+}

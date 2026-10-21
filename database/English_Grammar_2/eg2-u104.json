@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u104",
+  "title": "Quite, Pretty, Rather and Fairly: Degrees and Nuance",
+  "level": "B2",
+  "topicId": "eg2-u104-quite-pretty-rather-fairly",
+  "summary": "Describe moderate or unexpected degrees with quite, pretty, rather and fairly. Recognise informal and evaluative differences, place modifiers correctly in noun phrases, and distinguish quite meaning moderately from quite meaning completely.",
+  "learningObjectives": [
+    "Use quite and pretty to describe a degree between a little and very, and recognise pretty as informal.",
+    "Use rather to express mild criticism or a surprisingly positive judgement, and fairly for a weaker assessment.",
+    "Place quite and pretty correctly around a/an, and use special patterns including quite a lot and quite like.",
+    "Interpret quite as complete with certain adjectives and verbs, and use not quite for incomplete agreement or readiness."
+  ],
+  "explanation": [
+    {
+      "heading": "Quite and pretty for a noticeable degree",
+      "body": "With many ordinary gradable adjectives and adverbs, quite and pretty describe a degree greater than a little but usually less emphatic than very. Pretty sounds informal and is especially natural in conversation. Their strength depends on tone and context. Neither automatically means completely in an expression such as pretty expensive.",
+      "example": "The guest room is pretty comfortable, even though it is small."
+    },
+    {
+      "heading": "Where quite and pretty go with a/an",
+      "body": "Quite comes before a/an in a noun phrase: quite a long journey and quite an unusual request. Pretty normally comes after a/an, immediately before an adjective: a pretty long journey. Quite also combines with a noun without an adjective, as in quite a shock, and with expressions such as quite a lot of. Do not say a quite interesting book in this pattern.",
+      "example": "Finding an empty seat at the concert was quite a surprise."
+    },
+    {
+      "heading": "Rather expresses a reaction; fairly is restrained",
+      "body": "Rather often suggests that a quality is unwelcome, unexpected or more pronounced than hoped: rather noisy, rather disappointing. With a positive adjective, it can imply pleasant surprise: rather impressive. Fairly is usually weaker than quite, pretty or rather; fairly good can suggest acceptable performance without enthusiasm. These are tendencies, not fixed numerical degrees.",
+      "example": "The film was fairly entertaining, but the ending was rather disappointing."
+    },
+    {
+      "heading": "Quite can mean completely",
+      "body": "Quite can express complete certainty or agreement with adjectives such as sure, right, true, impossible, clear and different, and in expressions such as I quite agree. Here it is not a weak version of very. Contrast quite interesting, which usually expresses a moderate degree, with quite impossible, which means fully impossible. Context and the adjective determine the reading.",
+      "example": "The two invoices are quite different, even though they show the same date."
+    },
+    {
+      "heading": "Not quite and special verb patterns",
+      "body": "Not quite means not completely: I am not quite ready suggests that only a final step may remain. Quite can also modify a verb, especially like, enjoy and agree. I quite like it can mean that you like it reasonably well without making it your favourite; I quite agree is a stronger, complete agreement. Pretty and fairly do not simply replace quite in these verb patterns.",
+      "example": "I quite enjoy the workshops, but I am not quite ready to lead one."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Moderate judgement versus restrained approval",
+      "left": {
+        "label": "Pretty / quite",
+        "example": "The new café is pretty popular.",
+        "note": "A noticeable degree; pretty is conversational and informal."
+      },
+      "right": {
+        "label": "Fairly",
+        "example": "The new café is fairly popular.",
+        "note": "A more cautious assessment, possibly less enthusiastic."
+      }
+    },
+    {
+      "title": "Two readings of quite",
+      "left": {
+        "label": "Quite + gradable adjective",
+        "example": "The documentary was quite interesting.",
+        "note": "A noticeable but not necessarily very high degree of interest."
+      },
+      "right": {
+        "label": "Quite + absolute adjective",
+        "example": "The claim was quite false.",
+        "note": "Quite emphasises complete falsity rather than a moderate degree."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "We had quite a difficult conversation about the timetable.",
+      "note": "Quite stands before a in this noun phrase."
+    },
+    {
+      "sentence": "The meeting room became rather stuffy after an hour.",
+      "note": "Rather hints that the lack of fresh air was unwelcome."
+    },
+    {
+      "sentence": "Our new neighbour seems fairly friendly, though we have not talked much.",
+      "note": "Fairly signals a cautious positive assessment."
+    },
+    {
+      "sentence": "I quite agree that the deadline should be extended.",
+      "note": "Quite modifies agree and expresses complete agreement."
+    },
+    {
+      "sentence": "The brochure is not quite accurate: one opening time has changed.",
+      "note": "Not quite indicates that accuracy is incomplete, not entirely absent."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "It was a quite unexpected result.",
+      "correct": "It was quite an unexpected result.",
+      "why": "Quite comes before a/an, and unexpected begins with a vowel sound."
+    },
+    {
+      "incorrect": "That was pretty a surprising ending.",
+      "correct": "That was a pretty surprising ending.",
+      "why": "With pretty + adjective + noun, put the article before pretty."
+    },
+    {
+      "incorrect": "I pretty agree with your suggestion.",
+      "correct": "I quite agree with your suggestion.",
+      "why": "Quite can directly modify agree to indicate complete agreement; pretty does not work in that pattern."
+    },
+    {
+      "incorrect": "There are fairly a lot of people here.",
+      "correct": "There are quite a lot of people here.",
+      "why": "Quite a lot of is the natural quantity expression; fairly a lot of is not."
+    }
+  ],
+  "studyTips": [
+    "Collect authentic examples with quite, pretty, rather and fairly, and mark whether they express positive surprise, mild criticism or cautious approval.",
+    "Practise paired noun phrases aloud: quite a difficult job versus a pretty difficult job, checking the article position.",
+    "For each occurrence of quite, ask whether it means moderately or completely; test the adjective and the surrounding context."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The café is ___ busy at lunchtime, but we can usually find a table.",
+      "choices": [
+        "fairly",
+        "entirely",
+        "absolutely"
+      ],
+      "answerIndex": 0,
+      "feedback": "Fairly busy gives a restrained description; entirely busy and absolutely busy are not idiomatic here."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The unexpected invitation was ___ a surprise.",
+      "choices": [
+        "pretty",
+        "quite",
+        "fairly"
+      ],
+      "answerIndex": 1,
+      "feedback": "Quite a surprise is the established expression, with quite before the article."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The instructions were ___ complicated, which caused some complaints.",
+      "choices": [
+        "rather",
+        "quite a",
+        "very a"
+      ],
+      "answerIndex": 0,
+      "feedback": "Rather complicated naturally conveys a somewhat negative reaction to the difficulty."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "“Have you finished checking the list?” “Not ___; I still have two names to check.”",
+      "choices": [
+        "fairly",
+        "rather",
+        "quite"
+      ],
+      "answerIndex": 2,
+      "feedback": "Not quite means not completely; the final checks remain unfinished."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The hotel is ___ expensive, but still within our budget. (fairly)",
+      "acceptedAnswers": [
+        "fairly"
+      ],
+      "feedback": "Fairly makes a restrained assessment of the price."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "It was ___ a shock to receive that unexpected message. (quite)",
+      "acceptedAnswers": [
+        "quite"
+      ],
+      "feedback": "Quite must come before the article a in quite a shock."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "I ___ agree with your conclusion; the evidence supports it. (quite)",
+      "acceptedAnswers": [
+        "quite"
+      ],
+      "feedback": "Quite agree expresses complete agreement and is a natural verb pattern."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The new dessert was ___ good; we had expected something ordinary. (rather)",
+      "acceptedAnswers": [
+        "rather"
+      ],
+      "feedback": "Rather good communicates an unexpectedly positive judgement."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We had a quite interesting discussion.",
+      "acceptedAnswers": [
+        "We had quite an interesting discussion."
+      ],
+      "feedback": "In a noun phrase, quite precedes a/an, and interesting takes an."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The new phone has quite a good battery, but I pretty agree the price is high.",
+      "acceptedAnswers": [
+        "The new phone has quite a good battery, but I quite agree the price is high."
+      ],
+      "feedback": "Use quite agree to express complete agreement; pretty cannot directly modify agree."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: It was pretty a difficult exam.",
+      "acceptedAnswers": [
+        "It was a pretty difficult exam."
+      ],
+      "feedback": "Pretty goes after the article in a pretty difficult exam."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: He felt rather a tired after the overnight journey.",
+      "acceptedAnswers": [
+        "He felt rather tired after the overnight journey."
+      ],
+      "feedback": "Rather modifies the adjective tired directly; the article a is unnecessary."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make one sentence using these facts: the café; fairly quiet; this morning. Begin with “The café”.",
+      "acceptedAnswers": [
+        "The café is fairly quiet this morning."
+      ],
+      "feedback": "Fairly makes a measured description of how quiet the café is."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Describe your new laptop using one informal sentence. Begin with “My new laptop” and include “pretty fast”.",
+      "acceptedAnswers": [
+        "My new laptop is pretty fast."
+      ],
+      "feedback": "Pretty fast is a natural informal way to express a noticeable degree of speed."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "The announcement unexpectedly surprised everyone. Begin with “The announcement” and end with “quite a surprise”.",
+      "acceptedAnswers": [
+        "The announcement was quite a surprise."
+      ],
+      "feedback": "Quite a surprise places quite before the article a."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A colleague asks whether you agree fully. Reply in one sentence using the exact words “I quite agree with you”.",
+      "acceptedAnswers": [
+        "I quite agree with you."
+      ],
+      "feedback": "Quite agree expresses complete agreement, not reluctant agreement."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "The weather was colder than you expected, and you did not like it. Begin with “The weather” and use “rather cold”.",
+      "acceptedAnswers": [
+        "The weather was rather cold."
+      ],
+      "feedback": "Rather cold can indicate an unexpectedly unpleasant degree of cold."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You still have one final task to do before leaving. Say that you are not completely ready. Use “not quite ready”.",
+      "acceptedAnswers": [
+        "I'm not quite ready.",
+        "I am not quite ready."
+      ],
+      "feedback": "Not quite means not completely; a small task remains."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences using the given evaluations. First room: fairly spacious. Second room: rather cramped. Start with “The first room” and then “The second room”.",
+      "acceptedAnswers": [
+        "The first room is fairly spacious. The second room is rather cramped."
+      ],
+      "feedback": "Fairly gives restrained praise; rather conveys the unwelcome cramped feeling."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "You expected an average dessert but were pleasantly surprised. Begin with “The dessert” and use “rather good”.",
+      "acceptedAnswers": [
+        "The dessert was rather good."
+      ],
+      "feedback": "Rather with a positive adjective can express pleasant surprise."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The restaurant was fairly good, though the service could have been better.",
+      "prompt": "What is the speaker’s opinion of the restaurant?",
+      "choices": [
+        "It was flawless in every way.",
+        "It was acceptable, but not outstanding.",
+        "It was completely unacceptable."
+      ],
+      "answerIndex": 1,
+      "feedback": "Fairly good suggests qualified approval, and the speaker mentions a weakness."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I was expecting a normal afternoon, so the sudden invitation was quite a surprise.",
+      "prompt": "How did the sudden invitation affect the speaker?",
+      "choices": [
+        "It surprised the speaker.",
+        "It irritated the speaker because it was expected.",
+        "It confirmed a long-standing arrangement."
+      ],
+      "answerIndex": 0,
+      "feedback": "Quite a surprise reports an event the speaker did not anticipate."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "We had quite a long walk before reaching the station.",
+      "prompt": "Type the two words immediately before “long walk”.",
+      "acceptedAnswers": [
+        "quite a"
+      ],
+      "feedback": "Quite a must precede the article in the noun phrase quite a long walk."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I rather liked the new design, even though I had expected to dislike it.",
+      "prompt": "What is unusual about the speaker’s opinion of the design?",
+      "choices": [
+        "They were pleasantly surprised by liking it.",
+        "They had expected to love it but hated it.",
+        "They still have not seen the design."
+      ],
+      "answerIndex": 0,
+      "feedback": "Rather liked combines with even though I expected to dislike it to show pleasant surprise."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I am not quite ready to leave; my passport is still upstairs.",
+      "prompt": "Why is the speaker not ready to leave?",
+      "choices": [
+        "Their passport is not in their possession yet.",
+        "Their passport has been lost permanently.",
+        "They have already finished everything."
+      ],
+      "answerIndex": 0,
+      "feedback": "Not quite ready indicates something remains; the passport is upstairs."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The instructions were quite clear, so everybody completed the task without asking questions.",
+      "prompt": "How well did everyone understand the instructions?",
+      "choices": [
+        "They needed several explanations.",
+        "They understood without asking questions.",
+        "They could not complete the task."
+      ],
+      "answerIndex": 1,
+      "feedback": "Quite clear is supported by everyone completing the task without asking questions."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The concert hall is pretty crowded tonight, but we still found seats.",
+      "prompt": "Type the two-word degree phrase immediately after “is”.",
+      "acceptedAnswers": [
+        "pretty crowded"
+      ],
+      "feedback": "Pretty crowded indicates a noticeably crowded hall in informal language."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I quite agree with the proposal after reviewing the figures.",
+      "prompt": "Type the two-word expression immediately after “I”.",
+      "acceptedAnswers": [
+        "quite agree"
+      ],
+      "feedback": "Quite agree expresses complete agreement with the proposal."
+    }
+  ]
+}

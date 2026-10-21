@@ -1,0 +1,436 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u048",
+  "title": "Reported Speech: Meaning, Say and Tell",
+  "level": "B2",
+  "topicId": "eg2-u048-reported-speech-meaning-and-requests",
+  "summary": "Decide when reported speech can keep the original present tense and when a past tense is necessary. Use say and tell with the right objects, and report instructions and requests with (not) to + infinitive.",
+  "learningObjectives": [
+    "Choose between an unchanged present form and backshift when a reported fact is still true.",
+    "Use past forms when the original statement refers to a finished or no-longer-true situation.",
+    "Distinguish say (something), say something to someone and tell someone (something).",
+    "Report instructions, warnings and polite requests using told or asked + person + (not) to-infinitive."
+  ],
+  "explanation": [
+    {
+      "heading": "Keep a tense when the fact is still true",
+      "body": "Reported statements do not always require backshift. If an original statement describes something that remains true at reporting time, present tense can stay present after said or told. Backshift is also possible, and often natural, in the same situation. The choice depends on the reporter’s viewpoint, not an absolute mechanical rule.",
+      "example": "On Monday, Kim said she enjoys her job. She still enjoys it on Friday."
+    },
+    {
+      "heading": "Use a past form for changed or finished situations",
+      "body": "If the old words describe a temporary state that has ended or is contradicted by what you now know, a present tense report would wrongly suggest the state still holds. Use a past form in that case. The difference is meaningful when the person or situation has visibly changed.",
+      "example": "Marta said she was at the gym, but she is sitting beside us now."
+    },
+    {
+      "heading": "Use say without a listener object",
+      "body": "Say commonly introduces what someone said: said that a meeting was cancelled, or said something to a person. Do not attach a person directly after said as in said me. When the person spoken to matters, say to that person or choose tell with a direct object.",
+      "example": "The chef said that the kitchen would close at ten."
+    },
+    {
+      "heading": "Use tell with the person who receives the message",
+      "body": "Tell is commonly followed by the listener: told me, told her, told the staff. A that-clause can follow, but tell normally needs that person object in this use. In contrast, said that is complete without identifying a listener.",
+      "example": "The receptionist told the visitors that the gallery was shut."
+    },
+    {
+      "heading": "Report instructions with told + object + to-infinitive",
+      "body": "To report an instruction or advice, use told someone to + base verb. To report a negative instruction, place not immediately before to: told someone not to do something. This conveys the intended action rather than quoting the original imperative word for word.",
+      "example": "The trainer told the players not to enter the hall yet."
+    },
+    {
+      "heading": "Report requests with asked + object + to-infinitive",
+      "body": "A polite request may use can or could in direct speech, but the reported request commonly uses asked someone to + verb. Keep the person asked and the requested action clear. Do not use a question mark or reproduce the original question structure in this type of reported request.",
+      "example": "A guest asked the clerk to print another receipt."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Still true and no longer true",
+      "left": {
+        "label": "Still true",
+        "example": "Ada said she works at the botanical garden.",
+        "note": "The report can retain works because Ada still has that job."
+      },
+      "right": {
+        "label": "Finished situation",
+        "example": "Ada said she worked at the botanical garden.",
+        "note": "A past form is necessary if Ada has since left the job."
+      }
+    },
+    {
+      "title": "Say and tell",
+      "left": {
+        "label": "Say + message",
+        "example": "Harper said that the venue had changed.",
+        "note": "No person object is required after said."
+      },
+      "right": {
+        "label": "Tell + listener + message",
+        "example": "Harper told us that the venue had changed.",
+        "note": "Us identifies who received the information."
+      }
+    },
+    {
+      "title": "Positive and negative instructions",
+      "left": {
+        "label": "Positive instruction",
+        "example": "The nurse told him to rest for an hour.",
+        "note": "To rest states the action requested."
+      },
+      "right": {
+        "label": "Negative instruction",
+        "example": "The nurse told him not to lift the box.",
+        "note": "Not to lift expresses what the person should avoid."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Dario said the river flows through the city.",
+      "note": "A still-true fact can keep the present simple."
+    },
+    {
+      "sentence": "Elaine told me that she liked her new course.",
+      "note": "Backshift remains possible even if Elaine still likes the course."
+    },
+    {
+      "sentence": "Ruth said she was away on Tuesday, but she is back now.",
+      "note": "Was avoids implying the temporary absence continues."
+    },
+    {
+      "sentence": "The coordinator said to the volunteers that the start time had changed.",
+      "note": "Said to introduces the people addressed; said the volunteers would be incorrect."
+    },
+    {
+      "sentence": "The assistant told the guests to leave their coats at reception.",
+      "note": "Told + listener + to-infinitive reports an instruction."
+    },
+    {
+      "sentence": "The cyclist asked the mechanic not to remove the bell.",
+      "note": "Asked + person + not to-infinitive reports a negative request."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Amira said me that the tickets were sold out.",
+      "correct": "Amira told me that the tickets were sold out.",
+      "why": "Tell, unlike say, can take the person directly after the reporting verb."
+    },
+    {
+      "incorrect": "The manager told that the office was closing.",
+      "correct": "The manager said that the office was closing.",
+      "why": "In this use, told normally needs a listener object; said that does not."
+    },
+    {
+      "incorrect": "The instructor told us not touch the controls.",
+      "correct": "The instructor told us not to touch the controls.",
+      "why": "Report a negative instruction with not to + base verb."
+    },
+    {
+      "incorrect": "The passenger asked the driver to stopping near the bridge.",
+      "correct": "The passenger asked the driver to stop near the bridge.",
+      "why": "Ask someone to is followed by a base verb, not an -ing form."
+    },
+    {
+      "incorrect": "Dylan said he is ill yesterday, but he is well now.",
+      "correct": "Dylan said he was ill yesterday, but he is well now.",
+      "why": "The illness has ended; was correctly places the state in the past."
+    }
+  ],
+  "studyTips": [
+    "Before changing a present tense to the past, ask whether the information is still true right now; explain your choice.",
+    "Write three versions of one message: said that, said to someone that, and told someone that; check the object each verb needs.",
+    "Practise turning requests into asked + person + to and warnings into told + person + not to, keeping to in both."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Last month Ellie said, “I love this flat.” She still lives there and feels the same today. Which report is grammatical?",
+      "choices": [
+        "Ellie said she loves the flat.",
+        "Ellie said she loving the flat.",
+        "Ellie said she has love the flat."
+      ],
+      "answerIndex": 0,
+      "feedback": "Because the feeling still holds, present simple loves can remain in reported speech; loved would also be possible."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Last night Amir said, “I am exhausted.” He slept well and feels fine now. The next morning, you report: Amir said he ___ exhausted.",
+      "choices": [
+        "is",
+        "will be",
+        "was"
+      ],
+      "answerIndex": 2,
+      "feedback": "Because his exhausted state has finished, was reflects the earlier situation rather than describing him now."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the reporting clause with the correct listener construction.",
+      "choices": [
+        "Iris said us that the bus was late.",
+        "Iris told us that the bus was late.",
+        "Iris told that the bus was late."
+      ],
+      "answerIndex": 1,
+      "feedback": "Tell can take a direct listener object, us; said us and told that without a listener are incorrect here."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "A librarian told Tom, “Please do not leave drinks near the computers.” She ___ near the computers.",
+      "choices": [
+        "told Tom not to leave drinks",
+        "told Tom to not leaving drinks",
+        "asked Tom not leaving drinks"
+      ],
+      "answerIndex": 0,
+      "feedback": "A negative instruction uses told + person + not to + base verb."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The report is still true today: Yesterday, Hazel said, “My aunt lives in Lisbon.” Keep present tense. Hazel said her aunt ___ in Lisbon. (live)",
+      "acceptedAnswers": [
+        "lives"
+      ],
+      "feedback": "A continuing present fact can stay present after said."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The event has ended: Earlier, the host said, “The exhibition is open.” It has since closed. The host said the exhibition ___ open. (be)",
+      "acceptedAnswers": [
+        "was"
+      ],
+      "feedback": "Was is required because the exhibition is not open now."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "A colleague gave you the information. Complete using tell in the past: A colleague ___ me that the deadline had changed. (tell)",
+      "acceptedAnswers": [
+        "told"
+      ],
+      "feedback": "Told takes a listener object (me) and introduces the message."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The supervisor instructed the interns, “Do not touch the cables.” Complete: The supervisor told the interns ___ the cables. (negative to-infinitive with touch)",
+      "acceptedAnswers": [
+        "not to touch"
+      ],
+      "feedback": "A reported negative instruction uses not to touch after told the interns."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Nora said me that the room was ready.",
+      "acceptedAnswers": [
+        "Nora told me that the room was ready.",
+        "Nora said to me that the room was ready."
+      ],
+      "feedback": "Tell takes a direct listener object; with say, place to before the listener."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The caretaker told that the windows were locked.",
+      "acceptedAnswers": [
+        "The caretaker said that the windows were locked."
+      ],
+      "feedback": "Without an object naming the listener, use said that rather than told that."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The coach told the runners not drink any water yet.",
+      "acceptedAnswers": [
+        "The coach told the runners not to drink any water yet."
+      ],
+      "feedback": "Not to + base verb is the standard structure for a reported negative instruction."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The visitor asked the guide to opening the side gate.",
+      "acceptedAnswers": [
+        "The visitor asked the guide to open the side gate."
+      ],
+      "feedback": "Asked + person + to takes the base verb open, not opening."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Last week, Nora said, “I like my new workplace.” She still likes it now. Report her opinion using said and keep the present tense. Begin “Nora said”.",
+      "acceptedAnswers": [
+        "Nora said she likes her new workplace.",
+        "Nora said that she likes her new workplace."
+      ],
+      "feedback": "A still-true opinion can keep likes in the reported statement."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Earlier, Max said, “I am hungry.” He ate lunch and is not hungry now. Report the earlier state, beginning “Max said”.",
+      "acceptedAnswers": [
+        "Max said he was hungry.",
+        "Max said that he was hungry."
+      ],
+      "feedback": "Was reports Max’s former state without claiming it continues."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Mila told you, “The delivery is late.” Repeat the message to a colleague. Begin “Mila told me” and backshift is to was.",
+      "acceptedAnswers": [
+        "Mila told me the delivery was late.",
+        "Mila told me that the delivery was late."
+      ],
+      "feedback": "Told me identifies the listener; was reports the earlier state."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A manager said, “The office will close at six.” Report the message without naming a listener. Begin “The manager said” and use would.",
+      "acceptedAnswers": [
+        "The manager said the office would close at six.",
+        "The manager said that the office would close at six."
+      ],
+      "feedback": "Said introduces the message directly, and would backshifts will."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "A dentist instructed Leo, “Brush your teeth gently.” Report the instruction using told Leo + to-infinitive. Begin “The dentist”.",
+      "acceptedAnswers": [
+        "The dentist told Leo to brush his teeth gently."
+      ],
+      "feedback": "Told Leo to brush reports what Leo was instructed to do."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A safety officer warned the workers, “Do not enter the storeroom.” Begin “The safety officer” and report the prohibition with told + not to.",
+      "acceptedAnswers": [
+        "The safety officer told the workers not to enter the storeroom."
+      ],
+      "feedback": "Not to enter is the reported form of the negative instruction."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Produce exactly two sentences. First: a guide told the visitors, “Wait outside.” Second: the guide told them, “Do not take photos.” Report both as instructions. Begin each sentence “The guide told”.",
+      "acceptedAnswers": [
+        "The guide told the visitors to wait outside. The guide told them not to take photos."
+      ],
+      "feedback": "To wait reports a positive instruction; not to take reports a negative one."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "A customer politely said to you, “Could you send the receipt, please?” Report the request using asked me + to-infinitive. Begin “The customer”.",
+      "acceptedAnswers": [
+        "The customer asked me to send the receipt."
+      ],
+      "feedback": "A polite question asking for action becomes asked me to send in reported speech."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Yesterday Ruth said she enjoys her art class. She still attends it and says it is fun.",
+      "prompt": "Why does the report keep enjoys in the present?",
+      "choices": [
+        "The class ended yesterday.",
+        "Ruth still feels the same way.",
+        "Ruth has never attended the class."
+      ],
+      "answerIndex": 1,
+      "feedback": "Enjoys can remain present because Ruth’s opinion continues to be true."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Oliver said he was working at the cafe last summer, but he has a different job now.",
+      "prompt": "What is Oliver’s current employment situation?",
+      "choices": [
+        "He still works at the cafe.",
+        "He has never had a job.",
+        "He works somewhere else now."
+      ],
+      "answerIndex": 2,
+      "feedback": "The old cafe job belonged to last summer; he has a different job now."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The administrator told us that the meeting had moved to Friday.",
+      "prompt": "Type the two-word reporting phrase at the beginning of the clause after “administrator”.",
+      "acceptedAnswers": [
+        "told us"
+      ],
+      "feedback": "Told us includes the listener directly after tell."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The guard told visitors not to stand beside the emergency exit.",
+      "prompt": "What were visitors instructed to avoid?",
+      "choices": [
+        "Standing near the emergency exit.",
+        "Using the main entrance.",
+        "Asking the guard a question."
+      ],
+      "answerIndex": 0,
+      "feedback": "Told visitors not to stand communicates a prohibition."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The passenger asked the driver to slow down because the road was icy.",
+      "prompt": "What action did the passenger request?",
+      "choices": [
+        "Driving faster.",
+        "Reducing the speed.",
+        "Stopping the bus permanently."
+      ],
+      "answerIndex": 1,
+      "feedback": "Asked to slow down requests a lower speed."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The technician said the sensor was faulty, and then told the operator to switch off the machine.",
+      "prompt": "What did the technician instruct the operator to do?",
+      "choices": [
+        "Replace the sensor immediately.",
+        "Check the sensor again.",
+        "Turn off the machine."
+      ],
+      "answerIndex": 2,
+      "feedback": "Told the operator to switch off is the reported instruction."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The teacher asked the students to open their books on page twelve.",
+      "prompt": "Type the three-word reporting phrase immediately after “The teacher”.",
+      "acceptedAnswers": [
+        "asked the students"
+      ],
+      "feedback": "Asked the students identifies the people who received the request."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The vet told me not to give the dog chocolate.",
+      "prompt": "Type the three-word negative instruction phrase immediately after “me”.",
+      "acceptedAnswers": [
+        "not to give"
+      ],
+      "feedback": "Not to give is the infinitive form used to report the vet’s warning."
+    }
+  ]
+}

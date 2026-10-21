@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u076",
+  "title": "The: Species, Instruments and People Groups",
+  "level": "B2",
+  "topicId": "eg2-u076-generic-singular-and-group-labels",
+  "summary": "Recognise generic singular nouns with the, expressions for playing musical instruments, and collective phrases built with the + adjective or nationality. Apply plural agreement and distinguish groups from individual people.",
+  "learningObjectives": [
+    "Use the + singular countable noun to refer to a kind of animal, device or invention rather than one individual item.",
+    "Distinguish an instrument as a musical skill from an individual instrument someone owns.",
+    "Use the + adjective for social groups, with plural meaning and suitable verb agreement.",
+    "Use nationality groups such as the British or the Japanese, while recognising ordinary nationality plurals without the."
+  ],
+  "explanation": [
+    {
+      "heading": "The + singular noun can describe a whole kind",
+      "body": "The with a singular countable noun sometimes describes an entire species, invention or class of objects rather than one item. For example, the telescope can refer to the invention or type, not a telescope in a particular room. A plural without the can express the same broad idea: telescopes have changed astronomy. By contrast, a telescope names one example and the telescope in the cupboard identifies a specific object. Older texts sometimes use man without the for humanity in general; humanity or human beings is often clearer and more inclusive today.",
+      "example": "The electric motor has transformed many kinds of machinery."
+    },
+    {
+      "heading": "Musical instruments: skill or individual item",
+      "body": "We commonly use the with a musical instrument when discussing the ability to play it: play the cello, play the clarinet, or learn the drums. For an individual object, use an appropriate determiner instead: buy a cello, repair the cello in the case, or borrow an instrument. Some varieties of English permit article-free instrument names in informal contexts, so avoid assuming every alternative without the is impossible. The key teaching pattern is play the + instrument.",
+      "example": "Tariq plays the trumpet, but the trumpet he borrowed needs cleaning."
+    },
+    {
+      "heading": "The + adjective represents a group of people",
+      "body": "Adjectives such as elderly, wealthy, unemployed, injured and homeless can follow the without a separate noun to mean people in that category. These expressions normally refer to a group and take plural verbs: the injured were helped, not the injured was helped. Do not add a plural -s to the adjective: the homeless, not the homelesses. The phrase alone does not name one person; use an elderly neighbour or a homeless person for an individual.",
+      "example": "The unemployed are receiving career support through the new programme."
+    },
+    {
+      "heading": "Collective nationality expressions",
+      "body": "Several nationality adjectives form collective nouns with the, including the French, the British, the Dutch, the Spanish, the Japanese, the Chinese, the Portuguese and the Swiss. They refer to people as a group and normally use plural verb agreement. With many other nationalities, an ordinary plural noun is usual for people generally: Canadians, Brazilians, Germans or Italians. A phrase like French people or Japanese people is also a clear alternative for the group.",
+      "example": "The Dutch have opened a cultural centre nearby, while Canadians are presenting a travelling exhibition."
+    },
+    {
+      "heading": "Nationality groups versus individual people",
+      "body": "The French and the English are collective expressions, not descriptions of one French or English individual. For one person, say a French engineer, an English visitor or a Dutch student. For other nationalities, use the usual countable singular noun such as a Canadian or a Brazilian. A group-label phrase and an individual nationality noun answer different questions: who a community consists of versus who one person is. Avoid generalisations about personality or ability when practising these forms.",
+      "example": "A British researcher spoke first; later, the British delegates answered questions together."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "An invention as a class versus a particular device",
+      "left": {
+        "label": "Generic class",
+        "example": "The microscope made tiny structures easier to study.",
+        "note": "The singular noun represents the invention as a whole."
+      },
+      "right": {
+        "label": "One identifiable object",
+        "example": "The microscope on the bench is broken.",
+        "note": "On the bench identifies one particular instrument."
+      }
+    },
+    {
+      "title": "A social group versus a single member",
+      "left": {
+        "label": "The + adjective: plural group",
+        "example": "The injured were taken to a medical centre.",
+        "note": "The injured means injured people and takes the plural verb were."
+      },
+      "right": {
+        "label": "An adjective + person: individual",
+        "example": "An injured cyclist was taken to a medical centre.",
+        "note": "A singular countable noun identifies one affected person and takes was."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The submarine allows researchers to explore deep underwater environments.",
+      "note": "The submarine can stand for the type of vehicle, not a single submarine."
+    },
+    {
+      "sentence": "Leila practises the violin every evening but does not own a violin.",
+      "note": "The violin names a skill; a violin means one instrument."
+    },
+    {
+      "sentence": "The elderly are eligible for discounted entry at this museum.",
+      "note": "The elderly refers to people collectively and takes plural are."
+    },
+    {
+      "sentence": "The Japanese are represented by several teams in this international competition.",
+      "note": "The Japanese is a collective nationality expression with a plural verb."
+    },
+    {
+      "sentence": "Brazilians and Germans are taking part in the same exchange programme.",
+      "note": "These nationalities use ordinary plural nouns without the when mentioned generally."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The homelesses need safe places to sleep.",
+      "correct": "The homeless need safe places to sleep.",
+      "why": "The + adjective represents the group; homeless does not gain a plural -s."
+    },
+    {
+      "incorrect": "The injured was taken to a nearby clinic.",
+      "correct": "The injured were taken to a nearby clinic.",
+      "why": "The injured refers to people collectively and requires plural agreement."
+    },
+    {
+      "incorrect": "Dutch are organising the exhibition this year.",
+      "correct": "The Dutch are organising the exhibition this year.",
+      "why": "The nationality adjective Dutch needs the when it stands alone for the collective group."
+    },
+    {
+      "incorrect": "My neighbour is an English.",
+      "correct": "My neighbour is an English person.",
+      "why": "English cannot normally stand alone as a singular nationality noun; add a countable person noun."
+    }
+  ],
+  "studyTips": [
+    "Check whether the sentence describes a type of invention, one physical object, or the skill of playing an instrument.",
+    "For every the + adjective group, test agreement by replacing the phrase with the people: the injured were helped.",
+    "Keep two nationality columns: collective the French / the Swiss and ordinary plurals such as Canadians / Brazilians."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "In a discussion of inventions as categories, ___ made distant objects easier to observe.",
+      "choices": [
+        "a telescopes",
+        "the telescope",
+        "telescope"
+      ],
+      "answerIndex": 1,
+      "feedback": "The telescope can describe the invention as a class, rather than one device."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "At the community shelter, extra meals are being prepared for ___.",
+      "choices": [
+        "homelesses",
+        "homeless",
+        "the homeless"
+      ],
+      "answerIndex": 2,
+      "feedback": "The homeless is a plural group expression made with the + adjective."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which sentence describes musical ability, rather than acquiring or borrowing a physical instrument?",
+      "choices": [
+        "Mara is learning to play the violin.",
+        "Mara bought a violin.",
+        "Mara borrowed a violin."
+      ],
+      "answerIndex": 0,
+      "feedback": "Play the violin names a musical skill; a violin refers to an individual instrument."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "___ are exhibiting their work in the international design showcase.",
+      "choices": [
+        "Dutch",
+        "The Dutch",
+        "The Dutches"
+      ],
+      "answerIndex": 1,
+      "feedback": "The Dutch is the standard collective noun for people from the Netherlands."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Her father owns ___ (one individual violin; write the indefinite article and noun).",
+      "acceptedAnswers": [
+        "a violin"
+      ],
+      "feedback": "A violin describes one physical instrument, not the general skill of playing it."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The housing charity is raising funds for ___ (people without homes; use the + adjective).",
+      "acceptedAnswers": [
+        "the homeless"
+      ],
+      "feedback": "The homeless refers collectively to people without homes; homeless stays uninflected."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "___ (people from France as a collective nationality; two words) are sending a delegation to the festival.",
+      "acceptedAnswers": [
+        "The French"
+      ],
+      "feedback": "The French is a collective nationality expression with the."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "___ (people from Brazil in general; write the ordinary plural nationality noun) can apply for the exchange.",
+      "acceptedAnswers": [
+        "Brazilians"
+      ],
+      "feedback": "Brazilians is the normal plural nationality noun for a general group."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The unemployeds are offered free training at the centre.",
+      "acceptedAnswers": [
+        "The unemployed are offered free training at the centre."
+      ],
+      "feedback": "Unemployed is an adjective used collectively after the; it never takes the plural -s here."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Nora plays the flute, but she does not own flute.",
+      "acceptedAnswers": [
+        "Nora plays the flute, but she does not own a flute."
+      ],
+      "feedback": "Play the flute identifies an instrument skill; own a flute needs a determiner for one individual instrument."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Dutch are taking part in the language exchange this month.",
+      "acceptedAnswers": [
+        "The Dutch are taking part in the language exchange this month."
+      ],
+      "feedback": "The Dutch is the collective expression for Dutch people."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The elderly needs clear access to the entrance.",
+      "acceptedAnswers": [
+        "The elderly need clear access to the entrance."
+      ],
+      "feedback": "The elderly means elderly people, so the verb must be plural: need."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Describe the type of invention, not one device. Use these facts: the printing press; changed how books were produced. Begin with “The printing press”.",
+      "acceptedAnswers": [
+        "The printing press changed how books were produced."
+      ],
+      "feedback": "The printing press denotes the invention as a whole."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "State a musical ability in one sentence: Sofia; play the clarinet. Use the present simple. Begin with “Sofia”.",
+      "acceptedAnswers": [
+        "Sofia plays the clarinet."
+      ],
+      "feedback": "The clarinet is the normal expression for an instrument skill."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "One instrument belongs to Adam. Say one sentence using these facts: Adam owns a trumpet. Begin with “Adam”.",
+      "acceptedAnswers": [
+        "Adam owns a trumpet."
+      ],
+      "feedback": "A trumpet identifies one object he owns."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A support programme offers lessons to people without jobs. Use the collective phrase “the unemployed” and the plural verb “are”. Say one complete sentence beginning with “The unemployed”.",
+      "acceptedAnswers": [
+        "The unemployed are offered lessons."
+      ],
+      "feedback": "The unemployed is a plural collective group, so use are offered."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "State this supplied fact using a collective nationality expression: a Dutch delegation is attending; speak about its Dutch members as a group. Start with “The Dutch” and say they are attending the event.",
+      "acceptedAnswers": [
+        "The Dutch are attending the event."
+      ],
+      "feedback": "The Dutch is a plural nationality expression formed with the."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Rewrite this fact about one individual, using a countable noun: Marc is from France; Marc is an engineer. Start with “Marc is”.",
+      "acceptedAnswers": [
+        "Marc is a French engineer."
+      ],
+      "feedback": "For one person use a French engineer, not a French."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the verb agreement and say the complete sentence: “The injured was taken to hospital.” Use the plural group meaning.",
+      "acceptedAnswers": [
+        "The injured were taken to hospital."
+      ],
+      "feedback": "The injured refers to several injured people and takes were."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say exactly two sentences. First: the electric motor is useful in many machines. Second: the elderly are eligible for help. Use exactly those subject phrases, beginning “The electric motor” and “The elderly”.",
+      "acceptedAnswers": [
+        "The electric motor is useful in many machines. The elderly are eligible for help."
+      ],
+      "feedback": "The electric motor refers to a class of devices; the elderly denotes a plural group of people."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The dolphin is famous for its complex communication, but the dolphin at the rescue centre is still recovering.",
+      "prompt": "What does the second mention of the dolphin refer to?",
+      "choices": [
+        "The species as a whole.",
+        "A particular animal at a rescue centre.",
+        "All animals in the ocean."
+      ],
+      "answerIndex": 1,
+      "feedback": "At the rescue centre singles out one dolphin; the first mention describes the species broadly."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I can play the saxophone, but I do not own a saxophone, so I borrow one for rehearsals.",
+      "prompt": "Which statement about the speaker is correct?",
+      "choices": [
+        "They own several saxophones.",
+        "They cannot play the instrument.",
+        "They can play it but need to borrow one."
+      ],
+      "answerIndex": 2,
+      "feedback": "Play the saxophone describes ability, while a saxophone refers to one instrument."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The microscope has played an important role in modern medical research.",
+      "prompt": "Type the first two words of the sentence.",
+      "acceptedAnswers": [
+        "The microscope"
+      ],
+      "feedback": "The microscope names an invention as a class."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The unemployed can attend the free weekday training. People with jobs can join the evening sessions instead.",
+      "prompt": "Who is eligible for the free weekday training?",
+      "choices": [
+        "People without jobs.",
+        "Only people working evenings.",
+        "Everyone with a full-time job."
+      ],
+      "answerIndex": 0,
+      "feedback": "The unemployed names the group without jobs, and the weekday training is offered to them."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "At the culture festival, the British have a display upstairs, while the Dutch have a display beside the entrance.",
+      "prompt": "Whose display is beside the entrance?",
+      "choices": [
+        "The British display.",
+        "The Dutch display.",
+        "Neither group has a display there."
+      ],
+      "answerIndex": 1,
+      "feedback": "The Dutch is a collective nationality phrase; the audio locates their display beside the entrance."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "My aunt plays the accordion, but she says the piano is much harder to move from room to room.",
+      "prompt": "Which instrument is harder to move?",
+      "choices": [
+        "The accordion.",
+        "Neither instrument.",
+        "The piano."
+      ],
+      "answerIndex": 2,
+      "feedback": "The piano is described as less portable than the accordion."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The injured were examined immediately after the cycling accident.",
+      "prompt": "Type the first two words, including the article.",
+      "acceptedAnswers": [
+        "The injured"
+      ],
+      "feedback": "The injured is a collective expression with plural meaning."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The Swiss are presenting their new design proposals at the conference.",
+      "prompt": "Type the first two words of the sentence.",
+      "acceptedAnswers": [
+        "The Swiss"
+      ],
+      "feedback": "The Swiss is a collective nationality expression using the."
+    }
+  ]
+}

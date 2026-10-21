@@ -1,0 +1,412 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u017",
+  "title": "Have and have got: states, possession and activities",
+  "level": "B1",
+  "topicId": "eg2-u017-have-have-got-states-activities",
+  "summary": "Distinguish have and have got for possessions, relationships, conditions and appointments from have for actions and experiences. Form natural questions and negatives, use had for past states, and recognise when having is possible.",
+  "learningObjectives": [
+    "Express present possession, relationships and conditions with have or have got.",
+    "Build questions and negatives using do/does + have and have/has + got.",
+    "Use had, did have and did not have when referring to possession or circumstances in the past.",
+    "Use have (not have got) for activities and experiences, including present continuous forms when relevant."
+  ],
+  "explanation": [
+    {
+      "heading": "Two ways to describe a present state",
+      "body": "For possession, family relationships, illnesses, available resources and scheduled appointments, have and have got usually express the same meaning. Have got is particularly common in informal British English; have is widely used in both British and American English. The apostrophe in I’ve got and she’s got stands for have or has.",
+      "example": "I have a spare key, and my flatmate has got one too."
+    },
+    {
+      "heading": "Ask about possession or state",
+      "body": "With ordinary have, use do or does to form a present-simple question: Do they have enough space? With have got, put have or has before the subject: Have they got enough space? The less usual Have you any…? pattern exists but is not the standard model for everyday practice. Do not mix these question patterns.",
+      "example": "Does your brother have a laptop, or has he got a tablet?"
+    },
+    {
+      "heading": "Make negatives and talk about the past",
+      "body": "Present negatives are do not/does not have or have not/has not got. For earlier possession or circumstances, use had, not usually had got. Past questions and negatives take did or did not plus the base form have, even when the main verb means possession.",
+      "example": "We did not have a balcony in our previous apartment."
+    },
+    {
+      "heading": "Have for activities, meals and experiences",
+      "body": "Have also combines with nouns to name actions and experiences, such as have lunch, have a shower, have a discussion, have a break or have trouble. Have got cannot replace have with those activity meanings. The expression may take a continuous form when the activity is in progress.",
+      "example": "The team is having a short discussion before the next session."
+    },
+    {
+      "heading": "State versus activity determines the continuous",
+      "body": "When have means possess or experience a state such as having a headache, do not normally use am/is/are having. When have means do something, a progressive form can be natural: she is having breakfast. A future appointment can be described as I have a lesson tomorrow or I’ve got a lesson tomorrow; this does not make possessive have an ongoing action.",
+      "example": "I have an early appointment tomorrow, so I’m having dinner at home tonight."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Two equivalent present-state forms",
+      "left": {
+        "label": "Have",
+        "example": "We have three available desks.",
+        "note": "Simple have states what is available; questions usually need do or does."
+      },
+      "right": {
+        "label": "Have got",
+        "example": "We’ve got three available desks.",
+        "note": "Have got carries the same current-state meaning; questions invert have."
+      }
+    },
+    {
+      "title": "State versus action",
+      "left": {
+        "label": "State",
+        "example": "Rina has a bicycle.",
+        "note": "Possession is a state, so has—not is having—is the usual form."
+      },
+      "right": {
+        "label": "Activity",
+        "example": "Rina is having a break.",
+        "note": "Have a break names an activity that can be happening now."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Have you got a pen I could borrow?",
+      "note": "In a question with have got, have comes before the subject."
+    },
+    {
+      "sentence": "My neighbours do not have a car, but they have got two bicycles.",
+      "note": "Present possession can use the do-negative or the have got affirmative."
+    },
+    {
+      "sentence": "The students had extra time during the previous examination.",
+      "note": "Had describes what was available in the past."
+    },
+    {
+      "sentence": "Did your manager have any questions after the demonstration?",
+      "note": "Past questions use did + base-form have."
+    },
+    {
+      "sentence": "We are having a quick chat about the schedule.",
+      "note": "Have a chat describes an action, so the continuous is natural."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "My apartment is having a large balcony.",
+      "correct": "My apartment has a large balcony.",
+      "why": "For the possession of a feature, use simple have rather than the continuous."
+    },
+    {
+      "incorrect": "Have your colleague got the documents?",
+      "correct": "Has your colleague got the documents?",
+      "why": "The singular subject your colleague takes has in a have got question."
+    },
+    {
+      "incorrect": "Did you had enough money for the tickets?",
+      "correct": "Did you have enough money for the tickets?",
+      "why": "After did, the main verb stays in its base form: have."
+    },
+    {
+      "incorrect": "The guests have got dinner in the restaurant right now.",
+      "correct": "The guests are having dinner in the restaurant right now.",
+      "why": "Here have dinner means eat a meal in progress, not possess a meal; use are having."
+    }
+  ],
+  "studyTips": [
+    "First decide whether have describes a state or an activity; this decides whether have got and continuous having can be used.",
+    "Practise matching question pairs: Do you have…? / Have you got…? Never combine them as Do you have got…?",
+    "For yesterday or last year, start from had or did not have; use had only as the past form of possession, not had got."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct sentence about present possession. The single subject is “our neighbour”.",
+      "choices": [
+        "Our neighbour have got two dogs.",
+        "Our neighbour has got two dogs.",
+        "Our neighbour is having got two dogs."
+      ],
+      "answerIndex": 1,
+      "feedback": "Has got correctly describes the current possession of two dogs by one neighbour."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The office manager asks about possession now. Which question correctly uses have got?",
+      "choices": [
+        "Do you have got an extra badge?",
+        "Has you got an extra badge?",
+        "Have you got an extra badge?"
+      ],
+      "answerIndex": 2,
+      "feedback": "Have you got…? uses have before you; do not add do to the have got structure."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "___ a bicycle when you lived in the mountains?",
+      "choices": [
+        "Did you have",
+        "Did you had",
+        "Have you got"
+      ],
+      "answerIndex": 0,
+      "feedback": "The reference to a finished past living situation calls for did + base-form have."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Look at the table: Ben ___ lunch with a client right now.",
+      "choices": [
+        "has got",
+        "is having",
+        "is have"
+      ],
+      "answerIndex": 1,
+      "feedback": "Having lunch is an activity in progress, not possession; is having fits right now."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "___ (she / have / got) a valid passport? Use the have got question form to complete the beginning.",
+      "acceptedAnswers": [
+        "Has she got"
+      ],
+      "feedback": "For a singular subject, invert has and she in a have got question."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "We ___ (not / have) a reliable internet connection when we lived in the village. Use a past negative.",
+      "acceptedAnswers": [
+        "didn't have",
+        "did not have"
+      ],
+      "feedback": "A past-state negative takes did not plus base-form have."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The interns ___ (have) a discussion in the meeting room right now. Use the present continuous.",
+      "acceptedAnswers": [
+        "are having"
+      ],
+      "feedback": "Having a discussion is an activity, so are having expresses what is happening now."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "On weekdays, my neighbour ___ (have) a cup of tea before work. Use the present simple.",
+      "acceptedAnswers": [
+        "has"
+      ],
+      "feedback": "A regular meal or drink is an activity expressed as has with the singular subject my neighbour."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Our flat is having two balconies.",
+      "acceptedAnswers": [
+        "Our flat has two balconies.",
+        "Our flat has got two balconies.",
+        "Our flat's got two balconies."
+      ],
+      "feedback": "The continuous is having does not express possession. Use has or has got for a permanent feature of the flat."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Did she had an appointment last Friday?",
+      "acceptedAnswers": [
+        "Did she have an appointment last Friday?"
+      ],
+      "feedback": "Did requires the base form have, not had."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Nia is having got a shower right now.",
+      "acceptedAnswers": [
+        "Nia is having a shower right now."
+      ],
+      "feedback": "Have a shower is an activity; remove got to form is having a shower."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Has they got enough chairs for the meeting?",
+      "acceptedAnswers": [
+        "Have they got enough chairs for the meeting?"
+      ],
+      "feedback": "With plural they, the correct have got question starts with Have."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Use have got to state these facts in one complete sentence: Nadia / two cousins / in Dublin. Begin “Nadia”.",
+      "acceptedAnswers": [
+        "Nadia has got two cousins in Dublin.",
+        "Nadia's got two cousins in Dublin."
+      ],
+      "feedback": "Has got describes Nadia’s present family relationship."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask a colleague whether they have a spare charger. Use the have got question pattern; begin “Have you” and end “a spare charger?”.",
+      "acceptedAnswers": [
+        "Have you got a spare charger?"
+      ],
+      "feedback": "Invert have and the subject you; got stays in the question."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say that the visitors have no parking spaces available. Begin “The visitors”, use the do-negative pattern, and end “any parking spaces”. Contractions are allowed.",
+      "acceptedAnswers": [
+        "The visitors don't have any parking spaces.",
+        "The visitors do not have any parking spaces."
+      ],
+      "feedback": "Do not have expresses a present absence of available spaces."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A coworker asks whether the laboratory has a quiet room. Fact: it does not. Answer in one complete sentence beginning “No, the laboratory” and using the present-simple negative of have. Contractions are allowed.",
+      "acceptedAnswers": [
+        "No, the laboratory doesn't have a quiet room.",
+        "No, the laboratory does not have a quiet room."
+      ],
+      "feedback": "Does not have is the correct present negative with the singular laboratory."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Facts: We lived in a shared flat in 2020; we had no washing machine then. Say one sentence beginning “We” and ending “in 2020”. Use the did-negative form; contractions are allowed.",
+      "acceptedAnswers": [
+        "We didn't have a washing machine in 2020.",
+        "We did not have a washing machine in 2020."
+      ],
+      "feedback": "Did not have describes a missing possession at a past time."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Describe this activity happening now: Hana / have a coffee / with her tutor / right now. Begin “Hana” and use the present continuous.",
+      "acceptedAnswers": [
+        "Hana is having a coffee with her tutor right now.",
+        "Hana's having a coffee with her tutor right now."
+      ],
+      "feedback": "Is having describes the current activity of drinking coffee."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two complete sentences. Facts: I own a bicycle. I am taking a break now. Begin the first sentence “I have” and the second “I am having”. Use full forms.",
+      "acceptedAnswers": [
+        "I have a bicycle. I am having a break now."
+      ],
+      "feedback": "Have a bicycle describes possession; am having a break describes an action."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Change this question to the have got pattern without changing its meaning: “Do you have any questions?” Begin “Have you”.",
+      "acceptedAnswers": [
+        "Have you got any questions?"
+      ],
+      "feedback": "Have you got is equivalent to Do you have for current possession or availability."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I've got a new bicycle, but I haven't got anywhere safe to keep it.",
+      "prompt": "What problem does the speaker describe?",
+      "choices": [
+        "The bicycle is too expensive.",
+        "They have no secure place to store the bicycle.",
+        "They have already sold the bicycle."
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker owns a bicycle but lacks a safe place to store it."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Has your sister got the address, or should I send it to her again?",
+      "prompt": "What is the speaker checking?",
+      "choices": [
+        "Whether the sister already possesses the address.",
+        "Whether the sister went to the address yesterday.",
+        "Whether the sister is having lunch."
+      ],
+      "answerIndex": 0,
+      "feedback": "Has your sister got…? asks whether she has the address now."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "They have got an extra key for the front entrance.",
+      "prompt": "Type the two-word verb phrase immediately after “They” in the audio.",
+      "acceptedAnswers": [
+        "have got"
+      ],
+      "feedback": "Have got indicates possession of an additional key."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "We did not have a reliable heater in our old apartment, but the new place is warm.",
+      "prompt": "What was the problem with the old apartment?",
+      "choices": [
+        "It was too small.",
+        "It was far from public transport.",
+        "It lacked a reliable heater."
+      ],
+      "answerIndex": 2,
+      "feedback": "Did not have refers to something missing in the past."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I'm having a quick break now, and I've got another meeting in ten minutes.",
+      "prompt": "Which activity is taking place at the moment of speaking?",
+      "choices": [
+        "A meeting.",
+        "A short break.",
+        "A journey home."
+      ],
+      "answerIndex": 1,
+      "feedback": "Am having a quick break names an ongoing activity; have got a meeting indicates a scheduled event."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The doctor says Milo has a fever, so he is staying at home today.",
+      "prompt": "Why is Milo staying at home?",
+      "choices": [
+        "He has a health problem.",
+        "He has a scheduled interview.",
+        "He has no spare keys."
+      ],
+      "answerIndex": 0,
+      "feedback": "Has a fever describes a current health condition, which explains staying home."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Yesterday the organisers did not have enough tables for the guests.",
+      "prompt": "Type the three-word negative verb phrase immediately after “the organisers”.",
+      "acceptedAnswers": [
+        "did not have"
+      ],
+      "feedback": "Did not have states a lack of something in a finished past period."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The visitors are having lunch in the courtyard right now.",
+      "prompt": "Type the two-word verb phrase immediately after “The visitors”.",
+      "acceptedAnswers": [
+        "are having"
+      ],
+      "feedback": "Are having describes the lunch activity currently in progress."
+    }
+  ]
+}

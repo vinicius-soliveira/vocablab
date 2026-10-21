@@ -1,0 +1,426 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u092",
+  "title": "Defining Relative Clauses: Who, That and Which",
+  "level": "B1",
+  "topicId": "eg2-u092-defining-relative-clauses-who-that-which",
+  "summary": "Identify people and things using defining relative clauses with who, that, or which. Learn how the relative clause narrows the noun, why an extra subject pronoun is unnecessary, and when what already means the thing that.",
+  "learningObjectives": [
+    "Use a defining relative clause to identify a specific person or thing.",
+    "Choose who or that for people and that or which for things when the relative word is the subject.",
+    "Combine two statements into one sentence without repeating the subject as he, she, or it.",
+    "Distinguish what meaning the thing that from that following an existing noun."
+  ],
+  "explanation": [
+    {
+      "heading": "Give information that identifies a noun",
+      "body": "A defining relative clause helps the listener recognise which person or thing we mean. It comes immediately after the noun it describes and forms part of the same sentence. Without this information, the noun may not be specific enough. This unit focuses on clauses where the relative word performs the action in the clause; other patterns are studied separately.",
+      "example": "The shop that sells bicycle parts closes at five."
+    },
+    {
+      "heading": "Identify people with who or that",
+      "body": "Use who when the relative clause identifies a person or group of people. That is also possible in many defining clauses about people. The relative word connects the noun to information about the person and can be the subject of the following verb. Do not use which for a person in this pattern.",
+      "example": "The volunteer who runs the reception desk knows the schedule."
+    },
+    {
+      "heading": "Identify things with that or which",
+      "body": "For objects, animals and other non-human things, use that or which in this type of defining clause. That is common in everyday defining clauses, while which is also grammatical for things. Who does not normally refer to an object. These clauses can help identify a specific document, place, device or event.",
+      "example": "The folder which contains the invoices is on the top shelf."
+    },
+    {
+      "heading": "Do not repeat the subject inside the clause",
+      "body": "When who, that or which is the subject of the relative clause, it already stands for the preceding noun. Adding he, she, they or it after the relative word creates a duplicated subject. Keep the relative word followed by the verb or its auxiliary. Subject relative words cannot simply be deleted in the structures covered here.",
+      "example": "The driver who collected the parcels returned at noon."
+    },
+    {
+      "heading": "Know when to use what",
+      "body": "What can mean the thing that or the things that and does not need a noun before it. But when a noun or a word like everything or all already supplies the reference, use that to begin the defining clause, not what. Compare What surprised me was the price with Everything that surprised me happened in one day. This unit does not cover non-defining clauses set off by commas.",
+      "example": "What caused the delay is still unknown."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "The correct relative word depends on the noun",
+      "left": {
+        "label": "Person: who / that",
+        "example": "The student who leads the group speaks clearly.",
+        "note": "Who naturally connects a person with an identifying action."
+      },
+      "right": {
+        "label": "Thing: that / which",
+        "example": "The device that measures humidity needs a battery.",
+        "note": "That or which connects a thing with an identifying action."
+      }
+    },
+    {
+      "title": "A noun plus a clause versus what alone",
+      "left": {
+        "label": "Noun + that",
+        "example": "The news that reached us was encouraging.",
+        "note": "The news is already named; that introduces the identifying clause."
+      },
+      "right": {
+        "label": "What + clause",
+        "example": "What reached us was encouraging.",
+        "note": "What supplies the meaning the thing that without a preceding noun."
+      }
+    },
+    {
+      "title": "Two separate statements versus one defining clause",
+      "left": {
+        "label": "Two sentences",
+        "example": "A technician called this morning. She repairs printers.",
+        "note": "The same person appears twice, once as a noun and once as she."
+      },
+      "right": {
+        "label": "Combined clause",
+        "example": "The technician who repairs printers called this morning.",
+        "note": "Who refers back to the technician, so she is not repeated."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The woman who teaches pottery lives near the river.",
+      "note": "Who begins a defining clause whose subject is a person."
+    },
+    {
+      "sentence": "People that work overnight can use the side entrance.",
+      "note": "That can introduce a defining relative clause about people."
+    },
+    {
+      "sentence": "The scanner which reads old photographs is out of order.",
+      "note": "Which refers to a thing and is the subject of reads."
+    },
+    {
+      "sentence": "The chair that has a blue cushion belongs to the receptionist.",
+      "note": "The clause singles out one chair by a visible feature."
+    },
+    {
+      "sentence": "What frightened the children was a sudden bang.",
+      "note": "What means the thing that; there is no noun immediately before it."
+    },
+    {
+      "sentence": "Everything that makes a noise should be switched off.",
+      "note": "Use that rather than what when everything already acts as the reference."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The woman which manages the library is away.",
+      "correct": "The woman who manages the library is away.",
+      "why": "Use who, not which, for a person as the subject of the defining clause."
+    },
+    {
+      "incorrect": "The laptop who belongs to Sam is missing.",
+      "correct": "The laptop that belongs to Sam is missing.",
+      "why": "A laptop is a thing, so use that or which rather than who."
+    },
+    {
+      "incorrect": "The letter that it arrived this morning is urgent.",
+      "correct": "The letter that arrived this morning is urgent.",
+      "why": "That already serves as the subject of arrived, so it must not be repeated."
+    },
+    {
+      "incorrect": "Every message what reached us was important.",
+      "correct": "Every message that reached us was important.",
+      "why": "Use that after an existing noun phrase; what means the thing that without that noun phrase."
+    },
+    {
+      "incorrect": "The man works at reception is my neighbour.",
+      "correct": "The man who works at reception is my neighbour.",
+      "why": "When the relative word is the subject of a defining clause, it cannot be omitted."
+    }
+  ],
+  "studyTips": [
+    "Underline the noun you are identifying. If it is a person, test who; if it is a thing, test that or which.",
+    "After combining two sentences, look for an accidental extra he, she, they or it beside the relative word.",
+    "Replace what with the thing that as a meaning check; if you already have a noun such as everything or the report, use that instead."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The man ___ manages the bakery lives upstairs.",
+      "choices": [
+        "which",
+        "who",
+        "what"
+      ],
+      "answerIndex": 1,
+      "feedback": "The relative clause identifies a man; who is the appropriate subject relative pronoun."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The bag ___ belongs to Mia is under the desk.",
+      "choices": [
+        "who",
+        "what",
+        "that"
+      ],
+      "answerIndex": 2,
+      "feedback": "That refers to a thing, the bag, and acts as subject of belongs."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The researcher ___ discovered the error has retired.",
+      "choices": [
+        "that",
+        "what",
+        "which"
+      ],
+      "answerIndex": 0,
+      "feedback": "That can identify a person in a defining clause. Which and what do not fit after the person noun here."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "___ surprised the audience was the sudden silence.",
+      "choices": [
+        "That",
+        "What",
+        "Which"
+      ],
+      "answerIndex": 1,
+      "feedback": "What means the thing that and functions without a noun before it."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The woman ___ teaches the evening class is on leave. (Use the relative word specifically for people.)",
+      "acceptedAnswers": [
+        "who"
+      ],
+      "feedback": "Who is the subject of teaches and refers to a person."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The camera ___ records the interviews is expensive. (Use the relative word which.)",
+      "acceptedAnswers": [
+        "which"
+      ],
+      "feedback": "Which refers back to the camera and is the subject of records."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "All the files ___ were missing have been restored. (Use the relative word that.)",
+      "acceptedAnswers": [
+        "that"
+      ],
+      "feedback": "That links the noun files to the identifying clause were missing."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "___ happened after the lights went out remains unclear. (Use the single word meaning the thing that.)",
+      "acceptedAnswers": [
+        "What"
+      ],
+      "feedback": "What provides its own reference without a preceding noun."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence as instructed: The engineer which fixed the printer is here. Replace 'which' with 'who'.",
+      "acceptedAnswers": [
+        "The engineer who fixed the printer is here."
+      ],
+      "feedback": "Who is used for the person who fixed the printer."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I found the report that it explains the change.",
+      "acceptedAnswers": [
+        "I found the report that explains the change."
+      ],
+      "feedback": "That is already the subject of explains, so the extra it must be removed."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence as instructed: The café who serves breakfast at six is popular. Replace 'who' with 'that'.",
+      "acceptedAnswers": [
+        "The café that serves breakfast at six is popular."
+      ],
+      "feedback": "A café is a place or business, not a person; that introduces the defining clause."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence as instructed: All what happened yesterday was recorded. Replace 'what' with 'that'.",
+      "acceptedAnswers": [
+        "All that happened yesterday was recorded."
+      ],
+      "feedback": "After all, use that to identify the events; what already means the things that."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "A woman owns the bookshop, and she lives upstairs. Combine the facts into one sentence starting 'The woman who owns' and ending 'lives upstairs'.",
+      "acceptedAnswers": [
+        "The woman who owns the bookshop lives upstairs."
+      ],
+      "feedback": "Who is the subject of owns and identifies which woman is meant."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "An app counts steps, and that app is free. Combine the facts in one sentence, starting 'The app that' and ending 'is free'.",
+      "acceptedAnswers": [
+        "The app that counts steps is free."
+      ],
+      "feedback": "That identifies which app the speaker is describing."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "The teacher speaks Italian and is new. Say one sentence beginning 'The teacher who' and ending 'is new'.",
+      "acceptedAnswers": [
+        "The teacher who speaks Italian is new."
+      ],
+      "feedback": "Who introduces the identifying information about the teacher."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A package contains the documents, and the package arrived. Make one sentence starting 'The package which' and ending 'arrived'.",
+      "acceptedAnswers": [
+        "The package which contains the documents arrived."
+      ],
+      "feedback": "Which connects a thing to its identifying action without using it again."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "A friend asks which bus to take. Answer in one sentence beginning 'Take the bus that' and explain that it stops at the museum.",
+      "acceptedAnswers": [
+        "Take the bus that stops at the museum."
+      ],
+      "feedback": "The defining clause that stops at the museum identifies the correct bus."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Rephrase 'The thing that matters is the deadline' as one sentence beginning 'What matters'.",
+      "acceptedAnswers": [
+        "What matters is the deadline."
+      ],
+      "feedback": "What can replace the thing that without needing a noun before it."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the double subject by saying one sentence: 'The colleague who she works upstairs is waiting.' Remove only the unnecessary word.",
+      "acceptedAnswers": [
+        "The colleague who works upstairs is waiting."
+      ],
+      "feedback": "Who already serves as the subject of works; do not add she."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Speak this two-sentence exchange: ask 'Which jacket is yours?'; answer using 'The jacket that has silver buttons is mine.'",
+      "acceptedAnswers": [
+        "Which jacket is yours? The jacket that has silver buttons is mine."
+      ],
+      "feedback": "That has silver buttons identifies the jacket by a characteristic."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The visitor who arrived before noon left a blue umbrella at reception.",
+      "prompt": "Which visitor left an umbrella?",
+      "choices": [
+        "The visitor who came early.",
+        "The visitor who arrived late.",
+        "The visitor who cancelled."
+      ],
+      "answerIndex": 0,
+      "feedback": "Who arrived before noon identifies the earlier visitor."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I need the charger that fits this small tablet, not the larger one.",
+      "prompt": "Which charger does the speaker need?",
+      "choices": [
+        "The charger for the larger tablet.",
+        "Any charger on the shelf.",
+        "The one that fits the small tablet."
+      ],
+      "answerIndex": 2,
+      "feedback": "That fits this small tablet identifies the required charger."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The neighbour who feeds our cat will be away on Friday.",
+      "prompt": "Type the two-word expression directly after “neighbour”.",
+      "acceptedAnswers": [
+        "who feeds"
+      ],
+      "feedback": "Who feeds begins the clause identifying the neighbour."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "We ordered a desk which folds flat against the wall to save space.",
+      "prompt": "What feature made this desk useful?",
+      "choices": [
+        "It can fold flat.",
+        "It has six drawers.",
+        "It is made of glass."
+      ],
+      "answerIndex": 0,
+      "feedback": "Which folds flat identifies the desk by its space-saving feature."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The person that runs the evening course has changed the schedule.",
+      "prompt": "Who changed the schedule?",
+      "choices": [
+        "A student on the course.",
+        "The course organiser.",
+        "The building manager."
+      ],
+      "answerIndex": 1,
+      "feedback": "That runs the evening course identifies the person responsible for the schedule change."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "What worried the guests was the strong smell, not the noise.",
+      "prompt": "What was the guests’ concern?",
+      "choices": [
+        "The sound.",
+        "The smell.",
+        "The lighting."
+      ],
+      "answerIndex": 1,
+      "feedback": "What worried the guests means the thing that worried them; the audio explicitly contrasts smell and noise."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The train that stops at Hill Road leaves from platform four.",
+      "prompt": "Type the two-word expression immediately after “train”.",
+      "acceptedAnswers": [
+        "that stops"
+      ],
+      "feedback": "That stops introduces the identifying clause about the train."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The recipe which uses fresh ginger is on the first page.",
+      "prompt": "Type the two-word expression immediately after “recipe”.",
+      "acceptedAnswers": [
+        "which uses"
+      ],
+      "feedback": "Which uses introduces the information identifying the recipe."
+    }
+  ]
+}

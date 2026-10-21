@@ -11,16 +11,19 @@ const vocabulary=await read('database/manifest.json');
 const grammar=await read('database/grammar-manifest.json');
 const index=await read('curriculum/index.json');
 const clone=value=>JSON.parse(JSON.stringify(value));
+const eg2Available=books.books.find(b=>b.id==='english-grammar-2').status==='available';
+const expectedUnitCount=eg2Available ? 682 : 537;
+const expectedAvailable=eg2Available ? 7 : 6;
 
-test('curriculum index unifies six published books and 537 units without demo entries or publisher labels',()=>{
+test('curriculum index unifies published books and units without demo entries or publisher labels',()=>{
   assert.deepEqual(index,buildCurriculumIndex(books,vocabulary,grammar));
   assert.equal(validateCurriculumIndex(index),index);
   assert.equal(index.books.length,20);
-  assert.equal(index.availableBooks,6);
-  assert.equal(index.totalUnits,537);
+  assert.equal(index.availableBooks,expectedAvailable);
+  assert.equal(index.totalUnits,expectedUnitCount);
   const published=index.books.filter(x=>x.status==='available');
-  assert.equal(published.reduce((n,b)=>n+b.units.length,0),537);
-  assert.deepEqual(published.map(b=>b.units.length),[60,100,101,101,115,60]);
+  assert.equal(published.reduce((n,b)=>n+b.units.length,0),expectedUnitCount);
+  assert.deepEqual(published.map(b=>b.units.length),eg2Available ? [60,100,101,101,115,145,60] : [60,100,101,101,115,60]);
   const ids=new Set(published.flatMap(b=>b.units.map(u=>u.id)));
   assert.ok(!ids.has('unit-03')&&!ids.has('workplace-communication'));
   assert.ok(!/Cambridge|In Use|Edition|Original content/i.test(JSON.stringify(index)));
@@ -56,7 +59,7 @@ test('browser curriculum loader accepts generated JSON, rejects missing and corr
     assert.equal(new URL(url).pathname.endsWith('/curriculum/index.json'),true);
     return {ok:true,json:async()=>index};
   });
-  assert.equal(output.totalUnits,537);
+  assert.equal(output.totalUnits,expectedUnitCount);
   await assert.rejects(()=>loadCurriculumIndex(async()=>({ok:false,status:404})),/npm run catalog:all/);
   await assert.rejects(()=>loadCurriculumIndex(async()=>({ok:true,json:async()=>({})})),/Invalid curriculum index/);
 });

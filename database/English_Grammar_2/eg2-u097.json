@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u097",
+  "title": "Reduced relative clauses: -ing and past participles",
+  "level": "B2",
+  "topicId": "eg2-u097-reduced-relative-ing-past-participles",
+  "summary": "Identify and describe people and things with short clauses after nouns. Use -ing for active actions or characteristics, past participles for passive meanings, and there is/was constructions to point out what is happening or what remains.",
+  "learningObjectives": [
+    "Use an -ing clause after a noun for something actively happening at a particular time.",
+    "Use an -ing clause for an active characteristic or function that is generally true.",
+    "Use a regular or irregular past participle to describe a noun receiving an action.",
+    "Construct there is/was + noun + participle expressions and use left for something remaining."
+  ],
+  "explanation": [
+    {
+      "heading": "Use -ing clauses for active events",
+      "body": "A noun can be followed directly by an -ing clause when that noun performs the action. This shorter form often corresponds to a defining relative clause with who, which or that plus an active verb: the worker carrying boxes means the worker who is carrying boxes. The -ing clause identifies the particular person or thing.",
+      "example": "The visitor waiting beside the lift has an appointment at noon."
+    },
+    {
+      "heading": "Use -ing for regular active functions too",
+      "body": "An -ing clause can describe a continuing feature or usual function, not only an action taking place this second. A path leading to a campsite means a path that leads there. The noun is still the subject of the action or relationship expressed by the -ing form.",
+      "example": "The lane connecting the two farms is closed to traffic."
+    },
+    {
+      "heading": "Use past participles for passive meanings",
+      "body": "A clause beginning with a past participle tells us that the noun receives or received an action. It can often be expanded with that was, which was or who was: documents signed yesterday means documents that were signed yesterday. Many participles end in -ed, but some are irregular, such as built, written, made and stolen.",
+      "example": "The benches built by local volunteers are near the playground."
+    },
+    {
+      "heading": "Choose the form by who performs the action",
+      "body": "Ask whether the noun does the action or has an action done to it. The engineer checking the door performs the check, while the door checked by the engineer receives it. A mistaken choice of -ing and past participle can reverse the intended meaning.",
+      "example": "The packages delivered before noon are on the reception desk."
+    },
+    {
+      "heading": "Use participle clauses after there is or there was",
+      "body": "After there is, there are, there was and similar patterns, put a noun before its participle: there was somebody knocking, or there were two bicycles parked outside. Left is a useful past participle meaning remaining or not used; there are two biscuits left says two still remain.",
+      "example": "There are three seats left in the front row."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Active description versus passive description",
+      "left": {
+        "label": "Active -ing clause",
+        "example": "The chef preparing the food is my uncle.",
+        "note": "The chef performs the action of preparing; the reduced clause describes the chef."
+      },
+      "right": {
+        "label": "Passive participle clause",
+        "example": "The food prepared by my uncle smells wonderful.",
+        "note": "The food receives the action; prepared describes what was done to it."
+      }
+    },
+    {
+      "title": "Temporary action versus regular function",
+      "left": {
+        "label": "Action happening then",
+        "example": "The cyclist waiting at the crossing waved to us.",
+        "note": "Waiting describes what the cyclist was doing at a specific moment."
+      },
+      "right": {
+        "label": "Usual relationship",
+        "example": "The bridge linking the islands is very old.",
+        "note": "Linking describes an ongoing function, not necessarily a temporary event."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The students sitting near the entrance can hear the speaker clearly.",
+      "note": "Sitting identifies students who are performing the action right now."
+    },
+    {
+      "sentence": "A small track running behind the school leads to a playground.",
+      "note": "Running describes where the track goes as a general characteristic."
+    },
+    {
+      "sentence": "The invitations printed this morning are ready to collect.",
+      "note": "Printed means the invitations were printed; the participle has a passive meaning."
+    },
+    {
+      "sentence": "We walked through a hall decorated with paper lanterns.",
+      "note": "Decorated describes a hall that someone had decorated, without repeating which was."
+    },
+    {
+      "sentence": "There was nobody injured, and there were several spare helmets left.",
+      "note": "There was + injured describes a resulting state; left means the helmets remained available."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The people wait outside need their tickets.",
+      "correct": "The people waiting outside need their tickets.",
+      "why": "After people, use an -ing clause to identify those who are waiting."
+    },
+    {
+      "incorrect": "The bicycles repairing this morning are ready to use.",
+      "correct": "The bicycles repaired this morning are ready to use.",
+      "why": "The bicycles received the repair, so use the passive past participle repaired."
+    },
+    {
+      "incorrect": "There were some children were playing near the fountain.",
+      "correct": "There were some children playing near the fountain.",
+      "why": "In the there were + noun + -ing pattern, do not insert a second finite verb."
+    },
+    {
+      "incorrect": "There are only two sandwiches leaving in the box.",
+      "correct": "There are only two sandwiches left in the box.",
+      "why": "Left means remaining; leaving would imply the sandwiches themselves were departing."
+    }
+  ],
+  "studyTips": [
+    "Expand the shortened clause into who is/was or that is/was to check the meaning and decide whether -ing or a passive participle fits.",
+    "Mark the noun and ask who does the action: choose -ing if it does; choose a past participle if the action is done to it.",
+    "Practise separate there is/was patterns with somebody waiting, equipment stored and tickets left; keep the participle after the noun."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The technician ___ the cables can explain the fault.",
+      "choices": [
+        "checked",
+        "checking",
+        "checks"
+      ],
+      "answerIndex": 1,
+      "feedback": "Checking is an active -ing clause: the technician is performing the check."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The equipment ___ during the night is working again.",
+      "choices": [
+        "repairing",
+        "repair",
+        "repaired"
+      ],
+      "answerIndex": 2,
+      "feedback": "The equipment received the repair, so use the passive participle repaired."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The footpath ___ behind the library goes down to the river.",
+      "choices": [
+        "running",
+        "ran",
+        "was running"
+      ],
+      "answerIndex": 0,
+      "feedback": "Running describes the route the footpath follows; it has an active, ongoing meaning."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "We have three places ___ for the afternoon workshop.",
+      "choices": [
+        "leaving",
+        "leave",
+        "left"
+      ],
+      "answerIndex": 2,
+      "feedback": "Left means still available or remaining; leaving does not express that meaning."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The woman ___ a red umbrella is waiting by the gate. (carry; write the -ing form only)",
+      "acceptedAnswers": [
+        "carrying"
+      ],
+      "feedback": "Carrying is an active clause identifying which woman is waiting."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The devices ___ by the research team are already on display. (design; use a passive participle)",
+      "acceptedAnswers": [
+        "designed"
+      ],
+      "feedback": "The devices were designed by the team; designed is the past participle."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "There is somebody ___ on the back door. (knock; write the -ing form only)",
+      "acceptedAnswers": [
+        "knocking"
+      ],
+      "feedback": "There is + somebody + knocking describes a person currently performing the action."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "There are no tickets ___ for the evening performance. (leave; use the form meaning remaining)",
+      "acceptedAnswers": [
+        "left"
+      ],
+      "feedback": "Left is the participle that means no tickets remain available."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct by changing only the verb after “visitor” to an -ing form: The visitor talks to the receptionist has lost a bag.",
+      "acceptedAnswers": [
+        "The visitor talking to the receptionist has lost a bag."
+      ],
+      "feedback": "Talking to the receptionist identifies the visitor through an active shortened relative clause."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct by changing only the word “preparing” to a passive participle: The meals preparing earlier are in the fridge.",
+      "acceptedAnswers": [
+        "The meals prepared earlier are in the fridge."
+      ],
+      "feedback": "The meals received the preparation, so the passive participle is prepared."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Remove the unnecessary second auxiliary and rewrite the sentence: There were two cyclists were waiting at the traffic lights.",
+      "acceptedAnswers": [
+        "There were two cyclists waiting at the traffic lights."
+      ],
+      "feedback": "There were + noun + -ing needs waiting, without another were."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct by replacing only “leaving” with the form meaning remaining: There is one seat leaving near the aisle.",
+      "acceptedAnswers": [
+        "There is one seat left near the aisle."
+      ],
+      "feedback": "Left expresses availability; leaving suggests movement and is not the required form."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Describe the correct person in one sentence. Facts: a man is holding a ladder; that man is near the gate. Start “The man holding” and end “near the gate”.",
+      "acceptedAnswers": [
+        "The man holding a ladder is near the gate."
+      ],
+      "feedback": "Holding tells us which man is near the gate; the man performs the action."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "A package was delivered yesterday and is now at reception. Combine the facts in one sentence beginning “The package delivered yesterday”.",
+      "acceptedAnswers": [
+        "The package delivered yesterday is at reception."
+      ],
+      "feedback": "Delivered is a passive participle: someone delivered the package."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "A train connects two towns and runs every hour. Say one sentence beginning “The train connecting the two towns”.",
+      "acceptedAnswers": [
+        "The train connecting the two towns runs every hour."
+      ],
+      "feedback": "Connecting describes the train route as a regular function."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "A colleague asks what is happening in the lift area. Exactly two technicians are inspecting the lift. Reply in one sentence beginning “There are two technicians”. Use inspecting.",
+      "acceptedAnswers": [
+        "There are two technicians inspecting the lift."
+      ],
+      "feedback": "There are + noun + inspecting describes the action in progress."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "You saw a landscape that your neighbour painted. Say one sentence beginning “The landscape” and ending “was beautiful”. Use painted by my neighbour.",
+      "acceptedAnswers": [
+        "The landscape painted by my neighbour was beautiful."
+      ],
+      "feedback": "Painted by my neighbour identifies the picture using a passive participle."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A sign was written in Spanish and is on the door. Combine the facts in one sentence. Begin “The sign written” and end “is on the door”.",
+      "acceptedAnswers": [
+        "The sign written in Spanish is on the door."
+      ],
+      "feedback": "Written is the irregular past participle, describing the sign rather than an author writing now."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Three unopened boxes remain on the shelves. Say this using “There are” and finish with “left on the shelves”.",
+      "acceptedAnswers": [
+        "There are three unopened boxes left on the shelves."
+      ],
+      "feedback": "Left describes boxes that remain on the shelves."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Correct only the participle and speak the whole sentence: “The report writing by our team was approved.”",
+      "acceptedAnswers": [
+        "The report written by our team was approved."
+      ],
+      "feedback": "The report was written by the team, so the passive participle must be written."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The cyclist wearing a yellow jacket turned left at the bridge, while the other riders went straight.",
+      "prompt": "Who turned left at the bridge?",
+      "choices": [
+        "All of the riders.",
+        "The rider in a yellow jacket.",
+        "Only the rider without a jacket."
+      ],
+      "answerIndex": 1,
+      "feedback": "Wearing a yellow jacket identifies the cyclist who turned left; the others continued straight."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The equipment repaired overnight is back in service, but the machine awaiting inspection remains switched off.",
+      "prompt": "Which item can be used now?",
+      "choices": [
+        "The machine awaiting inspection.",
+        "Neither item.",
+        "The equipment repaired overnight."
+      ],
+      "answerIndex": 2,
+      "feedback": "The repaired equipment is back in service; the other machine remains off."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "There were several passengers standing beside the information desk.",
+      "prompt": "Type the one word immediately after “passengers” in the recording.",
+      "acceptedAnswers": [
+        "standing"
+      ],
+      "feedback": "Standing forms an active -ing clause describing the passengers."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The path leading to the orchard is closed today, so please use the lane beside the barn.",
+      "prompt": "Which route is unavailable today?",
+      "choices": [
+        "The path to the orchard.",
+        "The lane beside the barn.",
+        "Both routes."
+      ],
+      "answerIndex": 0,
+      "feedback": "Leading to the orchard identifies the closed path; the lane beside the barn is the alternative."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The invitations sent by email reached everyone on time, but the printed copies arrived too late.",
+      "prompt": "Which invitations arrived on time?",
+      "choices": [
+        "Only the printed copies.",
+        "The ones sent by email.",
+        "Neither version."
+      ],
+      "answerIndex": 1,
+      "feedback": "Sent by email describes the invitations that reached everyone on time."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "There is only one chair left in the waiting room, and it is beside the window.",
+      "prompt": "What does the speaker say is still available?",
+      "choices": [
+        "Several chairs by the door.",
+        "A table near the window.",
+        "One chair beside the window."
+      ],
+      "answerIndex": 2,
+      "feedback": "One chair left means only one chair remains, and its location is beside the window."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "A painting stolen from the town gallery last year was recovered yesterday.",
+      "prompt": "Type the single word immediately after “painting” in the recording.",
+      "acceptedAnswers": [
+        "stolen"
+      ],
+      "feedback": "Stolen is an irregular passive participle: someone stole the painting."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The forms signed by the director are ready for collection.",
+      "prompt": "Type the four words immediately after “forms” in the recording.",
+      "acceptedAnswers": [
+        "signed by the director"
+      ],
+      "feedback": "Signed by the director identifies the forms through a passive participle phrase."
+    }
+  ]
+}

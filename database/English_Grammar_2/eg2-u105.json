@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u105",
+  "title": "Comparative Forms: -er, More and Irregular Changes",
+  "level": "B1",
+  "topicId": "eg2-u105-comparative-forms-irregular",
+  "summary": "Build natural comparative forms to describe differences in size, cost, quality and manner. Use -er with short words, -ier with many two-syllable -y words, more with long adjectives and -ly adverbs, and irregular forms such as better and worse.",
+  "learningObjectives": [
+    "Form comparatives with -er and apply common final-e, consonant-doubling and -y-to-ier spelling changes.",
+    "Use more before longer adjectives and adverbs ending in -ly, avoiding double comparative marking.",
+    "Recognise two-syllable adjectives that permit either -er or more.",
+    "Use better, worse, farther and further accurately, including further for additional information."
+  ],
+  "explanation": [
+    {
+      "heading": "Why we use comparative forms",
+      "body": "A comparative describes a quality or manner relative to another person, thing or time. The second point of comparison may appear after than or be clear from context. For many short adjectives, add -er to the base form. The form identifies a difference, but does not by itself say how large the difference is.",
+      "example": "Our replacement router is faster than the previous model."
+    },
+    {
+      "heading": "Short adjectives and spelling patterns",
+      "body": "Add -er to most one-syllable adjectives: light → lighter and tall → taller. If the word ends in silent -e, add only -r: safe → safer. A short stressed vowel before one final consonant may require doubling the consonant: big → bigger. Two-syllable words ending in consonant + y usually change -y to -ier: busy → busier and easy → easier.",
+      "example": "The new storage box is bigger but easier to carry."
+    },
+    {
+      "heading": "Use more with long adjectives and -ly adverbs",
+      "body": "Most adjectives with two or more syllables take more rather than -er, especially longer ones such as efficient, reliable and expensive. Adverbs ending in -ly also generally take more: more carefully, more clearly, more slowly. Do not combine more with an -er ending on the same word. Short adverbs such as fast often use -er.",
+      "example": "The revised instructions explain the procedure more clearly."
+    },
+    {
+      "heading": "Flexible two-syllable adjectives",
+      "body": "Some two-syllable adjectives allow both an -er comparative and a more comparative. Common examples include clever, narrow, quiet, shallow and simple. One form may sound more natural in a particular sentence, but both can be grammatically acceptable. By contrast, standard usage normally prefers more with adjectives such as reliable or complicated.",
+      "example": "The side entrance is quieter than the main doorway."
+    },
+    {
+      "heading": "Irregular forms and the special meaning of further",
+      "body": "Good and the adverb well change to better; bad and badly change to worse. Far has two comparative forms, farther and further, for greater physical distance. Further also means additional, for example further details or further discussion; farther does not normally have that meaning. These irregular forms cannot be produced by simply adding more or -er.",
+      "example": "We need further information before deciding which option is better."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Short forms versus longer descriptions",
+      "left": {
+        "label": "-er / -ier",
+        "example": "This hallway is narrower than the other one.",
+        "note": "Narrow is one of the two-syllable adjectives that accepts narrower."
+      },
+      "right": {
+        "label": "More + adjective",
+        "example": "This entrance is more accessible than the other one.",
+        "note": "The longer adjective accessible takes more, not an -er ending."
+      }
+    },
+    {
+      "title": "Distance and additional information",
+      "left": {
+        "label": "Farther / further for distance",
+        "example": "The pharmacy is farther along the road.",
+        "note": "Both farther and further can describe physical distance."
+      },
+      "right": {
+        "label": "Further = additional",
+        "example": "Please send further details by Friday.",
+        "note": "Only further normally means additional in this usage."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The second draft is clearer than the first.",
+      "note": "Clear is a short adjective and commonly uses the -er comparative."
+    },
+    {
+      "sentence": "The corridor became busier after the doors opened.",
+      "note": "Busy changes its final y to i before -er."
+    },
+    {
+      "sentence": "Could you explain that rule more slowly?",
+      "note": "An -ly adverb generally forms its comparative with more."
+    },
+    {
+      "sentence": "This replacement part is more durable than the old one.",
+      "note": "The multisyllabic adjective durable takes more."
+    },
+    {
+      "sentence": "Her second attempt went better than her first.",
+      "note": "Better is the irregular comparative of well when describing how an action goes."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "This ticket is more cheap than the other one.",
+      "correct": "This ticket is cheaper than the other one.",
+      "why": "The short adjective cheap normally takes -er rather than more."
+    },
+    {
+      "incorrect": "The meeting started earlyer than expected.",
+      "correct": "The meeting started earlier than expected.",
+      "why": "Change the final -y in early to -i before adding -er."
+    },
+    {
+      "incorrect": "The backup process is reliabler now.",
+      "correct": "The backup process is more reliable now.",
+      "why": "Reliable uses more in the usual comparative pattern."
+    },
+    {
+      "incorrect": "I feel gooder today.",
+      "correct": "I feel better today.",
+      "why": "Good has the irregular comparative better, not gooder."
+    }
+  ],
+  "studyTips": [
+    "Sort ten adjectives into short -er forms, -y-to-ier forms and more + adjective forms; read the pairs aloud.",
+    "When you write a comparison, check that you have not used both more and an -er ending on the same adjective.",
+    "Make a short irregular-form reference card for good/well → better, bad/badly → worse and far → farther/further."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The second package weighs less. It is ___ than the first package.",
+      "choices": [
+        "lighter",
+        "more light",
+        "lightest"
+      ],
+      "answerIndex": 0,
+      "feedback": "Light is a short adjective, so the comparative is lighter."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Our new booking system is ___ than the old one.",
+      "choices": [
+        "efficienter",
+        "more efficient",
+        "most efficient"
+      ],
+      "answerIndex": 1,
+      "feedback": "Efficient is a longer adjective and forms its comparative with more."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The morning class starts at eight, but the afternoon class begins at ten. The morning class starts ___.",
+      "choices": [
+        "more early",
+        "earliest",
+        "earlier"
+      ],
+      "answerIndex": 2,
+      "feedback": "Early becomes earlier; the -y changes to -i before -er."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "After the repair, the signal is ___ than before.",
+      "choices": [
+        "better",
+        "more good",
+        "gooder"
+      ],
+      "answerIndex": 0,
+      "feedback": "Good has the irregular comparative better."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "This path is ___ than the main road. (short; write one comparative adjective)",
+      "acceptedAnswers": [
+        "shorter"
+      ],
+      "feedback": "Use -er to form shorter from the one-syllable adjective short."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Please speak ___ so the visitors can follow your explanation. (slowly; comparative form)",
+      "acceptedAnswers": [
+        "more slowly"
+      ],
+      "feedback": "Most -ly adverbs, including slowly, use more to form the comparative."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The office has become ___ since the additional staff arrived. (busy; comparative form)",
+      "acceptedAnswers": [
+        "busier"
+      ],
+      "feedback": "Busy ends in consonant + y, so replace y with i and add -er."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The report is incomplete. We need ___ details before making a decision. (additional; use the comparative of far)",
+      "acceptedAnswers": [
+        "further"
+      ],
+      "feedback": "Further can mean additional; farther is generally used for physical distance."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: This coat is more warm than my old one.",
+      "acceptedAnswers": [
+        "This coat is warmer than my old one."
+      ],
+      "feedback": "Warm is a one-syllable adjective and normally takes the -er comparative warmer."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The performance began earlyer than we expected.",
+      "acceptedAnswers": [
+        "The performance began earlier than we expected."
+      ],
+      "feedback": "Early changes to earlier, not earlyer."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The weather was badder on Sunday than on Saturday.",
+      "acceptedAnswers": [
+        "The weather was worse on Sunday than on Saturday."
+      ],
+      "feedback": "Bad has the irregular comparative worse."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The presenter explained the process more carefullyer this time.",
+      "acceptedAnswers": [
+        "The presenter explained the process more carefully this time."
+      ],
+      "feedback": "Use more with the adverb carefully; do not add -er to an -ly adverb."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Compare these two items in one sentence. Facts: the blue suitcase; light; the red suitcase. Start with “The blue suitcase” and use lighter than.",
+      "acceptedAnswers": [
+        "The blue suitcase is lighter than the red suitcase."
+      ],
+      "feedback": "Light takes the -er comparative lighter."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Use one sentence to compare the two options. Facts: the new route; more direct; the old route. Begin with “The new route”.",
+      "acceptedAnswers": [
+        "The new route is more direct than the old route."
+      ],
+      "feedback": "Direct is naturally compared using more direct."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Ask one complete yes/no question comparing train and bus speed. Begin with “Is the train” and end with “the bus”. Use faster than.",
+      "acceptedAnswers": [
+        "Is the train faster than the bus?"
+      ],
+      "feedback": "Fast forms faster, and than introduces the comparison."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Correct this sentence aloud, keeping the same meaning: “This watch is expensiver than mine.”",
+      "acceptedAnswers": [
+        "This watch is more expensive than mine."
+      ],
+      "feedback": "Expensive is a long adjective and takes more instead of -er."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Last month the service was bad; this month it is even worse. Say one sentence beginning “The service” and using worse than last month.",
+      "acceptedAnswers": [
+        "The service is worse than last month."
+      ],
+      "feedback": "The comparative of bad is worse, not badder."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You need additional details to choose a supplier. Make one sentence starting with “I need” and containing “further details before I decide”.",
+      "acceptedAnswers": [
+        "I need further details before I decide."
+      ],
+      "feedback": "Further means additional when it modifies information or details."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say exactly two sentences from these facts. First: this chair; lighter; that chair. Second: this chair; more comfortable; that chair. Begin both sentences with “This chair”.",
+      "acceptedAnswers": [
+        "This chair is lighter than that chair. This chair is more comfortable than that chair."
+      ],
+      "feedback": "Lighter uses -er, whereas comfortable takes more."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "A speaker is talking too quickly for you. Make a polite request using exactly the words “Could you speak more slowly, please?”",
+      "acceptedAnswers": [
+        "Could you speak more slowly, please?"
+      ],
+      "feedback": "The adverb slowly forms its comparative with more."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The tram takes twenty minutes, while the bus takes thirty-five. I will take the faster option.",
+      "prompt": "Which form of transport gets the speaker there sooner?",
+      "choices": [
+        "The tram.",
+        "The bus.",
+        "They take equally long."
+      ],
+      "answerIndex": 0,
+      "feedback": "The tram takes twenty minutes, compared with thirty-five minutes for the bus."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The silver laptop is cheaper, but it is also heavier than the black one.",
+      "prompt": "What disadvantage does the cheaper laptop have?",
+      "choices": [
+        "It has a brighter screen.",
+        "It is heavier to carry.",
+        "It is less expensive to repair."
+      ],
+      "answerIndex": 1,
+      "feedback": "Although the cheaper laptop costs less, the speaker says it is heavier."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The new printer works more reliably when connected by cable.",
+      "prompt": "Type the two-word comparative phrase heard immediately after “works”.",
+      "acceptedAnswers": [
+        "more reliably"
+      ],
+      "feedback": "The -ly adverb reliably takes more in the comparative."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I thought the climb would be difficult, but it was worse than I expected.",
+      "prompt": "How did the actual climb compare with the speaker’s expectation?",
+      "choices": [
+        "It was less challenging.",
+        "It was exactly as expected.",
+        "It was more difficult."
+      ],
+      "answerIndex": 2,
+      "feedback": "Worse than I expected describes a more difficult experience."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The station hotel charges one hundred and twenty pounds, but the one outside the centre costs eighty.",
+      "prompt": "Which hotel costs less per night?",
+      "choices": [
+        "The hotel outside the centre.",
+        "The hotel near the station.",
+        "Both have the same price."
+      ],
+      "answerIndex": 0,
+      "feedback": "The hotel outside the centre costs eighty pounds; the other costs one hundred and twenty."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I used to cycle slowly on this road, but I ride faster now.",
+      "prompt": "What has changed about the speaker’s cycling?",
+      "choices": [
+        "They cycle less often.",
+        "They cycle at a higher speed now.",
+        "They have stopped cycling."
+      ],
+      "answerIndex": 1,
+      "feedback": "The contrast between slowly before and faster now indicates increased speed."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The course begins earlier on Fridays than on Tuesdays.",
+      "prompt": "Type the single comparative word heard immediately after “begins”.",
+      "acceptedAnswers": [
+        "earlier"
+      ],
+      "feedback": "Earlier is the comparative of early and signals an earlier starting time."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "My shoulder feels better since I changed my desk setup.",
+      "prompt": "Type the one-word comparative adjective heard immediately after “feels”.",
+      "acceptedAnswers": [
+        "better"
+      ],
+      "feedback": "Better is the irregular comparative of good in the expression feels better."
+    }
+  ]
+}

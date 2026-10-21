@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u060",
+  "title": "Prepositions Followed by -ing",
+  "level": "B2",
+  "topicId": "eg2-u060-prepositions-followed-by-ing",
+  "summary": "Use an -ing verb after a preposition to describe an activity, method, sequence, alternative or action avoided. Apply the pattern after before, after, by, without and instead of, and distinguish prepositional to from infinitive to.",
+  "learningObjectives": [
+    "Recognise when a preposition is followed by a verb and form the verb with -ing.",
+    "Express alternatives, concessions and sequence with instead of, in spite of, before and after + -ing.",
+    "Explain methods using by + -ing and describe what did not happen using without + -ing.",
+    "Distinguish to as a preposition in expressions such as look forward to from to introducing an infinitive."
+  ],
+  "explanation": [
+    {
+      "heading": "An activity after a preposition takes -ing",
+      "body": "When a preposition such as in, at, for, of or with is followed by a verb, use the -ing form. The preposition links the activity to an adjective, noun or earlier part of the sentence. For example, good at planning and thank you for helping contain prepositions followed by -ing. A bare verb or to-infinitive does not work in the same slot.",
+      "example": "The volunteers are interested in learning how the garden is maintained."
+    },
+    {
+      "heading": "Alternatives and contrasts: instead of and in spite of",
+      "body": "Use instead of + -ing to describe a different action chosen in place of another. Use in spite of + -ing to show that something happened despite a difficulty. They do not have the same meaning: instead of indicates a replacement, while in spite of indicates a contrast with an obstacle. Both can introduce a longer -ing phrase.",
+      "example": "In spite of feeling tired, the team finished the rehearsal."
+    },
+    {
+      "heading": "Before and after + -ing",
+      "body": "Before + -ing and after + -ing place one action earlier or later than another. They are useful when the two actions have the same understood subject. You can also use a full clause, such as before we leave; that is a different structure. Do not put a to-infinitive directly after before or after in this use.",
+      "example": "After reviewing the timetable, Lena sent it to the group."
+    },
+    {
+      "heading": "How and without: by -ing and without -ing",
+      "body": "By + -ing explains the method used to achieve a result: by making a list explains how someone organised a task. Without + -ing shows an action that did not happen or was avoided. A negative form such as by not checking can explain a harmful method or cause. The two prepositions express different relationships.",
+      "example": "The technician solved the problem by replacing one damaged cable."
+    },
+    {
+      "heading": "To can be a preposition, not an infinitive marker",
+      "body": "The word to sometimes introduces an infinitive, as in decide to leave. In other expressions, to is a preposition; if a verb follows it, use -ing. Look forward to meeting and prefer walking to driving both contain prepositional to. Check the entire expression before choosing the next verb form.",
+      "example": "We are looking forward to welcoming the new volunteers next week."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "To + infinitive versus preposition to + -ing",
+      "left": {
+        "label": "Infinitive to",
+        "example": "We decided to cancel the outdoor event.",
+        "note": "Decide takes a to-infinitive, so cancel remains in the base form."
+      },
+      "right": {
+        "label": "Prepositional to",
+        "example": "We are looking forward to holding the event indoors.",
+        "note": "Look forward to ends with a preposition, so holding takes -ing."
+      }
+    },
+    {
+      "title": "A method versus an avoided action",
+      "left": {
+        "label": "By + -ing: how",
+        "example": "Mara saved time by preparing the ingredients earlier.",
+        "note": "By preparing explains the method that produced the result."
+      },
+      "right": {
+        "label": "Without + -ing: what did not happen",
+        "example": "Mara finished the meal without using a recipe.",
+        "note": "Without using identifies an action that was not performed."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Thank you for explaining the instructions so clearly.",
+      "note": "For is a preposition, so the next verb uses -ing."
+    },
+    {
+      "sentence": "Instead of buying new shelves, we repaired the old ones.",
+      "note": "Instead of introduces the rejected alternative."
+    },
+    {
+      "sentence": "Before turning on the camera, check the microphone.",
+      "note": "Before + -ing places one action before the main instruction."
+    },
+    {
+      "sentence": "The class learned the melody by listening to it several times.",
+      "note": "By + -ing gives the method of learning."
+    },
+    {
+      "sentence": "I am looking forward to visiting the new exhibition.",
+      "note": "The to in look forward to is a preposition and takes visiting."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "She is interested in learn pottery.",
+      "correct": "She is interested in learning pottery.",
+      "why": "After the preposition in, use the -ing form of the verb."
+    },
+    {
+      "incorrect": "Before to leave the workshop, switch off the lights.",
+      "correct": "Before leaving the workshop, switch off the lights.",
+      "why": "Before used as a preposition takes leaving, not to leave."
+    },
+    {
+      "incorrect": "We made the room brighter by put a lamp near the desk.",
+      "correct": "We made the room brighter by putting a lamp near the desk.",
+      "why": "By explains the method and must be followed by an -ing verb."
+    },
+    {
+      "incorrect": "I am looking forward to see the photos.",
+      "correct": "I am looking forward to seeing the photos.",
+      "why": "Look forward to contains prepositional to, so a following verb uses -ing."
+    }
+  ],
+  "studyTips": [
+    "When you see a preposition followed by an action, underline both parts: without speaking, by checking, interested in learning.",
+    "Practise one event in a sequence and as a method: after reviewing the plan; by reviewing the plan.",
+    "Write two columns for to: decide to visit uses an infinitive, but look forward to visiting uses a preposition plus -ing."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The response time improved ___ the number of unnecessary steps.",
+      "choices": [
+        "by reduce",
+        "by reducing",
+        "to reducing"
+      ],
+      "answerIndex": 1,
+      "feedback": "By reducing explains the method of improvement; reducing follows the preposition by."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Rosa slipped out of the room without ___ the other guests.",
+      "choices": [
+        "disturbing",
+        "to disturb",
+        "disturb"
+      ],
+      "answerIndex": 0,
+      "feedback": "Without is a preposition, so disturbing is the correct verb form."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The organiser thanked everyone ___ the seating plan before the event.",
+      "choices": [
+        "to check",
+        "for check",
+        "for checking"
+      ],
+      "answerIndex": 2,
+      "feedback": "Thank someone for + -ing gives the reason for the thanks."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "I am looking forward ___ from the interview panel next week.",
+      "choices": [
+        "to hearing",
+        "to hear",
+        "for hearing"
+      ],
+      "answerIndex": 0,
+      "feedback": "Look forward to contains the preposition to, which must be followed by hearing."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The walkway became safer ___ brighter lights. (by / install; method; complete the expression)",
+      "acceptedAnswers": [
+        "by installing"
+      ],
+      "feedback": "By installing explains how the walkway became safer."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "___ the studio, please switch off the lights. (before / leave; begin with capital B)",
+      "acceptedAnswers": [
+        "Before leaving"
+      ],
+      "feedback": "Before leaving expresses an action to complete ahead of leaving."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The nurse finished the shift ___ a break. (without / take; write the expression)",
+      "acceptedAnswers": [
+        "without taking"
+      ],
+      "feedback": "Without taking states that no break was taken."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "I am looking forward ___ the new neighbours. (to / meet; write the expression after forward)",
+      "acceptedAnswers": [
+        "to meeting"
+      ],
+      "feedback": "Look forward to is followed by an -ing verb because to is a preposition."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: You can learn useful phrases by to read short stories. (Correct only the expression after by.)",
+      "acceptedAnswers": [
+        "You can learn useful phrases by reading short stories."
+      ],
+      "feedback": "By + -ing describes the method: by reading."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: After to finish the report, Mina backed up the files. (Use the preposition plus -ing pattern.)",
+      "acceptedAnswers": [
+        "After finishing the report, Mina backed up the files."
+      ],
+      "feedback": "After used before an action takes finishing, not to finish."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Leo left the meeting without say goodbye. (Change only the verb form after without.)",
+      "acceptedAnswers": [
+        "Leo left the meeting without saying goodbye."
+      ],
+      "feedback": "Without is followed by the -ing verb saying."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I am looking forward to see the results next week. (Correct only the verb form after to.)",
+      "acceptedAnswers": [
+        "I am looking forward to seeing the results next week."
+      ],
+      "feedback": "Prepositional to after look forward requires seeing, not see."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Explain the method using these words: You can improve your listening; by; practising every day. Say one sentence, beginning “You can”.",
+      "acceptedAnswers": [
+        "You can improve your listening by practising every day."
+      ],
+      "feedback": "By practising names the method used to improve listening."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Describe an action that did not happen: Nora left; without telling anyone. Begin “Nora left” and say one complete sentence.",
+      "acceptedAnswers": [
+        "Nora left without telling anyone."
+      ],
+      "feedback": "Without telling identifies what Nora did not do."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say that the intern saved the file before checking the numbers. Begin “Before checking the numbers” and finish “the intern saved the file”.",
+      "acceptedAnswers": [
+        "Before checking the numbers, the intern saved the file."
+      ],
+      "feedback": "Before checking uses -ing after the preposition before."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Suggest taking the stairs as an alternative to using the lift. Begin “Let’s” and finish “instead of using the lift”.",
+      "acceptedAnswers": [
+        "Let's take the stairs instead of using the lift."
+      ],
+      "feedback": "Instead of + -ing introduces the action being replaced."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Say that you are looking forward to meeting the new manager. Begin “I’m looking forward” and end “the new manager”.",
+      "acceptedAnswers": [
+        "I'm looking forward to meeting the new manager."
+      ],
+      "feedback": "Look forward to takes meeting because to is a preposition."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "He felt nervous, but he gave the talk. Begin “In spite of feeling nervous” and finish “he gave the talk”.",
+      "acceptedAnswers": [
+        "In spite of feeling nervous, he gave the talk."
+      ],
+      "feedback": "In spite of + -ing signals that the obstacle did not prevent the talk."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Make exactly two past-simple sentences. First: she / learn the route / walk it twice; use “by” for the method. Second: she / arrive / not get lost; use “without”. Use the verbs “learned” and “arrived” in that order.",
+      "acceptedAnswers": [
+        "She learned the route by walking it twice. She arrived without getting lost."
+      ],
+      "feedback": "The first sentence gives a method; the second identifies an avoided problem."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Correct this sentence aloud, changing only the verb form: “We are looking forward to meet the new tenants.”",
+      "acceptedAnswers": [
+        "We are looking forward to meeting the new tenants."
+      ],
+      "feedback": "To is a preposition in look forward to, so use meeting."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Instead of taking the lift, Priya climbed the stairs to get some exercise.",
+      "prompt": "What did Priya choose to do?",
+      "choices": [
+        "Wait beside the lift.",
+        "Climb the stairs.",
+        "Take the lift."
+      ],
+      "answerIndex": 1,
+      "feedback": "Instead of taking the lift introduces the option she rejected; she climbed the stairs."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We finished the large mural by painting in small teams over three weekends.",
+      "prompt": "How did they complete the mural?",
+      "choices": [
+        "By hiring one artist to do everything.",
+        "By painting it in a single evening.",
+        "By working in small groups over three weekends."
+      ],
+      "answerIndex": 2,
+      "feedback": "By painting in small teams describes their method, and over three weekends gives the time frame."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The guide left without answering my question.",
+      "prompt": "Type the two-word expression immediately after “left”.",
+      "acceptedAnswers": [
+        "without answering"
+      ],
+      "feedback": "Without answering identifies the action that was not performed."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "In spite of feeling exhausted, Hari stayed for the final discussion.",
+      "prompt": "What happened despite Hari’s tiredness?",
+      "choices": [
+        "Hari stayed for the final discussion.",
+        "Hari cancelled the discussion.",
+        "Hari went home before the discussion."
+      ],
+      "answerIndex": 0,
+      "feedback": "In spite of feeling exhausted introduces an obstacle; Hari stayed anyway."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Before sending the invitations, we checked the guest list twice.",
+      "prompt": "Which action happened first?",
+      "choices": [
+        "The invitations were sent.",
+        "The guest list was checked.",
+        "The guests arrived."
+      ],
+      "answerIndex": 1,
+      "feedback": "Before sending indicates that checking happened ahead of sending."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I'm looking forward to meeting the new neighbours next month.",
+      "prompt": "What future event is the speaker anticipating?",
+      "choices": [
+        "Leaving the neighbourhood.",
+        "Moving out next month.",
+        "Meeting the new neighbours."
+      ],
+      "answerIndex": 2,
+      "feedback": "Looking forward to meeting expresses positive anticipation of that event."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Theo improved his pronunciation by recording short daily messages.",
+      "prompt": "Type the two-word expression immediately after “pronunciation”.",
+      "acceptedAnswers": [
+        "by recording"
+      ],
+      "feedback": "By recording names the method Theo used."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "After closing the shop, Erin went straight home.",
+      "prompt": "Type the two words at the beginning of the audio.",
+      "acceptedAnswers": [
+        "After closing"
+      ],
+      "feedback": "After closing places the shop-closing action before going home."
+    }
+  ]
+}

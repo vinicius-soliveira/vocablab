@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u074",
+  "title": "Institutional Places: School, Hospital, Work and Home",
+  "level": "B1",
+  "topicId": "eg2-u074-institutions-purpose-and-buildings",
+  "summary": "Distinguish the usual purpose of an institution from its specific premises, and choose natural expressions for school, university, hospital, prison, church, bed, work and home.",
+  "learningObjectives": [
+    "Distinguish attendance or participation at an institution from a visit to its identifiable building.",
+    "Use school, university, college, prison, church and (in British English) hospital without an article in institutional senses.",
+    "Contrast go to bed and in bed with references to a particular bed as furniture.",
+    "Use go to work, be at work, go home and be at home without adding incorrect articles or prepositions."
+  ],
+  "explanation": [
+    {
+      "heading": "Purpose changes the article",
+      "body": "Institutional expressions often omit the when they refer to the ordinary activity or role associated with the institution, rather than one building. A teenager goes to school to learn; a visitor goes to the school to meet the head teacher. Context matters: the can identify a particular school building or institution. Do not infer that every reference to an institution must omit the.",
+      "example": "The students were at school while the electrician worked at the school."
+    },
+    {
+      "heading": "Study and university or college",
+      "body": "In common British English usage, go to university, be at university and go to college usually describe studying there. The university and the college can identify a particular campus, institution or building, especially when a visitor is describing a destination. The university is also possible for enrolled students when referring to a particular institution. Some phrases vary by region; the important distinction is purpose versus reference to a specific place.",
+      "example": "Amina is at university, but her uncle visited the university to attend a public lecture."
+    },
+    {
+      "heading": "Hospital, prison and church",
+      "body": "In British English, a patient may be taken to hospital or be in hospital; visitors normally go to the hospital to see them. American English commonly uses the hospital even for patients, so that version is not automatically wrong. People can be in prison as prisoners or go to prison as a sentence; a visitor or contractor may enter the prison. Go to church normally means attending worship, whereas the church identifies a particular building or institution. These are meaning-based tendencies, not interchangeable forms in every context.",
+      "example": "After a week in hospital, Leo went home; his sister had visited him at the hospital."
+    },
+    {
+      "heading": "Bed is an activity or an object",
+      "body": "Go to bed, get out of bed, and stay in bed describe sleeping, resting or leaving that state, with no article. When bed is a specific piece of furniture, use a determiner: sit on the bed, put a bag under the bed or buy a new bed. The same object can be mentioned with or without the depending on whether the meaning is the activity or the physical item.",
+      "example": "She went to bed early but left the book on the bed."
+    },
+    {
+      "heading": "Work and home take special forms",
+      "body": "Use go to work, be at work, start work and finish work for the usual job-related activity. Use the office, the factory or the workplace when identifying a place. Home is especially irregular for direction: say go home, come home, get home and arrive home, not go to home. For position, say be at home or work from home. A specific house or someone else’s home may require a determiner or possessive, as in the family home.",
+      "example": "After finishing work, Priya went home and stayed at home all evening."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Participating in school versus visiting its premises",
+      "left": {
+        "label": "Institutional role",
+        "example": "The children are at school until three.",
+        "note": "They are attending lessons as students; the building is not the focus."
+      },
+      "right": {
+        "label": "Particular building",
+        "example": "The inspector is at the school until three.",
+        "note": "A visitor is at a specified site for an inspection."
+      }
+    },
+    {
+      "title": "Bed as an activity versus bed as furniture",
+      "left": {
+        "label": "Rest or sleep",
+        "example": "Noah went to bed at ten.",
+        "note": "Going to bed means preparing to sleep; no article is needed."
+      },
+      "right": {
+        "label": "Physical item",
+        "example": "Noah left his glasses on the bed.",
+        "note": "The identifies a particular piece of furniture."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "My neighbour plans to go to college after her apprenticeship.",
+      "note": "Going to college means attending as a student."
+    },
+    {
+      "sentence": "The photographer went to the college to take pictures of its new entrance.",
+      "note": "The college is a particular location visited for a task."
+    },
+    {
+      "sentence": "The man has been in prison since last year.",
+      "note": "In prison describes being held as a prisoner, not merely being inside a prison building."
+    },
+    {
+      "sentence": "They go to church on Sundays, but painters are repairing the church this week.",
+      "note": "The first phrase means worship; the second identifies the building."
+    },
+    {
+      "sentence": "I got home late from work and found my keys under the bed.",
+      "note": "Got home and from work have no article; the bed is furniture."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I normally go to the bed at eleven to sleep.",
+      "correct": "I normally go to bed at eleven to sleep.",
+      "why": "Go to bed is an idiom for going to sleep, not identifying a piece of furniture."
+    },
+    {
+      "incorrect": "We arrived to home just before midnight.",
+      "correct": "We arrived home just before midnight.",
+      "why": "Home acts as a destination adverb after arrive; to is omitted."
+    },
+    {
+      "incorrect": "My cousin finishes the work at six every day.",
+      "correct": "My cousin finishes work at six every day.",
+      "why": "Finish work usually describes ending a working day; the work would refer to some specific task."
+    },
+    {
+      "incorrect": "I put the spare blanket under bed.",
+      "correct": "I put the spare blanket under the bed.",
+      "why": "Here bed is a singular physical object, so a determiner is needed."
+    }
+  ],
+  "studyTips": [
+    "For each institutional sentence, label the person’s role first: learner, patient, prisoner, worshipper, visitor or contractor.",
+    "Make paired sentences using the same place: at school for lessons versus at the school to repair a window.",
+    "Practise short groups rather than isolated nouns: go to bed / sit on the bed; finish work / leave the office; go home / stay at home."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The pupils have lessons in temporary classrooms while their building is repaired. They are still going to ___ every weekday.",
+      "choices": [
+        "the school",
+        "a school building",
+        "school"
+      ],
+      "answerIndex": 2,
+      "feedback": "Go to school describes participation in education, even when classes take place away from the usual school building."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Amina’s university requested donated books. Her grandfather went to ___ to deliver them, not to study.",
+      "choices": [
+        "university",
+        "the university",
+        "at university"
+      ],
+      "answerIndex": 1,
+      "feedback": "The university refers back to the particular institution receiving the books; the grandfather visits as a delivery helper."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "After the trial, the court found Felix guilty and sentenced him to three years in ___.",
+      "choices": [
+        "a prison building",
+        "the prison",
+        "prison"
+      ],
+      "answerIndex": 2,
+      "feedback": "In prison describes the status of imprisonment rather than the location inside a particular building."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Kai is not a patient. He visits his sister at the specific medical building where she is recovering. In British English, he goes to ___ after work to see her.",
+      "choices": [
+        "hospital",
+        "the hospital",
+        "in hospital"
+      ],
+      "answerIndex": 1,
+      "feedback": "Kai is a visitor, so the hospital identifies the specific building. In hospital normally describes the patient’s status in British English."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The pupils are taking lessons in temporary rooms. Their headteacher went back to ___ (the specific original school building; write two words) to supervise repairs.",
+      "acceptedAnswers": [
+        "the school"
+      ],
+      "feedback": "The school refers to the known building being repaired, not to the activity of receiving an education."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "After her operation, Marta must remain ___ (as a patient; standard British English; two words) for several days.",
+      "acceptedAnswers": [
+        "in hospital"
+      ],
+      "feedback": "In hospital is the ordinary British English institutional expression for someone receiving hospital care."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "After packing, Priya slid her suitcase ___ (beneath the piece of furniture; begin with under; three words).",
+      "acceptedAnswers": [
+        "under the bed"
+      ],
+      "feedback": "Use the bed when bed is a physical item of furniture, rather than the state of sleeping or resting."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The college roof needed repairs, so an architect went to ___ (the specific college campus; two words) to inspect it.",
+      "acceptedAnswers": [
+        "the college"
+      ],
+      "feedback": "The college identifies the particular institution or site the architect visited, not student attendance."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the place expression: The visiting engineer went to university to inspect the campus power supply.",
+      "acceptedAnswers": [
+        "The visiting engineer went to the university to inspect the campus power supply."
+      ],
+      "feedback": "An engineer going to inspect a particular campus visits the university; go to university without the normally expresses study."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the place expression: The maintenance team went to prison to replace a window in the visiting area.",
+      "acceptedAnswers": [
+        "The maintenance team went to the prison to replace a window in the visiting area."
+      ],
+      "feedback": "The team went to the prison as workers visiting the specified building, not as people receiving a prison sentence."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct only the unnecessary article (work means the end of a normal working day): Nia finishes the work at six every weekday before the late shift begins.",
+      "acceptedAnswers": [
+        "Nia finishes work at six every weekday before the late shift begins."
+      ],
+      "feedback": "Finish work, without the, refers to the end of a working day. The work would suggest particular tasks being completed."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Although he had gone to bed an hour earlier, Milo left his phone beside bed.",
+      "acceptedAnswers": [
+        "Although he had gone to bed an hour earlier, Milo left his phone beside the bed."
+      ],
+      "feedback": "Go to bed means preparing to sleep and takes no article; beside the bed refers to a particular piece of furniture."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Nora attends lessons as a pupil. Her mother goes to the same school building to maintain its computers, not to study. Begin \"Nora goes\", join the actions with \"while\", and use \"goes\" for both people.",
+      "acceptedAnswers": [
+        "Nora goes to school while her mother goes to the school to maintain its computers."
+      ],
+      "feedback": "Nora goes to school as a pupil; her mother goes to the school as a visitor responsible for maintenance."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "A journalist visited a particular university yesterday to photograph its library. She did not enroll as a student. Begin \"The journalist went\" and end \"to photograph its library\".",
+      "acceptedAnswers": [
+        "The journalist went to the university to photograph its library."
+      ],
+      "feedback": "The university names a particular site visited by a journalist, not the experience of studying at university."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Your friend asks why Mei is not at work. Facts: Mei is recovering as a hospital patient; use British English. Begin with She (contractions allowed).",
+      "acceptedAnswers": [
+        "She is in hospital.",
+        "She's in hospital."
+      ],
+      "feedback": "British English uses in hospital for the patient role; the hospital is common in American English."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "State the contrast in one sentence: one person is serving a sentence in prison; their brother is visiting the specific prison building. Begin \"He is\".",
+      "acceptedAnswers": [
+        "He is in prison, and his brother is at the prison.",
+        "He is in prison, but his brother is at the prison."
+      ],
+      "feedback": "In prison describes a prisoner; at the prison identifies a place visited."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Rosa will attend a church service on Sunday. A photographer will visit the same church building on Monday to photograph its windows. Begin \"Rosa will go\", join the plans with \"but\", and use \"the photographer will go\" for the second plan.",
+      "acceptedAnswers": [
+        "Rosa will go to church on Sunday, but the photographer will go to the church on Monday to photograph its windows."
+      ],
+      "feedback": "Go to church means attend worship; go to the church means visit that particular building."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Lena was not going to sleep. She put a book on a particular bed. Say one past-tense sentence beginning \"Lena left\" and ending \"on the bed\".",
+      "acceptedAnswers": [
+        "Lena left her book on the bed."
+      ],
+      "feedback": "On the bed identifies the physical furniture; go to bed without the would refer to going to sleep."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Ivan ended his shift and returned to his home by bicycle. Begin \"After finishing work\" and use \"cycled home\" to complete the sentence.",
+      "acceptedAnswers": [
+        "After finishing work, Ivan cycled home."
+      ],
+      "feedback": "Finish work takes no article for the end of the shift, and cycled home uses home without to."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Use British English. Say exactly two sentences: Iris attends college as a student, and her aunt is at the same specific college to deliver equipment. Begin \"Iris\" and then \"Her aunt\".",
+      "acceptedAnswers": [
+        "Iris is at college. Her aunt is at the college to deliver equipment."
+      ],
+      "feedback": "At college describes Iris’s role as a student; at the college specifies the location of her aunt’s visit."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Omar studies at university, while his aunt went to the university yesterday to see an art exhibition.",
+      "prompt": "Why did the aunt go there?",
+      "choices": [
+        "To enroll as a new student",
+        "To attend an exhibition as a visitor",
+        "To teach her regular classes"
+      ],
+      "answerIndex": 1,
+      "feedback": "At university describes Omar’s student role; his aunt went to the university for an exhibition."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "My cousin was taken to hospital after the accident. I visited her at the hospital the next morning.",
+      "prompt": "Who was receiving medical care?",
+      "choices": [
+        "The speaker’s cousin",
+        "The speaker",
+        "Both relatives"
+      ],
+      "answerIndex": 0,
+      "feedback": "The cousin was taken to hospital as a patient; the speaker went as a visitor."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The children are still at school because their afternoon class is running late.",
+      "prompt": "Type the two-word place expression you hear after \"still\".",
+      "acceptedAnswers": [
+        "at school"
+      ],
+      "feedback": "At school refers to the pupils attending their educational institution."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "We went to the church to photograph its old windows, but we did not attend a service.",
+      "prompt": "What was the purpose of the visit?",
+      "choices": [
+        "To take part in worship",
+        "To meet a student",
+        "To photograph the building"
+      ],
+      "answerIndex": 2,
+      "feedback": "The church identifies the building, and the speaker explicitly says there was no service."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Dylan is in prison, and his lawyer is waiting outside the prison to speak with him.",
+      "prompt": "Which person is being held as a prisoner?",
+      "choices": [
+        "The lawyer",
+        "Dylan",
+        "Both of them"
+      ],
+      "answerIndex": 1,
+      "feedback": "In prison describes Dylan’s status; outside the prison gives the lawyer’s position."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I got home late, but I stayed up to read. At midnight I finally went to bed.",
+      "prompt": "What happened at midnight?",
+      "choices": [
+        "The speaker started sleeping or preparing to sleep.",
+        "The speaker arrived at home.",
+        "The speaker left for work."
+      ],
+      "answerIndex": 0,
+      "feedback": "Got home occurred earlier; went to bed signals the later move towards sleep."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The technician finishes work at half past five, then goes straight to the bus stop.",
+      "prompt": "Type the two-word job-related expression heard before \"at half past five\".",
+      "acceptedAnswers": [
+        "finishes work"
+      ],
+      "feedback": "Finishes work refers to the end of the working day, without the."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "After the concert, we went home and made tea.",
+      "prompt": "Type the two-word movement expression heard just before \"and made tea\".",
+      "acceptedAnswers": [
+        "went home"
+      ],
+      "feedback": "Went home needs no to before home."
+    }
+  ]
+}

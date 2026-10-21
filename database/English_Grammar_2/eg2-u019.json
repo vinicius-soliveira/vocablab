@@ -1,0 +1,414 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg2-u019",
+  "title": "Future Arrangements and Timetables",
+  "level": "B1",
+  "topicId": "eg2-u019-future-arrangements-timetables",
+  "summary": "Use the present continuous to describe personal arrangements already made, and the present simple for published timetables or fixed programmes. Ask about dates and times, make negative statements, and recognise when a present tense refers to the future.",
+  "learningObjectives": [
+    "Describe a confirmed future personal arrangement using am, is or are plus an -ing verb.",
+    "Ask and answer questions about departure times and scheduled events using the present simple.",
+    "Distinguish a personal meeting from a public timetable when both concern a future date.",
+    "Use present continuous forms for imminent movement and communicate when a planned event is not happening."
+  ],
+  "explanation": [
+    {
+      "heading": "Arrangements already in place",
+      "body": "Use the present continuous (am/is/are + verb-ing) for a future activity when its details have already been arranged. A booking, agreed meeting place or confirmed appointment makes the future meaning clear. Add a future time expression when the date is not obvious. This form describes an arrangement, not something happening at this instant.",
+      "example": "I am having lunch with the design team on Thursday; we booked a table."
+    },
+    {
+      "heading": "Questions and cancelled plans",
+      "body": "To ask about an arrangement, place am, is or are before the subject. For a negative arrangement, use am not, is not or are not plus the -ing form. You can use contractions in natural conversation. A question such as “Are you working tomorrow?” usually asks about a specific plan rather than someone’s usual working habits.",
+      "example": "Are you visiting the new office tomorrow? No, I am working from home."
+    },
+    {
+      "heading": "Public schedules and fixed programmes",
+      "body": "Use the present simple for times given by a timetable, calendar or published programme. Common subjects include buses, classes, performances, opening hours and scheduled meetings. For questions with most verbs, use do or does plus the base form; third-person statements usually take -s or -es.",
+      "example": "The last ferry leaves at 9:20 tonight."
+    },
+    {
+      "heading": "A person following a fixed timetable",
+      "body": "The present simple is also possible for people whose activities are set like a timetable, especially the start or finish of work, school or a course. For an individual social arrangement, the present continuous is normally the clearer choice. The distinction concerns the type of plan, not the distance into the future.",
+      "example": "I start my evening course next Tuesday, but I am meeting my tutor on Monday."
+    },
+    {
+      "heading": "Immediate movement and appointments",
+      "body": "Present continuous often describes movement about to happen with verbs such as leave, go and come. When an appointment or exam is already scheduled, you can also use have or have got plus the noun; the calendar context indicates the future. These uses do not require the future auxiliary will.",
+      "example": "I am leaving now. I have a driving lesson tomorrow morning."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A personal arrangement versus an official time",
+      "left": {
+        "label": "Present continuous: personal arrangement",
+        "example": "I am meeting Sofia outside the library at five.",
+        "note": "The speakers have arranged a meeting."
+      },
+      "right": {
+        "label": "Present simple: timetable",
+        "example": "The library closes at six.",
+        "note": "The closing time is part of the library’s schedule."
+      }
+    },
+    {
+      "title": "One particular plan versus a recurring habit",
+      "left": {
+        "label": "Present continuous: one arranged event",
+        "example": "We are eating at a small café this Friday.",
+        "note": "This describes a particular future booking."
+      },
+      "right": {
+        "label": "Present simple: repeated habit",
+        "example": "We eat at home most Fridays.",
+        "note": "This describes what normally happens, not a particular booking."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Our neighbours are moving into their new flat next weekend.",
+      "note": "A specific move has been arranged for next weekend."
+    },
+    {
+      "sentence": "Does the online seminar begin at half past one?",
+      "note": "Does plus the base verb asks about the official start time."
+    },
+    {
+      "sentence": "I am not driving to the conference tomorrow; my colleague is giving me a lift.",
+      "note": "A negative continuous form cancels one plan; another continuous form states an arrangement."
+    },
+    {
+      "sentence": "The second part of the course starts in November.",
+      "note": "Present simple can express a fixed course schedule."
+    },
+    {
+      "sentence": "Just a second, I am coming downstairs now.",
+      "note": "Present continuous can express movement that is beginning immediately."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I meet Hana tomorrow at four.",
+      "correct": "I am meeting Hana tomorrow at four.",
+      "why": "For a particular personal meeting already arranged, the continuous is normally used rather than a habitual-sounding present simple."
+    },
+    {
+      "incorrect": "What time does the lecture starts tomorrow?",
+      "correct": "What time does the lecture start tomorrow?",
+      "why": "After does, use the base verb start, without an extra -s."
+    },
+    {
+      "incorrect": "She are working late on Wednesday.",
+      "correct": "She is working late on Wednesday.",
+      "why": "Use is with a singular third-person subject before the -ing form."
+    },
+    {
+      "incorrect": "The bus leaving at 6:10 according to the timetable.",
+      "correct": "The bus leaves at 6:10 according to the timetable.",
+      "why": "A published departure is normally given in the present simple, and the original sentence lacks a finite verb."
+    }
+  ],
+  "studyTips": [
+    "Underline the evidence of an arrangement, such as booked, agreed or confirmed, before choosing a future present continuous.",
+    "For transport or event times, ask a do/does question and check that the main verb stays in its base form.",
+    "Practise describing one appointment and one public schedule for the same day; explain why the verb forms differ."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Mira and I confirmed our appointment yesterday. Tomorrow at three, I ___ her at the art studio. Choose the form that presents our personal arrangement.",
+      "choices": [
+        "meet",
+        "am meeting",
+        "meets"
+      ],
+      "answerIndex": 1,
+      "feedback": "Am meeting describes a particular meeting arranged in advance; meet or meets does not naturally describe this one-off personal appointment."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "According to the printed timetable, what time ___ the morning boat depart?",
+      "choices": [
+        "does",
+        "is",
+        "do"
+      ],
+      "answerIndex": 0,
+      "feedback": "Does introduces a present-simple question about an official timetable; depart stays in the base form."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The tickets and seats are confirmed. Choose the sentence that describes our arrangement for Saturday.",
+      "choices": [
+        "We go to the theatre last Saturday.",
+        "We are go to the theatre on Saturday.",
+        "We are going to the theatre on Saturday."
+      ],
+      "answerIndex": 2,
+      "feedback": "Are going is the present continuous of go, used here because the Saturday visit is arranged."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The museum has announced its new opening hours. On Fridays it ___ at nine.",
+      "choices": [
+        "opening",
+        "opens",
+        "open"
+      ],
+      "answerIndex": 1,
+      "feedback": "Opens is the third-person present simple form for a regular or published opening time."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "We booked our flights yesterday. We ___ to Porto next Thursday. (fly; use the present continuous)",
+      "acceptedAnswers": [
+        "are flying"
+      ],
+      "feedback": "The booking makes the Thursday journey an existing arrangement, so use are flying."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "According to the conference programme, the first talk ___ at 8:45 tomorrow. (begin; use the present simple)",
+      "acceptedAnswers": [
+        "begins"
+      ],
+      "feedback": "The programme gives a fixed start time: the first talk begins."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "I cannot join you for dinner tomorrow. I ___ the evening shift. (work; use the present continuous)",
+      "acceptedAnswers": [
+        "am working"
+      ],
+      "feedback": "Am working describes a particular shift already on the calendar."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "What time ___ the local train arrive on Saturday? (do/does; present-simple timetable question)",
+      "acceptedAnswers": [
+        "does"
+      ],
+      "feedback": "The subject the local train is singular, so use does before the base verb arrive."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence. Keep the confirmed arrangement in the present continuous: I meeting Clara after class on Wednesday.",
+      "acceptedAnswers": [
+        "I am meeting Clara after class on Wednesday.",
+        "I'm meeting Clara after class on Wednesday."
+      ],
+      "feedback": "The auxiliary am is necessary before meeting. Both I am and I’m are valid."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence about a published timetable: What time does the gallery opens tomorrow?",
+      "acceptedAnswers": [
+        "What time does the gallery open tomorrow?"
+      ],
+      "feedback": "Does already marks the third-person question, so use open, not opens."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence about a confirmed work shift: Are she working this Saturday?",
+      "acceptedAnswers": [
+        "Is she working this Saturday?"
+      ],
+      "feedback": "Use is, not are, with she in a present-continuous question."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence about someone about to leave: I am leave now because my taxi is waiting.",
+      "acceptedAnswers": [
+        "I am leaving now because my taxi is waiting.",
+        "I'm leaving now because my taxi is waiting."
+      ],
+      "feedback": "After am, use the -ing form leaving to describe movement that is beginning now."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Facts: Maya arranged to meet Leo at five tomorrow. Say one sentence beginning “Maya” using the present continuous of meet.",
+      "acceptedAnswers": [
+        "Maya is meeting Leo at five tomorrow.",
+        "Maya's meeting Leo at five tomorrow."
+      ],
+      "feedback": "Is meeting marks a confirmed future arrangement with a specified time."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask about the published departure time of the evening ferry. Begin with “What time” and use the verb leave.",
+      "acceptedAnswers": [
+        "What time does the evening ferry leave?"
+      ],
+      "feedback": "A timetable question uses does plus leave in its base form."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "A colleague asks if you are free on Tuesday. Say: “No,” followed by the fact that you have arranged lunch with Mia on Tuesday. Use have lunch in the present continuous.",
+      "acceptedAnswers": [
+        "No, I am having lunch with Mia on Tuesday.",
+        "No, I'm having lunch with Mia on Tuesday."
+      ],
+      "feedback": "Am having lunch describes the prearranged Tuesday meal."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Turn this timetable fact into a question about the time: “The workshop begins at nine on Friday.” Begin with “What time”.",
+      "acceptedAnswers": [
+        "What time does the workshop begin on Friday?"
+      ],
+      "feedback": "In a present-simple question, does is followed by the base form begin."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "You have a confirmed dentist appointment at three on Thursday. Say one sentence beginning “I” and use see in the present continuous.",
+      "acceptedAnswers": [
+        "I am seeing the dentist at three on Thursday.",
+        "I'm seeing the dentist at three on Thursday."
+      ],
+      "feedback": "Am seeing makes this a particular scheduled appointment."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Your taxi has arrived and you are about to go. Tell your coworker in one short sentence beginning with “I” that you are leaving now.",
+      "acceptedAnswers": [
+        "I am leaving now.",
+        "I'm leaving now."
+      ],
+      "feedback": "Am leaving is commonly used for a departure beginning immediately."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say two sentences. Facts: you and a friend have reserved seats at a concert on Sunday; the published concert start time is seven. Use “We are going to the concert on Sunday” and then “It starts at seven”.",
+      "acceptedAnswers": [
+        "We are going to the concert on Sunday. It starts at seven.",
+        "We're going to the concert on Sunday. It starts at seven."
+      ],
+      "feedback": "The first sentence is a personal arrangement; the second states the concert’s scheduled start time."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Lena cancelled her Monday trip. State that she is not travelling on Monday. Use the present continuous and begin with “Lena”.",
+      "acceptedAnswers": [
+        "Lena isn't travelling on Monday.",
+        "Lena is not travelling on Monday.",
+        "Lena isn't traveling on Monday.",
+        "Lena is not traveling on Monday."
+      ],
+      "feedback": "Is not travelling expresses that the specific Monday plan is no longer happening."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I am collecting the keys from the agent on Wednesday, but the office closes at four.",
+      "prompt": "What has the speaker personally arranged?",
+      "choices": [
+        "An appointment to collect keys",
+        "The office closing time",
+        "A change to the office timetable"
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker has arranged to collect the keys on Wednesday. The closing time is an office schedule, not their personal arrangement."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The coach to Leeds leaves at seven fifteen, and I am meeting Ava at the terminal at seven.",
+      "prompt": "When is the speaker meeting Ava?",
+      "choices": [
+        "At seven fifteen",
+        "At seven",
+        "At eight"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker says they are meeting Ava at seven, before the coach departs at seven fifteen."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I am visiting my cousins on Saturday. We have already bought the train tickets.",
+      "prompt": "Type the two-word verb phrase immediately before “my cousins”.",
+      "acceptedAnswers": [
+        "am visiting"
+      ],
+      "feedback": "Am visiting describes a future arrangement; it is spoken immediately before my cousins."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Do not wait for me tonight. I am working the late shift, and I finish at eleven.",
+      "prompt": "Why can the speaker not join the others tonight?",
+      "choices": [
+        "They are travelling abroad.",
+        "They have an appointment at the bank.",
+        "They are working late."
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker is working the late shift tonight; the finishing time of eleven is a separate detail."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The school play starts at half past six, so we are meeting at six outside the main entrance.",
+      "prompt": "What time does the performance officially start?",
+      "choices": [
+        "Six thirty",
+        "Six o’clock",
+        "Seven thirty"
+      ],
+      "answerIndex": 0,
+      "feedback": "The published event begins at half past six; the friends have arranged to meet earlier, at six."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The bus does not run on Sunday, so I am cycling to the market with Paul that morning.",
+      "prompt": "How will the speaker travel to the market on Sunday?",
+      "choices": [
+        "By bus",
+        "By bicycle with Paul",
+        "By taxi alone"
+      ],
+      "answerIndex": 1,
+      "feedback": "Because the bus does not run on Sunday, the speaker has arranged to cycle with Paul."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "According to the programme, the talk begins at two, and the questions start at three.",
+      "prompt": "Type the one-word verb immediately after “the talk”.",
+      "acceptedAnswers": [
+        "begins"
+      ],
+      "feedback": "Begins is present simple because the speaker is reporting a fixed programme time."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Sorry, I cannot stay. I am heading home right now because my sister is waiting.",
+      "prompt": "Type the two-word verb phrase immediately after “I”.",
+      "acceptedAnswers": [
+        "am heading"
+      ],
+      "feedback": "Am heading is a present-continuous phrase describing movement about to happen."
+    }
+  ]
+}
