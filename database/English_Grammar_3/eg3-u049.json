@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u049",
+  "title": "No, None (of), Not Any and Emphatic Negatives",
+  "level": "C1",
+  "topicId": "eg3-u049-no-none-of-and-not-any",
+  "summary": "Choose between no + noun, none as a pronoun, none of + a defined group and not any; control negative placement, singular/plural reference, emphatic patterns and conversational fixed expressions.",
+  "learningObjectives": [
+    "Distinguish a negative determiner, an independent negative pronoun and none of followed by an identifiable set.",
+    "Use no or related negative words naturally at the beginnings of clauses and after coordinating conjunctions, recognising formal not a as a limited alternative.",
+    "Choose singular and plural nouns after no according to whether one or several items would normally be expected.",
+    "Construct emphatic negative phrases and interpret fixed informal responses without treating them as interchangeable grammatical structures."
+  ],
+  "explanation": [
+    {
+      "heading": "Choosing no, none and none of",
+      "body": "No directly determines a noun: no tickets, no explanation, no water. None replaces an understood noun phrase and normally stands without a following noun: We ordered six samples, but none arrived. None of introduces a specified set, such as none of these samples or none of the volunteers. Not any uses a separate negative auxiliary or verb: We did not receive any samples. Choosing no or none often adds emphasis, though tone depends on context.",
+      "example": "We expected several deliveries, but none of the parcels reached the office."
+    },
+    {
+      "heading": "Clause-initial negatives and conjunctions",
+      "body": "A negative subject normally begins with no, nobody, nothing or a suitable none of phrase, not with not any as a subject. These forms are also natural just after and, but or that. More literary language can begin with not a + singular countable noun, especially to stress complete absence. Keep the distinction between ordinary grammar and a deliberate formal effect.",
+      "example": "No visitors entered the gallery, and nobody contacted the curator."
+    },
+    {
+      "heading": "Singular versus plural after no",
+      "body": "Use no with uncountable nouns, singular countable nouns or plural countable nouns, as the situation requires. A singular is natural when one response or occurrence would be expected, such as no reply to a call; the plural fits contexts where several would be possible, such as no replies to numerous invitations. No answer and no answers can both be correct in different contexts; the choice is not a mechanical rule.",
+      "example": "The helpdesk sent five reminders but received no replies; my own call got no answer."
+    },
+    {
+      "heading": "Strong negatives with one, amount and whatsoever",
+      "body": "Not one and not a single strongly emphasise the absence of even one countable thing; not one of can be followed by a specified plural group. No amount of is used with uncountable nouns to emphasise that even a large quantity would not change an outcome. Whatsoever can follow a negative noun phrase for additional emphasis. The intended noun type matters: no amount of funding, but not one of the applications.",
+      "example": "Not a single reviewer approved the proposal, and no amount of persuasion changed the result."
+    },
+    {
+      "heading": "Everyday fixed expressions with no",
+      "body": "Several common responses are idiomatic rather than freely productive determiner patterns. No wonder means that something is unsurprising; no idea means not knowing; no comment declines to give an opinion. No chance and no way express strong refusal or disbelief, while no problem and no bother can signal willingness or that a request causes little difficulty. Their appropriateness depends on relationship and tone.",
+      "example": "No wonder the audience looked confused: the instructions had been left out."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Stating an ordinary absence versus stressing it",
+      "left": {
+        "label": "Not any after a negative verb",
+        "example": "We did not receive any applications.",
+        "note": "A straightforward grammatical negative with an auxiliary verb."
+      },
+      "right": {
+        "label": "No + noun",
+        "example": "We received no applications.",
+        "note": "A compact alternative that can make the absence more salient."
+      }
+    },
+    {
+      "title": "Referring to a negative quantity or a defined set",
+      "left": {
+        "label": "None without a complement",
+        "example": "I ordered four notebooks, but none arrived.",
+        "note": "None stands for the understood notebooks."
+      },
+      "right": {
+        "label": "None of + specified group",
+        "example": "None of those notebooks arrived.",
+        "note": "Of introduces the particular group being considered."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "There were no spare keys in the cabinet.",
+      "note": "No determines a plural countable noun and denies the existence of any spare keys there."
+    },
+    {
+      "sentence": "The committee considered eight designs, but none of them met the specification.",
+      "note": "None of refers back to a defined set of eight designs."
+    },
+    {
+      "sentence": "No further comments were submitted, and nobody requested another meeting.",
+      "note": "Clause subjects use no and nobody rather than bare not any."
+    },
+    {
+      "sentence": "Not one of the interviewees disputed the published figures.",
+      "note": "Not one of strongly emphasises that the number was zero."
+    },
+    {
+      "sentence": "No wonder the road was closed: a fallen tree was blocking both lanes.",
+      "note": "No wonder expresses that the closure is unsurprising given the cause."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "None of candidates completed the optional task.",
+      "correct": "None of the candidates completed the optional task.",
+      "why": "None of needs a determiner or other expression identifying the group; candidates alone is not sufficient here."
+    },
+    {
+      "incorrect": "The team received no informations about the delay.",
+      "correct": "The team received no information about the delay.",
+      "why": "Information is uncountable and cannot take a regular plural ending."
+    },
+    {
+      "incorrect": "There was no emails in the shared inbox.",
+      "correct": "There were no emails in the shared inbox.",
+      "why": "Emails is plural, so the existential verb must agree with the plural noun."
+    },
+    {
+      "incorrect": "Not one of applicants received an invitation.",
+      "correct": "Not one of the applicants received an invitation.",
+      "why": "Not one of takes a specified group: the applicants, these applicants or a similar determined expression."
+    }
+  ],
+  "studyTips": [
+    "Label the negative function before choosing a form: no determines a noun; none replaces it; none of selects a defined group.",
+    "Make paired statements about the same event using did not ... any and ... no, then explain any difference in emphasis.",
+    "Create a realistic context for one missing reply versus several missing replies; use no answer in the first and no answers in the second."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Four proposals were reviewed. Complete: \"We approved ___ of them.\" Choose the negative pronoun that refers to the group.",
+      "choices": [
+        "none",
+        "no",
+        "not any"
+      ],
+      "answerIndex": 0,
+      "feedback": "None of them is the correct partitive negative form. No needs a noun, while not any cannot follow an affirmative verb in this construction."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which sentence has a natural negative subject at the beginning of a neutral statement?",
+      "choices": [
+        "Not any invitations arrived yesterday.",
+        "No invitations arrived yesterday.",
+        "Any invitations did not arrive yesterday."
+      ],
+      "answerIndex": 1,
+      "feedback": "No invitations is an ordinary clause-initial negative subject; not any is unsuitable here."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "A writer wants to emphasise that not even one of the twelve trainees passed. Which phrase correctly begins the sentence?",
+      "choices": [
+        "No one of the trainees",
+        "Not a single of the trainees",
+        "Not one of the trainees"
+      ],
+      "answerIndex": 2,
+      "feedback": "Not one of + a specified plural group emphasises zero successful trainees."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The speaker finds an outcome unsurprising. Which fixed response expresses that meaning?",
+      "choices": [
+        "No wonder!",
+        "No comment!",
+        "No chance!"
+      ],
+      "answerIndex": 0,
+      "feedback": "No wonder expresses that the information explains an otherwise surprising event."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with the one-word negative determiner: \"The office received ___ complaints during the trial.\"",
+      "acceptedAnswers": [
+        "no"
+      ],
+      "feedback": "No determines complaints directly; not any would require a negative verb in a neutral construction."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: \"Six batteries were tested, but ___ of them worked.\"",
+      "acceptedAnswers": [
+        "none"
+      ],
+      "feedback": "None of them refers back to the six batteries and means zero worked."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete the emphatic two-word phrase: \"___ (not / one) of the five applicants met the requirement.\"",
+      "acceptedAnswers": [
+        "not one"
+      ],
+      "feedback": "Not one of selects the defined set and highlights that not a single applicant met the requirement."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the two-word negative expression: \"There is ___ (no / amount) of advertising that can repair a faulty product.\"",
+      "acceptedAnswers": [
+        "no amount"
+      ],
+      "feedback": "No amount of introduces an uncountable quantity and stresses that even a large quantity would not help."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: None of volunteers has been contacted about the schedule.",
+      "acceptedAnswers": [
+        "None of the volunteers has been contacted about the schedule.",
+        "None of the volunteers have been contacted about the schedule."
+      ],
+      "feedback": "A defined set is needed after none of; both singular and plural verb agreement can occur with none of + plural group."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: There was no messages on the answering machine.",
+      "acceptedAnswers": [
+        "There were no messages on the answering machine."
+      ],
+      "feedback": "The plural noun messages requires were in an existential construction."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: The company provided no advices about the new policy.",
+      "acceptedAnswers": [
+        "The company provided no advice about the new policy."
+      ],
+      "feedback": "Advice is uncountable and cannot take the plural form advices."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: Not one of reviewers supported the conclusion.",
+      "acceptedAnswers": [
+        "Not one of the reviewers supported the conclusion."
+      ],
+      "feedback": "Not one of must select an identified group, here the reviewers."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "State the absence of tickets using exactly these facts: There / be / no / tickets / left. Use the past simple.",
+      "acceptedAnswers": [
+        "There were no tickets left."
+      ],
+      "feedback": "There were agrees with the plural tickets, and no determines the noun."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Respond in one complete sentence. Facts: We / receive / no / updates / yesterday. Use past simple.",
+      "acceptedAnswers": [
+        "We received no updates yesterday."
+      ],
+      "feedback": "No updates is a compact negative noun phrase after received."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Rewrite with a defined group and a negative pronoun. Facts: None / of / the / samples / survive / the test. Use past simple.",
+      "acceptedAnswers": [
+        "None of the samples survived the test."
+      ],
+      "feedback": "None of the samples correctly selects a particular set."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Correct this sentence aloud: \"There was no chairs beside the stage.\"",
+      "acceptedAnswers": [
+        "There were no chairs beside the stage."
+      ],
+      "feedback": "The verb agrees with plural chairs."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Emphasise that zero of four proposals was accepted. Begin exactly with \"Not one of\" and use the words the four proposals / was accepted.",
+      "acceptedAnswers": [
+        "Not one of the four proposals was accepted."
+      ],
+      "feedback": "Not one of stresses the absence of even a single accepted proposal."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Express an unsurprising outcome in one complete sentence. Facts: No wonder / the room / be / cold. Use present simple.",
+      "acceptedAnswers": [
+        "No wonder the room is cold."
+      ],
+      "feedback": "No wonder is a fixed expression showing that the temperature is unsurprising."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the sentence aloud: \"None of participants arrived on time.\"",
+      "acceptedAnswers": [
+        "None of the participants arrived on time."
+      ],
+      "feedback": "The identified group after none of needs the determiner the."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say these two statements in this order, with full forms. Ordinary negative: We / did not receive / any replies. Emphatic negative: We / received / no replies.",
+      "acceptedAnswers": [
+        "We did not receive any replies. We received no replies."
+      ],
+      "feedback": "Not any follows a negative auxiliary; no is a negative determiner in the affirmative-form clause."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The research panel received nine applications, but none of them satisfied the minimum criteria.",
+      "prompt": "How many of the applications met the criteria?",
+      "choices": [
+        "All nine",
+        "None",
+        "Most of them"
+      ],
+      "answerIndex": 1,
+      "feedback": "None of them refers to the nine applications and means zero qualified."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "There was not any equipment available for the experiment, so the team postponed the session.",
+      "prompt": "Why was the session postponed?",
+      "choices": [
+        "No equipment was available",
+        "The instructions were incomplete",
+        "The room was too small"
+      ],
+      "answerIndex": 0,
+      "feedback": "Not any equipment denotes a total lack of the equipment required."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Not one of the gates was unlocked when the caretaker checked the building.",
+      "prompt": "Transcribe the five-word expression identifying the completely unsuccessful group.",
+      "acceptedAnswers": [
+        "not one of the gates"
+      ],
+      "feedback": "Not one of the gates highlights that zero gates were unlocked."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The receptionist checked the records twice, but there was no message for the visitor.",
+      "prompt": "What did the receptionist fail to find?",
+      "choices": [
+        "The visitor’s address",
+        "A message for the visitor",
+        "The appointment list"
+      ],
+      "answerIndex": 1,
+      "feedback": "No message denies the existence of a message addressed to the visitor."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "There were no tables in the hall, although the organisers had already arranged fifty chairs.",
+      "prompt": "Which furniture was missing?",
+      "choices": [
+        "Chairs",
+        "Windows",
+        "Tables"
+      ],
+      "answerIndex": 2,
+      "feedback": "No tables means that the hall had zero tables, unlike the chairs mentioned."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "No wonder the committee rejected the proposal; its cost estimates were missing.",
+      "prompt": "What attitude does no wonder convey?",
+      "choices": [
+        "The rejection is not surprising",
+        "The speaker refuses to comment",
+        "The result is impossible to understand"
+      ],
+      "answerIndex": 0,
+      "feedback": "No wonder introduces a reason why the rejection is unsurprising."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The participants submitted their forms, but none of them included the required signature.",
+      "prompt": "Transcribe the three-word negative expression referring to the submitted forms.",
+      "acceptedAnswers": [
+        "none of them"
+      ],
+      "feedback": "None of them refers to the set of submitted forms and means not a single one contained the signature."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We searched every storage cupboard and found no supplies whatsoever.",
+      "prompt": "Transcribe the three-word phrase stating the emphatic absence of supplies.",
+      "acceptedAnswers": [
+        "no supplies whatsoever"
+      ],
+      "feedback": "Whatsoever strengthens the negative noun phrase no supplies."
+    }
+  ]
+}

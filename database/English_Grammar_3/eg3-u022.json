@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u022",
+  "title": "Using the Passive: Agents, Emphasis and Information Flow",
+  "level": "C1",
+  "topicId": "eg3-u022-using-passives",
+  "summary": "Use passive voice as a discourse choice, not merely a tense transformation: omit irrelevant or unknown agents, adopt an appropriate factual or formal style, organise known topics before new information, manage heavy subjects, and prefer an anticipatory it-clause when reporting propositions.",
+  "learningObjectives": [
+    "Choose agentless passives where an agent is unknown, general, obvious or irrelevant, particularly in reports and process descriptions.",
+    "Contrast informal active clauses with impersonal passives and form natural by-phrases only when the agent matters.",
+    "Use passive clauses and related noun subjects to organise topic-comment information and keep lengthy agents in natural end positions.",
+    "Use impersonal it + passive reporting verb + that-clause in preference to an unwieldy that-clause as subject."
+  ],
+  "explanation": [
+    {
+      "heading": "Why passive voice can omit an agent",
+      "body": "Passive clauses typically move the affected person, thing or event into subject position; the agent may be expressed with by but is often omitted. This is useful when the agent is not known, represents people generally, is unimportant to the message or is obvious from the situation. A passive should not be used merely to make a sentence sound formal when the doer is central or when the result would be obscure. Keep the verbal form accurate: forms of be plus a past participle, or a modal plus be and a past participle.",
+      "example": "The missing documents were recovered from the storage room during the inspection."
+    },
+    {
+      "heading": "Factual descriptions and differences in register",
+      "body": "Descriptions of methods, technical processes and regulations frequently use passives to foreground procedures and outcomes: samples are labelled, results are compared, and conclusions are drawn. In informal speech, people, they, someone or we are often natural subjects even when the precise agent is unknown. Formal reporting may prefer an agentless passive, but the active remains correct when a responsible person or team is important. Preserve the intended tense and aspect when reformulating.",
+      "example": "The final measurements will be recorded after the device has warmed up."
+    },
+    {
+      "heading": "Nominalisation and noun-based subjects",
+      "body": "Some actions have corresponding nouns, such as assess/assessment, approve/approval or install/installation. A writer may turn the event into a noun phrase functioning as subject and then use a different passive verb: The assessment will be completed in June. This is a way to discuss the process as a whole, not a mechanical substitution guaranteed to work for every verb. Choose the new passive verb so the meaning stays consistent.",
+      "example": "The evaluation of the proposals will be finalised before the meeting."
+    },
+    {
+      "heading": "Passive choice and the topic-comment flow",
+      "body": "English often begins with a topic already established and ends with new or important information. A passive can keep the topic at the front: The rare manuscript was discovered by a local historian. A by-phrase may also defer a long or complicated agent until after a short verb phrase, making a sentence easier to process. Active and passive versions can both be correct, but may lead readers to focus on different elements. An unnecessary by-phrase can defeat the reason for using a passive.",
+      "example": "The newly restored mural was unveiled by a group of former students and their teachers."
+    },
+    {
+      "heading": "Reporting propositions with anticipatory it",
+      "body": "When reporting an opinion, claim or belief whose content is a whole clause, the pattern It + passive reporting verb + that-clause is common and natural: It was assumed that the road would reopen. Making the entire that-clause the subject often sounds awkward and heavy: That the road would reopen was assumed ... . Here it is a grammatical placeholder, not the subject of the original assertion. This lesson addresses that organisation; more detailed personal reporting-passive patterns can be studied separately.",
+      "example": "It was widely expected that the election result would be announced by midnight."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Agentless passive versus conversational active",
+      "left": {
+        "label": "Process-focused passive",
+        "example": "The samples will be analysed tomorrow.",
+        "note": "The procedure and its timing matter more than who performs it."
+      },
+      "right": {
+        "label": "Conversational active",
+        "example": "They will analyse the samples tomorrow.",
+        "note": "An informal report may use they without naming the agent."
+      }
+    },
+    {
+      "title": "Organising a reported proposition",
+      "left": {
+        "label": "Natural anticipatory it",
+        "example": "It was believed that the bridge was unsafe.",
+        "note": "It introduces the reporting passive; the complex proposition follows."
+      },
+      "right": {
+        "label": "Heavy that-clause subject",
+        "example": "That the bridge was unsafe was believed by many people.",
+        "note": "Grammatical in limited contexts, but usually awkward compared with the it-clause."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The damaged crates were removed before the exhibition opened.",
+      "note": "The agent is omitted because the removal is the relevant event."
+    },
+    {
+      "sentence": "The samples are stored at a constant temperature during the trial.",
+      "note": "The passive suits a general factual description of a procedure."
+    },
+    {
+      "sentence": "The renovation of the hall will be finished by early winter.",
+      "note": "The action is nominalised as renovation, which then becomes the subject of a new passive."
+    },
+    {
+      "sentence": "The shortlist was reviewed by a committee drawn from six departments.",
+      "note": "A short passive introduces the topic, while the long agent appears at the end."
+    },
+    {
+      "sentence": "It was reported that the ferry service had resumed.",
+      "note": "An anticipatory it-clause reports the content without placing a lengthy proposition first."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The figures have verified independently before publication.",
+      "correct": "The figures have been verified independently before publication.",
+      "why": "A perfect passive needs have been + past participle, here have been verified."
+    },
+    {
+      "incorrect": "In the test, the liquid is pour into the container.",
+      "correct": "In the test, the liquid is poured into the container.",
+      "why": "A present-simple procedural passive requires is + past participle poured."
+    },
+    {
+      "incorrect": "That the building was damaged was announced at the press conference.",
+      "correct": "It was announced at the press conference that the building was damaged.",
+      "why": "An anticipatory it-passive places the substantial that-clause after the reporting verb."
+    },
+    {
+      "incorrect": "The restoration was finished by the end of July by them.",
+      "correct": "The restoration was finished by the end of July.",
+      "why": "The vague by them is unnecessary when the result and deadline are the focus."
+    }
+  ],
+  "studyTips": [
+    "Underline what the reader already knows in a paragraph, then decide whether the active or passive voice should put that topic first.",
+    "Recast a neutral process description in an informal they-form and in an agentless passive without changing tense or event meaning.",
+    "Practise moving long reported propositions after It was reported/expected/assumed that, and evaluate clarity and emphasis."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A lab report focuses on an unknown agent and the finished measurement. Which sentence fits that focus?",
+      "choices": [
+        "A technician measured the pressure, whoever it was.",
+        "They were measuring the pressure, someone.",
+        "The pressure was measured after the test."
+      ],
+      "answerIndex": 2,
+      "feedback": "Was measured foregrounds the pressure measurement and omits the unknown or unimportant agent."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correctly formed procedural passive.",
+      "choices": [
+        "Every component is inspected before packing.",
+        "Every component is inspect before packing.",
+        "Every component inspected before packing."
+      ],
+      "answerIndex": 0,
+      "feedback": "A present-simple passive needs is + past participle inspected."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "A public announcement reports a widely held opinion. Which version handles the that-clause naturally?",
+      "choices": [
+        "That the road would close was believed.",
+        "It was believed that the road would close.",
+        "It was believing that the road would close."
+      ],
+      "answerIndex": 1,
+      "feedback": "It was believed that ... uses an anticipatory subject and a reporting passive."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The focus is the approval process, not the individuals involved. Which sentence uses a noun as passive subject?",
+      "choices": [
+        "They will approve the budget next week.",
+        "The budget has approval next week.",
+        "The approval of the budget will be confirmed next week."
+      ],
+      "answerIndex": 2,
+      "feedback": "The approval of the budget nominalises the action and becomes subject of a new passive, will be confirmed."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Use a past-simple agentless passive: \"The exhibition ___ (open) to the public on Friday.\" Write the full verb phrase.",
+      "acceptedAnswers": [
+        "was opened"
+      ],
+      "feedback": "Was opened is a past-simple passive that can omit the person who opened it."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Describe a current procedure: \"Every parcel ___ (check) before dispatch.\" Write the present-simple passive phrase.",
+      "acceptedAnswers": [
+        "is checked"
+      ],
+      "feedback": "Is checked presents a general procedure while keeping the parcel as subject."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Convert a news report to an anticipatory passive: \"It ___ (report) that the bridge had reopened.\" Write the past-simple passive phrase.",
+      "acceptedAnswers": [
+        "was reported"
+      ],
+      "feedback": "It was reported that ... introduces the reported proposition without a heavy clausal subject."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Describe future passive completion: \"The inspection of the site ___ (complete) by next Thursday.\" Write the full future passive verb phrase.",
+      "acceptedAnswers": [
+        "will be completed"
+      ],
+      "feedback": "Will be completed is a future passive referring to the inspection as an event."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the passive formation: The latest figures have reviewed by independent researchers.",
+      "acceptedAnswers": [
+        "The latest figures have been reviewed by independent researchers."
+      ],
+      "feedback": "Present-perfect passive requires have been + past participle."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the procedure description: Each ticket is scan before boarding.",
+      "acceptedAnswers": [
+        "Each ticket is scanned before boarding."
+      ],
+      "feedback": "Use the past participle scanned after is in a simple passive."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Rewrite with a natural anticipatory it-passive: That the delay would continue was expected by everyone.",
+      "acceptedAnswers": [
+        "It was expected that the delay would continue."
+      ],
+      "feedback": "The reporting proposition moves after it was expected, avoiding an unwieldy that-clause subject."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Remove the irrelevant vague agent without changing the passive: The equipment was repaired by someone overnight.",
+      "acceptedAnswers": [
+        "The equipment was repaired overnight."
+      ],
+      "feedback": "Omit by someone when the identity of the agent is unknown and unimportant."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Report a process without naming the agent. Facts: The reports / check / every week. Use present-simple passive.",
+      "acceptedAnswers": [
+        "The reports are checked every week."
+      ],
+      "feedback": "Are checked presents a routine passive with the reports in subject position."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Announce a past result. Facts: The painting / restore / last month. Use past-simple passive.",
+      "acceptedAnswers": [
+        "The painting was restored last month."
+      ],
+      "feedback": "Was restored focuses on the affected painting."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Describe planned work. Facts: The doors / replace / tomorrow. Use will + passive.",
+      "acceptedAnswers": [
+        "The doors will be replaced tomorrow."
+      ],
+      "feedback": "Will be replaced keeps the doors as the topic."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Describe an in-progress action. Facts: The stage / prepare / right now. Use present-continuous passive.",
+      "acceptedAnswers": [
+        "The stage is being prepared right now."
+      ],
+      "feedback": "Is being prepared is the continuous passive."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Report a belief using anticipatory it. Facts: People believed / the route was safe. Begin with “It was”.",
+      "acceptedAnswers": [
+        "It was believed that the route was safe."
+      ],
+      "feedback": "It was believed that ... is a natural impersonal reporting construction."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Use a noun-based subject to express the completed action. Facts: The review of the files / complete / yesterday. Use past passive.",
+      "acceptedAnswers": [
+        "The review of the files was completed yesterday."
+      ],
+      "feedback": "Review functions as a noun subject with was completed."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the incomplete perfect passive aloud: The results have published online.",
+      "acceptedAnswers": [
+        "The results have been published online."
+      ],
+      "feedback": "Have been published supplies the missing passive auxiliary."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two sentences in this order using full forms. Procedure: The rooms / clean / daily. Report: It / expect / that the guests will arrive tonight. Use present-simple passives.",
+      "acceptedAnswers": [
+        "The rooms are cleaned daily. It is expected that the guests will arrive tonight."
+      ],
+      "feedback": "Are cleaned reports the process; it is expected that introduces the proposition."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The damaged road signs were replaced overnight. The council has not identified the workers involved.",
+      "prompt": "Why is the passive useful in this report?",
+      "choices": [
+        "The workers are the main topic.",
+        "The completed replacement matters more than who did it.",
+        "The signs carried out the replacement themselves."
+      ],
+      "answerIndex": 1,
+      "feedback": "Were replaced keeps attention on the signs and the event rather than unnamed workers."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "In our workshop, each instrument is calibrated before measurements are taken.",
+      "prompt": "What does the passive highlight?",
+      "choices": [
+        "A routine procedure for the instruments.",
+        "The personal identity of the instructor.",
+        "An action that cannot happen again."
+      ],
+      "answerIndex": 0,
+      "feedback": "Is calibrated describes a regular procedure with the object of treatment as subject."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The original documents were recovered during the early morning search.",
+      "prompt": "Transcribe the two-word passive verb phrase after “documents”.",
+      "acceptedAnswers": [
+        "were recovered"
+      ],
+      "feedback": "Were recovered is the audible past-simple passive."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The plans were approved by a panel of architects, environmental researchers and local residents.",
+      "prompt": "Why might a writer place the long panel description at the end?",
+      "choices": [
+        "To prove the plans were never approved.",
+        "To make the architects the grammatical subject.",
+        "To put the new, lengthy information after the topic, the plans."
+      ],
+      "answerIndex": 2,
+      "feedback": "The passive allows a familiar topic to precede a lengthy by-phrase."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The installation of the new lighting will be completed before the festival.",
+      "prompt": "What is the grammatical subject of this sentence?",
+      "choices": [
+        "The installation of the new lighting.",
+        "The festival.",
+        "The unidentified workers."
+      ],
+      "answerIndex": 0,
+      "feedback": "The nominalised event installation is subject of will be completed."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The announcement says it was assumed that the passengers had left before midnight.",
+      "prompt": "What does the phrase it was assumed introduce?",
+      "choices": [
+        "An explicit command to the passengers.",
+        "A proposition treated as an assumption.",
+        "The identity of the people who made the assumption."
+      ],
+      "answerIndex": 1,
+      "feedback": "The anticipatory it-passive introduces a reported assumption."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The new procedures are being introduced throughout the department.",
+      "prompt": "Transcribe the three-word ongoing passive verb phrase after “procedures”.",
+      "acceptedAnswers": [
+        "are being introduced"
+      ],
+      "feedback": "Are being introduced expresses an ongoing passive process."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "It was announced that the museum would reopen in spring.",
+      "prompt": "Transcribe the three-word reporting phrase at the start.",
+      "acceptedAnswers": [
+        "it was announced"
+      ],
+      "feedback": "It was announced introduces the proposition about reopening."
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u016",
+  "title": "Habitual Behaviour, Past States and Deductions with Will and Would",
+  "level": "C1",
+  "topicId": "eg3-u016-will-would-and-used-to",
+  "summary": "Use will and would for characteristic behaviour, used to for discontinued past habits or states, and will have or would have for sharply different interpretations of past events. Recognise refusal, assumptions and limits on these forms.",
+  "learningObjectives": [
+    "Use will and would to describe characteristic present and past behaviour, without treating isolated completed events as habits.",
+    "Recognise stressed will and would for criticism, and will not or would not for stubborn refusal or non-cooperation.",
+    "Contrast would with used to for repeated past actions and identify past states that require used to.",
+    "Distinguish will for present assumptions and will have + past participle for past deductions from would have + past participle in counterfactual situations."
+  ],
+  "explanation": [
+    {
+      "heading": "Characteristic behaviour with will and would",
+      "body": "Will can describe what someone or something characteristically does now, while would can evoke what was typical in an earlier period. These are not merely future and conditional meanings. The construction normally describes a repeated or predictable pattern, not a single completed past event. A clear past time setting is often needed when would introduces an old habit.",
+      "example": "During my university years, our tutor would begin each seminar with a challenging question."
+    },
+    {
+      "heading": "Attitude and resistance in will or would",
+      "body": "When will or would is stressed in speech, the speaker may express irritation at a characteristic habit. Will not and would not can also describe a person or thing refusing to cooperate, including a machine that would not respond despite attempts. Context and intonation often determine whether the sentence is neutral, critical or emphatic; a negative form need not always be an instance of refusal.",
+      "example": "The old printer would not start, no matter how many times we reset it."
+    },
+    {
+      "heading": "Will for assumptions about what is true now",
+      "body": "Will is sometimes used to indicate a confident assumption about a present circumstance, rather than a future prediction. Inferences based on familiarity or an expected routine can sound more certain than might or could. In the perfect form, will have + past participle may similarly express what the speaker assumes has already happened.",
+      "example": "The visitors will be in the main hall by now; the guided tour starts at ten."
+    },
+    {
+      "heading": "Would and used to: the limits of past habits",
+      "body": "Would and used to can both describe repeated activities in a past period, particularly when the relevant time is established. Used to can also refer to a past state or situation that no longer holds; would is generally unsuitable for those past states. Ordinary negatives and questions typically use did not use to and did ... use to. Neither construction is appropriate merely because an action happened once or a fixed number of times at a specific moment.",
+      "example": "When we lived near the harbour, we would walk along the quay every evening, and our flat used to overlook the water."
+    },
+    {
+      "heading": "Would have for unreal pasts; will have for deductions",
+      "body": "Would have + past participle commonly represents the imagined outcome of an unreal or unfulfilled past circumstance. Will have + past participle can instead express a present assumption that an earlier event has occurred. Despite their similar surface structures, one is counterfactual and the other is inferential; the time context and any if-clause determine the interpretation.",
+      "example": "I would have attended the opening if I had received an invitation, but the guests will have left by now."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Past repeated action versus a past state",
+      "left": {
+        "label": "Repeated activity: would",
+        "example": "During winter holidays, our cousins would stay with us for a week.",
+        "note": "Would recalls a typical repeated event in a past period."
+      },
+      "right": {
+        "label": "Past state: used to",
+        "example": "Our cousins used to live beside the railway station.",
+        "note": "Used to expresses a former state; would live would not normally express possession of a settled home in this meaning."
+      }
+    },
+    {
+      "title": "Inference about the past versus an unreal outcome",
+      "left": {
+        "label": "Past deduction: will have",
+        "example": "The speaker will have reached the airport by now.",
+        "note": "The speaker assumes that the journey has already been completed."
+      },
+      "right": {
+        "label": "Counterfactual past: would have",
+        "example": "The speaker would have reached the airport if the taxi had arrived.",
+        "note": "The journey did not occur as imagined because a condition was unfulfilled."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "My grandmother will spend hours arranging her photographs when she has a free afternoon.",
+      "note": "Will expresses what she characteristically does, not simply a future promise."
+    },
+    {
+      "sentence": "The library doors would stick whenever the air became humid.",
+      "note": "Would describes a recurring problem in the past."
+    },
+    {
+      "sentence": "I asked for a receipt twice, but the machine would not print one.",
+      "note": "Would not shows that the machine failed to cooperate on a particular occasion."
+    },
+    {
+      "sentence": "There used to be a bakery beside the station.",
+      "note": "Used to describes a past situation that no longer holds."
+    },
+    {
+      "sentence": "Nina will have seen the revised agenda by now, whereas I would have missed it without your message.",
+      "note": "Will have seen expresses a deduction; would have missed presents an unreal alternative."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Before the relocation, our office would be on the top floor.",
+      "correct": "Before the relocation, our office used to be on the top floor.",
+      "why": "For a former state or location, used to is natural; habitual would does not normally replace it."
+    },
+    {
+      "incorrect": "Did you used to travel to work by ferry?",
+      "correct": "Did you use to travel to work by ferry?",
+      "why": "After did in a standard question, use the base form use, not used."
+    },
+    {
+      "incorrect": "The gallery would close once during the storm last Tuesday.",
+      "correct": "The gallery closed once during the storm last Tuesday.",
+      "why": "An isolated, precisely located past event normally takes the past simple rather than habitual would."
+    },
+    {
+      "incorrect": "If they had warned us, we will have postponed the meeting.",
+      "correct": "If they had warned us, we would have postponed the meeting.",
+      "why": "A counterfactual past outcome uses would have + past participle, not will have."
+    }
+  ],
+  "studyTips": [
+    "Read the surrounding time expression before choosing would: it needs a habitual past context, not merely a completed event.",
+    "Make pairs such as we would visit the orchard and the orchard used to belong to my aunt to distinguish actions from states.",
+    "When you see will have and would have, identify whether the speaker is inferring an actual past event or imagining an unreal past outcome."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "During our school holidays, my uncle ___ elaborate breakfasts every Sunday morning.",
+      "choices": [
+        "will be making",
+        "would make",
+        "would have made"
+      ],
+      "answerIndex": 1,
+      "feedback": "Would make describes a repeated action in an established past period."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Before the renovation, the building ___ a public library.",
+      "choices": [
+        "would be",
+        "will be",
+        "used to be"
+      ],
+      "answerIndex": 2,
+      "feedback": "Used to be describes a former state or use of a building; habitual would be is unsuitable here."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "I pressed the button repeatedly, but the lift ___ move.",
+      "choices": [
+        "wouldn't",
+        "didn't use to",
+        "will have"
+      ],
+      "answerIndex": 0,
+      "feedback": "Wouldn't move expresses the lift's persistent non-cooperation on a past occasion."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "It is already six. I expect the courier ___ the documents by now.",
+      "choices": [
+        "would have delivered",
+        "will have delivered",
+        "used to deliver"
+      ],
+      "answerIndex": 1,
+      "feedback": "Will have delivered is a present deduction about an event assumed to have happened."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Whenever the family gathered, Aunt Farah ___ (tell) stories about her childhood. Write would and the base verb.",
+      "acceptedAnswers": [
+        "would tell"
+      ],
+      "feedback": "Would tell describes a regular past activity."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "This courtyard ___ (be) a car park before the trees were planted. Write the three-word past-state expression.",
+      "acceptedAnswers": [
+        "used to be"
+      ],
+      "feedback": "Used to be describes a former state that has changed."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We ___ (not / use to) receive updates so quickly. Write the three-word negative expression beginning with didn't.",
+      "acceptedAnswers": [
+        "didn't use to"
+      ],
+      "feedback": "After did not, the form is use to, without -d."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "If you had told me earlier, I ___ (send) an invitation. Write the counterfactual verb phrase beginning with would.",
+      "acceptedAnswers": [
+        "would have sent"
+      ],
+      "feedback": "Would have sent represents an unreal result of a past condition."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The bridge would collapse once during last winter's storm.",
+      "acceptedAnswers": [
+        "The bridge collapsed once during last winter's storm."
+      ],
+      "feedback": "A single specified past event takes the past simple, not habitual would."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Did you used to take the coastal road to work?",
+      "acceptedAnswers": [
+        "Did you use to take the coastal road to work?"
+      ],
+      "feedback": "Use the base form use after the auxiliary did."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Before the move, my cousin would own a small apartment.",
+      "acceptedAnswers": [
+        "Before the move, my cousin used to own a small apartment."
+      ],
+      "feedback": "For past ownership, a state, used to own is appropriate; habitual would own is not."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: If they had prepared the room, we will have started earlier.",
+      "acceptedAnswers": [
+        "If they had prepared the room, we would have started earlier."
+      ],
+      "feedback": "An imagined past outcome takes would have followed by the past participle started."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Describe a former state. Facts: The station / be / quieter / before the highway opened. Use used to.",
+      "acceptedAnswers": [
+        "The station used to be quieter before the highway opened."
+      ],
+      "feedback": "Used to be describes an earlier state, not a repeated action."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Describe a repeated past activity. Facts: Every summer, our neighbours / invite / us / for dinner. Use would.",
+      "acceptedAnswers": [
+        "Every summer, our neighbours would invite us for dinner."
+      ],
+      "feedback": "Would invite describes a characteristic recurring event in a past period."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Describe persistent refusal in the past. Facts: The lift / not / work / yesterday, despite repeated attempts. Use would in its contracted negative form.",
+      "acceptedAnswers": [
+        "The lift wouldn't work yesterday, despite repeated attempts."
+      ],
+      "feedback": "Wouldn't work highlights the machine's failure to cooperate."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Make a present assumption. Facts: The guests / be / at the hotel / by now. Use will, not a future-time prediction.",
+      "acceptedAnswers": [
+        "The guests will be at the hotel by now."
+      ],
+      "feedback": "Will be expresses an assumption about the guests' present location."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Make a deduction about a completed action. Facts: The courier / deliver / the parcel / by now. Use will have.",
+      "acceptedAnswers": [
+        "The courier will have delivered the parcel by now."
+      ],
+      "feedback": "Will have delivered makes a present inference about a past delivery."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Complete the unreal past situation. Facts: If she had taken the earlier train / she / arrive / on time. Use would have.",
+      "acceptedAnswers": [
+        "If she had taken the earlier train, she would have arrived on time."
+      ],
+      "feedback": "Would have arrived expresses a counterfactual past outcome."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the question aloud: Did they used to live near the coast?",
+      "acceptedAnswers": [
+        "Did they use to live near the coast?"
+      ],
+      "feedback": "Questions with did use the base verb use."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give two sentences in this order, using full forms. Past habit: We / would / visit the museum / each winter. Former state: The building / used to / be / a library.",
+      "acceptedAnswers": [
+        "We would visit the museum each winter. The building used to be a library."
+      ],
+      "feedback": "Would marks habitual visits; used to be expresses a former state."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "My uncle would prepare breakfast for the whole family each Saturday, but he rarely cooked during the week.",
+      "prompt": "What does would prepare communicate here?",
+      "choices": [
+        "A repeated activity in the past.",
+        "A future breakfast reservation.",
+        "A meal that never happened."
+      ],
+      "answerIndex": 0,
+      "feedback": "Would prepare describes a characteristic past habit."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Before the new school opened, this building used to be a library.",
+      "prompt": "What does used to be tell us about the building?",
+      "choices": [
+        "It will become a library next year.",
+        "It is still definitely a library.",
+        "It had a different use in the past."
+      ],
+      "answerIndex": 2,
+      "feedback": "Used to be refers to a former state or use."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "We did not use to receive updates so quickly.",
+      "prompt": "Type the four-word negative past-habit phrase between \"We\" and \"receive\".",
+      "acceptedAnswers": [
+        "did not use to"
+      ],
+      "feedback": "Did not use to is the full negative form for a former habit or situation."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "When the tablet froze, I tried three times, but it simply would not restart.",
+      "prompt": "What does would not restart imply in this context?",
+      "choices": [
+        "The tablet was never switched on before.",
+        "The tablet repeatedly failed to respond on that occasion.",
+        "The tablet was scheduled to be repaired next year."
+      ],
+      "answerIndex": 1,
+      "feedback": "Would not expresses past resistance or failure to cooperate."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Adrian will insist on checking every figure himself, even after the team has reviewed the report.",
+      "prompt": "What is being described by will insist?",
+      "choices": [
+        "A characteristic pattern of behaviour.",
+        "A guarantee about a specific future date.",
+        "An unreal result of a past condition."
+      ],
+      "answerIndex": 0,
+      "feedback": "Will insist characterises Adrian's typical behaviour; the form need not be a future prediction."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Your sister will be at the conference centre by now. Her session starts at nine.",
+      "prompt": "What is the speaker doing with will be?",
+      "choices": [
+        "Describing a past habit.",
+        "Refusing permission to travel.",
+        "Making an assumption about her present location."
+      ],
+      "answerIndex": 2,
+      "feedback": "Will be can express a confident assumption about a present situation."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "I would have stayed longer if the final bus had not left.",
+      "prompt": "Type the three-word counterfactual phrase heard after \"I\".",
+      "acceptedAnswers": [
+        "would have stayed"
+      ],
+      "feedback": "Would have stayed describes an unreal past result."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The maintenance crew will have finished the inspection by now.",
+      "prompt": "Type the three-word deduction phrase heard after \"crew\".",
+      "acceptedAnswers": [
+        "will have finished"
+      ],
+      "feedback": "Will have finished expresses a present assumption about an already completed event."
+    }
+  ]
+}

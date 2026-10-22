@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u024",
+  "title": "Passive Patterns with -ing Clauses and To-infinitives",
+  "level": "C1",
+  "topicId": "eg3-u024-forming-passive-sentences-verb-ing-or-to-infinitive",
+  "summary": "Choose passive patterns involving an observed action, being + past participle and a to-infinitive. Distinguish verb complementation that allows passivisation from object-plus--ing clauses that generally resist it, and recognise when an infinitival passive changes the original meaning.",
+  "learningObjectives": [
+    "Passivise object + -ing perception and causation patterns while retaining the continuing-action meaning.",
+    "Use being + past participle after selected -ing-taking verbs and recognise cases in which noun + -ing cannot become an ordinary passive.",
+    "Convert object + to-infinitive patterns into passive + to-infinitive while identifying verbs that resist this transformation.",
+    "Distinguish verbs that allow a meaningful passive infinitive after the main verb from infinitival passives that shift the intended subject or meaning."
+  ],
+  "explanation": [
+    {
+      "heading": "An observed activity remains an -ing clause in the passive",
+      "body": "Perception and related verbs such as see, hear, notice, find, catch and keep can take an object plus an -ing clause. When that object becomes the passive subject, the participle remains: heard somebody singing becomes somebody was heard singing. This differs from a complete perceived action described by a passive with to + infinitive, such as was heard to sing. Keep the observed activity and the reporting event in the right tense.",
+      "example": "A photographer was spotted adjusting the lens during the rehearsal."
+    },
+    {
+      "heading": "Gerund passives use being plus a past participle",
+      "body": "After a verb that selects an -ing complement, an affected participant can be expressed with being + past participle: the editor resented being interrupted; the volunteers enjoyed being thanked. Other common verbs with this pattern include avoid, deny, describe, dislike, face, remember and report when their meanings license passive -ing clauses. Do not substitute a bare participle or be + -ing without the required participle.",
+      "example": "The authors appreciated being consulted before the article went to print."
+    },
+    {
+      "heading": "Not every object-plus--ing clause can become passive",
+      "body": "With verbs expressing attitudes to someone doing something, such as dread, appreciate, imagine, forget, remember or mind, an object or possessive noun phrase can introduce an -ing clause. These patterns do not ordinarily transform into a passive in which that person becomes subject: dreading the guests leaving does not become the guests were dreaded leaving. A different rewrite may convey a similar idea, but it is not the same syntactic passive.",
+      "example": "We dreaded the visitors arriving before the repairs were finished."
+    },
+    {
+      "heading": "Object plus to-infinitive and limitations on passivisation",
+      "body": "Verbs such as advise, instruct, allow, expect, require, tell and persuade often allow object + to-infinitive to become passive + to-infinitive: instructed staff to lock the doors becomes staff were instructed to lock the doors. In some complex cases, the lower verb may itself become passive: the repairs are expected to be completed. However, verbs of wanting, liking or preferring somebody to do something generally do not allow the same simple subject promotion: wanted Mara to stay does not mean Mara was wanted to stay.",
+      "example": "The participants were instructed to keep their phones switched off."
+    },
+    {
+      "heading": "A passive infinitive may or may not preserve the original meaning",
+      "body": "With verbs such as begin, continue, seem, tend and come, the object of an infinitive may be promoted within the infinitive, often preserving the original event: the archive began to receive more visitors becomes more visitors began to be received at the archive, though naturalness varies. With hope, agree, attempt or refuse, an infinitival passive can shift who intends or performs the action: I hoped to interview the mayor is not equivalent to the mayor hoped to be interviewed. Evaluate event participants and intended meaning before rewriting.",
+      "example": "The workshop continued to repair antique clocks, and antique clocks continued to be repaired in the workshop."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "An observed action versus an expected instruction",
+      "left": {
+        "label": "Object + -ing passive",
+        "example": "The guitarist was heard practising backstage.",
+        "note": "The observer heard an activity in progress."
+      },
+      "right": {
+        "label": "Object + to-infinitive passive",
+        "example": "The guitarist was told to practise backstage.",
+        "note": "An instruction is passivised, with to + infinitive retained."
+      }
+    },
+    {
+      "title": "Equivalent versus meaning-changing infinitives",
+      "left": {
+        "label": "Preserved event",
+        "example": "The bridge began to be inspected at dawn.",
+        "note": "The inspection began; the bridge is the affected participant."
+      },
+      "right": {
+        "label": "Changed subject or intention",
+        "example": "The mayor hoped to be interviewed.",
+        "note": "The mayor is the one hoping, unlike a reporter who hoped to interview the mayor."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The apprentice was noticed checking the wiring twice.",
+      "note": "Notice + object + -ing produces was noticed checking; it refers to the ongoing activity."
+    },
+    {
+      "sentence": "The tenants disliked being asked for the same information repeatedly.",
+      "note": "Being asked is a passive gerund after disliked."
+    },
+    {
+      "sentence": "The supervisor imagined the trainees arriving early.",
+      "note": "The object plus -ing clause is natural, but trainees were imagined arriving is not its usual passive."
+    },
+    {
+      "sentence": "The volunteers were advised to read the guide beforehand.",
+      "note": "Advise + object + to-infinitive becomes be advised + to-infinitive."
+    },
+    {
+      "sentence": "The paintings are expected to be displayed in the east gallery.",
+      "note": "Both the expectation and the display are expressed through passive forms."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The audience was heard applaud from the lobby.",
+      "correct": "The audience was heard applauding from the lobby.",
+      "why": "To describe applause heard while in progress, passive hear retains the -ing clause."
+    },
+    {
+      "incorrect": "The researchers resented been excluded from the discussion.",
+      "correct": "The researchers resented being excluded from the discussion.",
+      "why": "After resent, the passive gerund is being + past participle."
+    },
+    {
+      "incorrect": "Samira was wanted to attend the meeting by the director.",
+      "correct": "The director wanted Samira to attend the meeting.",
+      "why": "Want someone to do something does not usually yield this recipient-style passive without changing the construction."
+    },
+    {
+      "incorrect": "The proposal was expected approve by Friday.",
+      "correct": "The proposal was expected to be approved by Friday.",
+      "why": "Expected is followed by a to-infinitive, and passive approve requires be + approved."
+    }
+  ],
+  "studyTips": [
+    "Annotate the main verb and its complement: object + -ing, object + to-infinitive, verb + -ing, or verb + to-infinitive + object.",
+    "Compare heard someone speaking, was heard speaking and was heard to speak to distinguish ongoing observation from an event treated as a whole.",
+    "For passive infinitives, track who hopes, chooses or attempts and who undergoes the action; reject rewrites that reverse those roles."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Security staff noticed Jo painting a mural. Which passive retains the observed activity?",
+      "choices": [
+        "Jo was noticed to painting a mural.",
+        "Jo was noticed painting a mural.",
+        "Jo was noticed paint a mural."
+      ],
+      "answerIndex": 1,
+      "feedback": "Was noticed painting retains the -ing complement describing the activity observed."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct passive gerund after the verb “resisted”.",
+      "choices": [
+        "The witness resisted being photographed.",
+        "The witness resisted be photographed.",
+        "The witness resisted been photographed."
+      ],
+      "answerIndex": 0,
+      "feedback": "Resisted takes an -ing clause and the passive gerund is being photographed."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "They instructed the participants to sign the register. Which passive is well formed?",
+      "choices": [
+        "The participants were instructed signing the register.",
+        "The participants were instructed sign the register.",
+        "The participants were instructed to sign the register."
+      ],
+      "answerIndex": 2,
+      "feedback": "Instruct someone to do becomes be instructed to do."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which rewrite preserves the meaning of “They expect someone to restore the mural”?",
+      "choices": [
+        "The mural expects to restore someone.",
+        "The mural is expected to be restored.",
+        "Someone is expected restoring the mural."
+      ],
+      "answerIndex": 1,
+      "feedback": "The mural is expected to be restored contains a passive reporting verb and a passive infinitive."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete the observation passive: “The violinist ___ (hear) practising in the next room.” Use past simple.",
+      "acceptedAnswers": [
+        "was heard"
+      ],
+      "feedback": "Was heard can be followed by an -ing activity."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Fill the two-word passive gerund: “He disliked ___ (question) about his private life.”",
+      "acceptedAnswers": [
+        "being questioned"
+      ],
+      "feedback": "Being questioned is the passive -ing complement after disliked."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete the passive infinitive frame: “The candidates ___ (tell) to arrive early.” Use past simple.",
+      "acceptedAnswers": [
+        "were told"
+      ],
+      "feedback": "Were told takes the already supplied to arrive."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete only the passive infinitive: “The windows are expected ___ (replace) next month.”",
+      "acceptedAnswers": [
+        "to be replaced"
+      ],
+      "feedback": "The subject windows undergoes the future replacement; to be replaced is the passive infinitive."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the ongoing observation: The dancers were seen rehearse through the glass.",
+      "acceptedAnswers": [
+        "The dancers were seen rehearsing through the glass."
+      ],
+      "feedback": "The context calls for an -ing activity after passive seen."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the passive gerund: We enjoyed been invited to the rehearsal.",
+      "acceptedAnswers": [
+        "We enjoyed being invited to the rehearsal."
+      ],
+      "feedback": "After enjoyed, use being invited, not been invited."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the impossible passivisation of want without changing its meaning: Leila was wanted to review the draft by the editor.",
+      "acceptedAnswers": [
+        "The editor wanted Leila to review the draft."
+      ],
+      "feedback": "Want + person + to-infinitive is not normally passivised by promoting the wanted person."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the nested passive construction: The parcels are expected to deliver by noon.",
+      "acceptedAnswers": [
+        "The parcels are expected to be delivered by noon."
+      ],
+      "feedback": "Parcels are acted on, so the lower infinitive must be passive: to be delivered."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Describe an observed ongoing activity. Facts: The guard / see / checking the locks. Use a past-simple passive with -ing.",
+      "acceptedAnswers": [
+        "The guard was seen checking the locks."
+      ],
+      "feedback": "Was seen checking describes the observed activity."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Report a passive gerund after resent. Facts: She / resent / interrupt / during the talk. Use being + past participle.",
+      "acceptedAnswers": [
+        "She resented being interrupted during the talk."
+      ],
+      "feedback": "Resented being interrupted is a passive gerund construction."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Passivise an instruction. Facts: The assistants / ask / to close the doors. Use past-simple passive.",
+      "acceptedAnswers": [
+        "The assistants were asked to close the doors."
+      ],
+      "feedback": "Ask someone to do becomes be asked to do."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Use the passive infinitive for a plan. Facts: The painting / expect / restore / soon. Use present simple with two passives.",
+      "acceptedAnswers": [
+        "The painting is expected to be restored soon."
+      ],
+      "feedback": "Is expected to be restored contains two passives."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Describe an ongoing action observed by someone. Facts: The pilot / hear / talking to the tower. Use a past-simple passive.",
+      "acceptedAnswers": [
+        "The pilot was heard talking to the tower."
+      ],
+      "feedback": "The participle talking remains after passive heard."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Use a passive gerund after denied. Facts: The organiser / deny / give / advance notice. Use past simple.",
+      "acceptedAnswers": [
+        "The organiser denied being given advance notice."
+      ],
+      "feedback": "Denied being given introduces the passive -ing clause."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this passive infinitive aloud: The visitors were told enter quietly.",
+      "acceptedAnswers": [
+        "The visitors were told to enter quietly."
+      ],
+      "feedback": "Told must retain the to-infinitive."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two full sentences in this order. Perception: The boy / notice / collecting shells. Requirement: The samples / require / label / carefully. Use past passive for the first, present passive + to be for the second.",
+      "acceptedAnswers": [
+        "The boy was noticed collecting shells. The samples are required to be labelled carefully.",
+        "The boy was noticed collecting shells. The samples are required to be labeled carefully."
+      ],
+      "feedback": "Was noticed collecting preserves -ing; required to be labelled is a nested infinitival passive."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The actor was spotted rehearsing alone while the technicians adjusted the microphones.",
+      "prompt": "What does rehearsing express?",
+      "choices": [
+        "An order given to the actor.",
+        "A continuing action that someone observed.",
+        "An unfulfilled intention to rehearse."
+      ],
+      "answerIndex": 1,
+      "feedback": "Spotted rehearsing presents an ongoing activity observed by someone."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I remember being introduced to the archivist, but I cannot recall her name.",
+      "prompt": "What does “being introduced” mean here?",
+      "choices": [
+        "Someone introduced the speaker to the archivist.",
+        "The speaker introduced someone else.",
+        "The speaker refused an introduction."
+      ],
+      "answerIndex": 0,
+      "feedback": "The passive gerund being introduced makes the speaker the recipient of the introduction."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The technician was seen adjusting the sensors during the test.",
+      "prompt": "Transcribe the three-word phrase after “technician” which describes the observed action.",
+      "acceptedAnswers": [
+        "was seen adjusting"
+      ],
+      "feedback": "Was seen adjusting retains the -ing clause for an observed action."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The lecturer minded the students leaving before the questions were finished.",
+      "prompt": "Which analysis best fits “the students leaving”?",
+      "choices": [
+        "It is an ordinary double-object construction.",
+        "The students are the agent of the lecturer’s departure.",
+        "It is an object plus an -ing clause, which does not normally passivise by promoting the students."
+      ],
+      "answerIndex": 2,
+      "feedback": "Mind + person + -ing is not normally transformed into the students were minded leaving."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The researchers were required to submit their results before the conference.",
+      "prompt": "What form follows “were required”?",
+      "choices": [
+        "An -ing clause without a preposition.",
+        "A to-infinitive expressing the required action.",
+        "A bare infinitive without to."
+      ],
+      "answerIndex": 1,
+      "feedback": "Require somebody to do passivises as be required to do."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The old theatre is expected to be renovated before autumn.",
+      "prompt": "How many passive constructions occur in the verb group?",
+      "choices": [
+        "Two: is expected and to be renovated.",
+        "One: only expected is passive.",
+        "None: both verbs are active."
+      ],
+      "answerIndex": 0,
+      "feedback": "The expectation and the renovation are both expressed in the passive."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The residents disliked being photographed during the inspection.",
+      "prompt": "Transcribe the two-word passive gerund after “disliked”.",
+      "acceptedAnswers": [
+        "being photographed"
+      ],
+      "feedback": "Being photographed is a passive gerund used after disliked."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The original letters are expected to be preserved in a climate-controlled room.",
+      "prompt": "Transcribe the three-word passive infinitive after “expected”.",
+      "acceptedAnswers": [
+        "to be preserved"
+      ],
+      "feedback": "To be preserved makes the letters the affected participants in the lower action."
+    }
+  ]
+}

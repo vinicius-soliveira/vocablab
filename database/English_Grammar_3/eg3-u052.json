@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u052",
+  "title": "Few, Little, Less and Fewer",
+  "level": "C1",
+  "topicId": "eg3-u052-few-little-less-fewer",
+  "summary": "Choose quantifiers for countable numbers and uncountable amounts, including nuanced differences among few, a few, the few and what little. Use less and fewer appropriately, with special treatment of measures, quantities and emphatic comparisons.",
+  "learningObjectives": [
+    "Interpret the difference between few and a few, little and a little, and the unexpectedly large quantity signalled by quite a few.",
+    "Use the few, the little and what few or what little for identifiable limited groups and amounts, and select countability-appropriate determiners.",
+    "Adjust small-quantity expressions to conversational or formal registers without changing the intended meaning.",
+    "Distinguish fewer for countable items from less for uncountable amounts and measured values, including emphatic no fewer than and no less than."
+  ],
+  "explanation": [
+    {
+      "heading": "A few, few, a little and little",
+      "body": "A few suggests some countable items exist, whereas few often stresses that there are hardly any. A little suggests some uncountable quantity, whereas little suggests an insufficient or very small amount. Both pairs can also stand without a following noun when the context makes the referent clear: A few remained; Little was known. Quite a few means a fairly large number, not a tiny number.",
+      "example": "Only a few delegates had questions, but the panel had little time to answer them."
+    },
+    {
+      "heading": "The few, the little and what remains",
+      "body": "The few and the little refer to a limited but identifiable group or amount, often implying that there is not much to work with. What few or what little can similarly mean the small number or amount available: We shared what little food remained. When a possessive or demonstrative already identifies the group, few can appear after it, as in my few remaining notes or these few proposals. The noun type must still match the determiner.",
+      "example": "They used the little paint they had left to finish the sign."
+    },
+    {
+      "heading": "Quantity and conversational register",
+      "body": "In everyday conversation, speakers often prefer not many or not much to bare few or little: We have not had much rain. For a reassuring small quantity they often say only a few, only a little or a bit of, especially with uncountables. Academic or formal writing may deliberately use few and little to sound concise or to express scarcity. Changing between forms can shift the degree of pessimism, so preserve the intended meaning.",
+      "example": "There was little supporting evidence in the published review."
+    },
+    {
+      "heading": "Fewer items and less material",
+      "body": "Fewer normally modifies plural countable nouns; less normally modifies uncountable nouns: fewer delays but less disruption. The same distinction is a useful editing rule in formal English. Informal usage sometimes has less with plurals, especially when a number is treated as a measurement; avoid presenting every such occurrence as impossible, but prefer fewer with clearly distinct countable items in formal prose.",
+      "example": "The new process caused fewer errors and required less paperwork."
+    },
+    {
+      "heading": "Measurements and emphatic comparisons",
+      "body": "Less than is common with distances, durations, sums of money and measured quantities even when a number follows: less than two miles; less than ten minutes. For counting separate people or objects, fewer than is the conservative formal choice. No fewer than emphasises a surprisingly large number of countable items; no less than is usual for an unexpectedly large amount, percentage, duration or sum. The expressions convey surprise, not literal negation.",
+      "example": "No fewer than forty volunteers attended, and the event lasted no less than six hours."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Existence versus scarcity",
+      "left": {
+        "label": "A few / a little",
+        "example": "We still have a few spare parts.",
+        "note": "Some usable parts remain, which can sound reassuring."
+      },
+      "right": {
+        "label": "Few / little",
+        "example": "We have few spare parts.",
+        "note": "The number is small, perhaps not enough for our needs."
+      }
+    },
+    {
+      "title": "Counts versus measured amounts",
+      "left": {
+        "label": "Fewer with plural items",
+        "example": "The updated design uses fewer screws.",
+        "note": "Individual screws can be counted separately."
+      },
+      "right": {
+        "label": "Less with a measured quantity",
+        "example": "The updated design weighs less than two kilograms.",
+        "note": "The comparison is about a measured weight."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Quite a few residents volunteered to help clean the park.",
+      "note": "Quite a few communicates a substantial number, not almost none."
+    },
+    {
+      "sentence": "What little evidence remained was stored in a sealed envelope.",
+      "note": "What little modifies a small identifiable amount of uncountable evidence."
+    },
+    {
+      "sentence": "She reviewed these few documents before the hearing.",
+      "note": "Few follows the demonstrative these when referring to a small, identified group."
+    },
+    {
+      "sentence": "The new ventilation system consumes less electricity and causes fewer breakdowns.",
+      "note": "Less applies to uncountable electricity; fewer to individual breakdowns."
+    },
+    {
+      "sentence": "The restoration cost no less than twenty million pounds.",
+      "note": "No less than emphasises a large amount of money."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The board reported less complaints after the policy change.",
+      "correct": "The board reported fewer complaints after the policy change.",
+      "why": "Complaints are distinct countable events; fewer is preferable in formal usage."
+    },
+    {
+      "incorrect": "The room had fewer furniture than we expected.",
+      "correct": "The room had less furniture than we expected.",
+      "why": "Furniture is an uncountable mass noun; use less rather than fewer."
+    },
+    {
+      "incorrect": "We made use of the few information available.",
+      "correct": "We made use of the little information available.",
+      "why": "Information is uncountable, so the limited available amount takes the little."
+    },
+    {
+      "incorrect": "The journey took no fewer than seven hours.",
+      "correct": "The journey took no less than seven hours.",
+      "why": "A duration is treated as a measured amount and takes no less than in this emphatic construction."
+    }
+  ],
+  "studyTips": [
+    "Decide whether the noun describes separate countable items or a mass/measurement before choosing few, little, fewer or less.",
+    "Write two statements with the same count noun: a few requests (some exist) and few requests (scarcity). Explain how the speaker’s attitude shifts.",
+    "Edit a brief formal report by checking fewer with countable outcomes, less with measured resources, and no less than with unexpectedly large durations or percentages."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The organiser is reassuring a visitor that some tickets remain. Choose the most natural completion: \"There are ___ tickets left, so you can still come.\"",
+      "choices": [
+        "little",
+        "a few",
+        "few"
+      ],
+      "answerIndex": 1,
+      "feedback": "A few tickets signals a small but available countable quantity, fitting the reassurance."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Someone says, \"Quite a few residents attended.\" What does quite a few mean?",
+      "choices": [
+        "Almost none",
+        "Precisely two",
+        "A fairly large number"
+      ],
+      "answerIndex": 2,
+      "feedback": "Quite a few is idiomatic for a fairly large number."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the expression that refers to the limited identifiable amount of time available: \"We used ___ time we had to finish the notes.\"",
+      "choices": [
+        "the little",
+        "the few",
+        "a few"
+      ],
+      "answerIndex": 0,
+      "feedback": "Time is uncountable in this sense; the little time we had singles out the limited available amount."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "A report stresses a surprisingly large rise of 87%. Choose the natural emphatic phrase.",
+      "choices": [
+        "no fewer than 87%",
+        "no less than 87%",
+        "fewer than 87%"
+      ],
+      "answerIndex": 1,
+      "feedback": "Percentages treated as measured quantities normally take no less than for emphatic magnitude."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Fill the two-word quantifier suggesting a small but nonzero amount: \"The project had ___ ___ funding, so the initial trial could begin.\" Use a and little.",
+      "acceptedAnswers": [
+        "a little"
+      ],
+      "feedback": "A little funding describes a nonzero quantity of an uncountable resource."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with exactly two words: \"___ ___ tools we brought were sufficient to finish the repair.\" Refer to the limited known set; use the and few.",
+      "acceptedAnswers": [
+        "the few"
+      ],
+      "feedback": "The few tools points to the small, identified group that was available."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Use one word meaning a smaller count: \"The support team received ___ enquiries in May than in April.\"",
+      "acceptedAnswers": [
+        "fewer"
+      ],
+      "feedback": "Enquiries are countable, so the comparative is fewer."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the measured-distance comparison with one word: \"The nearest station is ___ than two kilometres away.\"",
+      "acceptedAnswers": [
+        "less"
+      ],
+      "feedback": "Less than is used with a distance measurement."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the whole sentence using the formal countable comparative: We made less mistakes after the training.",
+      "acceptedAnswers": [
+        "We made fewer mistakes after the training."
+      ],
+      "feedback": "Mistakes are countable events, so formal English prefers fewer."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the whole sentence using the uncountable comparative: The second method needs fewer patience from the operator.",
+      "acceptedAnswers": [
+        "The second method needs less patience from the operator."
+      ],
+      "feedback": "Patience is uncountable in this context and takes less."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the whole sentence using the demonstrative plus a countable quantifier: These a few pages contain the instructions we need.",
+      "acceptedAnswers": [
+        "These few pages contain the instructions we need."
+      ],
+      "feedback": "Pages are countable, and these few points to a small identifiable set."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the whole sentence using the usual emphatic form for duration: The negotiations lasted no fewer than four hours.",
+      "acceptedAnswers": [
+        "The negotiations lasted no less than four hours."
+      ],
+      "feedback": "No less than is the usual expression for an unexpectedly long duration."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Reassure someone that some seats remain. Exact facts: There / are / a few / seats / left.",
+      "acceptedAnswers": [
+        "There are a few seats left."
+      ],
+      "feedback": "A few expresses a small but usable number."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Describe scarcity without the article a. Exact facts: Few / participants / completed / the survey.",
+      "acceptedAnswers": [
+        "Few participants completed the survey."
+      ],
+      "feedback": "Few, without a, places emphasis on the low count."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Refer to the identified small group. Exact facts: The few / records / we recovered / were incomplete.",
+      "acceptedAnswers": [
+        "The few records we recovered were incomplete."
+      ],
+      "feedback": "The few selects the limited set of records recovered."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "State an uncountable reduction. Facts: We / spent / less money / this quarter.",
+      "acceptedAnswers": [
+        "We spent less money this quarter."
+      ],
+      "feedback": "Money is treated as an amount, so less is natural."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "State a reduction in countable problems. Facts: We / received / fewer complaints / last month.",
+      "acceptedAnswers": [
+        "We received fewer complaints last month."
+      ],
+      "feedback": "Fewer applies to the individual complaints."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Emphasise a surprisingly large number of people. Facts: There / were / no fewer than / thirty applicants.",
+      "acceptedAnswers": [
+        "There were no fewer than thirty applicants."
+      ],
+      "feedback": "No fewer than marks an unexpectedly large count."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Emphasise an unexpectedly long duration. Facts: The workshop / lasted / no less than / five hours.",
+      "acceptedAnswers": [
+        "The workshop lasted no less than five hours."
+      ],
+      "feedback": "No less than is usual for this duration."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give two sentences in order, using full forms. First: We / have / a little time / left. Second: The few / questions / we received / are straightforward.",
+      "acceptedAnswers": [
+        "We have a little time left. The few questions we received are straightforward."
+      ],
+      "feedback": "A little describes uncountable remaining time; the few selects the known limited set of questions."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "There are a few seats left for Friday’s lecture, so visitors can still reserve one.",
+      "prompt": "Are any seats still available?",
+      "choices": [
+        "Yes, a small number",
+        "No, the lecture is sold out",
+        "Only standing room is available"
+      ],
+      "answerIndex": 0,
+      "feedback": "A few seats left confirms that some can still be booked."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Few of the proposed designs met the safety requirements, so the panel asked for new options.",
+      "prompt": "What happened to the proposals?",
+      "choices": [
+        "Nearly all passed",
+        "Only a small number passed",
+        "Every design was withdrawn"
+      ],
+      "answerIndex": 1,
+      "feedback": "Few of the designs signals that a small number qualified."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The organisers have only a little time to prepare the venue before the doors open.",
+      "prompt": "Transcribe the four-word phrase describing the limited time available.",
+      "acceptedAnswers": [
+        "only a little time"
+      ],
+      "feedback": "Only a little time describes a small amount of uncountable time."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The workshop used less water this month but produced more samples than before.",
+      "prompt": "Which quantity decreased?",
+      "choices": [
+        "The number of samples",
+        "The length of the workshop",
+        "The amount of water"
+      ],
+      "answerIndex": 2,
+      "feedback": "Less water states that the water quantity decreased."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The factory employed fewer temporary workers this spring after automating the packing line.",
+      "prompt": "Which count was lower?",
+      "choices": [
+        "Temporary workers",
+        "Packing machines",
+        "Permanent managers"
+      ],
+      "answerIndex": 0,
+      "feedback": "Fewer temporary workers refers to a reduced number of workers."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "No fewer than forty visitors joined the guided tour, surprising the museum staff.",
+      "prompt": "What does no fewer than suggest?",
+      "choices": [
+        "The actual number was below forty",
+        "At least forty visitors attended, which was surprisingly many",
+        "The museum limited the group to twenty"
+      ],
+      "answerIndex": 1,
+      "feedback": "No fewer than emphasises a surprisingly high count of at least forty."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The two research centres are less than a mile apart, so the team usually walks.",
+      "prompt": "Transcribe the four-word distance phrase.",
+      "acceptedAnswers": [
+        "less than a mile"
+      ],
+      "feedback": "Less than a mile is a measured distance, not a count of separate items."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The archivists examined the few documents that were still available after the flood.",
+      "prompt": "Transcribe the three-word phrase referring to the small known set.",
+      "acceptedAnswers": [
+        "the few documents"
+      ],
+      "feedback": "The few documents means the limited set that remained."
+    }
+  ]
+}

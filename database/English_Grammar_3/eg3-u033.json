@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u033",
+  "title": "Reporting Statements: That-Clauses and Verb Patterns",
+  "level": "C1",
+  "topicId": "eg3-u033-reporting-statements-that-clauses",
+  "summary": "Report claims, announcements and reactions accurately by selecting a that-clause, an object-plus-infinitive alternative, or the required personal-object and preposition pattern. Use or retain that according to grammar, register and clarity.",
+  "learningObjectives": [
+    "Judge when that may be omitted after a reporting verb and when retaining it improves formality or prevents misreading.",
+    "Recognise the more formal object + to-infinitive alternative to certain reporting that-clauses.",
+    "Distinguish verbs that require a personal object before a that-clause from verbs that take an optional object.",
+    "Select to, with or of before a person where required, and avoid invalid object + to-infinitive patterns after demand."
+  ],
+  "explanation": [
+    {
+      "heading": "That introduces reported content, but omission depends on context",
+      "body": "A statement reported through say, think, agree or promise often permits an unspoken that, especially in conversation. In careful writing, that is frequently retained to make the clause boundary clear. Some reporting verbs, especially deny, complain, reply, argue and warn, tend to favour an explicit that in this construction. When a long phrase intervenes between the reporting verb and its clause, keep that to prevent the reader from misparsing the sentence. These are usage preferences rather than an absolute ban on omission in every variety.",
+      "example": "The editor replied that the results would be checked again."
+    },
+    {
+      "heading": "Formal object plus to-infinitive as an alternative",
+      "body": "A number of verbs permit a formal construction in which the subject of the reported statement becomes an object followed by a to-infinitive, often to be. A claim such as believe that the results are reliable can be recast as believe the results to be reliable. This alternative occurs with verbs including believe, consider, expect, find, presume, report and understand, but should not be extended automatically to every reporting verb. Match the tense or aspect of the reported situation where the chosen form permits it.",
+      "example": "The inspectors considered the structure to be sound."
+    },
+    {
+      "heading": "Certain active reporting verbs require the person as an object",
+      "body": "Assure, convince, inform, notify, persuade, reassure, remind and tell normally require a personal object before a reporting that-clause in an active clause. The person is a direct object, not a to-phrase: informed the tenants that, not informed to the tenants that. Other verbs, such as promise, advise and warn, may allow the that-clause either with or without a personal object. Interpret the personal-object role from the precise verb frame rather than adding someone to every report.",
+      "example": "The laboratory notified its clients that the samples had arrived."
+    },
+    {
+      "heading": "Other reporting verbs introduce the person with a preposition",
+      "body": "Verbs such as explain, admit, complain, mention and announce can introduce a listener with to: explain to a colleague that something changed. Agree and disagree can take with to identify the person sharing or contesting a view. In formal uses of demand and require, of can introduce the people on whom a demand is placed. A prepositional phrase is not interchangeable with the direct personal object required after inform or reassure.",
+      "example": "The researcher explained to the coordinator that another trial was necessary."
+    },
+    {
+      "heading": "Do not confuse demands, promises and requests",
+      "body": "Promise can report a commitment with or without naming the recipient: promised that something would happen or promised someone that it would happen. Ask and require can often introduce a person followed by a to-infinitive in ordinary use, while demand does not normally allow demand somebody to do something. To express the addressee in a formal demand plus that-clause, an of-phrase may be possible. Distinguish the sentence frame from the meaning of insisting: similar intentions do not guarantee identical grammar.",
+      "example": "The chair asked the reviewers to revise the report, but demanded that the report be revised."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Direct object required versus prepositional audience",
+      "left": {
+        "label": "Inform + person + that",
+        "example": "The coordinator informed Mia that the schedule had changed.",
+        "note": "Mia is a required direct personal object in this active reporting frame."
+      },
+      "right": {
+        "label": "Explain + to person + that",
+        "example": "The coordinator explained to Mia that the schedule had changed.",
+        "note": "A recipient, if expressed, follows the preposition to."
+      }
+    },
+    {
+      "title": "Two ways of presenting a reported judgement",
+      "left": {
+        "label": "Reporting that-clause",
+        "example": "The committee believed that the estimate was accurate.",
+        "note": "The proposition is expressed as a finite reported clause."
+      },
+      "right": {
+        "label": "Object plus to-infinitive",
+        "example": "The committee believed the estimate to be accurate.",
+        "note": "A more formal alternative conveys the same assessment."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The auditors agreed that the revised totals were consistent.",
+      "note": "Agree can introduce its reported proposition directly with that."
+    },
+    {
+      "sentence": "The board was told that the grant had been renewed.",
+      "note": "A passive report can omit the active-clause requirement for an expressed personal object."
+    },
+    {
+      "sentence": "The curator assured the visitors that the exhibit would reopen.",
+      "note": "Assure takes the audience as a direct object."
+    },
+    {
+      "sentence": "The analyst complained to her supervisor that the instructions were unclear.",
+      "note": "Complain can add a listener in a to-phrase."
+    },
+    {
+      "sentence": "Several observers expected the negotiation to be difficult.",
+      "note": "Expected plus an object and to be is a formal alternative to a that-clause."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The operator notified that the network was unavailable.",
+      "correct": "The operator notified the clients that the network was unavailable.",
+      "why": "Active notify needs a person or organisation as its object before the reporting clause."
+    },
+    {
+      "incorrect": "The tutor explained the participants that the criteria had changed.",
+      "correct": "The tutor explained to the participants that the criteria had changed.",
+      "why": "Explain introduces the audience through to rather than a direct personal object."
+    },
+    {
+      "incorrect": "They reassured to the applicants that the interviews were confirmed.",
+      "correct": "They reassured the applicants that the interviews were confirmed.",
+      "why": "Reassure requires a direct personal object, not a to-phrase."
+    },
+    {
+      "incorrect": "The committee demanded the manager to withdraw the notice.",
+      "correct": "The committee demanded that the manager withdraw the notice.",
+      "why": "Demand does not take object + to-infinitive in this reporting pattern; a demanding that-clause is appropriate."
+    }
+  ],
+  "studyTips": [
+    "Keep a two-column verb notebook: inform somebody that versus explain to somebody that; test every new reporting verb against its column.",
+    "For formal reporting, try rewriting a suitable that-clause as verb + object + to be, then confirm that the chosen verb actually allows the shift.",
+    "Read a complex report aloud both with and without that, and retain that if removing it obscures where reported content begins."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly reports what a spokesperson said, without adding an explicit listener?",
+      "choices": [
+        "The spokesperson reassured that the delay was temporary.",
+        "The spokesperson explained that the delay was temporary.",
+        "The spokesperson notified that the delay was temporary."
+      ],
+      "answerIndex": 1,
+      "feedback": "Explain can be followed by a reporting that-clause without naming its listener; reassure and notify normally require an object in the active voice."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly introduces the listener after explain?",
+      "choices": [
+        "The analyst explained to the board that the estimate had changed.",
+        "The analyst explained the board that the estimate had changed.",
+        "The analyst explained with the board that the estimate had changed."
+      ],
+      "answerIndex": 0,
+      "feedback": "Explain takes to before the person receiving the explanation; the that-clause supplies its content."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Select the formal object-plus-infinitive alternative to “The panel believed that the figures were dependable.”",
+      "choices": [
+        "The panel believed to the figures be dependable.",
+        "The panel believed the figures being dependable.",
+        "The panel believed the figures to be dependable."
+      ],
+      "answerIndex": 2,
+      "feedback": "Believe permits object + to be as a formal alternative to believe that a proposition is true."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which version correctly reports an official demand?",
+      "choices": [
+        "The director demanded the clerk to amend the minutes.",
+        "The director demanded that the minutes be amended.",
+        "The director demanded to the clerk that amend the minutes."
+      ],
+      "answerIndex": 1,
+      "feedback": "Demand takes a that-clause here; it does not use demand somebody to do something."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The council ___ (inform) the residents that work would begin in June. Use the past-simple verb only.",
+      "acceptedAnswers": [
+        "informed"
+      ],
+      "feedback": "Informed is followed by the direct personal object the residents and a that-clause."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The reviewer ___ (complain) to the publisher that the table contained an error. Supply the past-simple verb.",
+      "acceptedAnswers": [
+        "complained"
+      ],
+      "feedback": "Complain can take to before the listener and that before the reported problem."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "They considered the new timetable ___ ___ realistic. Supply the two-word to-infinitive expression.",
+      "acceptedAnswers": [
+        "to be"
+      ],
+      "feedback": "Consider the timetable to be realistic recasts the reported judgement in a formal infinitive construction."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The editor ___ (remind) the writers that citations were required. Supply the past-simple verb.",
+      "acceptedAnswers": [
+        "reminded"
+      ],
+      "feedback": "Remind takes the people as a direct object before the that-clause."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct only the reporting construction: The administrator reassured to the visitors that the building was safe.",
+      "acceptedAnswers": [
+        "The administrator reassured the visitors that the building was safe."
+      ],
+      "feedback": "Reassure takes the visitors as its direct personal object, not a prepositional one."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct only the reporting construction: The engineer explained the client that another inspection was necessary.",
+      "acceptedAnswers": [
+        "The engineer explained to the client that another inspection was necessary."
+      ],
+      "feedback": "An audience after explain requires to in this pattern."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct only the reporting construction: The committee notified to its members that the vote had been postponed.",
+      "acceptedAnswers": [
+        "The committee notified its members that the vote had been postponed."
+      ],
+      "feedback": "Active notify takes its members as a direct object with no to before it."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct only the verb pattern, keeping the manager as the person acting: The trustees demanded the manager to resign.",
+      "acceptedAnswers": [
+        "The trustees demanded that the manager resign."
+      ],
+      "feedback": "Demand somebody to do something is not the standard frame; the demanding that-clause expresses the intended action."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Report a notification. Facts: The organiser / notify / the speakers / the room had changed. Use a complete past-simple sentence with that.",
+      "acceptedAnswers": [
+        "The organiser notified the speakers that the room had changed."
+      ],
+      "feedback": "Notify takes a direct personal object before that."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Correct the reporting verb pattern aloud: “The researcher explained her students that the trial had ended.” Retain all information.",
+      "acceptedAnswers": [
+        "The researcher explained to her students that the trial had ended."
+      ],
+      "feedback": "Introduce the audience of explain with to."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Give a direct-object reassurance in one sentence. Facts: The nurse / reassure / the patient / the test was routine. Use the past simple and that.",
+      "acceptedAnswers": [
+        "The nurse reassured the patient that the test was routine."
+      ],
+      "feedback": "Reassure is followed by the patient as its direct object."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Express a more formal reported belief. Start with “The inspectors”. Facts: the system / reliable. Use believed + object + to be.",
+      "acceptedAnswers": [
+        "The inspectors believed the system to be reliable."
+      ],
+      "feedback": "Object plus to be is an available formal frame after believed."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Add the correct preposition before the listener. Facts: The assistant / complain / the manager / the forms were missing. Use the past simple and that.",
+      "acceptedAnswers": [
+        "The assistant complained to the manager that the forms were missing."
+      ],
+      "feedback": "The listener of complain can be introduced by to."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Report a promise using the complete facts: We / promise / the volunteers / the results would arrive by Friday. Use the past simple and that.",
+      "acceptedAnswers": [
+        "We promised the volunteers that the results would arrive by Friday."
+      ],
+      "feedback": "Promise may include a personal object before the that-clause."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Replace the incorrect structure with a demanding that-clause. Facts: The board / demand / the archive / be reopened. Use past simple; begin “The board”.",
+      "acceptedAnswers": [
+        "The board demanded that the archive be reopened."
+      ],
+      "feedback": "Demand that plus the base passive form be reopened reports the requirement."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two full sentences in order. First: The director / inform / the staff / the date had changed. Second: The director / explain / the staff / why the date had changed. Use past simple and “that” in the first sentence.",
+      "acceptedAnswers": [
+        "The director informed the staff that the date had changed. The director explained to the staff why the date had changed."
+      ],
+      "feedback": "Inform has a direct audience object; explain uses to before its audience."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The coordinator informed the trainees that the safety briefing would begin at ten, not at half past nine.",
+      "prompt": "What change does the speaker report?",
+      "choices": [
+        "The trainees have a new meeting room.",
+        "The briefing will start later than first planned.",
+        "The briefing has been cancelled."
+      ],
+      "answerIndex": 1,
+      "feedback": "Informed takes the trainees as the object; the reported change moves the briefing from nine thirty to ten."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The laboratory explained to the sponsor that the second sample had been contaminated, but the first remained usable.",
+      "prompt": "Which sample is still suitable for analysis?",
+      "choices": [
+        "The first sample.",
+        "The second sample.",
+        "Neither sample."
+      ],
+      "answerIndex": 0,
+      "feedback": "The explanation says the first sample remains usable despite contamination of the second."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The committee considered the proposed schedule to be unrealistic after reviewing the costs.",
+      "prompt": "Transcribe the three words spoken immediately after “schedule”.",
+      "acceptedAnswers": [
+        "to be unrealistic"
+      ],
+      "feedback": "Consider plus object can be followed by to be and an adjective in formal reporting."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The chair demanded that the corrected report be circulated before the next meeting. The assistant agreed to send it on Monday.",
+      "prompt": "What did the chair insist on?",
+      "choices": [
+        "A new budget being approved immediately.",
+        "A meeting being postponed until Monday.",
+        "The corrected document being shared before the meeting."
+      ],
+      "answerIndex": 2,
+      "feedback": "Demanded that introduces the required circulation of the corrected report before the next meeting."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The curator reassured the visitors that the paintings were not damaged by the overnight leak.",
+      "prompt": "What reassurance did the visitors receive?",
+      "choices": [
+        "The artwork was unharmed.",
+        "The exhibition would be extended.",
+        "The leak had never occurred."
+      ],
+      "answerIndex": 0,
+      "feedback": "The curator reassured the visitors that the paintings had not been damaged."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Mina admitted to her supervisor that she had sent the early draft by mistake, not the approved revision.",
+      "prompt": "Which document did Mina send?",
+      "choices": [
+        "The final approved revision.",
+        "A preliminary version.",
+        "A request for an extension."
+      ],
+      "answerIndex": 1,
+      "feedback": "Admitted to her supervisor that introduces the mistake of sending the earlier draft."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The representative notified the applicants that the interviews would take place online.",
+      "prompt": "Transcribe the three words spoken immediately after “representative”.",
+      "acceptedAnswers": [
+        "notified the applicants"
+      ],
+      "feedback": "Notify takes the applicants as an object before the reporting that-clause."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The editor explained to the authors that the references needed checking.",
+      "prompt": "Transcribe the four words immediately after “editor”.",
+      "acceptedAnswers": [
+        "explained to the authors"
+      ],
+      "feedback": "The listener follows to after explained before the reported statement begins."
+    }
+  ]
+}

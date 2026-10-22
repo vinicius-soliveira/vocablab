@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u044",
+  "title": "Indefinite Articles and the Emphatic Number One",
+  "level": "C1",
+  "topicId": "eg3-u044-a-an-and-one",
+  "summary": "Select a or an from pronunciation rather than spelling, including initialisms and acronyms; distinguish indefinite reference and common rate expressions from one used to emphasise an exact number or build contrasts and narrative time expressions.",
+  "learningObjectives": [
+    "Select a or an according to the initial sound of a noun phrase, including abbreviations spoken as letters or words.",
+    "Use a or an for unspecified singular referents, rate and quantity expressions, and the pattern a ... of ... with possessives.",
+    "Recognise contexts where a or an and one are both grammatical but one puts greater emphasis on the number.",
+    "Use one for exact singleness, paired contrasts and narrative expressions such as one afternoon."
+  ],
+  "explanation": [
+    {
+      "heading": "The opening sound determines a or an",
+      "body": "Choose a before a consonant sound and an before a vowel sound, even when the spelling suggests the opposite. Initialisms are normally pronounced as individual letter names; acronyms may be spoken as whole words. Apply the article to what the listener actually hears, not just the first written character. Pronunciation and article preferences can vary across accents or uncommon terms.",
+      "example": "An MRI scan was scheduled at a university clinic."
+    },
+    {
+      "heading": "Ordinary indefinite reference",
+      "body": "Use a or an to introduce one unspecified member of a class. One can replace the indefinite article in some sentences, but it often highlights number or contrast instead of serving as a neutral introduction. With a specific countable object, the intended emphasis can determine which choice sounds more natural.",
+      "example": "We need a volunteer for the afternoon session."
+    },
+    {
+      "heading": "Rates, quantities and possessive constructions",
+      "body": "Use a or an rather than one in conventional expressions of frequency, price, rate and quantity: twice a month, an hour, a dozen, and a few. Use a before the possessed noun in the pattern a friend of + possessive, rather than one in the neutral version. These are patterns of usage, not claims that every occurrence of one with a time unit is impossible.",
+      "example": "A colleague of Sam's visits the studio twice a month."
+    },
+    {
+      "heading": "One signals exact number or measured emphasis",
+      "body": "A or an and one may both refer to a single item, but one draws extra attention to the quantity, duration or exclusivity. Choose one especially when contrasting a single item with two or more. In ordinary expressions that describe rates, the neutral indefinite article remains the normal choice.",
+      "example": "Please submit one final design, not several alternatives."
+    },
+    {
+      "heading": "Paired contrasts and an unspecified moment",
+      "body": "Use one ... the other to distinguish two known items, and one ... another to connect distinct members of a larger or unspecified set. One day, one evening and similar phrases can introduce an unspecified occasion in a story or refer to an unknown future time. These meanings are not interchangeable with every use of a day or an evening.",
+      "example": "One evening, the caretaker checked one gate and then the other."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Initial letter versus initial sound",
+      "left": {
+        "label": "Vowel sound",
+        "example": "an F grade",
+        "note": "The spoken letter F begins with an /e/ sound."
+      },
+      "right": {
+        "label": "Consonant sound",
+        "example": "a U-shaped handle",
+        "note": "The spoken letter U begins with a /y/ sound."
+      }
+    },
+    {
+      "title": "An unspecified member versus an exact count",
+      "left": {
+        "label": "Neutral introduction",
+        "example": "We need a new assistant.",
+        "note": "The focus is the type of person needed, not a numerical contrast."
+      },
+      "right": {
+        "label": "Number in contrast",
+        "example": "We need one assistant, not three.",
+        "note": "One focuses attention on the precise number required."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "An honest reply is more useful than a vague promise.",
+      "note": "Honest starts with a vowel sound because its h is silent."
+    },
+    {
+      "sentence": "A European scientist presented an MRI image.",
+      "note": "European begins with a /y/ sound, whereas M begins with a vowel sound when named."
+    },
+    {
+      "sentence": "He is a former colleague of Rosa's.",
+      "note": "A ... of ... with a possessive is a conventional indefinite construction."
+    },
+    {
+      "sentence": "The board meets four times a year.",
+      "note": "A expresses frequency in this conventional rate phrase."
+    },
+    {
+      "sentence": "One afternoon, the editor selected one photograph rather than six.",
+      "note": "The first one introduces a narrative time; the second stresses the exact quantity."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The team appointed an university representative.",
+      "correct": "The team appointed a university representative.",
+      "why": "University starts with the consonant sound /y/, so a is required."
+    },
+    {
+      "incorrect": "We expect a honest assessment by Friday.",
+      "correct": "We expect an honest assessment by Friday.",
+      "why": "The h in honest is silent, leaving an initial vowel sound."
+    },
+    {
+      "incorrect": "They review the budget twice one month.",
+      "correct": "They review the budget twice a month.",
+      "why": "Twice a month is a standard expression of frequency."
+    },
+    {
+      "incorrect": "She chose one folder and then another, even though there were only two folders.",
+      "correct": "She chose one folder and then the other, even though there were only two folders.",
+      "why": "The other identifies the remaining member of a known pair."
+    }
+  ],
+  "studyTips": [
+    "Say abbreviations aloud before choosing the article: pronounce each letter if it is an initialism, but pronounce the whole word if it is an acronym.",
+    "Turn a neutral sentence with a or an into one with numerical contrast and explain what the word one now emphasises.",
+    "Collect examples of rate expressions and paired one ... the other structures, then practise both in short dialogues."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct indefinite article (not a number) before the spoken initialism MRI.",
+      "choices": [
+        "a MRI appointment",
+        "an MRI appointment",
+        "one MRI appointment"
+      ],
+      "answerIndex": 1,
+      "feedback": "M is pronounced em and begins with a vowel sound; the indefinite article is an."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct indefinite article before European in the standard pronunciation.",
+      "choices": [
+        "an European colleague",
+        "one European colleague",
+        "a European colleague"
+      ],
+      "answerIndex": 2,
+      "feedback": "European begins with the consonant sound /y/, despite its initial written vowel."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Complete the conventional frequency expression: The committee meets twice ___ year.",
+      "choices": [
+        "one",
+        "a",
+        "an"
+      ],
+      "answerIndex": 1,
+      "feedback": "Twice a year is a conventional frequency expression."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which option most directly stresses that the speaker wants exactly one printed version, not multiple copies?",
+      "choices": [
+        "an printed copy",
+        "one printed copy",
+        "a printed copy"
+      ],
+      "answerIndex": 1,
+      "feedback": "One printed copy emphasises a precise count; a printed copy is a neutral introduction."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "We were invited to ___ (hour) long interview. Write the indefinite article before hour.",
+      "acceptedAnswers": [
+        "an"
+      ],
+      "feedback": "Hour begins with a vowel sound because the h is silent."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "She works for ___ (European) organisation. Write the indefinite article.",
+      "acceptedAnswers": [
+        "a"
+      ],
+      "feedback": "European begins with a consonant /y/ sound, so a is natural."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We check the system three times ___ (week). Write the article in this frequency phrase.",
+      "acceptedAnswers": [
+        "a"
+      ],
+      "feedback": "Three times a week uses a for a repeated rate."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "There are two keys. Take ___ (one) key and leave the other untouched. Write the number word that makes the pair explicit.",
+      "acceptedAnswers": [
+        "one"
+      ],
+      "feedback": "One ... the other explicitly selects one member of a known pair."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: She wrote a MBA application in September.",
+      "acceptedAnswers": [
+        "She wrote an MBA application in September."
+      ],
+      "feedback": "The name of the letter M starts with a vowel sound, so an is appropriate."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: They provided an user account for each guest.",
+      "acceptedAnswers": [
+        "They provided a user account for each guest."
+      ],
+      "feedback": "User begins with the consonant /y/ sound and takes a."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: We have team meetings six times one year.",
+      "acceptedAnswers": [
+        "We have team meetings six times a year."
+      ],
+      "feedback": "A year completes the standard rate expression."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: There were two lamps. I switched on one lamp and then another.",
+      "acceptedAnswers": [
+        "There were two lamps. I switched on one lamp and then the other."
+      ],
+      "feedback": "The other identifies the remaining lamp in a known set of two."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Describe a trustworthy consultant in a full sentence. Facts: honest / adviser / is joining us. Start with \"An\".",
+      "acceptedAnswers": [
+        "An honest adviser is joining us."
+      ],
+      "feedback": "Honest has a silent h, so the opening sound is a vowel."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Introduce the professional in a full sentence. Facts: European / engineer / arrived. Start with \"A\".",
+      "acceptedAnswers": [
+        "A European engineer arrived."
+      ],
+      "feedback": "The initial /y/ sound of European takes a."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Describe who called in a full sentence. Facts: NGO / representative / called. Start with \"An\".",
+      "acceptedAnswers": [
+        "An NGO representative called."
+      ],
+      "feedback": "N is pronounced en, so the article is an."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Use an indefinite construction with a possessive. Facts: friend / Daniel / called yesterday. Start with 'A' and use the pattern 'a ... of ...'.",
+      "acceptedAnswers": [
+        "A friend of Daniel's called yesterday."
+      ],
+      "feedback": "A friend of Daniel's is the conventional indefinite possessive pattern."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Give the correct frequency expression in one sentence. Facts: We / meet / twice / month. Use a.",
+      "acceptedAnswers": [
+        "We meet twice a month."
+      ],
+      "feedback": "Twice a month expresses a repeating frequency with a."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Emphasise that only one ticket is required. Start with \"We need\" and end \"not two\".",
+      "acceptedAnswers": [
+        "We need one ticket, not two."
+      ],
+      "feedback": "One makes the quantity explicit in contrast to two."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "There are exactly two screens. Describe the sequence, beginning with \"Check\". Facts: one screen / then / the other.",
+      "acceptedAnswers": [
+        "Check one screen and then the other.",
+        "Check one screen, then the other."
+      ],
+      "feedback": "One ... the other distinguishes the two members of a pair."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Open a short story with the words \"One morning\". Facts: the lights / go out. Use the past simple and say the full sentence.",
+      "acceptedAnswers": [
+        "One morning, the lights went out."
+      ],
+      "feedback": "One morning can introduce a particular unspecified moment in the past."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The new intern has an MBA and works with a European research group. Both qualifications were discussed during the introduction.",
+      "prompt": "Which phrase correctly describes the intern’s qualification?",
+      "choices": [
+        "An MBA",
+        "A MBA",
+        "An European degree"
+      ],
+      "answerIndex": 0,
+      "feedback": "MBA begins with the spoken vowel sound in em; European begins with the consonant /y/ sound."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We booked a room for an hour, but the organiser asked whether we could stay for two hours.",
+      "prompt": "How long was the room originally booked for?",
+      "choices": [
+        "Two hours",
+        "One hour",
+        "Three hours"
+      ],
+      "answerIndex": 1,
+      "feedback": "An hour is the original duration; two hours is only the later request."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The new coordinator is an honest person who checks every figure before publishing it.",
+      "prompt": "Write the indefinite article plus the adjective that describes the coordinator.",
+      "acceptedAnswers": [
+        "an honest"
+      ],
+      "feedback": "An honest is audible because honest has a silent h."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "We run training sessions twice a year, usually in March and September, rather than every month.",
+      "prompt": "How often are training sessions held?",
+      "choices": [
+        "Every month",
+        "Once a year",
+        "Twice a year"
+      ],
+      "answerIndex": 2,
+      "feedback": "Twice a year names a repeated annual frequency."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The designer requested one sample, not four, so the workshop prepared a single prototype.",
+      "prompt": "Why does the speaker stress one?",
+      "choices": [
+        "To stress an exact number",
+        "To identify a professional role",
+        "To name a regular weekly rate"
+      ],
+      "answerIndex": 0,
+      "feedback": "One contrasts the single sample requested with four samples."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "One evening, a visitor entered the archive and left a note. The date was never recorded.",
+      "prompt": "What does one evening do in this account?",
+      "choices": [
+        "Specify an exact calendar date",
+        "Introduce an unspecified occasion",
+        "Indicate a repeated nightly habit"
+      ],
+      "answerIndex": 1,
+      "feedback": "One evening introduces a particular but unspecified time in a narrative."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "We meet twice a month to review progress before the next delivery.",
+      "prompt": "Write the complete three-word frequency expression.",
+      "acceptedAnswers": [
+        "twice a month"
+      ],
+      "feedback": "Twice a month is the expression heard in the statement."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "One afternoon, the manager called with the final decision.",
+      "prompt": "Write the two-word expression that introduces the narrative occasion.",
+      "acceptedAnswers": [
+        "One afternoon"
+      ],
+      "feedback": "One afternoon introduces an unspecified occasion in a narrative."
+    }
+  ]
+}

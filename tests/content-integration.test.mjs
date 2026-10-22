@@ -42,7 +42,13 @@ test('staging validation detects missing units and refuses publication before to
     await writeFile(join(folder,'eg3-u001.json'),JSON.stringify(model));
     const plan=await inspectStaging({root,bookId:'english-grammar-3',sourceDir:folder,expected:2});
     assert.ok(plan.errors.some(e=>e.includes('missing unit number 2')));
-    await assert.rejects(()=>publishStaging({root,bookId:'english-grammar-3',sourceDir:folder,expected:2}),/Preflight failed/);
+    // Avoid colliding with the real publication lock while the suite runs.
+    const isolatedRoot=join(folder,'isolated-project');
+    await mkdir(join(isolatedRoot,'curriculum'),{recursive:true});
+    await writeFile(join(isolatedRoot,'curriculum','books.json'),await readFile(join(root,'curriculum','books.json')));
+    await assert.rejects(()=>publishStaging({
+      root:isolatedRoot,bookId:'english-grammar-3',sourceDir:folder,expected:2
+    }),/Preflight failed/);
   });
 });
 

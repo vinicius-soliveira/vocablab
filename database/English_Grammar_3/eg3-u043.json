@@ -1,0 +1,407 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u043",
+  "title": "Compound Nouns and Complex Noun Phrases",
+  "level": "C1",
+  "topicId": "eg3-u043-compound-nouns-and-noun-phrases",
+  "summary": "Build precise noun phrases using noun modifiers, possessive forms, prepositional phrases, compound nouns derived from verbs, and hyphenated modifiers; distinguish the meaning and plural pattern of each structure.",
+  "learningObjectives": [
+    "Recognise the head noun in noun + noun combinations and select singular or conventional plural noun modifiers.",
+    "Choose between noun compounds, possessives and prepositional phrases according to ownership, production, contents and established categories.",
+    "Form plurals of ordinary compounds and selected exceptional compounds derived from multi-word expressions.",
+    "Use hyphenated premodifiers to express precise relationships without confusing them with ordinary post-noun phrases."
+  ],
+  "explanation": [
+    {
+      "heading": "Noun modifiers and the meaning of the head",
+      "body": "In a typical noun + noun compound, the final noun is the head and names the kind of object; the earlier noun identifies its purpose, material, topic or subtype. The modifier is usually singular even when the compound refers to several things. A plural modifier may be conventional when the source noun is normally plural, or when an established organisational name denotes a range of activities. Do not mechanically remove every final -s: check the intended meaning and established usage.",
+      "example": "The museum opened a ticket office and recruited new members for its sales team."
+    },
+    {
+      "heading": "Possession, users, producers and parts",
+      "body": "Use a possessive when the first noun identifies a person or animal who uses, owns or produces what follows, or when the relationship concerns a body part. Use a noun modifier when identifying a recognised type or function of an inanimate object. The distinction is about the relationship, not a prohibition against all possessives with non-human nouns.",
+      "example": "The violinist's bow needed repair, but the violin case was undamaged."
+    },
+    {
+      "heading": "The contents of a container and less familiar relationships",
+      "body": "A noun + preposition + noun phrase can identify the contents of a container, as opposed to the type of container. It also expresses a descriptive relationship that has not become a recognised class of object. Some fixed noun compounds have specialised meanings, so choosing between structures can change what the listener understands.",
+      "example": "A bowl of soup was served beside a decorative soup bowl."
+    },
+    {
+      "heading": "Compounds from multi-word verbs: plural placement",
+      "body": "A multi-word verb can give rise to a noun, sometimes written as one word and sometimes with a hyphen. Many countable compounds take a normal final -s, such as handouts and breakdowns; others, particularly noun + particle combinations, place -s on the central noun, as in runners-up and passers-by. Learn the conventional form rather than applying one spelling rule everywhere.",
+      "example": "The organisers printed extra handouts for the runners-up."
+    },
+    {
+      "heading": "Hyphenated expressions before a noun",
+      "body": "Several words may function together as one modifier before a noun. Hyphens can clarify that relationship, particularly in established expressions such as last-minute, long-term and step-by-step. Their role differs from a separate phrase after the noun. Hyphenation practices vary by expression and style; treat familiar units as patterns, not a rule that every premodifier requires a hyphen.",
+      "example": "We made a last-minute adjustment after reading the long-term forecast."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A container versus its contents",
+      "left": {
+        "label": "Noun compound",
+        "example": "a water bottle",
+        "note": "A bottle intended for carrying water; it may be empty."
+      },
+      "right": {
+        "label": "Prepositional phrase",
+        "example": "a bottle of water",
+        "note": "A quantity of water presented in a bottle."
+      }
+    },
+    {
+      "title": "Regular versus exceptional compound plurals",
+      "left": {
+        "label": "Plural at the end",
+        "example": "three equipment breakdowns",
+        "note": "A common compound takes plural -s on the final element."
+      },
+      "right": {
+        "label": "Plural inside the compound",
+        "example": "three runners-up",
+        "note": "The noun runner is pluralised before the particle up."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The conference centre has a new registration desk.",
+      "note": "Registration describes the purpose of the desk; desk is the head noun."
+    },
+    {
+      "sentence": "The arts committee approved a programme for the festival.",
+      "note": "Arts can be a conventional plural noun modifier in an institution name."
+    },
+    {
+      "sentence": "The photographer's camera was still in the equipment cupboard.",
+      "note": "The possessive identifies an individual user, whereas equipment identifies a type of cupboard."
+    },
+    {
+      "sentence": "The chef carried a tray of pastries past the display trays.",
+      "note": "Of identifies contents; pastries modifies a class of display trays."
+    },
+    {
+      "sentence": "Two passers-by received a step-by-step explanation.",
+      "note": "Passers-by has its plural on passer; step-by-step modifies explanation as a unit."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "They installed three cameras rooms in the gallery.",
+      "correct": "They installed three camera rooms in the gallery.",
+      "why": "A normal noun modifier remains singular; rooms is the head carrying the plural."
+    },
+    {
+      "incorrect": "The nurses equipment was locked in a cabinet.",
+      "correct": "The nurses' equipment was locked in a cabinet.",
+      "why": "The plural possessive nurses ends in -s, so only an apostrophe is added."
+    },
+    {
+      "incorrect": "We placed a bowl soup on the table.",
+      "correct": "We placed a bowl of soup on the table.",
+      "why": "The preposition of identifies soup as the contents of the bowl."
+    },
+    {
+      "incorrect": "The judges announced two runner-ups at the ceremony.",
+      "correct": "The judges announced two runners-up at the ceremony.",
+      "why": "Runner-up is a compound whose plural is formed on runner, not up."
+    }
+  ],
+  "studyTips": [
+    "When reading a complex noun phrase, underline the final head noun and say what relationship each earlier modifier contributes.",
+    "Contrast a device name with its contents, such as a juice glass versus a glass of juice, and explain the different meanings.",
+    "Make a small list of conventional compound plurals and pre-noun hyphenated expressions; test each one in an original sentence."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A room where staff store documents is described by a normal noun + noun compound. Which phrase fits?",
+      "choices": [
+        "a documents room",
+        "a document room",
+        "a document of room"
+      ],
+      "answerIndex": 1,
+      "feedback": "Document is the singular classifying modifier; room is the head noun."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The pianist owns the stool personally. Which phrase clearly expresses this user's relationship?",
+      "choices": [
+        "the piano stool",
+        "the pianist's stool",
+        "the pianist stool"
+      ],
+      "answerIndex": 1,
+      "feedback": "The pianist's stool identifies a specific user's stool; piano stool classifies the kind of stool."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "You mean a glass already containing lemonade, not a glass designed for lemonade. Which phrase makes that clear?",
+      "choices": [
+        "a lemonade glass",
+        "a glass lemonade",
+        "a glass of lemonade"
+      ],
+      "answerIndex": 2,
+      "feedback": "A glass of lemonade names the drink contained in the glass."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which is the standard plural of runner-up?",
+      "choices": [
+        "runners-up",
+        "runner-ups",
+        "runners-ups"
+      ],
+      "answerIndex": 0,
+      "feedback": "Runner-up forms its plural on runner: runners-up."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The company is opening a new ___ (ticket + office). Write the two-word compound noun.",
+      "acceptedAnswers": [
+        "ticket office"
+      ],
+      "feedback": "Ticket describes the purpose of the office and stays singular."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Three ___ (breakdown) delayed the service. Write the plural compound noun.",
+      "acceptedAnswers": [
+        "breakdowns"
+      ],
+      "feedback": "Breakdown takes the regular -s at the end of the compound noun."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We found two ___ (passer-by) who saw the accident. Write the standard plural.",
+      "acceptedAnswers": [
+        "passers-by"
+      ],
+      "feedback": "Passers-by places the plural -s on passer."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The report required a ___ (last minute) revision. Write the hyphenated premodifier.",
+      "acceptedAnswers": [
+        "last-minute"
+      ],
+      "feedback": "Last-minute acts as one compound modifier before revision."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: The hotel ordered four luggage carts for its new baggages area.",
+      "acceptedAnswers": [
+        "The hotel ordered four luggage carts for its new baggage area."
+      ],
+      "feedback": "Baggage is normally an uncountable noun modifier in baggage area."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: The childrens' drawings covered the corridor walls.",
+      "acceptedAnswers": [
+        "The children's drawings covered the corridor walls."
+      ],
+      "feedback": "Children is an irregular plural not ending in -s, so add 's."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: The waiter brought us a pot coffee after lunch.",
+      "acceptedAnswers": [
+        "The waiter brought us a pot of coffee after lunch."
+      ],
+      "feedback": "A pot of coffee describes a container with its contents."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: They offered a step by step guide to new volunteers.",
+      "acceptedAnswers": [
+        "They offered a step-by-step guide to new volunteers."
+      ],
+      "feedback": "Step-by-step is a hyphenated expression modifying guide."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Name the desk near the exit in a complete sentence. Facts: information / desk / is near the exit. Start with \"An\".",
+      "acceptedAnswers": [
+        "An information desk is near the exit."
+      ],
+      "feedback": "Information classifies the desk and does not need a plural -s."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Use a plural noun compound. Facts: two / safety / checks. Give a complete sentence starting with \"We completed\".",
+      "acceptedAnswers": [
+        "We completed two safety checks."
+      ],
+      "feedback": "Safety modifies the head checks, which carries the plural."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Describe who owns the instrument. Facts: the musician / violin / is old. Begin with 'The' and use a singular possessive.",
+      "acceptedAnswers": [
+        "The musician's violin is old."
+      ],
+      "feedback": "The musician's expresses the individual's relationship to the instrument."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Describe the contents in one sentence. Facts: a jar / honey / is on the counter. Start with \"A\" and use of.",
+      "acceptedAnswers": [
+        "A jar of honey is on the counter."
+      ],
+      "feedback": "The phrase of honey identifies what the jar contains."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "State the standard plural of passer-by as a full sentence, beginning \"Two\" and ending \"stopped to help\".",
+      "acceptedAnswers": [
+        "Two passers-by stopped to help.",
+        "Two passers by stopped to help."
+      ],
+      "feedback": "Passers-by is pluralised on passer, not at the end."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Describe a compound noun derived from break down. Say: The / machine / suffered / two / breakdowns.",
+      "acceptedAnswers": [
+        "The machine suffered two breakdowns."
+      ],
+      "feedback": "Breakdowns is a countable compound noun with regular plural -s."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this aloud: \"The gallery held a last minute meeting.\"",
+      "acceptedAnswers": [
+        "The gallery held a last-minute meeting.",
+        "The gallery held a last minute meeting."
+      ],
+      "feedback": "Last-minute is conventionally hyphenated before meeting; the speech transcript may not preserve the hyphen."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two complete sentences in order. Sentence one: The artist / use / a paintbrush. Sentence two: The assistant / deliver / a cup of tea. Use the past simple.",
+      "acceptedAnswers": [
+        "The artist used a paintbrush. The assistant delivered a cup of tea.",
+        "The artist used a paint brush. The assistant delivered a cup of tea."
+      ],
+      "feedback": "Paint brush classifies an object, whereas a cup of tea expresses contents."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We need a coffee cup for the display. Please do not prepare a cup of coffee; no one is drinking anything.",
+      "prompt": "What does the speaker want?",
+      "choices": [
+        "A drinking vessel",
+        "A ready-made drink",
+        "A container of coffee beans"
+      ],
+      "answerIndex": 0,
+      "feedback": "Coffee cup is the type of vessel; a cup of coffee would name its contents."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The librarian's desk was damaged, but the library desk for visitors stayed open all afternoon.",
+      "prompt": "Which desk was damaged?",
+      "choices": [
+        "The public enquiry desk",
+        "The individual librarian’s desk",
+        "Every desk in the library"
+      ],
+      "answerIndex": 1,
+      "feedback": "The possessive librarian's identifies the desk belonging to or used by that person."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "There were three runners-up in the contest, and each received a small certificate.",
+      "prompt": "Write the plural compound noun for the people who finished just below first place.",
+      "acceptedAnswers": [
+        "runners-up"
+      ],
+      "feedback": "Runners-up is the spoken compound and forms its plural on runner."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The mechanic reported two breakdowns before lunch, but the afternoon inspection found no further problems.",
+      "prompt": "How many breakdowns happened before lunch?",
+      "choices": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "answerIndex": 1,
+      "feedback": "Two is attached to breakdowns, a regular plural compound noun."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The director gave everyone a step-by-step plan, rather than a vague list of goals.",
+      "prompt": "How did the plan present the process?",
+      "choices": [
+        "As a single broad goal",
+        "As an unexplained summary",
+        "As an ordered sequence of steps"
+      ],
+      "answerIndex": 2,
+      "feedback": "Step-by-step tells us the process is broken into ordered stages."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The baker's apron was blue, while the bakery sign outside was bright green.",
+      "prompt": "According to the speaker, what was blue?",
+      "choices": [
+        "The baker's apron",
+        "The bakery sign",
+        "Both the apron and the sign"
+      ],
+      "answerIndex": 0,
+      "feedback": "Baker's is possessive and identifies the individual who wears the apron."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The assistant carried a bowl of rice to the dining room before the guests arrived.",
+      "prompt": "Write the four-word phrase naming the container and its contents.",
+      "acceptedAnswers": [
+        "a bowl of rice"
+      ],
+      "feedback": "A bowl of rice expresses contents using of."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The tour guide waited at the information desk near the entrance.",
+      "prompt": "Write the two-word compound naming the type of desk.",
+      "acceptedAnswers": [
+        "information desk"
+      ],
+      "feedback": "Information names the purpose of the desk, which is the head noun."
+    }
+  ]
+}

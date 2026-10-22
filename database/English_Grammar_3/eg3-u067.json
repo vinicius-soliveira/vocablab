@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u067",
+  "title": "Gradable and Non-Gradable Adjectives: Choosing Intensifiers",
+  "level": "C1",
+  "topicId": "eg3-u067-gradable-and-non-gradable-adjectives-with-adverbs",
+  "summary": "Choose natural adverb–adjective combinations by distinguishing gradable qualities from absolute, extreme and classifying meanings. Use fairly, really and pretty with care, and recognise expressive exceptions without treating them as neutral defaults.",
+  "learningObjectives": [
+    "Identify gradable adjectives and select degree adverbs that express different strengths of a quality.",
+    "Distinguish absolute or classifying readings and pair them with appropriate non-grading or extent adverbs.",
+    "Choose fairly, really and informal pretty in suitable contexts while recognising lexical restrictions.",
+    "Recognise marked hyperbole and explain why adverb–adjective compatibility depends on sense and collocation."
+  ],
+  "explanation": [
+    {
+      "heading": "Gradable qualities admit degrees",
+      "body": "Adjectives such as crowded, narrow, useful and anxious normally describe properties that vary in degree. Adverbs including slightly, fairly, quite, very and extremely can locate a person or thing on that scale. The choice changes intensity rather than the basic category. Gradability depends on the meaning used in context, so do not apply an unchanging label to every adjective.",
+      "example": "The corridor was slightly narrow, but the entrance was extremely crowded."
+    },
+    {
+      "heading": "Absolute and extreme meanings take other intensifiers",
+      "body": "In their ordinary categorical or extreme senses, adjectives such as impossible, unique, outstanding and wrong generally resist neutral degree adverbs like very. Speakers typically choose absolutely, completely, utterly or entirely when the combination is idiomatic. Some adjectives describe membership in a category, so extent adverbs such as mainly, largely, almost and exclusively are often more informative than degree adverbs.",
+      "example": "The proposed shortcut was completely impossible, while the programme was mainly educational."
+    },
+    {
+      "heading": "Adverbs are not freely interchangeable",
+      "body": "Sharing a broad group does not guarantee natural collocation. Absolutely brilliant is conventional, but completely brilliant is much less typical; completely empty is natural, whereas absolutely empty may sound emphatic in specific contexts. Extent adverbs also select particular senses: almost empty describes proximity to an endpoint, but mainly empty is usually not the intended description. Judge the combination, not only the separate words.",
+      "example": "The gallery was almost empty, and the final performance was absolutely brilliant."
+    },
+    {
+      "heading": "Fairly, really and pretty have different limits",
+      "body": "Fairly often expresses a moderate degree and is possible with many ordinary gradable adjectives, as in fairly difficult. Really and informal pretty combine with a broader range, including some extreme adjectives, as in really wonderful and pretty awful. In neutral standard usage, fairly is generally unnatural with positive absolutes such as perfect, essential and invaluable. Register also matters: pretty sounds conversational rather than formal.",
+      "example": "The first draft was fairly clear, but the revised version was really excellent."
+    },
+    {
+      "heading": "Marked exceptions do not erase the distinction",
+      "body": "Speakers sometimes use a grading adverb with an apparently absolute adjective for deliberate exaggeration or humour, as in very impossible. A non-grading adverb may also combine with a typically gradable adjective in an unusual context, as in virtually wealthy. Such departures need a special reading; learners should first master ordinary combinations before imitating playful effects.",
+      "example": "By the deadline, completing another full review felt almost impossible."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Measuring a degree versus emphasising an extreme",
+      "left": {
+        "label": "Gradable: very / slightly",
+        "example": "The instructions were very confusing.",
+        "note": "Confusing can vary in degree; very indicates a high degree."
+      },
+      "right": {
+        "label": "Extreme: absolutely",
+        "example": "The final demonstration was absolutely fantastic.",
+        "note": "Fantastic already expresses a strong judgement; absolutely intensifies it naturally."
+      }
+    },
+    {
+      "title": "Fairly versus really with absolute praise",
+      "left": {
+        "label": "Fairly: moderate quality",
+        "example": "The report was fairly informative.",
+        "note": "Fairly measures a degree of an ordinary gradable quality."
+      },
+      "right": {
+        "label": "Really: absolute praise",
+        "example": "The report was really outstanding.",
+        "note": "Really naturally emphasises the extreme appraisal outstanding; fairly outstanding is not the neutral choice."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The meeting room was slightly warmer than the hallway.",
+      "note": "Slightly modifies a gradable temperature comparison."
+    },
+    {
+      "sentence": "The candidate gave an absolutely superb presentation.",
+      "note": "Absolutely naturally strengthens an extreme evaluative adjective."
+    },
+    {
+      "sentence": "The new rules are largely administrative.",
+      "note": "Largely indicates how far the classification applies, not how strong the quality is."
+    },
+    {
+      "sentence": "The revised instructions were fairly straightforward.",
+      "note": "Fairly measures the degree of an ordinary gradable judgement."
+    },
+    {
+      "sentence": "The collection was almost complete when the missing photograph arrived.",
+      "note": "Almost describes nearness to the endpoint complete."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The narrow staircase was absolutely narrow.",
+      "correct": "The narrow staircase was extremely narrow.",
+      "why": "Narrow is gradable; extremely is a natural strong degree adverb."
+    },
+    {
+      "incorrect": "The award ceremony was very superb.",
+      "correct": "The award ceremony was absolutely superb.",
+      "why": "Superb is an extreme adjective normally intensified by absolutely in neutral usage."
+    },
+    {
+      "incorrect": "Her contribution was fairly invaluable to the project.",
+      "correct": "Her contribution was genuinely invaluable to the project.",
+      "why": "Fairly does not normally grade invaluable; genuinely confirms the assessment without treating it as a moderate quality."
+    },
+    {
+      "incorrect": "The programme is very agricultural in its focus.",
+      "correct": "The programme is mainly agricultural in its focus.",
+      "why": "Agricultural classifies the focus; mainly expresses its extent rather than a degree of agricultural quality."
+    }
+  ],
+  "studyTips": [
+    "Label each adjective in a short news article gradable, extreme or classifying in that particular sentence, then choose an adverb.",
+    "Make a contrast set using slightly crowded, very crowded and extremely crowded, followed by absolutely packed.",
+    "Check adverb–adjective pairings in a reliable learner dictionary; shared categories never guarantee identical collocations."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The hallway was ___ crowded before the lecture; people could still move comfortably. Choose a natural low-degree modifier.",
+      "choices": [
+        "absolutely",
+        "slightly",
+        "entirely"
+      ],
+      "answerIndex": 1,
+      "feedback": "Slightly indicates a small degree of a gradable quality such as crowded."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The final concert was ___ magnificent. Select the natural emphatic choice in neutral English.",
+      "choices": [
+        "very",
+        "fairly",
+        "absolutely"
+      ],
+      "answerIndex": 2,
+      "feedback": "Magnificent is an extreme appraisal; absolutely is the natural intensifier here."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Most courses concern literature, with a few in history. The curriculum is ___ literary. Choose an extent adverb.",
+      "choices": [
+        "mainly",
+        "utterly",
+        "extremely"
+      ],
+      "answerIndex": 0,
+      "feedback": "Mainly expresses the extent of the literary classification."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which is the most natural neutral description of work that cannot be done under any circumstances?",
+      "choices": [
+        "fairly impossible",
+        "completely impossible",
+        "slightly impossible"
+      ],
+      "answerIndex": 1,
+      "feedback": "Completely intensifies the absolute meaning of impossible without marked hyperbole."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The revised map is ___ (degree adverb: to a small extent) clearer than the original. Supply one word.",
+      "acceptedAnswers": [
+        "slightly"
+      ],
+      "feedback": "Slightly gives a modest degree of change."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The spectators thought the performance was ___ superb. Supply the conventional emphatic adverb beginning with a.",
+      "acceptedAnswers": [
+        "absolutely"
+      ],
+      "feedback": "Absolutely is a conventional partner of superb."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The programme covers engineering and very little else. It is ___ technical. Supply an adverb meaning mainly.",
+      "acceptedAnswers": [
+        "primarily"
+      ],
+      "feedback": "Primarily indicates the dominant classifying focus."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The document is ___ ready; only one signature is missing. Supply one adverb expressing proximity to completion.",
+      "acceptedAnswers": [
+        "almost",
+        "nearly"
+      ],
+      "feedback": "Almost and nearly both indicate proximity to the endpoint ready."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the adverb in the full sentence: The speaker made a very terrific impression.",
+      "acceptedAnswers": [
+        "The speaker made an absolutely terrific impression."
+      ],
+      "feedback": "Terrific is an extreme positive adjective, naturally strengthened by absolutely."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the adverb in the full sentence: The road was completely narrow near the bridge.",
+      "acceptedAnswers": [
+        "The road was extremely narrow near the bridge."
+      ],
+      "feedback": "Extremely, unlike completely, naturally modifies the gradable adjective narrow."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the adverb in the full sentence: The event was fairly perfect.",
+      "acceptedAnswers": [
+        "The event was really perfect."
+      ],
+      "feedback": "Really is a natural intensifier with perfect, unlike the moderate-degree adverb fairly."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the adverb in the full sentence: The school curriculum is very scientific in subject area.",
+      "acceptedAnswers": [
+        "The school curriculum is mainly scientific in subject area."
+      ],
+      "feedback": "Mainly describes the dominant curricular category; very scientific would suggest a different qualitative sense."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Produce one sentence using the words The room / very / noisy. Start with \"The room\".",
+      "acceptedAnswers": [
+        "The room was very noisy."
+      ],
+      "feedback": "Noisy is gradable, so very is natural."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Give a high-intensity appraisal. Facts: The film / absolutely / fantastic. Use the past simple.",
+      "acceptedAnswers": [
+        "The film was absolutely fantastic."
+      ],
+      "feedback": "Absolutely naturally strengthens fantastic."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Express a low degree of change. Facts: The new layout / slightly / different. Use the present simple.",
+      "acceptedAnswers": [
+        "The new layout is slightly different."
+      ],
+      "feedback": "Slightly grades different."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Correct the sentence aloud: \"The plan was very impossible.\" Replace only the degree adverb with completely.",
+      "acceptedAnswers": [
+        "The plan was completely impossible."
+      ],
+      "feedback": "Completely is the unmarked intensifier for impossible here."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Use an extent adverb to describe classification. Facts: The training / mainly / practical. Begin with \"The training\".",
+      "acceptedAnswers": [
+        "The training is mainly practical."
+      ],
+      "feedback": "Mainly specifies how far the description applies."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Make a polite moderate evaluation. Facts: The instructions / fairly / clear. Use the past simple.",
+      "acceptedAnswers": [
+        "The instructions were fairly clear."
+      ],
+      "feedback": "Fairly gives an intermediate degree of the gradable adjective clear."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say two sentences in this exact order: \"The path was rather steep.\" Then \"The view was absolutely wonderful.\"",
+      "acceptedAnswers": [
+        "The path was rather steep. The view was absolutely wonderful."
+      ],
+      "feedback": "Rather grades steep; absolutely intensifies wonderful."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Correct the unnatural modifier aloud: \"The lecture was fairly excellent.\" Replace fairly with really.",
+      "acceptedAnswers": [
+        "The lecture was really excellent."
+      ],
+      "feedback": "Really combines naturally with excellent; fairly excellent is normally awkward."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The first exercise was slightly challenging, but the second was very easy.",
+      "prompt": "What degree of difficulty does the speaker report?",
+      "choices": [
+        "A small degree",
+        "An absolute limit",
+        "No difficulty"
+      ],
+      "answerIndex": 0,
+      "feedback": "Slightly challenging indicates a small degree of the quality."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The exhibition was absolutely superb, and the visitors stayed for hours.",
+      "prompt": "Which expression does the speaker use to praise the exhibition?",
+      "choices": [
+        "Very unique",
+        "Absolutely superb",
+        "Fairly essential"
+      ],
+      "answerIndex": 1,
+      "feedback": "The audio uses absolutely superb as an extreme evaluation."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The digital archive is almost complete, with just two records left to add.",
+      "prompt": "Transcribe the exact two-word phrase describing the archive.",
+      "acceptedAnswers": [
+        "almost complete"
+      ],
+      "feedback": "Almost expresses proximity to completion."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Our programme is mainly technical, although a few modules concern public policy.",
+      "prompt": "According to the speaker, what is mostly technical?",
+      "choices": [
+        "The committee",
+        "The final budget",
+        "The programme"
+      ],
+      "answerIndex": 2,
+      "feedback": "The programme is mainly technical; mainly describes classification by extent."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The accommodation was fairly comfortable, but the restaurant was really wonderful.",
+      "prompt": "Which word signals a moderate rather than extreme judgement?",
+      "choices": [
+        "Fairly",
+        "Utterly",
+        "Completely"
+      ],
+      "answerIndex": 0,
+      "feedback": "Fairly is a moderate degree adverb here."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The new entrance is extremely narrow, so large equipment must use the side door.",
+      "prompt": "How is the new entrance described?",
+      "choices": [
+        "Almost private",
+        "Extremely narrow",
+        "Absolutely agricultural"
+      ],
+      "answerIndex": 1,
+      "feedback": "Extremely grades narrow, an adjective of degree."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Your revised proposal was really excellent, particularly the final section.",
+      "prompt": "Transcribe the exact two-word expression describing the result.",
+      "acceptedAnswers": [
+        "really excellent"
+      ],
+      "feedback": "Really can emphasise an extreme positive judgement."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The building is largely residential, with shops occupying only the ground floor.",
+      "prompt": "Transcribe the exact two-word phrase describing the building.",
+      "acceptedAnswers": [
+        "largely residential"
+      ],
+      "feedback": "Largely identifies the extent of a classifying use."
+    }
+  ]
+}

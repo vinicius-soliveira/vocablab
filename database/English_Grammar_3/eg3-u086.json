@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u086",
+  "title": "Unless, If Not and Whether: Meaning and Structure",
+  "level": "C2",
+  "topicId": "eg3-u086-if-not-and-unless-if-and-whether",
+  "summary": "Choose between unless and if ... not according to conditional meaning, expectation and sentence structure. Distinguish conditional if from if or whether in indirect questions, and use whether in the grammatical environments where it is preferred or required.",
+  "learningObjectives": [
+    "Use unless for genuine except-if conditions with present forms referring to the future.",
+    "Recognise when if ... not is more natural than unless, particularly in questions, surprising outcomes and unreal conditions.",
+    "Distinguish conditional clauses from embedded alternatives expressed by if or whether and place or not correctly.",
+    "Use whether after prepositions, before to-infinitives, in as to whether phrases and in subject or complement clauses."
+  ],
+  "explanation": [
+    {
+      "heading": "Unless expresses an exception to a general outcome",
+      "body": "Unless often means except if: the main outcome is expected except when the stated condition holds. For real future situations, the unless-clause normally uses a present form rather than will. If ... not is sometimes equivalent, but it does not always convey the same emphasis. Check whether the negative condition really defines an exception.",
+      "example": "The workshop will run outdoors unless the weather turns dangerous."
+    },
+    {
+      "heading": "If ... not is not always interchangeable with unless",
+      "body": "Use if ... not rather than unless when the speaker finds the possible negative event surprising, when the main clause asks what will happen, or when the meaning does not express an only-if exception. In positive unreal conditional sentences, if ... not is normally more natural; unless can occur with a negative unreal main clause in suitable contexts. This is a meaning distinction, not a blanket ban on unless with unreal conditions.",
+      "example": "If the applicant does not respond, what should the committee do?"
+    },
+    {
+      "heading": "If and whether both introduce uncertainty in many indirect questions",
+      "body": "In indirect yes/no questions, if and whether can both introduce a choice between possibilities. This is different from conditional if, which sets a condition. Whether can be followed immediately by or not, while if cannot normally appear in the sequence if or not. With or not at the end, either if or whether may sometimes be possible in an ordinary indirect question.",
+      "example": "I cannot tell whether the parcel has arrived or not."
+    },
+    {
+      "heading": "Whether in restricted positions and before infinitives",
+      "body": "Whether is the standard choice immediately after a preposition, before a to-infinitive and in structures such as disagreement as to whether. These forms are especially useful in formal discussion and writing. Informal speech sometimes permits if after certain prepositions, but it is not the safest choice for edited prose or advanced assessments.",
+      "example": "The steering group debated whether to postpone the launch."
+    },
+    {
+      "heading": "Whether in subjects, complements and formal reporting",
+      "body": "Whether can introduce a clause functioning as a subject or as a complement after be. It is also preferred after verbs such as discuss or consider when explicitly weighing alternatives. As to whether commonly follows nouns such as question, doubt and uncertainty or adjectives expressing uncertainty. Choosing if in these positions can be awkward or unacceptable in formal English.",
+      "example": "Whether the records are complete remains unclear; the central question is whether we can trust the figures."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "An ordinary exception versus an unexpected failure",
+      "left": {
+        "label": "Unless: exception",
+        "example": "We will publish on Monday unless the reviewers ask for changes.",
+        "note": "Publication is the normal plan, with one stated exception."
+      },
+      "right": {
+        "label": "If not: surprising event",
+        "example": "I will be astonished if the reviewers do not ask for any changes.",
+        "note": "The speaker highlights surprise at a possible negative outcome."
+      }
+    },
+    {
+      "title": "An indirect question versus a conditional clause",
+      "left": {
+        "label": "Indirect yes/no question",
+        "example": "We do not know whether the gate is locked.",
+        "note": "Whether introduces uncertainty about a fact; if is also possible here."
+      },
+      "right": {
+        "label": "Condition and consequence",
+        "example": "If the gate is locked, use the side entrance.",
+        "note": "If introduces a condition that determines the action."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Unless the sponsors object, the seminar will start at ten.",
+      "note": "The seminar is expected to begin at ten except if sponsors object."
+    },
+    {
+      "sentence": "If your badge does not work, whom should you contact?",
+      "note": "A question about a negative condition normally uses if ... not rather than unless."
+    },
+    {
+      "sentence": "She would not have accepted the role unless her mentor had encouraged her.",
+      "note": "A negative unreal outcome allows unless to present the necessary exception."
+    },
+    {
+      "sentence": "I have not decided whether to extend the contract.",
+      "note": "Whether, not if, introduces a to-infinitive expressing alternative options."
+    },
+    {
+      "sentence": "Whether the materials meet the standard is still being assessed.",
+      "note": "An initial embedded subject clause naturally begins with whether."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Unless the package will arrive by noon, we will use a courier.",
+      "correct": "Unless the package arrives by noon, we will use a courier.",
+      "why": "For a normal future condition, use the present simple in the unless-clause, not will."
+    },
+    {
+      "incorrect": "Unless I were not so tired, I would come with you.",
+      "correct": "If I were not so tired, I would come with you.",
+      "why": "An unreal positive-result condition normally uses if ... not; unless would not express the intended hypothetical relation naturally."
+    },
+    {
+      "incorrect": "We cannot decide if to reserve the room.",
+      "correct": "We cannot decide whether to reserve the room.",
+      "why": "Use whether, not if, directly before a to-infinitive."
+    },
+    {
+      "incorrect": "The issue is if or not the figures are accurate.",
+      "correct": "The issue is whether or not the figures are accurate.",
+      "why": "Use whether or not, not if or not, for this clause functioning as a complement."
+    }
+  ],
+  "studyTips": [
+    "For each negative condition, paraphrase unless as except if and check whether that meaning fits; do not mechanically replace every if ... not.",
+    "Classify each if as conditional or an embedded yes/no question before choosing between if, unless and whether.",
+    "Check whether is required after a preposition, before to, after as to, or in a subject or complement clause, and listen for where or not is placed."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "An event will proceed except if the safety officer objects. Choose the natural real conditional.",
+      "choices": [
+        "The event will proceed unless the safety officer objects.",
+        "The event will proceed unless the safety officer will object.",
+        "The event will proceed unless the safety officer would object."
+      ],
+      "answerIndex": 0,
+      "feedback": "Unless introduces an exception; an ordinary future condition uses present simple objects."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "You expect Jade to win easily and would be surprised by a defeat. Which sentence best expresses this surprise?",
+      "choices": [
+        "I would be surprised unless Jade loses.",
+        "I would be surprised if Jade does not win.",
+        "I would be surprised if Jade will not win."
+      ],
+      "answerIndex": 1,
+      "feedback": "If ... not clearly presents the unexpected negative outcome; unless does not fit this intended emphasis as naturally."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Select the standard formal construction after the preposition about.",
+      "choices": [
+        "We spoke about if the report was complete.",
+        "We spoke about unless the report was complete.",
+        "We spoke about whether the report was complete."
+      ],
+      "answerIndex": 2,
+      "feedback": "Whether is preferred after a preposition such as about in formal English."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which option correctly introduces a to-infinitive when a decision remains open?",
+      "choices": [
+        "The panel cannot decide whether to appeal.",
+        "The panel cannot decide if to appeal.",
+        "The panel cannot decide unless to appeal."
+      ],
+      "answerIndex": 0,
+      "feedback": "Whether, not if or unless, normally precedes a to-infinitive."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete the exception: \"We will use the main hall ___ the fire inspector objects.\" Write one word.",
+      "acceptedAnswers": [
+        "unless"
+      ],
+      "feedback": "Unless means except if, and objects is the correct present form for the future condition."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete the question about a negative condition: \"___ the printer does not respond, who should we call?\" Use a two-letter conjunction.",
+      "acceptedAnswers": [
+        "If"
+      ],
+      "feedback": "If ... not introduces the condition in a question about the appropriate response."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete the indirect question: \"The team is uncertain as to ___ the results are reliable.\" Write one word.",
+      "acceptedAnswers": [
+        "whether"
+      ],
+      "feedback": "As to whether is the expected formal expression for uncertainty about a proposition."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the infinitive phrase: \"We have not decided ___ to renew the licence.\" Write one word.",
+      "acceptedAnswers": [
+        "whether"
+      ],
+      "feedback": "Whether is required before this to-infinitive."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the conditional verb: \"Unless the alarm will stop in five minutes, the technician will call for help.\"",
+      "acceptedAnswers": [
+        "Unless the alarm stops in five minutes, the technician will call for help."
+      ],
+      "feedback": "The exception referring to the future takes present simple stops."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the unreal condition, keeping the stated meaning: \"Unless I were not on duty, I would attend the lecture.\"",
+      "acceptedAnswers": [
+        "If I were not on duty, I would attend the lecture.",
+        "If I weren't on duty, I would attend the lecture."
+      ],
+      "feedback": "Use if ... not for the counterfactual positive outcome: being off duty would allow attendance."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the infinitive clause: \"The students cannot agree if to postpone the presentation.\"",
+      "acceptedAnswers": [
+        "The students cannot agree whether to postpone the presentation."
+      ],
+      "feedback": "Whether, rather than if, introduces the alternative before a to-infinitive."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the complement clause: \"The question is if or not the permit is valid.\"",
+      "acceptedAnswers": [
+        "The question is whether or not the permit is valid.",
+        "The question is whether the permit is valid or not."
+      ],
+      "feedback": "An initial whether or not works for a complement clause; if or not does not."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "State the exception in one sentence using unless. Facts: The tour / go ahead / the river / rise / overnight. Begin \"The tour will go ahead\".",
+      "acceptedAnswers": [
+        "The tour will go ahead unless the river rises overnight."
+      ],
+      "feedback": "Unless introduces the condition that would prevent the tour from proceeding."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask a question about a failed condition. Facts: the lift / not work; what / we / do. Begin with If and use present simple.",
+      "acceptedAnswers": [
+        "If the lift does not work, what will we do?"
+      ],
+      "feedback": "If ... not is appropriate when the main clause is a question."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Express uncertainty as an indirect question. Facts: We / do not know / whether / the bridge / be open. Use present simple and full forms.",
+      "acceptedAnswers": [
+        "We do not know whether the bridge is open."
+      ],
+      "feedback": "Whether introduces the unknown yes/no proposition."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Produce the formal phrase after a preposition. Facts: They / argued / about / whether / the decision / be fair. Use past simple.",
+      "acceptedAnswers": [
+        "They argued about whether the decision was fair."
+      ],
+      "feedback": "Whether is preferred immediately after the preposition about."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "State an undecided infinitive choice. Facts: I / cannot decide / whether / to accept / the invitation. Use full forms.",
+      "acceptedAnswers": [
+        "I cannot decide whether to accept the invitation."
+      ],
+      "feedback": "Whether directly precedes to accept."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Correct the error aloud: \"We have not decided if to continue.\" Start with \"We\".",
+      "acceptedAnswers": [
+        "We have not decided whether to continue."
+      ],
+      "feedback": "The infinitive construction requires whether to continue."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Make whether the subject of the sentence. Facts: the train / arrive on time / remain uncertain. Begin \"Whether\".",
+      "acceptedAnswers": [
+        "Whether the train will arrive on time remains uncertain."
+      ],
+      "feedback": "Whether introduces the whole embedded subject clause."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give two sentences in order, using full forms. Sentence one: \"We / will / wait / unless / it / start / raining\". Sentence two: \"We / do not know / whether / it / will / rain\".",
+      "acceptedAnswers": [
+        "We will wait unless it starts raining. We do not know whether it will rain."
+      ],
+      "feedback": "Unless marks an exception to waiting; whether introduces uncertainty about a future fact."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The afternoon market will stay open unless the wind becomes too strong.",
+      "prompt": "Under what condition will the market close?",
+      "choices": [
+        "If strong winds develop.",
+        "If the temperature rises slightly.",
+        "If more customers arrive."
+      ],
+      "answerIndex": 0,
+      "feedback": "Unless introduces the weather exception: the market closes if the wind becomes too strong."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I will be genuinely surprised if the lead scientist does not attend the meeting.",
+      "prompt": "What outcome would surprise the speaker?",
+      "choices": [
+        "The scientist arriving early.",
+        "The scientist missing the meeting.",
+        "The meeting lasting longer than planned."
+      ],
+      "answerIndex": 1,
+      "feedback": "The surprise concerns the lead scientist not attending, expressed with if ... not."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I cannot decide whether to apply for the scholarship this year.",
+      "prompt": "Transcribe the three-word phrase naming the undecided action, beginning with \"whether\".",
+      "acceptedAnswers": [
+        "whether to apply"
+      ],
+      "feedback": "Whether to apply is the infinitive choice about which the speaker is undecided."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "We discussed whether the archive should remain open during the renovation.",
+      "prompt": "What subject did the speakers discuss?",
+      "choices": [
+        "Moving the archive to another country.",
+        "Charging an entrance fee.",
+        "Keeping the archive open while work is done."
+      ],
+      "answerIndex": 2,
+      "feedback": "The indirect question concerns remaining open during renovation."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Whether the samples are contaminated remains uncertain, so we have ordered another test.",
+      "prompt": "What is currently unknown?",
+      "choices": [
+        "Whether the samples are contaminated.",
+        "Whether the new test was cancelled.",
+        "Whether the laboratory has closed."
+      ],
+      "answerIndex": 0,
+      "feedback": "The whether-clause names the unsettled issue: possible contamination."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Unless the council approves the route, the buses will continue using the old road.",
+      "prompt": "What will happen without approval?",
+      "choices": [
+        "Buses will stop operating entirely.",
+        "Buses will keep using the old road.",
+        "Buses will take the new route immediately."
+      ],
+      "answerIndex": 1,
+      "feedback": "Without approval, the exception does not apply and buses continue on the old road."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The disagreement is as to whether the figures should be published now.",
+      "prompt": "Transcribe the three-word phrase beginning with \"as\" that introduces the point of disagreement.",
+      "acceptedAnswers": [
+        "as to whether"
+      ],
+      "feedback": "As to whether is a formal construction used after nouns such as disagreement."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We will leave at dawn unless the mountain pass is closed.",
+      "prompt": "Transcribe the six-word conditional clause beginning with \"unless\".",
+      "acceptedAnswers": [
+        "unless the mountain pass is closed"
+      ],
+      "feedback": "The unless-clause states the one exception to leaving at dawn."
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u088",
+  "title": "Prepositions of Position, Direction and Movement",
+  "level": "C1",
+  "topicId": "eg3-u088-prepositions-of-position-and-movement",
+  "summary": "Select accurate prepositions for routes, crossing, enclosure, vertical position, cover and motion. Distinguish across from over, along from through, above from over, and below from under according to the physical relationship, while recognising variation and idiomatic extensions.",
+  "learningObjectives": [
+    "Choose across or over for crossing a boundary or obstacle according to surface, height and path.",
+    "Contrast along for following a linear route with through for movement inside an enclosed or three-dimensional space.",
+    "Distinguish above and over for higher position, especially direct alignment, covering and movement.",
+    "Use below, under, beneath and underneath appropriately for lower position, covering, level and register."
+  ],
+  "explanation": [
+    {
+      "heading": "Across and over: sides, height and surfaces",
+      "body": "Both across and over can describe crossing a road, river or border. Over is generally preferred when movement passes above an obstacle that is high relative to its width, such as a fence. Across more clearly presents movement over a surface or area, such as a square, a field or a country. The choice can depend on whether the speaker pictures the crossing as passing above something or moving over its extent.",
+      "example": "The surveyors walked across the square, then climbed over the barrier."
+    },
+    {
+      "heading": "All over emphasises widespread coverage",
+      "body": "Across can mean throughout a geographical area, especially in news and formal description. All over is particularly common when many places or parts are involved; right across or all across may add emphasis in suitable contexts. The expressions are not identical in every setting: across can suggest a broad span, whereas all over often highlights distribution in many separate locations.",
+      "example": "Notices were displayed all over the campus before the open day."
+    },
+    {
+      "heading": "Along follows a line; through passes inside a space",
+      "body": "Use along when a route follows a road, riverbank, corridor or other line. Through indicates movement within or across a three-dimensional environment such as a crowd, forest or tunnel, often from one side or end to the other. Through can also refer to being inside a space, so movement to the far side is not always implied. Along a corridor and through a corridor can both be possible, but they present different aspects of the route.",
+      "example": "We cycled along the canal and then passed through a narrow tunnel."
+    },
+    {
+      "heading": "Above versus over: height, alignment and covering",
+      "body": "Above and over both indicate a higher position. Above is often preferred for levels or places not directly vertically aligned, while over often highlights something directly higher or horizontal movement at a greater height. Use over when something covers or touches what is below; above generally does not express this covering relationship. The exact choice depends on the spatial picture rather than a rigid rule that one always means directly above.",
+      "example": "The shelves were above eye level, and a tarpaulin was stretched over the equipment."
+    },
+    {
+      "heading": "Below, under, beneath and underneath",
+      "body": "Below often refers to a lower level or position, while under highlights a position directly lower, covering or movement at a lower height. Under a cloth can imply that the cloth covers an object. Underneath commonly means under in physical descriptions; beneath is often a slightly more formal alternative to under or below. These distinctions parallel those between above and over and allow overlap when more than one spatial description is plausible. Some common expressions are idiomatic: under the weather means unwell, below the belt describes unfair behaviour, and over the top can mean excessive. Their meanings cannot be worked out from literal physical position alone.",
+      "example": "The documents were hidden under a loose floorboard, below the level of the entrance."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Crossing an open area or clearing a barrier",
+      "left": {
+        "label": "Across: flat extent",
+        "example": "The children hurried across the playground.",
+        "note": "Across presents movement from one side of a largely flat area to another."
+      },
+      "right": {
+        "label": "Over: high obstacle",
+        "example": "The deer leapt over the garden fence.",
+        "note": "Over presents movement above an obstacle to reach the other side."
+      }
+    },
+    {
+      "title": "Level compared with covering",
+      "left": {
+        "label": "Below: relative level",
+        "example": "The garage is below street level.",
+        "note": "Below locates one thing at a lower level without implying a cover."
+      },
+      "right": {
+        "label": "Under: cover or direct position",
+        "example": "The spare key was under the doormat.",
+        "note": "Under describes the mat as being above and covering the key."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "An old footbridge carries walkers over the railway tracks.",
+      "note": "Over presents a crossing above an obstacle or route at a higher level."
+    },
+    {
+      "sentence": "The artists exhibited their work across the region.",
+      "note": "Across describes distribution through a broad geographical area."
+    },
+    {
+      "sentence": "The hikers followed a path along the coast before going through the caves.",
+      "note": "Along traces a line; through passes within a three-dimensional space."
+    },
+    {
+      "sentence": "A light aircraft circled over the harbour at low altitude.",
+      "note": "Over is natural for movement above a place."
+    },
+    {
+      "sentence": "The lowest archive shelves stand below the windows, and the folders are kept underneath them.",
+      "note": "Below compares vertical levels; underneath indicates a position directly under the shelves."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The runner climbed across the tall metal fence.",
+      "correct": "The runner climbed over the tall metal fence.",
+      "why": "Over is the natural choice for getting to the other side of a high, narrow obstacle."
+    },
+    {
+      "incorrect": "The visitors walked along the dense forest to reach the village inside it.",
+      "correct": "The visitors walked through the dense forest to reach the village inside it.",
+      "why": "Through presents movement within the three-dimensional forest, not following its edge."
+    },
+    {
+      "incorrect": "The nurse laid a blanket above the sleeping child to keep her warm.",
+      "correct": "The nurse laid a blanket over the sleeping child to keep her warm.",
+      "why": "Over expresses covering and contact; above would locate the blanket at a greater height."
+    },
+    {
+      "incorrect": "The thermometer displayed five degrees under zero.",
+      "correct": "The thermometer displayed five degrees below zero.",
+      "why": "Below zero is the standard expression for a temperature lower than zero."
+    }
+  ],
+  "studyTips": [
+    "Sketch a road, fence, tunnel and river, then describe movement across, over and through each feature as appropriate.",
+    "Compare The drone flew over the stadium with The village lies above the lake, and explain the different vertical relationships.",
+    "When two prepositions seem possible, identify whether the meaning is a line, surface, enclosed space, level or cover; learn fixed idioms such as under the weather separately."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A cyclist goes from one side of a flat plaza to the other without climbing. Which preposition best completes: \"She rides ___ the plaza\"?",
+      "choices": [
+        "over",
+        "across",
+        "beneath"
+      ],
+      "answerIndex": 1,
+      "feedback": "Across is preferred for movement from one side to another across a flat area."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The maintenance worker clears a high fence with a ladder. \"He climbs ___ the fence.\"",
+      "choices": [
+        "over",
+        "across",
+        "through"
+      ],
+      "answerIndex": 0,
+      "feedback": "Over is preferred for movement to the other side of a high, narrow obstacle."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The party followed a path beside the river for six kilometres. \"They walked ___ the riverbank.\"",
+      "choices": [
+        "through",
+        "under",
+        "along"
+      ],
+      "answerIndex": 2,
+      "feedback": "Along describes movement following the line of the riverbank."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the covering relationship: \"The caretaker placed a waterproof sheet ___ the exposed equipment.\"",
+      "choices": [
+        "above",
+        "over",
+        "below"
+      ],
+      "answerIndex": 1,
+      "feedback": "Over expresses that the sheet covers the equipment, possibly touching it; above would only indicate height."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "\"The parade moved ___ (preposition) the main avenue, following the road for two kilometres.\" Supply one word.",
+      "acceptedAnswers": [
+        "along"
+      ],
+      "feedback": "Along follows the length of a linear route."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "\"The visitors passed ___ (preposition) a dark tunnel before reaching the station.\" Supply one word.",
+      "acceptedAnswers": [
+        "through"
+      ],
+      "feedback": "Through describes passage within the enclosed tunnel."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "\"The swimmer travelled ___ (preposition) the pool from the shallow end to the deep end.\" Supply one word.",
+      "acceptedAnswers": [
+        "across"
+      ],
+      "feedback": "Across presents movement across the surface or area from one side to the other."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "\"A large cloth was draped ___ (preposition) the display case to conceal it.\" Supply one word.",
+      "acceptedAnswers": [
+        "over"
+      ],
+      "feedback": "Over expresses covering, not simply a higher position."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the directional preposition: \"The climber stepped across the high railing and landed on the other side.\"",
+      "acceptedAnswers": [
+        "The climber stepped over the high railing and landed on the other side."
+      ],
+      "feedback": "Over describes clearing a relatively high, narrow obstacle."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the preposition for movement inside a forest: \"The rescue team walked along the dense forest to reach the clearing in its centre.\"",
+      "acceptedAnswers": [
+        "The rescue team walked through the dense forest to reach the clearing in its centre."
+      ],
+      "feedback": "Through describes movement inside the forest, not following its edge."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the preposition expressing cover: \"The archivist put a protective cloth above the fragile book so that it was fully covered.\"",
+      "acceptedAnswers": [
+        "The archivist put a protective cloth over the fragile book so that it was fully covered."
+      ],
+      "feedback": "Over conveys the cover resting on or enveloping the book."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the standard level expression: \"The water level fell three metres under the normal mark.\"",
+      "acceptedAnswers": [
+        "The water level fell three metres below the normal mark."
+      ],
+      "feedback": "Below is standard for comparison with a marked level or reference point."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Describe a route across a flat courtyard using these words: \"We / walked / across / the courtyard.\" Use the past simple.",
+      "acceptedAnswers": [
+        "We walked across the courtyard."
+      ],
+      "feedback": "Across describes movement over an open surface."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Describe clearing a high barrier. Say: \"The horse / jumped / over / the fence.\"",
+      "acceptedAnswers": [
+        "The horse jumped over the fence."
+      ],
+      "feedback": "Over describes movement above and across the barrier."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Follow a linear route. Form this exact sentence: \"They / cycled / along / the riverbank.\"",
+      "acceptedAnswers": [
+        "They cycled along the riverbank."
+      ],
+      "feedback": "Along presents a route following a line."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Describe movement in an enclosed passage. Use: \"The workers / went / through / the tunnel.\"",
+      "acceptedAnswers": [
+        "The workers went through the tunnel."
+      ],
+      "feedback": "Through identifies passage inside the tunnel."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Describe the covering of a table. State: \"She / put / a cloth / over / the table.\"",
+      "acceptedAnswers": [
+        "She put a cloth over the table."
+      ],
+      "feedback": "Over signals that the cloth covers the tabletop."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Describe relative level, not covering. Use: \"The basement / is / below / street level.\"",
+      "acceptedAnswers": [
+        "The basement is below street level."
+      ],
+      "feedback": "Below identifies a lower level than the street."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the sentence aloud while preserving its meaning: \"The blanket was above the child, covering her completely.\"",
+      "acceptedAnswers": [
+        "The blanket was over the child, covering her completely."
+      ],
+      "feedback": "Over is more precise for a blanket covering the child."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give two sentences in this order: the notices / were / all over / the building; the sign / was / above / the door. Use full forms.",
+      "acceptedAnswers": [
+        "The notices were all over the building. The sign was above the door."
+      ],
+      "feedback": "All over marks many locations, while above locates the sign at a higher level."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We crossed the wide courtyard on foot, but we climbed over the locked gate at the far end.",
+      "prompt": "Which obstacle did the speaker climb over?",
+      "choices": [
+        "A locked gate",
+        "A wide courtyard",
+        "A narrow tunnel"
+      ],
+      "answerIndex": 0,
+      "feedback": "The locked gate was the vertical obstacle climbed over."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Follow the riverbank for about a kilometre, then turn right and pass through the tunnel.",
+      "prompt": "What should the listener do immediately after following the riverbank?",
+      "choices": [
+        "Cross the water",
+        "Walk beneath the bridge",
+        "Turn right and pass through the tunnel"
+      ],
+      "answerIndex": 2,
+      "feedback": "The next instruction is to turn right and move through the tunnel."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The posters were displayed all over the college building.",
+      "prompt": "Transcribe the two-word expression showing distribution in many places.",
+      "acceptedAnswers": [
+        "all over"
+      ],
+      "feedback": "All over expresses widespread distribution in the building."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The drone was flying over the stadium, while the observation team was standing below the highest seats.",
+      "prompt": "Where was the drone?",
+      "choices": [
+        "Under the seats",
+        "Above the stadium",
+        "Inside the main tunnel"
+      ],
+      "answerIndex": 1,
+      "feedback": "Flying over places the drone at a higher level above the stadium."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The spare keys were underneath a stack of folders, not on top of the desk.",
+      "prompt": "Where were the keys?",
+      "choices": [
+        "Under a stack of folders",
+        "Inside a locked drawer",
+        "Above the folders"
+      ],
+      "answerIndex": 0,
+      "feedback": "Underneath identifies a position directly under the stack."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The hikers went through a narrow cave and emerged onto a path running along the cliffs.",
+      "prompt": "Which preposition describes movement inside the cave?",
+      "choices": [
+        "along",
+        "above",
+        "through"
+      ],
+      "answerIndex": 2,
+      "feedback": "Through describes movement within a three-dimensional enclosure."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "A thin protective cover lay over the camera throughout the journey.",
+      "prompt": "Transcribe the one-word preposition meaning that the cover protected the camera.",
+      "acceptedAnswers": [
+        "over"
+      ],
+      "feedback": "Over conveys a covering relationship."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The temperature dropped to four degrees below zero during the night.",
+      "prompt": "Transcribe the two-word expression immediately after \"degrees\".",
+      "acceptedAnswers": [
+        "below zero"
+      ],
+      "feedback": "Below zero means a level lower than the zero temperature mark."
+    }
+  ]
+}

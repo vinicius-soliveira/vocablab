@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u020",
+  "title": "Advice, Expectation and Urgent Warnings with Should, Ought To and Had Better",
+  "level": "C1",
+  "topicId": "eg3-u020-should-ought-to-and-had-better",
+  "summary": "Choose should, ought to and had better for recommendations, probability-based expectations, past criticism and urgent warnings. Recognise contexts favouring should, the distinct meanings of should have done, and the limits and negative forms of had better.",
+  "learningObjectives": [
+    "Select should or ought to for recommendations and expectations while recognising that strong evidence-based deduction generally calls for must.",
+    "Use should rather than ought to when framing most direct questions, first-person advice and recommendations reported from an outside authority.",
+    "Distinguish regret or criticism expressed with should/ought to have + past participle from an expectation that something has happened.",
+    "Use had better + bare infinitive for specific urgent advice, including had better not and the less common interrogative had ... better."
+  ],
+  "explanation": [
+    {
+      "heading": "Recommendations, expectations and evidence-based conclusions",
+      "body": "Should and ought to are often alternatives for advising someone, expressing an obligation or describing what is expected. Should is much more frequent overall. Ought to is particularly associated with obligation and advice in many contexts; should is common when discussing probability. When evidence leads to a strong conclusion about the present, must is usually preferred: should cannot automatically replace the epistemic must in She must be exhausted because she has not slept. A weaker expectation such as The parcel should arrive today has a different force.",
+      "example": "The updated schedule should reach everyone by Thursday, provided the office is open."
+    },
+    {
+      "heading": "Outside recommendations and advice involving I or a question",
+      "body": "Should is generally preferred when the advice comes from an outside authority, including manuals, notices or professional guidance. When offering personal advice with I, we typically say I should ... if I were you or I would ..., not I ought to ... if I were you. Questions asking what action to take, including wh-questions and polite offers, also favour should: What should I do? and Should I send a replacement? Ought to is grammatical in many declarative contexts but less idiomatic in these uses.",
+      "example": "The maintenance guide says the filter should be replaced before the next inspection."
+    },
+    {
+      "heading": "Should have and ought to have: past regret and expectations",
+      "body": "Should or ought to + have + past participle can criticise an earlier choice or express regret about an action that was not taken. The negative forms often criticise something that actually happened. The same positive pattern can instead communicate an expectation that something happened or will already have happened by a reference time. The context, not the verb form in isolation, distinguishes criticism from probability-based expectation.",
+      "example": "The courier should have reached the depot by now, unless the motorway is closed."
+    },
+    {
+      "heading": "Questions, offers and should versus shall",
+      "body": "Should can introduce offers or requests for advice, and wh-questions are especially common. In some varieties of English, shall has a similar meaning in offers such as Shall I open the window? However, I shall expresses intention in contexts where I should instead suggests that an action would be appropriate or expected. These are not interchangeable simply because both begin with I.",
+      "example": "Should I forward the request to the director, or would you prefer to handle it?"
+    },
+    {
+      "heading": "Had better for a particular urgent situation",
+      "body": "Had better is particularly natural in speech when the speaker wants to press an immediate recommendation, warning or threat; it is stronger and more situational than should. It takes a bare infinitive, without to: You had better leave. Its negative is had better not, and the contracted positive is ’d better. The question form Had we better ...? exists but is less common than Should we ...? Had better is not the normal form for general social rules or regrets about the past.",
+      "example": "The storm is approaching, so we had better close the outdoor exhibition now."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A recommendation versus a strong deduction",
+      "left": {
+        "label": "Advice: should",
+        "example": "You should rest after the journey.",
+        "note": "This recommends an action, without claiming that it certainly occurs."
+      },
+      "right": {
+        "label": "Confident deduction: must",
+        "example": "You must be exhausted after that journey.",
+        "note": "The speaker draws a strong inference from the available evidence."
+      }
+    },
+    {
+      "title": "General advice versus situation-specific urgency",
+      "left": {
+        "label": "General guidance: should",
+        "example": "You should keep digital copies of your receipts.",
+        "note": "A broad recommendation appropriate in many situations."
+      },
+      "right": {
+        "label": "Urgent warning: had better",
+        "example": "You had better save that document before the battery dies.",
+        "note": "Immediate circumstances make the advice pressing."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "What should I tell the conference organisers about our arrival?",
+      "note": "A wh-question requesting advice normally uses should."
+    },
+    {
+      "sentence": "The regulations say that protective clothing should be worn inside the workshop.",
+      "note": "Should is preferred when reporting the recommendation of an external authority."
+    },
+    {
+      "sentence": "I ought to have checked the figures before sending the report.",
+      "note": "Ought to have checked expresses regret about a past omission."
+    },
+    {
+      "sentence": "If the timetable was accurate, the train should have left by now.",
+      "note": "Should have left reports an expectation about an event, not criticism of someone’s conduct."
+    },
+    {
+      "sentence": "We had better not take the mountain route in these conditions.",
+      "note": "Had better not gives strong negative advice about an immediate decision."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "What ought I to tell the customer?",
+      "correct": "What should I tell the customer?",
+      "why": "Should is the usual choice in a wh-question seeking practical advice; the original is unusually formal."
+    },
+    {
+      "incorrect": "You had better to check the weather alert.",
+      "correct": "You had better check the weather alert.",
+      "why": "Had better takes the bare infinitive without to."
+    },
+    {
+      "incorrect": "You had not better leave the engine running.",
+      "correct": "You had better not leave the engine running.",
+      "why": "Not follows better in the usual negative pattern had better not."
+    },
+    {
+      "incorrect": "I should have check the address before I posted the parcel.",
+      "correct": "I should have checked the address before I posted the parcel.",
+      "why": "Past regret requires should have + past participle, here checked."
+    }
+  ],
+  "studyTips": [
+    "For each sentence with should have, decide whether a past choice is being criticised or a past event is merely expected to have happened.",
+    "Write a piece of broad advice using should and change it into an urgent warning using had better; specify what makes the situation urgent.",
+    "Practise advice questions with Should I ...? and What should I ...? alongside the negative form had better not."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A safety guide gives a recommendation: \"The protective lid ___ be fitted before the motor is started.\" Choose the conventional form in formal guidance.",
+      "choices": [
+        "should",
+        "ought",
+        "had better to"
+      ],
+      "answerIndex": 0,
+      "feedback": "Should be fitted is the preferred recommendation in an outside authority’s guidance."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "You hear a strong argument based on evidence: \"He worked three shifts without a break. He ___ be completely exhausted.\"",
+      "choices": [
+        "should to",
+        "must",
+        "ought"
+      ],
+      "answerIndex": 1,
+      "feedback": "Must expresses a strong deduction; should is not the ordinary substitute for certainty on the basis of evidence."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "An alarm is sounding and everyone needs to leave immediately. Choose the urgent warning.",
+      "choices": [
+        "We had better to leave now.",
+        "We ought have left now.",
+        "We had better leave now."
+      ],
+      "answerIndex": 2,
+      "feedback": "Had better + bare infinitive expresses urgency in the immediate situation."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the sentence that correctly expresses regret about a missed action yesterday.",
+      "choices": [
+        "I should have checked the booking yesterday.",
+        "I should have check the booking yesterday.",
+        "I had better have checked the booking yesterday."
+      ],
+      "answerIndex": 0,
+      "feedback": "Should have + past participle expresses regret or criticism about a past omission."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Ask for advice: \"What ___ I do about the incorrect invoice?\" Write the modal.",
+      "acceptedAnswers": [
+        "should"
+      ],
+      "feedback": "Should is natural in questions asking what course of action to take."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Express a past expectation, not regret: \"The parcel ___ (should / have / arrive) at the depot by now.\" Write the full three-word phrase.",
+      "acceptedAnswers": [
+        "should have arrived"
+      ],
+      "feedback": "Should have arrived signals the expectation that the completed event has probably occurred."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "A dangerous crack has appeared in the ice. \"We ___ (had / better / not) go any further.\" Write the complete three-word warning phrase.",
+      "acceptedAnswers": [
+        "had better not"
+      ],
+      "feedback": "Had better not gives urgent advice against continuing."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Express regret about an earlier failure: \"I ___ (ought / to / have / listen) to the advice.\" Write the full four-word modal-perfect phrase.",
+      "acceptedAnswers": [
+        "ought to have listened"
+      ],
+      "feedback": "Ought to have + past participle conveys regret about not listening."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the recommendation: You had better to back up your work before the computer restarts.",
+      "acceptedAnswers": [
+        "You had better back up your work before the computer restarts."
+      ],
+      "feedback": "Had better takes back up, not to back up."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the negative warning: She had not better drive through the flooded road.",
+      "acceptedAnswers": [
+        "She had better not drive through the flooded road."
+      ],
+      "feedback": "The negator goes after better: had better not."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the past regret: We should have inform the guests about the change.",
+      "acceptedAnswers": [
+        "We should have informed the guests about the change."
+      ],
+      "feedback": "After should have, use the past participle informed."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Rewrite as a natural wh-question with should: What ought I to do if the alarm rings?",
+      "acceptedAnswers": [
+        "What should I do if the alarm rings?"
+      ],
+      "feedback": "Should is the ordinary modal for a direct wh-question requesting advice."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Give practical advice. Facts: You / should / verify / the address. Say one complete sentence.",
+      "acceptedAnswers": [
+        "You should verify the address."
+      ],
+      "feedback": "Should + bare infinitive gives an ordinary recommendation."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Request advice. Facts: What / I / do / about the delay? Use should and begin with “What”.",
+      "acceptedAnswers": [
+        "What should I do about the delay?"
+      ],
+      "feedback": "What should I do ...? is the natural wh-question for advice."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Express regret using should have. Facts: I / check / the attachment / before sending it. Begin with “I should”.",
+      "acceptedAnswers": [
+        "I should have checked the attachment before sending it."
+      ],
+      "feedback": "Should have checked refers to a past action that was not performed."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Express a past expectation. Facts: The passengers / should have / boarded / by now. Say one complete sentence.",
+      "acceptedAnswers": [
+        "The passengers should have boarded by now."
+      ],
+      "feedback": "Here should have boarded expresses an expected completed event."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Give an urgent warning. Facts: We / had better / leave / before the roads close. Use the full form of had.",
+      "acceptedAnswers": [
+        "We had better leave before the roads close."
+      ],
+      "feedback": "Had better communicates an immediate recommendation; no to is used."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Give urgent negative advice. Facts: You / had better not / open / the damaged cabinet. Use full forms.",
+      "acceptedAnswers": [
+        "You had better not open the damaged cabinet."
+      ],
+      "feedback": "Had better not + bare infinitive gives a strongly negative recommendation."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the sentence aloud: They ought have warned us earlier.",
+      "acceptedAnswers": [
+        "They ought to have warned us earlier."
+      ],
+      "feedback": "Ought requires to before the perfect infinitive have warned."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two sentences in order using full forms. Recommendation: You / should / inspect / the cable. Urgent warning: You / had better not / touch / the exposed wire.",
+      "acceptedAnswers": [
+        "You should inspect the cable. You had better not touch the exposed wire."
+      ],
+      "feedback": "Should gives general advice, while had better not warns against a particular danger."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The laboratory guidelines state that the air filter should be replaced once a month.",
+      "prompt": "What kind of statement is this?",
+      "choices": [
+        "A recommendation from an external authority.",
+        "An urgent threat of punishment.",
+        "Proof that the filter has already been replaced."
+      ],
+      "answerIndex": 0,
+      "feedback": "Should be replaced reports a recommendation in official guidelines."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The town hall is dark and everyone has gone home. The meeting must be over.",
+      "prompt": "What does must communicate?",
+      "choices": [
+        "A polite offer to arrange another meeting.",
+        "A strong inference from the evidence.",
+        "An urgent order to end the meeting."
+      ],
+      "answerIndex": 1,
+      "feedback": "Must be over is a conclusion based on the observed situation."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "You should have called the support team before resetting the device.",
+      "prompt": "Transcribe the three-word modal-perfect phrase before “the support team”.",
+      "acceptedAnswers": [
+        "should have called"
+      ],
+      "feedback": "Should have called criticises an earlier omitted action."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "If the buses are running on time, our guests should have arrived at the hotel by now.",
+      "prompt": "What does should have arrived mean here?",
+      "choices": [
+        "The guests are being blamed for arriving.",
+        "The guests were ordered to arrive yesterday.",
+        "The guests are expected to have arrived already."
+      ],
+      "answerIndex": 2,
+      "feedback": "The context expresses an expectation, not regret."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The river is rising fast. We had better move the equipment to higher ground now.",
+      "prompt": "Why does the speaker choose had better?",
+      "choices": [
+        "To recommend an urgent response to a particular risk.",
+        "To criticise something that happened years ago.",
+        "To state a permanent rule for every situation."
+      ],
+      "answerIndex": 0,
+      "feedback": "Had better is well suited to urgent advice prompted by current conditions."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Should I send the replacement part today, or shall I wait for your approval?",
+      "prompt": "What is the speaker doing?",
+      "choices": [
+        "Drawing a strong conclusion about a past event.",
+        "Requesting guidance before taking action.",
+        "Threatening the listener with a penalty."
+      ],
+      "answerIndex": 1,
+      "feedback": "Should I ...? asks for advice about an action."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "You had better not touch that loose electrical connection.",
+      "prompt": "Transcribe the three-word warning phrase before “touch”.",
+      "acceptedAnswers": [
+        "had better not"
+      ],
+      "feedback": "Had better not is the negative warning form used in the recording."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The manuscript ought to have reached the editor by now.",
+      "prompt": "Transcribe the four-word expectation phrase before “the editor”.",
+      "acceptedAnswers": [
+        "ought to have reached"
+      ],
+      "feedback": "Ought to have reached signals an expected completed event."
+    }
+  ]
+}

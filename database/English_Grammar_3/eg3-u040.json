@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u040",
+  "title": "Complex Subjects, Collective Nouns and Agreement",
+  "level": "C1",
+  "topicId": "eg3-u040-agreement-between-subject-and-verb-1",
+  "summary": "Select subject–verb agreement by identifying the head of a complex noun phrase, recognising clausal subjects and inverted word order, interpreting collective nouns, and treating names and titles ending in -s as singular entities when appropriate.",
+  "learningObjectives": [
+    "Identify the head of a long subject phrase, ignoring intervening nouns that do not determine agreement.",
+    "Use singular agreement with most clausal subjects while recognising the alternatives available with certain what-clauses.",
+    "Choose singular or plural verbs with collective nouns according to whether the group functions as one body or as individual members, with awareness of dialect and register.",
+    "Use singular verbs for one organisation, geographical entity or title named with a superficially plural -s form, and find postposed subjects after the verb."
+  ],
+  "explanation": [
+    {
+      "heading": "The head noun, not the nearest noun, controls agreement",
+      "body": "In a long subject noun phrase, identify the principal noun before choosing the verb. Phrases such as of the reports, together with the designers or that was delivered last week can intervene between head and verb without changing the head’s number. A plural modifier should not draw a singular head into plural agreement. Conversely, a plural head remains plural even if its closest modifier contains a singular noun.",
+      "example": "The quality of the latest recordings is improving."
+    },
+    {
+      "heading": "Clausal subjects and delayed subjects",
+      "body": "An infinitive clause, an -ing clause or a finite clause functioning as one subject usually selects a singular verb: “To delay the vote is unwise.” “What she discovered remains unclear.” In inversion, the subject can appear after the verb, especially after a locative or other opening phrase; agreement follows that later subject, not a noun earlier in the sentence.",
+      "example": "At the centre of the exhibition stand two restored machines."
+    },
+    {
+      "heading": "What-clauses can depend on the complement",
+      "body": "When a what-clause is the subject, a singular verb is natural when the complement is singular: “What we need is a schedule.” If the following complement is plural, either singular or plural agreement can occur, though plural is often preferred in more formal contexts: “What we need are more volunteers.” There is legitimate variation; always identify whether the exercise fixes the intended reading or form.",
+      "example": "What the team needs are two additional reviewers."
+    },
+    {
+      "heading": "Collective nouns allow meaning-based choices",
+      "body": "Nouns such as committee, staff, orchestra, team, audience and family can take singular agreement when treated as a single unit, or plural agreement when attention is on members acting individually. This variation is especially familiar in British English; American English generally favours a singular verb for many collective nouns. Some situations strongly favour one choice: a committee can issue a decision as one body, whereas individual committee members can each raise their hands. Academic writing often favours singular institutional readings.",
+      "example": "The jury has issued its verdict, but the jury are returning to their separate homes."
+    },
+    {
+      "heading": "A plural-looking name may refer to one entity",
+      "body": "Names ending in -s do not necessarily denote grammatical plural subjects. A country, newspaper, organisation, book or film title referring to one entity commonly takes a singular verb, even if the name ends in -s. Similarly, a quoted plural word considered as one linguistic expression takes singular agreement. However, an ordinary plural noun used to refer to several real objects still takes a plural verb.",
+      "example": "“Northern Currents” is the title of a documentary, and the Netherlands is its setting."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Head noun versus nearby plural modifier",
+      "left": {
+        "label": "Singular head: singular agreement",
+        "example": "The outline of the chapters is clear.",
+        "note": "Outline is the grammatical head; chapters belongs to a modifying phrase."
+      },
+      "right": {
+        "label": "Plural head: plural agreement",
+        "example": "The chapters in the outline are clear.",
+        "note": "Chapters is the grammatical head, regardless of the singular outline."
+      }
+    },
+    {
+      "title": "One group versus its members",
+      "left": {
+        "label": "Whole committee as institution",
+        "example": "The committee has published its decision.",
+        "note": "The committee acts as one decision-making body."
+      },
+      "right": {
+        "label": "Members acting separately (especially BrE)",
+        "example": "The committee are putting on their coats.",
+        "note": "The plural focuses on different people, not the institution as one indivisible unit."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The only explanation for those unusual readings is a faulty sensor.",
+      "note": "Explanation is the singular head despite plural readings."
+    },
+    {
+      "sentence": "On the display were three photographs from the expedition.",
+      "note": "An inverted clause agrees with the plural postposed subject three photographs."
+    },
+    {
+      "sentence": "Preparing detailed minutes takes considerable time.",
+      "note": "The -ing clause is a singular grammatical subject."
+    },
+    {
+      "sentence": "What she wants is a separate workroom.",
+      "note": "A what-clause with a singular complement commonly takes is."
+    },
+    {
+      "sentence": "“The Bright Horizons” is an acclaimed novel.",
+      "note": "A plural-looking title names one literary work and takes singular agreement."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The list of equipment suppliers are on the noticeboard.",
+      "correct": "The list of equipment suppliers is on the noticeboard.",
+      "why": "List is singular; the plural suppliers appears only in a modifying phrase."
+    },
+    {
+      "incorrect": "Whatever happens in the laboratory remain confidential.",
+      "correct": "Whatever happens in the laboratory remains confidential.",
+      "why": "A whole finite clause used as subject normally takes a singular verb."
+    },
+    {
+      "incorrect": "On the shelves is four antique radios.",
+      "correct": "On the shelves are four antique radios.",
+      "why": "The postposed subject four antique radios is plural, despite the initial locative phrase."
+    },
+    {
+      "incorrect": "“Sustainable Futures” are the name of the annual conference.",
+      "correct": "“Sustainable Futures” is the name of the annual conference.",
+      "why": "The quotation denotes one title and therefore takes a singular verb."
+    }
+  ],
+  "studyTips": [
+    "Bracket off of-phrases and relative clauses, underline the main head noun, and then select the agreement independently of nearby plural nouns.",
+    "For each collective noun, ask whether the sentence describes an institutional act or the separate actions of its members, and note which dialect is being modelled.",
+    "Recast inverted sentences in ordinary subject–verb order to locate the actual subject, and treat a title or country as one named entity even if it ends in -s."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The accuracy of the measurements ___ critical to the final analysis.",
+      "choices": [
+        "is",
+        "are",
+        "have"
+      ],
+      "answerIndex": 0,
+      "feedback": "Accuracy is a singular head; the plural measurements does not control agreement."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "In the gallery ___ several newly restored portraits.",
+      "choices": [
+        "is",
+        "are",
+        "has"
+      ],
+      "answerIndex": 1,
+      "feedback": "The subject several portraits follows the verb and requires are."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the form for one documentary title: “Northern Routes” ___ available online this week.",
+      "choices": [
+        "are",
+        "have",
+        "is"
+      ],
+      "answerIndex": 2,
+      "feedback": "A title naming a single documentary takes singular agreement despite ending in -s."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "What the laboratory needs ___ a single replacement pump.",
+      "choices": [
+        "is",
+        "are",
+        "were"
+      ],
+      "answerIndex": 0,
+      "feedback": "This what-clause has a singular complement, a single replacement pump, which normally selects is."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The collection of antique maps ___ (be) stored in a locked cabinet. Write the PRESENT SIMPLE singular verb.",
+      "acceptedAnswers": [
+        "is"
+      ],
+      "feedback": "Collection is the singular head rather than maps."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "After the main speaker ___ (come) the two guest researchers. Write the PRESENT SIMPLE plural verb.",
+      "acceptedAnswers": [
+        "come"
+      ],
+      "feedback": "The inverted subject the two guest researchers is plural, so the present verb is come."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Working with complex data ___ (require) patience. Write the PRESENT SIMPLE verb.",
+      "acceptedAnswers": [
+        "requires"
+      ],
+      "feedback": "The full -ing clause functions as one subject and usually selects singular requires."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The orchestra ___ (be) taking its final bow as one ensemble. Use the PRESENT SIMPLE singular form in this British-English-compatible institutional reading.",
+      "acceptedAnswers": [
+        "is"
+      ],
+      "feedback": "The ensemble is viewed as one collective entity taking a coordinated bow."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the agreement: The set of revised plans are on the architect’s desk.",
+      "acceptedAnswers": [
+        "The set of revised plans is on the architect’s desk."
+      ],
+      "feedback": "The subject head is singular set, not plural plans."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the agreement: Whatever the instructor decides remain confidential.",
+      "acceptedAnswers": [
+        "Whatever the instructor decides remains confidential."
+      ],
+      "feedback": "The entire subject clause takes singular remains."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the agreement in this inverted sentence: Above the entrance hangs three flags.",
+      "acceptedAnswers": [
+        "Above the entrance hang three flags."
+      ],
+      "feedback": "The postposed subject three flags is plural and therefore selects hang."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the agreement for a single book title: “Hidden Islands” are on this month’s reading list.",
+      "acceptedAnswers": [
+        "“Hidden Islands” is on this month’s reading list."
+      ],
+      "feedback": "The quoted plural-looking words form one title, so a singular verb is needed."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say a complete sentence in the present simple. Exact facts: The quality / of the recordings / be / excellent. Use singular agreement.",
+      "acceptedAnswers": [
+        "The quality of the recordings is excellent."
+      ],
+      "feedback": "Quality is the singular head, not recordings."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say a complete sentence. Exact facts: The recordings / in the archive / be / excellent. Use the present simple.",
+      "acceptedAnswers": [
+        "The recordings in the archive are excellent."
+      ],
+      "feedback": "Recordings is a plural subject despite the singular archive."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Construct the inverted sentence: On the wall / hang / two photographs. Use present simple and plural agreement.",
+      "acceptedAnswers": [
+        "On the wall hang two photographs."
+      ],
+      "feedback": "Photographs is the plural subject after the verb."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Make a full sentence using an -ing clause as subject: Preparing the report / take / time. Use present simple.",
+      "acceptedAnswers": [
+        "Preparing the report takes time."
+      ],
+      "feedback": "The entire -ing clause selects the singular verb takes."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Construct a sentence with a what-clause and a singular complement: What we need / be / a clearer timetable. Use present simple.",
+      "acceptedAnswers": [
+        "What we need is a clearer timetable."
+      ],
+      "feedback": "The singular complement a clearer timetable favours is."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Report one institutional decision using singular agreement. Exact words: The committee / have / issued / its report. Say a full sentence.",
+      "acceptedAnswers": [
+        "The committee has issued its report."
+      ],
+      "feedback": "One institutional committee takes singular has and its in this reading."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the sentence aloud. The quoted words are ONE FILM TITLE: “Wandering Stars are a new film.” Use singular agreement.",
+      "acceptedAnswers": [
+        "Wandering Stars is a new film."
+      ],
+      "feedback": "A single film title ending in -s takes singular is."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two full sentences in this order. First: The list of courses / be / ready. Second: The courses on the list / be / ready. Use present simple.",
+      "acceptedAnswers": [
+        "The list of courses is ready. The courses on the list are ready."
+      ],
+      "feedback": "List is singular while courses is plural."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The outline of the proposals is ready, but the detailed proposals are still being reviewed.",
+      "prompt": "Which item is ready?",
+      "choices": [
+        "The outline.",
+        "Every detailed proposal.",
+        "The final printed copies."
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker says the outline is ready; the proposals themselves are not yet final."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Above the reception desk hang three photographs of the original research station.",
+      "prompt": "What is hanging above the desk?",
+      "choices": [
+        "One large map.",
+        "Three photographs.",
+        "A pair of clocks."
+      ],
+      "answerIndex": 1,
+      "feedback": "The plural postposed subject is three photographs."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "What concerns me is the growing backlog.",
+      "prompt": "Transcribe exactly the FOUR WORDS after “me” that state the concern.",
+      "acceptedAnswers": [
+        "is the growing backlog"
+      ],
+      "feedback": "Is agrees with the what-clause, and the following singular noun phrase identifies the concern."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The committee has approved its annual budget as a single governing body. Individual members will review the details later.",
+      "prompt": "How is the committee presented in the first sentence?",
+      "choices": [
+        "As several unrelated organisations.",
+        "As visitors waiting outside.",
+        "As one governing unit."
+      ],
+      "answerIndex": 2,
+      "feedback": "Has approved its annual budget treats the committee as a single institution."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "“Golden Valleys” is the title of the exhibition, not the name of a mountain range.",
+      "prompt": "Why does the speaker use is?",
+      "choices": [
+        "The name denotes one exhibition.",
+        "The exhibition has several sections.",
+        "The name contains more than one word."
+      ],
+      "answerIndex": 0,
+      "feedback": "A single exhibition title takes singular agreement despite the final -s."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Collecting and classifying these specimens takes longer than expected, although the volunteers are working efficiently.",
+      "prompt": "What takes longer than expected?",
+      "choices": [
+        "The volunteers’ commute.",
+        "The collecting and classifying process.",
+        "A public opening ceremony."
+      ],
+      "answerIndex": 1,
+      "feedback": "The -ing subject describes the combined activity of collecting and classifying."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "On the platform stand four visiting scholars.",
+      "prompt": "Transcribe the exact TWO WORDS after “platform”.",
+      "acceptedAnswers": [
+        "stand four"
+      ],
+      "feedback": "The verb stand agrees with the postposed plural subject four visiting scholars."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The reliability of these instruments remains high.",
+      "prompt": "Transcribe the exact TWO WORDS after “instruments”.",
+      "acceptedAnswers": [
+        "remains high"
+      ],
+      "feedback": "The singular head reliability takes remains despite the nearby plural instruments."
+    }
+  ]
+}

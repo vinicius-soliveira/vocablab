@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u011",
+  "title": "Future Continuous, Future Perfect and Future Perfect Continuous",
+  "level": "C1",
+  "topicId": "eg3-u011-future-continuous-future-perfect-and-future-perfect-continuous",
+  "summary": "Distinguish future activities in progress, events completed before a future deadline and activities continuing up to a future point. Use the future continuous for regular future events and neutral questions about arrangements, and recognise advanced inference uses of these future forms.",
+  "learningObjectives": [
+    "Describe an activity expected to be in progress at a specified future moment and a future event that is part of an ordinary routine.",
+    "Ask tactful, neutral questions about future arrangements using will be + -ing rather than presenting the question as a request.",
+    "Choose future perfect for completion or achievement and future perfect continuous to emphasise duration up to a future reference point.",
+    "Interpret future forms as inferences about what is probably happening now or what has probably been happening until now."
+  ],
+  "explanation": [
+    {
+      "heading": "Future continuous: activity underway at a future point",
+      "body": "Will be + -ing locates an activity in progress at a future moment. The activity may have started earlier and may continue afterwards; the form does not itself promise that the activity will be finished. The future continuous can also describe something expected in the normal course of a routine or programme, without highlighting a decision at the moment of speaking.",
+      "example": "When the visitors reach the atrium at eleven, the musicians will be rehearsing on the upper floor."
+    },
+    {
+      "heading": "Scheduled events and tactful questions with will be doing",
+      "body": "We can describe planned or habitual future activities with the future continuous. Compared with a question using plain will, Will you be ...? is often a neutral enquiry about someone’s existing arrangements rather than a request, an invitation or a test of willingness. Both a future continuous and a present continuous may fit a settled plan; the speaker’s communicative purpose decides which sounds better.",
+      "example": "Will you be working in the reading room tomorrow afternoon? I need to know whether the desk will be occupied."
+    },
+    {
+      "heading": "Future perfect: completed before a reference point",
+      "body": "Will have + past participle presents an event as completed or a target as achieved by a future deadline. The future reference point is often expressed by by, before or by the time, and it can also be understood from context. A passive future perfect uses will have been + past participle. The future perfect can also make courteous predictions about how a previous message will have been received.",
+      "example": "By the time the exhibition opens, the team will have installed every display. All the labels will have been checked."
+    },
+    {
+      "heading": "Future perfect continuous: looking back at duration",
+      "body": "Will have been + -ing stresses the length or continuity of an activity leading up to a future point. The activity may still be under way at that point. The future perfect simple can sometimes also express duration, especially with long-standing situations, but the continuous foregrounds ongoing effort or repeated activity rather than a completed product or count.",
+      "example": "At the end of this term, Leila will have been teaching at the college for twelve years."
+    },
+    {
+      "heading": "Inferences about now and recent past",
+      "body": "Future continuous can express an assumption about what is happening around now, not only literal future time. Similarly, future perfect can refer to something assumed to have happened by now; future perfect continuous can suggest the length of an activity up to a past or present reference point, often from the speaker’s perspective now. These inferential uses need context, and they should not be confused with definite knowledge.",
+      "example": "Do not call the manager during the ceremony; she will be speaking to the guests. The invitations will have reached everyone by now."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "An activity in progress versus a completed result",
+      "left": {
+        "label": "Future continuous: in progress",
+        "example": "At nine tomorrow, I will be editing the catalogue.",
+        "note": "The editing is expected to be underway at nine; no completion is asserted."
+      },
+      "right": {
+        "label": "Future perfect: complete by then",
+        "example": "By nine tomorrow, I will have edited the catalogue.",
+        "note": "The editing is expected to be finished by nine."
+      }
+    },
+    {
+      "title": "Future perfect result versus future perfect continuous duration",
+      "left": {
+        "label": "Future perfect: completed quantity",
+        "example": "By Friday, we will have tested forty samples.",
+        "note": "Attention falls on the number of tests completed."
+      },
+      "right": {
+        "label": "Future perfect continuous: duration",
+        "example": "By Friday, we will have been testing samples for two weeks.",
+        "note": "Attention falls on how long the testing activity has continued."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "This time tomorrow, the interview panel will be examining the shortlisted candidates.",
+      "note": "The future continuous places an ongoing activity at a later time."
+    },
+    {
+      "sentence": "Will you be bringing your laptop to the workshop, or should we arrange one?",
+      "note": "Will you be bringing enquires neutrally about an existing intention."
+    },
+    {
+      "sentence": "By the end of the month, the engineers will have updated all the safety notices.",
+      "note": "The future perfect signals completion before a deadline."
+    },
+    {
+      "sentence": "In September, the volunteers will have been restoring the garden for three full years.",
+      "note": "The future perfect continuous looks back at an ongoing period from a future point."
+    },
+    {
+      "sentence": "She will have heard about the timetable change by now, so another message may be unnecessary.",
+      "note": "Will have heard is an inference about an event assumed to have already occurred."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "At six tomorrow, I will working on the budget.",
+      "correct": "At six tomorrow, I will be working on the budget.",
+      "why": "Future continuous requires will be followed by an -ing form."
+    },
+    {
+      "incorrect": "By next Tuesday, they will have prepare the room.",
+      "correct": "By next Tuesday, they will have prepared the room.",
+      "why": "Future perfect requires the past participle after will have."
+    },
+    {
+      "incorrect": "By January, we will have been collect data for two years.",
+      "correct": "By January, we will have been collecting data for two years.",
+      "why": "Future perfect continuous is built with will have been plus an -ing verb."
+    },
+    {
+      "incorrect": "Will you be use the projector during the morning session?",
+      "correct": "Will you be using the projector during the morning session?",
+      "why": "A neutral question about existing arrangements uses will + subject + be + -ing."
+    }
+  ],
+  "studyTips": [
+    "Draw a timeline for at, by and for: mark what will be happening, what will be finished and how long an activity will have lasted.",
+    "Practise neutral questions about colleagues’ existing plans using Will you be ...? and compare their effect with direct Will you ...? questions.",
+    "For every perfect-continuous example, name its reference point and duration; for every perfect example, name the result expected to be complete."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "When you ring at eleven tomorrow, I ___ a training session, so I probably cannot answer immediately.",
+      "choices": [
+        "will be leading",
+        "will have led",
+        "led"
+      ],
+      "answerIndex": 0,
+      "feedback": "Will be leading describes the activity underway at the future time of the call."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which question neutrally enquires about an existing plan, rather than sounding like a request to do something?",
+      "choices": [
+        "Do you using the main hall after lunch?",
+        "Will you be using the main hall after lunch?",
+        "Will you been using the main hall after lunch?"
+      ],
+      "answerIndex": 1,
+      "feedback": "Will you be using is the correct future continuous question and conventionally asks about a future arrangement."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The archive has a strict deadline: by midday Friday, the team ___ all six boxes of documents.",
+      "choices": [
+        "will cataloguing",
+        "will be catalogued",
+        "will have catalogued"
+      ],
+      "answerIndex": 2,
+      "feedback": "Will have catalogued presents all six boxes as fully processed by the deadline."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which form explicitly stresses the duration of a continuing activity up to a future point?",
+      "choices": [
+        "will have been coordinating",
+        "will coordinate",
+        "will be coordinating"
+      ],
+      "answerIndex": 0,
+      "feedback": "Will have been coordinating focuses on how long the activity has lasted up to the future reference point."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "At three tomorrow afternoon, the curators ___ (examine) the paintings. Write the complete future continuous verb phrase.",
+      "acceptedAnswers": [
+        "will be examining"
+      ],
+      "feedback": "Will be examining places an unfinished activity at a particular future time."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "By the time the guests arrive, the caterers ___ (prepare) every table. Write the complete future perfect verb phrase.",
+      "acceptedAnswers": [
+        "will have prepared"
+      ],
+      "feedback": "Will have prepared marks completed work by the guests’ arrival."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "By next April, Nadia ___ (work) on this programme for eight years. Write the complete future perfect continuous verb phrase.",
+      "acceptedAnswers": [
+        "will have been working"
+      ],
+      "feedback": "Will have been working emphasises the period of activity leading up to next April."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Our usual schedule continues tomorrow: we ___ (meet) the regional coordinators after breakfast. Use future continuous.",
+      "acceptedAnswers": [
+        "will be meeting"
+      ],
+      "feedback": "Will be meeting describes an anticipated event in the normal course of the programme."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the verb phrase: “When the workshop starts, we will be discuss the new policy.”",
+      "acceptedAnswers": [
+        "When the workshop starts, we will be discussing the new policy."
+      ],
+      "feedback": "After will be, use the -ing form discussing."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the future perfect: “By Thursday, the editor will have proofreaded the manuscript.”",
+      "acceptedAnswers": [
+        "By Thursday, the editor will have proofread the manuscript."
+      ],
+      "feedback": "The past participle of proofread is proofread, not proofreaded."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the duration form: “By winter, she will have been teach at this school for a decade.”",
+      "acceptedAnswers": [
+        "By winter, she will have been teaching at this school for a decade."
+      ],
+      "feedback": "Future perfect continuous requires will have been teaching."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct this neutral question: “Will you be attend the research briefing on Monday?”",
+      "acceptedAnswers": [
+        "Will you be attending the research briefing on Monday?"
+      ],
+      "feedback": "Future continuous questions use will + subject + be + present participle."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "At ten tomorrow, the team / analyse / the results. Express an activity in progress using future continuous and full forms.",
+      "acceptedAnswers": [
+        "At ten tomorrow, the team will be analysing the results."
+      ],
+      "feedback": "Will be analysing frames the activity as underway at a future moment."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask neutrally about a plan using the exact facts: you / use / the library desk / tomorrow morning. Begin with “Will” and use future continuous.",
+      "acceptedAnswers": [
+        "Will you be using the library desk tomorrow morning?"
+      ],
+      "feedback": "Will you be using asks about an existing arrangement without making a direct request."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "The deadline is Friday. Facts: By Friday / the organiser / send / every invitation. Use the future perfect.",
+      "acceptedAnswers": [
+        "By Friday, the organiser will have sent every invitation."
+      ],
+      "feedback": "Will have sent describes completion before Friday."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Describe how long work will continue. Facts: By July / they / work / on the renovation / for six months. Use future perfect continuous.",
+      "acceptedAnswers": [
+        "By July, they will have been working on the renovation for six months."
+      ],
+      "feedback": "Will have been working focuses on the accumulated duration."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Give a present-time inference. Facts: The director / speak / to the visitors / now. Use future continuous and start with “The director”.",
+      "acceptedAnswers": [
+        "The director will be speaking to the visitors now."
+      ],
+      "feedback": "Will be speaking can express an assumption about an ongoing present activity."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Make a future perfect passive statement. Facts: By Monday / the invitations / deliver. Use full forms.",
+      "acceptedAnswers": [
+        "By Monday, the invitations will have been delivered."
+      ],
+      "feedback": "Will have been delivered is the passive future perfect for completion."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the grammar aloud: “By December, I will have been study this subject for three years.”",
+      "acceptedAnswers": [
+        "By December, I will have been studying this subject for three years."
+      ],
+      "feedback": "After will have been, use the -ing form studying."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two sentences in this order, using full forms. Activity at nine: We / rehearse / at nine tomorrow. Completion by noon: We / finish / by noon tomorrow.",
+      "acceptedAnswers": [
+        "We will be rehearsing at nine tomorrow. We will have finished by noon tomorrow."
+      ],
+      "feedback": "Future continuous describes a point during rehearsal; future perfect describes completion by noon."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "When you arrive at the workshop at half past two, the participants will be discussing the second proposal. The meeting will still be in progress.",
+      "prompt": "What does the speaker expect at half past two?",
+      "choices": [
+        "A discussion already finished before lunch.",
+        "An ongoing discussion of the second proposal.",
+        "A workshop scheduled for next month."
+      ],
+      "answerIndex": 1,
+      "feedback": "Will be discussing presents an activity still underway at the stated time."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Will you be driving to the community centre this evening? I only want to know whether the parking space will be free.",
+      "prompt": "Why does the speaker ask about driving?",
+      "choices": [
+        "To order the listener to drive.",
+        "To offer driving lessons.",
+        "To find out about an existing plan and parking availability."
+      ],
+      "answerIndex": 2,
+      "feedback": "Will you be driving enquires about arrangements and the reason is parking availability."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "By the end of the month, the technicians will have replaced every damaged valve.",
+      "prompt": "Type the three-word verb phrase immediately after “technicians”.",
+      "acceptedAnswers": [
+        "will have replaced"
+      ],
+      "feedback": "Will have replaced is the spoken future perfect verb phrase."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "By next spring, the research assistants will have been collecting samples for eighteen months, and the study will continue.",
+      "prompt": "What does the speaker emphasise?",
+      "choices": [
+        "The accumulated duration of sampling up to next spring.",
+        "A single sample collected last spring.",
+        "The number of reports already published."
+      ],
+      "answerIndex": 0,
+      "feedback": "Will have been collecting for eighteen months foregrounds duration."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Please do not disturb the coordinator yet. She will be speaking to the overseas team now, if their call began on time.",
+      "prompt": "How certain is the coordinator’s activity?",
+      "choices": [
+        "The speaker watched the call end.",
+        "The speaker is making a reasonable assumption.",
+        "The speaker has cancelled the call."
+      ],
+      "answerIndex": 1,
+      "feedback": "Will be speaking is an inference about what is probably happening now."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "All the samples will have been labelled before the inspectors enter the laboratory. No unlabelled containers should remain.",
+      "prompt": "What is expected before the inspectors enter?",
+      "choices": [
+        "The inspectors will begin labelling samples themselves.",
+        "The labels will be ordered after the visit.",
+        "Every sample will already have a label."
+      ],
+      "answerIndex": 2,
+      "feedback": "Will have been labelled is passive future perfect describing a completed result."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "At eight tomorrow evening, we will be preparing the final rehearsal space.",
+      "prompt": "Type the three-word verb phrase immediately after “we”.",
+      "acceptedAnswers": [
+        "will be preparing"
+      ],
+      "feedback": "Will be preparing is exactly the future continuous phrase in the recording."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "By this September, she will have been managing the gallery for seven years.",
+      "prompt": "Type the four-word verb phrase immediately after “she”.",
+      "acceptedAnswers": [
+        "will have been managing"
+      ],
+      "feedback": "Will have been managing expresses duration accumulated by September."
+    }
+  ]
+}

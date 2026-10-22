@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u058",
+  "title": "Adverbial Participle Clauses: Time, Cause and Sequence",
+  "level": "C2",
+  "topicId": "eg3-u058-adverbial-participle-clauses-1",
+  "summary": "Use present, past and perfect participle clauses to express time, cause, background circumstances and prior events. Keep implied subjects consistent, recognise formal absolute constructions, and place negation correctly without confusing simultaneous and completed actions.",
+  "learningObjectives": [
+    "Use -ing and past-participle clauses to express suitable simultaneous actions, reasons and passive states without an unnecessary finite conjunction.",
+    "Check that a participle clause normally refers to the subject of the main clause, and recognise separately stated subjects in formal absolute constructions.",
+    "Distinguish not + participle from a participle followed by not + infinitive, preserving the scope of negation.",
+    "Choose having + past participle or having been + past participle to show that an event or passive experience was completed before the main action."
+  ],
+  "explanation": [
+    {
+      "heading": "Present participles link simultaneous actions and reasons",
+      "body": "An -ing clause can replace a fuller clause introduced by while, when or because if its subject is recoverable. It may describe a background activity or give the reason for what happened next. The connection must be clear from context; an -ing form does not automatically mean that two actions occurred at exactly the same moment.",
+      "example": "Reviewing the agenda, Aisha noticed that the final item had been omitted."
+    },
+    {
+      "heading": "Past participles often express a passive state or cause",
+      "body": "A past-participle clause can describe the main-clause subject as affected by an event, and often explains its reaction. It can be paraphrased with being or with a suitable finite passive clause, but the intended time and causal relationship must still make sense. The reduced construction omits the subject when it is shared.",
+      "example": "Concerned by the sudden silence, the lecturer checked the audio connection."
+    },
+    {
+      "heading": "The default subject link and formal absolutes",
+      "body": "Normally the understood subject of an adverbial participle clause is the subject of the main clause. A dangling modifier mistakenly makes the wrong person or thing appear to perform an action. Formal prose also permits an absolute construction that gives the participle its own explicit subject; this is a different structure, not a licence to leave an ordinary modifier dangling.",
+      "example": "The sun setting behind the hills, the walkers headed back to their campsite."
+    },
+    {
+      "heading": "Negation attaches to the intended action",
+      "body": "Put not before the participle when the whole participial situation is negated: not recognising, not having checked. If the participle is a verb such as hoping, expecting or trying that takes an infinitive, not may belong inside that infinitive instead: hoping not to disturb someone. These patterns communicate different meanings.",
+      "example": "Not recognising the address, Priya checked the map again; hoping not to lose time, she chose the direct route."
+    },
+    {
+      "heading": "Perfect participles put completion first",
+      "body": "Having + past participle often makes it explicit that one event was finished before the main-clause event. Having been + past participle expresses a completed passive experience before the later action. In contrast, an ordinary -ing clause often presents a concurrent or immediately connected process. Do not choose the perfect form unless the sequence or result matters.",
+      "example": "Having signed the attendance sheet, Daniel entered the auditorium."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Ongoing action compared with prior completion",
+      "left": {
+        "label": "Present participle: action in progress",
+        "example": "Reading the report, Lila noticed a missing date.",
+        "note": "The discovery happens as Lila is reading."
+      },
+      "right": {
+        "label": "Perfect participle: finished first",
+        "example": "Having read the report, Lila sent her comments.",
+        "note": "The reading is complete before the comments are sent."
+      }
+    },
+    {
+      "title": "A dangling modifier and a controlled modifier",
+      "left": {
+        "label": "Wrong implied subject",
+        "example": "Walking into the laboratory, the lights suddenly went out.",
+        "note": "The grammar wrongly suggests that the lights were walking into the room."
+      },
+      "right": {
+        "label": "Shared subject made explicit",
+        "example": "Walking into the laboratory, Hasan saw the lights go out.",
+        "note": "Hasan is the person walking and the subject of the main clause."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Inspecting the display cases, Nora found a loose hinge.",
+      "note": "The -ing clause supplies an action in progress during the discovery."
+    },
+    {
+      "sentence": "Disappointed by the cancellation, the delegates arranged another meeting.",
+      "note": "The past participle describes the delegates as affected by an event."
+    },
+    {
+      "sentence": "Having compared the three offers, Joel selected the most economical one.",
+      "note": "The comparison was finished before the selection."
+    },
+    {
+      "sentence": "Not knowing the code, the caretaker called the building manager.",
+      "note": "Not scopes over the lack of knowledge that explains the call."
+    },
+    {
+      "sentence": "The wind growing stronger, the crew returned to the shore.",
+      "note": "This formal absolute has its own subject, the wind, distinct from the crew."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Entering the library, the alarm started to ring.",
+      "correct": "Entering the library, Maya heard the alarm start to ring.",
+      "why": "Without a subject such as Maya in the main clause, the original wrongly makes the alarm seem to enter the library."
+    },
+    {
+      "incorrect": "Having complete the survey, Elias submitted his answers.",
+      "correct": "Having completed the survey, Elias submitted his answers.",
+      "why": "Perfect participle clauses use having followed by the past participle, completed."
+    },
+    {
+      "incorrect": "Not to understand the instructions, Nina asked the supervisor.",
+      "correct": "Not understanding the instructions, Nina asked the supervisor.",
+      "why": "To express the reason for asking, negate an -ing participle with not understanding."
+    },
+    {
+      "incorrect": "Having been inform of the cancellation, the guests left early.",
+      "correct": "Having been informed of the cancellation, the guests left early.",
+      "why": "A perfect passive participle requires having been plus a past participle."
+    }
+  ],
+  "studyTips": [
+    "Rewrite short because, while and after clauses, then identify which participle form preserves the intended cause or time sequence.",
+    "For each opening -ing clause, ask who performed the action; that person should normally be the subject immediately after the comma.",
+    "Read pairs with not understanding and hoping not to interrupt aloud, explaining which part of the meaning is negated."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the opening that shows the mistake was spotted during a careful reading: \"___ the letter, Mina found an incorrect address.\"",
+      "choices": [
+        "Reading",
+        "Having read",
+        "Read"
+      ],
+      "answerIndex": 0,
+      "feedback": "Reading describes the activity underway when Mina spotted the address; having read suggests the reading was already complete."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "___ by the unexpected announcement, the audience remained silent for several seconds.",
+      "choices": [
+        "Surprising",
+        "Surprised",
+        "Having surprise"
+      ],
+      "answerIndex": 1,
+      "feedback": "Surprised describes the audience as affected by the announcement, giving the cause of its silence."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which continuation gives the opening clause its intended human subject? \"Walking across the courtyard, ___\"",
+      "choices": [
+        "the clock struck three.",
+        "the gate was already locked.",
+        "I noticed a broken paving stone."
+      ],
+      "answerIndex": 2,
+      "feedback": "The subject I can perform walking; the clock and gate cannot."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The engineers completed calibration before they began the trial. Which sentence states that sequence most clearly?",
+      "choices": [
+        "Having calibrated the sensors, the engineers began the trial.",
+        "Calibrating the sensors, the engineers began the trial.",
+        "Being calibrated, the engineers began the trial."
+      ],
+      "answerIndex": 0,
+      "feedback": "Having calibrated establishes completed calibration before testing starts."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Write the opening perfect participle phrase: \"___ (complete) the form online, Hana went directly to the desk.\" Use having + past participle.",
+      "acceptedAnswers": [
+        "Having completed"
+      ],
+      "feedback": "Having completed marks the registration as already finished before the visit."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Use a single past participle: \"___ (alarm) by the smell of smoke, the residents called the caretaker.\"",
+      "acceptedAnswers": [
+        "Alarmed"
+      ],
+      "feedback": "Alarmed describes the residents as affected by the smell; it has a passive sense."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Write the opening negative -ing phrase: \"___ (not / recognise) the caller, Owen ignored the number.\"",
+      "acceptedAnswers": [
+        "Not recognising"
+      ],
+      "feedback": "Not recognising negates the perception that would explain the caller to Owen."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Use a present participle: \"___ (wait) near the station, the tourists read the information board.\"",
+      "acceptedAnswers": [
+        "Waiting"
+      ],
+      "feedback": "Waiting is an activity taking place while the tourists read the board."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence: \"Having check the final figures, Rosa approved the invoice.\"",
+      "acceptedAnswers": [
+        "Having checked the final figures, Rosa approved the invoice."
+      ],
+      "feedback": "Having must be followed by checked to mark a completed prior check."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "The original incorrectly suggests that the warning sign is cycling. Rewrite the complete sentence so Clara is cycling: \"Cycling along the canal, a warning sign caught Clara’s attention.\" Begin with \"Cycling along the canal, Clara\".",
+      "acceptedAnswers": [
+        "Cycling along the canal, Clara noticed a warning sign."
+      ],
+      "feedback": "Clara becomes the grammatical subject of cycling and the sign remains what she notices."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: \"Not to recognise the address, Felix asked for directions.\"",
+      "acceptedAnswers": [
+        "Not recognising the address, Felix asked for directions."
+      ],
+      "feedback": "The cause is Felix not recognising an address, so use a negative -ing participle."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: \"Having been inform about the new timetable, the staff changed their plans.\"",
+      "acceptedAnswers": [
+        "Having been informed about the new timetable, the staff changed their plans."
+      ],
+      "feedback": "A perfect passive participle has the form having been informed."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Transform the sentence without changing its meaning: \"While Sofia inspected the model, she found a loose wire.\" Begin with \"Inspecting the model\".",
+      "acceptedAnswers": [
+        "Inspecting the model, Sofia found a loose wire."
+      ],
+      "feedback": "The opening -ing clause describes what Sofia was doing when she found the fault."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Express the reason with a past participle. Facts: The guests were confused by the signs. They asked for directions. Begin with \"Confused\".",
+      "acceptedAnswers": [
+        "Confused by the signs, the guests asked for directions."
+      ],
+      "feedback": "Confused by the signs describes the guests and explains their request."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Show the first action was completed. Facts: Malik checked the figures, then sent the report. Begin with \"Having checked\".",
+      "acceptedAnswers": [
+        "Having checked the figures, Malik sent the report."
+      ],
+      "feedback": "Having checked makes the completed earlier action explicit."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Correct the dangling modifier while preserving these facts: Sara was crossing the bridge when a gust of wind struck her. Begin with \"Crossing the bridge, Sara\".",
+      "acceptedAnswers": [
+        "Crossing the bridge, Sara was struck by a gust of wind."
+      ],
+      "feedback": "The person crossing is also the main-clause subject; the passive keeps the wind as the cause."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Rewrite as a negative -ing clause. Facts: I did not recognise the caller, so I did not answer. Begin with \"Not recognising\".",
+      "acceptedAnswers": [
+        "Not recognising the caller, I did not answer."
+      ],
+      "feedback": "Not recognising gives the reason for not answering."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Produce a formal absolute participle construction from these exact facts: The rain had stopped; then the hikers left the shelter. Begin with \"The rain having\".",
+      "acceptedAnswers": [
+        "The rain having stopped, the hikers left the shelter."
+      ],
+      "feedback": "The rain is the separately stated subject of this absolute clause."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the sentence aloud: \"Having wrote the letter, Jo sealed the envelope.\"",
+      "acceptedAnswers": [
+        "Having written the letter, Jo sealed the envelope."
+      ],
+      "feedback": "The past participle of write is written; it follows having."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two sentences in this order, using full forms and no extra detail. First: Feeling exhausted / Lena / sat down. Second: Having rested / Lena / continued.",
+      "acceptedAnswers": [
+        "Feeling exhausted, Lena sat down. Having rested, Lena continued."
+      ],
+      "feedback": "Feeling exhausted describes her state; having rested places recovery before continuing."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Walking through the exhibition, Leah noticed a handwritten label on the first display.",
+      "prompt": "When did Leah notice the handwritten label?",
+      "choices": [
+        "While she was walking through the exhibition.",
+        "Only after she had left the exhibition.",
+        "Before she had entered the building."
+      ],
+      "answerIndex": 0,
+      "feedback": "Walking through describes Leah’s simultaneous activity when she noticed the label."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Warned about the slippery steps, the visitors used the handrail.",
+      "prompt": "Why did the visitors use the handrail?",
+      "choices": [
+        "They were carrying heavy luggage.",
+        "They had been warned about slippery steps.",
+        "They wanted to count the steps."
+      ],
+      "answerIndex": 1,
+      "feedback": "Warned about the slippery steps gives the prior passive experience that explains the handrail use."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Having booked the tickets online, Carla went straight to the entrance.",
+      "prompt": "Transcribe the opening participle phrase before the name Carla.",
+      "acceptedAnswers": [
+        "Having booked the tickets online"
+      ],
+      "feedback": "Having booked identifies a completed action before Carla reaches the entrance."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The streetlights coming on, the cyclists headed home.",
+      "prompt": "In this formal absolute construction, what was coming on?",
+      "choices": [
+        "The bicycles.",
+        "The cyclists’ helmets.",
+        "The streetlights."
+      ],
+      "answerIndex": 2,
+      "feedback": "The absolute clause has its own subject, the streetlights, separate from the cyclists."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Not knowing the password, Omar asked the receptionist to unlock the screen.",
+      "prompt": "Why did Omar ask the receptionist for help?",
+      "choices": [
+        "He did not know the password.",
+        "He had forgotten the building address.",
+        "He wanted to replace the keyboard."
+      ],
+      "answerIndex": 0,
+      "feedback": "Not knowing the password is the reason for the request."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Hoping not to overpower the fruit, the chef added only a little spice.",
+      "prompt": "What did the chef hope to avoid?",
+      "choices": [
+        "Leaving the kitchen too early.",
+        "Overpowering the fruit.",
+        "Inviting too many guests."
+      ],
+      "answerIndex": 1,
+      "feedback": "Not belongs to the infinitive to overpower, specifying the unwanted result."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Having been informed of the timetable change, the passengers waited at platform six.",
+      "prompt": "Transcribe the opening passive participle phrase before \"the passengers\".",
+      "acceptedAnswers": [
+        "Having been informed of the timetable change"
+      ],
+      "feedback": "Having been informed is a perfect passive form marking an earlier notification."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Feeling relieved, the organisers finally opened the doors.",
+      "prompt": "Transcribe the two-word participle phrase that opens the sentence.",
+      "acceptedAnswers": [
+        "Feeling relieved"
+      ],
+      "feedback": "Feeling relieved describes the organisers’ state as they opened the doors."
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u064",
+  "title": "Advanced Ellipsis after Auxiliary Verbs",
+  "level": "C2",
+  "topicId": "eg3-u064-ellipsis-after-auxiliary-verbs",
+  "summary": "Use auxiliary verbs to avoid repeating earlier predicates while maintaining tense, modality, aspect and voice. Choose between bare auxiliary substitutes, do-support, have done, modal do and modal be, and recognise when a passive or intransitive context limits the options.",
+  "learningObjectives": [
+    "Omit recoverable verb phrases after a suitable auxiliary, retaining one or more auxiliaries where necessary for meaning.",
+    "Select do-support for simple-tense lexical verbs and a suitable form of be or have for lexical and auxiliary uses.",
+    "Recognise restrictions on spoken have done, modal do and modal be, especially with intransitives and omitted complements.",
+    "Distinguish ellipsis after an auxiliary be from cases requiring the main verb be to remain after a modal."
+  ],
+  "explanation": [
+    {
+      "heading": "Keep the first auxiliary and omit the recoverable verb phrase",
+      "body": "A previously expressed verb phrase can often be left out after an auxiliary such as have, can, will or would. When the earlier verb group has two or more auxiliaries, the reply may retain just the first or more of them, provided the omitted material is clear. Retaining extra auxiliaries may make tense, aspect or passive meaning explicit. Do not mechanically copy the earlier verb when a short auxiliary reply is sufficient.",
+      "example": "The files may have been misplaced, but I doubt they have."
+    },
+    {
+      "heading": "No auxiliary: do-support and lexical be",
+      "body": "When a simple present or past clause contains no auxiliary, substitute do, does or did as appropriate: Mae works late, and Tom does too. When the original lexical predicate is be, keep a matching form of be instead: the room was empty and the corridor was too. These patterns have different grammatical sources even when both are short.",
+      "example": "Lina reviews the figures weekly, and her supervisor does too."
+    },
+    {
+      "heading": "Have and have got: states versus have + noun activities",
+      "body": "When have or have got expresses possession, a substitute with do or have can be possible, depending on variety and context. With event expressions such as have dinner, have a shower or have fun, do is usually the natural substitute because the whole phrase names an activity. Avoid inferring that every appearance of have permits an isolated have in exactly the same role.",
+      "example": "I had a wonderful evening, and my friends did too."
+    },
+    {
+      "heading": "Have done and modal do in conversation",
+      "body": "In some varieties, especially spoken British English, have done may follow auxiliary have to stand for an earlier transitive verb phrase. This option is often unsuitable when the missing verb is intransitive: they have already left, not they have already done. Similar modal + do alternatives occur in informal contexts: I might do; she could do. Sometimes be is the appropriate substitute instead, as in I might be for a continuous phrase.",
+      "example": "Has Noah repaired the window? I think he has, although he may not have done."
+    },
+    {
+      "heading": "Modal be and passive restrictions",
+      "body": "After a modal, be can stand for an omitted continuous verb phrase, especially when the previous clause already includes auxiliary be: I wonder whether they will be waiting; they might be. When be is the main verb, or the surviving form is tied to a passive construction, the options are narrower. A passive prediction such as it would be approved normally requires be after would when the passive predicate is omitted in an informal short reply. Preserve the meaning and voice of the earlier clause.",
+      "example": "The scheme was expected to be approved, and eventually it will be."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "An ordinary lexical verb versus lexical be",
+      "left": {
+        "label": "Do-support after lexical verb",
+        "example": "Mila runs the workshop, and Tariq does too.",
+        "note": "Does stands for runs the workshop."
+      },
+      "right": {
+        "label": "Be for a state",
+        "example": "The first room was warm, and the second was too.",
+        "note": "Was repeats the state was warm rather than using did."
+      }
+    },
+    {
+      "title": "Modal do versus modal be",
+      "left": {
+        "label": "Modal + do: perform the action",
+        "example": "Will they finish the repairs? They might do.",
+        "note": "Do substitutes for finish the repairs in informal speech."
+      },
+      "right": {
+        "label": "Modal + be: an ongoing situation",
+        "example": "Will they still be working? They might be.",
+        "note": "Be reflects the progressive auxiliary in be working."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "They should have received the invitation, and I believe they have.",
+      "note": "Have is sufficient after a longer auxiliary sequence when the remainder is understood."
+    },
+    {
+      "sentence": "Both editors proofread the draft, but only one did so yesterday.",
+      "note": "Did so refers back to proofread the draft and locates the action in the past."
+    },
+    {
+      "sentence": "The reporters are ready, and the photographers are as well.",
+      "note": "A matching form of lexical be can represent the earlier state."
+    },
+    {
+      "sentence": "We had a good meal at the conference, and the delegates did too.",
+      "note": "Did substitutes for have a good meal, an event expression with have."
+    },
+    {
+      "sentence": "I thought the files would be checked, and apparently they will be.",
+      "note": "Be remains after the modal to preserve the passive meaning."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "She writes the minutes, and he is too.",
+      "correct": "She writes the minutes, and he does too.",
+      "why": "Writes is a lexical present-simple verb; the substitute requires auxiliary does."
+    },
+    {
+      "incorrect": "The corridor was silent, and the office did too.",
+      "correct": "The corridor was silent, and the office was too.",
+      "why": "Silent is a complement of lexical be, so keep a form of be, not do."
+    },
+    {
+      "incorrect": "The passengers have already departed, and the crew have done as well.",
+      "correct": "The passengers have already departed, and the crew have as well.",
+      "why": "Depart is intransitive here; bare auxiliary have is the safe choice instead of have done."
+    },
+    {
+      "incorrect": "The article is expected to be translated, and I think it will.",
+      "correct": "The article is expected to be translated, and I think it will be.",
+      "why": "In the intended shortened passive construction, retaining be after will makes the passive meaning explicit."
+    }
+  ],
+  "studyTips": [
+    "In pairs of clauses, circle the auxiliary in the first clause and test how many following words can disappear without losing aspect or voice.",
+    "Compare three substitutes for have: possession, an event expression such as have lunch, and auxiliary have + past participle. Explain why their responses differ.",
+    "Read British conversational replies with have done, might do and might be, then rewrite them with safer bare-auxiliary forms for formal writing."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The technicians have completed the test, and the supervisors believe they ___. Choose the shortest grammatical auxiliary reply.",
+      "choices": [
+        "do",
+        "have",
+        "are"
+      ],
+      "answerIndex": 1,
+      "feedback": "Have alone substitutes for have completed the test."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The director speaks at every meeting, and the deputy ___ too.",
+      "choices": [
+        "is",
+        "has",
+        "does"
+      ],
+      "answerIndex": 2,
+      "feedback": "Does substitutes for the present-simple lexical predicate speaks at every meeting."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The entrance was closed, and the rear door ___ too.",
+      "choices": [
+        "did",
+        "was",
+        "had"
+      ],
+      "answerIndex": 1,
+      "feedback": "The previous predicate contains lexical be, so was replaces was closed."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose a natural short reply that retains the passive reading after will.",
+      "choices": [
+        "They said the form would be reviewed, and it will be.",
+        "They said the form would be reviewed, and it will do.",
+        "They said the form would be reviewed, and it will have."
+      ],
+      "answerIndex": 0,
+      "feedback": "Will be is an appropriate shortened passive sequence; do or have would not preserve that structure."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The applicants submitted their forms early, and the interviewers ___ too. Use the simple-past auxiliary substitute.",
+      "acceptedAnswers": [
+        "did"
+      ],
+      "feedback": "Did is the substitute for the previously mentioned simple-past lexical action."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The second display was brighter, and the third ___ too. Use the past form of be.",
+      "acceptedAnswers": [
+        "was"
+      ],
+      "feedback": "Was is the right substitute for a previous was + adjective predicate."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The visitors will be guided through the building, and the late arrivals will ___ as well. Preserve the passive construction.",
+      "acceptedAnswers": [
+        "be"
+      ],
+      "feedback": "Will be keeps the passive structure when the earlier verb phrase is understood."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The parcels might have been misplaced. I think they ___. Supply the first auxiliary of might have been misplaced.",
+      "acceptedAnswers": [
+        "might"
+      ],
+      "feedback": "Might may stand alone when have been misplaced is recoverable from context."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: My colleagues finish work at six, and I am too.",
+      "acceptedAnswers": [
+        "My colleagues finish work at six, and I do too."
+      ],
+      "feedback": "Finish is lexical present simple, so the short substitute uses do."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The sky was cloudy, and the sea did too.",
+      "acceptedAnswers": [
+        "The sky was cloudy, and the sea was too."
+      ],
+      "feedback": "The predicate was cloudy takes a matching form of be, not did."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The children have already left, and the adults have done too.",
+      "acceptedAnswers": [
+        "The children have already left, and the adults have too."
+      ],
+      "feedback": "With intransitive left, omit the verb after have instead of adding done."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the passive short response: The device will be inspected, and the spare will do as well.",
+      "acceptedAnswers": [
+        "The device will be inspected, and the spare will be as well."
+      ],
+      "feedback": "Will be is the appropriate remaining auxiliary sequence for a passive prediction."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Reply without repeating the predicate. Statement: \"Ada has finished the report.\" Respond: \"Yes, she ...\" Use just the auxiliary and start with Yes.",
+      "acceptedAnswers": [
+        "Yes, she has."
+      ],
+      "feedback": "Has substitutes for has finished the report."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Combine the facts with a short substitute. Facts: Kamal travels by train; Nia travels by train. Use does too and begin with Kamal.",
+      "acceptedAnswers": [
+        "Kamal travels by train, and Nia does too."
+      ],
+      "feedback": "Does too refers to travels by train."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Give the equivalent short confirmation: The first door was open. The second door was open. Use was too and start with The first door.",
+      "acceptedAnswers": [
+        "The first door was open, and the second door was too."
+      ],
+      "feedback": "Was too is used for the lexical be predicate was open."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Use a short substitute for an event expression with have. Facts: Priya had a nice holiday; Owen had a nice holiday. Begin with Priya and use did too.",
+      "acceptedAnswers": [
+        "Priya had a nice holiday, and Owen did too."
+      ],
+      "feedback": "Did replaces had a nice holiday, which denotes an experience."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Preserve the passive in a future reply. Facts: The artwork will be insured; the frames will be insured. Start with The artwork and end with will be too.",
+      "acceptedAnswers": [
+        "The artwork will be insured, and the frames will be too."
+      ],
+      "feedback": "Will be retains the passive auxiliary be."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Correct the intransitive substitution aloud: \"The hikers have left, and the guides have done too.\"",
+      "acceptedAnswers": [
+        "The hikers have left, and the guides have too."
+      ],
+      "feedback": "After intransitive left, omit the repeated verb phrase without done."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Answer a question using a minimal auxiliary reply. Question: \"Could the plans have changed?\" Answer yes with the modal alone, beginning Yes, they.",
+      "acceptedAnswers": [
+        "Yes, they could."
+      ],
+      "feedback": "Could stands for could have changed."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce these two sentences in order, using full forms. First: Nora has already left, and Eli has too. Second: The repair might be completed today, and the inspection might be too.",
+      "acceptedAnswers": [
+        "Nora has already left, and Eli has too. The repair might be completed today, and the inspection might be too."
+      ],
+      "feedback": "Has replaces has left, while might be retains be in a shortened passive sequence."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The first group has completed the safety briefing, and I believe the second group has too.",
+      "prompt": "What has the second group probably done?",
+      "choices": [
+        "Completed the safety briefing.",
+        "Cancelled the safety briefing.",
+        "Begun a different training course."
+      ],
+      "answerIndex": 0,
+      "feedback": "Have is an auxiliary substitute for have completed the safety briefing."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Maya translates the weekly report into French, and her colleague does too.",
+      "prompt": "Which activity does the second speaker also do?",
+      "choices": [
+        "Hosts the weekly call.",
+        "Translates the weekly report.",
+        "Archives the weekly report."
+      ],
+      "answerIndex": 1,
+      "feedback": "Does too repeats translates the weekly report, a present-simple lexical action."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Could the runners have arrived early? Yes, they could. The road was clear.",
+      "prompt": "Transcribe the exact two-word auxiliary response after Yes.",
+      "acceptedAnswers": [
+        "they could"
+      ],
+      "feedback": "They could replaces could have arrived early."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The reading room was quiet, and the conference room was too.",
+      "prompt": "What can be inferred about the second room?",
+      "choices": [
+        "It was warmer.",
+        "It was equally quiet.",
+        "It was noisier."
+      ],
+      "answerIndex": 1,
+      "feedback": "Was too substitutes for was quiet, a state expressed with be."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The contract will be signed tomorrow, and the amendment will be as well.",
+      "prompt": "What does the short phrase will be refer to?",
+      "choices": [
+        "The document being signed tomorrow.",
+        "The document being lost tomorrow.",
+        "The document being drafted tomorrow."
+      ],
+      "answerIndex": 0,
+      "feedback": "Will be keeps the passive interpretation of will be signed."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Tessa has already left the building, and I am fairly sure Marcus has as well.",
+      "prompt": "Which statement about the second person is supported?",
+      "choices": [
+        "They have already left.",
+        "They have not arrived yet.",
+        "They are planning to leave next week."
+      ],
+      "answerIndex": 0,
+      "feedback": "Has as well substitutes for has already left; no done is needed after intransitive left."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The packages may have been delayed. The letters may have been too.",
+      "prompt": "Transcribe the exact two-word phrase after may in the reply.",
+      "acceptedAnswers": [
+        "have been"
+      ],
+      "feedback": "Have been can be retained after may to preserve an earlier perfect passive construction."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The technicians might be working late tonight, and I expect the engineers might be too.",
+      "prompt": "Transcribe the exact two-word auxiliary phrase after they.",
+      "acceptedAnswers": [
+        "might be"
+      ],
+      "feedback": "Might be keeps be when the speaker avoids repeating the ongoing action."
+    }
+  ]
+}

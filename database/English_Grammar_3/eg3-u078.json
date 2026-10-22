@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u078",
+  "title": "Comment Adverbs and Viewpoint Adverbs",
+  "level": "C2",
+  "topicId": "eg3-u078-comment-adverbs-and-viewpoint-adverbs",
+  "summary": "Distinguish whole-sentence comments about certainty, attitudes or judgement from manner adverbs that describe an action, and use viewpoint adverbs and source-attribution phrases to define the perspective or authority behind a claim.",
+  "learningObjectives": [
+    "Use comment adverbs to signal likelihood, the speaker’s attitude or an evaluation of someone’s behaviour without confusing these functions.",
+    "Interpret how an adverb can comment on a whole proposition or describe the manner or degree of a particular action, depending on position and context.",
+    "Use front-position comments, mid-position judgements, post-would comments in proposals, and not + comment adverb to manage emphasis or tone.",
+    "Frame claims with domain-specific viewpoint adverbs and expressions that attribute a view to a speaker or reported source."
+  ],
+  "explanation": [
+    {
+      "heading": "Comments on certainty, attitude and personal judgement",
+      "body": "Comment adverbs evaluate a proposition rather than describe a physical action. Probably and presumably indicate degrees of confidence; fortunately, surprisingly and frankly express attitudes to what is being said; wisely, carelessly and bravely can evaluate how a participant behaved. Such adverbs often appear at the beginning of a clause with a comma, where they clearly apply to the whole statement. Not all of these words can be exchanged: a probability estimate is different from a moral judgement.",
+      "example": "Presumably, the guests used the side entrance because the main doors were closed."
+    },
+    {
+      "heading": "Position and the difference between commentary and manner",
+      "body": "Front-position comment adverbs typically characterise the speaker’s assessment: Astonishingly, the apprentice solved the puzzle means the outcome surprised the speaker. After the main verb, an adverb may instead tell how the action was performed: The apprentice solved it astonishingly well evaluates the quality of the performance. Some comment adverbs also appear at the end or in mid position, and an adverb judging an action may naturally follow the subject: She wisely declined. Punctuation and surrounding words can determine the intended scope.",
+      "example": "Surprisingly, the guard answered calmly; the calmness was expected, but the answer was not."
+    },
+    {
+      "heading": "Comments in proposals and restrained disagreement",
+      "body": "A comment adverb can appear after would in a formal recommendation: A later deadline would certainly help. With an evaluation of someone’s action, mid position is common: The visitor foolishly ignored the warning. For rhetorical emphasis, certain judgement adverbs may be moved to the front. Not surprisingly and not necessarily can help writers avoid a blunt positive claim, but they do different jobs: not surprisingly treats an outcome as predictable, whereas not necessarily denies that a conclusion must follow. Not every comment adverb is compatible with every negative structure.",
+      "example": "Extending the consultation would undoubtedly improve the final plan, but it would not necessarily settle every dispute."
+    },
+    {
+      "heading": "Viewpoint adverbs define the dimension of a claim",
+      "body": "Technically, financially, environmentally, medically and visually can specify the respect in which a description is true. They do not automatically make that assessment true in other respects: an idea can be technically possible but financially impractical. Equivalent frames include from a financial perspective, in technical terms and environmentally speaking. Use the viewpoint to narrow a broad claim rather than present a partial assessment as an unconditional fact.",
+      "example": "Technically, the prototype meets the specification; financially, it remains difficult to produce at scale."
+    },
+    {
+      "heading": "Who holds the viewpoint? Attribution and ownership",
+      "body": "Viewpoint expressions can identify a source rather than a subject area. In my view gives the speaker’s judgement; according to the minutes attributes a statement to a documented source; from the curator’s perspective attributes a way of looking at a situation to a person. These are not interchangeable: according to the minutes does not mean the speaker endorses the minutes, and in my view does not identify an external authority. When reporting a disputed claim, keep the attribution explicit to avoid presenting a third party’s view as established fact.",
+      "example": "According to the project notes, the deadline was revised; in my view, the revised schedule is more realistic."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Sentence-wide comment versus manner description",
+      "left": {
+        "label": "Speaker’s comment",
+        "example": "Unexpectedly, the conductor spoke.",
+        "note": "The speaker did not expect the conductor to speak at all."
+      },
+      "right": {
+        "label": "Manner of the act",
+        "example": "The conductor spoke unexpectedly loudly.",
+        "note": "The notable feature is how loudly the conductor spoke, not necessarily the fact of speaking."
+      }
+    },
+    {
+      "title": "Domain of assessment versus source of an opinion",
+      "left": {
+        "label": "Domain viewpoint",
+        "example": "Financially, the proposal looks attractive.",
+        "note": "The evaluation concerns finances and does not claim other kinds of merit."
+      },
+      "right": {
+        "label": "Source attribution",
+        "example": "According to the trustees, the proposal looks attractive.",
+        "note": "The evaluation is attributed to the trustees, not restricted to a financial domain."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Clearly, the two witness accounts contradict each other.",
+      "note": "Clearly comments on the apparent certainty of the whole proposition."
+    },
+    {
+      "sentence": "The coordinator kindly offered to translate the instructions.",
+      "note": "Kindly evaluates the coordinator’s act of offering, rather than merely measuring its speed or volume."
+    },
+    {
+      "sentence": "A second review would probably identify the remaining omissions.",
+      "note": "Probably follows would and indicates the speaker’s estimate of likelihood in a proposal."
+    },
+    {
+      "sentence": "Visually, the redesign is impressive, but it uses too much material.",
+      "note": "Visually restricts the favourable judgement to appearance."
+    },
+    {
+      "sentence": "According to the maintenance log, the alarm stopped working last Friday.",
+      "note": "The claim is attributed to a specified record rather than asserted as the speaker’s own finding."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Financial, the plan is promising, but the equipment is expensive.",
+      "correct": "Financially, the plan is promising, but the equipment is expensive.",
+      "why": "A viewpoint frame needs the adverb financially, not the adjective financial."
+    },
+    {
+      "incorrect": "The visitor reacted surprisingly to the delay. I was surprised that she reacted at all.",
+      "correct": "Surprisingly, the visitor reacted to the delay. I was surprised that she reacted at all.",
+      "why": "The intended surprise concerns the entire event, so front-position Surprisingly is clearer than a manner reading."
+    },
+    {
+      "incorrect": "According to my opinion, the timetable should change.",
+      "correct": "In my opinion, the timetable should change.",
+      "why": "In my opinion introduces the speaker’s own view; according to typically attributes a claim to a separate source."
+    },
+    {
+      "incorrect": "The new lighting would improve undoubtedly visibility.",
+      "correct": "The new lighting would undoubtedly improve visibility.",
+      "why": "A sentence-comment adverb in a proposal naturally follows would and precedes the lexical verb."
+    }
+  ],
+  "studyTips": [
+    "Write a contrast pair for surprisingly, carelessly and wisely: make one version comment on an entire event and another evaluate a particular action; explain the scope.",
+    "Take a broad claim such as The scheme is successful and qualify it separately with technically, financially and environmentally; consider whether the claims can all be true.",
+    "Practise distinguishing in my view, from the organisers’ perspective and according to the report, making clear who is responsible for each claim."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The fact that the volunteers arrived surprised the organiser; their manner of arriving was ordinary. Which sentence expresses the intended comment?",
+      "choices": [
+        "The volunteers arrived surprisingly quietly.",
+        "The volunteers surprisingly quietly arrived.",
+        "Surprisingly, the volunteers arrived."
+      ],
+      "answerIndex": 2,
+      "feedback": "Front-position Surprisingly comments on the whole event of their arrival, not how they arrived."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the natural placement of an adverb indicating confidence in a formal proposal.",
+      "choices": [
+        "A longer trial would certainly reveal more issues.",
+        "A longer trial would reveal certainly more issues.",
+        "A longer trial certainly would reveal more issues only."
+      ],
+      "answerIndex": 0,
+      "feedback": "Would certainly reveal puts the comment adverb after would in a clear proposal."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The device meets engineering requirements, but it is too expensive. Which opening restricts the favourable judgement to the engineering dimension?",
+      "choices": [
+        "According to the committee,",
+        "Technically,",
+        "Surprisingly,"
+      ],
+      "answerIndex": 1,
+      "feedback": "Technically defines the aspect in which the device succeeds."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "A presenter wants to attribute a disputed cost figure to a published report without claiming personal agreement. Choose the clearest expression.",
+      "choices": [
+        "In my opinion, the cost has doubled.",
+        "Obviously, the cost has doubled.",
+        "According to the published report, the cost has doubled."
+      ],
+      "answerIndex": 2,
+      "feedback": "According to the published report attributes the factual assertion to a source."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "\"___, the museum remained open during the storm.\" Supply the comment adverb Surprisingly to show that the entire outcome was unexpected.",
+      "acceptedAnswers": [
+        "Surprisingly"
+      ],
+      "feedback": "Front-position Surprisingly marks the event as unexpected."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "\"The organiser ___ returned the lost wallet.\" Supply the positive judgement adverb kindly immediately before returned.",
+      "acceptedAnswers": [
+        "kindly"
+      ],
+      "feedback": "Kindly before returned evaluates the organiser’s helpful action."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "\"___, the equipment is expensive to maintain, even though it is reliable.\" Supply the viewpoint adverb Financially.",
+      "acceptedAnswers": [
+        "Financially"
+      ],
+      "feedback": "Financially signals that the evaluation concerns costs, not reliability."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "\"___ to the inspection notes, the leak began on Tuesday.\" Supply the single attribution word According.",
+      "acceptedAnswers": [
+        "According"
+      ],
+      "feedback": "According to identifies the inspection notes as the source of the claim."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the front-position comment adverb: \"Unexpected, the trainee identified the fault.\"",
+      "acceptedAnswers": [
+        "Unexpectedly, the trainee identified the fault."
+      ],
+      "feedback": "The adverb Unexpectedly, not the adjective Unexpected, comments on the whole event."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the viewpoint word: \"Technical, the machine is safe, but it is expensive to run.\"",
+      "acceptedAnswers": [
+        "Technically, the machine is safe, but it is expensive to run."
+      ],
+      "feedback": "Technically is an adverb framing an engineering or operational assessment."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the source-attribution phrase: \"According my view, the timetable is unreasonable.\"",
+      "acceptedAnswers": [
+        "In my view, the timetable is unreasonable."
+      ],
+      "feedback": "In my view states the speaker’s own judgement; according to is reserved here for an identified source."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the placement in this formal proposal: \"A pilot scheme would reduce probably delays.\"",
+      "acceptedAnswers": [
+        "A pilot scheme would probably reduce delays."
+      ],
+      "feedback": "Probably follows would and precedes the main verb reduce."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Comment on the whole event as unexpected. Facts: the meeting / end / early. Begin with \"Surprisingly\" and use the past simple.",
+      "acceptedAnswers": [
+        "Surprisingly, the meeting ended early."
+      ],
+      "feedback": "Front-position Surprisingly evaluates the entire early ending."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Judge the person’s action. Facts: She / wisely / reject / the unsafe design. Use the past simple.",
+      "acceptedAnswers": [
+        "She wisely rejected the unsafe design."
+      ],
+      "feedback": "Mid-position wisely evaluates the decision."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Give a formal proposal with a probability comment. Facts: A review / would / probably / help. Use full forms.",
+      "acceptedAnswers": [
+        "A review would probably help."
+      ],
+      "feedback": "Probably comes after would in a natural conditional proposal."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Describe appearance as a viewpoint. Facts: The poster / be / attractive. Start with \"Visually\".",
+      "acceptedAnswers": [
+        "Visually, the poster is attractive."
+      ],
+      "feedback": "Visually confines the evaluation to appearance."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Give a technical evaluation only. Facts: the installation / be / feasible. Start with \"Technically\".",
+      "acceptedAnswers": [
+        "Technically, the installation is feasible."
+      ],
+      "feedback": "Technically marks the dimension of feasibility."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Give your own opinion without citing an outside source. Facts: The change / be / necessary. Start with \"In my view\".",
+      "acceptedAnswers": [
+        "In my view, the change is necessary."
+      ],
+      "feedback": "In my view explicitly marks the claim as the speaker’s opinion."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Attribute a statement to a record. Facts: the report / say / the tunnel is closed. Begin with \"According to the report\".",
+      "acceptedAnswers": [
+        "According to the report, the tunnel is closed."
+      ],
+      "feedback": "The opening assigns responsibility for the claim to the report."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two sentences in order, using full forms. First: Financially / the proposal / be / attractive. Second: Environmentally / it / be / problematic.",
+      "acceptedAnswers": [
+        "Financially, the proposal is attractive. Environmentally, it is problematic."
+      ],
+      "feedback": "Each viewpoint adverb limits the scope of the corresponding assessment."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Surprisingly, the workshop finished ahead of schedule, although two instructors had been absent.",
+      "prompt": "What was unexpected?",
+      "choices": [
+        "The workshop finished early despite the absences.",
+        "The workshop was cancelled without warning.",
+        "All the instructors arrived before the workshop."
+      ],
+      "answerIndex": 0,
+      "feedback": "Surprisingly comments on the outcome of finishing early despite absent instructors."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The engineer wisely stopped the test when she noticed a loose connection.",
+      "prompt": "How does the speaker evaluate the engineer’s decision?",
+      "choices": [
+        "As unnecessarily cautious.",
+        "As sensible and well judged.",
+        "As careless and unpredictable."
+      ],
+      "answerIndex": 1,
+      "feedback": "Wisely expresses a favourable evaluation of her decision."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The revised schedule would undoubtedly reduce confusion among visitors.",
+      "prompt": "Transcribe the two-word probability-and-verb phrase directly after \"would\".",
+      "acceptedAnswers": [
+        "undoubtedly reduce"
+      ],
+      "feedback": "The proposal contains would undoubtedly reduce."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Visually, the new packaging is striking, but environmentally, the old version is better.",
+      "prompt": "In which respect is the new packaging praised?",
+      "choices": [
+        "Its manufacturing cost.",
+        "Its environmental effect.",
+        "Its appearance."
+      ],
+      "answerIndex": 2,
+      "feedback": "Visually frames the positive assessment in terms of appearance."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "According to the transport authority, the tunnel will remain closed until Friday. I have not confirmed the date myself.",
+      "prompt": "Whose information is the speaker reporting?",
+      "choices": [
+        "The transport authority’s.",
+        "The speaker’s own inspection results.",
+        "A passenger’s private diary."
+      ],
+      "answerIndex": 0,
+      "feedback": "According to attributes the closure forecast to the named authority."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "In my view, the policy is sensible, but from the employees’ perspective, it places too much pressure on the evening team.",
+      "prompt": "What contrast is expressed?",
+      "choices": [
+        "Both sides reject the policy completely.",
+        "The speaker supports the policy while employees may find it burdensome.",
+        "The speaker says the policy has already been cancelled."
+      ],
+      "answerIndex": 1,
+      "feedback": "In my view and from the employees’ perspective identify different stakeholders’ evaluations."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Financially, the expansion remains difficult despite its strong public support.",
+      "prompt": "Transcribe the four-word opening phrase ending in \"remains\".",
+      "acceptedAnswers": [
+        "Financially, the expansion remains"
+      ],
+      "feedback": "The viewpoint adverb Financially sets the topic of the assessment."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Not surprisingly, the outdoor concert was postponed after the storm warning.",
+      "prompt": "Transcribe the two-word comment expression at the beginning.",
+      "acceptedAnswers": [
+        "Not surprisingly"
+      ],
+      "feedback": "Not surprisingly frames the delay as predictable rather than remarkable."
+    }
+  ]
+}

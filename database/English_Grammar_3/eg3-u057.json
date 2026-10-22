@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u057",
+  "title": "Prepositional Phrases, Relative Clauses and Clear Noun Modification",
+  "level": "C2",
+  "topicId": "eg3-u057-prepositional-phrases-and-noun-modifiers",
+  "summary": "Expand noun phrases precisely with prepositional phrases, identifying relative clauses, participle modifiers and appositive noun phrases. Recognise when these forms are interchangeable, when they are not, and how modifier placement can create or remove ambiguity.",
+  "learningObjectives": [
+    "Condense suitable defining relative clauses into natural postmodifying prepositional phrases without changing their reference.",
+    "Distinguish prepositional relationships such as an increase in demand from relative-clause equivalents, and choose clear non-defining clauses when appropriate.",
+    "Combine appositives, prepositional phrases, relative clauses and participle modifiers while tracking what each phrase describes.",
+    "Diagnose attachment ambiguity in densely modified noun phrases and rewrite sentences to preserve one intended interpretation."
+  ],
+  "explanation": [
+    {
+      "heading": "Compact identification after a noun",
+      "body": "A prepositional phrase following a noun can identify which person or object we mean. Locative phrases often correspond to a defining relative clause with be; phrases beginning with with can sometimes correspond to one with have. These are alternatives when they express the same relationship, not a universal conversion rule. Restrictive modifiers normally have no separating commas.",
+      "example": "The engineer at the back table can help you. = The engineer who is at the back table can help you."
+    },
+    {
+      "heading": "Relationships that cannot simply become relative clauses",
+      "body": "The preposition can express a relationship such as topic, amount, cause or change rather than a shortened relative clause. The phrases a rise in applications and an analysis of voting patterns contain established noun-preposition combinations. Do not assume every postnominal phrase can be expanded as who is, which is or which has.",
+      "example": "A decline in attendance prompted a review of admission prices."
+    },
+    {
+      "heading": "Choosing a full non-defining relative clause",
+      "body": "When information is additional rather than essential to identification, a complete non-defining relative clause is often clearer, particularly with be plus a location phrase or have meaning possession. Put commas around that clause, and avoid using that as the relative pronoun in this construction. The prepositional alternative may be grammatical in a different structure, but it can sound compressed or obscure the intended relationship.",
+      "example": "Dr Ellis, who has a workshop near the harbour, designed the equipment."
+    },
+    {
+      "heading": "Layering modifiers in formal information-rich prose",
+      "body": "A noun may take several kinds of postmodifier: a prepositional phrase, a relative clause, a participle phrase or an appositive noun phrase that renames it. Choose an order that makes the intended noun easy to recover. A comma-marked appositive normally adds non-essential identity or status; a defining relative clause narrows down the people or things being discussed.",
+      "example": "Ms Ford, a specialist in early maps, presented documents recovered from the archive."
+    },
+    {
+      "heading": "Unclear attachment changes the message",
+      "body": "With several postmodifiers, readers may be unsure whether a phrase belongs to the verb, the nearest noun or an earlier noun. Moving a modifier, expanding it into a relative clause or replacing it with a precise compound adjective can remove the ambiguity. Keep the facts constant rather than merely choosing the shortest form.",
+      "example": "Ambiguous: We inspected crates on the lorry with broken locks. Clear: We inspected crates with broken locks that were on the lorry."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Identifying phrase and identifying clause",
+      "left": {
+        "label": "Prepositional postmodifier",
+        "example": "The researcher by the noticeboard has the schedule.",
+        "note": "By the noticeboard restricts the noun researcher to the intended person."
+      },
+      "right": {
+        "label": "Defining relative clause",
+        "example": "The researcher who is by the noticeboard has the schedule.",
+        "note": "Who is by the noticeboard expresses the same location more explicitly."
+      }
+    },
+    {
+      "title": "A phrase with two attachments versus an explicit reading",
+      "left": {
+        "label": "Ambiguous attachment",
+        "example": "The reporter photographed students in the corridor with red badges.",
+        "note": "With red badges might be attached to students or, less naturally, to the situation of photographing."
+      },
+      "right": {
+        "label": "Explicit student modifier",
+        "example": "The reporter photographed students wearing red badges in the corridor.",
+        "note": "Wearing attaches the badges to the students, not to the reporter or camera."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The volunteers in green jackets will direct the audience.",
+      "note": "The prepositional phrase identifies a particular group of volunteers."
+    },
+    {
+      "sentence": "An increase in delivery charges may affect smaller retailers.",
+      "note": "In expresses a change in a quantity; it is not a shortened relative clause."
+    },
+    {
+      "sentence": "Professor Awan, who has an office beside the library, will chair the discussion.",
+      "note": "A complete non-defining relative clause supplies additional information."
+    },
+    {
+      "sentence": "The curator, an expert in regional ceramics, described bowls discovered near the coast.",
+      "note": "An appositive noun phrase and a participial modifier add different kinds of detail."
+    },
+    {
+      "sentence": "The safety officer inspected crates that had damaged labels before they were loaded.",
+      "note": "The relative clause makes the location of the damage explicit."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The architect with works in the city centre designed the extension.",
+      "correct": "The architect who works in the city centre designed the extension.",
+      "why": "With cannot introduce the finite verb works as though it were a relative pronoun."
+    },
+    {
+      "incorrect": "Dr Sato, who near the entrance, will present the results.",
+      "correct": "Dr Sato, who is near the entrance, will present the results.",
+      "why": "A non-defining relative clause with a locative complement needs the verb be."
+    },
+    {
+      "incorrect": "The figures show a rise on the cost of repairs.",
+      "correct": "The figures show a rise in the cost of repairs.",
+      "why": "Use rise in when describing an increase in an amount or measure."
+    },
+    {
+      "incorrect": "The editor returned articles by freelancers with missing references.",
+      "correct": "The editor returned articles with missing references that had been written by freelancers.",
+      "why": "The original placement obscures whether the references are missing from the articles or the freelancers; the rewrite anchors the problem to the articles."
+    }
+  ],
+  "studyTips": [
+    "Underline each noun and draw an arrow from every following modifier to the noun or action it describes; revise any doubtful attachment.",
+    "Compare a defining location phrase with its who is or which is equivalent, then check whether the same rewrite works for a noun-preposition relationship.",
+    "Edit an information-dense paragraph by changing one modifier into a relative clause and one into an appositive, preserving exactly the same facts."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the relative clause that preserves the meaning of: \"The guide by the side gate knows the route.\"",
+      "choices": [
+        "The guide who has the side gate knows the route.",
+        "The guide who is by the side gate knows the route.",
+        "The guide whose side gate knows the route."
+      ],
+      "answerIndex": 1,
+      "feedback": "Who is by the side gate expresses the location that identifies the guide."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The forecast predicts a significant rise ___ electricity demand this winter.",
+      "choices": [
+        "in",
+        "at",
+        "with"
+      ],
+      "answerIndex": 0,
+      "feedback": "A rise in demand expresses an increase in a measurable quantity."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The consultant is already identified by name. Which option adds a complete non-defining relative clause?",
+      "choices": [
+        "Ms Bell, that an office in Cardiff, will attend.",
+        "Ms Bell who an office in Cardiff will attend.",
+        "Ms Bell, who has an office in Cardiff, will attend."
+      ],
+      "answerIndex": 2,
+      "feedback": "The non-defining who has clause is grammatical, comma-delimited and supplies extra information."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Intended meaning: the portraits have gold frames, and the gallery is upstairs. Which sentence communicates that most clearly?",
+      "choices": [
+        "The curator displayed gold-framed portraits in the upstairs gallery.",
+        "The curator displayed portraits in gold frames of the upstairs gallery.",
+        "The curator displayed portraits with an upstairs gallery in gold frames."
+      ],
+      "answerIndex": 0,
+      "feedback": "Gold-framed attaches the material directly to the portraits; in the upstairs gallery gives their location."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete the defining relative clause: \"The translator ___ works at reception speaks four languages.\" Write one relative pronoun.",
+      "acceptedAnswers": [
+        "who",
+        "that"
+      ],
+      "feedback": "Both who and that introduce a defining relative clause referring to a person."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Shorten \"The manager who is near the reception desk\" to \"The manager ___ the reception desk\". Use the single preposition near.",
+      "acceptedAnswers": [
+        "near"
+      ],
+      "feedback": "Near gives the location without the full relative clause."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete the established noun-preposition pairing: \"The study identified a sharp decline ___ visitor numbers.\" Enter one preposition.",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "feedback": "Decline in describes the affected quantity."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the non-defining clause: \"Dr Malik, ___ an office above the laboratory, will join us.\" Use who + have in the present simple.",
+      "acceptedAnswers": [
+        "who has"
+      ],
+      "feedback": "Who has adds non-identifying information about Dr Malik."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: \"The woman with works at the front desk can issue a pass.\"",
+      "acceptedAnswers": [
+        "The woman who works at the front desk can issue a pass."
+      ],
+      "feedback": "A finite verb needs a relative-clause subject such as who; with works is not an English relative construction."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: \"We have observed an increase on the price of heating.\"",
+      "acceptedAnswers": [
+        "We have observed an increase in the price of heating."
+      ],
+      "feedback": "Use increase in for a changing price or other measured quantity."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: \"Professor Reed, who a small studio near campus, gave the lecture.\"",
+      "acceptedAnswers": [
+        "Professor Reed, who has a small studio near campus, gave the lecture."
+      ],
+      "feedback": "The non-defining relative clause needs has to state possession."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "The original is ambiguous about what has damaged seals. Rewrite the entire sentence so the packages, not the warehouse, have damaged seals: \"They checked packages in the warehouse with damaged seals.\"",
+      "acceptedAnswers": [
+        "They checked packages with damaged seals in the warehouse.",
+        "They checked packages that had damaged seals in the warehouse."
+      ],
+      "feedback": "Placing the modifier next to packages, or adding that had, fixes which noun has the damaged seals."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Shorten the relative clause while keeping the rest unchanged: \"The student who is near the window has the key.\"",
+      "acceptedAnswers": [
+        "The student near the window has the key."
+      ],
+      "feedback": "Near the window is a compact, identifying location phrase."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Make one sentence from these exact facts: The technician / with / a yellow folder / is our contact.",
+      "acceptedAnswers": [
+        "The technician with a yellow folder is our contact."
+      ],
+      "feedback": "With a yellow folder identifies the technician by a visible possession."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "A colleague asks what changed in the survey results. Reply in one complete sentence using these exact facts: We / notice / a rise / in / complaints. Use the past simple.",
+      "acceptedAnswers": [
+        "We noticed a rise in complaints."
+      ],
+      "feedback": "The relationship is a rise in the number of complaints."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Turn the extra information into a non-defining relative clause. Facts: Ms Dean / have a flat near campus / will speak first. Use who has.",
+      "acceptedAnswers": [
+        "Ms Dean, who has a flat near campus, will speak first."
+      ],
+      "feedback": "Commas frame the additional who has clause; it does not identify which Ms Dean."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Remove the unclear attachment. Facts: The archivist photographed maps. The maps had torn corners. This happened in the storage room. Begin \"The archivist\" and use maps with torn corners.",
+      "acceptedAnswers": [
+        "The archivist photographed maps with torn corners in the storage room."
+      ],
+      "feedback": "With torn corners is attached to maps, while in the storage room states the location."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Answer the question \"Which editor asked a question?\" using one complete sentence with these exact facts: The editor / in the front row / ask a question. Use the past simple.",
+      "acceptedAnswers": [
+        "The editor in the front row asked a question."
+      ],
+      "feedback": "In the front row restricts which editor is meant."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the noun-preposition pairing aloud: \"The report recorded a decline on exports.\"",
+      "acceptedAnswers": [
+        "The report recorded a decline in exports."
+      ],
+      "feedback": "Decline in is the natural form for a reduction in exports."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two sentences in order using the given facts and full forms. Sentence one: The guard / at the entrance / waved. Sentence two: Dr Bell / who has an office upstairs / arrived.",
+      "acceptedAnswers": [
+        "The guard at the entrance waved. Dr Bell, who has an office upstairs, arrived."
+      ],
+      "feedback": "The first sentence uses a defining phrase; the second adds a non-defining relative clause."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The visitor with the orange scarf must sign the register before entering.",
+      "prompt": "Which visitor has to sign before going in?",
+      "choices": [
+        "The visitor in a red coat.",
+        "The visitor with an orange scarf.",
+        "Every visitor without an appointment."
+      ],
+      "answerIndex": 1,
+      "feedback": "With an orange scarf identifies the particular visitor given the instruction."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Dr Baines, who has an office on the ground floor, will lead the seminar.",
+      "prompt": "What additional detail is given about Dr Baines?",
+      "choices": [
+        "Dr Baines has an office on the ground floor.",
+        "Dr Baines works at the train station.",
+        "Dr Baines owns the seminar building."
+      ],
+      "answerIndex": 0,
+      "feedback": "The non-defining relative clause gives the location of the office."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The survey reported a sharp rise in household spending last quarter.",
+      "prompt": "Transcribe the noun phrase immediately after \"reported\" through the word \"spending\":",
+      "acceptedAnswers": [
+        "a sharp rise in household spending"
+      ],
+      "feedback": "The phrase a sharp rise in household spending uses rise in for a change in an amount."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The museum displayed photographs by local residents in its new gallery.",
+      "prompt": "Who created the photographs?",
+      "choices": [
+        "The museum staff.",
+        "The visiting journalist.",
+        "Local residents."
+      ],
+      "answerIndex": 2,
+      "feedback": "By local residents identifies the people who made the photographs."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The reporters interviewed the residents who wore yellow armbands. Other residents were not interviewed.",
+      "prompt": "Which residents did the reporters interview?",
+      "choices": [
+        "Only the residents wearing yellow armbands.",
+        "Every resident, regardless of clothing.",
+        "The residents without armbands."
+      ],
+      "answerIndex": 0,
+      "feedback": "The defining relative clause narrows the group to those wearing yellow armbands."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The curator introduced Dr Rios, an expert in ancient textiles, before the workshop.",
+      "prompt": "What is Dr Rios described as?",
+      "choices": [
+        "The curator of the new wing.",
+        "An expert in ancient textiles.",
+        "The organiser of the last exhibition."
+      ],
+      "answerIndex": 1,
+      "feedback": "The appositive noun phrase an expert in ancient textiles describes Dr Rios."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The board approved a reduction in operating costs for next year.",
+      "prompt": "Transcribe the phrase between \"approved\" and \"for next year\".",
+      "acceptedAnswers": [
+        "a reduction in operating costs"
+      ],
+      "feedback": "Reduction in is a quantity-change noun followed by its usual preposition."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The guide near the side entrance has the visitor list.",
+      "prompt": "Transcribe the location phrase that identifies the guide.",
+      "acceptedAnswers": [
+        "near the side entrance"
+      ],
+      "feedback": "Near the side entrance directly modifies guide."
+    }
+  ]
+}

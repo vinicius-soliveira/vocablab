@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u036",
+  "title": "Reporting Offers, Suggestions, Orders and Intentions",
+  "level": "C1",
+  "topicId": "eg3-u036-reporting-offers-suggestions-orders-intentions",
+  "summary": "Report offers, requests, orders, recommendations, promises and intentions through the complement licensed by each verb. Distinguish verb + to-infinitive, verb + person + to-infinitive, that-clauses and -ing clauses, and track whether the reported speaker or someone else will carry out the action.",
+  "learningObjectives": [
+    "Choose between a direct to-infinitive and an object + to-infinitive when reporting a speaker’s plan or instructions to another person.",
+    "Distinguish promises and proposals reported with a that-clause from to-infinitives whose understood subject is the reporting verb’s subject.",
+    "Avoid unsupported infinitives after insist, suggest and say, while recognising object + infinitive after advise and order.",
+    "Use -ing clauses after advise, propose, recommend and suggest for actions being put forward as options."
+  ],
+  "explanation": [
+    {
+      "heading": "To-infinitive can report what the original speaker intends to do",
+      "body": "Verbs including agree, offer, promise, refuse, volunteer and threaten can take a to-infinitive that normally describes an action by the subject of the reporting verb. With ask, the interpretation depends on whether a personal object is present: asked to leave reports what the subject wanted permission or opportunity to do, while asked someone to leave reports a request directed at that person. Verbs with similar conversational meanings do not necessarily permit identical frames.",
+      "example": "The editor volunteered to check the citations before publication."
+    },
+    {
+      "heading": "Object + to-infinitive directs another person",
+      "body": "Advise, ask, encourage, invite, order, persuade, remind, tell, urge and warn commonly take a person as their object followed by a to-infinitive. That object identifies who is expected, encouraged or instructed to perform the reported action. In this pattern, do not drop the object after verbs such as encourage when the intended performer is someone other than the reporter.",
+      "example": "The supervisor reminded the interns to label the samples."
+    },
+    {
+      "heading": "That-clauses can change who performs the action",
+      "body": "With verbs such as promise, agree, expect, guarantee, propose and request, a that-clause can report a proposition rather than an action necessarily performed by the reporter. Compare promised to speak, in which the promiser speaks, with promised that her colleague would speak, in which another person may be the speaker. After a past reporting verb, modals and tenses in the that-clause should be chosen for the intended reporting viewpoint.",
+      "example": "The producer promised that the musicians would return for another concert."
+    },
+    {
+      "heading": "Not every reporting verb licenses a plain to-infinitive",
+      "body": "Insist, suggest and say do not normally take a bare verb + to-infinitive to report an instruction or recommendation. In this sense, they can use a that-clause instead. Order allows either an object + to-infinitive or a that-clause, whereas advise permits an object + to-infinitive or a suitable that-clause. Intend, refuse and volunteer normally take a direct to-infinitive for the speaker’s own plan or decision, not an equivalent that-clause with should.",
+      "example": "The residents insisted that the corridor be kept clear, and the caretaker ordered everyone to move their bags."
+    },
+    {
+      "heading": "An -ing clause reports an activity recommended or proposed",
+      "body": "Advise, propose, recommend and suggest can introduce an -ing clause naming an activity under consideration. This structure need not specify who will carry out that activity. Compare suggested taking a different route with suggested that we take a different route, which explicitly identifies the intended people. Avoid extending this -ing pattern automatically to verbs like promise or refuse, which have different complement requirements.",
+      "example": "The committee recommended extending the trial before approving a final design."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Ask without and with a personal object",
+      "left": {
+        "label": "Ask + to: the requester wants to act",
+        "example": "Sofia asked to attend the workshop.",
+        "note": "Sofia is asking for permission or a chance to attend."
+      },
+      "right": {
+        "label": "Ask + object + to: the addressee should act",
+        "example": "Sofia asked Dan to attend the workshop.",
+        "note": "Dan is the person Sofia asks to attend."
+      }
+    },
+    {
+      "title": "Promise to versus promise that",
+      "left": {
+        "label": "Promise + to: normally the promiser acts",
+        "example": "The organiser promised to contact the volunteers.",
+        "note": "The organiser undertakes to make the contact."
+      },
+      "right": {
+        "label": "Promise + that: another actor can be named",
+        "example": "The organiser promised that Ava would contact the volunteers.",
+        "note": "The reported content makes Ava the intended actor."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "They offered to replace the damaged notice.",
+      "note": "Offer + to-infinitive describes a proposed action by the offerers."
+    },
+    {
+      "sentence": "The chair urged the delegates to reconsider the wording.",
+      "note": "Urge + object + to-infinitive directs the delegates to act."
+    },
+    {
+      "sentence": "The trainer advised that participants should revise their notes.",
+      "note": "Advise may take a that-clause to report general guidance."
+    },
+    {
+      "sentence": "The assistant refused to disclose the password.",
+      "note": "Refuse selects a to-infinitive in this sense, not a parallel that-clause with should."
+    },
+    {
+      "sentence": "The panel suggested interviewing a broader range of candidates.",
+      "note": "Suggest + -ing names a recommended activity without identifying its agent."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The coordinator encouraged to submit the forms.",
+      "correct": "The coordinator encouraged the visitors to submit the forms.",
+      "why": "Encourage takes an object identifying the people expected to submit the forms."
+    },
+    {
+      "incorrect": "The speakers suggested to postpone the panel.",
+      "correct": "The speakers suggested postponing the panel.",
+      "why": "Suggest takes -ing or a that-clause for a proposal, not a direct to-infinitive in this sense."
+    },
+    {
+      "incorrect": "The guard insisted everyone to leave immediately.",
+      "correct": "The guard insisted that everyone leave immediately.",
+      "why": "Insist uses a that-clause here, not an object + to-infinitive; the base form leave is appropriate."
+    },
+    {
+      "incorrect": "The archivist refused that she should change the record.",
+      "correct": "The archivist refused to change the record.",
+      "why": "Refuse normally selects a to-infinitive for the subject’s own refusal to act."
+    }
+  ],
+  "studyTips": [
+    "Underline the subject of the reporting verb and the person expected to act. If they differ, test whether the verb requires object + to-infinitive.",
+    "Keep three verb-pattern columns: promise to, persuade someone to, and suggest doing; add a real sentence to each after study.",
+    "For recommendations, produce paired forms such as recommended reviewing the plan and recommended that we review the plan; name the implied actor in each."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The director made a personal commitment to answer the letters. Which report is natural?",
+      "choices": [
+        "The director promised to answer the letters.",
+        "The director promised the letters answering.",
+        "The director promised for answering the letters."
+      ],
+      "answerIndex": 0,
+      "feedback": "Promise + to-infinitive reports an action the director undertook to perform."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which report makes Ravi, rather than the manager, the person who should check the files?",
+      "choices": [
+        "The manager offered to check the files for Ravi.",
+        "The manager urged Ravi to check the files.",
+        "The manager agreed to check the files with Ravi."
+      ],
+      "answerIndex": 1,
+      "feedback": "Urged Ravi to check assigns the proposed action to the personal object Ravi."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly reports a suggestion?",
+      "choices": [
+        "The group suggested to revise the timetable.",
+        "The group suggested the timetable to revise.",
+        "The group suggested revising the timetable."
+      ],
+      "answerIndex": 2,
+      "feedback": "Suggest takes a gerund or that-clause to report a proposed activity."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the reporting form for an instruction directed at an entire group.",
+      "choices": [
+        "The organiser ordered everyone to remain seated.",
+        "The organiser ordered to everyone remain seated.",
+        "The organiser insisted everyone to remain seated."
+      ],
+      "answerIndex": 0,
+      "feedback": "Order can take object + to-infinitive; insist instead needs a different frame."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The technician offered ___ (replace) the damaged cable. Complete with the two-word to-infinitive.",
+      "acceptedAnswers": [
+        "to replace"
+      ],
+      "feedback": "Offer + to-infinitive makes the technician the person offering to act."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The host invited the guests ___ (stay) for another hour. Complete with the to-infinitive.",
+      "acceptedAnswers": [
+        "to stay"
+      ],
+      "feedback": "Invite takes an object identifying the invited people, followed by to stay."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The union suggested ___ (hold) another meeting. Give only the -ing form.",
+      "acceptedAnswers": [
+        "holding"
+      ],
+      "feedback": "Suggest licenses an -ing clause that names the proposed activity."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The resident refused ___ (sign) the revised agreement. Write the two-word infinitive.",
+      "acceptedAnswers": [
+        "to sign"
+      ],
+      "feedback": "Refuse + to-infinitive describes what the resident declined to do."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the verb complement using an -ing clause: “The committee proposed to reducing noise near the station.”",
+      "acceptedAnswers": [
+        "The committee proposed reducing noise near the station."
+      ],
+      "feedback": "Propose can introduce a recommended activity with an -ing clause; the mixed to reducing is incorrect."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the object pattern: “The supervisor persuaded to the trainee to try again.”",
+      "acceptedAnswers": [
+        "The supervisor persuaded the trainee to try again."
+      ],
+      "feedback": "Persuade takes a direct personal object, without to before the trainee."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the report of a suggestion, keeping the word suggested: “The parents suggested to install quieter doors.”",
+      "acceptedAnswers": [
+        "The parents suggested installing quieter doors."
+      ],
+      "feedback": "Suggested installing uses the -ing complement appropriate for a proposed action."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the reporting pattern, keeping insisted and using a that-clause: “The officer insisted the visitors to show identification.”",
+      "acceptedAnswers": [
+        "The officer insisted that the visitors show identification."
+      ],
+      "feedback": "Insist that + the base verb show reports a demand; insist object + to-infinitive is not the normal pattern."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Report a promise by its maker. Facts: The host / promise / answer / every question. Use past simple with promised + to-infinitive.",
+      "acceptedAnswers": [
+        "The host promised to answer every question."
+      ],
+      "feedback": "The subject of promised is the person expected to answer."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Report an instruction to another person. Facts: The doctor / remind / Ellis / bring / the records. Use reminded + object + to-infinitive.",
+      "acceptedAnswers": [
+        "The doctor reminded Ellis to bring the records."
+      ],
+      "feedback": "Ellis is the person reminded and expected to act."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Report a suggested activity without specifying who will do it. Facts: The committee / suggest / extend / the trial. Use past simple and -ing.",
+      "acceptedAnswers": [
+        "The committee suggested extending the trial."
+      ],
+      "feedback": "Suggested extending names the activity being proposed."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Correct the sentence aloud without changing the information: “The guide encouraged to the visitors to ask questions.”",
+      "acceptedAnswers": [
+        "The guide encouraged the visitors to ask questions."
+      ],
+      "feedback": "Encourage takes a direct personal object before the to-infinitive."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Report what the speaker herself requested to do. Facts: Julia / ask / leave / early. Do not include a personal object; use asked + to-infinitive.",
+      "acceptedAnswers": [
+        "Julia asked to leave early."
+      ],
+      "feedback": "Julia, the subject of asked, wants to leave herself."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Report a promise involving a different actor. Facts: The manager / promise / Noor / would lead the training. Use promised + that-clause.",
+      "acceptedAnswers": [
+        "The manager promised that Noor would lead the training."
+      ],
+      "feedback": "A that-clause can name Noor as the person who will lead."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Report a refusal by the subject. Facts: The candidate / refuse / discuss / the dispute. Use the past simple and a to-infinitive.",
+      "acceptedAnswers": [
+        "The candidate refused to discuss the dispute."
+      ],
+      "feedback": "Refused to discuss is the natural verb complement for the candidate’s decision."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two sentences in order. First: The principal / urge / the teachers / attend the seminar. Second: The principal / recommend / reviewing the handbook. Use urged + object + to and recommended + -ing.",
+      "acceptedAnswers": [
+        "The principal urged the teachers to attend the seminar. The principal recommended reviewing the handbook."
+      ],
+      "feedback": "Urge names the people to act; recommend + -ing names an activity."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The conductor offered to extend the rehearsal by thirty minutes, but the musicians wanted to leave on time.",
+      "prompt": "Who offered to extend the rehearsal?",
+      "choices": [
+        "The conductor.",
+        "The musicians.",
+        "The audience."
+      ],
+      "answerIndex": 0,
+      "feedback": "Offered to extend identifies the conductor as the person proposing to act."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The instructor warned the trainees to wear eye protection before entering the workshop.",
+      "prompt": "Who was told to wear protection?",
+      "choices": [
+        "The instructor.",
+        "The trainees.",
+        "The visitors outside."
+      ],
+      "answerIndex": 1,
+      "feedback": "Warned the trainees to wear identifies the people expected to act."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The coordinator volunteered to organise the exhibits during the summer festival.",
+      "prompt": "Transcribe the three words immediately after “coordinator”.",
+      "acceptedAnswers": [
+        "volunteered to organise"
+      ],
+      "feedback": "Volunteer is followed by a to-infinitive to express the subject’s willingness to act."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The parents suggested keeping the library open until seven rather than closing it at five.",
+      "prompt": "What change did the parents propose?",
+      "choices": [
+        "Closing two hours earlier.",
+        "Moving the library to another building.",
+        "Extending its opening hours."
+      ],
+      "answerIndex": 2,
+      "feedback": "Suggested keeping it open until seven proposes longer opening hours."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Alia asked to join the research group. Later, she asked Martin to send her the application form.",
+      "prompt": "Which activity was requested of Martin?",
+      "choices": [
+        "Sending the application form.",
+        "Joining the research group.",
+        "Leading the research project."
+      ],
+      "answerIndex": 0,
+      "feedback": "Asked Martin to send assigns the requested action to Martin."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The chair promised that Gabriel would present the findings, although she herself would introduce the session.",
+      "prompt": "Who was supposed to present the findings?",
+      "choices": [
+        "The chair.",
+        "Gabriel.",
+        "The secretary."
+      ],
+      "answerIndex": 1,
+      "feedback": "The that-clause names Gabriel as the person responsible for the presentation."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The director ordered the drivers to wait beside the main entrance.",
+      "prompt": "Transcribe the four words immediately after “director”.",
+      "acceptedAnswers": [
+        "ordered the drivers to"
+      ],
+      "feedback": "Order identifies its addressees and uses a to-infinitive for their required action."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The faculty recommended revising the assessment guidelines before the autumn term.",
+      "prompt": "Transcribe the two words immediately after “faculty”.",
+      "acceptedAnswers": [
+        "recommended revising"
+      ],
+      "feedback": "Recommend + -ing expresses a proposed activity."
+    }
+  ]
+}

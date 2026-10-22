@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u103",
+  "title": "Linking Ideas in Academic Writing and Speech",
+  "level": "C2",
+  "topicId": "eg3-u103-linking-ideas-in-academic-writing-and-speech",
+  "summary": "Build coherent academic arguments by distinguishing sentence connectors from clause-linking conjunctions and pro-forms that refer back to earlier content. Choose links that accurately signal contrast, cause, consequence or addition, and adapt the register for spoken presentations.",
+  "learningObjectives": [
+    "Distinguish sentence connectors from conjunctions and punctuate their clauses or sentences correctly.",
+    "Use pro-forms such as the former, the latter and as such with a clear antecedent.",
+    "Select linking expressions according to the precise logical relationship between ideas.",
+    "Recast formal written links as natural spoken signposts without changing the argument."
+  ],
+  "explanation": [
+    {
+      "heading": "Sentence connectors link complete statements",
+      "body": "Connectors such as however, moreover, consequently and in summary connect a statement to preceding discourse. They often begin a new sentence and are followed by a comma. A semicolon can also join two closely related independent clauses: The trial was brief; nevertheless, the findings were informative. Do not treat a connector as if it were a subordinating conjunction: A comma alone before moreover does not resolve a comma splice. Choose the connector for its meaning: moreover adds information, whereas however marks contrast.",
+      "example": "The first survey had a high response rate. However, several questions were misunderstood."
+    },
+    {
+      "heading": "Conjunctions connect clauses within a sentence",
+      "body": "Conjunctions such as although, whereas and given that introduce dependent clauses. Given that provides an accepted reason or background assumption; whereas contrasts two facts. These dependent clauses need a main clause to complete the sentence. Commas often separate an introductory subordinate clause from its main clause. Albeit is more restricted: it commonly introduces an adjective, adverb or reduced phrase rather than an ordinary finite that-clause. As a result of is a prepositional expression followed by a noun phrase, while as a result functions as a discourse connector.",
+      "example": "Given that the original records are incomplete, the analysis should remain provisional."
+    },
+    {
+      "heading": "Pro-forms create cohesion without needless repetition",
+      "body": "A pro-form replaces or refers back to a more specific expression. When exactly two entities are clearly ordered, the former identifies the first and the latter the second. Such findings can refer to findings already mentioned; thereby introduces a consequence or means associated with an action. As such generally means in that role or capacity, or can refer back to a clearly identified status; it is not always a safe substitute for therefore. Keep each antecedent unambiguous, especially when several possible nouns precede the pro-form.",
+      "example": "The study compared manual records and sensor logs. The latter revealed more short-term changes."
+    },
+    {
+      "heading": "Choose the relationship, not merely a formal word",
+      "body": "Academic cohesion depends on accurately representing reasoning. Since or given that may explain a premise; consequently or therefore can present a conclusion; by contrast or whereas shows a difference; in addition adds a separate point; and in summary introduces a condensed account of preceding ideas. An apparent paraphrase is not automatically equivalent: considering that can introduce a reason, whereas nevertheless concedes a point and continues against expectation. Do not use therefore when the preceding facts do not actually support the stated result.",
+      "example": "The procedure requires a controlled environment. Consequently, it is unsuitable for unsupervised field use."
+    },
+    {
+      "heading": "Written and spoken signposts follow different conventions",
+      "body": "Formal prose often uses in addition, in summary, subsequently and in the light of the evidence. In speech, also, on top of that, to put it briefly and the reason for this is that may be more direct. These are register choices, not universal one-to-one substitutions: on top of that can sound conversational, and subsequently specifies time or sequence rather than every kind of consequence. Preserve clause structure while changing register, and use explicit transitions when moving from one part of a presentation to another.",
+      "example": "To put it briefly, the new method is promising, but the evidence is still limited."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Connector versus conjunction",
+      "left": {
+        "label": "Sentence connector",
+        "example": "The instruments were costly. Nevertheless, the team purchased them.",
+        "note": "Nevertheless refers back to a previous complete sentence and signals unexpected continuation."
+      },
+      "right": {
+        "label": "Subordinating conjunction",
+        "example": "Although the instruments were costly, the team purchased them.",
+        "note": "Although introduces a dependent contrast clause integrated with the main clause."
+      }
+    },
+    {
+      "title": "Formal written addition versus conversational addition",
+      "left": {
+        "label": "Written report",
+        "example": "The controls improved reliability. Furthermore, they reduced maintenance.",
+        "note": "Furthermore is an explicit, relatively formal sentence connector."
+      },
+      "right": {
+        "label": "Spoken update",
+        "example": "The controls improved reliability. On top of that, they reduced maintenance.",
+        "note": "On top of that conveys addition in a more conversational register."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The sample covered several age groups. Moreover, it included participants from rural areas.",
+      "note": "Moreover connects two complete statements and adds a further advantage."
+    },
+    {
+      "sentence": "Whereas the first model assumes constant demand, the second allows seasonal variation.",
+      "note": "Whereas joins contrasting clauses within one sentence."
+    },
+    {
+      "sentence": "Two methods were evaluated: manual inspection and automated scanning. The latter was faster.",
+      "note": "The latter refers specifically to the second of two previously named methods."
+    },
+    {
+      "sentence": "The registration system was unavailable. As a result, the organisers extended the deadline.",
+      "note": "As a result signals a consequence of the previous statement."
+    },
+    {
+      "sentence": "To put it briefly, the results support further investigation rather than immediate adoption.",
+      "note": "The opening marks an accessible spoken summary."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The test was expensive, moreover the analysis took several weeks.",
+      "correct": "The test was expensive. Moreover, the analysis took several weeks.",
+      "why": "Moreover is a sentence connector; a comma alone does not join two independent clauses."
+    },
+    {
+      "incorrect": "Although the results were encouraging. More research is necessary.",
+      "correct": "Although the results were encouraging, more research is necessary.",
+      "why": "Although introduces a subordinate clause which needs a main clause."
+    },
+    {
+      "incorrect": "The study considered interviews and questionnaires. The later were easier to analyse.",
+      "correct": "The study considered interviews and questionnaires. The latter were easier to analyse.",
+      "why": "The latter refers to the second of two items; later indicates time."
+    },
+    {
+      "incorrect": "Given the respondents were anonymous, the questions were reviewed carefully.",
+      "correct": "Given that the respondents were anonymous, the questions were reviewed carefully.",
+      "why": "The full finite clause requires given that here; given alone normally takes a noun phrase in this function."
+    }
+  ],
+  "studyTips": [
+    "Highlight every link in a short academic paragraph and label it as a sentence connector, a conjunction or a pro-form.",
+    "After using the former or the latter, point to the two exact noun phrases they refer to; rewrite if their order is unclear.",
+    "Read the same argument as a formal report and then as a presentation, changing register but not causal or contrastive meaning."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the connector that correctly signals contrast between these complete statements: \"The survey included many participants. ___, its age distribution was uneven.\"",
+      "choices": [
+        "However",
+        "Given that",
+        "As such"
+      ],
+      "answerIndex": 0,
+      "feedback": "However introduces a contrasting limitation in a new sentence. Given that would require a dependent clause, and as such has no suitable role antecedent here."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the phrase that grammatically introduces an established reason: \"___ the laboratory is closed for maintenance, the tests will take place on Monday.\"",
+      "choices": [
+        "Moreover",
+        "Given that",
+        "The latter"
+      ],
+      "answerIndex": 1,
+      "feedback": "Given that introduces a subordinate clause explaining the decision to reschedule."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "A report compares two approaches in this order: manual tagging, then automated indexing. Which phrase names automated indexing without repeating it?",
+      "choices": [
+        "The former",
+        "Thereby",
+        "The latter"
+      ],
+      "answerIndex": 2,
+      "feedback": "The latter denotes the second of two specified approaches: automated indexing."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "A presenter wants a conversational expression adding one more benefit. Choose the most natural completion: \"The upgrade reduces downtime. ___, it is inexpensive to maintain.\"",
+      "choices": [
+        "On top of that",
+        "Albeit",
+        "Given that"
+      ],
+      "answerIndex": 0,
+      "feedback": "On top of that adds another benefit in speech. Albeit and given that cannot function here as independent sentence connectors."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete the one-word reference: \"The team tested infrared and ultrasonic sensors. The ___ performed better.\" Refer to ultrasonic sensors using the conventional second-of-two form.",
+      "acceptedAnswers": [
+        "latter"
+      ],
+      "feedback": "The latter refers to the second of the two sensor types, ultrasonic sensors."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete the three-word connector: \"The database was inaccessible. ___ ___ ___, the review was postponed.\" Use the expression meaning consequently.",
+      "acceptedAnswers": [
+        "As a result"
+      ],
+      "feedback": "As a result links the postponed review to the database outage as its consequence."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete the two-word conjunction: \"___ ___ the recordings were incomplete, the team avoided detailed statistical claims.\" Use given.",
+      "acceptedAnswers": [
+        "Given that"
+      ],
+      "feedback": "Given that introduces a contextual reason in a subordinate clause."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the two-word spoken summary phrase: \"___ ___ it briefly, the study needs a larger sample.\" Use put.",
+      "acceptedAnswers": [
+        "To put"
+      ],
+      "feedback": "To put it briefly signals a concise oral summary; to put completes the requested phrase before it briefly."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence by fixing the comma splice without changing the connector: \"The report is detailed, moreover it includes a useful appendix.\"",
+      "acceptedAnswers": [
+        "The report is detailed. Moreover, it includes a useful appendix.",
+        "The report is detailed; moreover, it includes a useful appendix."
+      ],
+      "feedback": "A period or a semicolon separates two independent clauses linked by moreover."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the entire fragment by joining the subordinate clause and its main clause: \"Although the weather was poor. The survey continued.\"",
+      "acceptedAnswers": [
+        "Although the weather was poor, the survey continued."
+      ],
+      "feedback": "Although introduces a subordinate clause that must be attached to the main clause."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the entire reference sentence: \"The experiment compared heat sensors and pressure sensors. The later were less stable.\"",
+      "acceptedAnswers": [
+        "The experiment compared heat sensors and pressure sensors. The latter were less stable."
+      ],
+      "feedback": "The latter identifies the second group; later would refer to time."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence using the conjunction given that: \"Given the participants were volunteers, the findings may not apply to everyone.\"",
+      "acceptedAnswers": [
+        "Given that the participants were volunteers, the findings may not apply to everyone."
+      ],
+      "feedback": "Given that, rather than given alone, introduces this complete finite reason clause."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say two full sentences with the formal additive connector moreover. Facts: The procedure is safe / it is easy to repeat. Begin \"The procedure\".",
+      "acceptedAnswers": [
+        "The procedure is safe. Moreover, it is easy to repeat."
+      ],
+      "feedback": "Moreover introduces the second independent sentence as an additional point."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Combine the facts with a reason clause beginning \"Given that\": the venue is closed / the session will be online.",
+      "acceptedAnswers": [
+        "Given that the venue is closed, the session will be online."
+      ],
+      "feedback": "Given that introduces the contextual reason, followed by the main-clause decision."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Two systems were introduced in this order: System A, then System B. Replace the system names with pro-forms in two full sentences. Facts: System A uses batteries. System B uses solar power.",
+      "acceptedAnswers": [
+        "The former uses batteries. The latter uses solar power."
+      ],
+      "feedback": "The former and the latter distinguish the first and second of two alternatives."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Give a concise academic summary using the exact facts: the trial / need / further testing. Begin \"In summary\".",
+      "acceptedAnswers": [
+        "In summary, the trial needs further testing."
+      ],
+      "feedback": "In summary marks a concluding condensation of preceding points."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Say the conversational addition using the exact words on top of that. Begin \"On top of that\"; fact: the new plan saves money.",
+      "acceptedAnswers": [
+        "On top of that, the new plan saves money."
+      ],
+      "feedback": "On top of that is a natural spoken connective adding a further point."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Contrast two complete facts in one sentence. Begin \"The team\"; facts: the team collected data remotely / the previous team worked on site. Use whereas.",
+      "acceptedAnswers": [
+        "The team collected data remotely, whereas the previous team worked on site."
+      ],
+      "feedback": "Whereas links two contrasting clauses within a single sentence."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this reference aloud, keeping both sentences: \"We tested two designs, wood and steel. The later lasted longer.\"",
+      "acceptedAnswers": [
+        "We tested two designs, wood and steel. The latter lasted longer."
+      ],
+      "feedback": "The latter refers back to the second named design, steel."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce these two sentences in order using full forms: first \"The sample was limited.\" Then use consequently and the exact fact \"the conclusions are tentative\".",
+      "acceptedAnswers": [
+        "The sample was limited. Consequently, the conclusions are tentative."
+      ],
+      "feedback": "Consequently marks an inferred consequence in a separate sentence."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The initial method was inexpensive. However, it produced highly variable readings.",
+      "prompt": "What relationship does the speaker express between the two statements?",
+      "choices": [
+        "A benefit is offset by a limitation",
+        "The second sentence explains how the cost was calculated",
+        "The two statements describe identical benefits"
+      ],
+      "answerIndex": 0,
+      "feedback": "However signals a contrast: low cost is followed by unreliable readings."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Given that the railway line is closed, the researchers will travel by bus.",
+      "prompt": "Why will the researchers take a bus?",
+      "choices": [
+        "They prefer to avoid all public transport",
+        "The railway line is closed",
+        "Their survey examines bus ticket prices"
+      ],
+      "answerIndex": 1,
+      "feedback": "Given that introduces the reason: the railway service cannot be used."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The archive holds two editions. The former contains handwritten notes.",
+      "prompt": "Transcribe exactly the two-word expression that refers to the first edition.",
+      "acceptedAnswers": [
+        "The former"
+      ],
+      "feedback": "The former points to the first of the two editions already mentioned."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The revised questionnaire was easier to use. Moreover, it reduced the number of missing responses.",
+      "prompt": "What is added after the connector?",
+      "choices": [
+        "A contradiction of the usability claim",
+        "A warning that no responses were collected",
+        "An additional advantage: fewer missing responses"
+      ],
+      "answerIndex": 2,
+      "feedback": "Moreover adds another benefit rather than explaining a drawback."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "To put it briefly, the procedure works, but it still needs independent validation.",
+      "prompt": "What is the function of the opening phrase?",
+      "choices": [
+        "To introduce a concise summary",
+        "To identify the source of a quotation",
+        "To announce a chronological list"
+      ],
+      "answerIndex": 0,
+      "feedback": "To put it briefly is an oral signpost for summarising the point."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The current researchers tested a new filter, whereas the previous team had examined the original design.",
+      "prompt": "What is the main discourse function of whereas?",
+      "choices": [
+        "To give a cause for the new test",
+        "To contrast the focus of the two teams",
+        "To refer to a third study that is not mentioned"
+      ],
+      "answerIndex": 1,
+      "feedback": "Whereas marks a difference between the teams’ research focus."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The measurements were inconsistent. As a result, the experiment was repeated.",
+      "prompt": "Transcribe exactly the three-word connector introducing the consequence.",
+      "acceptedAnswers": [
+        "As a result"
+      ],
+      "feedback": "As a result introduces the repetition as the consequence of inconsistent measurements."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Both routes have drawbacks. In summary, neither is suitable for emergency access.",
+      "prompt": "Transcribe exactly the two-word summary signpost.",
+      "acceptedAnswers": [
+        "In summary"
+      ],
+      "feedback": "In summary introduces the speaker’s concise conclusion about both routes."
+    }
+  ]
+}

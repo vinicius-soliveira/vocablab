@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u061",
+  "title": "One and Ones: Reference, Determiners and Omission",
+  "level": "C1",
+  "topicId": "eg3-u061-one-and-ones",
+  "summary": "Use one and ones to avoid repeating an identifiable countable noun, and choose some or possessive pronouns where substitution is unsuitable. Control noun-reference patterns with adjectives, determiners, comparisons and ellipsis in both formal and everyday English.",
+  "learningObjectives": [
+    "Replace repeated singular and plural countable nouns with one and ones while excluding mass-noun and indefinite plural uses.",
+    "Recognise environments where substitution is blocked, including nouns used as modifiers, ordinary possessive determiners and some references to people.",
+    "Decide when one or ones is optional after which, superlatives, demonstratives and quantifiers, and when it is required after every, the only or the main.",
+    "Use one and ones accurately after adjectives, including the special option to omit one in short colour-based answers."
+  ],
+  "explanation": [
+    {
+      "heading": "Countable reference and the need for an identifiable set",
+      "body": "One stands for a previously mentioned or identifiable singular countable noun; ones stands for a plural countable noun. The referent must be clear. Neither substitutes directly for a mass noun such as information or luggage. Bare ones is also unsuitable for an indefinite plural request when no group has been specified: use some, or name the items. By contrast, blue ones or the smaller ones identifies a subset of an understood group.",
+      "example": "Those folders look bulky; could I see the thinner ones?"
+    },
+    {
+      "heading": "Possessive forms, noun modifiers and people",
+      "body": "When a noun modifies another noun, it often cannot be replaced by one: a desk drawer is not normally a desk one. Instead of my one or their ones, neutral usage normally prefers mine or theirs; combinations such as a phone like your one occur in some informal varieties but are not the default for formal prose. Ones generally refers to objects, although comparative references to groups of people and fixed expressions such as loved ones are possible.",
+      "example": "Your coat is wet, but mine is dry; my coat pocket is empty too."
+    },
+    {
+      "heading": "Contexts where substitution can be omitted",
+      "body": "After which, superlatives, this, that, these, those and items such as either, neither, another, each or first, one or ones may sometimes be left unspoken when reference remains clear. Omission is not universally available: number, emphasis, register and sentence structure matter. When this and those are already determiners before an adjective, retaining the nominal substitute can be clearer in careful prose.",
+      "example": "Which notebook would you choose? The cheapest one, I think."
+    },
+    {
+      "heading": "Contexts where one or ones is needed",
+      "body": "A missing noun normally needs one or ones after the, the only, the main and every when these expressions stand in place of a complete noun phrase. Similarly, a descriptive adjective that identifies a particular member of a known set usually takes one or ones: the quieter one, some reliable ones. Do not remove ones simply because the plural referent was mentioned in the previous sentence.",
+      "example": "Of the three entrances, the side one is the only one without steps."
+    },
+    {
+      "heading": "Adjectives, colours and the boundary of ellipsis",
+      "body": "Adjective + one/ones is common for choosing among known alternatives; for example, older ones and a lighter one. A brief answer referring to a colour adjective often allows an omitted one: Which scarf? The blue (one). This is a limited conversational option, not permission to omit the noun substitute after any adjective. Distinguish a nominal substitute from an indefinite article or the pronoun one meaning a person in general.",
+      "example": "If the grey suitcase is too heavy, take the small one; I will carry the red (one)."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Identifiable subset versus an unspecified quantity",
+      "left": {
+        "label": "Ones: a defined group",
+        "example": "These mugs are chipped; use the clean ones.",
+        "note": "Clean specifies which of the already identifiable mugs to use."
+      },
+      "right": {
+        "label": "Some: indefinite quantity",
+        "example": "We need more mugs; please bring some.",
+        "note": "The request asks for an unspecified quantity, not a defined subset."
+      }
+    },
+    {
+      "title": "A descriptive choice versus a possessive replacement",
+      "left": {
+        "label": "Adjective + one",
+        "example": "The striped umbrella is mine; the plain one is yours.",
+        "note": "One replaces umbrella after an adjective that identifies it."
+      },
+      "right": {
+        "label": "Possessive pronoun",
+        "example": "My umbrella is here, but yours is outside.",
+        "note": "Yours replaces your umbrella without adding an unnecessary one."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I ordered two maps, but the guide brought three different ones.",
+      "note": "Ones substitutes for maps after a modifying adjective."
+    },
+    {
+      "sentence": "We have enough paint for the doors; if you need more, I can get some.",
+      "note": "Paint is uncountable, so indefinite some replaces the quantity."
+    },
+    {
+      "sentence": "The third speaker was more convincing than the first one.",
+      "note": "First one is a clear reference to a previously identified person in a sequence."
+    },
+    {
+      "sentence": "Every one of the samples was labelled before the trial.",
+      "note": "One is retained after every; every of the samples is not grammatical."
+    },
+    {
+      "sentence": "Which jacket suits me? Probably the green one.",
+      "note": "A colour answer can also omit one in a short exchange."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "We have run out of flour. Could you get two ones from the shop?",
+      "correct": "We have run out of flour. Could you get some from the shop?",
+      "why": "Flour is a mass noun and cannot be replaced by plural ones; some expresses an unspecified quantity."
+    },
+    {
+      "incorrect": "My charger has stopped working, but your one is fine.",
+      "correct": "My charger has stopped working, but yours is fine.",
+      "why": "Use the independent possessive pronoun yours in neutral standard English."
+    },
+    {
+      "incorrect": "Of the six proposals, every was rejected by the panel.",
+      "correct": "Of the six proposals, every one was rejected by the panel.",
+      "why": "Every needs one in this substitute construction; compare each, which can sometimes stand alone."
+    },
+    {
+      "incorrect": "I cannot use my old boots, so I bought new yesterday.",
+      "correct": "I cannot use my old boots, so I bought new ones yesterday.",
+      "why": "New needs the plural nominal substitute ones in this noun-reference structure."
+    }
+  ],
+  "studyTips": [
+    "Underline the countable referent in every one/ones sentence, and replace it with its full noun to confirm singular/plural agreement.",
+    "Contrast a definite subset (the larger ones) with an indefinite quantity (some) and explain why bare ones does not work in the second meaning.",
+    "Practise three deletion tests: after which, after every, and after a descriptive adjective; record where omission is optional, blocked or context-dependent."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The shop has several desk lamps. Choose a clear sentence selecting a particular subgroup of those lamps.",
+      "choices": [
+        "I would prefer brighter ones.",
+        "I would prefer ones.",
+        "I would prefer some brighter."
+      ],
+      "answerIndex": 0,
+      "feedback": "Brighter ones identifies a subgroup of the desk lamps; bare ones does not identify which lamps."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The hikers need more drinking water, but there is none left. Which replacement is grammatical?",
+      "choices": [
+        "Please bring a new one.",
+        "Please bring some.",
+        "Please bring new ones."
+      ],
+      "answerIndex": 1,
+      "feedback": "Water is uncountable here; some replaces an indefinite amount, whereas one/ones would need a countable referent."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which option is the neutral standard completion? \"My copy is damaged, but ___ is fine.\"",
+      "choices": [
+        "your ones",
+        "your one",
+        "yours"
+      ],
+      "answerIndex": 2,
+      "feedback": "Yours is the independent possessive form replacing your copy."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the only grammatical completion of this sentence: \"Each candidate was interviewed, and every ___ received written feedback.\"",
+      "choices": [
+        "one",
+        "ones",
+        "some"
+      ],
+      "answerIndex": 0,
+      "feedback": "Every one can refer back to each individual candidate; ones is plural and some changes the determiner structure."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Replace the repeated plural noun with one word: \"These shelves are unstable. Use the stronger ___ instead.\"",
+      "acceptedAnswers": [
+        "ones"
+      ],
+      "feedback": "Ones replaces shelves and agrees with the plural referent."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with one indefinite substitute: \"We are short of rice. Could you bring ___?\"",
+      "acceptedAnswers": [
+        "some"
+      ],
+      "feedback": "Rice is a mass noun, so some is natural for an unspecified quantity."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with the possessive pronoun: \"This is my badge, but that badge is ___.\" Address one colleague.",
+      "acceptedAnswers": [
+        "yours"
+      ],
+      "feedback": "Yours stands alone for your badge; your one is not the neutral choice."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the singular substitute: \"This is the only ___ of the four rooms with natural light.\"",
+      "acceptedAnswers": [
+        "one"
+      ],
+      "feedback": "The only one specifies a single identifiable member of the set."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence by replacing a useful one with some useful advice: I need advice about the course, so could you give me a useful one?",
+      "acceptedAnswers": [
+        "I need advice about the course, so could you give me some useful advice?"
+      ],
+      "feedback": "Advice is uncountable, and a useful one cannot replace it; some useful advice keeps the intended meaning."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I found two comfortable chairs, but my sister bought uncomfortable.",
+      "acceptedAnswers": [
+        "I found two comfortable chairs, but my sister bought uncomfortable ones."
+      ],
+      "feedback": "After an adjective referring to identifiable countable plural objects, use ones."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We checked all the models, and every was more expensive than our budget allowed.",
+      "acceptedAnswers": [
+        "We checked all the models, and every one was more expensive than our budget allowed."
+      ],
+      "feedback": "Every must be followed by one when the countable noun has been replaced."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The manager has your report, but I still need my one.",
+      "acceptedAnswers": [
+        "The manager has your report, but I still need mine."
+      ],
+      "feedback": "Mine replaces my report as an independent possessive pronoun."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Replace the repeated plural noun in this exact pair: \"The heavy suitcases are in the hall. Take the light suitcases.\" Say the two-sentence version using ones.",
+      "acceptedAnswers": [
+        "The heavy suitcases are in the hall. Take the light ones."
+      ],
+      "feedback": "Light ones identifies the subset of suitcases without repeating the plural noun."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Answer with the indefinite substitute for an uncountable noun. Question: \"Do we have any more sugar?\" Meaning: Yes, there is an unspecified quantity. Begin with \"Yes\".",
+      "acceptedAnswers": [
+        "Yes, we have some.",
+        "Yes, there is some."
+      ],
+      "feedback": "Some stands for an unspecified amount of sugar; one and ones are not suitable."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Replace the possessive noun phrase. Facts: \"My laptop works, but your laptop is slow.\" Use yours for the second reference.",
+      "acceptedAnswers": [
+        "My laptop works, but yours is slow."
+      ],
+      "feedback": "Yours means your laptop without adding one."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Reply to this choice question using one. \"Which of these two coats would you take?\" Facts: The warmer coat. Begin with \"The\".",
+      "acceptedAnswers": [
+        "The warmer one."
+      ],
+      "feedback": "The comparative adjective warmer selects one coat from the given pair."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Convert this sentence to a complete one-substitution: \"Every bottle on the shelf was empty.\" Begin with \"Every one\".",
+      "acceptedAnswers": [
+        "Every one on the shelf was empty."
+      ],
+      "feedback": "Every one remains grammatical when the noun bottle is not repeated."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Say this sentence using a plural substitute after an adjective. Facts: \"I ordered red notebooks, but I received blue notebooks.\"",
+      "acceptedAnswers": [
+        "I ordered red notebooks, but I received blue ones."
+      ],
+      "feedback": "Blue ones refers to the plural notebooks."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the spoken sentence: \"The technician checked five devices, but every failed.\" Use every one.",
+      "acceptedAnswers": [
+        "The technician checked five devices, but every one failed."
+      ],
+      "feedback": "Every needs one in this noun-substitution construction."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two sentences in this exact order, using full forms. First fact: These curtains are too dark; choose lighter curtains. Second fact: We need more fabric; buy an indefinite amount.",
+      "acceptedAnswers": [
+        "These curtains are too dark, so choose lighter ones. We need more fabric, so buy some."
+      ],
+      "feedback": "Lighter ones selects curtains; some refers to an indefinite amount of uncountable fabric."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "These glasses feel heavy. Could I try the ones with narrower frames instead?",
+      "prompt": "Which items does the speaker want?",
+      "choices": [
+        "Any glasses, without identifying a type.",
+        "The glasses with thinner frames.",
+        "A single glass of water."
+      ],
+      "answerIndex": 1,
+      "feedback": "The modifier narrower ones selects a particular subset of the previously mentioned glasses."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We have almost no flour left for the recipe. Could you bring some?",
+      "prompt": "What should the listener bring?",
+      "choices": [
+        "An unspecified amount of flour.",
+        "One particular flour bag already identified.",
+        "Several new measuring cups."
+      ],
+      "answerIndex": 0,
+      "feedback": "Some refers to an amount of flour; the mass noun flour is not replaced by ones."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The rooms by the road are noisy. I would book the quieter ones.",
+      "prompt": "Transcribe the exact two-word phrase that identifies the quieter rooms.",
+      "acceptedAnswers": [
+        "quieter ones"
+      ],
+      "feedback": "Quieter ones replaces the countable plural noun rooms."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "My key is on the table. Is yours in your bag?",
+      "prompt": "In the recording, what does yours replace?",
+      "choices": [
+        "The speaker’s key.",
+        "The listener’s key.",
+        "The key to another building."
+      ],
+      "answerIndex": 1,
+      "feedback": "Yours means your key; the possessive pronoun avoids your one."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "We reviewed twelve applications, and every one included a reference letter.",
+      "prompt": "What does every one refer to in this recording?",
+      "choices": [
+        "Each of the twelve applications.",
+        "Only the first application.",
+        "All the applicants together as one team."
+      ],
+      "answerIndex": 0,
+      "feedback": "Every one refers individually to every application, not to an unspecified group."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The patterned notebooks are sold out, but the ones with plain covers are still available.",
+      "prompt": "How many notebooks does the speaker refer to?",
+      "choices": [
+        "Exactly one notebook.",
+        "Several notebooks with plain covers.",
+        "An unspecified amount of paper."
+      ],
+      "answerIndex": 1,
+      "feedback": "Ones is plural, and with plain covers identifies the selected group of notebooks."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Those batteries have lost their charge. Please replace them with fresh ones.",
+      "prompt": "Transcribe the exact two-word phrase describing the replacement batteries.",
+      "acceptedAnswers": [
+        "fresh ones"
+      ],
+      "feedback": "Fresh ones means fresh batteries, with a plural countable referent."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We checked three routes. The coastal route is the only one without a steep climb.",
+      "prompt": "Transcribe the exact two-word phrase indicating the only suitable route.",
+      "acceptedAnswers": [
+        "only one"
+      ],
+      "feedback": "The only one refers to one route among the identified alternatives."
+    }
+  ]
+}

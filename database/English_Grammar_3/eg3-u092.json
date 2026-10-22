@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u092",
+  "title": "Verb and Preposition Patterns: Meaning and Usage",
+  "level": "C1",
+  "topicId": "eg3-u092-prepositions-after-verbs",
+  "summary": "Interpret and produce advanced verb–preposition combinations according to the role of their objects: topic, request, approval, agreement, information, relationship or support. Recognise that changing the preposition can alter a verb’s meaning rather than simply its grammatical form.",
+  "learningObjectives": [
+    "Choose about, for and of after key verbs to distinguish subjects, desired objects and information sources.",
+    "Differentiate care about, care for, know about, know of and learn of through meaning rather than memorisation alone.",
+    "Use agree with/on/to and argue with/about/for to identify persons, decisions, questions and positions.",
+    "Recognise meaning changes in phrases such as think of/about, call on/for, work for/with and count on/for."
+  ],
+  "explanation": [
+    {
+      "heading": "About, for and of encode different relations",
+      "body": "Ask about a topic but ask for something you want to receive; in formal uses, ask a favour of somebody is also possible. Learn about a subject or situation, but learn of an event or piece of news when first becoming aware of it. These patterns have different meanings: a question about a job is not a request for a job.",
+      "example": "At the reception desk, Aisha asked about the timetable and asked for a copy of it."
+    },
+    {
+      "heading": "Care about and care for are not interchangeable",
+      "body": "Care about somebody or something means consider their welfare or significance important. Care for somebody can mean look after them; in negative statements and polite questions, care for can also mean like or want, which sounds relatively formal. Context is decisive: not caring for a musical style does not necessarily imply being indifferent to the people who make it.",
+      "example": "I care about the volunteers, and I care for my elderly uncle at weekends."
+    },
+    {
+      "heading": "Information and the preposition of",
+      "body": "Know about a person or subject usually suggests some information or familiarity. Know of commonly means be aware that somebody or something exists, without implying detailed knowledge. Learn about often concerns studying a topic, whereas learn of may introduce newly received news. Talk of can refer to a possibility or mention an idea, though talk about is more common in everyday use.",
+      "example": "I know of the organisation, but I know very little about its current projects."
+    },
+    {
+      "heading": "Agreement, discussion and people",
+      "body": "Agree with a person or opinion, agree on a shared decision or specified point, and agree to a proposal or course of action. Agree about an issue is possible when people share a view, so on and about sometimes overlap; tasks requiring one answer must specify the intended meaning. Argue with a person, argue about a dispute, and argue for or against a position.",
+      "example": "The partners argued about costs but eventually agreed on a revised spending limit."
+    },
+    {
+      "heading": "Changing the preposition can change the action",
+      "body": "Think about focuses on considering a topic; think of can mean form an opinion, remember or generate an idea. Call on someone can mean request their action or visit them; call for something means demand or require it. Work for an organisation means be employed by it, while work with equipment or people indicates collaboration or materials. Count on somebody means rely on them; count for something expresses its significance or value.",
+      "example": "The committee called for a review and called on its chair to oversee it."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Requesting information versus requesting an item",
+      "left": {
+        "label": "Ask about a subject",
+        "example": "Jon asked about the new training schedule.",
+        "note": "The question concerns a topic."
+      },
+      "right": {
+        "label": "Ask for an item",
+        "example": "Jon asked for a printed training schedule.",
+        "note": "He wants to receive a physical item."
+      }
+    },
+    {
+      "title": "Sharing a decision versus accepting an offer",
+      "left": {
+        "label": "Agree on a decision",
+        "example": "The delegates agreed on a departure date.",
+        "note": "The date is the point they settled together."
+      },
+      "right": {
+        "label": "Agree to a proposal",
+        "example": "The delegates agreed to the revised proposal.",
+        "note": "They accepted what had been proposed."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The reporter asked about the timeline but asked for a written statement.",
+      "note": "About introduces the subject of a question; for identifies the requested thing."
+    },
+    {
+      "sentence": "We care about accessibility and care for patients who need extra assistance.",
+      "note": "The first means attach importance; the second means look after."
+    },
+    {
+      "sentence": "I know of that architect, although I know little about her recent work.",
+      "note": "Know of indicates awareness of existence; know about relates to substantive information."
+    },
+    {
+      "sentence": "Both sides agreed to the contract and agreed on an implementation date.",
+      "note": "To signals acceptance of the contract; on identifies the specific shared decision."
+    },
+    {
+      "sentence": "They called on the authorities to act and called for better flood protection.",
+      "note": "Call on names the people urged to act; call for names the desired action or outcome."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Could you ask about a second copy of the report? I need one handed to me.",
+      "correct": "Could you ask for a second copy of the report? I need one handed to me.",
+      "why": "Ask for requests an item; ask about seeks information concerning it."
+    },
+    {
+      "incorrect": "The nurse cares after the injured traveller during the night by providing treatment.",
+      "correct": "The nurse cares for the injured traveller during the night by providing treatment.",
+      "why": "Care for means look after; care after is not the appropriate combination."
+    },
+    {
+      "incorrect": "The two departments finally agreed with a common budget allocation.",
+      "correct": "The two departments finally agreed on a common budget allocation.",
+      "why": "Agree on names the mutually settled allocation, not a person one agrees with."
+    },
+    {
+      "incorrect": "The tenants called on lower rents at the public meeting.",
+      "correct": "The tenants called for lower rents at the public meeting.",
+      "why": "Call for introduces what is demanded; call on would need a person or group to address."
+    }
+  ],
+  "studyTips": [
+    "Draw two columns headed subject of discussion and requested object; sort ask about and ask for examples by role.",
+    "Build small verb–preposition pairs with contrasting contexts: know of/about, care for/about and agree with/on/to.",
+    "For call, work and count, paraphrase the whole verb phrase before choosing the preposition, because a different preposition can change its meaning."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "You want the receptionist to give you a replacement pass. Which phrase communicates that request?",
+      "choices": [
+        "ask about a replacement pass",
+        "ask for a replacement pass",
+        "ask of a replacement pass"
+      ],
+      "answerIndex": 1,
+      "feedback": "Ask for requests an item; ask about would seek information about it."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The board formally accepted the submitted plan. They agreed ___ the proposal.",
+      "choices": [
+        "to",
+        "with",
+        "about"
+      ],
+      "answerIndex": 0,
+      "feedback": "Agree to a proposal means accept it; agree with usually refers to a person or view."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which sentence means that the speaker is merely aware the charity exists, without claiming much knowledge?",
+      "choices": [
+        "I know about the charity in detail.",
+        "I know the charity very well.",
+        "I know of the charity."
+      ],
+      "answerIndex": 2,
+      "feedback": "Know of can express awareness of existence rather than in-depth familiarity."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The union demanded safer equipment. It called ___ better protection.",
+      "choices": [
+        "on",
+        "for",
+        "with"
+      ],
+      "answerIndex": 1,
+      "feedback": "Call for names the measure or improvement being demanded."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: \"The participants finally agreed ___ a meeting date.\" They reached one shared decision.",
+      "acceptedAnswers": [
+        "on"
+      ],
+      "feedback": "Agree on names the point settled together."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: \"I spoke to the coordinator to ask ___ the cancellation policy.\" I wanted information, not a copy.",
+      "acceptedAnswers": [
+        "about"
+      ],
+      "feedback": "Ask about introduces the topic of a question."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: \"She cares ___ her grandfather when the regular carer is away.\" She looks after him.",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "Care for expresses looking after someone."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: \"The committee called ___ the mayor to publish the figures.\" The mayor is the person asked to act.",
+      "acceptedAnswers": [
+        "on"
+      ],
+      "feedback": "Call on someone requests that person to take an action."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the preposition to express a request to receive an item: \"I asked about a new access badge because mine was lost.\"",
+      "acceptedAnswers": [
+        "I asked for a new access badge because mine was lost."
+      ],
+      "feedback": "Ask for names the requested badge, not a topic of inquiry."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the preposition indicating employment: \"My brother works with a public hospital as its permanent accountant.\"",
+      "acceptedAnswers": [
+        "My brother works for a public hospital as its permanent accountant."
+      ],
+      "feedback": "Work for identifies the employer; work with can indicate cooperation or materials."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the preposition expressing a common decision: \"After an hour, they agreed with a final price.\"",
+      "acceptedAnswers": [
+        "After an hour, they agreed on a final price."
+      ],
+      "feedback": "Agree on is used for the price the parties jointly settled."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the expression of reliance: \"We can count for the technicians to finish the repair.\"",
+      "acceptedAnswers": [
+        "We can count on the technicians to finish the repair."
+      ],
+      "feedback": "Count on someone means rely on them."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make a request using these exact facts: We / ask for / a refund. Use the past simple.",
+      "acceptedAnswers": [
+        "We asked for a refund."
+      ],
+      "feedback": "Ask for indicates the thing requested."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask about a topic, not for an object. Facts: I / want to ask / about / the opening hours.",
+      "acceptedAnswers": [
+        "I want to ask about the opening hours."
+      ],
+      "feedback": "Ask about introduces the subject of a question."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say a shared decision with agree on. Facts: The teams / agree / on / the deadline. Use the past simple.",
+      "acceptedAnswers": [
+        "The teams agreed on the deadline."
+      ],
+      "feedback": "Agree on identifies a decision settled jointly."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Say formal acceptance with agree to. Facts: The manager / agree / to / the proposal. Use the past simple.",
+      "acceptedAnswers": [
+        "The manager agreed to the proposal."
+      ],
+      "feedback": "Agree to a proposal means accept it."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Express caregiving. Facts: My neighbours / care for / their aunt. Use the present simple.",
+      "acceptedAnswers": [
+        "My neighbours care for their aunt."
+      ],
+      "feedback": "Care for means look after when the object is a person receiving care."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Say awareness without detailed knowledge. Facts: I / know of / that researcher. Use the present simple.",
+      "acceptedAnswers": [
+        "I know of that researcher."
+      ],
+      "feedback": "Know of indicates awareness that the person exists."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct aloud to mean demand an investigation: \"The citizens called on an investigation.\"",
+      "acceptedAnswers": [
+        "The citizens called for an investigation."
+      ],
+      "feedback": "Call for introduces what is being demanded."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say these sentences in order using the exact stated meanings. Employer: \"She works for the museum.\" Equipment: \"She works with digital scanners.\"",
+      "acceptedAnswers": [
+        "She works for the museum. She works with digital scanners."
+      ],
+      "feedback": "Work for identifies employment; work with identifies the tools involved."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "At the information desk, I asked about the new admission policy, but I did not request any forms.",
+      "prompt": "What did the speaker want?",
+      "choices": [
+        "A copy of a form",
+        "Information about the policy",
+        "Permission to change the rules"
+      ],
+      "answerIndex": 1,
+      "feedback": "Asked about refers to an information topic, and the speaker explicitly did not request forms."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "After several meetings, the two departments agreed on a new timetable and both will follow it.",
+      "prompt": "What was the result of the meetings?",
+      "choices": [
+        "They jointly settled a timetable",
+        "They rejected all possible schedules",
+        "They agreed only to meet again"
+      ],
+      "answerIndex": 0,
+      "feedback": "Agreed on a new timetable means the departments arrived at a shared decision."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The director agreed to the proposal after reviewing the revised costs.",
+      "prompt": "Transcribe the three-word phrase beginning with \"agreed\".",
+      "acceptedAnswers": [
+        "agreed to the"
+      ],
+      "feedback": "Agreed to the is a contiguous phrase signalling acceptance of a proposal."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I know of the artist, but I have never seen her work or read her biography.",
+      "prompt": "How familiar is the speaker with the artist?",
+      "choices": [
+        "They know the artist personally",
+        "They have studied the artist extensively",
+        "They only know the artist exists"
+      ],
+      "answerIndex": 2,
+      "feedback": "Know of expresses limited awareness of the artist."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The campaign called on the regional authorities to improve road lighting this winter.",
+      "prompt": "Who was directly urged to take action?",
+      "choices": [
+        "The regional authorities",
+        "The people living on the road",
+        "The bus company"
+      ],
+      "answerIndex": 0,
+      "feedback": "Call on names the authorities being urged to act."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "During her placement, Sana worked for a charity and worked with an experienced project coordinator.",
+      "prompt": "Which statement is accurate?",
+      "choices": [
+        "She was employed by the coordinator",
+        "The charity was her employer and the coordinator was her colleague",
+        "She left the charity to become a coordinator"
+      ],
+      "answerIndex": 1,
+      "feedback": "Work for identifies the organisation; work with identifies the person she collaborated with."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "We can count on the maintenance team to keep the building safe.",
+      "prompt": "Transcribe the three-word phrase beginning with \"count\".",
+      "acceptedAnswers": [
+        "count on the"
+      ],
+      "feedback": "Count on expresses reliance on someone or a team."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The tenants called for immediate repairs after the ceiling started leaking.",
+      "prompt": "Transcribe the exact three-word phrase beginning with \"called\".",
+      "acceptedAnswers": [
+        "called for immediate"
+      ],
+      "feedback": "Called for introduces what was demanded by the tenants."
+    }
+  ]
+}

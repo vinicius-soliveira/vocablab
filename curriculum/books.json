@@ -106,7 +106,12 @@
         "C1",
         "C2"
       ],
-      "status": "planned"
+      "status": "available",
+      "contentProvider": "grammar",
+      "manifest": "database/grammar-manifest.json",
+      "sourceIds": [
+        "english-grammar-3"
+      ]
     },
     {
       "id": "english-pronunciation-1",
@@ -166,7 +171,12 @@
         "C1",
         "C2"
       ],
-      "status": "planned"
+      "status": "available",
+      "contentProvider": "vocabulary",
+      "manifest": "database/manifest.json",
+      "sourceIds": [
+        "english-collocations-2"
+      ]
     },
     {
       "id": "english-phrasal-verbs-1",

@@ -1,0 +1,408 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u098",
+  "title": "Cleft Sentences: Focusing with It and What",
+  "level": "C2",
+  "topicId": "eg3-u098-focusing-it-clauses-and-what-clauses",
+  "summary": "Control information focus with it-clefts and what-clefts, including their different placements of new information. Highlight people, times, places, reasons, things and actions; use what + subject + do for actions, and prefer noun-led clauses for focused how, where, when and why meanings.",
+  "learningObjectives": [
+    "Form it-clefts to highlight a person, time, place or method while placing presupposed information in the following clause.",
+    "Use what-clefts and reverse what-clefts to foreground the important fact, object or characteristic without changing the underlying proposition.",
+    "Focus an action through what + subject + did + be + (to-)infinitive while avoiding an unsuitable it-cleft transformation.",
+    "Use noun-led focus structures such as the reason why, the place where and the time when where a simple what-cleft would be unnatural."
+  ],
+  "explanation": [
+    {
+      "heading": "It-clefts place the focused constituent after be",
+      "body": "An it-cleft uses it + be + the element to be highlighted + a following clause. It foregrounds a person, time, place or means; the rest of the proposition is typically presented as already established or recoverable. An ordinary sentence and its cleft often have the same factual core, but the cleft creates contrast or corrects an assumption. Keep the verb tense and the time reference appropriate to the event being discussed.",
+      "example": "It was the night-shift supervisor who noticed the fault, not the morning team."
+    },
+    {
+      "heading": "Relative words in it-clefts have limits",
+      "body": "That can introduce the clause after many focused constituents, while who is natural when focusing a person. When and where can sometimes appear after a focused time or place, especially informally, but are not always interchangeable with that in more formal usage. Do not insert how or why in the same position as a substitute for that when focusing a method or reason: use it was by recalibrating the sensor that the team resolved the error, not it was by recalibrating the sensor how they resolved it.",
+      "example": "It was during the second rehearsal that the lighting problem became obvious."
+    },
+    {
+      "heading": "What-clefts focus information after the linking verb",
+      "body": "A what-cleft begins with what + clause + be and places the main new or contrastive information after be. It is common in explanations, corrections, requests and spoken planning: What the proposal lacks is a realistic budget. A reverse version can place the focused phrase first, followed by be + what-clause. Unlike an it-cleft, the initial what-clause identifies the relevant slot, while the post-verbal expression fills it.",
+      "example": "What persuaded the judges was the clarity of the supporting evidence."
+    },
+    {
+      "heading": "Focusing a deliberate action with what someone did",
+      "body": "To highlight an action, use what + subject + do in a suitable tense + be + an infinitive expression. A to-infinitive or bare infinitive is often possible after be, especially when the focusing clause contains do: What she did was (to) contact the supplier. The construction identifies the action taken, rather than placing the action itself inside an ordinary it-cleft. Keep the tense of did, does or do aligned with the time frame.",
+      "example": "What the volunteers did was organise a temporary information desk."
+    },
+    {
+      "heading": "Other question-word meanings often require a noun-led focus",
+      "body": "Instead of forming an initial cleft with a bare why, where, when or how clause, English often uses a related noun: the reason why, the place where, the time when or the way in which. These structures combine a meaningful noun with a following relative or content clause and then the new information. The exact relative word can be optional or vary by register; do not assume every question word works like what as an initial nominal focus clause.",
+      "example": "The reason we postponed the launch was that two essential components had not arrived."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "What receives the focus?",
+      "left": {
+        "label": "It-cleft",
+        "example": "It was Elena who prepared the final chart.",
+        "note": "Elena immediately follows be and is presented as the corrected or highlighted identity."
+      },
+      "right": {
+        "label": "What-cleft",
+        "example": "What Elena prepared was the final chart.",
+        "note": "The final chart follows be and supplies the highlighted object of the preparation."
+      }
+    },
+    {
+      "title": "Focusing an action versus explaining a reason",
+      "left": {
+        "label": "Action with what + did",
+        "example": "What the team did was replace the damaged cable.",
+        "note": "The clause highlights what action the team performed."
+      },
+      "right": {
+        "label": "Reason with a noun-led clause",
+        "example": "The reason the team stopped was that the cable was damaged.",
+        "note": "The reason clause identifies a cause rather than the action taken."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "It was the archival photograph that changed their interpretation.",
+      "note": "An it-cleft spotlights the particular piece of evidence responsible for a change."
+    },
+    {
+      "sentence": "It was after the final inspection that the equipment was released.",
+      "note": "A time phrase is highlighted before the that-clause."
+    },
+    {
+      "sentence": "What annoyed the residents was the lack of advance notice.",
+      "note": "The what-clause sets up the issue, and the phrase after be supplies the focus."
+    },
+    {
+      "sentence": "The limited seating was what concerned the organisers most.",
+      "note": "A reverse what-cleft places the highlighted subject before was."
+    },
+    {
+      "sentence": "What the engineer did was isolate the faulty circuit.",
+      "note": "What + subject + did focuses an action through a bare infinitive after was."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "It was the technician which corrected the measurement.",
+      "correct": "It was the technician who corrected the measurement.",
+      "why": "Who is the natural relative for a person in this focused it-cleft; which does not refer to the person."
+    },
+    {
+      "incorrect": "It was by checking the connections how we identified the fault.",
+      "correct": "It was by checking the connections that we identified the fault.",
+      "why": "Use that after the focused manner phrase, not how as a substitute for the cleft relative."
+    },
+    {
+      "incorrect": "What I needed it was clearer instructions.",
+      "correct": "What I needed was clearer instructions.",
+      "why": "A what-cleft directly links the what-clause to the focus with was; no extra subject it is needed."
+    },
+    {
+      "incorrect": "What the assistant did was checked the labels twice.",
+      "correct": "What the assistant did was check the labels twice.",
+      "why": "After what someone did was, use a bare infinitive or to-infinitive, not a past-tense finite verb."
+    }
+  ],
+  "studyTips": [
+    "For a plain sentence, underline exactly one constituent to correct or emphasise; then decide whether an it-cleft can put that constituent directly after be.",
+    "Transform one factual sentence into both an it-cleft and a what-cleft, and name the different elements receiving prominence.",
+    "Practise the action pattern what + subject + did + was + verb and compare it with the reason pattern the reason ... was that ... ."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The technician, not the project manager, discovered the calibration error. Which sentence focuses the technician?",
+      "choices": [
+        "It was the calibration error that discovered the technician.",
+        "It was the technician who discovered the calibration error.",
+        "What the technician discovered was the project manager."
+      ],
+      "answerIndex": 1,
+      "feedback": "The it-cleft puts the technician immediately after was and retains the rest of the fact."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct it-cleft focusing the means of finding the leak.",
+      "choices": [
+        "It was by testing each joint that we found the leak.",
+        "It was by testing each joint how we found the leak.",
+        "It was by testing each joint what we found the leak."
+      ],
+      "answerIndex": 0,
+      "feedback": "The focused means is followed by that, not how or what as the cleft connector."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Complete a natural what-cleft: \"What the committee needed ___ clearer evidence.\"",
+      "choices": [
+        "it was",
+        "were",
+        "was"
+      ],
+      "answerIndex": 2,
+      "feedback": "The what-clause functions as the subject of a linking verb; was joins it directly to the focused noun phrase."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which version highlights the action taken, using the what + did construction?",
+      "choices": [
+        "What I did was reviewing the application.",
+        "What I did was review the application.",
+        "It was review the application what I did."
+      ],
+      "answerIndex": 1,
+      "feedback": "What I did was review uses a bare infinitive to identify the performed action."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "___ was on Tuesday that the final results were announced. Supply the initial word of the cleft.",
+      "acceptedAnswers": [
+        "It"
+      ],
+      "feedback": "It was on Tuesday that foregrounds the timing of the announcement."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "What impressed the panel ___ the precision of the measurements. Use the past simple form of be.",
+      "acceptedAnswers": [
+        "was"
+      ],
+      "feedback": "The what-clause is linked to its focused noun phrase by was."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "It was by comparing both versions ___ the inconsistency became apparent. Supply the cleft connector.",
+      "acceptedAnswers": [
+        "that"
+      ],
+      "feedback": "The means phrase by comparing both versions takes that to introduce the remaining cleft clause."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The ___ we delayed the experiment was that the room was not ready. Supply the noun that introduces a cause.",
+      "acceptedAnswers": [
+        "reason"
+      ],
+      "feedback": "The reason ... was that ... expresses a focused explanation with a noun-led clause."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the complete it-cleft: It was the designer which spotted the missing dimension.",
+      "acceptedAnswers": [
+        "It was the designer who spotted the missing dimension.",
+        "It was the designer that spotted the missing dimension."
+      ],
+      "feedback": "A person can be introduced by who or that in this cleft; which is not the correct choice."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence: What they needed it was a more reliable timetable.",
+      "acceptedAnswers": [
+        "What they needed was a more reliable timetable."
+      ],
+      "feedback": "The what-clause directly acts as the subject of was; remove the extra it."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence: What the engineer did was replaced the damaged connector.",
+      "acceptedAnswers": [
+        "What the engineer did was replace the damaged connector.",
+        "What the engineer did was to replace the damaged connector."
+      ],
+      "feedback": "After what ... did was, use the bare infinitive or to-infinitive of the focused action."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence, preserving the focused means: It was through careful testing how we identified the defect.",
+      "acceptedAnswers": [
+        "It was through careful testing that we identified the defect."
+      ],
+      "feedback": "The focused means phrase is followed by that, not how."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Correct the identity using an it-cleft. Facts: Mira / drafted / the proposal. Begin with \"It was Mira\".",
+      "acceptedAnswers": [
+        "It was Mira who drafted the proposal.",
+        "It was Mira that drafted the proposal."
+      ],
+      "feedback": "It was Mira puts the focused person immediately after was."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Focus the time with an it-cleft. Facts: the incident / occurred / on Thursday. Begin with \"It was on Thursday\" and use that.",
+      "acceptedAnswers": [
+        "It was on Thursday that the incident occurred."
+      ],
+      "feedback": "It was on Thursday that spotlights the timing of the incident."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Focus the object with a what-cleft. Facts: The researcher / requested / a larger sample. Begin with \"What the researcher requested\".",
+      "acceptedAnswers": [
+        "What the researcher requested was a larger sample."
+      ],
+      "feedback": "The new information, a larger sample, follows was."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Use a reverse what-cleft. Facts: The missing signature / delay / the approval. Begin with \"The missing signature was what\".",
+      "acceptedAnswers": [
+        "The missing signature was what delayed the approval."
+      ],
+      "feedback": "The reverse what-cleft places the focused cause before the clause it satisfies."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Focus a completed action with what + did. Facts: They / contact / the suppliers. Begin with \"What they did was\".",
+      "acceptedAnswers": [
+        "What they did was contact the suppliers.",
+        "What they did was to contact the suppliers."
+      ],
+      "feedback": "The focusing frame what they did was is followed by an infinitive form of the action."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Correct the cleft aloud: \"It was by reading the log how we found the error.\"",
+      "acceptedAnswers": [
+        "It was by reading the log that we found the error."
+      ],
+      "feedback": "A manner phrase in an it-cleft uses that to introduce the remaining clause."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Give a focused reason using a noun-led clause. Facts: the launch was delayed / the prototype failed inspection. Begin with \"The reason the launch was delayed\".",
+      "acceptedAnswers": [
+        "The reason the launch was delayed was that the prototype failed inspection."
+      ],
+      "feedback": "The reason ... was that ... focuses the explanation for the delay."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two sentences, in order, using full forms. Focus the person: Nora / organised / the workshop (it-cleft with who). Focus the thing: Nora / organised / the workshop (what-cleft).",
+      "acceptedAnswers": [
+        "It was Nora who organised the workshop. What Nora organised was the workshop."
+      ],
+      "feedback": "The it-cleft highlights who organised it; the what-cleft highlights what was organised."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "It was the caretaker who reported the broken window, not the security guard.",
+      "prompt": "Who actually reported the broken window?",
+      "choices": [
+        "The caretaker",
+        "The security guard",
+        "Both people together"
+      ],
+      "answerIndex": 0,
+      "feedback": "The cleft puts the caretaker in focus and explicitly rejects the security guard."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "What disappointed the audience was the sudden cancellation, not the length of the programme.",
+      "prompt": "What specifically disappointed the audience?",
+      "choices": [
+        "The programme was too long",
+        "The seats were uncomfortable",
+        "The event was cancelled"
+      ],
+      "answerIndex": 2,
+      "feedback": "The what-cleft identifies the sudden cancellation as the source of disappointment."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "It was after midnight that the rescue team reached the village.",
+      "prompt": "Transcribe the five-word opening of the cleft, ending with \"that\".",
+      "acceptedAnswers": [
+        "it was after midnight that"
+      ],
+      "feedback": "The time phrase after midnight is focused between was and that."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "What the volunteers did was open a second entrance so that visitors would not have to queue outside.",
+      "prompt": "What action did the volunteers take?",
+      "choices": [
+        "They changed the opening hours",
+        "They opened another entrance",
+        "They cancelled the visit"
+      ],
+      "answerIndex": 1,
+      "feedback": "What ... did was introduces the action: opening a second entrance."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "It was by checking the original recording that the editor noticed the missing sentence.",
+      "prompt": "How did the editor discover the omission?",
+      "choices": [
+        "By asking the speaker again",
+        "By reading the printed brochure",
+        "By examining the original recording"
+      ],
+      "answerIndex": 2,
+      "feedback": "The it-cleft focuses the means: checking the original recording."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The reason the team switched venues was that the original hall had no working heating.",
+      "prompt": "Why did the team move to a different venue?",
+      "choices": [
+        "The heating had failed in the original hall",
+        "The new venue was closer to the station",
+        "The audience requested a smaller room"
+      ],
+      "answerIndex": 0,
+      "feedback": "The reason ... was that identifies failed heating as the cause of the move."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "What the conference needed was a clearer timetable.",
+      "prompt": "Transcribe the five-word sequence beginning with \"what\" and ending with \"was\".",
+      "acceptedAnswers": [
+        "what the conference needed was"
+      ],
+      "feedback": "The what-clause creates a slot filled by a clearer timetable."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "What the manager did was postpone the review until Friday.",
+      "prompt": "Transcribe the six-word opening of the sentence, ending with \"postpone\".",
+      "acceptedAnswers": [
+        "what the manager did was postpone"
+      ],
+      "feedback": "What the manager did was postpone introduces the deliberate action in a focused form."
+    }
+  ]
+}

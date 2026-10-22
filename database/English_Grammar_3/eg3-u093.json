@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u093",
+  "title": "Noun–Preposition Patterns and Infinitive Complements",
+  "level": "C1",
+  "topicId": "eg3-u093-prepositions-after-nouns",
+  "summary": "Choose the complement licensed by a noun: noun plus a fixed preposition, of plus an -ing clause, or a to-infinitive. Recognise meaningful alternatives such as a chance of an event happening versus a chance to perform an action, and avoid transferring verb patterns mechanically to their related nouns.",
+  "learningObjectives": [
+    "Select conventional noun–preposition combinations without assuming that a related verb or adjective always uses the same preposition.",
+    "Distinguish nouns normally followed by of + -ing from nouns followed by a to-infinitive.",
+    "Choose appropriate complements with nouns that permit both -ing and infinitive constructions, explaining the intended meaning.",
+    "Recognise the role of of in noun classification and possession, and avoid mismatched or doubled prepositions."
+  ],
+  "explanation": [
+    {
+      "heading": "Nouns have their own preposition patterns",
+      "body": "A noun may inherit a familiar preposition from a related adjective or verb, as with admiration for or objection to. But not every family follows the same pattern: a noun such as respect for may require a preposition where the corresponding verb respect takes a direct object. Learn the complete noun phrase rather than inferring it from the verb alone.",
+      "example": "The visitors showed respect for the curator, and they respected her decision."
+    },
+    {
+      "heading": "Prepositions signal different relationships",
+      "body": "Common combinations include demand for, solution to, effect on and improvement in. The choice can determine how a following noun phrase relates to the head noun. Of also often identifies the subject matter, owner or category, as in the description of an experiment. A preposition that works after a related verb cannot simply be copied onto every related noun.",
+      "example": "The team noticed an improvement in accuracy and investigated the effect on reliability."
+    },
+    {
+      "heading": "Some nouns take of plus an -ing clause",
+      "body": "Nouns such as risk, likelihood, prospect and possibility commonly take of followed by an -ing form to present an event as possible or likely. The -ing clause can have an expressed subject, such as the servers failing. A to-infinitive is not normally a substitute with these meanings: the possibility of failing differs in grammatical pattern from a decision to act.",
+      "example": "There is a risk of the archived photographs becoming damaged during transport."
+    },
+    {
+      "heading": "Other nouns favour a to-infinitive",
+      "body": "Decision, permission, ambition, determination and an offer often introduce an intended or authorised action with a to-infinitive. The subject who will perform that action must still be clear from context. By contrast, nouns such as objection to and reason for commonly take a preposition before an -ing clause; do not confuse the preposition to in objection to changing with infinitival to in a decision to change.",
+      "example": "The researcher received permission to enter the laboratory but had an objection to working alone."
+    },
+    {
+      "heading": "Both forms are possible, but meaning can shift",
+      "body": "With chance, the structure chance of + -ing often concerns probability, whereas chance to + infinitive presents an opportunity to do something. Way of + -ing and way to + infinitive can both express a method. Intention of + -ing and intention to + infinitive may overlap, but some fixed expressions favour one form, especially no intention of + -ing. Consider intended meaning and collocation before selecting an answer.",
+      "example": "There is little chance of the road reopening today, but we have a chance to take another route."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "An event being possible versus an action being offered",
+      "left": {
+        "label": "Chance of + -ing",
+        "example": "There is a small chance of the roof collapsing.",
+        "note": "This assesses the likelihood of an event."
+      },
+      "right": {
+        "label": "Chance to + infinitive",
+        "example": "The team has a chance to inspect the roof.",
+        "note": "This identifies an opportunity available to the team."
+      }
+    },
+    {
+      "title": "A preposition and -ing versus an infinitive marker",
+      "left": {
+        "label": "Objection to + -ing",
+        "example": "We have an objection to moving the equipment.",
+        "note": "To is a preposition, so moving follows it."
+      },
+      "right": {
+        "label": "Decision to + base verb",
+        "example": "We made a decision to move the equipment.",
+        "note": "To introduces an infinitive, so move follows it."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Our neighbours expressed concern about the planned demolition.",
+      "note": "Concern about introduces the subject of the concern."
+    },
+    {
+      "sentence": "The new policy produced a marked improvement in response times.",
+      "note": "Improvement in identifies the area that became better."
+    },
+    {
+      "sentence": "There is a real possibility of the delivery arriving early.",
+      "note": "Possibility of takes an -ing clause, here with its own subject."
+    },
+    {
+      "sentence": "The director gave us permission to publish the interview.",
+      "note": "Permission to introduces an authorised action."
+    },
+    {
+      "sentence": "One effective way of saving energy is to reduce unnecessary lighting.",
+      "note": "Way of saving describes a method using of + -ing."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "They showed admiration to the engineer’s persistence.",
+      "correct": "They showed admiration for the engineer’s persistence.",
+      "why": "Admiration for is the conventional noun phrase in this meaning."
+    },
+    {
+      "incorrect": "The board discussed the likelihood to miss the deadline.",
+      "correct": "The board discussed the likelihood of missing the deadline.",
+      "why": "Likelihood normally takes of + -ing rather than a to-infinitive."
+    },
+    {
+      "incorrect": "The students were granted permission of entering the archive.",
+      "correct": "The students were granted permission to enter the archive.",
+      "why": "Permission usually introduces the authorised action with a to-infinitive."
+    },
+    {
+      "incorrect": "The editor has an objection to publish the photos.",
+      "correct": "The editor has an objection to publishing the photos.",
+      "why": "The to after objection is a preposition and must be followed by -ing."
+    }
+  ],
+  "studyTips": [
+    "Record noun patterns as short chunks such as an effect on something, an objection to doing something and a decision to act.",
+    "For chance, write paired sentences that clearly separate the probability of an event from an opportunity to take action.",
+    "When a noun is related to a verb, compare both full phrases and mark any difference in preposition or complement structure."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the appropriate noun phrase: \"The residents raised an ___ the late-night construction work.\"",
+      "choices": [
+        "objection at",
+        "objection to",
+        "objection for"
+      ],
+      "answerIndex": 1,
+      "feedback": "The standard noun pattern is objection to + a noun phrase or an -ing clause."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence with the conventional pattern: \"There is a considerable ___ the server failing overnight.\"",
+      "choices": [
+        "likelihood of",
+        "likelihood to",
+        "likelihood for"
+      ],
+      "answerIndex": 0,
+      "feedback": "Likelihood of introduces an event using an -ing clause."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "\"The students obtained permission ___ the collection for their project.\" Which complement expresses authorisation?",
+      "choices": [
+        "of consulting",
+        "for consult",
+        "to consult"
+      ],
+      "answerIndex": 2,
+      "feedback": "Permission to consult uses a to-infinitive for the authorised action."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which sentence clearly expresses the probability of an event, rather than someone’s opportunity to act?",
+      "choices": [
+        "There is a chance of the lift stopping between floors.",
+        "The inspector has a chance to test the lift.",
+        "The committee offered the inspector a chance to test the lift."
+      ],
+      "answerIndex": 0,
+      "feedback": "Chance of the lift stopping assesses whether the event might happen; the other options offer an opportunity."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with one preposition: \"The judges expressed admiration ___ the careful restoration.\"",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "Admiration is normally followed by for when naming what is admired."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with a to-infinitive, including to: \"The board made a decision ___ (replace) the outdated signs.\"",
+      "acceptedAnswers": [
+        "to replace"
+      ],
+      "feedback": "A decision to replace introduces the intended action with a to-infinitive."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with of + -ing: \"There is a risk ___ (lose) important records during the move.\"",
+      "acceptedAnswers": [
+        "of losing"
+      ],
+      "feedback": "Risk of losing presents a possible unwanted event."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with a to-infinitive, including to: \"We found a reliable way ___ (check) the measurements.\"",
+      "acceptedAnswers": [
+        "to check"
+      ],
+      "feedback": "Way to check is a grammatical way to express a method; way of checking would also work in a differently worded task."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the preposition after the noun: \"We have no objection for extending the exhibition.\"",
+      "acceptedAnswers": [
+        "We have no objection to extending the exhibition."
+      ],
+      "feedback": "Objection to requires the preposition to before an -ing form."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the complement after possibility: \"They considered the possibility to postpone the launch.\"",
+      "acceptedAnswers": [
+        "They considered the possibility of postponing the launch."
+      ],
+      "feedback": "Possibility of postponing is the standard noun + of + -ing construction."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the phrase describing authorised access: \"She received permission of accessing the records.\"",
+      "acceptedAnswers": [
+        "She received permission to access the records."
+      ],
+      "feedback": "Permission is followed by a to-infinitive when specifying the authorised action."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the infinitive following intention: \"The council announced its intention to introducing a new service.\"",
+      "acceptedAnswers": [
+        "The council announced its intention to introduce a new service."
+      ],
+      "feedback": "Intention to takes the base form of the verb; introducing would require an appropriate preposition."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make one complete sentence using the exact facts: \"We / have great admiration for / the architect.\"",
+      "acceptedAnswers": [
+        "We have great admiration for the architect."
+      ],
+      "feedback": "Admiration for links the noun to the person admired."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Paraphrase using the noun decision. Original: \"The panel decided to postpone the vote.\" Begin: \"The panel made a decision ...\"",
+      "acceptedAnswers": [
+        "The panel made a decision to postpone the vote."
+      ],
+      "feedback": "Decision to postpone uses a to-infinitive."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Give a probability statement. Facts: \"There / be / a possibility of / the battery failing overnight.\" Use the present simple.",
+      "acceptedAnswers": [
+        "There is a possibility of the battery failing overnight."
+      ],
+      "feedback": "Possibility of introduces an -ing clause with the battery as its subject."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Replace the clause using risk of. Original: \"There is a risk that the projector will overheat.\" Begin \"There is a risk ...\"",
+      "acceptedAnswers": [
+        "There is a risk of the projector overheating."
+      ],
+      "feedback": "Risk of the projector overheating describes a potential event."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Make one complete sentence: \"The visitors / have / an interest in / local history.\" Use the present simple.",
+      "acceptedAnswers": [
+        "The visitors have an interest in local history."
+      ],
+      "feedback": "Interest in is the noun–preposition collocation."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Express an available opportunity. Facts: \"This grant / give / me / a chance to / finish the survey.\" Use the present simple.",
+      "acceptedAnswers": [
+        "This grant gives me a chance to finish the survey."
+      ],
+      "feedback": "Chance to finish expresses an opportunity, not a probability."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the grammar aloud: \"The team has a reason of delaying the release.\"",
+      "acceptedAnswers": [
+        "The team has a reason for delaying the release."
+      ],
+      "feedback": "Reason for delaying is the appropriate preposition plus -ing pattern."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two full sentences in order. First: The students / have permission to use the library. Second: They / have no intention of leaving early. Use full forms.",
+      "acceptedAnswers": [
+        "The students have permission to use the library. They have no intention of leaving early."
+      ],
+      "feedback": "Permission to + infinitive and no intention of + -ing use different complements."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The panel expressed reservations about the original design but admiration for the revised proposal.",
+      "prompt": "Which design received admiration?",
+      "choices": [
+        "The revised proposal",
+        "The original design",
+        "Neither design"
+      ],
+      "answerIndex": 0,
+      "feedback": "Admiration for refers to the revised proposal, whereas reservations refer to the original design."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "There is a realistic possibility of the river flooding tonight, so organisers are preparing to move the concert indoors.",
+      "prompt": "What event are the organisers preparing for?",
+      "choices": [
+        "A concert starting earlier",
+        "The river flooding",
+        "A bridge reopening"
+      ],
+      "answerIndex": 1,
+      "feedback": "Possibility of the river flooding states the risk that prompted the preparations."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The residents have no objection to extending the pedestrian zone.",
+      "prompt": "Transcribe the exact three-word sequence beginning with \"objection\".",
+      "acceptedAnswers": [
+        "objection to extending"
+      ],
+      "feedback": "The spoken pattern is objection to extending, with to as a preposition."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Nina received permission to photograph the paintings, but the museum did not permit touching the frames.",
+      "prompt": "What was Nina authorised to do?",
+      "choices": [
+        "Move the frames",
+        "Take paintings home",
+        "Photograph the paintings"
+      ],
+      "answerIndex": 2,
+      "feedback": "Permission to photograph indicates the approved action; touching the frames was prohibited."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "There is little chance of reaching the summit before dark, but the guides offered us a chance to try again tomorrow.",
+      "prompt": "What opportunity did the guides offer?",
+      "choices": [
+        "Another attempt tomorrow",
+        "A guarantee of arriving before dark",
+        "A night spent at the summit"
+      ],
+      "answerIndex": 0,
+      "feedback": "Chance to try again tomorrow is an opportunity, distinct from the low chance of arriving today."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The archive invested in stronger containers because there was a risk of losing rare documents during transport.",
+      "prompt": "Why did the archive buy stronger containers?",
+      "choices": [
+        "To increase shipping charges",
+        "To protect documents from loss",
+        "To organise a public exhibition"
+      ],
+      "answerIndex": 1,
+      "feedback": "Risk of losing documents explains the protective investment."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "A practical way of reducing waste is to repair equipment before replacing it.",
+      "prompt": "Transcribe the exact three-word phrase beginning with \"way\".",
+      "acceptedAnswers": [
+        "way of reducing"
+      ],
+      "feedback": "Way of reducing is clearly spoken and expresses a method using of + -ing."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The volunteers showed genuine interest in learning a local sign language.",
+      "prompt": "Transcribe the exact three-word sequence beginning with \"interest\".",
+      "acceptedAnswers": [
+        "interest in learning"
+      ],
+      "feedback": "Interest in learning is the noun–preposition pattern followed by an -ing form."
+    }
+  ]
+}

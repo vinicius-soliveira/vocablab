@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u089",
+  "title": "Between and Among: Individuals, Groups and Relationships",
+  "level": "C1",
+  "topicId": "eg3-u089-between-and-among",
+  "summary": "Choose between and among by meaning rather than by counting people alone. Distinguish separate individuals from groups, use established patterns for relationships, choices and discussions, and recognise shared quantities, group membership and fixed expressions.",
+  "learningObjectives": [
+    "Contrast separate, identifiable people or things with members viewed collectively as a group.",
+    "Use between accurately for links, comparisons, choices and negotiations involving two or more distinct parties.",
+    "Recognise contexts in which between and among can both express sharing or distribution, without treating all uses as interchangeable.",
+    "Use among for membership, occurrences within a group and natural expressions such as among others and between ourselves."
+  ],
+  "explanation": [
+    {
+      "heading": "Distinct entities and collective groups",
+      "body": "Between can locate something in the space separating two or more identifiable entities: a path between three buildings is possible because the buildings are considered individually. Among locates a person or object within a collection seen as a group or mass, normally of at least three. Do not rely on the oversimplified rule that between is only for two; consider whether each participant is distinct.",
+      "example": "A small fountain stands between the museum, the library and the theatre, while benches are scattered among the trees."
+    },
+    {
+      "heading": "Relations, comparisons and explicit choices",
+      "body": "Between is conventional in discussions of a connection, relationship, contrast, difference, distinction or comparison. We also choose between clearly specified alternatives, including three or more. In a disagreement, negotiation or arrangement, between identifies the parties as participants rather than an undifferentiated crowd.",
+      "example": "The panel compared the differences between three proposals before choosing between them."
+    },
+    {
+      "heading": "Sharing, dividing and totals",
+      "body": "When something is shared or divided across members of a set, both between and among are often possible, even for more than two recipients. Between highlights identifiable recipients or their joint contribution; among often portrays them collectively. A specific amount contributed or possessed jointly commonly takes between them, not a general claim about everyone in a group.",
+      "example": "The four neighbours shared the cost between them, while the prize money was distributed among the finalists."
+    },
+    {
+      "heading": "Events, status and membership within a group",
+      "body": "Among is used when an event occurs within a population or an attitude is widespread in a group. It also places someone within a category, as in among the leading researchers. Here between usually cannot substitute, because the meaning is group membership or occurrence, not a relationship joining distinct entities.",
+      "example": "Excitement spread among the volunteers when their team was named among the winners."
+    },
+    {
+      "heading": "Fixed expressions and stylistic alternatives",
+      "body": "Among others introduces examples from a larger unspecified set; among other things does the same for activities or items. Between you and me and between ourselves introduce confidential remarks. Amongst is a less common, sometimes literary alternative to among, not a generally different grammatical structure.",
+      "example": "Among other things, the programme offers evening classes; between ourselves, the timetable still needs work."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Several separate landmarks versus a group",
+      "left": {
+        "label": "Between distinct landmarks",
+        "example": "The garden lies between the gallery, the hall and the station.",
+        "note": "Each of the three landmarks is individually identified as a spatial reference."
+      },
+      "right": {
+        "label": "Among a collection",
+        "example": "The garden has several sculptures among its bushes.",
+        "note": "The bushes are treated as a mass or collective setting."
+      }
+    },
+    {
+      "title": "A defined relationship versus group membership",
+      "left": {
+        "label": "Between for relationships",
+        "example": "There is a clear connection between training and job satisfaction.",
+        "note": "Connection names a relationship between identifiable terms."
+      },
+      "right": {
+        "label": "Among for membership",
+        "example": "She is among the most experienced trainers here.",
+        "note": "She is included within a category, not connected to another named individual."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The footpath runs between four separate warehouses.",
+      "note": "Between is possible with four because the warehouses are treated individually."
+    },
+    {
+      "sentence": "An old photograph turned up among the papers in the drawer.",
+      "note": "Among locates one item within a collection."
+    },
+    {
+      "sentence": "The mediators encouraged discussion between the three departments.",
+      "note": "Between identifies the distinct participants in the discussion."
+    },
+    {
+      "sentence": "The organisers divided the donation among five community groups.",
+      "note": "Among presents the groups as recipients of a distribution; between could also work here."
+    },
+    {
+      "sentence": "Among other things, the report recommends a quieter meeting space.",
+      "note": "Among other things indicates that the recommendation is one of several points."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The researcher identified a strong correlation among sleep quality and concentration.",
+      "correct": "The researcher identified a strong correlation between sleep quality and concentration.",
+      "why": "Correlation normally takes between to connect explicitly identified variables."
+    },
+    {
+      "incorrect": "The new employee quickly became popular between her colleagues.",
+      "correct": "The new employee quickly became popular among her colleagues.",
+      "why": "Among her colleagues describes popularity within a group rather than a link between individually named colleagues."
+    },
+    {
+      "incorrect": "There is an important distinction among the two proposed methods.",
+      "correct": "There is an important distinction between the two proposed methods.",
+      "why": "A distinction compares specified alternatives and conventionally takes between."
+    },
+    {
+      "incorrect": "Between other things, the course includes training in presentation skills.",
+      "correct": "Among other things, the course includes training in presentation skills.",
+      "why": "Among other things introduces an example from a larger range of course content."
+    }
+  ],
+  "studyTips": [
+    "Sketch three separate landmarks and a cluster of trees; describe the space between the landmarks and objects among the trees.",
+    "Collect collocations such as relationship between, choose between and popular among, then explain why their preposition is preferred.",
+    "Rewrite a sentence about sharing a budget using both between and among, and describe the subtle change in focus rather than declaring one automatically wrong."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A courtyard lies ___ three separate university buildings, each identified on the plan. Choose the most precise preposition.",
+      "choices": [
+        "among",
+        "between",
+        "through"
+      ],
+      "answerIndex": 1,
+      "feedback": "Between is appropriate with three individually distinguished reference points."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The missing key was discovered ___ dozens of old receipts. Select the preposition that presents the receipts collectively.",
+      "choices": [
+        "among",
+        "between",
+        "against"
+      ],
+      "answerIndex": 0,
+      "feedback": "Among places the key within a mass of receipts."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The researchers described a significant association ___ stress and sleep quality.",
+      "choices": [
+        "among",
+        "inside",
+        "between"
+      ],
+      "answerIndex": 2,
+      "feedback": "An association or correlation between specified factors uses between."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The new policy proved unexpectedly popular ___ younger employees.",
+      "choices": [
+        "between",
+        "among",
+        "over"
+      ],
+      "answerIndex": 1,
+      "feedback": "Among expresses prevalence within a group of employees."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Choose the preposition only: \"The trail winds ___ the four isolated hills.\" Treat all four hills as separate landmarks.",
+      "acceptedAnswers": [
+        "between"
+      ],
+      "feedback": "Between can take more than two separate, identifiable reference points."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: \"A handwritten note was hidden ___ the books on the crowded shelf.\" Treat the books as a collection.",
+      "acceptedAnswers": [
+        "among"
+      ],
+      "feedback": "Among expresses location inside a collection of books."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: \"We must decide ___ the three shortlisted designs.\" All three are individually specified alternatives.",
+      "acceptedAnswers": [
+        "between"
+      ],
+      "feedback": "Choose between is established for two or more distinct options."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Supply the fixed phrase: \"___, the charity supports families with school expenses and transport.\" The speaker is naming one of several things the charity does.",
+      "acceptedAnswers": [
+        "Among other things"
+      ],
+      "feedback": "Among other things explicitly marks examples from a broader range of activities."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the preposition in this comparison: \"There is a clear difference among the two estimates.\"",
+      "acceptedAnswers": [
+        "There is a clear difference between the two estimates."
+      ],
+      "feedback": "Difference between is the natural pattern when comparing specified items."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the group-membership expression: \"She ranks between the most influential composers of her generation.\"",
+      "acceptedAnswers": [
+        "She ranks among the most influential composers of her generation."
+      ],
+      "feedback": "Among the most influential places her within a group."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the confidential-expression preposition: \"Among you and me, I doubt that the figures are final.\"",
+      "acceptedAnswers": [
+        "Between you and me, I doubt that the figures are final."
+      ],
+      "feedback": "Between you and me is a conventional confidential aside."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the fixed expression: \"Between other things, the festival features outdoor theatre.\"",
+      "acceptedAnswers": [
+        "Among other things, the festival features outdoor theatre."
+      ],
+      "feedback": "Among other things introduces examples from a larger set."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Describe a location using these exact facts: the cafe / stand / between / the cinema, the bank and the library. Speak one complete sentence.",
+      "acceptedAnswers": [
+        "The cafe stands between the cinema, the bank and the library."
+      ],
+      "feedback": "Between can relate three individually identified places."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Describe a group setting. Facts: An invitation / be / among / the letters. Use the past simple with was.",
+      "acceptedAnswers": [
+        "An invitation was among the letters."
+      ],
+      "feedback": "Among locates an item inside a collection."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Give one sentence using the fixed pattern difference between. Facts: There / be / a difference / speed and accuracy. Use the present simple.",
+      "acceptedAnswers": [
+        "There is a difference between speed and accuracy."
+      ],
+      "feedback": "Difference between refers to two specified properties."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Complete a choice statement aloud with these facts: We / must choose / between / the three routes. Say one full sentence.",
+      "acceptedAnswers": [
+        "We must choose between the three routes."
+      ],
+      "feedback": "Choose between can take three distinct alternatives."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Say a group-membership statement. Facts: Maya / be / among / the finalists. Use the present simple.",
+      "acceptedAnswers": [
+        "Maya is among the finalists."
+      ],
+      "feedback": "Among the finalists means that Maya belongs to that group."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Correct the phrase and say the full sentence: \"The rumour spread between the local residents.\"",
+      "acceptedAnswers": [
+        "The rumour spread among the local residents."
+      ],
+      "feedback": "Among the local residents describes spread through a population."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Start with \"Among other things\" and finish with this exact fact: the course teaches negotiation. Give one sentence.",
+      "acceptedAnswers": [
+        "Among other things, the course teaches negotiation."
+      ],
+      "feedback": "The introductory phrase indicates that negotiation is one of several topics."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two sentences in order. First: \"The three teams shared the award among themselves.\" Second: \"There was friendly competition between them.\"",
+      "acceptedAnswers": [
+        "The three teams shared the award among themselves. There was friendly competition between them."
+      ],
+      "feedback": "Sharing may be expressed with among; competition highlights a relationship between specified teams."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Our hotel is between the harbour, the market and the railway station, so all three are easy to reach.",
+      "prompt": "How is the hotel positioned in relation to the places?",
+      "choices": [
+        "Inside a crowd of shoppers",
+        "Between three distinct landmarks",
+        "On the roof of a station"
+      ],
+      "answerIndex": 1,
+      "feedback": "The three individual landmarks are reference points around the hotel; between is possible with more than two."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I found the missing application form among dozens of old folders, not in the filing cabinet.",
+      "prompt": "Where was the document found?",
+      "choices": [
+        "Inside a collection of old folders",
+        "Between two locked cabinets",
+        "On an empty desk"
+      ],
+      "answerIndex": 0,
+      "feedback": "Among dozens of old folders places it within a collection."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The organisers noticed a strong link between exercise and concentration after reviewing the survey.",
+      "prompt": "Transcribe the exact three-word phrase beginning with \"link\".",
+      "acceptedAnswers": [
+        "link between exercise"
+      ],
+      "feedback": "Link between exercise is the exact contiguous phrase heard in the audio."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "We have to choose between the red design, the blue design and the plain version before Friday.",
+      "prompt": "How many distinct options are being considered?",
+      "choices": [
+        "One",
+        "Two",
+        "Three"
+      ],
+      "answerIndex": 2,
+      "feedback": "Between can describe a choice involving the three named designs."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Interest in the evening programme has grown among local residents, especially those with young children.",
+      "prompt": "What does the speaker mean?",
+      "choices": [
+        "Interest exists in a community group",
+        "Two named neighbours have an argument",
+        "The programme is held between buildings"
+      ],
+      "answerIndex": 0,
+      "feedback": "Among local residents describes an attitude within a population."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Four partners split the expenses between them, although the largest contribution came from just one partner.",
+      "prompt": "What did the partners do?",
+      "choices": [
+        "They shared a total cost",
+        "They competed for a single job",
+        "They postponed the payment indefinitely"
+      ],
+      "answerIndex": 0,
+      "feedback": "Between them refers to a collective amount shared by four identifiable partners."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Among other things, the research centre offers workshops in data analysis.",
+      "prompt": "Transcribe the opening three words of the sentence.",
+      "acceptedAnswers": [
+        "Among other things"
+      ],
+      "feedback": "Among other things introduces an example from a broader set of services."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Between ourselves, the revised estimate still looks far too optimistic.",
+      "prompt": "Transcribe the opening two-word confidential expression.",
+      "acceptedAnswers": [
+        "Between ourselves"
+      ],
+      "feedback": "Between ourselves signals that the remark is intended to be confidential."
+    }
+  ]
+}

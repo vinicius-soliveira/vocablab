@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u054",
+  "title": "Other Relative Words: Whose, When, Whereby and More",
+  "level": "C1",
+  "topicId": "eg3-u054-other-relative-words-whose-when-whereby",
+  "summary": "Build precise relative clauses with whose, when, where, whereby and why, and use nominal relatives such as what, whoever, whatever and whichever. Distinguish ownership, time, place, method, reason and free-choice meaning across formal and everyday contexts.",
+  "learningObjectives": [
+    "Use whose before a noun to show possession or close association, including nuanced formal uses with organisations and abstract relationships.",
+    "Choose when, where, whereby or why according to a time, place, means or reason antecedent, and recognise formal preposition-plus-which alternatives.",
+    "Use what to mean the thing(s) that without placing it after a separate noun antecedent.",
+    "Distinguish unrestricted whoever/whatever from whichever, which typically selects from a defined or limited set."
+  ],
+  "explanation": [
+    {
+      "heading": "Whose connects an antecedent with an associated noun",
+      "body": "Whose functions as a relative determiner followed by a noun: an artist whose paintings we admire. It works in both defining and non-defining clauses, typically for people and animals and frequently for organisations or places. In formal and academic English, it may also describe abstract relationships, such as a policy whose effects remain uncertain. Do not treat whose as simply a substitute for who or whom.",
+      "example": "The university whose laboratories we visited offers postgraduate courses."
+    },
+    {
+      "heading": "Whose and less personal antecedents",
+      "body": "For inanimate things, whose is grammatical, especially in formal prose for institutional or abstract relationships, but an of which construction is sometimes preferred. For an ordinary object, a simpler rewriting can sound more natural than either option. This is a matter of register and clarity, not an absolute ban on whose with things.",
+      "example": "We reviewed a framework whose limitations had not yet been documented."
+    },
+    {
+      "heading": "When, where and formal alternatives",
+      "body": "When refers to time and where to a place: the evening when we met; the venue where the event took place. Formal alternatives often use a preposition plus which, such as the day on which or the building in which. In academic writing, where can also describe cases, conditions and situations, although in which may sound more precise. The correct preposition depends on the verb or relationship.",
+      "example": "We examined situations in which a second inspection was necessary."
+    },
+    {
+      "heading": "Whereby and why introduce means and reason",
+      "body": "Whereby is a formal relative adverb meaning by which, typically used for a method or arrangement: a procedure whereby applicants verify their identity. Why commonly follows reason, and the reason why, the reason that or simply the reason can all be possible. Avoid combining why and because in the same relative construction, as in the reason why because.",
+      "example": "The council introduced a scheme whereby residents can borrow bicycles."
+    },
+    {
+      "heading": "Nominal relatives and unrestricted choice",
+      "body": "What can mean the thing(s) that: I recorded what the speaker said. It does not normally follow an explicit noun as a relative pronoun: the statement that the speaker made, not the statement what the speaker made. Whatever and whoever can introduce free-choice clauses; whichever generally selects from a contextually given set. The meaning of the containing sentence determines whether the pronoun stands for a person, thing or option.",
+      "example": "Choose whichever of these two routes suits you; whoever arrives first should unlock the room."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Relative where versus formal in which",
+      "left": {
+        "label": "Where",
+        "example": "The room where we met was quiet.",
+        "note": "A natural everyday location relative."
+      },
+      "right": {
+        "label": "In which",
+        "example": "The room in which we met was quiet.",
+        "note": "A more formal way to express the same location relationship."
+      }
+    },
+    {
+      "title": "What versus that after an antecedent",
+      "left": {
+        "label": "Nominal relative",
+        "example": "I understood what the lecturer explained.",
+        "note": "What supplies the meaning the thing(s) that; no earlier head noun is needed."
+      },
+      "right": {
+        "label": "Ordinary relative",
+        "example": "I understood the idea that the lecturer explained.",
+        "note": "The idea is already the antecedent; that introduces a defining relative clause."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The scientist whose proposal won funding thanked her colleagues.",
+      "note": "Whose determines proposal and links it to the scientist."
+    },
+    {
+      "sentence": "The institute, whose facilities were upgraded recently, is recruiting.",
+      "note": "Whose links the already identified institute to its facilities."
+    },
+    {
+      "sentence": "We remember the afternoon when the final results were announced.",
+      "note": "When introduces a clause connected to a time expression."
+    },
+    {
+      "sentence": "This is a policy whereby staff can request flexible hours.",
+      "note": "Whereby formally states the means or arrangement through which requests are made."
+    },
+    {
+      "sentence": "Whatever the committee decides will be recorded.",
+      "note": "Whatever functions as an unrestricted nominal relative, with no explicit antecedent."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The researcher who findings changed the field received an award.",
+      "correct": "The researcher whose findings changed the field received an award.",
+      "why": "Whose is required before the associated noun findings."
+    },
+    {
+      "incorrect": "This was the year where the archive opened.",
+      "correct": "This was the year when the archive opened.",
+      "why": "When is the natural relative adverb referring to a time antecedent in this context."
+    },
+    {
+      "incorrect": "The policy why employees work remotely was revised.",
+      "correct": "The policy whereby employees can work remotely was revised.",
+      "why": "Whereby, not why, introduces the mechanism established by the policy."
+    },
+    {
+      "incorrect": "I wrote down everything what the instructor said.",
+      "correct": "I wrote down everything that the instructor said.",
+      "why": "What cannot ordinarily follow the explicit antecedent everything; use that or omit the object relative."
+    }
+  ],
+  "studyTips": [
+    "Identify the antecedent first: if it refers to a person or institution associated with a following noun, try whose; if it refers to time, use when; for location, use where.",
+    "Translate a formal whereby clause into by which and check that it still expresses a method or arrangement.",
+    "Test for an explicit head noun before a relative: use what on its own for the thing(s) that, but use that or which after a separate thing antecedent."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the relative word that expresses a relationship between a professor and her research.",
+      "choices": [
+        "The professor whom research inspired us has retired.",
+        "The professor whose research inspired us has retired.",
+        "The professor who research inspired us has retired."
+      ],
+      "answerIndex": 1,
+      "feedback": "Whose acts as the relative determiner before the noun research."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which phrase is the formal equivalent of \"the room where we met\"?",
+      "choices": [
+        "the room on which we met",
+        "the room by which we met",
+        "the room in which we met"
+      ],
+      "answerIndex": 2,
+      "feedback": "In which is the formal preposition-plus-relative equivalent for meeting inside a room."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The grant sets out a method ___ students can apply for travel support. Choose the most appropriate formal relative adverb.",
+      "choices": [
+        "whereby",
+        "why",
+        "whose"
+      ],
+      "answerIndex": 0,
+      "feedback": "Whereby expresses a procedure or means, especially in formal descriptions."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose a grammatical sentence using a nominal relative without a separate antecedent.",
+      "choices": [
+        "I remembered the advice what she gave.",
+        "I remembered what she said.",
+        "I remembered the statement whatever she said."
+      ],
+      "answerIndex": 1,
+      "feedback": "What means the thing(s) that and does not follow a separate noun antecedent."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Fill the relative determiner: \"The architect ___ designs we discussed is presenting today.\" Use whose.",
+      "acceptedAnswers": [
+        "whose"
+      ],
+      "feedback": "Whose links designs with the architect and precedes its noun."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete the time relative: \"That was the morning ___ the laboratory reopened.\" Use when.",
+      "acceptedAnswers": [
+        "when"
+      ],
+      "feedback": "When connects the relative clause to a time antecedent."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Fill the formal word for a method: \"The contract outlines a process ___ users can cancel their subscriptions.\"",
+      "acceptedAnswers": [
+        "whereby"
+      ],
+      "feedback": "Whereby states the procedure established by the contract."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the nominal relative: \"Please repeat ___ the witness said.\" Use what.",
+      "acceptedAnswers": [
+        "what"
+      ],
+      "feedback": "What itself means the thing(s) that; no separate noun antecedent appears."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence using the relative determiner for association: The organisation who offices are nearby has joined the project.",
+      "acceptedAnswers": [
+        "The organisation whose offices are nearby has joined the project."
+      ],
+      "feedback": "Whose connects the organisation with its offices."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the time-relative clause using when: I remember the evening whereby the announcement was made.",
+      "acceptedAnswers": [
+        "I remember the evening when the announcement was made."
+      ],
+      "feedback": "When, not whereby, relates the clause to the time expression evening."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the nominal relative by removing the redundant noun head: We should consider the thing what she suggested.",
+      "acceptedAnswers": [
+        "We should consider what she suggested."
+      ],
+      "feedback": "What already includes the meaning the thing that and cannot follow the explicit head the thing."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the choice expression when the options are two specific models: Whoever of these two models you select will satisfy the requirements.",
+      "acceptedAnswers": [
+        "Whichever of these two models you select will satisfy the requirements."
+      ],
+      "feedback": "Whichever chooses from a specified set of things; whoever refers to people."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Describe association between a writer and her novels. Facts: The writer / whose novels / won awards / is visiting.",
+      "acceptedAnswers": [
+        "The writer whose novels won awards is visiting."
+      ],
+      "feedback": "Whose modifies novels and refers back to the writer."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Use a time relative. Facts: I remember / the day / when / the results arrived.",
+      "acceptedAnswers": [
+        "I remember the day when the results arrived."
+      ],
+      "feedback": "When introduces the time at which something happened."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Describe a location. Facts: The studio / where / we recorded / is closed.",
+      "acceptedAnswers": [
+        "The studio where we recorded is closed."
+      ],
+      "feedback": "Where introduces a location relative."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Describe a formal procedure. Facts: The company created / a system / whereby / users submit feedback.",
+      "acceptedAnswers": [
+        "The company created a system whereby users submit feedback."
+      ],
+      "feedback": "Whereby conveys how the system works."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Use the nominal relative what. Facts: I / understood / what / the lecturer explained.",
+      "acceptedAnswers": [
+        "I understood what the lecturer explained."
+      ],
+      "feedback": "What contains the meaning the thing that without a separate head noun."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Select freely from three named options. Facts: Choose / whichever / of these three designs / you prefer.",
+      "acceptedAnswers": [
+        "Choose whichever of these three designs you prefer."
+      ],
+      "feedback": "Whichever is appropriate when selecting among a limited set."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct aloud: \"The musician who albums we collected is touring.\" Use the appropriate relative determiner.",
+      "acceptedAnswers": [
+        "The musician whose albums we collected is touring."
+      ],
+      "feedback": "Whose relates the albums to the musician."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give two full sentences in order. First: Whoever / arrives first / should call me. Second: I know / what / the instructions mean.",
+      "acceptedAnswers": [
+        "Whoever arrives first should call me. I know what the instructions mean."
+      ],
+      "feedback": "Whoever refers to any qualifying person; what stands for the meaning conveyed."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The photographer whose pictures won the competition is holding a workshop next week.",
+      "prompt": "What belongs to or is associated with the photographer?",
+      "choices": [
+        "The pictures",
+        "The competition organisers",
+        "The workshop venue"
+      ],
+      "answerIndex": 0,
+      "feedback": "Whose pictures connects the photographer with the winning photographs."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I remember the winter when the lake froze completely, although that rarely happens here.",
+      "prompt": "When did the lake freeze completely?",
+      "choices": [
+        "During a summer holiday",
+        "During a particular winter",
+        "Every spring"
+      ],
+      "answerIndex": 1,
+      "feedback": "The winter when marks a specific time in the speaker’s memory."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The organisation introduced a scheme whereby volunteers can borrow specialist equipment.",
+      "prompt": "Transcribe the four-word phrase giving the formal method.",
+      "acceptedAnswers": [
+        "a scheme whereby volunteers"
+      ],
+      "feedback": "The words a scheme whereby volunteers introduce the procedure for borrowing equipment."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The report identifies three situations in which additional supervision is essential.",
+      "prompt": "What does the phrase in which refer to?",
+      "choices": [
+        "Three people",
+        "Three laboratories",
+        "Three situations"
+      ],
+      "answerIndex": 2,
+      "feedback": "In which links the clause to three situations."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Whoever signs the agreement must attend the safety briefing on Monday.",
+      "prompt": "Who must attend the briefing?",
+      "choices": [
+        "Any person who signs the agreement",
+        "Only the director",
+        "Every employee regardless of signing"
+      ],
+      "answerIndex": 0,
+      "feedback": "Whoever includes anyone satisfying the condition of signing the agreement."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "You may choose whichever of these four meeting rooms suits your group.",
+      "prompt": "What choice is offered?",
+      "choices": [
+        "Any building in the city",
+        "One of four specified meeting rooms",
+        "One of two named conference centres"
+      ],
+      "answerIndex": 1,
+      "feedback": "Whichever points to the limited four-room set."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The agency has set up a process whereby applicants can update their contact details online.",
+      "prompt": "Transcribe the three-word expression introducing the procedure.",
+      "acceptedAnswers": [
+        "a process whereby"
+      ],
+      "feedback": "A process whereby is the exact spoken phrase introducing how the arrangement works."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The team did not understand what the auditor meant by the final remark.",
+      "prompt": "Transcribe the four-word sequence beginning with the nominal relative.",
+      "acceptedAnswers": [
+        "what the auditor meant"
+      ],
+      "feedback": "What the auditor meant is the audible nominal relative meaning the thing that was intended."
+    }
+  ]
+}

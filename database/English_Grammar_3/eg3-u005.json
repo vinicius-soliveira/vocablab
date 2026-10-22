@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u005",
+  "title": "Past Perfect and Past Simple: Sequence, Reporting and Intentions",
+  "level": "C1",
+  "topicId": "eg3-u005-past-perfect-and-past-simple",
+  "summary": "Distinguish the order in which past events occurred from the order in which a speaker mentions them; choose past perfect only when the earlier relationship matters, manage tense shifts in reported speech, and express earlier intentions sensitively.",
+  "learningObjectives": [
+    "Use the past perfect to locate an event before a later point in a narrative even when it is mentioned afterwards.",
+    "Recognise when chronological order or an explicit time expression makes the past perfect optional.",
+    "Report earlier statements using the past perfect appropriately, distinguishing original past and present-perfect messages.",
+    "Describe plans and hopes that were later altered without treating the past perfect as a universal marker of failure."
+  ],
+  "explanation": [
+    {
+      "heading": "Past perfect marks earlier time, not necessarily earlier mention",
+      "body": "A sequence of past-simple clauses normally follows the story’s timeline. The past perfect, had + past participle, can look back from an established past reference point to something that happened before it. A listener must reconstruct the actual timeline from both forms: a later-mentioned event may have happened first. Past perfect does not mean that the event was less important or had lasted longer.",
+      "example": "At the entrance, Jonah discovered that he had left his admission ticket at home."
+    },
+    {
+      "heading": "After the earlier time frame is established, keep the narrative moving",
+      "body": "Once a paragraph has firmly placed the reader in an earlier stretch of time, subsequent events within that earlier stretch need not all remain in the past perfect. Past simple can resume for the chronological sequence within the flashback. Repeating had at every verb may make a natural narrative unnecessarily heavy. Restore the past perfect when it helps prevent confusion about a new step back in time.",
+      "example": "By the time we found the laboratory, the seminar had begun. A researcher greeted us, pointed to the final row and handed us a programme."
+    },
+    {
+      "heading": "Explicit ordering expressions can make both forms possible",
+      "body": "With words such as after, before and earlier, chronology may already be clear. The past simple is then frequently sufficient, although the past perfect remains possible if the speaker wants to spotlight prior completion. Do not force one answer when both tenses naturally express the same order; for constrained tasks, use a context that specifically calls for the earlier-time viewpoint.",
+      "example": "After the audience left, the crew cleared the hall. / After the audience had left, the crew cleared the hall."
+    },
+    {
+      "heading": "Reported statements shift relative to a past reporting moment",
+      "body": "When a present-perfect statement is later reported from a past viewpoint, the past perfect normally expresses the earlier experience. When the original statement used the past simple, reported speech can use either past simple or past perfect where the time relationship is clear. Backshift is sensitive to context and is not an automatic requirement in every report of past speech.",
+      "example": "“I have already sent the invitation,” Marta said. Later, her manager explained that Marta had already sent it."
+    },
+    {
+      "heading": "Hopes and intentions viewed from later in the past",
+      "body": "Past perfect forms of hope, mean, plan and intend can show an intention that existed before a later development, often one that was not fulfilled. Past simple and past continuous may also be natural alternatives. The eventual outcome comes from the surrounding information: had planned by itself does not prove that a plan was abandoned.",
+      "example": "We had intended to launch the exhibition in April, but the building work delayed it until June."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Narration in chronological order versus a look back",
+      "left": {
+        "label": "Past simple advances the story",
+        "example": "The alarm sounded, and the caretaker called security.",
+        "note": "The events are told in the order they occurred."
+      },
+      "right": {
+        "label": "Past perfect identifies a prior cause",
+        "example": "The caretaker called security because the alarm had sounded.",
+        "note": "The alarm is mentioned second but occurred first."
+      }
+    },
+    {
+      "title": "Clearly marked order versus earlier-time emphasis",
+      "left": {
+        "label": "Past simple with after",
+        "example": "After the lecture ended, the audience left.",
+        "note": "After already provides the sequence of events."
+      },
+      "right": {
+        "label": "Past perfect with after",
+        "example": "After the lecture had ended, the audience left.",
+        "note": "Had ended foregrounds the lecture’s completion before departure."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "When Salma opened the parcel, she realised the supplier had sent the wrong component.",
+      "note": "Had sent locates the shipping mistake before the discovery."
+    },
+    {
+      "sentence": "The concert had started when we arrived, so we waited for a suitable moment to enter.",
+      "note": "The concert began earlier than the arrival."
+    },
+    {
+      "sentence": "The team had completed the rehearsal by noon. They then packed the equipment and caught the train.",
+      "note": "After the first earlier-time reference, simple forms carry the account forward."
+    },
+    {
+      "sentence": "After the guests finished their meal, the host brought out a surprise dessert.",
+      "note": "A time conjunction makes the chronology clear without the past perfect."
+    },
+    {
+      "sentence": "She explained that she had never used the software before that workshop.",
+      "note": "The past perfect places the previous absence of experience before a past workshop."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "When I reached the platform, the train already left.",
+      "correct": "When I reached the platform, the train had already left.",
+      "why": "Already and the later arrival establish that the departure occurred first; had left expresses that relationship clearly."
+    },
+    {
+      "incorrect": "After the meeting had finished, everyone had walked to the restaurant.",
+      "correct": "After the meeting had finished, everyone walked to the restaurant.",
+      "why": "The main narrative event normally uses the past simple; the after-clause can establish prior completion."
+    },
+    {
+      "incorrect": "She told us last week that she has completed the course the previous month.",
+      "correct": "She told us last week that she had completed the course the previous month.",
+      "why": "From a past reporting viewpoint, the completion was already over; had completed places it before the report."
+    },
+    {
+      "incorrect": "We had planned holding the event outdoors, but the rain forced us inside.",
+      "correct": "We had planned to hold the event outdoors, but the rain forced us inside.",
+      "why": "Plan is followed by a to-infinitive in this construction; the past perfect places the unrealised intention before the weather forced a change."
+    }
+  ],
+  "studyTips": [
+    "Put each event on a two-line timeline: one line for when it happened and one for the order in which it is mentioned.",
+    "Underline after, before and earlier; test whether removing had changes the intended time relationship or merely the emphasis.",
+    "Rewrite a brief quotation and an abandoned plan from a later reporting viewpoint, checking the original and reported time frames."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "When the curator reached the gallery, the doors were locked. The staff had forgotten to send her the access code. Which event came first?",
+      "choices": [
+        "The curator reached the gallery.",
+        "The staff forgot to send the code.",
+        "The curator discovered the locked doors."
+      ],
+      "answerIndex": 1,
+      "feedback": "Had forgotten places the staff’s omission before the curator arrived and found the doors locked."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Complete the account using a past perfect that unambiguously marks an earlier action: “Omar was upset when he noticed that someone ___ his bicycle.”",
+      "choices": [
+        "had taken",
+        "takes",
+        "will take"
+      ],
+      "answerIndex": 0,
+      "feedback": "Had taken looks back from the past moment of noticing to the earlier theft."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "An interview from last Friday is being reported. Original statement: “I have never managed a budget before.” Which later report is most suitable?",
+      "choices": [
+        "She said that she never manages a budget before.",
+        "She said that she has never managed a budget before.",
+        "She said that she had never managed a budget before."
+      ],
+      "answerIndex": 2,
+      "feedback": "Had never managed shifts the present-perfect experience to an earlier time relative to the past interview."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which sentence clearly communicates an intention that was later abandoned?",
+      "choices": [
+        "I plan to visit the archive if it is open.",
+        "I had hoped to visit the archive, but it closed unexpectedly.",
+        "I have visited the archive twice this year."
+      ],
+      "answerIndex": 1,
+      "feedback": "Had hoped presents an earlier intention, and the but-clause makes the unsuccessful outcome explicit."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The chairs were empty when we entered: the audience ___ (already / leave). Write the complete past-perfect verb phrase with the adverb.",
+      "acceptedAnswers": [
+        "had already left"
+      ],
+      "feedback": "Had already left places the departure before our arrival."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The organiser discovered that the hotel ___ (cancel) the reservation the day before. Use the past perfect.",
+      "acceptedAnswers": [
+        "had cancelled"
+      ],
+      "feedback": "Had cancelled locates the hotel’s action before the discovery."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "After they had checked the microphones, the crew ___ (open) the doors. Write the past-simple verb.",
+      "acceptedAnswers": [
+        "opened"
+      ],
+      "feedback": "Opened advances the narrative after the preliminary checks."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "I ___ (intend) to apply for the scholarship, but the deadline passed while I was ill. Write the past-perfect verb phrase.",
+      "acceptedAnswers": [
+        "had intended"
+      ],
+      "feedback": "Had intended presents the earlier plan from a later past perspective; the context makes clear it was not carried out."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the tense error: By the time the director arrived, the meeting already started.",
+      "acceptedAnswers": [
+        "By the time the director arrived, the meeting had already started."
+      ],
+      "feedback": "Had already started makes the earlier beginning clear relative to the director’s arrival."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the past narrative: After the usher had unlocked the door, the visitors enter the hall and sat down.",
+      "acceptedAnswers": [
+        "After the usher had unlocked the door, the visitors entered the hall and sat down."
+      ],
+      "feedback": "After the earlier unlocking, entered and sat down describe the subsequent past events in chronological order."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Report the earlier event correctly: In her statement yesterday, the manager said she has never approved that expense before.",
+      "acceptedAnswers": [
+        "In her statement yesterday, the manager said she had never approved that expense before."
+      ],
+      "feedback": "Had never approved expresses the preceding experience from the past moment of reporting."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the verb phrase: We had planning to take the earlier train, but the line was closed.",
+      "acceptedAnswers": [
+        "We had planned to take the earlier train, but the line was closed."
+      ],
+      "feedback": "The past perfect needs had plus the past participle planned; the later obstacle explains why the plan changed."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "The exhibition was already underway when you arrived. Facts: The exhibition / begin / before / I / arrive. Start with “The exhibition” and use the past perfect.",
+      "acceptedAnswers": [
+        "The exhibition had begun before I arrived."
+      ],
+      "feedback": "Had begun expresses the earlier event; arrived gives the subsequent past reference point."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Give the cause before the later discovery. Facts: Lina / discover / that / someone / delete / the file. Use past simple for the discovery and past perfect for deletion.",
+      "acceptedAnswers": [
+        "Lina discovered that someone had deleted the file."
+      ],
+      "feedback": "Had deleted places the deletion before Lina discovered it."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "A female manager made this earlier statement: “I have signed the contract.” Report it, beginning with “The manager said”, and use the past perfect.",
+      "acceptedAnswers": [
+        "The manager said that she had signed the contract."
+      ],
+      "feedback": "The reported earlier completion takes had signed from the past viewpoint; the prompt specifies she."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Say the abandoned intention in one sentence. Exact facts: We / hope / visit / the museum; it / close / early. Use had hoped and but.",
+      "acceptedAnswers": [
+        "We had hoped to visit the museum, but it closed early."
+      ],
+      "feedback": "Had hoped states the prior intention; but it closed early supplies the reason it was not fulfilled."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Continue a past narrative after a preliminary action. Exact facts: After / they / finish / dinner, / they / watch / a film. Use past perfect with finish and past simple with watch.",
+      "acceptedAnswers": [
+        "After they had finished dinner, they watched a film."
+      ],
+      "feedback": "The after-clause locates the first action earlier; watched carries the story forward."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Correct this sentence aloud: “By the time we got there, the lecture already ended.”",
+      "acceptedAnswers": [
+        "By the time we got there, the lecture had already ended."
+      ],
+      "feedback": "Had ended makes the completion prior to our arrival explicit."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Describe an earlier intention and a changed outcome. Facts: I / plan / study architecture; I / choose / engineering instead. Use had planned and but.",
+      "acceptedAnswers": [
+        "I had planned to study architecture, but I chose engineering instead."
+      ],
+      "feedback": "The past perfect marks the earlier plan, and the past simple expresses the later choice."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two sentences in this order using full forms. Earlier action: Nora / pack / the samples (past perfect). Next event: She / leave / the laboratory (past simple).",
+      "acceptedAnswers": [
+        "Nora had packed the samples. She left the laboratory."
+      ],
+      "feedback": "Had packed frames the earlier action; left reports the next event."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "By the time we got to the theatre, the performance had already begun. We had to wait in the foyer.",
+      "prompt": "What had happened before the speakers reached the theatre?",
+      "choices": [
+        "The performance had started.",
+        "The tickets had sold out.",
+        "The foyer had closed."
+      ],
+      "answerIndex": 0,
+      "feedback": "Had already begun puts the start of the performance before their arrival."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "After the volunteers had sorted the donations, they loaded the boxes into the van and drove to the shelter.",
+      "prompt": "Which activity happened first?",
+      "choices": [
+        "Driving to the shelter.",
+        "Sorting the donations.",
+        "Loading the van."
+      ],
+      "answerIndex": 1,
+      "feedback": "Sorting the donations was complete before loading and driving."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The receptionist discovered that the guest had already checked out.",
+      "prompt": "Transcribe the three words immediately after “guest”.",
+      "acceptedAnswers": [
+        "had already checked"
+      ],
+      "feedback": "Had already checked is the beginning of the past-perfect phrase reporting an action before the discovery."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "At yesterday’s hearing, the witness said she had never seen the missing sculpture before.",
+      "prompt": "What did the witness claim about her earlier experience?",
+      "choices": [
+        "She had sold the sculpture.",
+        "She had displayed the sculpture.",
+        "She had not seen it previously."
+      ],
+      "answerIndex": 2,
+      "feedback": "Had never seen refers to the absence of experience before the past hearing."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I had intended to attend the farewell dinner, but my train was cancelled, so I stayed home.",
+      "prompt": "What actually happened?",
+      "choices": [
+        "The speaker did not attend the dinner.",
+        "The speaker arrived by a different train.",
+        "The speaker organised the dinner."
+      ],
+      "answerIndex": 0,
+      "feedback": "The cancelled train and stayed home establish that the earlier intention was not fulfilled."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The article said that the hikers had reached the summit before the weather turned dangerous.",
+      "prompt": "What was the order of events?",
+      "choices": [
+        "The weather worsened, then the hikers reached the summit.",
+        "The hikers reached the summit, then the weather worsened.",
+        "Both events occurred the following day."
+      ],
+      "answerIndex": 1,
+      "feedback": "Had reached and before establish that the summit was reached first."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "She had hoped to join the orchestra, but there were no vacancies.",
+      "prompt": "Type the three-word phrase at the beginning of the recording after “She”.",
+      "acceptedAnswers": [
+        "had hoped to"
+      ],
+      "feedback": "Had hoped to presents an earlier plan; the lack of vacancies explains why it did not happen."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The museum was quiet because the last group had already departed.",
+      "prompt": "Type the three-word phrase that follows “group”.",
+      "acceptedAnswers": [
+        "had already departed"
+      ],
+      "feedback": "Had already departed locates the departure before the museum was found quiet."
+    }
+  ]
+}

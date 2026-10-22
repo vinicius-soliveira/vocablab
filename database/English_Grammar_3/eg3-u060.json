@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u060",
+  "title": "Reflexive Pronouns: Reference, Emphasis and Verb Patterns",
+  "level": "C1",
+  "topicId": "eg3-u060-reflexive-pronouns-reference-and-emphasis",
+  "summary": "Use myself, yourself, himself, herself, itself, ourselves, yourselves and themselves precisely for same-person reference and emphasis. Recognise optional reflexives, pronouns after prepositions, generic oneself, singular they, and the limits of stylistic myself in coordination.",
+  "learningObjectives": [
+    "Choose obligatory reflexive forms when the object and subject of a suitable verb refer to the same person or entity.",
+    "Differentiate reflexive reference from emphatic uses that highlight who acted or benefited from an action.",
+    "Apply verb-specific and prepositional patterns, including cases where a reflexive is optional or changes the meaning.",
+    "Interpret oneself and singular-they themselves, and avoid using emphatic myself as an automatic replacement for I or me."
+  ],
+  "explanation": [
+    {
+      "heading": "Self-reference and inclusive or generic forms",
+      "body": "Reflexives normally agree with their antecedent in person and number. Themselves can refer to an unknown or non-binary individual when used with singular they; it also refers to plural people. Oneself is a relatively formal generic form, while yourself is often more conversational. Do not assume themselves always means several people, and do not change a singular they antecedent to himself or herself without good reason.",
+      "example": "If a participant feels unwell, they should excuse themselves from the session."
+    },
+    {
+      "heading": "Reflexive objects required by coreference",
+      "body": "When the direct object of a transitive verb denotes the same person as the subject, the object is normally a reflexive: she introduced herself; we prepared ourselves. Several fixed patterns require a reflexive object for this meaning, such as pride oneself on and absent oneself from. In contrast, an ordinary object pronoun points to somebody else. Some verbs that describe routine personal care often omit the reflexive unless a special contrast is intended.",
+      "example": "The speaker introduced herself before beginning the presentation."
+    },
+    {
+      "heading": "Emphasis on the actor and different readings",
+      "body": "A reflexive can emphasise the subject without functioning as an object: The director herself answered. It may indicate personal action, contrast, or that something happened through a person’s own efforts. Its placement and stress influence the intended contrast. With get oneself selected or get oneself promoted, the reflexive can help highlight a person’s efforts; with get promoted, the focus stays on the outcome.",
+      "example": "The architect herself inspected the damaged wall."
+    },
+    {
+      "heading": "Reflexives after prepositions and context-sensitive exceptions",
+      "body": "After a preposition, a reflexive is usual when the object refers back to the relevant subject: he was pleased with himself. A non-reflexive pronoun can be appropriate when it refers to another person, and certain location or motion expressions with a direct object commonly take an ordinary pronoun instead: she shut the gate behind her. A reflexive may be used where a genuine emphasis on the same person is needed, as in choosing a gift for herself.",
+      "example": "She brought a notebook with her, but she kept the confidential notes to herself."
+    },
+    {
+      "heading": "Optional reflexives, verb patterns and the debated use of myself",
+      "body": "Some intransitive or middle-like verbs permit but do not require a reflexive: behave (yourself), prepare (yourself), shave (yourself). Including one can sharpen a reading or emphasise the person affected. Do not generalise this option to verbs such as pride oneself on. In some varieties, myself appears in coordinated phrases instead of I or me; this can sound distancing or polite, but it is disputed and should not be taught as the safest neutral form. Prefer I as a subject and me as an object in ordinary formal contexts.",
+      "example": "Nina and I revised the proposal; please send your comments to Nina and me."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "An object that refers back versus an emphasising intensifier",
+      "left": {
+        "label": "Reflexive object",
+        "example": "Marcus introduced himself to the panel.",
+        "note": "Himself is required because Marcus is both the introducer and the person introduced."
+      },
+      "right": {
+        "label": "Emphatic intensifier",
+        "example": "Marcus himself introduced the panel.",
+        "note": "Himself emphasises that Marcus, rather than someone else, performed the introduction."
+      }
+    },
+    {
+      "title": "Same-person reference versus another person",
+      "left": {
+        "label": "Reflexive pronoun: same person",
+        "example": "Jules was frustrated with themselves after the mistake.",
+        "note": "The singular-they reflexive refers back to Jules."
+      },
+      "right": {
+        "label": "Personal pronoun: another person",
+        "example": "Jules was frustrated with them after the mistake.",
+        "note": "Them indicates another person or group, not Jules."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "A visitor should make themselves known at reception.",
+      "note": "Themselves agrees with an unspecified visitor when the writer uses singular they."
+    },
+    {
+      "sentence": "The coordinator prides herself on resolving disputes fairly.",
+      "note": "Pride oneself on requires a reflexive object for the subject."
+    },
+    {
+      "sentence": "I repaired the bicycle myself.",
+      "note": "Myself intensifies the subject: I did the work personally."
+    },
+    {
+      "sentence": "She carried her bag behind her as she walked.",
+      "note": "After a verb with its own direct object, behind her is a natural spatial phrase; behind herself is not the neutral choice."
+    },
+    {
+      "sentence": "The actors prepared themselves for the final scene.",
+      "note": "Prepare permits a reflexive when the actors are the people being made ready."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Nadia introduced her to the audience.",
+      "correct": "Nadia introduced herself to the audience.",
+      "why": "If Nadia is both the subject and the person introduced, use herself; her would refer to a different woman."
+    },
+    {
+      "incorrect": "I am pleased with me for finishing the project.",
+      "correct": "I am pleased with myself for finishing the project.",
+      "why": "The object of with refers back to I, so myself is required in this meaning."
+    },
+    {
+      "incorrect": "The children prided on their teamwork.",
+      "correct": "The children prided themselves on their teamwork.",
+      "why": "Pride oneself on requires an overt reflexive object."
+    },
+    {
+      "incorrect": "Please email the revised agenda to myself.",
+      "correct": "Please email the revised agenda to me.",
+      "why": "With no antecedent referring to the speaker as an object of their own action, me is the neutral, standard object form; myself is not a general formal substitute."
+    }
+  ],
+  "studyTips": [
+    "For every self-pronoun, underline its antecedent and decide whether it is an obligatory object or an optional intensifier.",
+    "Compare she introduced herself, she herself introduced the team and she introduced her; explain whose identity changes in each sentence.",
+    "Check the governing verb or preposition before adding a reflexive; try prepare (yourself) against pride yourself on, and use I or me in neutral coordinated phrases."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A presenter introduced her own name, not another presenter. Complete: \"Rita introduced ___ before the first session.\"",
+      "choices": [
+        "herself",
+        "her",
+        "she"
+      ],
+      "answerIndex": 0,
+      "feedback": "Herself refers back to Rita as the direct object of introduced."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the sentence that emphasises that the manager personally inspected the equipment.",
+      "choices": [
+        "The manager inspected himself the equipment.",
+        "The manager herself inspected the equipment.",
+        "The manager inspected her the equipment."
+      ],
+      "answerIndex": 1,
+      "feedback": "Herself is a subject-oriented intensifier; it does not replace the ordinary object equipment."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "A participant uses singular they. Complete: \"If anyone needs a break, they can excuse ___ from the room.\"",
+      "choices": [
+        "himself",
+        "theirselves",
+        "themselves"
+      ],
+      "answerIndex": 2,
+      "feedback": "Themselves is the standard reflexive for singular they in this context."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The author uses they/them pronouns. Choose the established reflexive pattern: \"The author prides ___ on accuracy.\"",
+      "choices": [
+        "themselves",
+        "them",
+        "their"
+      ],
+      "answerIndex": 0,
+      "feedback": "Themselves agrees with the author referred to using singular they and completes pride oneself on."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The engineers checked their own work. Complete: \"The engineers checked the design ___.\" Use the plural emphatic reflexive.",
+      "acceptedAnswers": [
+        "themselves"
+      ],
+      "feedback": "Themselves adds emphasis to the engineers performing the check personally."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "A single student is referred to as they. Complete: \"The student prepared ___ for the interview.\" Write the singular-they reflexive.",
+      "acceptedAnswers": [
+        "themselves"
+      ],
+      "feedback": "Themselves can have a singular antecedent when the student is referred to with they."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "I feel satisfied with my own progress. Complete: \"I am proud of ___.\" Write the reflexive.",
+      "acceptedAnswers": [
+        "myself"
+      ],
+      "feedback": "Of refers back to I, so the phrase requires myself for self-reference."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the formal generic expression: \"It is important to remain true to ___.\" Write one word beginning with one.",
+      "acceptedAnswers": [
+        "oneself"
+      ],
+      "feedback": "Oneself is the formal generic reflexive appropriate to this general maxim."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence so that Sara, not someone else, was introduced: Sara introduced her to the committee.",
+      "acceptedAnswers": [
+        "Sara introduced herself to the committee."
+      ],
+      "feedback": "Herself refers to the same person as Sara, the subject of introduced."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the reflexive verb pattern: The volunteers prided on their careful planning.",
+      "acceptedAnswers": [
+        "The volunteers prided themselves on their careful planning."
+      ],
+      "feedback": "Pride oneself on requires a reflexive object."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the prepositional pronoun for same-person reference: I was disappointed with me after the interview.",
+      "acceptedAnswers": [
+        "I was disappointed with myself after the interview."
+      ],
+      "feedback": "Myself refers back to the first-person subject I."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the inappropriate polite-sounding object form: Please send a copy of the timetable to myself.",
+      "acceptedAnswers": [
+        "Please send a copy of the timetable to me."
+      ],
+      "feedback": "Me is the standard object of to here; myself is not an automatic formal substitute."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make the subject and object refer to the same woman: Mira / introduce / herself / to the visitors. Use the past simple.",
+      "acceptedAnswers": [
+        "Mira introduced herself to the visitors."
+      ],
+      "feedback": "Herself is needed because Mira introduced Mira."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Emphasise that Dr Shah personally reviewed the records. Use the exact words \"Dr Shah\" and \"himself\" after the name.",
+      "acceptedAnswers": [
+        "Dr Shah himself reviewed the records."
+      ],
+      "feedback": "Himself immediately after the name stresses that Dr Shah did it personally."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Use singular they with this exact fact: The participant / congratulate / themselves / after the race. Use the past simple.",
+      "acceptedAnswers": [
+        "The participant congratulated themselves after the race."
+      ],
+      "feedback": "Themselves may refer to a single participant when singular they is used."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Correct the sentence aloud, keeping the same-person meaning: \"The actor is proud of him for finishing the play.\"",
+      "acceptedAnswers": [
+        "The actor is proud of himself for finishing the play."
+      ],
+      "feedback": "Himself, unlike him, refers back to the actor."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Produce a sentence with the fixed verb pattern pride oneself on. Facts: Lena / pride / herself / on / punctuality. Use the present simple.",
+      "acceptedAnswers": [
+        "Lena prides herself on punctuality."
+      ],
+      "feedback": "Prides herself on is a reflexive verb pattern."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Give a neutral formal sentence with no self-pronoun. Facts: Please send the invoice / to / me.",
+      "acceptedAnswers": [
+        "Please send the invoice to me."
+      ],
+      "feedback": "Me is the ordinary object after to; myself would not be a neutral replacement."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Use the generic formal reflexive. Facts: One / should / be honest / with / oneself.",
+      "acceptedAnswers": [
+        "One should be honest with oneself."
+      ],
+      "feedback": "Oneself agrees with the generic subject one."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two sentences in this order using the exact names and forms. First: Beth / prepared / herself. Second: Beth / herself / opened the meeting.",
+      "acceptedAnswers": [
+        "Beth prepared herself. Beth herself opened the meeting."
+      ],
+      "feedback": "The first herself is an object; the second is an intensifier of the subject."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The event coordinator herself checked every detail of the seating plan.",
+      "prompt": "Who was personally responsible for checking the seating plan?",
+      "choices": [
+        "The event coordinator.",
+        "The assistant director.",
+        "The entire audience."
+      ],
+      "answerIndex": 0,
+      "feedback": "The spoken emphatic reflexive identifies the coordinator as the person who checked it."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Every applicant should give themselves enough time to complete the form. They should also read the instructions.",
+      "prompt": "Why does the speaker use themselves for the applicant?",
+      "choices": [
+        "The applicant is necessarily one of several people.",
+        "The applicant is referred to using singular they.",
+        "The speaker is describing two separate applicants."
+      ],
+      "answerIndex": 1,
+      "feedback": "The audio uses they with an individual applicant; themselves follows the same reference."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The organisers themselves welcomed the visitors.",
+      "prompt": "Transcribe the two-word phrase between the words The and welcomed.",
+      "acceptedAnswers": [
+        "organisers themselves"
+      ],
+      "feedback": "The reflexive themselves emphasises who personally carried out the welcome."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I am pleased with myself for completing the assignment on time.",
+      "prompt": "Who does the speaker say is pleased with the result?",
+      "choices": [
+        "The supervisor.",
+        "Another colleague.",
+        "The speaker."
+      ],
+      "answerIndex": 2,
+      "feedback": "I am pleased with myself makes the speaker the person who feels satisfied."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "During the interview, Jonah described himself as a patient and careful worker.",
+      "prompt": "What is the relationship between Jonah and the person he described?",
+      "choices": [
+        "Jonah was describing himself.",
+        "Jonah was describing a different man.",
+        "Jonah was describing the interviewers."
+      ],
+      "answerIndex": 0,
+      "feedback": "Jonah described himself; the reflexive object refers back to Jonah."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The children built the model bridge themselves, without help from the adults.",
+      "prompt": "Which of these actions did the speaker say the children completed by their own efforts?",
+      "choices": [
+        "Writing invitations.",
+        "Building the model bridge.",
+        "Painting the room."
+      ],
+      "answerIndex": 1,
+      "feedback": "The children built the model bridge themselves is an emphatic use of a reflexive."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Before the ceremony, she prepared herself for several difficult questions.",
+      "prompt": "Transcribe the two-word reflexive verb phrase after she.",
+      "acceptedAnswers": [
+        "prepared herself"
+      ],
+      "feedback": "Prepared herself means she made herself ready."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "After the final presentation, I finally felt proud of myself.",
+      "prompt": "Transcribe the three-word expression after felt.",
+      "acceptedAnswers": [
+        "proud of myself"
+      ],
+      "feedback": "Proud of myself uses a reflexive because the feeling refers to the speaker."
+    }
+  ]
+}

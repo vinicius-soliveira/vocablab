@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u094",
+  "title": "Multi-word Verbs and Object Placement",
+  "level": "C1",
+  "topicId": "eg3-u094-multi-word-verbs-word-order",
+  "summary": "Use the word-order patterns of two- and three-part verbs: separate movable particles from fixed prepositions, put pronoun objects in the required position, and recognise when a particle must remain attached to the verb phrase. Keep object placement and meaning accurate in spoken and written English.",
+  "learningObjectives": [
+    "Distinguish intransitive multi-word verbs, transitive verb–particle combinations and verb–preposition combinations.",
+    "Position noun objects flexibly but pronoun objects between the verb and a separable particle.",
+    "Keep the object after the preposition in inseparable two-part and three-part constructions.",
+    "Recognise less flexible patterns where the object must appear between the verb and particle, and choose natural word order."
+  ],
+  "explanation": [
+    {
+      "heading": "Multi-word verbs do not all behave alike",
+      "body": "A multi-word verb combines a verb with one or more short words that change or complete its meaning. An intransitive pattern, such as grow up, needs no direct object. Transitive patterns take objects, but their order differs: a particle can be movable, while a genuine preposition typically remains immediately before its object. Meaning and grammar must be learnt together.",
+      "example": "The actor grew up abroad, but her assistant looked after the equipment."
+    },
+    {
+      "heading": "Some two-part verbs are intransitive",
+      "body": "A verb like turn up can have different meanings in different frames: an unexpected guest can turn up, while someone can turn up a volume control. Do not assume that the same sequence is always transitive or that a particle always introduces an object. Check whether the meaning is to arrive, to increase, or something else.",
+      "example": "The presenter turned up unexpectedly; the engineer then turned up the microphone volume."
+    },
+    {
+      "heading": "Movable particles: nouns are flexible, pronouns are not",
+      "body": "With separable transitive verbs such as switch off, write down and carry out, a short noun phrase can generally appear before or after the particle. A personal pronoun object must appear between the verb and the particle: switch it off, not switch off it. Long or complex noun phrases may sound more natural after the particle.",
+      "example": "Please write down the address, or write the address down; above all, write it down."
+    },
+    {
+      "heading": "Not every two-part construction is separable",
+      "body": "With prepositional verbs such as look after, run into and approve of, the object comes after the preposition: look after them, never look them after. A few other combinations, such as hear somebody out or tell two people apart, require the object between the verb and particle. Identical-looking short words can have different grammatical roles across different verbs.",
+      "example": "We ran into a neighbour, and the interviewer heard her out before responding."
+    },
+    {
+      "heading": "Three-part verbs keep the object at the end",
+      "body": "Many verb + particle + preposition combinations, including put up with, look forward to and catch up with, place their object after the final preposition. The object can be a noun or pronoun; if an -ing clause follows a preposition, use -ing rather than an infinitive, as in look forward to meeting. Do not shift the pronoun into the middle just because another two-part verb allows that order.",
+      "example": "I cannot put up with the delays, but I look forward to meeting the new team."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Separable particles with a pronoun versus a noun",
+      "left": {
+        "label": "Pronoun between verb and particle",
+        "example": "Turn it off before you leave.",
+        "note": "The short object it cannot follow off in this meaning."
+      },
+      "right": {
+        "label": "Noun can move",
+        "example": "Turn the fan off before you leave.",
+        "note": "Turn off the fan is equally grammatical; a noun allows both orders."
+      }
+    },
+    {
+      "title": "A movable particle versus a fixed preposition",
+      "left": {
+        "label": "Verb + movable particle",
+        "example": "The technician wrote the code down.",
+        "note": "Wrote down the code also works; the particle is movable."
+      },
+      "right": {
+        "label": "Verb + fixed preposition",
+        "example": "The technician looked after the trainee.",
+        "note": "Looked the trainee after is not a possible reordering."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The flight took off shortly after sunrise.",
+      "note": "Take off is intransitive here, so there is no object to reposition."
+    },
+    {
+      "sentence": "The assistant filled in the form and then filed it away.",
+      "note": "A noun can follow the particle in fill in, but the pronoun it precedes away in a separable pattern."
+    },
+    {
+      "sentence": "The organisers called the ceremony off because of the storm.",
+      "note": "Called off can place its noun object before the particle."
+    },
+    {
+      "sentence": "Jules ran into an old friend outside the gallery.",
+      "note": "Run into meaning encounter is inseparable; its object follows into."
+    },
+    {
+      "sentence": "We are looking forward to seeing the results.",
+      "note": "Look forward to is a three-part expression whose final to is followed by -ing."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Please turn on it before the audience arrives.",
+      "correct": "Please turn it on before the audience arrives.",
+      "why": "A pronoun object appears between turn and the separable particle on."
+    },
+    {
+      "incorrect": "The volunteers looked the children after all afternoon.",
+      "correct": "The volunteers looked after the children all afternoon.",
+      "why": "Look after is inseparable; the object follows after."
+    },
+    {
+      "incorrect": "The board put the unexpected costs up with.",
+      "correct": "The board put up with the unexpected costs.",
+      "why": "The object of put up with must follow the final preposition with."
+    },
+    {
+      "incorrect": "The mediator heard out her before deciding.",
+      "correct": "The mediator heard her out before deciding.",
+      "why": "Hear someone out normally places the object between the verb and the particle."
+    }
+  ],
+  "studyTips": [
+    "For each multi-word verb, record whether it takes an object and, if so, where a pronoun must go.",
+    "Test a movable particle by replacing a noun phrase with it or them; a valid separable pattern places that pronoun before the particle.",
+    "Contrast look after, turn off and put up with by rewriting complete sentences with pronoun objects, not just memorising their meanings."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The projector is off. Choose the only natural order for a pronoun object: \"Please ___ before the talk.\"",
+      "choices": [
+        "turn on it",
+        "turn it on",
+        "turn it off"
+      ],
+      "answerIndex": 1,
+      "feedback": "In the separable verb turn on, the pronoun it must come between the verb and particle."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Replace \"her younger brother\" with him. Which sentence correctly uses look after?",
+      "choices": [
+        "She looked him after while her parents were away.",
+        "She looked him up while her parents were away.",
+        "She looked after him while her parents were away."
+      ],
+      "answerIndex": 2,
+      "feedback": "Look after is inseparable, so the pronoun follows after."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The organisers cancelled the event because of the storm. Which multi-word verb has that meaning in \"The event was ___\"?",
+      "choices": [
+        "called off",
+        "called in",
+        "called on"
+      ],
+      "answerIndex": 0,
+      "feedback": "Call off means cancel; the event was called off is a correct passive form."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct word order: \"I cannot ___ these delays any longer.\"",
+      "choices": [
+        "put them up with",
+        "put up with them",
+        "put with them up"
+      ],
+      "answerIndex": 1,
+      "feedback": "Put up with is a three-part construction whose object follows with."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Arrange the words as a verb phrase: \"Please ___ (write / it / down) before the interview.\"",
+      "acceptedAnswers": [
+        "write it down"
+      ],
+      "feedback": "A pronoun must separate the verb write from its particle down."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Arrange the words to mean encountered unexpectedly: \"I ___ (ran / into / my tutor) at the station.\"",
+      "acceptedAnswers": [
+        "ran into my tutor"
+      ],
+      "feedback": "Run into is inseparable in the meaning encounter; its object follows into."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Arrange the words: \"I cannot ___ (tell / the twins / apart) in those costumes.\"",
+      "acceptedAnswers": [
+        "tell the twins apart"
+      ],
+      "feedback": "Tell people apart requires its object between tell and apart."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete using the exact four words in order: \"We ___ (looked / forward / to / hearing) the results.\"",
+      "acceptedAnswers": [
+        "looked forward to hearing"
+      ],
+      "feedback": "To in looked forward to is a preposition; hearing is the required -ing form."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the pronoun position: \"I switched off it before leaving.\"",
+      "acceptedAnswers": [
+        "I switched it off before leaving."
+      ],
+      "feedback": "In switch off, the pronoun object comes before the separable particle."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the verb–preposition order: \"We looked the complaint into during the meeting.\"",
+      "acceptedAnswers": [
+        "We looked into the complaint during the meeting."
+      ],
+      "feedback": "Look into meaning investigate does not allow an object between look and into."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the three-part verb: \"The supervisor put the interruptions up with for months.\"",
+      "acceptedAnswers": [
+        "The supervisor put up with the interruptions for months."
+      ],
+      "feedback": "Put up with takes its object after with."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the word order with a pronoun: \"The mediator heard out her before answering.\"",
+      "acceptedAnswers": [
+        "The mediator heard her out before answering."
+      ],
+      "feedback": "Hear someone out takes its object between heard and out."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Replace the noun phrase with a pronoun. Original: \"Turn off the alarm.\" Say the imperative with \"it\".",
+      "acceptedAnswers": [
+        "Turn it off."
+      ],
+      "feedback": "Turn it off places the pronoun between the verb and movable particle."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Replace \"the interns\" with \"them\". Original: \"The editor looked after the interns.\"",
+      "acceptedAnswers": [
+        "The editor looked after them."
+      ],
+      "feedback": "Look after has a fixed preposition before its object."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Report the cancellation. Facts: \"The event / be / called off / yesterday.\" Use the past simple passive.",
+      "acceptedAnswers": [
+        "The event was called off yesterday."
+      ],
+      "feedback": "Was called off is a passive form meaning was cancelled."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Give an instruction using the movable particle on and the noun phrase \"the lights\". Use this word order: Turn / the lights / on.",
+      "acceptedAnswers": [
+        "Turn the lights on."
+      ],
+      "feedback": "A noun object can appear before on in this separable construction."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Correct the spoken sentence: \"I cannot put it up with.\"",
+      "acceptedAnswers": [
+        "I cannot put up with it.",
+        "I can't put up with it."
+      ],
+      "feedback": "Put up with is three-part and keeps the object after with."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Paraphrase \"I met my colleague unexpectedly at the station\" with \"ran into\". Start with \"I\".",
+      "acceptedAnswers": [
+        "I ran into my colleague at the station."
+      ],
+      "feedback": "Run into means meet unexpectedly and is inseparable."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Use \"tell ... apart\" to express this meaning. Facts: I / cannot / tell / the siblings / apart.",
+      "acceptedAnswers": [
+        "I cannot tell the siblings apart.",
+        "I can't tell the siblings apart."
+      ],
+      "feedback": "Tell the siblings apart places the object between the verb and particle."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two full sentences in order using the exact facts. First: I / grow up / near the coast (past simple). Second: We / look after / the dog (past simple).",
+      "acceptedAnswers": [
+        "I grew up near the coast. We looked after the dog."
+      ],
+      "feedback": "Grew up is intransitive, while looked after takes an object after the preposition."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The technician turned the monitor off but left the network switch running throughout the afternoon.",
+      "prompt": "Which device did the technician turn off?",
+      "choices": [
+        "The network switch",
+        "The monitor",
+        "Both devices"
+      ],
+      "answerIndex": 1,
+      "feedback": "Turned the monitor off identifies the only device switched off."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I looked after my sister’s cat while she was away. Our neighbour, meanwhile, watered the plants.",
+      "prompt": "What did the speaker take care of?",
+      "choices": [
+        "The plants",
+        "The neighbour’s dog",
+        "The sister’s cat"
+      ],
+      "answerIndex": 2,
+      "feedback": "Looked after the cat means cared for it during the sister’s absence."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The speaker asked us to write it down before leaving the room.",
+      "prompt": "Transcribe the exact three-word verb phrase beginning with \"write\".",
+      "acceptedAnswers": [
+        "write it down"
+      ],
+      "feedback": "Write it down puts a pronoun between the verb and particle."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The conference was called off after the venue lost power, but its workshops will be rescheduled for next month.",
+      "prompt": "What happened to the conference?",
+      "choices": [
+        "It was cancelled",
+        "It started early",
+        "It moved outdoors immediately"
+      ],
+      "answerIndex": 0,
+      "feedback": "Was called off indicates cancellation, while the workshops will be rescheduled."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Maya ran into her former teacher at the railway station and they spoke briefly before the train arrived.",
+      "prompt": "Where did Maya meet her former teacher?",
+      "choices": [
+        "At a school reunion",
+        "At the railway station",
+        "At the teacher’s home"
+      ],
+      "answerIndex": 1,
+      "feedback": "Ran into means met unexpectedly; the station is explicitly named as the location."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The manager put up with unreliable deliveries for three months before choosing a different supplier.",
+      "prompt": "What did the manager tolerate?",
+      "choices": [
+        "Repeated late reports from staff",
+        "A series of customer complaints",
+        "Unreliable deliveries"
+      ],
+      "answerIndex": 2,
+      "feedback": "Put up with means tolerate, and the problem was unreliable deliveries."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Everyone looked forward to hearing the final results at the closing meeting.",
+      "prompt": "Transcribe the exact four-word phrase beginning with \"looked\".",
+      "acceptedAnswers": [
+        "looked forward to hearing"
+      ],
+      "feedback": "The final to is a preposition, followed by the -ing form hearing."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The coach told the players apart by checking the numbers on their shirts.",
+      "prompt": "Transcribe the exact four-word phrase beginning with \"told\".",
+      "acceptedAnswers": [
+        "told the players apart"
+      ],
+      "feedback": "Told the players apart places its object between the verb and particle."
+    }
+  ]
+}

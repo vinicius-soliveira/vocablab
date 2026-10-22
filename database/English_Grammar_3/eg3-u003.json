@@ -1,0 +1,407 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u003",
+  "title": "Past Simple and Present Perfect: Time Frames and Discourse",
+  "level": "C1",
+  "topicId": "eg3-u003-past-simple-and-present-perfect",
+  "summary": "Choose between the past simple and present perfect by interpreting whether a reference period is complete, how a since-clause relates to the present, and whether a clause refers to a completed past event or a future milestone.",
+  "learningObjectives": [
+    "Interpret this morning, this week and today as either completed or still-open reference periods.",
+    "Use past-simple and present-perfect clauses after since according to whether an event occurred once or a situation continues.",
+    "Choose tenses in past and future time clauses, including after, once, by the time and the moment.",
+    "Move between a present-perfect news lead, past-tense details and first-time constructions with accurate time reference."
+  ],
+  "explanation": [
+    {
+      "heading": "An expression such as today does not choose the tense for you",
+      "body": "Expressions including this morning, today and this month can describe a period that has ended for the speaker or one that still includes the moment of speaking. In the first reading, past simple is natural for a finished occurrence; with an open period, present perfect can connect a past occurrence to now. The situation and variety of English also matter: do not treat these expressions as mechanical tense triggers.",
+      "example": "It is still early, and I have answered four enquiries this morning."
+    },
+    {
+      "heading": "Since normally separates a starting point from a continuing result",
+      "body": "A since-clause often names a completed event that started a period, so the time clause uses the past simple and the main clause uses the present perfect. When the since-clause itself names a situation extending to the present, its present perfect can be appropriate. Distinguish the moment something began from the state or activity that has continued.",
+      "example": "Since the exhibition opened, attendance has risen; visitors have stayed longer since the gallery has been offering guided tours."
+    },
+    {
+      "heading": "Finished past events and future completion in time clauses",
+      "body": "After, when, once, until, by the time and the moment can introduce time clauses. To refer to a completed past event, we commonly use the past simple; past perfect is sometimes possible when prior completion needs emphasis. In a future-oriented time clause, we do not normally use will to mark the future: present simple or present perfect may be used, with present perfect highlighting completion before the following action.",
+      "example": "Once the reviewers have approved the design, we will release the drawings."
+    },
+    {
+      "heading": "News reports introduce a result and then supply its history",
+      "body": "A news item can introduce a recent development in the present perfect, then switch to the past simple to report when and how it happened. The present perfect foregrounds the current relevance of the news; the past simple locates details in a finished past period. This is a common pattern, not a rule requiring every news report to begin with the present perfect.",
+      "example": "The gallery has announced a new director. The trustees selected her at a meeting on Monday."
+    },
+    {
+      "heading": "First-time constructions look backward from a reference point",
+      "body": "With This is the first time and This will be the first time, the following clause commonly uses the present perfect. When the reference point is explicitly in the past, as in It was the first time, we commonly use the past perfect. The perfect form signals an experience considered relative to that reference point, rather than simply naming the time of an isolated event.",
+      "example": "This will be the first time Maya has presented the proposal alone; last year was the first time she had chaired a meeting."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Closed period versus period still open",
+      "left": {
+        "label": "Finished reference period",
+        "example": "I sent the invoices this morning.",
+        "note": "The speaker treats the morning as over."
+      },
+      "right": {
+        "label": "Ongoing reference period",
+        "example": "I have sent the invoices this morning.",
+        "note": "The morning is still in progress for the speaker."
+      }
+    },
+    {
+      "title": "An event that starts a period versus a state that continues",
+      "left": {
+        "label": "Since + past simple event",
+        "example": "The service has improved since the new manager arrived.",
+        "note": "Arrived identifies a completed starting event."
+      },
+      "right": {
+        "label": "Since + present perfect situation",
+        "example": "The service has improved since the team has been working remotely.",
+        "note": "Has been working presents a situation continuing up to now."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The office closed at noon, so we completed the inspection this morning.",
+      "note": "The speaker presents this morning as a finished time period."
+    },
+    {
+      "sentence": "It is only ten o’clock, and the help desk has resolved six requests this morning.",
+      "note": "The reference period is still open."
+    },
+    {
+      "sentence": "Our response time has fallen since we introduced the new ticket system.",
+      "note": "A past-simple event marks the start of a period continuing to the present."
+    },
+    {
+      "sentence": "As soon as the committee has reached a decision, we will publish the outcome.",
+      "note": "Present perfect in a future time clause emphasises prior completion."
+    },
+    {
+      "sentence": "This is the first time the orchestra has performed in this venue.",
+      "note": "Present perfect measures an experience up to the current occasion."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Since the company has launched the portal last October, enquiries have doubled.",
+      "correct": "Since the company launched the portal last October, enquiries have doubled.",
+      "why": "The launch is a dated completed event that introduces the period; the doubling extends to the present."
+    },
+    {
+      "incorrect": "We will email the certificates once the trainer will have signed them.",
+      "correct": "We will email the certificates once the trainer has signed them.",
+      "why": "Use a present form in an ordinary future time clause; the present perfect emphasises completion."
+    },
+    {
+      "incorrect": "The museum has opened a new gallery yesterday.",
+      "correct": "The museum opened a new gallery yesterday.",
+      "why": "Yesterday places the opening in a finished past period, so the past simple is required."
+    },
+    {
+      "incorrect": "It was the first time that he has spoken at an international conference.",
+      "correct": "It was the first time that he had spoken at an international conference.",
+      "why": "With a past reference point, the earlier experience is normally expressed using the past perfect."
+    }
+  ],
+  "studyTips": [
+    "Before selecting a tense with today or this morning, decide whether the speaker regards that period as finished.",
+    "Underline both clauses with since; label the completed starting event and the continuing situation separately.",
+    "Write a three-sentence news brief with a present-perfect lead, dated past-simple detail and a first-time statement."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "It is 9:30 a.m. and the shift continues. Which update best connects completed checks to the still-open morning?",
+      "choices": [
+        "We completed five checks this morning.",
+        "We have completed five checks this morning.",
+        "We had completed five checks this morning."
+      ],
+      "answerIndex": 1,
+      "feedback": "Have completed links the five finished checks to the morning that is still in progress; a past-simple version is possible in some varieties, but the present perfect makes the open-period reading explicit."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The new website went live in March, and registrations are still rising. Which sentence uses since most naturally?",
+      "choices": [
+        "Since the website has gone live in March, registrations increased.",
+        "Since the website goes live in March, registrations have risen.",
+        "Since the website went live in March, registrations have risen."
+      ],
+      "answerIndex": 2,
+      "feedback": "Went live locates the completed launch in March; have risen expresses the change from then until now."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "A manager is speaking about next week. Which time clause correctly stresses completion before the announcement?",
+      "choices": [
+        "Once the auditors have finished their review, we will announce the result.",
+        "Once the auditors will have finished their review, we will announce the result.",
+        "Once the auditors had finished their review, we will announce the result."
+      ],
+      "answerIndex": 0,
+      "feedback": "Have finished is a future-oriented present perfect inside a time clause; the main clause contains will."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "A reporter mentions a new discovery and then specifies that the investigation took place on Tuesday. Which pair fits this structure?",
+      "choices": [
+        "Researchers were discovering a flaw. They have confirmed it on Tuesday.",
+        "Researchers have discovered a flaw. They confirmed it on Tuesday.",
+        "Researchers had discovered a flaw. They have confirmed it on Tuesday."
+      ],
+      "answerIndex": 1,
+      "feedback": "Have discovered introduces the current news; confirmed on Tuesday supplies a dated past detail."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The library ___ (extend) its opening hours this week, and the revised timetable remains in effect. Write the present-perfect verb phrase.",
+      "acceptedAnswers": [
+        "has extended"
+      ],
+      "feedback": "Has extended connects a change to its current result in a period presented as open."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "We have worked with the supplier since it ___ (open) its regional office in 2021. Write the past-simple verb.",
+      "acceptedAnswers": [
+        "opened"
+      ],
+      "feedback": "The dated opening is the starting event, expressed with opened."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We will admit the visitors once the guides ___ (prepare) the rooms. Write the present-perfect verb phrase.",
+      "acceptedAnswers": [
+        "have prepared"
+      ],
+      "feedback": "In this future-oriented once-clause, have prepared highlights completion before admission; will have prepared does not belong here."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "This is the first time our department ___ (host) an international workshop. Write the present-perfect verb phrase.",
+      "acceptedAnswers": [
+        "has hosted"
+      ],
+      "feedback": "Has hosted follows the current first-time reference point."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the tense in this sentence: The press office has issued its statement last Friday.",
+      "acceptedAnswers": [
+        "The press office issued its statement last Friday."
+      ],
+      "feedback": "Last Friday names a completed period, requiring issued."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the tense in the future time clause: I will send the figures after I will have checked them.",
+      "acceptedAnswers": [
+        "I will send the figures after I have checked them."
+      ],
+      "feedback": "The after-clause uses present perfect, not will have checked."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the starting event after since: Production has stabilised since the factory has reopened in April.",
+      "acceptedAnswers": [
+        "Production has stabilised since the factory reopened in April."
+      ],
+      "feedback": "The reopening in April is a dated past event, not a continuing event."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the tense after the past first-time reference: It was the first time Lena has travelled by ferry.",
+      "acceptedAnswers": [
+        "It was the first time Lena had travelled by ferry."
+      ],
+      "feedback": "Had travelled marks experience prior to the past reference point."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "A report refers to an event last Monday. Exact facts: The panel / approve / the changes / last Monday. State the fact in the past simple.",
+      "acceptedAnswers": [
+        "The panel approved the changes last Monday."
+      ],
+      "feedback": "Approved locates the approval on a completed date."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "The week is still in progress. Exact facts: We / receive / four applications / this week. Use the present perfect.",
+      "acceptedAnswers": [
+        "We have received four applications this week.",
+        "We've received four applications this week."
+      ],
+      "feedback": "Have received links the four applications to the ongoing week."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Give the starting event and continuing result. Facts: The team / improve / since / it / adopt / a new process. Begin with \"The team has improved\".",
+      "acceptedAnswers": [
+        "The team has improved since it adopted a new process."
+      ],
+      "feedback": "Has improved continues to now; adopted is the completed initiating event."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You are describing a future step. Exact facts: We / publish / the agenda / once / the chair / approve / it. Use will in the main clause and present perfect after once.",
+      "acceptedAnswers": [
+        "We will publish the agenda once the chair has approved it.",
+        "We'll publish the agenda once the chair has approved it."
+      ],
+      "feedback": "Has approved marks completion before the future publication."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Describe the current first-time experience. Facts: This / be / the first time / I / visit / the observatory. Use is and present perfect.",
+      "acceptedAnswers": [
+        "This is the first time I have visited the observatory.",
+        "This is the first time I've visited the observatory."
+      ],
+      "feedback": "The present perfect describes experience counted up to this occasion."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Give a brief news lead. Exact facts: The university / announce / a new scholarship. Use the present perfect.",
+      "acceptedAnswers": [
+        "The university has announced a new scholarship."
+      ],
+      "feedback": "Has announced introduces recently relevant news."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the sentence aloud: \"We have met the coordinator yesterday.\" Keep yesterday.",
+      "acceptedAnswers": [
+        "We met the coordinator yesterday."
+      ],
+      "feedback": "Yesterday takes the past simple met."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two sentences in this exact order, using full forms. News lead: The council / approve / the scheme (present perfect). Detail: They / vote / on Tuesday (past simple).",
+      "acceptedAnswers": [
+        "The council has approved the scheme. They voted on Tuesday."
+      ],
+      "feedback": "The present-perfect lead announces news; voted on Tuesday places the detail in past time."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "It is still Thursday morning, and we have received nine responses since breakfast.",
+      "prompt": "What does the speaker imply about the reference period?",
+      "choices": [
+        "The morning is still continuing.",
+        "The responses arrived last year.",
+        "The morning ended yesterday."
+      ],
+      "answerIndex": 0,
+      "feedback": "Still Thursday morning and have received explicitly make this a continuing reference period."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Since the research centre opened its new wing in 2022, visitor numbers have increased steadily.",
+      "prompt": "Which event began the period of increasing visitor numbers?",
+      "choices": [
+        "A recent fall in visitor numbers.",
+        "The opening of the new wing in 2022.",
+        "The closure of the research centre."
+      ],
+      "answerIndex": 1,
+      "feedback": "Opened in 2022 is the dated starting event; have increased describes the trend since."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "This is the first time our team has completed the inspection without outside help.",
+      "prompt": "Type the three-word phrase immediately after “our team”.",
+      "acceptedAnswers": [
+        "has completed the"
+      ],
+      "feedback": "Has completed the is the present-perfect phrase beginning the clause about a first-time experience."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The charity has announced a new programme. Its directors agreed the funding at their meeting last Friday.",
+      "prompt": "Which detail belongs to a finished past time?",
+      "choices": [
+        "The announcement has no relevance now.",
+        "The programme is being cancelled next month.",
+        "The directors agreed the funding last Friday."
+      ],
+      "answerIndex": 2,
+      "feedback": "The dated agreement is in the past simple, while the announcement is presented as current news."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Once the technicians have finished the final checks, the venue will admit its first visitors.",
+      "prompt": "What must happen before visitors can enter?",
+      "choices": [
+        "The technicians must complete the final checks.",
+        "Visitors must leave the venue.",
+        "The checks will begin after admission."
+      ],
+      "answerIndex": 0,
+      "feedback": "Have finished in the once-clause sets a completion condition before admission."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "This was the first time Priya had addressed the entire board without notes.",
+      "prompt": "From what time perspective is the experience being counted?",
+      "choices": [
+        "A future appointment.",
+        "A past occasion.",
+        "An event still happening now."
+      ],
+      "answerIndex": 1,
+      "feedback": "Was and had addressed count the earlier experience relative to a past occasion."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The institute has invested in three new laboratories this year.",
+      "prompt": "Type the two-word verb phrase immediately after “The institute”.",
+      "acceptedAnswers": [
+        "has invested"
+      ],
+      "feedback": "Has invested expresses a completed change with present relevance."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We will begin the briefing after everyone has arrived.",
+      "prompt": "Type the two-word verb phrase following “everyone”.",
+      "acceptedAnswers": [
+        "has arrived"
+      ],
+      "feedback": "Has arrived marks completed arrival in a future-oriented time clause."
+    }
+  ]
+}

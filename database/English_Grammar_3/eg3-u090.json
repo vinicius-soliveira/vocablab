@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u090",
+  "title": "Prepositions of Time: Periods, Deadlines and Endpoints",
+  "level": "C1",
+  "topicId": "eg3-u090-prepositions-of-time",
+  "summary": "Choose during, in, over and throughout according to whether an event occurs within a period or continues across it. Distinguish duration and deadline expressions with until, by and up to, and separate completed periods ending now from developing records described with so far or to date.",
+  "learningObjectives": [
+    "Select natural time prepositions for events occurring within periods, including during a visit or a meeting.",
+    "Contrast events inside a period with processes extending over a period and actions continuing throughout it.",
+    "Distinguish until for continuing states or activities from by for a latest completion deadline.",
+    "Use up to now, until now, so far and to date with attention to whether a situation has ended or still continues."
+  ],
+  "explanation": [
+    {
+      "heading": "During and in place events inside a period",
+      "body": "During and in can both place an event or situation within a broad period, although in is often the most neutral choice with calendar expressions such as in October or in 2027. During is preferred before event nouns, especially for an occurrence within a visit, lesson, meeting, meal, holiday, treatment or break. Neither form alone guarantees that an activity filled the entire period.",
+      "example": "We met during a conference in October and discussed the plan during lunch."
+    },
+    {
+      "heading": "Over, during and throughout are not identical",
+      "body": "Over and during often overlap when describing developments extending through days, weeks or years; over especially suits change or activity considered across an interval. For a brief occurrence in the middle of a longer event, during is more natural than over. Throughout makes the stronger claim that something continued, recurred or held across the whole period, with no significant interval excluded by the intended meaning.",
+      "example": "Demand increased over the autumn, but attendance remained high throughout the season."
+    },
+    {
+      "heading": "Until marks continuation; by sets a latest time",
+      "body": "Until indicates how long a state or activity continues, usually up to a stated point. By marks a deadline: an event or task must be completed no later than that point. Compare stay until six with arrive by six; arrival is an event, not a continuing state. A negative instruction not to leave until six describes the earliest permissible departure, whereas complete by six gives the latest permitted completion time.",
+      "example": "Please remain at your desk until five and submit the form by five."
+    },
+    {
+      "heading": "Up to, till and now-facing expressions",
+      "body": "In informal use, up to before a noun phrase and till before a noun phrase or clause can sometimes replace until. Up to is not normally used directly before a finite clause. Up to now often describes an earlier span ending at the present and may serve as a time boundary without asserting that the situation changed. Until now commonly invites an interpretation that something has just changed; it is less suitable for a record expected to keep developing. The context, tense and intended change all matter.",
+      "example": "Until now, the workshop had met on Tuesdays; its sessions are moving to Thursdays."
+    },
+    {
+      "heading": "So far and to date describe an ongoing perspective",
+      "body": "So far and the more formal to date summarise progress or evidence available at the present stage, often with the present perfect. They fit records that may continue into the future. Use until now instead when drawing attention to a situation that held before but has now stopped or altered; do not mechanically substitute until now for so far in an ongoing tally.",
+      "example": "To date, twenty applicants have completed the assessment, and more interviews are scheduled."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "An event within a period versus activity across the whole period",
+      "left": {
+        "label": "During: at some point",
+        "example": "A question came up during the lecture.",
+        "note": "During locates a short occurrence within the lecture."
+      },
+      "right": {
+        "label": "Throughout: whole interval",
+        "example": "The projector stayed on throughout the lecture.",
+        "note": "Throughout emphasises the projector remaining on for the lecture as a whole."
+      }
+    },
+    {
+      "title": "A latest deadline versus a continuing activity",
+      "left": {
+        "label": "By: no later than",
+        "example": "Send the signed agreement by Monday.",
+        "note": "The agreement must be sent no later than Monday."
+      },
+      "right": {
+        "label": "Until: continue to",
+        "example": "Keep the agreement in the folder until Monday.",
+        "note": "The agreement stays in the folder up to Monday."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The alarm sounded during the dinner break.",
+      "note": "During is natural before an event noun and the alarm need not last for the entire break."
+    },
+    {
+      "sentence": "The number of applications grew steadily over the following months.",
+      "note": "Over views the gradual change across an extended interval."
+    },
+    {
+      "sentence": "The clinic remained open throughout the public holiday.",
+      "note": "Throughout emphasises a state holding over the entire holiday."
+    },
+    {
+      "sentence": "We must deliver the documents by midday, but we can stay until the office closes.",
+      "note": "By sets a deadline; until marks the endpoint of remaining somewhere."
+    },
+    {
+      "sentence": "So far, the feedback has been positive, and the survey is still open.",
+      "note": "So far summarises the evidence available to this stage, not a finished period."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "A brief announcement was made over the meeting.",
+      "correct": "A brief announcement was made during the meeting.",
+      "why": "For one short event occurring within a meeting, during is the natural preposition."
+    },
+    {
+      "incorrect": "The receptionist will remain on duty by midnight.",
+      "correct": "The receptionist will remain on duty until midnight.",
+      "why": "Remaining on duty is a continuing state and requires an endpoint, until, not a completion deadline."
+    },
+    {
+      "incorrect": "Please complete the application until Thursday.",
+      "correct": "Please complete the application by Thursday.",
+      "why": "Completing an application has a latest permissible deadline, expressed with by."
+    },
+    {
+      "incorrect": "Until now, twenty-six patients have registered, and more are expected later today.",
+      "correct": "So far, twenty-six patients have registered, and more are expected later today.",
+      "why": "So far is more natural for a count that is still accumulating; until now can suggest that circumstances have changed."
+    }
+  ],
+  "studyTips": [
+    "For each time phrase, ask whether it describes a short event, a development across an interval, or an entire period; then test during, over and throughout.",
+    "Create paired instructions with remain until and finish by to check that you can express continuing activities and latest deadlines separately.",
+    "Practise one changed situation with until now and one accumulating result with so far or to date; explain why the meaning changes."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A visitor briefly lost her badge ___ the conference. Which is the most natural option for an event occurring within the conference?",
+      "choices": [
+        "throughout",
+        "over",
+        "during"
+      ],
+      "answerIndex": 2,
+      "feedback": "During locates the brief loss within an event; throughout would wrongly imply continuous occurrence."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The laboratory remained operational ___ the entire winter, with no interruption. Which form most clearly emphasises continuity?",
+      "choices": [
+        "throughout",
+        "by",
+        "at"
+      ],
+      "answerIndex": 0,
+      "feedback": "Throughout explicitly emphasises continuity over the whole period."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "We must receive the signed contract ___ Friday at the latest. Choose the deadline preposition.",
+      "choices": [
+        "until",
+        "by",
+        "during"
+      ],
+      "answerIndex": 1,
+      "feedback": "By Friday means no later than Friday."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The team is still collecting responses. \"___, we have received eighty completed forms.\" Choose the most natural phrase.",
+      "choices": [
+        "Until now",
+        "So far",
+        "By now and no later"
+      ],
+      "answerIndex": 1,
+      "feedback": "So far reports an accumulating count that may continue to rise."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Fill one word: \"The assistant stepped outside briefly ___ the presentation.\" Refer to one short event inside it.",
+      "acceptedAnswers": [
+        "during"
+      ],
+      "feedback": "During is preferred for a short event within the presentation."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Fill one word: \"The engineer stayed on site ___ the last inspection was finished.\" Express the endpoint of continued presence.",
+      "acceptedAnswers": [
+        "until"
+      ],
+      "feedback": "Stayed on site describes continuation up to the inspection endpoint."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Fill one word: \"The final proposal must be submitted ___ noon tomorrow.\" Express a latest deadline.",
+      "acceptedAnswers": [
+        "by"
+      ],
+      "feedback": "By establishes a latest completion time."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Fill the exact two-word phrase: \"___, twelve participants have completed the survey, and more are expected.\" Summarise progress to the present stage.",
+      "acceptedAnswers": [
+        "So far"
+      ],
+      "feedback": "So far describes a current tally that can still increase."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the preposition for a brief occurrence: \"Someone knocked on the door over the seminar.\"",
+      "acceptedAnswers": [
+        "Someone knocked on the door during the seminar."
+      ],
+      "feedback": "A one-off knock inside the event takes during more naturally than over."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the endpoint expression: \"The guide remained with the visitors by sunset.\"",
+      "acceptedAnswers": [
+        "The guide remained with the visitors until sunset."
+      ],
+      "feedback": "Remain is an ongoing state extending up to sunset, so until marks its endpoint."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the deadline expression: \"Send the corrected copy until Friday.\"",
+      "acceptedAnswers": [
+        "Send the corrected copy by Friday."
+      ],
+      "feedback": "The action must be completed no later than Friday; use by."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the continuing-progress phrase: \"Until now, the team has interviewed eight candidates and expects several more.\"",
+      "acceptedAnswers": [
+        "So far, the team has interviewed eight candidates and expects several more."
+      ],
+      "feedback": "So far is the clearer choice for a running total with more interviews to come."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Report a single event inside a meeting. Exact facts: The alarm / ring / during / the meeting. Use the past simple.",
+      "acceptedAnswers": [
+        "The alarm rang during the meeting."
+      ],
+      "feedback": "During locates a short event within the meeting."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Describe continuity over a whole period. Exact facts: The gallery / remain open / throughout / the weekend. Use the past simple.",
+      "acceptedAnswers": [
+        "The gallery remained open throughout the weekend."
+      ],
+      "feedback": "Throughout highlights the full duration of the weekend."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Give an instruction with a deadline. Exact wording to express: Submit the report / by / Friday. Speak one complete imperative sentence.",
+      "acceptedAnswers": [
+        "Submit the report by Friday."
+      ],
+      "feedback": "By Friday is a deadline, not a duration."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Give an instruction for an ongoing state. Facts: Stay here / until / six. Speak one imperative sentence.",
+      "acceptedAnswers": [
+        "Stay here until six."
+      ],
+      "feedback": "Until six marks the end of the period of staying."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "State a continuing total using these exact facts: so far / we / receive / ten replies. Use the present perfect with have.",
+      "acceptedAnswers": [
+        "So far, we have received ten replies."
+      ],
+      "feedback": "So far pairs naturally with a present-perfect report of accumulating progress."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Correct the instruction aloud: \"Keep the door locked by midnight.\" The door must remain locked up to midnight.",
+      "acceptedAnswers": [
+        "Keep the door locked until midnight."
+      ],
+      "feedback": "A continuing state is expressed with until, not the deadline by."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Describe a change that has just happened. Say exactly: \"Until now, the office was closed on Fridays.\"",
+      "acceptedAnswers": [
+        "Until now, the office was closed on Fridays."
+      ],
+      "feedback": "Until now presents the earlier pattern as one that has changed."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Speak two sentences in this order: first, \"The seminar ends at noon.\" Then, \"Please arrive by eleven.\"",
+      "acceptedAnswers": [
+        "The seminar ends at noon. Please arrive by eleven."
+      ],
+      "feedback": "By eleven gives the latest arrival time; the first statement gives the scheduled end of the event."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "A power cut interrupted the lecture for a moment, but the speaker continued a minute later.",
+      "prompt": "Was the interruption brief or continuous?",
+      "choices": [
+        "Brief",
+        "Continuous throughout the lecture",
+        "Still ongoing at the end of the week"
+      ],
+      "answerIndex": 0,
+      "feedback": "For a short interruption within an event, during the lecture would fit naturally."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The museum remained open throughout the holiday, including the morning and evening hours.",
+      "prompt": "What does the speaker stress about the museum?",
+      "choices": [
+        "It opened only once",
+        "It closed after lunch",
+        "It stayed open across the holiday"
+      ],
+      "answerIndex": 2,
+      "feedback": "Throughout emphasises that the open status continued across the whole holiday."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Please return the access card by Thursday, because the audit starts on Friday.",
+      "prompt": "Transcribe the exact two-word deadline phrase beginning with \"by\".",
+      "acceptedAnswers": [
+        "by Thursday"
+      ],
+      "feedback": "By Thursday is the deadline phrase clearly spoken."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The staff waited until the final guest had left before switching off the lights.",
+      "prompt": "When did the staff stop waiting?",
+      "choices": [
+        "When the last guest left",
+        "At the start of the event",
+        "As soon as the first guest arrived"
+      ],
+      "answerIndex": 0,
+      "feedback": "Until sets the endpoint of the waiting period."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Orders rose over the last three months, with the strongest increase in September.",
+      "prompt": "What happened over the period?",
+      "choices": [
+        "Orders gradually decreased",
+        "Orders increased",
+        "Orders stayed exactly the same"
+      ],
+      "answerIndex": 1,
+      "feedback": "Over the last three months frames a development across an interval."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "So far, fourteen people have registered, and we expect more applications next week.",
+      "prompt": "What does the registration figure represent?",
+      "choices": [
+        "The final and closed total",
+        "A number limited to last year",
+        "The total counted up to the current stage"
+      ],
+      "answerIndex": 2,
+      "feedback": "So far describes a running tally that may still grow."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The director made the announcement during the morning break and then returned to her office.",
+      "prompt": "Transcribe the exact four-word time phrase beginning with \"during\".",
+      "acceptedAnswers": [
+        "during the morning break"
+      ],
+      "feedback": "During the morning break places the short announcement inside the break."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Until now, the studio had closed early on Sundays, but that policy has just changed.",
+      "prompt": "Transcribe the opening two-word time phrase.",
+      "acceptedAnswers": [
+        "Until now"
+      ],
+      "feedback": "Until now introduces the former arrangement, which has just changed."
+    }
+  ]
+}

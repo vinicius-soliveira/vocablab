@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u048",
+  "title": "Some and Any: Reference, Approximation and Negative Contexts",
+  "level": "C1",
+  "topicId": "eg3-u048-some-and-any",
+  "summary": "Distinguish some, any and zero article in indefinite reference; express approximation and unknown identity with stressed some; and select determiners and pronouns according to negative meaning, comparison, and intended scope.",
+  "learningObjectives": [
+    "Choose some or zero article for particular but indefinite plural or uncountable referents, while avoiding some in unrestricted class generalisations.",
+    "Interpret stressed some with numbers as approximately and some with singular count nouns as an unknown or unimportant identity.",
+    "Use any, anyone and anything in negative-meaning contexts and in constructions with before or comparative expressions.",
+    "Explain why some, someone or something can remain appropriate in negative sentences when the intended referent or scope is positive, specific or only partially negated."
+  ],
+  "explanation": [
+    {
+      "heading": "Some, zero article and the generic-reference boundary",
+      "body": "Some and zero article may both introduce an unspecified portion or group in affirmative contexts: we bought some notebooks / we bought notebooks. Some can foreground the limited or indefinite quantity, while the bare plural can simply present what was bought. But a broad statement about a whole class normally uses a bare plural or bare mass noun: forests absorb carbon; information travels fast. Some forests would refer to a subset, not to forests in general.",
+      "example": "After the seminar, the organisers distributed some leaflets, but leaflets are not always the best way to communicate."
+    },
+    {
+      "heading": "Some with numbers and with unidentified individuals",
+      "body": "Some before a number can mean approximately rather than a precise amount: some sixty people attended. With a singular count noun, stressed some may mean a person or thing whose exact identity the speaker does not know, cannot recall or considers unimportant: some caller left a message. A phrase such as some document or other highlights this uncertainty. These are distinctive uses; do not interpret them as ordinary unstressed some meaning a small quantity.",
+      "example": "Some forty guests came, and some visitor or other left a blue umbrella."
+    },
+    {
+      "heading": "Any in negative meaning and non-specific reference",
+      "body": "Any and compounds such as anyone or anything are common in questions, negatives and contexts with negative force: without any notice, hardly any time, unlikely to find any seats, or refuse to answer any questions. Negative verbs, adverbs and adjectives can license any even without not. Any also signals unrestricted choice in affirmative uses such as choose any seat, where the meaning is it does not matter which.",
+      "example": "The organisers were unable to find any spare chairs, so visitors could sit on any available step."
+    },
+    {
+      "heading": "Some despite a negative word: scope and intended meaning",
+      "body": "Do not automatically replace every some with any when a sentence contains not, never or a similar word. Some can remain when only part of a group is negated, when the overall assertion is positive, or when it refers to a particular but unnamed person or thing: some guests did not stay; somebody has not returned the key; I am reluctant to mention something personal. These sentences do not mean the same thing as no guests, nobody or anything.",
+      "example": "Some reviewers did not agree, although most supported the proposal."
+    },
+    {
+      "heading": "Any with before, comparisons and shortened clauses",
+      "body": "Any, anyone and anything commonly occur after before when no particular referent is intended: check the files before anyone deletes them. Comparatives also favour anyone or anything for an unrestricted comparison: faster than anything we tested. Indefinite pronouns can form short conditional-like offers without a full if-clause: Anything you need, just ask. However, someone may be used after before when the speaker has a particular person in mind.",
+      "example": "Finish the calibration before anyone starts the experiment, and report anything unusual."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Entire class versus unspecified subset",
+      "left": {
+        "label": "Generic zero article",
+        "example": "Volunteers need clear instructions.",
+        "note": "The statement concerns volunteers as a class."
+      },
+      "right": {
+        "label": "Some + subset",
+        "example": "Some volunteers asked for extra instructions.",
+        "note": "The speaker refers to an indefinite portion of the group."
+      }
+    },
+    {
+      "title": "Negating everything versus negating only part",
+      "left": {
+        "label": "Any under negative scope",
+        "example": "The survey did not reveal any errors.",
+        "note": "No errors were revealed in this context."
+      },
+      "right": {
+        "label": "Some outside partial negation",
+        "example": "Some of the errors were not serious.",
+        "note": "There were errors, but only part of the group had the stated property."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "After the exhibition, visitors left some comments in the guest book.",
+      "note": "Some comments means an indefinite number of actual comments, not comments in general."
+    },
+    {
+      "sentence": "Mountains can create distinct local climates.",
+      "note": "Bare mountains makes a generic claim, rather than a claim about selected mountains."
+    },
+    {
+      "sentence": "Some seventy applicants attended the briefing.",
+      "note": "Stressed some before a number means approximately."
+    },
+    {
+      "sentence": "Some researcher or other left a notebook beside the projector.",
+      "note": "Some + singular count noun signals that the person’s identity is uncertain or unimportant."
+    },
+    {
+      "sentence": "Hardly any progress was made, but some of the early results were encouraging.",
+      "note": "Hardly licenses any; some of identifies an existing subset of results despite the negative opening."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Some smartphones have batteries, as a general fact about all smartphones.",
+      "correct": "Smartphones have batteries, as a general fact about all smartphones.",
+      "why": "For an unrestricted generalisation about a whole class, use the bare plural smartphones."
+    },
+    {
+      "incorrect": "The meeting began with any fifty people in the room, approximately.",
+      "correct": "The meeting began with some fifty people in the room, approximately.",
+      "why": "Some rather than any before a number can mean approximately."
+    },
+    {
+      "incorrect": "The document was sent without some explanation at all.",
+      "correct": "The document was sent without any explanation at all.",
+      "why": "Without and at all give the phrase negative force, favouring any."
+    },
+    {
+      "incorrect": "I arrived before someone else did, and I do not have a particular person in mind.",
+      "correct": "I arrived before anyone else did, and I do not have a particular person in mind.",
+      "why": "Anyone rather than someone expresses an unrestricted comparison with other people here."
+    }
+  ],
+  "studyTips": [
+    "Check the scope of each statement: does it describe a whole class, a real but indefinite subset, or any member without restriction?",
+    "Say some aloud with light stress for an unspecified quantity, then strong stress when it means approximately or an unidentified singular person.",
+    "Underline words such as hardly, without, unlikely, before and than, but assess the intended meaning before mechanically choosing any."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose a genuine generic statement about all members of a class, with no intended subset.",
+      "choices": [
+        "Some microphones convert sound into electrical signals.",
+        "Microphones convert sound into electrical signals.",
+        "Any microphones convert sound into electrical signals."
+      ],
+      "answerIndex": 1,
+      "feedback": "The bare plural microphones gives the unrestricted class generalisation. Some would limit it to an unspecified subset."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "A speaker estimates a crowd of approximately eighty people. Choose the standard sentence expressing that approximation.",
+      "choices": [
+        "Some eighty people gathered outside.",
+        "Any eighty people gathered outside.",
+        "An eighty people gathered outside."
+      ],
+      "answerIndex": 0,
+      "feedback": "Some before a number can mean roughly or approximately."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Complete a negative-meaning context: \"The inspection finished without ___ delays at all.\"",
+      "choices": [
+        "some",
+        "any",
+        "a"
+      ],
+      "answerIndex": 1,
+      "feedback": "Without and at all support any; some would suggest a different discourse interpretation and is unnatural here."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "No specific person is in mind. Complete: \"Please lock the cabinet before ___ enters the room.\"",
+      "choices": [
+        "someone in particular",
+        "anyone",
+        "a particular visitor"
+      ],
+      "answerIndex": 1,
+      "feedback": "Anyone expresses non-specific reference in the before clause; the other options refer to a particular visitor."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The team bought ___ (notebooks) for the workshop; an unspecified number were purchased. Supply some only.",
+      "acceptedAnswers": [
+        "some"
+      ],
+      "feedback": "Some introduces an indefinite subset or quantity of notebooks."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The speaker estimates about two hundred visitors. Complete: \"___ (two hundred) people attended.\" Write the quantifier and number words.",
+      "acceptedAnswers": [
+        "some two hundred"
+      ],
+      "feedback": "Some before a number communicates an estimate, not an exact count."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The exact person is unknown. Complete: \"___ (visitor or other) took the wrong jacket.\" Write the entire noun phrase beginning with some.",
+      "acceptedAnswers": [
+        "some visitor or other"
+      ],
+      "feedback": "Some visitor or other presents a singular person of unknown or unimportant identity."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the negative-meaning expression: \"We could barely hear ___ (anything) through the wall.\" Write just the pronoun.",
+      "acceptedAnswers": [
+        "anything"
+      ],
+      "feedback": "Barely has negative force, which favours anything rather than something for unrestricted reference."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence: Some bicycles are a form of transport, as a statement defining bicycles in general.",
+      "acceptedAnswers": [
+        "Bicycles are a form of transport, as a statement defining bicycles in general."
+      ],
+      "feedback": "Bare plural bicycles makes the generic statement without suggesting merely a subset."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence: Any sixty guests arrived, give or take a few.",
+      "acceptedAnswers": [
+        "Some sixty guests arrived, give or take a few."
+      ],
+      "feedback": "Some sixty indicates approximation; any does not carry that meaning."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence: The contractor refused to provide some evidence at all.",
+      "acceptedAnswers": [
+        "The contractor refused to provide any evidence at all."
+      ],
+      "feedback": "The negative verb refused together with at all favours any."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence: The runner finished faster than someone else in the whole field; the comparison is with everyone.",
+      "acceptedAnswers": [
+        "The runner finished faster than anyone else in the whole field; the comparison is with everyone."
+      ],
+      "feedback": "Anyone else makes the comparison unrestricted; someone else would imply only one unspecified person."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Describe an unspecified, actual quantity. Facts: We / bought / some flowers / for the reception. Use past simple.",
+      "acceptedAnswers": [
+        "We bought some flowers for the reception."
+      ],
+      "feedback": "Some refers to an indefinite but actual number of flowers."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Make a generic statement about an entire class. Facts: Rivers / carry / sediment. Use no determiner before Rivers.",
+      "acceptedAnswers": [
+        "Rivers carry sediment."
+      ],
+      "feedback": "Bare plural rivers gives a general fact about the class."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Express approximation. Facts: some / ninety / people / attended. Say a complete past-simple sentence.",
+      "acceptedAnswers": [
+        "Some ninety people attended."
+      ],
+      "feedback": "Some before ninety is understood as approximately."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Indicate an unidentified singular person. Facts: some / customer or other / complained. Say a complete sentence.",
+      "acceptedAnswers": [
+        "Some customer or other complained."
+      ],
+      "feedback": "Some + singular count noun marks a person whose identity is unspecified."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Use any after a negative adverb. Facts: There / be / hardly / any / tickets / left. Use full forms.",
+      "acceptedAnswers": [
+        "There are hardly any tickets left."
+      ],
+      "feedback": "Hardly any presents a very small or nearly nonexistent quantity."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Make a partial-negative statement about an actual group. Facts: Some guests / not / stay / until the end. Use past simple with full forms.",
+      "acceptedAnswers": [
+        "Some guests did not stay until the end."
+      ],
+      "feedback": "Some guests identifies a real subset; the negation applies to their staying."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Compare against all other candidates. Facts: Maya / answered / faster than / anyone else. Say the complete sentence.",
+      "acceptedAnswers": [
+        "Maya answered faster than anyone else."
+      ],
+      "feedback": "Anyone else creates an unrestricted comparison."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give a short offer beginning with Anything. Exact message: Anything you need, just ask. Say it as a single sentence.",
+      "acceptedAnswers": [
+        "Anything you need, just ask."
+      ],
+      "feedback": "Anything you need is a reduced conditional-like offer."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We ordered some chairs for the event. Chairs are useful when a large group needs to sit for a long time.",
+      "prompt": "How is the first mention of chairs different from the second?",
+      "choices": [
+        "It identifies an unspecified order; the second describes the class.",
+        "Both refer to the same specific ordered chairs.",
+        "The first statement says no chairs were purchased."
+      ],
+      "answerIndex": 0,
+      "feedback": "Some chairs refers to a real indefinite set; bare chairs can express a general claim."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Some fifty volunteers turned up for the clean-up. I do not have the exact number.",
+      "prompt": "What does some fifty mean?",
+      "choices": [
+        "Exactly fifty",
+        "Fewer than ten",
+        "Approximately fifty"
+      ],
+      "answerIndex": 2,
+      "feedback": "Some with a numerical expression signals an estimate."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Some visitor or other left a scarf in the hallway. Nobody could identify the person.",
+      "prompt": "Transcribe the four-word phrase describing the unidentified person.",
+      "acceptedAnswers": [
+        "some visitor or other"
+      ],
+      "feedback": "Some visitor or other indicates that the exact person is unknown."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "There was hardly any space left in the storage room, so we moved the boxes elsewhere.",
+      "prompt": "What does hardly any space mean?",
+      "choices": [
+        "Plenty of free space",
+        "Almost no free space",
+        "One particular empty room"
+      ],
+      "answerIndex": 1,
+      "feedback": "Hardly any expresses near absence under negative force."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Some members did not vote in favour, but the committee still approved the plan.",
+      "prompt": "What does the speaker affirm about those members?",
+      "choices": [
+        "No members voted.",
+        "Every member supported the plan.",
+        "An unspecified subset did not support the plan."
+      ],
+      "answerIndex": 2,
+      "feedback": "Some members refers to an actual group; not negates their voting in favour, not their existence."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "This engine was quieter than anything we had tested before.",
+      "prompt": "What is the scope of the comparison?",
+      "choices": [
+        "Every previously tested thing",
+        "One specific earlier engine",
+        "Only objects chosen by one person"
+      ],
+      "answerIndex": 0,
+      "feedback": "Anything gives an unrestricted comparison with previous tests."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "We left before anyone noticed that the gate was open.",
+      "prompt": "Transcribe the two-word sequence beginning with before.",
+      "acceptedAnswers": [
+        "before anyone"
+      ],
+      "feedback": "Before anyone uses a non-specific person in the time clause."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Anything you need, please let us know before Friday.",
+      "prompt": "Transcribe the three-word opening that makes an unrestricted offer.",
+      "acceptedAnswers": [
+        "Anything you need"
+      ],
+      "feedback": "Anything you need is a short form of an if-clause-like offer."
+    }
+  ]
+}

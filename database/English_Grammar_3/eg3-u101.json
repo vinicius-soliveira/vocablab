@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u101",
+  "title": "Complex Noun Phrases, Nominalisation and Multi-word Prepositions",
+  "level": "C2",
+  "topicId": "eg3-u101-complex-noun-phrases-and-complex-prepositions",
+  "summary": "Develop compact, information-rich noun phrases for academic communication. Control the order of determiners, premodifiers and postmodifiers; reformulate clauses through nominalisation; and use multi-word prepositions precisely without confusing their patterns or meanings.",
+  "learningObjectives": [
+    "Organise determiners, adjectives and classifying nouns before a head noun, and relative or prepositional modifiers after it.",
+    "Nominalise actions and qualities to create academic noun phrases while preserving the original participants and relationships.",
+    "Choose complex prepositions for reference, contrast, reason, response and exceptions, respecting their grammatical complements.",
+    "Improve information density without creating ambiguous attachment or excessively long noun phrases."
+  ],
+  "explanation": [
+    {
+      "heading": "Build outwards from the head noun",
+      "body": "The head noun determines what a noun phrase is about. Determiners, evaluative adjectives and classifying nouns generally precede it, while prepositional phrases and relative clauses typically follow it. Several layers can appear together: a careful review of the submissions received after the deadline. Keep each modifier close to what it describes. Do not assume every premodifier is interchangeable with a postmodifier: a coastal erosion study identifies the type of study, while a study of coastal erosion specifies its subject.",
+      "example": "The revised transport proposal submitted by the regional council attracted attention."
+    },
+    {
+      "heading": "Make long noun phrases readable",
+      "body": "Formal writing often concentrates information in a single noun phrase, but complexity must preserve clarity. In a phrase such as the initial assessment of the equipment installed last month, the final participle clause most naturally modifies equipment, not assessment. An inserted relative clause may clarify an otherwise uncertain relationship. Put essential identifying material next to the noun it restricts; use punctuation only for genuinely supplementary information. Breaking an unwieldy phrase into two clauses can be more effective than adding yet another modifier.",
+      "example": "The inspection report on the pumps installed in March was released yesterday."
+    },
+    {
+      "heading": "Nominalisation of actions and qualities",
+      "body": "Academic writing often turns verbs into related nouns, and adjectives into quality nouns: investigate becomes investigation; accurate becomes accuracy; available becomes availability. This lets the writer treat an event, process or quality as a participant in a larger sentence. An original clause such as The panel rejected the request may become the panel’s rejection of the request. Nominalisation often requires a new preposition and may conceal the agent if used carelessly. Use it selectively: a clear verb is sometimes more direct than a heavily abstract noun phrase.",
+      "example": "The rapid expansion of the network created a demand for additional training."
+    },
+    {
+      "heading": "Multi-word prepositions express specific relations",
+      "body": "Complex prepositions consist of two or more words acting as a unit. With reference to and with regard to introduce a topic; in contrast to marks a difference; as a result of marks a cause; in response to identifies a reaction; and in accordance with means following a rule or standard. These expressions are normally followed by a noun phrase or an -ing phrase, not by an independent finite clause without further restructuring. Some fixed expressions require an article, such as in the case of and on the basis of; others do not, such as prior to and regardless of.",
+      "example": "The timetable was updated in response to feedback from passengers."
+    },
+    {
+      "heading": "Meaning, register and concision",
+      "body": "Formal prepositional expressions are not always stylistically superior to simpler alternatives. Prior to can mean before, and with regard to can mean about, but they may suit a formal report. Be precise: as opposed to contrasts alternatives, whereas because of identifies a cause; with the exception of excludes an item, whereas in addition to includes one. After nominalisation, check that the intended meaning remains: the analysis of the students can mean that the students were analysed or that they conducted the analysis unless context makes it clear.",
+      "example": "All applications were accepted with the exception of the unsigned forms."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Direct verbal account versus nominalised account",
+      "left": {
+        "label": "Finite clause",
+        "example": "The laboratory expanded its services rapidly.",
+        "note": "The verb tells the reader who acted and what happened."
+      },
+      "right": {
+        "label": "Nominalised noun phrase",
+        "example": "The rapid expansion of the laboratory’s services was costly.",
+        "note": "Expansion becomes a noun with modifiers; of specifies what expanded."
+      }
+    },
+    {
+      "title": "A cause is different from a contrast",
+      "left": {
+        "label": "Cause: as a result of",
+        "example": "The event was delayed as a result of heavy rain.",
+        "note": "The phrase identifies what caused the delay."
+      },
+      "right": {
+        "label": "Contrast: as opposed to",
+        "example": "The survey asked residents as opposed to visitors.",
+        "note": "The phrase marks a contrast between two groups, not a cause."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The preliminary survey findings published by the research team are publicly available.",
+      "note": "Preliminary and survey modify the head noun findings; the participle clause follows it."
+    },
+    {
+      "sentence": "The committee’s refusal to extend the deadline surprised the applicants.",
+      "note": "Refusal nominalises refuse; the to-infinitive identifies the rejected action."
+    },
+    {
+      "sentence": "A detailed comparison of the two methods revealed significant differences.",
+      "note": "Comparison is a nominalised process; of introduces what was compared."
+    },
+    {
+      "sentence": "In accordance with the safety protocol, the staff checked every sensor twice.",
+      "note": "The complex preposition expresses conformity with a standard."
+    },
+    {
+      "sentence": "The second sample was excluded on the basis of incomplete records.",
+      "note": "On the basis of presents grounds for a decision and includes the article the."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The of the samples detailed analysis took two weeks.",
+      "correct": "The detailed analysis of the samples took two weeks.",
+      "why": "The adjective detailed precedes the head noun analysis; its of-complement follows it."
+    },
+    {
+      "incorrect": "The committee discussed the accurate of the estimates.",
+      "correct": "The committee discussed the accuracy of the estimates.",
+      "why": "The adjective accurate becomes the noun accuracy when it heads this phrase."
+    },
+    {
+      "incorrect": "The rules were changed in response of the complaints.",
+      "correct": "The rules were changed in response to the complaints.",
+      "why": "The fixed complex preposition is in response to, not in response of."
+    },
+    {
+      "incorrect": "The deadline was extended regardless to the extra costs.",
+      "correct": "The deadline was extended regardless of the extra costs.",
+      "why": "Regardless is followed by of when it functions as a complex preposition."
+    }
+  ],
+  "studyTips": [
+    "Underline the head noun in each dense phrase, then label what comes before and after it; rewrite a phrase if a modifier could attach to two nouns.",
+    "Convert five clauses to nominalisations, recording the required complements such as investigation of, dependence on and refusal to.",
+    "Keep a meaning-based bank of multi-word prepositions: topic, cause, contrast, response, rule and exception; make one original sentence for each."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which phrase correctly builds a noun phrase around the head noun \"evaluation\"?",
+      "choices": [
+        "The thorough evaluation of the revised plan",
+        "The evaluation thorough of the revised plan",
+        "The of revised plan thorough evaluation"
+      ],
+      "answerIndex": 0,
+      "feedback": "The descriptive adjective precedes evaluation, while of the revised plan follows its head noun."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Replace \"The instruments were available\" with a grammatically correct noun phrase.",
+      "choices": [
+        "the available of the instruments",
+        "the availability of the instruments",
+        "the instruments available of"
+      ],
+      "answerIndex": 1,
+      "feedback": "Availability is the noun related to available, followed by of the instruments."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The team changed its procedure because it received several complaints. Choose the formal sentence that accurately expresses the cause.",
+      "choices": [
+        "The team changed its procedure as opposed to several complaints.",
+        "The team changed its procedure with reference to several complaints.",
+        "The team changed its procedure as a result of several complaints."
+      ],
+      "answerIndex": 2,
+      "feedback": "As a result of introduces the reason for the change; the other expressions signal contrast or topic."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which sentence says the decision followed an established rule?",
+      "choices": [
+        "The decision was made in accordance with the published criteria.",
+        "The decision was made in contrast with the published criteria.",
+        "The decision was made in response of the published criteria."
+      ],
+      "answerIndex": 0,
+      "feedback": "In accordance with expresses compliance with a stated rule or criterion."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete the two-word noun phrase: \"The ___ ___ of the archive allowed remote access.\" Facts: expand / rapid. Give the adjective followed by the noun.",
+      "acceptedAnswers": [
+        "rapid expansion"
+      ],
+      "feedback": "Rapid expansion nominalises the action and puts the adjective before the noun."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete the noun phrase using the correct noun: \"The ___ of the measurements was checked independently.\" Base adjective: accurate.",
+      "acceptedAnswers": [
+        "accuracy"
+      ],
+      "feedback": "Accuracy is the related quality noun; it takes an of-phrase for the measurements."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete the three-word complex preposition: \"The training was revised ___ ___ ___ the audit recommendations.\" Meaning: in reaction to.",
+      "acceptedAnswers": [
+        "in response to"
+      ],
+      "feedback": "In response to identifies the recommendations as the reason for the revision."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the four-word complex preposition: \"The permit was granted ___ ___ ___ ___ the evidence submitted.\" Meaning: using the evidence as the grounds.",
+      "acceptedAnswers": [
+        "on the basis of"
+      ],
+      "feedback": "On the basis of means using the evidence as grounds and requires the article the."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence while retaining the phrase \"of the service\": The sudden of the service expansion required new staff.",
+      "acceptedAnswers": [
+        "The sudden expansion of the service required new staff."
+      ],
+      "feedback": "Expansion is the head noun; sudden precedes it, and of the service follows it."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence using a related quality noun, not a finite clause: The panel considered the reliable of the data.",
+      "acceptedAnswers": [
+        "The panel considered the reliability of the data."
+      ],
+      "feedback": "The quality noun reliability replaces the adjective reliable."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence: We changed the timetable in response of customer feedback.",
+      "acceptedAnswers": [
+        "We changed the timetable in response to customer feedback."
+      ],
+      "feedback": "The fixed phrase is in response to."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence while retaining the word regardless: The tests proceeded regardless to the delay.",
+      "acceptedAnswers": [
+        "The tests proceeded regardless of the delay."
+      ],
+      "feedback": "The complex preposition regardless of takes a noun phrase complement."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say a full noun phrase using these elements in order: the / careful / review / of the application.",
+      "acceptedAnswers": [
+        "The careful review of the application."
+      ],
+      "feedback": "Careful precedes the head noun review, followed by its of-complement."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Nominalise the action in this sentence. Say a full sentence: \"The company expanded rapidly.\" Begin \"The\" and end \"was unexpected.\"",
+      "acceptedAnswers": [
+        "The rapid expansion of the company was unexpected."
+      ],
+      "feedback": "Expansion makes the action a noun, with rapid as a modifier and of the company as its complement."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Make a noun phrase from the adjective. Facts: accurate / the survey results. Start with \"the\".",
+      "acceptedAnswers": [
+        "The accuracy of the survey results."
+      ],
+      "feedback": "Accuracy is a noun meaning the quality of being accurate."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Produce a formal sentence meaning \"because of the shortage\". Facts: The event / was cancelled / as a result of / the shortage.",
+      "acceptedAnswers": [
+        "The event was cancelled as a result of the shortage."
+      ],
+      "feedback": "As a result of marks the cause of the cancellation."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Produce a sentence expressing conformity with a rule. Start with \"The inspection was conducted\" and finish with \"the regulations\". Use in accordance with.",
+      "acceptedAnswers": [
+        "The inspection was conducted in accordance with the regulations."
+      ],
+      "feedback": "In accordance with expresses compliance; was conducted supplies a complete passive clause."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Complete the contrast sentence aloud: \"The proposal favours public transport ... private cars.\" Use as opposed to.",
+      "acceptedAnswers": [
+        "The proposal favours public transport as opposed to private cars."
+      ],
+      "feedback": "As opposed to contrasts the two transport options."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the entire sentence aloud: \"The board acted in response of the complaint.\"",
+      "acceptedAnswers": [
+        "The board acted in response to the complaint."
+      ],
+      "feedback": "In response to is the conventional three-word preposition."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say these two sentences in the given order, using full forms. Sentence 1: \"The survey was accurate.\" Sentence 2: \"The accuracy of the survey was confirmed.\"",
+      "acceptedAnswers": [
+        "The survey was accurate. The accuracy of the survey was confirmed."
+      ],
+      "feedback": "The first sentence uses an adjective; the second uses a related quality noun."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The revised schedule for evening buses serving the eastern suburbs was published this morning.",
+      "prompt": "What was published?",
+      "choices": [
+        "A schedule for evening buses",
+        "A survey of railway stations",
+        "A proposal for bicycle lanes"
+      ],
+      "answerIndex": 0,
+      "feedback": "The head noun is schedule; the remaining words tell us which schedule."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The department is investigating the accuracy of the figures rather than the speed of the calculations.",
+      "prompt": "Which quality is the main focus of the investigation?",
+      "choices": [
+        "The calculations being faster",
+        "The figures being accurate",
+        "The department being larger"
+      ],
+      "answerIndex": 1,
+      "feedback": "Accuracy is the quality noun naming what the department wants to check."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The timetable changed in response to complaints from passengers.",
+      "prompt": "Transcribe exactly the three-word phrase that introduces the reason for the change.",
+      "acceptedAnswers": [
+        "in response to"
+      ],
+      "feedback": "In response to explicitly identifies the complaints as the reason."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The panel approved the application in accordance with the published guidelines, not as an exception.",
+      "prompt": "What does the phrase in accordance with mean here?",
+      "choices": [
+        "Despite the guidelines",
+        "Before the guidelines were issued",
+        "Following the guidelines"
+      ],
+      "answerIndex": 2,
+      "feedback": "In accordance with states that a decision conforms to the guidelines."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "All candidates were invited with the exception of those who had not submitted an application.",
+      "prompt": "Who was excluded?",
+      "choices": [
+        "People without a submitted application",
+        "Everyone who submitted an application",
+        "All candidates without interviews"
+      ],
+      "answerIndex": 0,
+      "feedback": "With the exception of introduces the group not included in the invitation."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The speaker referred to the introduction of the new policy, not to the invention of a new technology.",
+      "prompt": "What is the speaker discussing?",
+      "choices": [
+        "The design of a new device",
+        "The arrival of a new policy",
+        "The cancellation of a research conference"
+      ],
+      "answerIndex": 1,
+      "feedback": "Introduction of the new policy is the nominalised event mentioned, not the invention of a device."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "We compared the samples on the basis of their measured stability.",
+      "prompt": "Transcribe exactly the four-word expression that introduces the grounds for comparison.",
+      "acceptedAnswers": [
+        "on the basis of"
+      ],
+      "feedback": "On the basis of presents the evidence or criterion for comparing the samples."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The revised estimate was prepared with reference to the latest figures.",
+      "prompt": "Transcribe exactly the three-word phrase connecting the estimate to the figures.",
+      "acceptedAnswers": [
+        "with reference to"
+      ],
+      "feedback": "With reference to is a topic or reference marker followed by a noun phrase."
+    }
+  ]
+}

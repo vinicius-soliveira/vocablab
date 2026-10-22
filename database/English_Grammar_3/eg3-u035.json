@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u035",
+  "title": "Tense Choice in Reported Speech and Current Claims",
+  "level": "C1",
+  "topicId": "eg3-u035-tense-choice-in-reporting",
+  "summary": "Choose verb tenses in reported content according to when events happened, whether information remains valid, and the speaker’s commitment to its truth. Contrast backshift with legitimate retained present forms, and use present reporting verbs for current reports, claims and hearsay.",
+  "learningObjectives": [
+    "Use a past form when a past reporting verb places an originally current event in the past.",
+    "Distinguish past perfect for an earlier event from past simple when the sequence is already unambiguous.",
+    "Retain present simple or present perfect for continuing facts, habits and currently relevant results without treating backshift as automatic.",
+    "Select present or past forms of reporting verbs according to current relevance, reported authority, hearsay and confidence."
+  ],
+  "explanation": [
+    {
+      "heading": "Backshift when an originally current situation is now past",
+      "body": "A reporting verb in the past often places a statement in an earlier time frame. If the original speaker described a situation happening then, the reported clause commonly uses the past simple or past continuous: am waiting becomes was waiting, and do not agree becomes did not agree. A past reporting verb does not by itself prove that every verb in the reported clause must change; the time and current status of the situation determine what is appropriate.",
+      "example": "During the rehearsal, Nina said that the technicians were testing the lights."
+    },
+    {
+      "heading": "Past perfect highlights an event before the original statement",
+      "body": "If an event had already occurred when someone originally spoke, the past perfect is a common way to keep the earlier event distinct from the later act of reporting. When chronology is obvious from expressions such as before, an ordinary past simple can also be natural. Treat the past perfect as a useful signal of sequence, not an inflexible grammatical requirement whenever a reporting verb is past.",
+      "example": "At noon, Ellis explained that the parcel had arrived the previous evening."
+    },
+    {
+      "heading": "Preserve present forms for truths or situations still relevant now",
+      "body": "A general fact, a continuing habit or a present condition may remain in the present simple even when it was mentioned earlier: she said that the museum opens at ten. The past can also be possible as part of a retrospective account. Retaining the present foregrounds current validity; changing to the past may leave open whether the situation remains true. Avoid forcing a single answer where both interpretations are defensible.",
+      "example": "Last month, the trainer mentioned that this software supports three languages."
+    },
+    {
+      "heading": "Present perfect emphasises a relevant present result",
+      "body": "With a present reporting verb, present perfect can report a completed action through its current result: the survey finds that access has improved. A past reporting verb may also introduce either present perfect, when the result is still relevant, or past perfect, when looking back from an earlier viewpoint. The choice depends on which reference time and result the reporter is drawing attention to.",
+      "example": "The latest bulletin confirms that the repairs have restored access to the gallery."
+    },
+    {
+      "heading": "Reporting verb tense also reflects stance and source",
+      "body": "Use a past reporting verb for a completed past exchange, and a present one for an ongoing claim, a document’s current statement, or a message treated as relevant now. Expressions such as I hear, the policy states and colleagues tell me can introduce second-hand information, an authority or a recurring report. A present reporting verb can convey current relevance without certifying that the reported information is true.",
+      "example": "The notice states that visitors need an appointment, but I hear that the rule may change."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Earlier event with explicit viewpoint",
+      "left": {
+        "label": "Past perfect: earlier than the original report",
+        "example": "Rafi said that the inspection had finished before midday.",
+        "note": "The inspection is viewed as already completed when Rafi spoke."
+      },
+      "right": {
+        "label": "Past simple: sequence already signalled",
+        "example": "Rafi said that the inspection finished before midday.",
+        "note": "Before midday or other context can make the chronology sufficiently clear."
+      }
+    },
+    {
+      "title": "Current validity versus retrospective distance",
+      "left": {
+        "label": "Present retained: presented as still true",
+        "example": "The guide said that the tower stands on solid rock.",
+        "note": "The speaker treats the information as true now."
+      },
+      "right": {
+        "label": "Backshifted past: time of earlier report",
+        "example": "The guide said that the tower stood on solid rock.",
+        "note": "The report is framed from a past viewpoint without necessarily denying present truth."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The attendant told us that the gallery was closing early that evening.",
+      "note": "Was closing places the arrangement in the past reporting context."
+    },
+    {
+      "sentence": "Laila recalled that she had submitted the form several days earlier.",
+      "note": "Past perfect orders the submission before her recollection."
+    },
+    {
+      "sentence": "The lecturer noted that water expands when it freezes.",
+      "note": "A stable scientific generalisation can retain the present."
+    },
+    {
+      "sentence": "The review concludes that the changes have reduced waiting times.",
+      "note": "Present reporting plus present perfect highlights a current result."
+    },
+    {
+      "sentence": "I hear that the exhibition may open again next month.",
+      "note": "I hear introduces current second-hand information without asserting certainty."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "On Tuesday she said that she is feeling ill that morning, and she recovered later that day.",
+      "correct": "On Tuesday she said that she was feeling ill that morning, and she recovered later that day.",
+      "why": "The illness is explicitly confined to a past morning, so was feeling aligns with that time frame."
+    },
+    {
+      "incorrect": "He said that the doors have been locked before he arrived.",
+      "correct": "He said that the doors had been locked before he arrived.",
+      "why": "Had been locked marks an event completed before his past arrival."
+    },
+    {
+      "incorrect": "The current notice states that the building was closed tomorrow.",
+      "correct": "The current notice states that the building will be closed tomorrow.",
+      "why": "Tomorrow requires a future interpretation here; was closed incorrectly locates the closure in the past."
+    },
+    {
+      "incorrect": "The current review concludes that the procedure had reduced delays since its introduction.",
+      "correct": "The current review concludes that the procedure has reduced delays since its introduction.",
+      "why": "Without an earlier past viewpoint, has reduced connects improvement since introduction to a current result."
+    }
+  ],
+  "studyTips": [
+    "Draw a three-point timeline: original event, original statement, and current report. Mark which event came first before selecting a perfect tense.",
+    "For every continuing fact, compare a retained present with a backshifted past and explain what each version suggests about current validity.",
+    "Notice whether a reporting verb points to a finished conversation, a document currently saying something, or second-hand news, and choose its tense deliberately."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A witness spoke yesterday about an action occurring at that moment. Complete the past-tense report: “The witness said that the workers ___ outside.”",
+      "choices": [
+        "were waiting",
+        "are waiting",
+        "have waited"
+      ],
+      "answerIndex": 0,
+      "feedback": "Were waiting presents the ongoing action from the witness’s past viewpoint."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "On Friday, the coordinator spoke about a parcel that had arrived on Thursday. Which report most clearly marks the earlier delivery?",
+      "choices": [
+        "The coordinator said that the parcel arrives on Thursday.",
+        "The coordinator said that the parcel had arrived on Thursday.",
+        "The coordinator says that the parcel is arriving on Thursday."
+      ],
+      "answerIndex": 1,
+      "feedback": "Had arrived explicitly locates delivery before the Friday statement."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "A scientific rule is still true. Which report deliberately preserves its current validity?",
+      "choices": [
+        "Last week the lecturer said that copper had conducted electricity.",
+        "Last week the lecturer said that copper will conduct electricity.",
+        "Last week the lecturer said that copper conducts electricity."
+      ],
+      "answerIndex": 2,
+      "feedback": "The retained present conducts expresses a timeless property, even after said."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose a current reporting verb for an ongoing statement printed in a guide displayed today: “The guide ___ that the garden opens at nine.”",
+      "choices": [
+        "states",
+        "stated yesterday",
+        "had stated"
+      ],
+      "answerIndex": 0,
+      "feedback": "States introduces what the guide currently says; the other choices require a different time frame."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "At the meeting last night, Leena said, “I am preparing the agenda.” Complete the report with the two-word past continuous: Leena said that she ___ the agenda.",
+      "acceptedAnswers": [
+        "was preparing"
+      ],
+      "feedback": "Am preparing backshifts to was preparing when reporting last night’s action from a past viewpoint."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "On Monday, Tomas said, “I finished the slides on Sunday.” Complete using the two-word past perfect: Tomas said that he ___ the slides on Sunday.",
+      "acceptedAnswers": [
+        "had finished"
+      ],
+      "feedback": "Had finished makes the slides’ completion earlier than the Monday statement."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "A permanent fact is still valid. Complete using the present simple of contain: The scientist confirmed that the sample ___ iron.",
+      "acceptedAnswers": [
+        "contains"
+      ],
+      "feedback": "Contains explicitly preserves the fact as currently true, despite confirmed."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "A recent investigation has produced results that matter now. Use the present perfect of identify: The current report says the team ___ the cause.",
+      "acceptedAnswers": [
+        "has identified"
+      ],
+      "feedback": "Has identified presents a completed investigation with a result relevant now."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the tense of the reported action only. The situation ended last year: “In March she said that she is working at the harbour, but she left that job in June.”",
+      "acceptedAnswers": [
+        "In March she said that she was working at the harbour, but she left that job in June."
+      ],
+      "feedback": "Was working fits the past situation that had ended by June."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the earlier action in the report using the past perfect: “The organiser said that the guests already left before the doors opened.”",
+      "acceptedAnswers": [
+        "The organiser said that the guests had already left before the doors opened."
+      ],
+      "feedback": "Had already left explicitly places the departure before the doors opened."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the current claim using the present tense of say; the notice is still on display: “The notice said that bicycles are not permitted in this room.”",
+      "acceptedAnswers": [
+        "The notice says that bicycles are not permitted in this room."
+      ],
+      "feedback": "Says reports a statement presently carried by the posted notice."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the completed action to present perfect, because the result is still relevant now: “The current briefing confirms that the researchers found a safer route.”",
+      "acceptedAnswers": [
+        "The current briefing confirms that the researchers have found a safer route."
+      ],
+      "feedback": "Have found foregrounds the present result, though found can also be grammatical without this instruction."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Report a finished past moment. Facts: Last night / Mina / say / she / be / tired. Begin “Last night” and use said that + past simple.",
+      "acceptedAnswers": [
+        "Last night Mina said that she was tired."
+      ],
+      "feedback": "Said that she was places Mina’s tiredness in the earlier time frame."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Report an event earlier than the original report. Facts: Omar / explain / the projector / break / before / the lecture. Begin “Omar” and use past perfect.",
+      "acceptedAnswers": [
+        "Omar explained that the projector had broken before the lecture."
+      ],
+      "feedback": "Had broken marks the breakdown as prior to the lecture and explanation."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Keep a timeless fact in the present. Facts: The professor / mention / light / travel / faster than sound. Use mentioned that and the present simple.",
+      "acceptedAnswers": [
+        "The professor mentioned that light travels faster than sound."
+      ],
+      "feedback": "Travels remains present because the fact still applies."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Produce a current report of a completed result. Facts: The bulletin / confirm / the committee / reach / an agreement. Use confirms that + present perfect.",
+      "acceptedAnswers": [
+        "The bulletin confirms that the committee has reached an agreement."
+      ],
+      "feedback": "Has reached emphasises the result as relevant when the bulletin is read."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Correct the explicitly past report aloud: “In January she said that she is travelling abroad that week.” Use was travelling; change nothing else.",
+      "acceptedAnswers": [
+        "In January she said that she was travelling abroad that week."
+      ],
+      "feedback": "The action is tied to the earlier January report."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Give a current hearsay report. Facts: I / hear / the studio / plan / to expand. Begin “I” and use present simple for both verbs.",
+      "acceptedAnswers": [
+        "I hear that the studio plans to expand."
+      ],
+      "feedback": "I hear presents the information as currently circulating, without certifying it."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Use the report’s current wording. Facts: The handbook / state / applicants / need / a reference. Use states that and the present simple.",
+      "acceptedAnswers": [
+        "The handbook states that applicants need a reference."
+      ],
+      "feedback": "States reports the current content; need describes the current requirement."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two complete sentences in this order. First: Mira / say / yesterday / she was nervous. Second: The guide / say / today / the museum opens at ten. Start exactly “Mira” and “The guide”; use said yesterday then says for the guide’s current statement.",
+      "acceptedAnswers": [
+        "Mira said yesterday that she was nervous. The guide says that the museum opens at ten."
+      ],
+      "feedback": "Said fits a completed exchange, while says presents the guide’s current statement."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "During the storm, the caretaker said that the roof was leaking. The leak was repaired the following morning.",
+      "prompt": "When did the roof leak?",
+      "choices": [
+        "During the storm.",
+        "The following afternoon.",
+        "After the repair."
+      ],
+      "answerIndex": 0,
+      "feedback": "Was leaking describes what was happening during the earlier storm."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The engineer explained that the sensor had stopped working before the inspection began.",
+      "prompt": "Which happened first?",
+      "choices": [
+        "The inspection began.",
+        "The sensor stopped working.",
+        "The explanation was published."
+      ],
+      "answerIndex": 1,
+      "feedback": "Had stopped locates the sensor failure before the inspection."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Yesterday the actor said that she was rehearsing in the old theatre.",
+      "prompt": "Transcribe the two-word continuous verb phrase heard immediately after “she”.",
+      "acceptedAnswers": [
+        "was rehearsing"
+      ],
+      "feedback": "Was rehearsing expresses an action in progress at the earlier reporting time."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The tutor said that the Earth rotates around the Sun. The statement remains correct today.",
+      "prompt": "Why is the present tense retained?",
+      "choices": [
+        "It describes an invented event.",
+        "It refers only to last week.",
+        "It reports a fact that is still true."
+      ],
+      "answerIndex": 2,
+      "feedback": "Rotates expresses a timeless fact, so backshift is unnecessary."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I hear that the director may postpone the opening, but no announcement has been made.",
+      "prompt": "How certain is the information?",
+      "choices": [
+        "It is an unconfirmed report.",
+        "It is an official final decision.",
+        "It refers to a cancelled event last year."
+      ],
+      "answerIndex": 0,
+      "feedback": "I hear introduces second-hand news, and the announcement is not yet confirmed."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The updated report shows that the changes have improved access to public transport.",
+      "prompt": "What does have improved emphasise?",
+      "choices": [
+        "A prediction about the distant future.",
+        "A result that matters at present.",
+        "An activity that stopped decades ago."
+      ],
+      "answerIndex": 1,
+      "feedback": "Present perfect links a completed change to a present result."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Amir said that the visitors had already departed when he arrived.",
+      "prompt": "Transcribe the three-word verb phrase heard immediately after “visitors”.",
+      "acceptedAnswers": [
+        "had already departed"
+      ],
+      "feedback": "Past perfect marks the departure as prior to Amir’s arrival."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The safety notice states that protective gloves are required.",
+      "prompt": "Transcribe the two words spoken immediately after “notice”.",
+      "acceptedAnswers": [
+        "states that"
+      ],
+      "feedback": "States is the present reporting verb for the posted information."
+    }
+  ]
+}

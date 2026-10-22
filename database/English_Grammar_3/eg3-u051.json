@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u051",
+  "title": "All (of), Whole, Every and Each",
+  "level": "C1",
+  "topicId": "eg3-u051-all-of-whole-every-each",
+  "summary": "Use all, whole, every and each to express totality, complete units, recurring intervals and individual members. Position all naturally with verbs; distinguish not all from none and recognise fixed combinations with every.",
+  "learningObjectives": [
+    "Place all appropriately with pronouns, the verb be and auxiliary verbs, including when it follows the noun it refers to.",
+    "Distinguish not all from none, and all of a group from the whole of one singular countable item.",
+    "Contrast all, whole and entire with singular and plural nouns without confusing complete items with every member of a group.",
+    "Use every for group-wide generalisations and regular intervals, and each to focus on individuals, particularly members of a pair."
+  ],
+  "explanation": [
+    {
+      "heading": "Where all appears in a clause",
+      "body": "All can precede a noun or pronoun (all the members; all of us), or appear after the noun or pronoun to which it refers (the members all agreed; we all agreed). As a floating quantifier, it generally follows be and the first auxiliary: They are all ready; They have all been informed. With a simple lexical verb, it normally comes before the verb: They all agree. A different placement can occasionally provide marked emphasis; practise the neutral patterns first.",
+      "example": "Our supervisors have all signed the revised schedule."
+    },
+    {
+      "heading": "Not all is not the same as none",
+      "body": "Not all of a set means that at least one member fails to satisfy the statement; it does not mean that no members do. None of a set makes the stronger claim that zero members satisfy it. Place not before all or after the first auxiliary in standard patterns: Not all the tickets were sold; The tickets were not all sold. Avoid ambiguous combinations such as all ... not when the intended meaning is only partial.",
+      "example": "Not all the sensors passed the check, but some did."
+    },
+    {
+      "heading": "Whole, entire and two meanings with plurals",
+      "body": "Before a singular countable noun, the whole and the entire are usual: the whole meeting, the entire building. Certain time expressions allow all day, all night and all week without the, and all the way or all the time are idiomatic. With plurals, all the villages means every village in the group, whereas whole villages suggests that some villages were affected completely. Whole villages does not mean every village.",
+      "example": "A power cut affected whole neighbourhoods, but it did not reach all the neighbourhoods in the region."
+    },
+    {
+      "heading": "Every as a view of the group",
+      "body": "Every normally determines a singular countable noun and presents individuals collectively. It is especially natural after almost or virtually, with a numbered interval (every five days), and in expressions such as every other week, every single day and every now and again. Every can also precede abstract uncountable nouns in combinations such as every reason or every chance, where it means the full possible extent rather than separate countable objects.",
+      "example": "Almost every participant completed the survey, and the team checked the results every three days."
+    },
+    {
+      "heading": "Each as an individual focus",
+      "body": "Each highlights members separately and is especially appropriate for two people or things: Each of the two speakers gave a short talk. Unlike every, each can stand alone as a pronoun: Four folders were inspected, and each contained a different set of records. Each of + a defined group and each one are possible, while every of is not. Each and every can overlap when the same people or objects are being counted, but they can suggest different perspectives.",
+      "example": "Two applicants attended the interview, and each received detailed feedback."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A partial group versus an empty group",
+      "left": {
+        "label": "Not all",
+        "example": "Not all the reports were published.",
+        "note": "Some reports may have been published, but at least one was not."
+      },
+      "right": {
+        "label": "None",
+        "example": "None of the reports were published.",
+        "note": "Not a single report in the defined set was published."
+      }
+    },
+    {
+      "title": "Every member versus whole members",
+      "left": {
+        "label": "All the buildings",
+        "example": "All the buildings were inspected.",
+        "note": "Every building in the relevant group was inspected."
+      },
+      "right": {
+        "label": "Whole buildings",
+        "example": "Whole buildings were demolished.",
+        "note": "Some buildings were demolished completely, not necessarily every building."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The inspectors are all wearing protective clothing.",
+      "note": "All follows the form of be in the neutral floating-quantifier pattern."
+    },
+    {
+      "sentence": "We all recognised the author, although we had never met her.",
+      "note": "All follows the subject pronoun and precedes the lexical verb."
+    },
+    {
+      "sentence": "Not all the objections were resolved before the vote.",
+      "note": "Not all describes partial, rather than zero, resolution."
+    },
+    {
+      "sentence": "The research team stayed for the entire discussion.",
+      "note": "The entire modifies one complete singular countable event."
+    },
+    {
+      "sentence": "Every other Friday, each of the two coordinators reviews a separate report.",
+      "note": "Every other indicates an alternating interval; each of highlights the pair individually."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The researchers have completed their training all already.",
+      "correct": "The researchers have all completed their training already.",
+      "why": "The revised version clearly places all after the first auxiliary to quantify the researchers, rather than the training."
+    },
+    {
+      "incorrect": "None of the ten finalists failed, so not all of them passed.",
+      "correct": "None of the ten finalists failed, so all of them passed.",
+      "why": "If zero failed, everybody passed; not all would incorrectly imply at least one failure."
+    },
+    {
+      "incorrect": "The committee reviewed whole proposal before deciding.",
+      "correct": "The committee reviewed the whole proposal before deciding.",
+      "why": "Whole before a singular countable noun normally needs a determiner such as the."
+    },
+    {
+      "incorrect": "They replace the filters each four months.",
+      "correct": "They replace the filters every four months.",
+      "why": "Every is the normal determiner in a numbered recurring interval."
+    }
+  ],
+  "studyTips": [
+    "Say a statement about a group twice: first using not all, then none. Check that the second is logically stronger.",
+    "Underline the subject and auxiliary in a sentence, then position all after be or the first auxiliary when it quantifies the subject.",
+    "Describe two different situations using all the houses versus whole houses, and explain whether you mean every house or complete houses."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the neutral position of all when it refers to the engineers and the sentence has the auxiliary have.",
+      "choices": [
+        "The engineers have all completed the briefing.",
+        "The engineers have completed the briefing all.",
+        "The engineers all have completed briefing the."
+      ],
+      "answerIndex": 0,
+      "feedback": "Have all completed puts the floating quantifier after the first auxiliary; the other options have unnatural ordering or missing determiners."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Three of twelve applicants did not meet the requirements. Which statement correctly describes the whole group?",
+      "choices": [
+        "None of the applicants met the requirements.",
+        "Not all of the applicants met the requirements.",
+        "All the applicants did not meet the requirements."
+      ],
+      "answerIndex": 1,
+      "feedback": "Not all means that at least one applicant did not qualify; none would incorrectly say zero qualified. All ... not can be ambiguous."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The audience stayed from the beginning to the end of one presentation. Choose the most appropriate noun phrase.",
+      "choices": [
+        "whole the presentation",
+        "every presentation",
+        "the whole presentation"
+      ],
+      "answerIndex": 2,
+      "feedback": "The whole presentation refers to one complete singular event."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "A safety check happens at regular six-month intervals. Choose the correct phrase.",
+      "choices": [
+        "every six months",
+        "each six months",
+        "every six month"
+      ],
+      "answerIndex": 0,
+      "feedback": "Every plus a plural duration gives a repeated interval: every six months."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Fill the one-word quantifier in its neutral position: \"The visitors are ___ waiting outside.\"",
+      "acceptedAnswers": [
+        "all"
+      ],
+      "feedback": "All follows are when it quantifies the visitors."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with exactly two words to express that some, but not all, registrations were approved: \"___ ___ the registrations were approved.\" Use a negative quantifier.",
+      "acceptedAnswers": [
+        "not all"
+      ],
+      "feedback": "Not all explicitly means the approved set was incomplete, rather than empty."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: \"The ___ building was searched, from the basement to the roof.\" Use whole, not a synonym.",
+      "acceptedAnswers": [
+        "whole"
+      ],
+      "feedback": "The whole building refers to the complete singular building."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with one word emphasising the two recipients separately: \"___ of the two winners received a certificate.\"",
+      "acceptedAnswers": [
+        "each"
+      ],
+      "feedback": "Each of the two winners highlights individual recipients; each is especially natural for a pair."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence while retaining whole: The organisers inspected whole venue before the ceremony.",
+      "acceptedAnswers": [
+        "The organisers inspected the whole venue before the ceremony."
+      ],
+      "feedback": "The whole venue needs the determiner the before whole."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence using every: Almost each attendee submitted a feedback form.",
+      "acceptedAnswers": [
+        "Almost every attendee submitted a feedback form."
+      ],
+      "feedback": "Almost every is the normal group-wide combination; almost each is not the usual determiner pattern."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence by positioning all neutrally: The presenters have arrived all at the conference hall.",
+      "acceptedAnswers": [
+        "The presenters have all arrived at the conference hall."
+      ],
+      "feedback": "The floating quantifier all normally follows the first auxiliary have."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence, keeping the numbered interval: The filters are inspected each three months.",
+      "acceptedAnswers": [
+        "The filters are inspected every three months."
+      ],
+      "feedback": "Every, not each, normally precedes a plural numbered interval."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Describe the whole group using the neutral auxiliary position. Facts: The reviewers / have / all / approved / the plan.",
+      "acceptedAnswers": [
+        "The reviewers have all approved the plan."
+      ],
+      "feedback": "Have all approved puts all after the auxiliary and refers to every reviewer."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "State a partial negative exactly. Facts: Not all / the files / were / backed up. Do not say none.",
+      "acceptedAnswers": [
+        "Not all the files were backed up."
+      ],
+      "feedback": "Not all means some files were not backed up, not that zero were."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Express a complete duration in one sentence. Facts: They / spent / the whole afternoon / editing the report.",
+      "acceptedAnswers": [
+        "They spent the whole afternoon editing the report."
+      ],
+      "feedback": "The whole afternoon presents one complete period."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Focus separately on the two candidates. Facts: Each / of / the two candidates / gave / a presentation.",
+      "acceptedAnswers": [
+        "Each of the two candidates gave a presentation."
+      ],
+      "feedback": "Each of identifies individuals within a defined pair."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "State the recurring interval. Facts: We / update / the database / every four weeks. Use the present simple.",
+      "acceptedAnswers": [
+        "We update the database every four weeks."
+      ],
+      "feedback": "Every four weeks expresses the regular interval."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Report near-total attendance. Facts: Almost every / seat / was / occupied.",
+      "acceptedAnswers": [
+        "Almost every seat was occupied."
+      ],
+      "feedback": "Almost every indicates that nearly the whole set was occupied."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the sentence aloud while keeping whole: \"The panel reviewed whole proposal.\"",
+      "acceptedAnswers": [
+        "The panel reviewed the whole proposal."
+      ],
+      "feedback": "The singular countable noun proposal needs a determiner before whole."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two full sentences in order. First: Not all / the lamps / were / working. Second: Each / of / the two engineers / checked / a circuit.",
+      "acceptedAnswers": [
+        "Not all the lamps were working. Each of the two engineers checked a circuit."
+      ],
+      "feedback": "Not all indicates an incomplete group, while each of the two focuses on the engineers separately."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Twelve volunteers joined the programme, and they have all completed the training.",
+      "prompt": "How many volunteers completed the training?",
+      "choices": [
+        "Only six",
+        "All twelve",
+        "None of them"
+      ],
+      "answerIndex": 1,
+      "feedback": "All refers to every member of the stated group of twelve."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Not all the guests stayed until the final speech; several left early.",
+      "prompt": "What does the speaker mean?",
+      "choices": [
+        "Every guest left before the speech",
+        "No guest attended the event",
+        "At least some guests did not stay"
+      ],
+      "answerIndex": 2,
+      "feedback": "Not all means at least one guest failed to stay; the later clause confirms that several left."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The organisers checked the whole building before opening the doors.",
+      "prompt": "Transcribe the three-word phrase that means the complete building.",
+      "acceptedAnswers": [
+        "the whole building"
+      ],
+      "feedback": "The whole building describes one complete structure."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Almost every table was reserved, but one remained free for late arrivals.",
+      "prompt": "How many tables were still free?",
+      "choices": [
+        "One",
+        "Two",
+        "None"
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker explicitly says one table remained free."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "A technician inspects the heating system every four weeks, not every day.",
+      "prompt": "How often does the technician inspect the heating system?",
+      "choices": [
+        "Every day",
+        "Every four weeks",
+        "Twice a year"
+      ],
+      "answerIndex": 1,
+      "feedback": "Every four weeks expresses the recurring inspection interval."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Each of the two finalists received a separate letter explaining the judges’ decision.",
+      "prompt": "Who received an individual letter?",
+      "choices": [
+        "Only the winner",
+        "Neither finalist",
+        "Both finalists"
+      ],
+      "answerIndex": 2,
+      "feedback": "Each of the two finalists means both received their own letters."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The chair spent the entire morning replying to questions from members.",
+      "prompt": "Transcribe the three-word phrase describing the complete time period.",
+      "acceptedAnswers": [
+        "the entire morning"
+      ],
+      "feedback": "The entire morning refers to a single complete period."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The students have all handed in their reports, so the lecturer can start marking.",
+      "prompt": "Transcribe the four-word verb phrase containing the group quantifier.",
+      "acceptedAnswers": [
+        "have all handed in"
+      ],
+      "feedback": "Have all handed in places all after the auxiliary to refer to the whole group."
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u079",
+  "title": "Adverbial Clauses of Time",
+  "level": "C1",
+  "topicId": "eg3-u079-adverbial-clauses-of-time",
+  "summary": "Link events and longer developments precisely with as, when, while, before, after and until. Recognise when temporal conjunctions overlap, when they differ in focus, and how hardly, scarcely and no sooner express immediate succession.",
+  "learningObjectives": [
+    "Choose as, when or while according to a simultaneous event, longer background activity, repeated occasion or gradual change.",
+    "Distinguish a situation continuing until an endpoint from an event taking place before that endpoint.",
+    "Use when for immediate succession and while or when where as might misleadingly suggest a reason.",
+    "Construct past-perfect sequences with hardly, scarcely and no sooner, including their usual following conjunctions."
+  ],
+  "explanation": [
+    {
+      "heading": "As, when and while: overlap and emphasis",
+      "body": "All three can introduce a time clause meaning at the time that, especially where an event occurs against a longer background. When is usually the clearer choice for a brief event, its immediate consequence, a repeated occasion meaning every time, or a reference to a period in someone’s past. While and as naturally frame continuing activity. These are preferences rather than an absolute prohibition on the other conjunctions in every imaginable context.",
+      "example": "When the projector stopped, the presenter paused; while the audience waited, the technician checked the cables."
+    },
+    {
+      "heading": "Parallel developments and potential ambiguity",
+      "body": "As is especially natural when two developments change together, rather than one merely occurring against a static background. While also works with two simultaneous extended activities. Because as can mean either while or because, a writer should prefer when or while if the context might cause readers to mistake timing for a reason. The intended relation between clauses governs the choice.",
+      "example": "As the fog thickened, the harbour lights became harder to see."
+    },
+    {
+      "heading": "Before, after and until do different jobs",
+      "body": "Before and after put events in an earlier–later order. Until identifies a boundary up to which a state or activity continues and often implies that it stops or changes there. In some descriptions of a continuing situation, until and before both work, but they do not always make the same assertion: until normally suggests continuation up to the stated time; before merely locates an event earlier. The difference matters especially with punctual verbs.",
+      "example": "The archive remained closed until the repairs were finished, but the curator checked the locks before visitors arrived."
+    },
+    {
+      "heading": "Until may introduce the result, not just the end time",
+      "body": "After a durative action, an until clause can state the state or result reached through that action, rather than a separate event that simply followed it. This interpretation is common when the main action is repeated or sustained until a condition holds. Avoid replacing until with before when the important idea is an achieved outcome.",
+      "example": "The restorer polished the brass until it reflected the light."
+    },
+    {
+      "heading": "Immediate succession with hardly, scarcely and no sooner",
+      "body": "Hardly and scarcely typically combine with when or before; no sooner normally takes than, though when is also found. A past perfect in the first clause and past simple in the second commonly mark a rapid sequence of past events. Fronting the negative expression can trigger subject–auxiliary inversion: Hardly had ... when ... and No sooner had ... than ... . Without fronting, ordinary subject–verb order is used. The first event happens before the second, however short the interval.",
+      "example": "No sooner had the doors opened than the crowd moved inside."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A point event versus a gradual change",
+      "left": {
+        "label": "When: a punctual trigger",
+        "example": "When the alarm sounded, the guards went outside.",
+        "note": "When locates the reaction at the brief sounding of the alarm."
+      },
+      "right": {
+        "label": "As: simultaneous development",
+        "example": "As the audience grew quieter, the speaker lowered her voice.",
+        "note": "As presents two developments unfolding together."
+      }
+    },
+    {
+      "title": "A deadline for an action versus continued action",
+      "left": {
+        "label": "Before: ordered events",
+        "example": "She submitted the draft before the meeting began.",
+        "note": "The submission occurred at some earlier time."
+      },
+      "right": {
+        "label": "Until: continuation to a boundary",
+        "example": "She worked on the draft until the meeting began.",
+        "note": "Her work continued up to the meeting and then ended or changed."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "When I lived near the coast, I went swimming every weekend.",
+      "note": "When is a natural way to refer to a past period of someone’s life."
+    },
+    {
+      "sentence": "As the temperature dropped, the sensors began reporting different values.",
+      "note": "As links two evolving conditions."
+    },
+    {
+      "sentence": "While the musicians were rehearsing, the lighting team prepared the stage.",
+      "note": "While frames a lengthy action simultaneous with another."
+    },
+    {
+      "sentence": "The team kept adjusting the lens until the image became sharp.",
+      "note": "Until introduces the achieved result of repeated adjustments."
+    },
+    {
+      "sentence": "Hardly had the train stopped when passengers began reaching for their bags.",
+      "note": "Fronted hardly requires inversion, with when introducing the next event."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "As the power suddenly failed, every screen went dark immediately.",
+      "correct": "When the power suddenly failed, every screen went dark immediately.",
+      "why": "When is clearer for the brief failure and its immediate result; as suggests overlapping duration or may imply a cause."
+    },
+    {
+      "incorrect": "The visitors waited before the museum opened at nine.",
+      "correct": "The visitors waited until the museum opened at nine.",
+      "why": "Until conveys that the waiting continued up to opening time; before alone does not express that boundary as clearly."
+    },
+    {
+      "incorrect": "No sooner had the presentation started when the lights went out.",
+      "correct": "No sooner had the presentation started than the lights went out.",
+      "why": "Than is the standard conjunction with no sooner; when is also possible in some varieties, but than is the conventional target here."
+    },
+    {
+      "incorrect": "Hardly the doors had opened when the queue formed.",
+      "correct": "Hardly had the doors opened when the queue formed.",
+      "why": "Fronted hardly triggers inversion of the auxiliary had and the subject."
+    }
+  ],
+  "studyTips": [
+    "Write pairs with when and as: use a sudden event in the first and two gradual developments in the second, then describe the intended time relationship.",
+    "Build timelines for before and until; specify whether an activity merely happened earlier or continued up to an endpoint.",
+    "Practise no sooner had ... than ... and hardly had ... when ..., then rewrite each with the normal subject first to check inversion."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A warning siren sounded once, and the staff immediately left the lab. Which conjunction best highlights the brief trigger?",
+      "choices": [
+        "Until",
+        "When",
+        "Before"
+      ],
+      "answerIndex": 1,
+      "feedback": "When marks the punctual trigger followed by an immediate reaction; until and before signal different time relationships."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Two changes developed together: the sky darkened and the streetlights became more visible. Choose the clearest sentence.",
+      "choices": [
+        "As the sky darkened, the streetlights became more visible.",
+        "Until the sky darkened, the streetlights became more visible.",
+        "Before the sky darkened, the streetlights became more visible."
+      ],
+      "answerIndex": 0,
+      "feedback": "As is appropriate for parallel changes happening over time."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The librarians continued sorting the papers and stopped only when the final box was full. Choose the correct time link.",
+      "choices": [
+        "They sorted the papers before the final box was full.",
+        "They sorted the papers after the final box was full.",
+        "They sorted the papers until the final box was full."
+      ],
+      "answerIndex": 2,
+      "feedback": "Until states the endpoint of the continuing sorting activity."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Complete the formal inversion pattern: \"No sooner had the exhibition opened ___ visitors began to queue.\"",
+      "choices": [
+        "while",
+        "than",
+        "until"
+      ],
+      "answerIndex": 1,
+      "feedback": "No sooner ... than is the established immediate-succession pairing."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "\"___ the river rose, the bridges became increasingly difficult to cross.\" Supply the conjunction that presents two gradual changes as parallel.",
+      "acceptedAnswers": [
+        "As"
+      ],
+      "feedback": "As presents the rising river and increasing difficulty as simultaneous developments."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "\"The photographer kept moving the lamp ___ the shadows disappeared.\" Supply the conjunction that introduces the achieved endpoint.",
+      "acceptedAnswers": [
+        "until"
+      ],
+      "feedback": "Until shows that the adjustments continued to the desired result."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "\"Hardly had the guests sat down ___ the announcement began.\" Supply the conventional conjunction beginning the second event.",
+      "acceptedAnswers": [
+        "when"
+      ],
+      "feedback": "Hardly had ... when ... is a common immediate-succession structure."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "\"No ___ had the storm passed than the rescue teams set off.\" Complete the fixed phrase with one word.",
+      "acceptedAnswers": [
+        "sooner"
+      ],
+      "feedback": "No sooner had ... than ... marks rapid succession of two past events."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the inversion: \"Scarcely the concert had begun when the lights went out.\"",
+      "acceptedAnswers": [
+        "Scarcely had the concert begun when the lights went out."
+      ],
+      "feedback": "Fronted scarcely is followed by auxiliary–subject inversion: had the concert begun."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the conjunction to show continuous practice up to success: \"She practised before she could play the passage without mistakes.\"",
+      "acceptedAnswers": [
+        "She practised until she could play the passage without mistakes."
+      ],
+      "feedback": "Until better expresses practising continuously up to the successful outcome."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the conjunction pattern using the conventional no sooner ... than form: \"No sooner had the doors closed while the bell rang.\"",
+      "acceptedAnswers": [
+        "No sooner had the doors closed than the bell rang."
+      ],
+      "feedback": "No sooner ... than expresses one event immediately after another."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the conjunction for a brief event followed by an immediate reaction: \"While the glass shattered, everyone jumped.\"",
+      "acceptedAnswers": [
+        "When the glass shattered, everyone jumped."
+      ],
+      "feedback": "When is the clearer choice for the punctual shattering and immediate reaction."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Give one sentence about a sudden event and reaction. Facts: the alarm / ring; everyone / stop talking. Use \"When\" and the past simple.",
+      "acceptedAnswers": [
+        "When the alarm rang, everyone stopped talking."
+      ],
+      "feedback": "When marks the brief trigger followed by the response."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Describe two gradual developments. Facts: the rain / get heavier; the road / become slippery. Begin with \"As\" and use the past simple.",
+      "acceptedAnswers": [
+        "As the rain got heavier, the road became slippery."
+      ],
+      "feedback": "As links the two gradual changes."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Link two simultaneous activities. Facts: the crew / work backstage; the audience / wait outside. Start with \"While\" and use the past continuous in both clauses.",
+      "acceptedAnswers": [
+        "While the crew were working backstage, the audience were waiting outside."
+      ],
+      "feedback": "While frames concurrent ongoing actions; plural crew and audience take were in this target sentence."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Say that the repairs continued to the stated finishing point. Facts: the team / work / until midnight. Use the past simple.",
+      "acceptedAnswers": [
+        "The team worked until midnight."
+      ],
+      "feedback": "Until expresses the endpoint of the period of work."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Put the events in order. Facts: I / check the map; I / leave the hotel. Use one sentence beginning with \"Before\" and the past simple.",
+      "acceptedAnswers": [
+        "Before I left the hotel, I checked the map."
+      ],
+      "feedback": "Before identifies the map check as earlier than the departure."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "State an action continuing to a result. Facts: we / polish the surface; it / shine. Use \"until\" and the past simple.",
+      "acceptedAnswers": [
+        "We polished the surface until it shone."
+      ],
+      "feedback": "Until it shone states the result reached through polishing."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Recast using fronted inversion. Facts: the speech / begin; the microphone / fail. Begin with \"Hardly had\" and end the first clause with \"when\".",
+      "acceptedAnswers": [
+        "Hardly had the speech begun when the microphone failed."
+      ],
+      "feedback": "Fronted hardly takes inversion and commonly pairs with when."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Make one immediate-succession sentence. Facts: the gates / open; the runners / start. Begin with \"No sooner had\" and use \"than\".",
+      "acceptedAnswers": [
+        "No sooner had the gates opened than the runners started."
+      ],
+      "feedback": "No sooner had ... than ... shows that the runners started immediately after the gates opened."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "When the final bell rang, the audience stood up immediately.",
+      "prompt": "What caused the audience to stand up?",
+      "choices": [
+        "A speech that lasted an hour.",
+        "The ringing of the final bell.",
+        "A request made the following day."
+      ],
+      "answerIndex": 1,
+      "feedback": "When identifies the punctual bell as the immediate trigger."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "As the tide receded, more of the old stone steps became visible.",
+      "prompt": "How did the two situations develop?",
+      "choices": [
+        "One gradually changed as the other changed.",
+        "The steps disappeared before the tide moved.",
+        "The tide remained completely unchanged."
+      ],
+      "answerIndex": 0,
+      "feedback": "As presents two developments unfolding together."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The technicians stayed until the last reading was recorded.",
+      "prompt": "Transcribe the six-word time clause beginning with \"until\".",
+      "acceptedAnswers": [
+        "until the last reading was recorded"
+      ],
+      "feedback": "Until marks the boundary at which staying ended."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "While the visitors were looking at the paintings, the guide was preparing the next room.",
+      "prompt": "Which activities were happening at the same time?",
+      "choices": [
+        "The visitors left before the guide arrived.",
+        "The guide finished after the building closed.",
+        "The visitors viewed paintings as the guide prepared another room."
+      ],
+      "answerIndex": 2,
+      "feedback": "While introduces simultaneous continuing activities."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "He returned the borrowed camera before the exhibition opened.",
+      "prompt": "When was the camera returned?",
+      "choices": [
+        "After the exhibition closed.",
+        "Earlier than the exhibition opening.",
+        "At exactly the closing time."
+      ],
+      "answerIndex": 1,
+      "feedback": "Before places the return earlier than the opening."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Hardly had the ferry reached the pier when the passengers began gathering their luggage.",
+      "prompt": "What happened immediately after the ferry reached the pier?",
+      "choices": [
+        "Passengers began gathering their luggage.",
+        "The pier was repaired.",
+        "The ferry left for a second voyage."
+      ],
+      "answerIndex": 0,
+      "feedback": "Hardly had ... when ... indicates almost immediate succession."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "No sooner had the curtains risen than the lights dimmed.",
+      "prompt": "Transcribe the six-word expression at the beginning of the sentence.",
+      "acceptedAnswers": [
+        "No sooner had the curtains risen"
+      ],
+      "feedback": "The past perfect is introduced by no sooner and followed by than."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We reviewed the evidence until the disagreement was resolved.",
+      "prompt": "Transcribe the final five-word time clause, beginning with \"until\".",
+      "acceptedAnswers": [
+        "until the disagreement was resolved"
+      ],
+      "feedback": "The until clause names the result at which the review ended."
+    }
+  ]
+}

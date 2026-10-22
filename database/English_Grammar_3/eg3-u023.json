@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u023",
+  "title": "Passive Patterns with Objects, Complements and Multi-word Verbs",
+  "level": "C1",
+  "topicId": "eg3-u023-forming-passive-sentences-objects-complements-and-multi-word",
+  "summary": "Build natural passive sentences from verbs with two objects, object complements, bare infinitives and multi-word verbs. Recognise when a verb requires a preposition, when a particle must be retained and when a particular meaning does not allow a passive.",
+  "learningObjectives": [
+    "Transform a double-object construction into either of its legitimate passive patterns while retaining the appropriate preposition.",
+    "Distinguish verbs that allow an indirect-object passive from reporting verbs that normally make the thing reported the passive subject.",
+    "Preserve an object complement and change a bare infinitive into a to-infinitive where passive syntax requires it.",
+    "Form appropriate passives of transitive multi-word verbs and identify senses or idioms that resist the passive."
+  ],
+  "explanation": [
+    {
+      "heading": "Two objects can offer two passive subjects",
+      "body": "Transfer and communication verbs such as offer, send, hand, lend and award often allow both a recipient and a thing as objects. For verbs permitting both active orders, either may become the passive subject: the recipient was offered a role, or a role was offered to the recipient. Keep the tense of the original. The direct-object passive generally retains to (or another verb-specific preposition) before the recipient; do not treat every two-object verb as freely interchangeable.",
+      "example": "The visitors were lent audio guides, and spare guides were lent to the school group."
+    },
+    {
+      "heading": "Reporting verbs do not always permit recipient passives",
+      "body": "Explain, describe, announce, propose, suggest and similar reporting verbs typically take a direct object followed by a preposition phrase, not the give-type double-object frame. Their ordinary passives promote the reported information: the revised policy was described to the staff, rather than the staff was described the revised policy. A recipient passive may be possible in other senses for some verbs; follow the precise grammatical pattern and meaning.",
+      "example": "The revised timetable was explained to the volunteers before the doors opened."
+    },
+    {
+      "heading": "Objects followed by complements",
+      "body": "With verbs such as elect, appoint, name, call and declare, an object may be followed by a role or descriptive complement. After conversion, the former object becomes the subject, while the complement stays in position: appointed the editor chair becomes the editor was appointed chair. The complement is not another direct object and should not be dropped. Articles with titles depend on the construction and context.",
+      "example": "The judges declared the final performance a success."
+    },
+    {
+      "heading": "Passive forms and the infinitive after perception or causation",
+      "body": "Some active structures have object + bare infinitive, notably make somebody do something and perception verbs such as see or hear. When these are passivised, a to-infinitive is normally used to express the complete action: the employee was made to repeat the test. Perception verbs also permit -ing for activity in progress, which has a different aspectual meaning and is developed in the next unit. Ordinary let is not generally passivised as was let to; was allowed to is often the natural alternative.",
+      "example": "The witness was heard to call for assistance before the alarm sounded."
+    },
+    {
+      "heading": "Multi-word passives depend on transitivity and meaning",
+      "body": "A transitive multi-word expression can often be passivised while keeping its particle or preposition: the proposals were looked into; the patient was looked after. Other expressions, such as come up against, take after and brush up on, normally resist passive conversion in their usual idiomatic senses. The same string may also have different meanings: the lights were put out is fine, but the idiom put out a hand to steady oneself does not naturally yield a corresponding passive. Decide from meaning rather than surface form alone.",
+      "example": "The complaint was looked into promptly, but a similar obstacle was simply encountered again."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Giving verbs versus explaining verbs",
+      "left": {
+        "label": "Two-object verb",
+        "example": "Rita was sent the schedule.",
+        "note": "Send allows the recipient to become the passive subject."
+      },
+      "right": {
+        "label": "Reporting verb with to",
+        "example": "The schedule was explained to Rita.",
+        "note": "Explain requires the information to be the passive subject in this use."
+      }
+    },
+    {
+      "title": "A passivisable phrase versus a resistant idiom",
+      "left": {
+        "label": "Transitive multi-word verb",
+        "example": "The requests were dealt with promptly.",
+        "note": "The preposition stays attached to the passive verb phrase."
+      },
+      "right": {
+        "label": "Idiom without a normal passive",
+        "example": "The walkers came up against a barrier.",
+        "note": "Come up against in this sense has no ordinary passive equivalent with the barrier as subject."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "An invitation was offered to each shortlisted candidate.",
+      "note": "The thing offered becomes the subject; to introduces the recipient."
+    },
+    {
+      "sentence": "The students were shown the restoration workshop.",
+      "note": "Show permits a passive with the recipients as subjects."
+    },
+    {
+      "sentence": "The revised procedure was described to the safety officers.",
+      "note": "Describe takes the reported thing as passive subject, not an ordinary recipient passive."
+    },
+    {
+      "sentence": "A newcomer was appointed team captain after the vote.",
+      "note": "Team captain remains a complement identifying the new role."
+    },
+    {
+      "sentence": "The missing parcel was eventually accounted for.",
+      "note": "Account for is kept together in the passive; the preposition is not omitted."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The trainees were explained the emergency procedure.",
+      "correct": "The emergency procedure was explained to the trainees.",
+      "why": "Explain does not normally use the recipient as a passive subject for this meaning; the information becomes subject."
+    },
+    {
+      "incorrect": "The pianist was made play the passage again.",
+      "correct": "The pianist was made to play the passage again.",
+      "why": "After passive made, the complement is a to-infinitive, unlike active make somebody play."
+    },
+    {
+      "incorrect": "She was elected to chairperson by a unanimous vote.",
+      "correct": "She was elected chairperson by a unanimous vote.",
+      "why": "In the pattern elect someone chairperson, the role is a direct subject complement without as."
+    },
+    {
+      "incorrect": "The complaint was looked into it by the committee.",
+      "correct": "The complaint was looked into by the committee.",
+      "why": "The passive retains into but does not add a second object pronoun."
+    }
+  ],
+  "studyTips": [
+    "For each ditransitive verb, write both passive subjects where the verb permits them and check the retained to/for preposition.",
+    "Sort expressions by pattern: offer someone something; explain something to someone; elect someone chair; make someone do something.",
+    "Test a multi-word verb in its precise meaning before constructing a passive; do not force idiomatic meanings into an unnatural form."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which passive naturally expresses that staff explained a new regulation to the visitors?",
+      "choices": [
+        "The visitors were explained the regulation.",
+        "The regulation was explained to the visitors.",
+        "The regulation was explained the visitors."
+      ],
+      "answerIndex": 1,
+      "feedback": "Explained promotes the regulation, while to introduces the people receiving the explanation."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "A gallery lent a portable guide to an individual guest. Which sentence correctly makes the recipient the subject?",
+      "choices": [
+        "The guest was lent a portable guide.",
+        "The guest was lent to a portable guide.",
+        "The guide was lent a guest."
+      ],
+      "answerIndex": 0,
+      "feedback": "Lend allows a recipient passive: the guest was lent a portable guide."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "They appointed Mira treasurer. Choose the passive that preserves the role complement.",
+      "choices": [
+        "Mira was appointed to treasurer.",
+        "Treasurer was appointed Mira.",
+        "Mira was appointed treasurer."
+      ],
+      "answerIndex": 2,
+      "feedback": "Treasurer stays as a complement of Mira without an inserted preposition."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the passive of “The coach made the swimmers repeat the drill.”",
+      "choices": [
+        "The swimmers were made repeat the drill.",
+        "The swimmers were made to repeat the drill.",
+        "The swimmers were made repeating the drill."
+      ],
+      "answerIndex": 1,
+      "feedback": "Passive make takes to + infinitive: were made to repeat."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Use a recipient passive: “The organiser ___ (offer) a refund.” Write the complete past-simple passive verb phrase.",
+      "acceptedAnswers": [
+        "was offered"
+      ],
+      "feedback": "Was offered allows the organiser to receive the refund."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Report the information as subject: “The changes ___ (announce) to the staff yesterday.” Supply the past-simple passive phrase.",
+      "acceptedAnswers": [
+        "were announced"
+      ],
+      "feedback": "Were announced is a past passive; to the staff remains the recipient phrase."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Fill the complete passive phrase: “The dispute ___ (look into) by an independent panel last month.”",
+      "acceptedAnswers": [
+        "was looked into"
+      ],
+      "feedback": "The multi-word verb look into keeps its preposition when passivised."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete a causative passive: “The interns ___ (make) to redo the forms.” Give the past-simple passive verb phrase.",
+      "acceptedAnswers": [
+        "were made"
+      ],
+      "feedback": "Were made is followed by the already supplied to redo."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the recipient pattern: The timetable was suggested the commuters.",
+      "acceptedAnswers": [
+        "The timetable was suggested to the commuters."
+      ],
+      "feedback": "Suggest ordinarily takes a to-prepositional recipient phrase in this use."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the passive complement: Amara was named to captain of the team.",
+      "acceptedAnswers": [
+        "Amara was named captain of the team."
+      ],
+      "feedback": "The complement captain of the team directly identifies the role in this naming construction."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the passive infinitive: The child was heard shout from the corridor.",
+      "acceptedAnswers": [
+        "The child was heard to shout from the corridor."
+      ],
+      "feedback": "A complete action after passive heard takes a to-infinitive in this pattern."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the particle placement: All the enquiries were dealt promptly with.",
+      "acceptedAnswers": [
+        "All the enquiries were dealt with promptly."
+      ],
+      "feedback": "The fixed multi-word verb deal with is preserved before promptly."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Report a recipient passive. Facts: Lina / give / a new access card / yesterday. Use past-simple passive.",
+      "acceptedAnswers": [
+        "Lina was given a new access card yesterday."
+      ],
+      "feedback": "Given can passivise the recipient without to."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Make the object the subject. Facts: A certificate / award / to the winner / on Monday. Use past-simple passive.",
+      "acceptedAnswers": [
+        "A certificate was awarded to the winner on Monday."
+      ],
+      "feedback": "The certificate becomes subject, with to marking the recipient."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Report what was explained, not who heard it. Facts: The new rule / explain / to the drivers. Use past-simple passive.",
+      "acceptedAnswers": [
+        "The new rule was explained to the drivers."
+      ],
+      "feedback": "The rule is the subject after passive explained."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Retain the role complement. Facts: Priya / elect / chair / yesterday. Use a complete passive sentence.",
+      "acceptedAnswers": [
+        "Priya was elected chair yesterday."
+      ],
+      "feedback": "Chair is the complement naming Priya’s new role."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Convert a causative. Facts: The choir / make / rehearse twice. Use past-simple passive and to-infinitive.",
+      "acceptedAnswers": [
+        "The choir was made to rehearse twice."
+      ],
+      "feedback": "Made takes to rehearse after passivisation."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Passivise a multi-word verb. Facts: The proposal / look into / last week. Use past-simple passive.",
+      "acceptedAnswers": [
+        "The proposal was looked into last week."
+      ],
+      "feedback": "Looked into keeps the particle in the passive."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this passive aloud: The route was described the guests.",
+      "acceptedAnswers": [
+        "The route was described to the guests."
+      ],
+      "feedback": "A description is given to someone, with to before the recipient."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two sentences in this order. Past recipient passive: Eva / send / a reminder. Past multi-word passive: The concern / deal with. Use full forms.",
+      "acceptedAnswers": [
+        "Eva was sent a reminder. The concern was dealt with."
+      ],
+      "feedback": "The first passive promotes the recipient; the second preserves the entire multi-word verb."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The residents were sent an updated map, and a printed map was sent to each household.",
+      "prompt": "What is true of the two passive clauses?",
+      "choices": [
+        "Both have the same grammatical subject.",
+        "The first promotes the recipients; the second promotes the map.",
+        "Neither uses a transfer verb."
+      ],
+      "answerIndex": 1,
+      "feedback": "Were sent allows either recipients or the transferred object to become subject."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The architect explained the modification to the builders. The modification was then explained to the inspectors.",
+      "prompt": "Which element is the subject of the passive clause?",
+      "choices": [
+        "The modification.",
+        "The inspectors.",
+        "The architect."
+      ],
+      "answerIndex": 0,
+      "feedback": "Explain promotes the information, not the recipient."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The runners were awarded certificates at the closing ceremony.",
+      "prompt": "Transcribe the two-word passive verb phrase immediately after “runners”.",
+      "acceptedAnswers": [
+        "were awarded"
+      ],
+      "feedback": "Were awarded is the audible passive with a recipient subject."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "At the annual meeting, Camille was appointed deputy director after a unanimous decision.",
+      "prompt": "What grammatical role does “deputy director” have?",
+      "choices": [
+        "It is an omitted agent.",
+        "It is a separate passive subject.",
+        "It is a complement naming Camille’s new position."
+      ],
+      "answerIndex": 2,
+      "feedback": "Deputy director is a role complement retained after appointed."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The recruits were made to repeat the safety briefing before starting work.",
+      "prompt": "Why is “to” present before “repeat”?",
+      "choices": [
+        "All past tenses require to.",
+        "The passive of make plus a bare infinitive takes a to-infinitive.",
+        "Repeat is a noun in this sentence."
+      ],
+      "answerIndex": 1,
+      "feedback": "The active make somebody repeat pattern becomes be made to repeat."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The missing receipts were accounted for during the audit, but the auditors came up against several new obstacles.",
+      "prompt": "Which expression is used in a passive here?",
+      "choices": [
+        "Were accounted for.",
+        "Came up against.",
+        "Both expressions."
+      ],
+      "answerIndex": 0,
+      "feedback": "Account for forms a passive; come up against is active and resists a usual passive."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The incident was looked into by an external investigator.",
+      "prompt": "Transcribe the three-word passive phrase after “incident”.",
+      "acceptedAnswers": [
+        "was looked into"
+      ],
+      "feedback": "Was looked into retains the final preposition."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The children were made to leave the hall before the event began.",
+      "prompt": "Transcribe the four-word passive phrase after “children”, including the infinitive.",
+      "acceptedAnswers": [
+        "were made to leave"
+      ],
+      "feedback": "Were made to leave is a causative passive with the required to-infinitive."
+    }
+  ]
+}

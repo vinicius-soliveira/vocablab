@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u050",
+  "title": "Much, Many, Lots of and Advanced Quantifiers",
+  "level": "C1",
+  "topicId": "eg3-u050-much-many-a-lot-of-lots-of-etc",
+  "summary": "Choose quantity expressions according to countability, definiteness, register and meaning; use partitives, many a, emphatic degree expressions and plenty of accurately.",
+  "learningObjectives": [
+    "Distinguish much, many and informal a lot of or lots of, including formal affirmative statements and pronominal uses.",
+    "Form quantified expressions with defined groups, possessives, periods of time and number expressions.",
+    "Use many a + singular noun, a good or great many, a good or great deal of and far too much/many with correct agreement.",
+    "Distinguish plenty of as a claim of sufficiency from expressions that merely report a large quantity, while recognising informal exaggeration."
+  ],
+  "explanation": [
+    {
+      "heading": "Countability, register and formal affirmative usage",
+      "body": "Many goes with plural countable nouns; much goes with uncountable nouns. In neutral affirmative conversation, a lot of or lots of is often more natural than bare much, and frequently replaces many. Academic or formal writing more readily accepts affirmative much, many, much of or many of. Much and many can stand alone as pronouns in suitable formal contexts: Much remains uncertain; Many disagree.",
+      "example": "Many researchers have questioned the results, but much remains to be investigated."
+    },
+    {
+      "heading": "Definite groups, time periods and large numbers",
+      "body": "Before an identified noun group, many of and much of require an appropriate determiner or pronoun: many of the guests; much of this evidence; many of them. Do not say many of guests. Many is especially common with periods and large-number expressions: many months, many hundreds of applicants. Phrases such as a substantial amount of funding and a considerable number of reports can be precise formal alternatives.",
+      "example": "Many of the archived letters were damaged after many years in storage."
+    },
+    {
+      "heading": "Possessives, many a and agreement",
+      "body": "Many can follow the, a possessive or similar determiner: her many achievements, the many obstacles. Many a + singular countable noun is a literary or formal way of referring to repeated individuals or occasions, and it takes a singular verb: Many a visitor has remarked on the view. This is not interchangeable in form with many visitors have.",
+      "example": "Many a colleague has offered advice, and her many suggestions have been valuable."
+    },
+    {
+      "heading": "Strengthening amount and degree",
+      "body": "A good many and a great many precede plural countable nouns; a good deal of and a great deal of can quantify uncountable nouns or portions of something. Use far, rather than much or many, as the usual intensifier directly before too many + a plural noun or too much + an uncountable noun: far too many errors, far too much noise. A great deal of effort is a quantity; far too much effort expresses excess.",
+      "example": "Far too many reminders were sent, and a great deal of staff time was wasted."
+    },
+    {
+      "heading": "Plenty of, exaggerated quantities and nuance",
+      "body": "Plenty of combines with plural countable and uncountable nouns, but it normally suggests enough or more than enough, rather than a large amount in every possible context. It is unsuitable when that sufficiency implication conflicts with the intended meaning. Informal loads of and tons of suggest a very large quantity, and millions of takes a plural countable noun. Register, not just grammar, influences the most natural choice.",
+      "example": "There was plenty of food for the guests, but we still had tons of paperwork to finish."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Indefinite quantity and a defined subset",
+      "left": {
+        "label": "Many + plural countable noun",
+        "example": "Many residents attended the meeting.",
+        "note": "Many quantifies residents without selecting a previously defined set."
+      },
+      "right": {
+        "label": "Many of + determined noun phrase",
+        "example": "Many of the residents attended the meeting.",
+        "note": "Of introduces the identifiable residents being discussed."
+      }
+    },
+    {
+      "title": "Large quantity versus sufficient quantity",
+      "left": {
+        "label": "A lot of",
+        "example": "The project required a lot of materials.",
+        "note": "States the size of the quantity without necessarily implying it was enough."
+      },
+      "right": {
+        "label": "Plenty of",
+        "example": "We had plenty of materials to finish the project.",
+        "note": "Suggests the quantity was sufficient for the purpose."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Much of the budget was committed before the contract was signed.",
+      "note": "Much of selects a defined portion of an uncountable total."
+    },
+    {
+      "sentence": "Many hundreds of residents took part in the consultation.",
+      "note": "Many is natural before a large-number expression followed by of."
+    },
+    {
+      "sentence": "Many a scientist has revised an early hypothesis.",
+      "note": "Many a takes a singular noun and a singular verb, despite its meaning of several individuals."
+    },
+    {
+      "sentence": "The building used far too much electricity during the summer.",
+      "note": "Far intensifies too much before the uncountable noun electricity."
+    },
+    {
+      "sentence": "We brought plenty of blankets, so everyone could sleep comfortably.",
+      "note": "Plenty of means that the available blankets were sufficient."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Many of employees attended the briefing.",
+      "correct": "Many of the employees attended the briefing.",
+      "why": "Many of requires a defined group; use the employees or another determiner."
+    },
+    {
+      "incorrect": "Many a visitor have asked about the painting.",
+      "correct": "Many a visitor has asked about the painting.",
+      "why": "Many a takes a singular countable noun and singular verb agreement."
+    },
+    {
+      "incorrect": "There was far too many traffic on the bridge.",
+      "correct": "There was far too much traffic on the bridge.",
+      "why": "Traffic is uncountable, so too much rather than too many is required."
+    },
+    {
+      "incorrect": "The organisers provided a plenty of drinking water.",
+      "correct": "The organisers provided plenty of drinking water.",
+      "why": "Plenty of is itself a quantifier and does not take an additional indefinite article."
+    }
+  ],
+  "studyTips": [
+    "Underline every quantified noun and classify it as plural countable or uncountable; then check whether the group is specific.",
+    "Rewrite an informal description using more formal quantifiers, checking the meaning remains unchanged rather than simply replacing words.",
+    "Contrast a lot of, plenty of, and far too much in three scenarios: high quantity, sufficient quantity and excessive quantity."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the phrase that introduces a defined plural group: \"___ the survey respondents reported difficulties.\"",
+      "choices": [
+        "Many",
+        "Many of",
+        "Much of"
+      ],
+      "answerIndex": 1,
+      "feedback": "Many of the survey respondents selects a specified plural group."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which expression requires a singular countable noun and singular verb?",
+      "choices": [
+        "Many a",
+        "A great many",
+        "Lots of"
+      ],
+      "answerIndex": 0,
+      "feedback": "Many a is followed by a singular countable noun, as in Many a guest has commented."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Complete the sentence about excessive uncountable sound: \"There was ___ noise during the recording.\"",
+      "choices": [
+        "far too many",
+        "a good many",
+        "far too much"
+      ],
+      "answerIndex": 2,
+      "feedback": "Noise is uncountable, so the correct emphatic combination is far too much noise."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The team had enough chairs for every attendee, with several spare. Complete: \"We had ___ chairs.\"",
+      "choices": [
+        "much",
+        "plenty of",
+        "many of"
+      ],
+      "answerIndex": 1,
+      "feedback": "Plenty of correctly communicates sufficient or more than sufficient chairs."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete the three-word expression using the supplied words: \"___ (many / of / the) committee members voted in favour.\"",
+      "acceptedAnswers": [
+        "Many of the"
+      ],
+      "feedback": "Many of the introduces the specific group of committee members."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete the two-word phrase: \"___ (Many / a) researcher has repeated this observation.\"",
+      "acceptedAnswers": [
+        "Many a"
+      ],
+      "feedback": "Many a takes the singular researcher and the singular verb has."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete the three-word expression: \"There were ___ (far / too / many) mistakes to approve the manuscript.\"",
+      "acceptedAnswers": [
+        "far too many"
+      ],
+      "feedback": "Far too many intensifies an excessive number of countable mistakes."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with the two-word expression implying sufficiency: \"We packed ___ (plenty / of) clean towels for everyone.\"",
+      "acceptedAnswers": [
+        "plenty of"
+      ],
+      "feedback": "Plenty of indicates there were enough clean towels."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: Many of researchers support the revised model.",
+      "acceptedAnswers": [
+        "Many of the researchers support the revised model."
+      ],
+      "feedback": "Many of requires a determiner such as the when it introduces a particular group."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: Many a pilot have described similar turbulence.",
+      "acceptedAnswers": [
+        "Many a pilot has described similar turbulence."
+      ],
+      "feedback": "Many a pilot is grammatically singular and takes has."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: The renovations cost many thousands dollars.",
+      "acceptedAnswers": [
+        "The renovations cost many thousands of dollars."
+      ],
+      "feedback": "A large-number expression such as many thousands takes of before a noun."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: We have plenty chairs for every visitor.",
+      "acceptedAnswers": [
+        "We have plenty of chairs for every visitor."
+      ],
+      "feedback": "Plenty of is the full quantifier, and it expresses that the chairs are sufficient."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make one complete statement. Facts: They / spend / many hours / preparing. Use past simple.",
+      "acceptedAnswers": [
+        "They spent many hours preparing."
+      ],
+      "feedback": "Many hours is a natural quantified period of time."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "State a fact about a defined group. Facts: Many / of / the / speakers / arrive / early. Use past simple.",
+      "acceptedAnswers": [
+        "Many of the speakers arrived early."
+      ],
+      "feedback": "Many of the speakers identifies a particular group."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Give a formal statement using these exact facts: Much / depend / on / the final test. Use present simple.",
+      "acceptedAnswers": [
+        "Much depends on the final test."
+      ],
+      "feedback": "Much functions as a pronoun in formal usage and takes a singular verb."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Use many a and the correct present-perfect agreement. Facts: Many a traveller / have / faced / this delay.",
+      "acceptedAnswers": [
+        "Many a traveller has faced this delay."
+      ],
+      "feedback": "Many a traveller is grammatically singular and takes has."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Correct the phrase in this sentence aloud: \"There were far too many traffic on the motorway.\"",
+      "acceptedAnswers": [
+        "There was far too much traffic on the motorway."
+      ],
+      "feedback": "Traffic is uncountable, so use there was and far too much."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "State that there were enough places. Facts: We / have / plenty of seats / available. Use past simple.",
+      "acceptedAnswers": [
+        "We had plenty of seats available."
+      ],
+      "feedback": "Plenty of expresses a sufficient number of seats."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Make the formal quantity phrase a great many. Facts: A great many / problems / remain. Use present simple.",
+      "acceptedAnswers": [
+        "A great many problems remain."
+      ],
+      "feedback": "A great many modifies the plural countable problems."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce these two sentences, in this order, using past simple. Quantity: They / receive / a lot of requests. Sufficiency: They / have / plenty of time.",
+      "acceptedAnswers": [
+        "They received a lot of requests. They had plenty of time."
+      ],
+      "feedback": "A lot of gives a large number, while plenty of suggests that the time was sufficient."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Many of the participants had submitted the forms before noon, but several submissions were still outstanding.",
+      "prompt": "What does the speaker say about submission progress?",
+      "choices": [
+        "Every participant had submitted a form",
+        "Many had submitted, but some had not",
+        "Nobody had submitted a form"
+      ],
+      "answerIndex": 1,
+      "feedback": "Many of the participants is a substantial subset, not necessarily the entire group."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The organisers spent many weeks preparing the festival, although the opening ceremony lasted only twenty minutes.",
+      "prompt": "How long did the preparation take?",
+      "choices": [
+        "Many weeks",
+        "Twenty minutes",
+        "Several years"
+      ],
+      "answerIndex": 0,
+      "feedback": "Many weeks quantifies the extended preparation period."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Many a visitor has paused to admire the painted ceiling in the entrance hall.",
+      "prompt": "Transcribe the three-word expression referring to repeated individual visitors.",
+      "acceptedAnswers": [
+        "many a visitor"
+      ],
+      "feedback": "Many a visitor has a singular form with an iterative plural meaning."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "We have plenty of chairs for the entire audience, so there is no need to rent more.",
+      "prompt": "Why does the organiser not need to rent additional chairs?",
+      "choices": [
+        "The room has no audience",
+        "They are too expensive",
+        "There are enough chairs already"
+      ],
+      "answerIndex": 2,
+      "feedback": "Plenty of expresses sufficiency, not just a vague large number."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Far too much paperwork is slowing down the application process this month.",
+      "prompt": "What is present in an excessive amount?",
+      "choices": [
+        "Time",
+        "Paperwork",
+        "Applicants"
+      ],
+      "answerIndex": 1,
+      "feedback": "The uncountable paperwork is quantified by far too much."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Much of the research addresses coastal flooding, whereas the final section examines drought.",
+      "prompt": "What does much of refer to?",
+      "choices": [
+        "A large part of the research",
+        "Most of the researchers",
+        "A number of coastal towns"
+      ],
+      "answerIndex": 0,
+      "feedback": "Much of introduces a substantial portion of an identified uncountable body of research."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The community centre has a great many volunteers helping with the weekend programme.",
+      "prompt": "Transcribe the four-word quantity expression describing the volunteers.",
+      "acceptedAnswers": [
+        "a great many volunteers"
+      ],
+      "feedback": "A great many precedes a plural countable noun."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Preparing for the interview took a good deal of careful planning.",
+      "prompt": "Transcribe the four-word quantity expression ending in the word of.",
+      "acceptedAnswers": [
+        "a good deal of"
+      ],
+      "feedback": "A good deal of quantifies an uncountable activity or effort."
+    }
+  ]
+}

@@ -1,0 +1,923 @@
+{
+  "format": "vocablab-content-package",
+  "version": 1,
+  "id": "ec2-units-45-46-final",
+  "title": "English Collocations 2 · Units 45–46",
+  "bookId": "english-collocations-2",
+  "publisher": "VocabLab",
+  "level": "C1–C2",
+  "description": "Advanced combinations for personality and behaviour, physical space, time, memory and history.",
+  "coverage": "source-checked-reviewed",
+  "sourceNotice": "Original learning examples and translations prepared using the educational scope of a user-provided reference; source exercise text, passages, artwork and audio are not included.",
+  "audit": {
+    "includedUnits": [
+      45,
+      46
+    ],
+    "scope": "Teaching pages 98–101 and corresponding answer keys on PDF pages 155–156 inspected for units 45–46.",
+    "bookPrintedPages": [
+      94,
+      95,
+      96,
+      97
+    ],
+    "pdfPages": [
+      98,
+      99,
+      100,
+      101
+    ],
+    "answerKeyPdfPages": [
+      155,
+      156
+    ],
+    "pronunciation": "Unverified whole-phrase IPA remains blank; browser TTS may be used for word and example audio.",
+    "languagePolicy": "All learning content is in English except item.pt, which contains Brazilian Portuguese.",
+    "reviewMethod": "Source/exercise/key mapping, original English sentence writing, Brazilian Portuguese localisation and standalone structural audit; VocabLab application import and browser audio have not been tested.",
+    "editorialStatus": "source-reviewed-audited",
+    "limitations": "Individual cards use short lexical targets from the reference; source exercises and passages are not reproduced. Runtime and actual TTS quality remain unverified.",
+    "itemCounts": {
+      "unit45": 32,
+      "unit46": 33,
+      "total": 65
+    },
+    "canonicalPolicy": "Exact record structure follows the existing Intermediate collocations content package, with neutral public course identity."
+  },
+  "units": [
+    {
+      "id": "ec2-u45",
+      "number": 45,
+      "title": "Unit 45 — Personality and behaviour",
+      "level": "C1–C2",
+      "source": "VocabLab editorial reference: unit 45",
+      "bookId": "english-collocations-2",
+      "bookTitle": "English Collocations 2",
+      "category": "People",
+      "sourcePage": 98,
+      "coverage": "source-checked",
+      "learningObjectives": [
+        "Describe personality and outward behaviour using precise combinations for friendliness, frankness, energy and hostility.",
+        "Distinguish compliments such as bubbly personality and sharp wit from critical judgements such as abrasive manner and open hostility.",
+        "Use natural collocations for appearance, confidence, resemblance and age-related behaviour.",
+        "Recognise the figurative meaning and register of expressions such as a gruff exterior and a stubborn streak."
+      ],
+      "items": [
+        {
+          "id": "personality-traits",
+          "word": "personality traits",
+          "pt": "traços de personalidade",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "The mentoring programme helps students identify personality traits that influence teamwork.",
+          "note": "Personality traits are relatively consistent features of a person's character; the phrase is neutral and analytical.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "terminology"
+        },
+        {
+          "id": "personal-characteristics",
+          "word": "personal characteristics",
+          "pt": "características pessoais",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "Reliability and patience are personal characteristics valued by the care team.",
+          "note": "Personal characteristics is a broad expression for qualities and patterns of behaviour.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-troubled-relationship",
+          "word": "a troubled relationship",
+          "pt": "um relacionamento conturbado",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "The siblings rebuilt a troubled relationship after years of disagreement.",
+          "note": "Troubled relationship describes an ongoing connection marked by conflict or difficulty.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "thinly-disguised-dislike",
+          "word": "thinly disguised dislike",
+          "pt": "antipatia mal disfarçada",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "Her thinly disguised dislike of the policy became obvious during the debate.",
+          "note": "Thinly disguised means the negative feeling is only barely concealed, rather than openly admitted.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "not-someones-strong-point",
+          "word": "not someone's strong point",
+          "pt": "não ser o ponto forte de alguém",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "Impromptu speaking is not Daniel's strong point, although his written work is excellent.",
+          "note": "Strong point refers to an ability or quality someone does particularly well; the possessive changes with the person.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "a-stubborn-streak",
+          "word": "a stubborn streak",
+          "pt": "um lado teimoso",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "Despite her flexibility at work, she has a stubborn streak when making personal plans.",
+          "note": "A streak is one noticeable part of a person's character, not their entire personality.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-gruff-exterior",
+          "word": "a gruff exterior",
+          "pt": "uma aparência ou atitude exterior ríspida",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "Behind his gruff exterior, the caretaker was considerate and patient.",
+          "note": "Gruff exterior contrasts an apparently harsh manner with qualities that may be different underneath.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-sharp-wit",
+          "word": "a sharp wit",
+          "pt": "um humor rápido e perspicaz",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "Her sharp wit enlivened the panel discussion without embarrassing anyone.",
+          "note": "Sharp wit refers to quick, intelligent humour, not physical sharpness.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "downright-rude",
+          "word": "downright rude",
+          "pt": "extremamente grosseiro",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "Interrupting the guest repeatedly was downright rude.",
+          "note": "Downright intensifies a negative judgement and sounds emphatic and critical.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "pent-up-anger",
+          "word": "pent-up anger",
+          "pt": "raiva reprimida",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "Years of pent-up anger surfaced when the neighbours finally discussed the dispute.",
+          "note": "Pent-up anger is strong anger that has accumulated without being expressed openly.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-forthright-manner",
+          "word": "a forthright manner",
+          "pt": "um jeito direto e franco",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "The new manager's forthright manner made expectations clear from the start.",
+          "note": "Forthright describes speaking directly and honestly; it need not mean deliberately offensive.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "open-hostility",
+          "word": "open hostility",
+          "pt": "hostilidade explícita",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "The proposal met with open hostility from several committee members.",
+          "note": "Open hostility is undisguised antagonism, stronger than a merely cool response.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "intimidating-characteristics",
+          "word": "intimidating characteristics",
+          "pt": "características intimidadoras",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "The interviewer avoided using intimidating characteristics as a measure of leadership.",
+          "note": "Intimidating describes qualities or behaviour that make others feel nervous or threatened.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-special-relationship",
+          "word": "a special relationship",
+          "pt": "uma relação especial",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "The two researchers developed a special relationship built on mutual respect.",
+          "note": "A special relationship suggests an unusually close or valued connection, not necessarily a romantic one.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "boundless-energy",
+          "word": "boundless energy",
+          "pt": "energia inesgotável",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "The volunteer seemed to have boundless energy throughout the weekend event.",
+          "note": "Boundless strongly suggests seemingly unlimited energy; it is normally complimentary.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "boost-someones-confidence",
+          "word": "boost someone's confidence",
+          "pt": "aumentar a confiança de alguém",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "Constructive feedback can boost a trainee's confidence before an important presentation.",
+          "note": "Boost confidence means raise how sure someone feels about their ability; it takes a possessive or named person.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-bubbly-personality",
+          "word": "a bubbly personality",
+          "pt": "uma personalidade alegre e expansiva",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "The presenter has a bubbly personality that puts nervous guests at ease.",
+          "note": "Bubbly personality is an approving, informal description of someone lively and cheerful.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-dazzling-smile",
+          "word": "a dazzling smile",
+          "pt": "um sorriso deslumbrante",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "The actor greeted the audience with a dazzling smile after the performance.",
+          "note": "Dazzling smile is an expressive, highly complimentary description of an especially striking smile.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "bear-a-striking-resemblance-to",
+          "word": "bear a striking resemblance to",
+          "pt": "ter uma semelhança impressionante com",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "These two cousins bear a striking resemblance to each other despite growing up apart.",
+          "note": "Bear a striking resemblance to means look remarkably similar; the verb agrees with the subject.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "admirable-qualities",
+          "word": "admirable qualities",
+          "pt": "qualidades admiráveis",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "Her discretion and generosity are admirable qualities in a community leader.",
+          "note": "Admirable qualities are character features that deserve praise or respect.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "look-your-age",
+          "word": "look your age",
+          "pt": "aparentar a própria idade",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "The photographer was surprised that the twins did not look their age.",
+          "note": "Look your age means appear to be as old as you actually are; vary the possessive pronoun.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "act-your-age",
+          "word": "act your age",
+          "pt": "agir de acordo com a própria idade",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "The coach told the adults to act their age after a childish argument.",
+          "note": "Act your age concerns age-appropriate behaviour, and can sound disapproving or teasing.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "bursting-with-energy",
+          "word": "bursting with energy",
+          "pt": "cheio de energia",
+          "ipa": "",
+          "section": "A · Describing people's personality",
+          "example": "The children were bursting with energy after their afternoon nap.",
+          "note": "Bursting with energy is vivid and informal; it commonly suggests observable enthusiasm and activity.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "a-blank-expression",
+          "word": "a blank expression",
+          "pt": "uma expressão facial vazia ou impassível",
+          "ipa": "",
+          "section": "B · Other useful collocations for behaviour",
+          "example": "His blank expression gave no clue about whether he understood the question.",
+          "note": "Blank expression describes a face showing little emotion or comprehension.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-warm-smile",
+          "word": "a warm smile",
+          "pt": "um sorriso acolhedor",
+          "ipa": "",
+          "section": "B · Other useful collocations for behaviour",
+          "example": "She offered a warm smile to each visitor entering the clinic.",
+          "note": "A warm smile conveys kindness or friendliness; it is not about physical temperature.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-cool-reception",
+          "word": "a cool reception",
+          "pt": "uma recepção fria",
+          "ipa": "",
+          "section": "B · Other useful collocations for behaviour",
+          "example": "The revised timetable received a cool reception from the staff.",
+          "note": "Cool reception is an unfriendly or unenthusiastic welcome; receive and give both combine naturally with it.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "unacceptable-behaviour",
+          "word": "unacceptable behaviour",
+          "pt": "comportamento inaceitável",
+          "ipa": "",
+          "section": "B · Other useful collocations for behaviour",
+          "example": "The school issued a clear policy against unacceptable behaviour during exams.",
+          "note": "Unacceptable behaviour is a firm evaluative phrase for conduct that breaches standards.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "perfectly-friendly",
+          "word": "perfectly friendly",
+          "pt": "perfeitamente amigável",
+          "ipa": "",
+          "section": "B · Other useful collocations for behaviour",
+          "example": "Although the review sounded critical, the discussion afterwards was perfectly friendly.",
+          "note": "Perfectly means entirely or quite here; it does not imply ideal behaviour in every respect.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "an-abrasive-manner",
+          "word": "an abrasive manner",
+          "pt": "um jeito áspero e pouco amistoso",
+          "ipa": "",
+          "section": "B · Other useful collocations for behaviour",
+          "example": "An abrasive manner can undermine an otherwise useful suggestion.",
+          "note": "Abrasive manner describes a harsh or tactless way of dealing with people.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "thinly-disguised-contempt",
+          "word": "thinly disguised contempt",
+          "pt": "desprezo mal disfarçado",
+          "ipa": "",
+          "section": "Exercises · Behaviour and word forms",
+          "example": "The chair responded with thinly disguised contempt when the rules were ignored.",
+          "note": "Contempt is a strong feeling of disrespect; thinly disguised signals that the feeling is barely hidden.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "be-guilty-of-unacceptable-behaviour",
+          "word": "be guilty of unacceptable behaviour",
+          "pt": "ser culpado de comportamento inaceitável",
+          "ipa": "",
+          "section": "B · Other useful collocations for behaviour",
+          "example": "Several spectators were found to be guilty of unacceptable behaviour at the venue.",
+          "note": "Guilty of introduces responsibility for conduct, while unacceptable behaviour names what is criticised.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "strong-points",
+          "word": "strong points",
+          "pt": "pontos fortes",
+          "ipa": "",
+          "section": "Exercises · Evaluating personal qualities",
+          "example": "Careful listening and fairness are among her strongest points as a mediator.",
+          "note": "Strong points refers to positive qualities or abilities; strongest points uses a superlative naturally.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "collocation"
+        }
+      ],
+      "sourceAudit": {
+        "sectionsChecked": [
+          "A · Describing people’s personality (PDF page 98)",
+          "B · Other useful collocations for behaviour (PDF page 98)",
+          "Exercises 45.1–45.4 (PDF page 99)",
+          "Answer key Unit 45 (PDF page 155)"
+        ],
+        "printedPages": [
+          94,
+          95
+        ],
+        "pdfPages": [
+          98,
+          99
+        ],
+        "answerKeyPdfPages": [
+          155
+        ],
+        "editorialScope": "Relevant collocation targets, formal and informal usage distinctions and useful exercise vocabulary were selected from the supplied reference and explained in original learning examples.",
+        "exercisePolicy": "Reference questions, paragraphs, dialogues and key sentences have not been reproduced in the resulting content.",
+        "itemCount": 32,
+        "targetTypes": {
+          "terminology": 1,
+          "collocation": 26,
+          "expression": 5
+        }
+      }
+    },
+    {
+      "id": "ec2-u46",
+      "number": 46,
+      "title": "Unit 46 — Space and time",
+      "level": "C1–C2",
+      "source": "VocabLab editorial reference: unit 46",
+      "bookId": "english-collocations-2",
+      "bookTitle": "English Collocations 2",
+      "category": "Basic concepts",
+      "sourcePage": 100,
+      "coverage": "source-checked",
+      "learningObjectives": [
+        "Describe physical space and housing conditions using conventional collocations and their interchangeable alternatives.",
+        "Distinguish valid space and room expressions from the fixed phrase a waste of space.",
+        "Use advanced expressions for historical change, memories, heritage and cultural achievements.",
+        "Choose time-related combinations such as within living memory, a bygone era and the foreseeable future accurately."
+      ],
+      "items": [
+        {
+          "id": "a-confined-space",
+          "word": "a confined space",
+          "pt": "um espaço restrito",
+          "ipa": "",
+          "section": "A · Talking about space",
+          "example": "The storage cupboard was a confined space with barely enough room to turn around.",
+          "note": "Confined space highlights physical restriction and may also be used in formal safety contexts.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "cramped-conditions",
+          "word": "cramped conditions",
+          "pt": "condições apertadas",
+          "ipa": "",
+          "section": "A · Talking about space",
+          "example": "The interns had to work in cramped conditions during the office renovation.",
+          "note": "Cramped conditions means there is too little physical space for comfort or effective movement.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "short-of-space",
+          "word": "short of space",
+          "pt": "com pouco espaço disponível",
+          "ipa": "",
+          "section": "A · Talking about space",
+          "example": "The design studio is short of space now that a second team has arrived.",
+          "note": "Short of space means lacking enough usable area; short of room is also natural in many contexts.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "short-of-room",
+          "word": "short of room",
+          "pt": "sem espaço suficiente",
+          "ipa": "",
+          "section": "A · Talking about space",
+          "example": "We are short of room for another bookshelf in the hallway.",
+          "note": "Short of room is a natural alternative to short of space when discussing capacity.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "take-up-a-lot-of-space",
+          "word": "take up a lot of space",
+          "pt": "ocupar muito espaço",
+          "ipa": "",
+          "section": "A · Talking about space",
+          "example": "The old filing cabinets take up a lot of space beside the windows.",
+          "note": "Take up space describes the physical area occupied by an object or activity.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "take-up-a-lot-of-room",
+          "word": "take up a lot of room",
+          "pt": "ocupar muito espaço",
+          "ipa": "",
+          "section": "A · Talking about space",
+          "example": "A large dining table would take up a lot of room in that apartment.",
+          "note": "Take up a lot of room is interchangeable with take up a lot of space in this context.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "ample-room",
+          "word": "ample room",
+          "pt": "espaço de sobra",
+          "ipa": "",
+          "section": "A · Talking about space",
+          "example": "The hall has ample room for the entire audience and their luggage.",
+          "note": "Ample room means more than enough space; the adjective has a positive, relatively formal tone.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "ample-space",
+          "word": "ample space",
+          "pt": "espaço amplo e suficiente",
+          "ipa": "",
+          "section": "A · Talking about space",
+          "example": "The workshop provides ample space for small groups to work safely.",
+          "note": "Ample space is an alternative to ample room when sufficient area is emphasised.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-vast-expanse",
+          "word": "a vast expanse",
+          "pt": "uma vasta extensão",
+          "ipa": "",
+          "section": "A · Talking about space",
+          "example": "From the ridge, we could see a vast expanse of grassland stretching west.",
+          "note": "Vast expanse describes an extensive, often open area such as land, sea or sky.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-waste-of-space",
+          "word": "a waste of space",
+          "pt": "um desperdício de espaço",
+          "ipa": "",
+          "section": "A · Talking about space",
+          "example": "An unused staircase in the middle of the flat seemed a waste of space.",
+          "note": "Waste of space is the conventional phrase; waste of room is not standard in this meaning.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "leave-room-for",
+          "word": "leave room for",
+          "pt": "deixar espaço para",
+          "ipa": "",
+          "section": "A · Talking about space",
+          "example": "The architect moved the doors to leave room for a wider corridor.",
+          "note": "Leave room for means reserve sufficient space or capacity for something else.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "leave-space-for",
+          "word": "leave space for",
+          "pt": "deixar espaço para",
+          "ipa": "",
+          "section": "A · Talking about space",
+          "example": "Please leave space for the wheelchair beside the front row.",
+          "note": "Leave space for is interchangeable with leave room for in many physical contexts.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "vacant-parking-spaces",
+          "word": "vacant parking spaces",
+          "pt": "vagas de estacionamento desocupadas",
+          "ipa": "",
+          "section": "A · Talking about space",
+          "example": "There were several vacant parking spaces behind the community centre.",
+          "note": "Vacant parking spaces means unoccupied places to park vehicles, not an unused car park building.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "plenty-of-space",
+          "word": "plenty of space",
+          "pt": "bastante espaço",
+          "ipa": "",
+          "section": "A · Talking about space",
+          "example": "There is plenty of space along the back wall for another desk.",
+          "note": "Plenty of space describes sufficient or generous available area in everyday English.",
+          "audio": "",
+          "contentOrigin": "pedagogical-extension",
+          "targetType": "collocation"
+        },
+        {
+          "id": "over-the-course-of-time",
+          "word": "over the course of time",
+          "pt": "ao longo do tempo",
+          "ipa": "",
+          "section": "B · Talking about time",
+          "example": "Over the course of time, the city's industrial buildings acquired new uses.",
+          "note": "Over the course of time describes gradual change as time passes; it is more formal than over time.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "make-a-lasting-contribution-to",
+          "word": "make a lasting contribution to",
+          "pt": "dar uma contribuição duradoura para",
+          "ipa": "",
+          "section": "B · Talking about time",
+          "example": "Her research made a lasting contribution to the field of renewable energy.",
+          "note": "Make a contribution to takes the preposition to; lasting stresses continuing importance.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "go-down-in-history",
+          "word": "go down in history",
+          "pt": "entrar para a história",
+          "ipa": "",
+          "section": "B · Talking about time",
+          "example": "The rescue operation will go down in history for its extraordinary coordination.",
+          "note": "Go down in history means be remembered as historically significant, for better or worse.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "of-all-time",
+          "word": "of all time",
+          "pt": "de todos os tempos",
+          "ipa": "",
+          "section": "B · Talking about time",
+          "example": "The magazine ranked her among the most influential architects of all time.",
+          "note": "Of all time strengthens a comparison by considering an entire historical period.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "the-golden-era",
+          "word": "the golden era",
+          "pt": "a era de ouro",
+          "ipa": "",
+          "section": "B · Talking about time",
+          "example": "Many critics describe the early decades of radio as the golden era of broadcasting.",
+          "note": "Golden era denotes a period widely regarded as especially successful; golden age is also natural.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "the-golden-age",
+          "word": "the golden age",
+          "pt": "a idade de ouro",
+          "ipa": "",
+          "section": "B · Talking about time",
+          "example": "The exhibition explores the golden age of scientific illustration.",
+          "note": "Golden age is an established alternative to golden era for a period of notable achievement.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "bring-back-memories",
+          "word": "bring back memories",
+          "pt": "trazer lembranças de volta",
+          "ipa": "",
+          "section": "B · Talking about time",
+          "example": "The smell of fresh bread can bring back memories of childhood holidays.",
+          "note": "Bring back memories means evoke recollections; the subject can be a sound, place or smell.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "preserve-for-posterity",
+          "word": "preserve for posterity",
+          "pt": "preservar para as gerações futuras",
+          "ipa": "",
+          "section": "B · Talking about time",
+          "example": "The archive digitised the recordings to preserve them for posterity.",
+          "note": "Preserve for posterity is relatively formal and means keep something for people in the future.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-bygone-era",
+          "word": "a bygone era",
+          "pt": "uma época passada",
+          "ipa": "",
+          "section": "B · Talking about time",
+          "example": "The railway carriage evokes the elegance of a bygone era.",
+          "note": "Bygone era is slightly literary and points to a period that has passed, often long ago.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "restore-to-former-glory",
+          "word": "restore to former glory",
+          "pt": "restaurar à antiga glória",
+          "ipa": "",
+          "section": "B · Talking about time",
+          "example": "Volunteers hope to restore the neglected theatre to its former glory.",
+          "note": "Restore to former glory means return something to a previously admired state, often its original beauty.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "reach-completion",
+          "word": "reach completion",
+          "pt": "chegar à conclusão",
+          "ipa": "",
+          "section": "B · Talking about time",
+          "example": "The bridge repairs should reach completion before winter.",
+          "note": "Reach completion is a relatively formal way to describe a project being finished.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-dim-and-distant-memory",
+          "word": "a dim and distant memory",
+          "pt": "uma lembrança vaga e distante",
+          "ipa": "",
+          "section": "B · Talking about time",
+          "example": "The first week of training is now a dim and distant memory for the whole team.",
+          "note": "Dim and distant memory suggests a past event no longer remembered clearly.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "decades-have-elapsed",
+          "word": "decades have elapsed",
+          "pt": "décadas se passaram",
+          "ipa": "",
+          "section": "B · Talking about time",
+          "example": "Several decades have elapsed since the first version of the machine was built.",
+          "note": "Elapsed is formal for time passing; it usually takes a measured period as subject.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "within-living-memory",
+          "word": "within living memory",
+          "pt": "dentro da memória de pessoas ainda vivas",
+          "ipa": "",
+          "section": "B · Talking about time",
+          "example": "The town has experienced two major floods within living memory.",
+          "note": "Within living memory means recent enough for people who are still alive to remember.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "shape-our-destiny",
+          "word": "shape our destiny",
+          "pt": "moldar nosso destino",
+          "ipa": "",
+          "section": "B · Talking about time",
+          "example": "Decisions about education can shape our destiny over many years.",
+          "note": "Shape our destiny uses shape figuratively to mean influence the course of future events.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "the-not-so-distant-future",
+          "word": "the not-so-distant future",
+          "pt": "um futuro não tão distante",
+          "ipa": "",
+          "section": "B · Talking about time",
+          "example": "Self-driving delivery vehicles may become commonplace in the not-so-distant future.",
+          "note": "Not-so-distant future means relatively soon, but not necessarily immediately.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "the-foreseeable-future",
+          "word": "the foreseeable future",
+          "pt": "o futuro previsível",
+          "ipa": "",
+          "section": "B · Talking about time",
+          "example": "The research centre expects to keep its current opening hours for the foreseeable future.",
+          "note": "Foreseeable future means the period ahead that can reasonably be anticipated or planned for.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-decade-has-elapsed",
+          "word": "a decade has elapsed",
+          "pt": "uma década se passou",
+          "ipa": "",
+          "section": "Exercises · Rewriting time expressions",
+          "example": "A decade has elapsed since the school opened its new campus.",
+          "note": "Has elapsed uses a measured span of time as its subject, meaning that the period has passed.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "restore-a-building",
+          "word": "restore a building",
+          "pt": "restaurar um edifício",
+          "ipa": "",
+          "section": "Exercises · Historical sites",
+          "example": "The foundation plans to restore a building that has stood empty for decades.",
+          "note": "Restore a building means repair it to a former condition, often preserving historical features.",
+          "audio": "",
+          "contentOrigin": "pedagogical-extension",
+          "targetType": "collocation"
+        }
+      ],
+      "sourceAudit": {
+        "sectionsChecked": [
+          "A · Talking about space (PDF page 100)",
+          "B · Talking about time (PDF page 100)",
+          "Exercises 46.1–46.4 (PDF page 101)",
+          "Answer key Unit 46 (PDF pages 155–156)"
+        ],
+        "printedPages": [
+          96,
+          97
+        ],
+        "pdfPages": [
+          100,
+          101
+        ],
+        "answerKeyPdfPages": [
+          155,
+          156
+        ],
+        "editorialScope": "Relevant collocation targets, formal and informal usage distinctions and useful exercise vocabulary were selected from the supplied reference and explained in original learning examples.",
+        "exercisePolicy": "Reference questions, paragraphs, dialogues and key sentences have not been reproduced in the resulting content.",
+        "itemCount": 33,
+        "targetTypes": {
+          "collocation": 23,
+          "semantic-contrast": 6,
+          "expression": 4
+        }
+      }
+    }
+  ]
+}
