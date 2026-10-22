@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u032",
+  "title": "Quotations, Reporting Clauses and Indirect Questions",
+  "level": "C1",
+  "topicId": "eg3-u032-reporting-people-s-words-and-thoughts",
+  "summary": "Report statements and thoughts in your own words or with accurate quotations; position reporting clauses naturally; distinguish negatives in the reporting and reported clauses; and construct embedded wh- and yes/no questions with statement word order.",
+  "learningObjectives": [
+    "Distinguish direct quotations from reports containing a reporting clause and a reported clause.",
+    "Place reporting clauses around quotations and use natural subject–verb order, especially with pronoun subjects.",
+    "Choose the appropriate position of a negative depending on whether the speaker did not report something or reported a negative fact.",
+    "Form reported wh-questions and yes/no questions with wh-, if- or whether-clauses and non-inverted word order."
+  ],
+  "explanation": [
+    {
+      "heading": "Report the meaning or quote the actual words",
+      "body": "A report in the writer’s own words normally combines a reporting clause (the speaker and reporting verb) with a reported clause expressing the message. The reported clause may begin with that, a wh-word, if or whether, depending on its grammatical role. Direct quotation reproduces the speaker’s exact words and uses quotation marks; reporting indirectly may adjust person, time references and tense to fit the new viewpoint.",
+      "example": "Direct: “I need an extra day,” Noor said. Indirect: Noor said that she needed an extra day."
+    },
+    {
+      "heading": "Where reporting clauses go with quotations",
+      "body": "A reporting clause can come before a quotation, interrupt it, or follow it. In literary narration, a following clause with a noun subject may allow inversion (replied the caretaker), although uninverted order is also possible. With a pronoun subject, neutral contemporary prose uses the pronoun before the reporting verb: she replied, not replied she. Use natural punctuation to show the boundary between spoken words and narrator’s text.",
+      "example": "“The room is ready,” announced the caretaker. “We can begin,” she added."
+    },
+    {
+      "heading": "Negatives can negate two different things",
+      "body": "To say that somebody gave no information or did not hold a thought, negate the reporting verb: he did not say where the key was. To convey a statement whose content is negative, usually put the negative inside the reported clause: he said that the key was not there. These differ logically; silence about a fact does not show that its opposite was asserted.",
+      "example": "She did not say that the bridge was closed. / She said that the bridge was not closed."
+    },
+    {
+      "heading": "Negative reporting verbs with attitudes and expectations",
+      "body": "With verbs of thinking, belief or expectation, English often places the negative in the reporting clause: I do not think the proposal will pass; she did not expect them to arrive. In many contexts these express an expectation of a negative outcome, but this preference is not automatic for every verb or context. Verbs such as insist and promise may require a different construction to preserve the original message.",
+      "example": "I do not expect the delivery to arrive today."
+    },
+    {
+      "heading": "Questions become non-inverted subordinate clauses",
+      "body": "Indirect wh-questions use a wh-word followed by ordinary statement order; yes/no questions usually use if or whether. Remove the question’s do-support unless it remains necessary for a negative verb phrase (why she did not reply). Whether, but not if, can precede a to-infinitive when reporting a decision: whether to continue. In questions like who the manager is, be and its complement can sometimes appear in either order; do not generalise this special flexibility to other verbs.",
+      "example": "“Why did the alarm stop?” → They asked why the alarm had stopped. “Is it safe?” → They asked whether it was safe."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Negating the report versus reporting a negative claim",
+      "left": {
+        "label": "Negative reporting verb",
+        "example": "The witness did not say that the door was locked.",
+        "note": "There is no assertion that the witness made this particular statement."
+      },
+      "right": {
+        "label": "Negative reported clause",
+        "example": "The witness said that the door was not locked.",
+        "note": "The witness actually made a claim about the door being unlocked."
+      }
+    },
+    {
+      "title": "Direct question versus embedded question",
+      "left": {
+        "label": "Direct question: inverted auxiliary",
+        "example": "When did the parcel arrive?",
+        "note": "Did marks the direct interrogative construction."
+      },
+      "right": {
+        "label": "Reported question: ordinary clause order",
+        "example": "She asked when the parcel had arrived.",
+        "note": "The subject precedes the verb within the indirect wh-clause."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The assistant explained that the briefing would begin after lunch.",
+      "note": "The reporting clause identifies the speaker; the that-clause gives the content."
+    },
+    {
+      "sentence": "“We have enough chairs,” observed the host.",
+      "note": "The noun subject can follow a reporting verb after a quotation in literary narration."
+    },
+    {
+      "sentence": "“We have enough chairs,” she observed.",
+      "note": "With a pronoun subject, neutral prose uses she observed rather than observed she."
+    },
+    {
+      "sentence": "The caretaker did not tell us whether the heating was working.",
+      "note": "The reporting verb is negative: the requested information was not supplied."
+    },
+    {
+      "sentence": "The inspector asked why the rear entrance had been left open.",
+      "note": "The embedded question begins with why and uses statement word order."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "“The test is complete,” replied she.",
+      "correct": "“The test is complete,” she replied.",
+      "why": "In neutral modern narrative, a pronoun subject precedes the reporting verb."
+    },
+    {
+      "incorrect": "The client asked where was the invoice.",
+      "correct": "The client asked where the invoice was.",
+      "why": "An indirect wh-question normally has statement word order."
+    },
+    {
+      "incorrect": "We wondered if to postpone the rehearsal.",
+      "correct": "We wondered whether to postpone the rehearsal.",
+      "why": "Whether can introduce a to-infinitive question about a decision; if cannot."
+    },
+    {
+      "incorrect": "I did not know what did the technician mean.",
+      "correct": "I did not know what the technician meant.",
+      "why": "The embedded clause does not use question-order did; tense is carried by meant."
+    }
+  ],
+  "studyTips": [
+    "For each quotation, label the reporting clause separately from the speaker’s reported words before rewriting it indirectly.",
+    "Compare did not say it was unsafe with said it was not unsafe; identify which claim was or was not made.",
+    "Turn direct wh- and yes/no questions into subordinate clauses by replacing question word order with ordinary subject–verb order."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which sentence reports a speaker’s message indirectly rather than quoting her exact words?",
+      "choices": [
+        "“I have changed my mind,” Salma said.",
+        "Salma explained that she had changed her mind.",
+        "“I changed my mind,” explained Salma."
+      ],
+      "answerIndex": 1,
+      "feedback": "Explained that introduces a reported clause in the narrator’s wording without quotation marks."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the most natural neutral reporting clause after a quotation with a pronoun subject.",
+      "choices": [
+        "“The figures are correct,” confirmed he.",
+        "“The figures are correct,” he was confirm.",
+        "“The figures are correct,” he confirmed."
+      ],
+      "answerIndex": 2,
+      "feedback": "With a pronoun subject, he precedes the reporting verb confirmed."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Yesterday, the courier ___ explain why the package had been opened. Choose a negative reporting verb.",
+      "choices": [
+        "did not",
+        "was not",
+        "not did"
+      ],
+      "answerIndex": 0,
+      "feedback": "Did not explain negates the act of providing the information."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "I could not decide ___ to accept the invitation.",
+      "choices": [
+        "if",
+        "whether",
+        "that"
+      ],
+      "answerIndex": 1,
+      "feedback": "Whether, unlike if, can introduce a to-infinitive expressing an unresolved decision."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Direct question: “Where does the courier leave the parcels each morning?” Report it in the present: “The receptionist asks where the courier ___ the parcels each morning.” Supply leave in the correct form.",
+      "acceptedAnswers": [
+        "leaves"
+      ],
+      "feedback": "A reported question uses ordinary subject–verb order: the courier leaves."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Direct question: “Do we need permission to enter?” Complete: “The visitor asked ___ we needed permission to enter.” Supply either reporting conjunction.",
+      "acceptedAnswers": [
+        "if",
+        "whether"
+      ],
+      "feedback": "Either if or whether introduces a reported yes/no question."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Direct question: “What caused the interruption?” Complete: “They asked what ___ the interruption.” Supply cause in the past simple.",
+      "acceptedAnswers": [
+        "caused"
+      ],
+      "feedback": "What is the subject of the embedded clause, so there is no auxiliary inversion."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Direct question: “Why did you not reply?” Complete the reported question from her perspective: “She asked ___.” Use the subject I and did not.",
+      "acceptedAnswers": [
+        "why I did not reply"
+      ],
+      "feedback": "A reported negative question retains did not but uses subject I before it."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The team asked where were the spare keys stored.",
+      "acceptedAnswers": [
+        "The team asked where the spare keys were stored."
+      ],
+      "feedback": "The embedded wh-clause uses statement order: subject + were stored."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The visitor wondered if to bring an umbrella.",
+      "acceptedAnswers": [
+        "The visitor wondered whether to bring an umbrella."
+      ],
+      "feedback": "Whether to, not if to, introduces this infinitive question."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the reporting clause after the quotation: “I can explain,” insisted she.",
+      "acceptedAnswers": [
+        "“I can explain,” she insisted."
+      ],
+      "feedback": "In neutral usage a pronoun subject comes before insisted."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I was not sure what did the supervisor mean.",
+      "acceptedAnswers": [
+        "I was not sure what the supervisor meant."
+      ],
+      "feedback": "Indirect wh-clauses do not use direct-question auxiliary inversion."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Direct quotation: “The estimate is provisional,” said the analyst. Report it in one past-tense sentence beginning “The analyst said that”.",
+      "acceptedAnswers": [
+        "The analyst said that the estimate was provisional."
+      ],
+      "feedback": "A reporting clause plus that-clause conveys the original information indirectly."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Correct the reporting clause aloud, keeping the original quotation: “It is finished,” announced she. Use neutral pronoun order.",
+      "acceptedAnswers": [
+        "“It is finished,” she announced."
+      ],
+      "feedback": "The pronoun she precedes announced after the quotation."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Negate the reporting verb, not the message. Facts: The witness / not say / the window was open. Use did not and the complete sentence.",
+      "acceptedAnswers": [
+        "The witness did not say the window was open."
+      ],
+      "feedback": "Did not say means that no such statement was made; it does not affirm that the window was closed."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Turn “Where is the departure gate?” into a reported question. Begin with “He asked” and use past tense.",
+      "acceptedAnswers": [
+        "He asked where the departure gate was."
+      ],
+      "feedback": "The subordinate wh-clause has statement order: the departure gate was."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Report the yes/no question “Is the centre open on Sundays?” Begin with “They asked” and use the past tense. Accept if or whether.",
+      "acceptedAnswers": [
+        "They asked whether the centre was open on Sundays.",
+        "They asked if the centre was open on Sundays."
+      ],
+      "feedback": "Both whether and if introduce the reported yes/no question."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Correct the indirect question aloud: “She wondered why was he late.”",
+      "acceptedAnswers": [
+        "She wondered why he was late."
+      ],
+      "feedback": "Embedded questions use subject before verb, without inversion."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say one sentence using whether to: We / not know / postpone / the presentation. Use did not and the words “whether to postpone”.",
+      "acceptedAnswers": [
+        "We did not know whether to postpone the presentation."
+      ],
+      "feedback": "Whether to introduces a question about a course of action."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give two different sentences in this order using full forms. First: no statement that it was broken. Second: a statement that it was not broken. Use “The mechanic” in both.",
+      "acceptedAnswers": [
+        "The mechanic did not say it was broken. The mechanic said it was not broken."
+      ],
+      "feedback": "Negating say differs from reporting a negative statement."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "“The final decision is mine,” said the director. Later, the minutes stated that the director claimed responsibility for the decision.",
+      "prompt": "Which part reproduces the director’s exact words?",
+      "choices": [
+        "The quoted opening sentence.",
+        "The later summary in the minutes.",
+        "Neither part contains anyone’s words."
+      ],
+      "answerIndex": 0,
+      "feedback": "The quoted sentence presents the actual words; the minutes paraphrase their content."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "“The workshop starts at ten,” announced the organiser. “Please arrive early,” she added.",
+      "prompt": "In the second quotation, who is the speaker?",
+      "choices": [
+        "A participant in the audience.",
+        "The organiser.",
+        "A separate unnamed assistant."
+      ],
+      "answerIndex": 1,
+      "feedback": "She refers to the organiser named in the previous reporting clause."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The designer asked whether the model was ready for public display.",
+      "prompt": "Type the five-word phrase beginning with “whether” and ending with “ready”.",
+      "acceptedAnswers": [
+        "whether the model was ready"
+      ],
+      "feedback": "The embedded yes/no question uses whether and statement word order."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Aisha did not say that the network was unstable. She only said that another test was needed.",
+      "prompt": "What did Aisha actually say?",
+      "choices": [
+        "The network was certainly unstable.",
+        "The network would never work.",
+        "Another test was needed."
+      ],
+      "answerIndex": 2,
+      "feedback": "The only statement attributed to Aisha concerns the need for another test."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Ravi was asked whether he intended to resign. He replied that he did not intend to leave his position.",
+      "prompt": "What did Ravi say about his plans?",
+      "choices": [
+        "He did not intend to resign.",
+        "He had already resigned.",
+        "He wanted the meeting postponed."
+      ],
+      "answerIndex": 0,
+      "feedback": "He explicitly denied any current intention to leave his position."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The coordinator wondered where the guests were waiting, as no one was visible in the entrance hall.",
+      "prompt": "What did the coordinator want to find out?",
+      "choices": [
+        "When the event would end.",
+        "The guests’ location.",
+        "Whether tickets were still available."
+      ],
+      "answerIndex": 1,
+      "feedback": "Where the guests were waiting is an indirect question about location."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "No one knew whether to cancel the outdoor session because the forecast kept changing.",
+      "prompt": "Type the six-word phrase beginning with “whether” and ending with “session”.",
+      "acceptedAnswers": [
+        "whether to cancel the outdoor session"
+      ],
+      "feedback": "The speaker uses whether + to-infinitive to describe an unresolved choice."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The editor asked why I did not include the final paragraph in the draft.",
+      "prompt": "Transcribe the eight-word phrase beginning with “why” and ending with “paragraph”.",
+      "acceptedAnswers": [
+        "why I did not include the final paragraph"
+      ],
+      "feedback": "The negative embedded question retains did not and uses subject-before-auxiliary order."
+    }
+  ]
+}

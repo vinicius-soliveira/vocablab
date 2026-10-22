@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u042",
+  "title": "Plural-Looking Nouns, Measures and Fractional Agreement",
+  "level": "C1",
+  "topicId": "eg3-u042-agreement-between-subject-and-verb-3",
+  "summary": "Use meaning-sensitive agreement with inherently plural nouns, academic subjects ending in -s, borrowed plurals, measures, percentages and fractions. Distinguish a unified amount from separate items and identify whether a percentage refers to a mass or countable things.",
+  "learningObjectives": [
+    "Use plural verbs with inherently plural nouns such as belongings, premises, police and people, and recognise variation with whereabouts and some collective terms.",
+    "Distinguish nouns such as data and media, which admit singular or plural usage in different contexts, from criteria and phenomena, which are plural.",
+    "Contrast singular names of subjects and fields such as statistics and economics with plural uses denoting figures, opinions or economic conditions.",
+    "Choose agreement with an overall measurement and with the relevant noun following a fraction or percentage."
+  ],
+  "explanation": [
+    {
+      "heading": "Some plural nouns refer to a single situation but still take plural verbs",
+      "body": "Nouns such as belongings, clothes, earnings, goods, outskirts, premises, savings, stairs and surroundings typically take plural agreement even when they refer collectively to property, money or a place. People and police also take plural verbs when referring to groups. Staff commonly takes a plural verb when its members are emphasised, although collective-noun usage varies. Whereabouts can take either a singular or plural verb, so a choice between where his whereabouts is and where his whereabouts are is not automatically a grammatical error.",
+      "example": "The premises are secure, and the staff are preparing to close the building."
+    },
+    {
+      "heading": "Data and media vary; criteria and phenomena do not behave the same way",
+      "body": "Data and media historically have plural forms, but they often take singular verbs in general modern usage, especially when viewed as an aggregated body of information or one mass medium. In formal academic writing plural agreement may be preferred, particularly with data. By contrast, criteria and phenomena are plural nouns; criterion and phenomenon are the corresponding singular forms. Do not use the criteria is when referring to several standards.",
+      "example": "The evaluation criteria are detailed, and one criterion is particularly strict."
+    },
+    {
+      "heading": "An -s ending does not always mean a plural subject",
+      "body": "The names of academic fields ending in -ics, such as mathematics, physics, economics and linguistics, typically take a singular verb. News is also singular in normal usage. However, statistics meaning numerical figures usually takes a plural verb, even though statistics as a field of study is singular. Politics can mean a field (singular) or a person’s political opinions (often plural); economics can also refer to practical financial circumstances with plural agreement. Meaning, not spelling alone, determines the form.",
+      "example": "Statistics is a compulsory course here, but the published statistics are incomplete."
+    },
+    {
+      "heading": "Amounts and measurements can function as single units",
+      "body": "A distance, period of time, sum of money or quantity treated as one amount normally takes a singular verb. Singular agreement is especially natural when a following complement is singular, as in two hours is enough time. If the sentence focuses on individual units as separate items, plural agreement may be appropriate. Do not assume that a numeral followed by a plural measurement word must always take a plural verb.",
+      "example": "Forty minutes is sufficient for the introductory workshop."
+    },
+    {
+      "heading": "Percentages and fractions agree with what they quantify",
+      "body": "When a percentage or fraction is followed by of + a noun, agreement typically follows that noun: half of the water is missing, but half of the samples are missing. Countable plural items select a plural verb, while uncountable materials select a singular verb. If the head is a singular noun such as rate, it controls agreement even if a following percentage expression appears: a rate of 4% is expected. With singular collective nouns such as electorate, singular or plural agreement may be possible depending on whether the group is viewed collectively or as individuals.",
+      "example": "Sixty per cent of the questionnaires are complete, while sixty per cent of the information is verified."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Academic discipline versus numerical findings",
+      "left": {
+        "label": "An area of study: singular",
+        "example": "Statistics is included in the course programme.",
+        "note": "Statistics names a discipline and behaves as a singular subject."
+      },
+      "right": {
+        "label": "Numerical data: plural",
+        "example": "The latest statistics are encouraging.",
+        "note": "Statistics refers to several figures, so are is natural."
+      }
+    },
+    {
+      "title": "A fraction of mass versus countable things",
+      "left": {
+        "label": "Uncountable complement: singular",
+        "example": "Half of the paint is unusable.",
+        "note": "Paint is a mass noun, so use is."
+      },
+      "right": {
+        "label": "Plural countable complement: plural",
+        "example": "Half of the containers are empty.",
+        "note": "Containers is plural countable, so use are."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The police are reviewing the security footage.",
+      "note": "Police denotes a plural group and normally takes plural agreement."
+    },
+    {
+      "sentence": "All the belongings were stored safely after the move.",
+      "note": "Belongings is intrinsically plural despite describing one person’s possessions."
+    },
+    {
+      "sentence": "The selection criteria are published online.",
+      "note": "Criteria is plural; its singular form is criterion."
+    },
+    {
+      "sentence": "Economics is an optional subject, but the economics of the project are problematic.",
+      "note": "The name of the academic field is singular; the plural form can describe economic circumstances."
+    },
+    {
+      "sentence": "Two thirds of the seedlings are growing, but two thirds of the soil is dry.",
+      "note": "The fraction agrees with seedlings, a plural noun, and soil, an uncountable noun."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The police is interviewing a witness.",
+      "correct": "The police are interviewing a witness.",
+      "why": "Police normally takes a plural verb when it means police officers collectively."
+    },
+    {
+      "incorrect": "The selection criteria is described in the notice.",
+      "correct": "The selection criteria are described in the notice.",
+      "why": "Criteria is plural; singular criterion would require is."
+    },
+    {
+      "incorrect": "The news about the launch are encouraging.",
+      "correct": "The news about the launch is encouraging.",
+      "why": "News is normally singular even though it ends in -s."
+    },
+    {
+      "incorrect": "Seventy per cent of the forms is missing.",
+      "correct": "Seventy per cent of the forms are missing.",
+      "why": "The fraction refers to forms, a plural count noun, so use are."
+    }
+  ],
+  "studyTips": [
+    "Group nouns by meaning: belongings and police usually take plural agreement, while news and names of academic disciplines usually take singular agreement.",
+    "Write a paired example for each meaning-sensitive word: statistics as a subject versus statistics as numerical findings, and economics as a field versus practical economic conditions.",
+    "For percentages and fractions, circle the noun after of before choosing the verb; if it is uncountable, use the mass-noun pattern."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the standard form: “The police ___ investigating the reported theft.”",
+      "choices": [
+        "are",
+        "is",
+        "was"
+      ],
+      "answerIndex": 0,
+      "feedback": "Police refers to a plural group of officers and takes are."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the standard form: “The evaluation criteria ___ explained in the guide.”",
+      "choices": [
+        "is",
+        "are",
+        "was"
+      ],
+      "answerIndex": 1,
+      "feedback": "Criteria is a plural noun and takes are."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The speaker means the ACADEMIC SUBJECT, not numerical results: “Statistics ___ part of the programme.”",
+      "choices": [
+        "are",
+        "were",
+        "is"
+      ],
+      "answerIndex": 2,
+      "feedback": "Statistics as the name of a subject selects singular is."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the appropriate form: “About 40 per cent of the parcels ___ damaged during transport yesterday.”",
+      "choices": [
+        "were",
+        "was",
+        "is"
+      ],
+      "answerIndex": 0,
+      "feedback": "Parcels is plural countable, and the event was yesterday, so were is appropriate."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Use the present simple form of be: “The premises ___ closed after six o’clock.”",
+      "acceptedAnswers": [
+        "are"
+      ],
+      "feedback": "Premises meaning a building or site is plural in form and takes are."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Use the present simple form of be for the ACADEMIC SUBJECT: “Mathematics ___ my favourite course.”",
+      "acceptedAnswers": [
+        "is"
+      ],
+      "feedback": "Mathematics denotes a field of study and takes singular agreement."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Write the present simple of be: “Half of the funding ___ reserved for maintenance.”",
+      "acceptedAnswers": [
+        "is"
+      ],
+      "feedback": "Funding is uncountable, so the fraction takes singular is."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Write the present simple of be: “Half of the invited delegates ___ already inside.”",
+      "acceptedAnswers": [
+        "are"
+      ],
+      "feedback": "Delegates is plural countable, so the fraction takes are."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the agreement: The police is searching the warehouse.",
+      "acceptedAnswers": [
+        "The police are searching the warehouse."
+      ],
+      "feedback": "Police is plural in meaning and normally selects are."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the agreement: The criteria is clearly listed on the website.",
+      "acceptedAnswers": [
+        "The criteria are clearly listed on the website."
+      ],
+      "feedback": "Criteria is the plural of criterion and requires are here."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the agreement: The news from the research centre are reassuring.",
+      "acceptedAnswers": [
+        "The news from the research centre is reassuring."
+      ],
+      "feedback": "News is a singular noun despite its final -s."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the agreement: Sixty per cent of the applications is incomplete.",
+      "acceptedAnswers": [
+        "Sixty per cent of the applications are incomplete."
+      ],
+      "feedback": "Applications is a plural noun, so the percentage takes a plural verb."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say the statement using present simple: The goods / be / ready for collection.",
+      "acceptedAnswers": [
+        "The goods are ready for collection."
+      ],
+      "feedback": "Goods is an intrinsically plural noun and takes are."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Use the singular of criteria. Facts: The main criterion / be / accuracy.",
+      "acceptedAnswers": [
+        "The main criterion is accuracy."
+      ],
+      "feedback": "Criterion is singular, so is is correct."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Now use the plural form. Facts: These criteria / be / important.",
+      "acceptedAnswers": [
+        "These criteria are important."
+      ],
+      "feedback": "Criteria is plural and requires are."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Talk about the ACADEMIC SUBJECT. Facts: Economics / be / challenging.",
+      "acceptedAnswers": [
+        "Economics is challenging."
+      ],
+      "feedback": "As a field of study, economics takes singular is."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Talk about numerical findings, not an academic subject. Facts: These statistics / reveal / a change.",
+      "acceptedAnswers": [
+        "These statistics reveal a change."
+      ],
+      "feedback": "Statistics denotes plural figures and takes reveal without -s."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Describe a fraction of an uncountable material. Facts: Half of the water / be / warm.",
+      "acceptedAnswers": [
+        "Half of the water is warm."
+      ],
+      "feedback": "Water is uncountable and selects singular agreement."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Describe a fraction of people. Facts: Half of the volunteers / be / trained.",
+      "acceptedAnswers": [
+        "Half of the volunteers are trained."
+      ],
+      "feedback": "Volunteers is plural and takes are."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two sentences in this order using full forms. Discipline: Statistics / be / demanding. Findings: The statistics / be / reliable.",
+      "acceptedAnswers": [
+        "Statistics is demanding. The statistics are reliable."
+      ],
+      "feedback": "Singular is is appropriate for the academic subject, while plural are is appropriate for the findings."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The police are questioning the night guard, while the reception team is checking the entrance cameras.",
+      "prompt": "Who is questioning the night guard?",
+      "choices": [
+        "The police.",
+        "The reception team.",
+        "The delivery drivers."
+      ],
+      "answerIndex": 0,
+      "feedback": "The police are the group explicitly questioning the guard."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The revised criteria are clearer than the previous version, and applicants will receive them by email.",
+      "prompt": "What will applicants receive by email?",
+      "choices": [
+        "A list of interview times.",
+        "The revised criteria.",
+        "The previous results."
+      ],
+      "answerIndex": 1,
+      "feedback": "The spoken sentence says the revised criteria will be emailed to applicants."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The premises are closed for renovation until Monday.",
+      "prompt": "Transcribe the FOUR words immediately after “premises”.",
+      "acceptedAnswers": [
+        "are closed for renovation"
+      ],
+      "feedback": "Are closed for renovation is the exact spoken phrase, using plural agreement."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Statistics is difficult to teach, but the survey statistics are straightforward to interpret.",
+      "prompt": "What does the first use of “statistics” mean?",
+      "choices": [
+        "A selection of individual numbers.",
+        "A set of monthly sales figures.",
+        "An academic subject."
+      ],
+      "answerIndex": 2,
+      "feedback": "Statistics is difficult to teach refers to the discipline; the later plural statistics refers to data."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Two hours is enough time for the rehearsal, provided everybody arrives promptly.",
+      "prompt": "How long does the speaker consider sufficient?",
+      "choices": [
+        "Two hours.",
+        "Four hours.",
+        "Half an hour."
+      ],
+      "answerIndex": 0,
+      "feedback": "Two hours is treated as one sufficient period of time."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Half of the samples are damaged, but half of the liquid is still usable.",
+      "prompt": "What does the speaker say is still usable?",
+      "choices": [
+        "All the samples.",
+        "Half of the liquid.",
+        "Every sample."
+      ],
+      "answerIndex": 1,
+      "feedback": "The uncountable liquid is described as partly usable, unlike the damaged samples."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The latest news is encouraging despite the delay.",
+      "prompt": "Transcribe the FIVE words immediately after “news”.",
+      "acceptedAnswers": [
+        "is encouraging despite the delay"
+      ],
+      "feedback": "News is singular in this clause and takes is."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Thirty per cent of the rooms are available this evening.",
+      "prompt": "Transcribe the FOUR words immediately after “rooms”.",
+      "acceptedAnswers": [
+        "are available this evening"
+      ],
+      "feedback": "The percentage refers to plural rooms, so are is used."
+    }
+  ]
+}

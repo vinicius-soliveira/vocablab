@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u017",
+  "title": "Possibility, Concession and Time Reference with May and Might",
+  "level": "C1",
+  "topicId": "eg3-u017-may-and-might",
+  "summary": "Use may and might for carefully qualified possibilities, permission and concessions, and recognise less obvious patterns such as historical might, perfect and progressive modal constructions. Choose the form that best matches context rather than treating the modals as interchangeable in every sentence.",
+  "learningObjectives": [
+    "Distinguish neutral possibility statements from may in formal permission requests and from natural questions about possibility.",
+    "Recognise historical might + bare infinitive for what was sometimes typical in the past, rather than interpreting it as a present guess.",
+    "Construct balanced concessions with may or might, including may not ... but, and explain which point is being acknowledged.",
+    "Interpret may/might + have + past participle, be + -ing, and have been + -ing across past, present and future contexts."
+  ],
+  "explanation": [
+    {
+      "heading": "Possibility, register and qualified statements",
+      "body": "May and might both express a possible situation, and neither by itself fixes a numerical probability. May is common in formal or academic statements about characteristics or likely developments; might is frequent for conversational future possibilities. May well and might well present an outcome as notably plausible or, in some contexts, unexpectedly possible. Some uses have no important probability difference, so context and register should guide the choice.",
+      "example": "The coastal survey may reveal further changes in the shoreline, although the results are not yet available."
+    },
+    {
+      "heading": "Possibility questions versus formal permission",
+      "body": "We generally do not use may to frame a question asking whether something is possible. Could, might and be likely to are more natural choices, although Might ...? can sound rather formal. May I ...? is different: it asks for permission or politely offers help and is grammatical, especially in formal interaction. Do not label a May I permission request as a question about the likelihood of an event.",
+      "example": "Could the transport disruption be affecting the deliveries? May I check the tracking records?"
+    },
+    {
+      "heading": "Might for what was sometimes typical in the past",
+      "body": "In descriptions of earlier social conditions or repeated situations, might + bare infinitive can mean that something sometimes happened or was possible in that period. May is not normally used for this historical-typical meaning. Could also occurs in related past descriptions, but can emphasise ability or what was permitted, so the intended interpretation matters.",
+      "example": "In the early days of the service, a passenger might wait several hours before a bus arrived."
+    },
+    {
+      "heading": "Concessions: acknowledging one point before another",
+      "body": "May or might followed by a positive or negative verb can concede a limited point before a stronger contrasting statement, often with but. The concessive meaning comes from the structure and context; may not in other sentences can simply express the possibility of a negative event. Perfect forms can make the concession about an earlier achievement or omission.",
+      "example": "The candidate may not have extensive experience, but she has demonstrated excellent judgement."
+    },
+    {
+      "heading": "Modal perfect and progressive: locating the possibility in time",
+      "body": "May or might + have + past participle describes a possible completed event, whether it has already occurred or may be completed by a future reference point. May/might + be + -ing can describe a possible action underway now or expected around a future time. May/might + have been + -ing can suggest a possible ongoing activity at an earlier time. Context, not the auxiliary alone, decides the time reference.",
+      "example": "By the end of the week, the researchers might have finished the trial, while the reviewers may still be assessing the evidence."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Questions about likelihood and requests for permission",
+      "left": {
+        "label": "Possible explanation: could",
+        "example": "Could the map be out of date?",
+        "note": "Could naturally asks whether an explanation is possible."
+      },
+      "right": {
+        "label": "Polite request: may",
+        "example": "May I borrow the printed map?",
+        "note": "May I asks for permission rather than about the map’s probability."
+      }
+    },
+    {
+      "title": "Possible past outcome and possible ongoing past action",
+      "left": {
+        "label": "Modal perfect",
+        "example": "The volunteers might have locked the storeroom.",
+        "note": "Might have locked suggests a possibly completed past act."
+      },
+      "right": {
+        "label": "Modal perfect continuous",
+        "example": "The volunteers might have been repairing the gate.",
+        "note": "Might have been repairing suggests an activity that may have been in progress then."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "This revised schedule may well save the staff several hours each month.",
+      "note": "May well emphasises that a favourable outcome is reasonably plausible."
+    },
+    {
+      "sentence": "Are the delivery drivers likely to arrive before the ceremony begins?",
+      "note": "A question about probability can use be likely to rather than may."
+    },
+    {
+      "sentence": "In the nineteenth century, travellers might spend weeks crossing the region.",
+      "note": "Historical might describes what could typically happen in an earlier period."
+    },
+    {
+      "sentence": "The report may be brief, but its recommendations are unusually practical.",
+      "note": "The first clause concedes a limitation; the second supplies the main positive point."
+    },
+    {
+      "sentence": "The technicians might have been inspecting the pipes when the alarm sounded.",
+      "note": "The perfect continuous locates a possible ongoing activity in the past."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "May the parcel arrive later than expected?",
+      "correct": "Could the parcel arrive later than expected?",
+      "why": "For an ordinary question about possibility, could is the natural choice; may is not usually used this way."
+    },
+    {
+      "incorrect": "In earlier decades, families may collect drinking water from the village pump.",
+      "correct": "In earlier decades, families might collect drinking water from the village pump.",
+      "why": "Historical-typical possibility takes might, not may, in this construction."
+    },
+    {
+      "incorrect": "The panel might has misunderstood the figures.",
+      "correct": "The panel might have misunderstood the figures.",
+      "why": "After might, use the bare infinitive have followed by the past participle."
+    },
+    {
+      "incorrect": "They may have been investigate the complaint all morning.",
+      "correct": "They may have been investigating the complaint all morning.",
+      "why": "A possible activity continuing over a past interval takes may have been + -ing."
+    }
+  ],
+  "studyTips": [
+    "Mark the reference time in examples with may or might: now, by Friday, at that time, or over a past interval.",
+    "Compare formal May I ...? with Could it be ...? to practise permission and possibility questions separately.",
+    "Rewrite a small criticism as a concession with may ... but ... and state which clause carries the main argument."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A laboratory report needs a suitably formal way to describe a possible effect. \"The new coating ___ reduce heat loss under dry conditions.\"",
+      "choices": [
+        "may",
+        "may to",
+        "may be"
+      ],
+      "answerIndex": 0,
+      "feedback": "May + bare infinitive introduces a possible effect in formal reporting."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the natural question asking whether the exhibition might open early, NOT asking for permission.",
+      "choices": [
+        "May the exhibition open early?",
+        "Could the exhibition open early?",
+        "May I open the exhibition early?"
+      ],
+      "answerIndex": 1,
+      "feedback": "Could it open early? asks about possibility; May I ...? asks for permission."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The sentence describes a recurring situation in the nineteenth century: \"A letter ___ take several months to reach its destination.\"",
+      "choices": [
+        "may",
+        "might",
+        "might have"
+      ],
+      "answerIndex": 1,
+      "feedback": "Might + base verb can describe what sometimes occurred in an earlier period."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The repairs may still be in progress this evening. Choose the grammatically complete sentence.",
+      "choices": [
+        "The engineers might repairing the roof tonight.",
+        "The engineers might have repairing the roof tonight.",
+        "The engineers might be repairing the roof tonight."
+      ],
+      "answerIndex": 2,
+      "feedback": "Might be + -ing indicates a possible action in progress at the future time mentioned."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Write the three-word possibility phrase: \"The author ___ (might / have / overlook) an important exception.\"",
+      "acceptedAnswers": [
+        "might have overlooked"
+      ],
+      "feedback": "Might have overlooked expresses a possible earlier omission."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The interns ___ (may / be / prepare) the workshop right now. Write the whole modal verb phrase.",
+      "acceptedAnswers": [
+        "may be preparing"
+      ],
+      "feedback": "May be preparing describes a possible ongoing activity now."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "When the railway was first built, snow ___ (might / delay) trains for days. Write the two-word historical modal phrase.",
+      "acceptedAnswers": [
+        "might delay"
+      ],
+      "feedback": "Might delay is a period-specific typical possibility."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "At midnight, the maintenance crew ___ (might / have / be / test) the pumps. Write the complete phrase for a possible activity already in progress then.",
+      "acceptedAnswers": [
+        "might have been testing"
+      ],
+      "feedback": "Might have been testing places the possible ongoing activity at an earlier point."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct this ordinary possibility question: May the timetable have changed since Monday?",
+      "acceptedAnswers": [
+        "Could the timetable have changed since Monday?"
+      ],
+      "feedback": "Could is natural in an ordinary question about what might have occurred."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the historical pattern: In the old days, a doctor may travel between villages by horse.",
+      "acceptedAnswers": [
+        "In the old days, a doctor might travel between villages by horse."
+      ],
+      "feedback": "Historical might + infinitive describes recurring possibilities in an earlier period."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the modal perfect: The organisers might have forget the access code.",
+      "acceptedAnswers": [
+        "The organisers might have forgotten the access code."
+      ],
+      "feedback": "A modal perfect requires have + past participle: forgotten."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the past ongoing possibility: The night staff may have been check the locks when we called.",
+      "acceptedAnswers": [
+        "The night staff may have been checking the locks when we called."
+      ],
+      "feedback": "Have been must be followed by an -ing form for a possible continuing past action."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Express a tentative future possibility. Facts: The concert / might / finish / early. Use a complete sentence.",
+      "acceptedAnswers": [
+        "The concert might finish early."
+      ],
+      "feedback": "Might finish presents an event as possible, not certain."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Politely ask permission in formal English. Facts: May / I / inspect / the archive? Use May I.",
+      "acceptedAnswers": [
+        "May I inspect the archive?"
+      ],
+      "feedback": "May I ...? is an appropriate formal permission request."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Describe an occasional pattern in the past. Facts: In the 1930s / a delivery / might / take / a week. Use historical might.",
+      "acceptedAnswers": [
+        "In the 1930s, a delivery might take a week."
+      ],
+      "feedback": "Might take here describes what sometimes happened in the past."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Concede a criticism and provide a positive point. Exact facts: The device / may / be / old, but / it / work / reliably. Use present-simple work.",
+      "acceptedAnswers": [
+        "The device may be old, but it works reliably."
+      ],
+      "feedback": "May be ... but concedes age while giving priority to reliability."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Express a possible earlier mistake. Facts: The editor / might / have / miss / the deadline. Use the modal perfect.",
+      "acceptedAnswers": [
+        "The editor might have missed the deadline."
+      ],
+      "feedback": "Might have missed refers to a possibly completed event."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Describe a possible ongoing action now. Facts: She / may / be / study / in the library / now. Use the progressive form.",
+      "acceptedAnswers": [
+        "She may be studying in the library now."
+      ],
+      "feedback": "May be studying presents an activity as possibly underway."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Describe a possible past ongoing action. Facts: They / might / have / be / wait / outside / when we arrived.",
+      "acceptedAnswers": [
+        "They might have been waiting outside when we arrived."
+      ],
+      "feedback": "Might have been waiting indicates an action possibly in progress earlier."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Correct the complete sentence aloud: The analysts may have been review the figures all afternoon.",
+      "acceptedAnswers": [
+        "The analysts may have been reviewing the figures all afternoon."
+      ],
+      "feedback": "May have been must be followed by a present participle for a possible ongoing activity."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The city council may approve the revised cycle route in November, but the vote has not been scheduled.",
+      "prompt": "What is the speaker saying about approval?",
+      "choices": [
+        "It is a possibility, not a decision.",
+        "Approval was completed last November.",
+        "Approval is ruled out."
+      ],
+      "answerIndex": 0,
+      "feedback": "May approve expresses an undecided possible future action."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The archivist may not have identified every photograph, but her catalogue is extremely useful.",
+      "prompt": "Which point does the speaker emphasise?",
+      "choices": [
+        "The catalogue is worthless.",
+        "The archivist has definitely identified everything.",
+        "The catalogue is useful despite a possible limitation."
+      ],
+      "answerIndex": 2,
+      "feedback": "The first clause acknowledges a limitation; the second is the main positive assessment."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I might have misplaced the invitation, because it is not in my bag.",
+      "prompt": "Transcribe the three-word verb phrase expressing a possible earlier action.",
+      "acceptedAnswers": [
+        "might have misplaced"
+      ],
+      "feedback": "Might have misplaced is audible in the recording and indicates a possible past action."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "In the early years of the route, a journey through the mountains might last three days if the weather changed.",
+      "prompt": "How is might being used?",
+      "choices": [
+        "To ask for travel permission.",
+        "To describe a possible pattern in an earlier period.",
+        "To announce a confirmed journey tomorrow."
+      ],
+      "answerIndex": 1,
+      "feedback": "Might last describes something that could typically happen during that past period."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The musicians might be rehearsing in the hall now, so try the side entrance.",
+      "prompt": "Which situation is being suggested?",
+      "choices": [
+        "The rehearsal may be going on at present.",
+        "The rehearsal certainly finished last night.",
+        "The rehearsal has been cancelled."
+      ],
+      "answerIndex": 0,
+      "feedback": "Might be rehearsing indicates an uncertain action in progress now."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Could the motorway closure be affecting deliveries? We have had several delays today.",
+      "prompt": "What is the speaker doing?",
+      "choices": [
+        "Requesting permission to close the motorway.",
+        "Saying the motorway definitely caused the delays.",
+        "Asking whether the closure is a possible explanation."
+      ],
+      "answerIndex": 2,
+      "feedback": "Could ... be affecting asks about a possible current explanation."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The students might be staying with relatives while their residence is renovated.",
+      "prompt": "Transcribe the three-word modal progressive verb phrase.",
+      "acceptedAnswers": [
+        "might be staying"
+      ],
+      "feedback": "Might be staying is the phrase referring to a possible temporary arrangement."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The auditors may have been examining the records before we arrived.",
+      "prompt": "Transcribe the four-word modal perfect continuous phrase.",
+      "acceptedAnswers": [
+        "may have been examining"
+      ],
+      "feedback": "May have been examining indicates a possible ongoing past activity."
+    }
+  ]
+}

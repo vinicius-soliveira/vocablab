@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u077",
+  "title": "Degree Adverbs and Focus Adverbs",
+  "level": "C2",
+  "topicId": "eg3-u077-degree-adverbs-and-focus-adverbs",
+  "summary": "Control intensity, focus and scope with advanced adverb choices and positions. Distinguish much from very much with particular verbs and participles, very from too, and the change in meaning when even or only modifies a subject rather than a verb phrase.",
+  "learningObjectives": [
+    "Distinguish degree adverbs, which express intensity, from focus adverbs, which select, emphasise or restrict the information being presented.",
+    "Use much and very much with the appropriate verbs, passive participles and participial adjectives, observing differences of formality and polarity.",
+    "Choose very for high degree and too for excessive degree; recognise that not too can soften a negative assessment in some contexts.",
+    "Place even and only to control their scope, especially when the focus is the subject rather than the verb phrase."
+  ],
+  "explanation": [
+    {
+      "heading": "Degree and focus address different questions",
+      "body": "Degree adverbs specify how strongly a quality, action or effect applies. Extremely and almost normally precede the adjective, verb or adverb they modify, while others such as enormously, somewhat and tremendously commonly follow an intransitive main verb in appropriate combinations. Focus adverbs instead tell the audience which detail is exceptional, central or excluded. Especially, particularly and mainly single out information; solely, only and just can narrow it. The placement of a focusing word must make the intended contrast identifiable.",
+      "example": "The figures varied enormously, particularly in the smaller districts."
+    },
+    {
+      "heading": "Much with selected verbs and passive participles",
+      "body": "In formal affirmative statements, much can precede admire, appreciate, prefer and regret, particularly after I or we. This is not a general licence to put much before every verb. Very much can also modify these verbs and can precede agree, doubt, enjoy, fear, hope, like and want, among others: I very much agree. A bare much before agree is not usual in this affirmative pattern. Both much and very much can precede certain passive past participles, such as appreciated or needed; the exact choice is sensitive to context and register.",
+      "example": "We much appreciated the invitation, and the organisers very much hoped we would attend."
+    },
+    {
+      "heading": "Participles: the passive and the adjective are not identical",
+      "body": "When a past participle is used in a passive construction, much or very much may be natural before it: the proposal was much discussed. A past participle functioning as an adjective is generally modified by very, very much or a suitable alternative, depending on the adjective, but not automatically by bare much: I was very much surprised sounds natural, while I was much surprised is markedly old-fashioned in many contexts. Present-participle adjectives such as welcoming usually take very, not much or very much. In informal negative statements, not much or not very much may occur before verbs such as enjoy and like.",
+      "example": "The revision was much needed; the volunteers were very welcoming."
+    },
+    {
+      "heading": "Very, too and the possibility of understatement",
+      "body": "Very describes a high degree without by itself suggesting a problem. Too expresses an excessive degree relative to a purpose or expectation; a result or constraint can make this meaning explicit. In some negative evaluations, not too is used informally to soften or understate a judgement and can approach not very. Neither form automatically states that a problem has been fully solved. The communicative intention, not the adjective alone, determines which word fits.",
+      "example": "The instructions were very detailed, but they were too complicated for first-time visitors."
+    },
+    {
+      "heading": "Even and only: scope matters more than proximity alone",
+      "body": "Even and only typically occur in mid position when they focus on the predicate or another non-subject element, but they normally precede the subject when that subject is what is being highlighted. Compare Only Maya signed the form (nobody else signed it) with Maya only signed the form (she signed it but did not do other possible things). Even Maya agreed indicates surprise at Maya’s agreement, whereas Maya even agreed to lead the discussion presents leading it as an unexpected additional action. Other focused elements may require a nearby position to avoid an unintended reading.",
+      "example": "Only the archivist examined the sealed box; the archivist only examined it and did not open it."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Intensity versus excessive degree",
+      "left": {
+        "label": "Very: a high degree",
+        "example": "The corridor was very narrow.",
+        "note": "Very reports intensity without necessarily saying the corridor was unusable."
+      },
+      "right": {
+        "label": "Too: beyond an acceptable limit",
+        "example": "The corridor was too narrow for the equipment.",
+        "note": "Too introduces an excessive degree relative to moving the equipment."
+      }
+    },
+    {
+      "title": "Focusing the subject versus limiting the action",
+      "left": {
+        "label": "Subject in focus",
+        "example": "Only the curator photographed the painting.",
+        "note": "The curator, and nobody else, photographed it."
+      },
+      "right": {
+        "label": "Action in focus",
+        "example": "The curator only photographed the painting.",
+        "note": "The curator took photographs but did not perform additional actions, such as cleaning it."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The two forecasts differ tremendously in their estimates for winter.",
+      "note": "Tremendously gives a strong degree after differ."
+    },
+    {
+      "sentence": "We very much agree with the committee’s recommendation.",
+      "note": "Very much is appropriate before agree in an affirmative statement; bare much agree is not."
+    },
+    {
+      "sentence": "The old bridge was much admired by local residents.",
+      "note": "Much modifies a past participle within a passive construction."
+    },
+    {
+      "sentence": "The lecture was very engaging but too long for the available time.",
+      "note": "Engaging is a participial adjective, while too long marks an undesirable excess."
+    },
+    {
+      "sentence": "Even the youngest researcher challenged the conclusion.",
+      "note": "Even directly precedes the subject and makes that participant the surprising focus."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The committee much agrees with the recommendation.",
+      "correct": "The committee very much agrees with the recommendation.",
+      "why": "In this affirmative construction, agree normally takes very much, not bare much."
+    },
+    {
+      "incorrect": "The volunteers were very much welcoming.",
+      "correct": "The volunteers were very welcoming.",
+      "why": "Welcoming is a present-participle adjective here and is normally intensified by very."
+    },
+    {
+      "incorrect": "The platform was very high for the wheelchair to reach.",
+      "correct": "The platform was too high for the wheelchair user to reach.",
+      "why": "The intended meaning is that its height prevented access, so too marks excess."
+    },
+    {
+      "incorrect": "Maya only submitted the application, and nobody else did.",
+      "correct": "Only Maya submitted the application, and nobody else did.",
+      "why": "To say that Maya was the sole person who submitted it, place only immediately before the subject."
+    }
+  ],
+  "studyTips": [
+    "Write pairs with very and too, adding a practical limitation to every too statement; explain why the very version does not entail that limitation.",
+    "Sort much appreciated, very much agree, much needed and very welcoming by grammatical environment and register rather than memorising one universal intensifier rule.",
+    "Move only and even in otherwise identical sentences, then state explicitly which person or action is restricted or unexpected."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The two designs have a major difference. Which sentence places the degree adverb naturally with differ?",
+      "choices": [
+        "The designs enormously differ in cost.",
+        "The designs differ enormously in cost.",
+        "The designs differ enormous in cost."
+      ],
+      "answerIndex": 1,
+      "feedback": "Differ enormously is the usual placement; the adverb must not be replaced by the adjective enormous."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose a formal affirmative sentence that uses the degree expression naturally with agree.",
+      "choices": [
+        "We much agree with the proposal.",
+        "We very agree with the proposal.",
+        "We very much agree with the proposal."
+      ],
+      "answerIndex": 2,
+      "feedback": "The idiomatic pre-verbal intensifier with affirmative agree is very much."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The hallway was so narrow that a large crate could not pass. Which sentence expresses this excessive degree?",
+      "choices": [
+        "The hallway was too narrow for the crate to pass.",
+        "The hallway was very narrow, so the crate was small.",
+        "The hallway was not too narrow for the crate to pass."
+      ],
+      "answerIndex": 0,
+      "feedback": "Too narrow conveys an excess that prevents the crate from passing."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The guide, and nobody else, checked the locked door. Which sentence makes the guide the exclusive subject?",
+      "choices": [
+        "The guide only checked the locked door.",
+        "Only the guide checked the locked door.",
+        "The guide checked only the locked door."
+      ],
+      "answerIndex": 1,
+      "feedback": "Only before the guide restricts who carried out the checking, rather than what was done or checked."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "\"We ___ appreciate your patience during the delay.\" Supply the single formal intensifier used before appreciate: much.",
+      "acceptedAnswers": [
+        "much"
+      ],
+      "feedback": "Formal affirmative much appreciate is licensed with this verb."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "\"The new shelter was ___ needed after the storm.\" Supply the single intensifier much for this passive participle.",
+      "acceptedAnswers": [
+        "much"
+      ],
+      "feedback": "Much can intensify needed in the passive expression was much needed."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "\"The assistants were ___ helpful when we arrived.\" Supply the high-degree adverb very.",
+      "acceptedAnswers": [
+        "very"
+      ],
+      "feedback": "The adjective helpful naturally takes very; much helpful is not idiomatic."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "\"___ the deputy knew the password, so everyone was surprised.\" Supply the focus adverb even before the subject.",
+      "acceptedAnswers": [
+        "Even"
+      ],
+      "feedback": "Even the deputy highlights the deputy as an unexpected person to know it."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the intensifier without altering meaning: \"I much hope the exhibition will reopen soon.\"",
+      "acceptedAnswers": [
+        "I very much hope the exhibition will reopen soon."
+      ],
+      "feedback": "Affirmative hope takes very much in this emphatic preverbal pattern."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the intensifier used with a participial adjective: \"The documentary was very much interesting.\"",
+      "acceptedAnswers": [
+        "The documentary was very interesting."
+      ],
+      "feedback": "Interesting is an -ing adjective and is normally intensified by very, not very much."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "The door was so low that nobody could stand upright. Correct the adverb of degree: \"The door was very low for visitors to stand upright.\"",
+      "acceptedAnswers": [
+        "The door was too low for visitors to stand upright."
+      ],
+      "feedback": "Too low expresses the degree that prevents standing upright."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Change the position of only to mean nobody except Nia signed the form: \"Nia only signed the form.\"",
+      "acceptedAnswers": [
+        "Only Nia signed the form."
+      ],
+      "feedback": "Moving only before the subject selects Nia as the exclusive signer."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say a formal sentence showing strong agreement. Facts: We / very much / agree / with this conclusion. Use the present simple.",
+      "acceptedAnswers": [
+        "We very much agree with this conclusion."
+      ],
+      "feedback": "Very much is natural before agree in an affirmative sentence."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Use an intensifier with a passive participle. Facts: The donation / be / much / appreciated. Use the past simple.",
+      "acceptedAnswers": [
+        "The donation was much appreciated."
+      ],
+      "feedback": "Was much appreciated is an appropriate passive expression."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Correct the phrase aloud: \"The guides were much friendly.\" Keep the adjective friendly.",
+      "acceptedAnswers": [
+        "The guides were very friendly."
+      ],
+      "feedback": "An adjective such as friendly is typically modified by very."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Give a full sentence indicating an excessive cost. Facts: The licence / be / too expensive / for us to renew. Use the past simple.",
+      "acceptedAnswers": [
+        "The licence was too expensive for us to renew."
+      ],
+      "feedback": "Too expensive indicates the cost prevented renewal."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Say only the sentence that means nobody except Amir called. Facts: Amir / call; place only before the subject.",
+      "acceptedAnswers": [
+        "Only Amir called."
+      ],
+      "feedback": "Fronting only with the subject makes Amir the sole caller."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Say the sentence that means the curator did nothing except inspect the frame. Facts: The curator / only / inspect / the frame. Use the past simple.",
+      "acceptedAnswers": [
+        "The curator only inspected the frame."
+      ],
+      "feedback": "Only before inspected restricts the action, not the person."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say a full sentence with an unexpectedly involved subject. Facts: Even / the youngest volunteer / understand / the instructions. Use the past simple.",
+      "acceptedAnswers": [
+        "Even the youngest volunteer understood the instructions."
+      ],
+      "feedback": "Even focuses on the subject as a surprising participant."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two sentences in order, using full forms. First: The room / be / very warm. Second: The room / be / too warm / for the paintings.",
+      "acceptedAnswers": [
+        "The room is very warm. The room is too warm for the paintings."
+      ],
+      "feedback": "Very reports a high degree; too indicates a problematic excess relative to the paintings."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We very much admired the restoration, especially the detailed work on the ceiling.",
+      "prompt": "Which aspect does the speaker particularly single out?",
+      "choices": [
+        "The design of the entrance.",
+        "The work on the ceiling.",
+        "The building’s opening hours."
+      ],
+      "answerIndex": 1,
+      "feedback": "Especially directs attention specifically to the ceiling work."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The room was very bright, but it was too bright for the projected images to be visible.",
+      "prompt": "Why was the brightness a problem?",
+      "choices": [
+        "It prevented viewers from seeing the projected images.",
+        "It made the images easier to read.",
+        "It caused the projector to switch off."
+      ],
+      "answerIndex": 0,
+      "feedback": "Too bright expresses an excessive degree with a stated consequence for visibility."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "We very much appreciate the support offered by local residents.",
+      "prompt": "Transcribe the four-word opening phrase ending in \"appreciate\".",
+      "acceptedAnswers": [
+        "We very much appreciate"
+      ],
+      "feedback": "Very much is the intensifier heard before appreciate."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Only the registrar was allowed to enter the storage room; the other staff waited outside.",
+      "prompt": "Who had permission to enter?",
+      "choices": [
+        "Every member of staff.",
+        "The other staff members.",
+        "The registrar alone."
+      ],
+      "answerIndex": 2,
+      "feedback": "Only directly precedes the subject registrar, restricting entry to that person."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The visitor only photographed the sculpture. She did not touch it or measure it.",
+      "prompt": "What did the visitor do?",
+      "choices": [
+        "She photographed it without touching or measuring it.",
+        "She photographed every sculpture in the gallery.",
+        "She measured the sculpture but took no photograph."
+      ],
+      "answerIndex": 0,
+      "feedback": "Only before photographed limits the activity to photographing."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Even the chairperson questioned the decision, although she had previously defended it.",
+      "prompt": "What makes the chairperson’s reaction noteworthy?",
+      "choices": [
+        "She had always opposed the decision.",
+        "She challenged something she had previously defended.",
+        "She was absent from the discussion."
+      ],
+      "answerIndex": 1,
+      "feedback": "Even highlights an unexpected participant; the subsequent clause explains why."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The extension was much needed during the winter months.",
+      "prompt": "Transcribe the two-word intensifier-and-participle phrase after \"was\".",
+      "acceptedAnswers": [
+        "much needed"
+      ],
+      "feedback": "Much needed is heard directly after the auxiliary was."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The counter was too high for the children to reach.",
+      "prompt": "Transcribe the two-word degree-and-adjective phrase after \"was\".",
+      "acceptedAnswers": [
+        "too high"
+      ],
+      "feedback": "Too high expresses the barrier to reaching the counter."
+    }
+  ]
+}

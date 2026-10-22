@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u100",
+  "title": "Inversion 2: Negative Fronting, Only, So, Such and Neither",
+  "level": "C2",
+  "topicId": "eg3-u100-inversion-2",
+  "summary": "Form auxiliary–subject inversion after fronted negative or restrictive expressions; distinguish only-subject phrases from fronted only-adverbials; control so/such emphasis and neither/nor additions. Practise the precise order of auxiliaries, clauses and complements in formal English.",
+  "learningObjectives": [
+    "Use auxiliary inversion after sentence-initial negative or near-negative expressions such as seldom, never, scarcely, no sooner and under no circumstances.",
+    "Place inversion in the main clause after fronted only when/if/after and not until clauses, distinguishing these from an only-modified subject.",
+    "Construct emphatic so + adjective + auxiliary + subject + that and such + be + noun phrase + that patterns.",
+    "Use neither and nor with auxiliary inversion to add a parallel negative statement without misplacing the subject or auxiliary."
+  ],
+  "explanation": [
+    {
+      "heading": "Negative and near-negative fronting",
+      "body": "Negative or restrictive adverbials at the front of a main clause commonly trigger auxiliary–subject inversion in formal English: Seldom have we encountered such delays; At no point did the witness withdraw the statement. Where the non-inverted clause has no auxiliary, introduce do, does or did and use the base form of the main verb. Never, rarely, little (meaning not sufficiently), no sooner, hardly, barely and scarcely belong to this group, but choose the tense that suits the context. The inversion belongs to the clause whose negative expression has been fronted.",
+      "example": "Rarely does the archive close before its published time."
+    },
+    {
+      "heading": "Fixed sequences and strong prohibitions",
+      "body": "No sooner ... than and hardly/scarcely/barely ... when or before describe a sequence in which one event closely follows another. An initial no sooner or hardly triggers inversion: No sooner had the announcement ended than questions began. At no time, in no way, on no account and under no circumstances also trigger inversion when fronted. In formal prohibitions, on no account should you + bare infinitive is natural; it does not mean that a past event never occurred.",
+      "example": "Under no circumstances should visitors touch the exposed wiring."
+    },
+    {
+      "heading": "Only and not until: which clause inverts?",
+      "body": "Only + a fronted adverbial of time, manner or condition usually requires inversion in the following main clause: Only after the lights came on did we see the damaged display. When only when, only if or not until introduces a subordinate clause, that subordinate clause normally keeps subject–verb order; the main clause is inverted. By contrast, when only directly modifies the subject (Only the technician noticed the error), no inversion occurs because the restrictive phrase is the subject itself.",
+      "example": "Only when the results were published did the researchers discuss their implications."
+    },
+    {
+      "heading": "Not only, so ... that and such ... that",
+      "body": "Initial not only triggers inversion in its clause and is often balanced by but also: Not only did the plan reduce costs, but it also improved access. To emphasise degree, formal writing can front so + adjective, followed by auxiliary–subject inversion and a that-clause: So severe was the damage that the building remained closed. A related noun-phrase structure uses such + be + noun phrase + that: Such was the demand that extra sessions were arranged. These are alternatives to ordinary word order, not free substitutions of so for such.",
+      "example": "So convincing was the demonstration that the panel approved further trials."
+    },
+    {
+      "heading": "Neither and nor in negative additions",
+      "body": "To add a second parallel negative fact, start the second clause with neither or nor followed by the appropriate auxiliary and subject: The first system did not respond, nor did the backup. Use an auxiliary matching the tense, modality and subject of the additional claim. A bare neither/nor followed by a subject and main verb would lose the required inversion. This pattern adds a negative fact; it is not the same as the two-alternative coordination neither A nor B.",
+      "example": "The draft was not circulated, nor were the supporting notes."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Only with a subject versus only with a fronted condition",
+      "left": {
+        "label": "Only modifies the subject",
+        "example": "Only the senior examiner spotted the omission.",
+        "note": "The restrictive subject is before the verb; no auxiliary inversion is needed."
+      },
+      "right": {
+        "label": "Only if introduces a condition",
+        "example": "Only if the figures agree will the senior examiner approve the report.",
+        "note": "The if-clause stays uninverted; the subsequent main clause inverts."
+      }
+    },
+    {
+      "title": "So and such use different complements",
+      "left": {
+        "label": "So + adjective",
+        "example": "So intense was the heat that the varnish cracked.",
+        "note": "The degree adjective precedes the inverted be and its subject."
+      },
+      "right": {
+        "label": "Such + be + noun phrase",
+        "example": "Such was the pressure that the team postponed the release.",
+        "note": "The noun phrase identifies the extent or magnitude in a different emphatic frame."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Not once did the visitor attempt to open the restricted door.",
+      "note": "The negative frequency expression triggers did + subject + bare infinitive."
+    },
+    {
+      "sentence": "Hardly had the workshop begun when the power failed.",
+      "note": "Hardly ... when conveys near-immediate succession with perfect auxiliary inversion."
+    },
+    {
+      "sentence": "Only by checking each entry did the accountants discover the discrepancy.",
+      "note": "Fronted only by + -ing requires inversion in the main clause."
+    },
+    {
+      "sentence": "Such was the interest in the seminar that another room was opened.",
+      "note": "Such + be + noun phrase expresses the extent that caused a result."
+    },
+    {
+      "sentence": "The first appeal was not accepted, neither was the revised application.",
+      "note": "Neither introduces an additional negative clause with be before the subject."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Never I have seen a queue outside that small gallery.",
+      "correct": "Never have I seen a queue outside that small gallery.",
+      "why": "Fronted never triggers subject–auxiliary inversion."
+    },
+    {
+      "incorrect": "Only when the interview did finish did the candidate relax.",
+      "correct": "Only when the interview finished did the candidate relax.",
+      "why": "Do-support belongs in the main clause; the only when subordinate clause keeps ordinary order."
+    },
+    {
+      "incorrect": "So difficult the assignment was that we requested extra time.",
+      "correct": "So difficult was the assignment that we requested extra time.",
+      "why": "Fronting so + adjective triggers inversion of was and the subject."
+    },
+    {
+      "incorrect": "The server did not recover, nor the backup did respond.",
+      "correct": "The server did not recover, nor did the backup respond.",
+      "why": "Nor introduces an additional negative clause with the auxiliary before the subject."
+    }
+  ],
+  "studyTips": [
+    "Circle the initial negative or restrictive expression and underline the auxiliary that moves before the subject; supply do/does/did if necessary.",
+    "Split only when/if/after and not until sentences into a subordinate clause and a main clause; invert only the main clause.",
+    "Practise matching no sooner with than, hardly with when, so with an adjective, such with a noun phrase, and neither/nor with a second negative claim."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly begins with a negative frequency adverbial?",
+      "choices": [
+        "Seldom the museum receives overseas loans.",
+        "Seldom does the museum receive overseas loans.",
+        "Seldom does the museum receives overseas loans."
+      ],
+      "answerIndex": 1,
+      "feedback": "Fronted seldom requires does before the subject and the bare verb receive."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the sentence with the correct main-clause inversion after only when.",
+      "choices": [
+        "Only when the signal returned did the engineers restart the test.",
+        "Only when did the signal return the engineers restarted the test.",
+        "Only when the signal returned the engineers did restarted the test."
+      ],
+      "answerIndex": 0,
+      "feedback": "The when-clause has normal order; the main clause begins did the engineers restart."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which sentence uses the emphatic such-construction correctly?",
+      "choices": [
+        "Such enormous was the demand that a second tour was announced.",
+        "Such the demand was that a second tour was announced.",
+        "Such was the demand that a second tour was announced."
+      ],
+      "answerIndex": 2,
+      "feedback": "Such + be + noun phrase + that is the correct emphatic pattern here."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Complete this meaning in a grammatical way: the main server failed, and the backup failed too.",
+      "choices": [
+        "The main server did not work, nor did the backup.",
+        "The main server did not work, nor the backup did.",
+        "The main server did not work, nor did worked the backup."
+      ],
+      "answerIndex": 0,
+      "feedback": "Nor did the backup correctly adds a parallel negative statement with auxiliary inversion."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete the segment after the opening expression: \"On no account ___ approve the request without supporting evidence.\" Facts: the committee / should. Write the auxiliary and subject.",
+      "acceptedAnswers": [
+        "should the committee"
+      ],
+      "feedback": "On no account should the committee approve ... uses modal–subject inversion after a prohibitive phrase."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Supply the five-word opening of the past-perfect sentence: \"___ closed than the crowd began to leave.\" Facts: the exhibition / close. Start with No sooner.",
+      "acceptedAnswers": [
+        "no sooner had the exhibition"
+      ],
+      "feedback": "No sooner had the exhibition closed ... than describes events that occurred in quick succession."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Fill the missing auxiliary and subject: \"Only after the inspection ___ identify the defect.\" Facts: the technicians / could. Write three words.",
+      "acceptedAnswers": [
+        "could the technicians"
+      ],
+      "feedback": "The fronted only after phrase triggers inversion in the main clause."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the emphasis with the adjective and auxiliary: \"So ___ ___ the wind that flights were delayed.\" Use strong and was.",
+      "acceptedAnswers": [
+        "strong was"
+      ],
+      "feedback": "So + adjective + was + subject + that presents an emphatic degree construction."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence: At no point the staff did ignore the warning signs.",
+      "acceptedAnswers": [
+        "At no point did the staff ignore the warning signs."
+      ],
+      "feedback": "Did precedes the subject when a negative time phrase is fronted."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence: Only if the technician will confirm the reading can we publish it.",
+      "acceptedAnswers": [
+        "Only if the technician confirms the reading can we publish it."
+      ],
+      "feedback": "The if-clause uses present simple for a real future condition; inversion occurs in the main clause can we publish."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence: Not only she checked the totals, but she also corrected the labels.",
+      "acceptedAnswers": [
+        "Not only did she check the totals, but she also corrected the labels."
+      ],
+      "feedback": "Initial not only requires auxiliary inversion in its own clause, using did + bare infinitive."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence using the opening word Such: Such great was the disappointment that the audience left quietly.",
+      "acceptedAnswers": [
+        "Such was the disappointment that the audience left quietly."
+      ],
+      "feedback": "Such + be + noun phrase is grammatical; great cannot stand directly between such and the inverted be in this frame."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Transform the statement by beginning with Never: \"I have questioned her expertise.\" Retain the present perfect.",
+      "acceptedAnswers": [
+        "Never have I questioned her expertise."
+      ],
+      "feedback": "Never at the start triggers have + subject inversion."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "State this formally beginning with On no account. Facts: visitors / should / enter the storage area.",
+      "acceptedAnswers": [
+        "On no account should visitors enter the storage area."
+      ],
+      "feedback": "A fronted prohibitive expression places should before the noun subject."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Make a near-immediate sequence. Facts: No sooner / the speech / end / than the questions began. Use the past perfect.",
+      "acceptedAnswers": [
+        "No sooner had the speech ended than the questions began."
+      ],
+      "feedback": "No sooner had + subject + past participle pairs with than."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Say this with only after. Facts: only after the alarm stopped / the staff / resume / work. Use past simple in the main clause.",
+      "acceptedAnswers": [
+        "Only after the alarm stopped did the staff resume work."
+      ],
+      "feedback": "Only after triggers did the staff resume in the main clause."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Form an emphatic so ... that statement. Facts: cold / the water / the swimmers turned back. Use past simple be.",
+      "acceptedAnswers": [
+        "So cold was the water that the swimmers turned back."
+      ],
+      "feedback": "So + adjective is followed by inverted was and the noun subject."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Form an emphatic such ... that statement. Facts: such / the noise / the meeting was postponed. Use past simple be.",
+      "acceptedAnswers": [
+        "Such was the noise that the meeting was postponed."
+      ],
+      "feedback": "Such was the noise is the noun phrase degree pattern."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Add a second negative fact with nor. Facts: the first key did not work / the spare key did not work. Begin the second clause with nor.",
+      "acceptedAnswers": [
+        "The first key did not work, nor did the spare key."
+      ],
+      "feedback": "Nor did the spare key avoids repetition by inverting the auxiliary in the added negative clause."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Correct both sentences aloud, in this order: \"Rarely we do receive urgent complaints.\" \"Only the director did approve the request.\" Avoid emphatic do in the second statement.",
+      "acceptedAnswers": [
+        "Rarely do we receive urgent complaints. Only the director approved the request."
+      ],
+      "feedback": "Rarely needs auxiliary inversion; only modifying a subject does not require it."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "At no time did the auditors authorise anyone to remove the original files.",
+      "prompt": "What permission was granted?",
+      "choices": [
+        "Permission to make copies",
+        "No permission to remove the originals",
+        "Permission to move the originals off-site"
+      ],
+      "answerIndex": 1,
+      "feedback": "At no time did ... authorise indicates that removal was never permitted."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Only after the access code was reset could the volunteers enter the storage room.",
+      "prompt": "What had to happen before entry was possible?",
+      "choices": [
+        "The access code had to be reset",
+        "The volunteers had to leave",
+        "The storage room had to be repainted"
+      ],
+      "answerIndex": 0,
+      "feedback": "The phrase only after identifies the reset as a prerequisite for entry."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "No sooner had the doors opened than the waiting crowd began to move.",
+      "prompt": "Transcribe the first six words ending with \"opened\".",
+      "acceptedAnswers": [
+        "no sooner had the doors opened"
+      ],
+      "feedback": "No sooner had ... than marks two events happening close together."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Under no circumstances should the trainees operate the machine without an instructor present.",
+      "prompt": "What are the trainees forbidden to do?",
+      "choices": [
+        "Read the safety instructions",
+        "Ask an instructor for help",
+        "Operate the machine alone"
+      ],
+      "answerIndex": 2,
+      "feedback": "The prohibition applies to operating the machine without an instructor."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "So urgent was the request that the office extended its opening hours for one evening.",
+      "prompt": "Why did the office remain open longer?",
+      "choices": [
+        "The request was extremely urgent",
+        "The building had been damaged",
+        "The staff were attending training"
+      ],
+      "answerIndex": 0,
+      "feedback": "So urgent was the request gives the reason for extending opening hours."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The first applicant had no relevant experience, nor did the second applicant.",
+      "prompt": "Which statement describes the applicants?",
+      "choices": [
+        "Both were experienced",
+        "Neither had relevant experience",
+        "Only the second applicant had experience"
+      ],
+      "answerIndex": 1,
+      "feedback": "Nor did the second applicant extends the first negative statement to the second applicant."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Not only did the changes save money, but they also improved the service.",
+      "prompt": "Transcribe the first five words of the recording.",
+      "acceptedAnswers": [
+        "not only did the changes"
+      ],
+      "feedback": "Not only triggers did + noun subject inversion."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Such was the confusion that the organisers issued a written clarification.",
+      "prompt": "Transcribe the first four words of the recording.",
+      "acceptedAnswers": [
+        "such was the confusion"
+      ],
+      "feedback": "Such + be + noun phrase introduces an emphatic degree statement."
+    }
+  ]
+}

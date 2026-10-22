@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u082",
+  "title": "Concession, Contrast and Qualified Generalisations",
+  "level": "C2",
+  "topicId": "eg3-u082-contrasts-although-though-even-if-whereas",
+  "summary": "Make nuanced concessions and contrasts with although, though, even though, even if, while, whilst and whereas. Distinguish known facts from hypothetical possibilities, use emphatic concessive inversion and end-position though, and qualify general claims with not necessarily.",
+  "learningObjectives": [
+    "Express unexpected contrast with although and though, including clause-final though and despite/in spite of + suitable complements.",
+    "Use adjective + though/as + subject + verb for emphatic concession without confusing it with ordinary although clauses.",
+    "Distinguish factual concession with even though from possible or conditional concession with even if.",
+    "Choose while, whilst or whereas for qualified statements versus direct comparisons, and use not necessarily to resist overgeneralisation."
+  ],
+  "explanation": [
+    {
+      "heading": "Although, though and prepositional equivalents",
+      "body": "Although and though introduce a subordinate clause that contrasts with what the main clause leads us to expect. Though is often more conversational and can occur at the end of an independent clause as a sentence-level afterthought; although cannot normally fill that final position alone. Despite and in spite of offer comparable meanings but need a noun phrase, an -ing construction or the fact that + clause. Neither despite nor in spite of alone takes a finite clause directly.",
+      "example": "Although the hall was small, the concert felt remarkably intimate. The seats were uncomfortable, though."
+    },
+    {
+      "heading": "Emphatic concessive adjective-first patterns",
+      "body": "For stylistic emphasis, an adjective may be fronted before though or as, followed by a subject and verb: Difficult though the climb was, they continued. This pattern is more literary or formal than an ordinary although clause, and although cannot replace though directly in that inverted position. The meaning remains concessive; the fronted adjective signals the property that makes the result surprising.",
+      "example": "Uncertain as the forecast was, the hikers completed the planned route."
+    },
+    {
+      "heading": "Even though versus even if: fact and hypothesis",
+      "body": "Even though normally concedes something presented as a fact: the speaker takes the situation to be real. Even if considers a condition that may or may not hold, or grants a possible situation without asserting that it exists. Both can support a surprising continuation, but exchanging them can change what the speaker commits to knowing. Context also determines whether a condition is a genuine prediction, a hypothetical assumption or a deliberately robust decision.",
+      "example": "Even though the venue is far away, we have booked tickets. Even if the venue is far away, we will still go."
+    },
+    {
+      "heading": "While, whilst and whereas: qualifications and comparisons",
+      "body": "While can concede a point before qualifying it, or contrast two situations. Whilst often serves similarly but can sound literary or regionally marked. Whereas is particularly suitable for comparing two distinct facts and is not generally suitable for concession based on an unexpected outcome. In formal concessive uses, while or whilst typically introduces a clause preceding or embedded within the main statement; direct contrast with whereas or while is freer in placement. A reduced -ing or participle clause can be possible when its meaning and subject remain clear.",
+      "example": "While the old bridge is attractive, it needs repairs; the newer crossing carries cars, whereas the old one serves pedestrians."
+    },
+    {
+      "heading": "Not necessarily limits a broad inference",
+      "body": "Not necessarily denies that a proposed conclusion always follows; it does not assert the opposite. Someone who speaks confidently is not necessarily well informed means confidence and knowledge are not guaranteed to coincide, not that confident speakers are uninformed. The phrase is especially useful in academic discussion, assessments and corrective feedback because it opens room for exceptions.",
+      "example": "An unusually high score does not necessarily indicate that the assessment was easy."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "What the speaker claims to know",
+      "left": {
+        "label": "Even though: acknowledged fact",
+        "example": "Even though the roads are closed, supplies are arriving by boat.",
+        "note": "The roads are presented as actually closed."
+      },
+      "right": {
+        "label": "Even if: assumed possibility",
+        "example": "Even if the roads close, supplies will arrive by boat.",
+        "note": "The closure is treated as a possibility, not an established fact."
+      }
+    },
+    {
+      "title": "Unexpected concession versus direct contrast",
+      "left": {
+        "label": "Although: an unexpected outcome",
+        "example": "Although the archive is small, it contains rare manuscripts.",
+        "note": "Its importance is surprising given its size."
+      },
+      "right": {
+        "label": "Whereas: opposing facts",
+        "example": "The old archive is small, whereas the new one occupies three floors.",
+        "note": "The two archives are compared directly; no surprise need be implied."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The instructions were complicated, though the team completed the installation without help.",
+      "note": "Though introduces a finite concessive clause in a conversational register."
+    },
+    {
+      "sentence": "I did not enjoy the opening act. The final performance was memorable, though.",
+      "note": "Sentence-final though adds a contrasting afterthought."
+    },
+    {
+      "sentence": "Exhausting as the journey was, the passengers remained in good spirits.",
+      "note": "The adjective-first as clause is a formal emphatic concession."
+    },
+    {
+      "sentence": "Even if the forecast improves, the organisers will keep the indoor option available.",
+      "note": "The forecast improvement is a possibility, not a stated fact."
+    },
+    {
+      "sentence": "Greater experience does not necessarily make someone a better teacher.",
+      "note": "Not necessarily rejects an automatic inference without asserting its opposite."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The apartment is compact. It has a generous balcony, although.",
+      "correct": "The apartment is compact. It has a generous balcony, though.",
+      "why": "Though, not although, can serve as a standalone clause-final concessive afterthought."
+    },
+    {
+      "incorrect": "Despite the weather was unpleasant, the runners completed the route.",
+      "correct": "Although the weather was unpleasant, the runners completed the route.",
+      "why": "Despite cannot introduce a bare finite clause; although can."
+    },
+    {
+      "incorrect": "Although tired the volunteers were, they finished the work.",
+      "correct": "Tired though the volunteers were, they finished the work.",
+      "why": "The emphatic adjective-first concessive pattern uses though or as, not although."
+    },
+    {
+      "incorrect": "Whereas the rescue was dangerous, the crew succeeded unexpectedly.",
+      "correct": "Although the rescue was dangerous, the crew succeeded unexpectedly.",
+      "why": "Although suits unexpected success despite danger; whereas normally compares two facts."
+    }
+  ],
+  "studyTips": [
+    "For each example with even though, ask whether the speaker actually knows the condition is true; then rewrite it with even if and explain the shift to a possibility.",
+    "Make pairs that separate concession from contrast: although to signal unexpected success, whereas to juxtapose two measurable situations.",
+    "Practice a neutral although clause, an adjective-first though/as clause, and a sentence-final though afterthought; use not necessarily to qualify one overconfident inference."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The speaker knows the museum is closed today but says the visit was worthwhile. Which opening presents closure as an established fact?",
+      "choices": [
+        "Even if the museum is closed today,",
+        "Even though the museum is closed today,",
+        "Whereas the museum is closed today,"
+      ],
+      "answerIndex": 1,
+      "feedback": "Even though concedes a fact that the speaker presents as known."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The organisers have not yet received the weather forecast. Choose the sentence that leaves the bad weather hypothetical.",
+      "choices": [
+        "Even though the storm arrives tomorrow, we will continue.",
+        "Whereas the storm arrives tomorrow, we will continue.",
+        "Even if the storm arrives tomorrow, we will continue."
+      ],
+      "answerIndex": 2,
+      "feedback": "Even if introduces a possibility without claiming it is certain."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Complete the contrasting afterthought: \"The route was difficult. The views were worth the effort, ___.\"",
+      "choices": [
+        "though",
+        "although",
+        "despite"
+      ],
+      "answerIndex": 0,
+      "feedback": "Though can occur alone at the end as a concessive afterthought."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose a comparison of two facts without claiming a surprising outcome.",
+      "choices": [
+        "Although the north wing has six rooms, the south wing has four rooms.",
+        "The north wing has six rooms, whereas the south wing has four.",
+        "Even though the north wing has six rooms, the south wing has four."
+      ],
+      "answerIndex": 1,
+      "feedback": "Whereas directly contrasts the two wings; although/even though suggest concession or surprise."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "\"___ though the climb was, the team reached the summit.\" Supply the adjective meaning extremely demanding (use \"Hard\").",
+      "acceptedAnswers": [
+        "Hard"
+      ],
+      "feedback": "Fronted hard highlights the unexpected completion despite the demanding climb."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "\"The recordings were unclear. They were still useful, ___.\" Supply the single-word clause-final concession.",
+      "acceptedAnswers": [
+        "though"
+      ],
+      "feedback": "Though is natural at the end of the second sentence as a qualifying afterthought."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "\"___ the older museum has two exhibition halls, the newer annex has six.\" Supply the direct-comparison conjunction \"Whereas\".",
+      "acceptedAnswers": [
+        "Whereas"
+      ],
+      "feedback": "Whereas explicitly compares the two museum buildings by the number of exhibition halls."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "\"An expensive instrument is not ___ more reliable.\" Supply the word limiting that generalisation.",
+      "acceptedAnswers": [
+        "necessarily"
+      ],
+      "feedback": "Not necessarily means higher price does not guarantee reliability."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence-final connector: \"The job was demanding. I learned a great deal, although.\"",
+      "acceptedAnswers": [
+        "The job was demanding. I learned a great deal, though."
+      ],
+      "feedback": "Use though rather than although for a final concessive afterthought."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Replace \"Despite\" with \"Although\" while preserving the remaining words: \"Despite the tickets were expensive, the show sold out.\"",
+      "acceptedAnswers": [
+        "Although the tickets were expensive, the show sold out."
+      ],
+      "feedback": "Although directly introduces a full subordinate clause; despite alone does not."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the adjective-first pattern using \"though\" and retaining the original meaning: \"Although complicated the instructions were, the trainees completed the exercise.\"",
+      "acceptedAnswers": [
+        "Complicated though the instructions were, the trainees completed the exercise."
+      ],
+      "feedback": "Adjective-first concession uses though or as before subject + verb."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Replace \"Whereas\" with \"Although\" and preserve the remaining words: \"Whereas the path was flooded, the hikers reached the shelter.\"",
+      "acceptedAnswers": [
+        "Although the path was flooded, the hikers reached the shelter."
+      ],
+      "feedback": "Although conveys success despite the flooded path; whereas is inappropriate for this type of concession."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Concede a known fact. Facts: the library / be closed; its online resources / remain available. Begin with \"Even though\" and use the present simple.",
+      "acceptedAnswers": [
+        "Even though the library is closed, its online resources remain available."
+      ],
+      "feedback": "Even though presents the closure as an acknowledged fact."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Express a possible future obstacle without claiming it will happen. Facts: the train / be delayed; we / still attend the talk. Begin with \"Even if\" and use the present simple then will.",
+      "acceptedAnswers": [
+        "Even if the train is delayed, we will still attend the talk."
+      ],
+      "feedback": "Even if introduces the possible delay as a condition."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Use a clause-final afterthought. Say two sentences: The room was small. It was comfortable, though. Preserve these facts and use though only at the end.",
+      "acceptedAnswers": [
+        "The room was small. It was comfortable, though."
+      ],
+      "feedback": "Sentence-final though qualifies the previous negative impression."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Use an emphatic adjective-first concessive pattern. Facts: the climb / be difficult; the group / continue. Begin \"Difficult though\" and use the past simple.",
+      "acceptedAnswers": [
+        "Difficult though the climb was, the group continued."
+      ],
+      "feedback": "The adjective-first though structure makes the concession emphatic."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Compare rather than concede. Facts: the northern route / be shorter; the southern route / be safer. Use \"whereas\" between the clauses.",
+      "acceptedAnswers": [
+        "The northern route is shorter, whereas the southern route is safer."
+      ],
+      "feedback": "Whereas directly juxtaposes two different facts."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Qualify a generalisation. Facts: higher salaries / not necessarily / produce / greater job satisfaction. Begin \"Higher salaries\" and use the present simple.",
+      "acceptedAnswers": [
+        "Higher salaries do not necessarily produce greater job satisfaction."
+      ],
+      "feedback": "Not necessarily means no guaranteed relationship is asserted."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Express a concession with an -ing complement. Facts: the curator / feel / exhausted; she / continue / the tour. Begin \"Despite feeling exhausted\" and use the past simple.",
+      "acceptedAnswers": [
+        "Despite feeling exhausted, the curator continued the tour."
+      ],
+      "feedback": "Despite can introduce an -ing phrase, followed by a main clause."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give two sentences in this order, using full forms. First: Although / the hall / be crowded / the audience / remain calm (past). Second: The staff / handle / the situation well (past); put \"though\" at the end.",
+      "acceptedAnswers": [
+        "Although the hall was crowded, the audience remained calm. The staff handled the situation well, though."
+      ],
+      "feedback": "Although introduces an ordinary concessive clause; final though adds an afterthought."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Even though the ferry was running late, the passengers reached the island before sunset.",
+      "prompt": "Does the speaker present the ferry delay as real or merely possible?",
+      "choices": [
+        "It is an acknowledged fact.",
+        "It is only a hypothetical future risk.",
+        "It is explicitly denied."
+      ],
+      "answerIndex": 0,
+      "feedback": "Even though presents the ferry delay as an established condition."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Even if the gallery sells out, we can still watch the opening talk online.",
+      "prompt": "What does the sentence say about tickets selling out?",
+      "choices": [
+        "They have definitely sold out already.",
+        "The gallery has cancelled all online content.",
+        "Selling out is a possibility being considered."
+      ],
+      "answerIndex": 2,
+      "feedback": "Even if allows for a possible sell-out without asserting one."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The venue was crowded. The staff were helpful, though.",
+      "prompt": "Transcribe the five-word final statement ending with \"though\".",
+      "acceptedAnswers": [
+        "The staff were helpful, though."
+      ],
+      "feedback": "The sentence ends with though as a concessive afterthought."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The east wing contains modern sculptures, whereas the west wing displays historical portraits.",
+      "prompt": "What distinction does the speaker make?",
+      "choices": [
+        "The east wing is closed and the west wing is open.",
+        "The two wings feature different types of art.",
+        "The west wing has no exhibits."
+      ],
+      "answerIndex": 1,
+      "feedback": "Whereas contrasts the types of art displayed in the two wings."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Tired as the volunteers were, they stayed to finish packing the equipment.",
+      "prompt": "What is surprising about the volunteers?",
+      "choices": [
+        "They remained to finish despite being tired.",
+        "They stopped before the packing began.",
+        "They had no equipment left to pack."
+      ],
+      "answerIndex": 0,
+      "feedback": "The adjective-first concessive construction highlights persistence despite tiredness."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "A complicated design does not necessarily lead to a better result.",
+      "prompt": "Which interpretation matches not necessarily?",
+      "choices": [
+        "Complicated designs always fail.",
+        "Simple designs are always best.",
+        "Complexity does not guarantee a better outcome."
+      ],
+      "answerIndex": 2,
+      "feedback": "Not necessarily rejects an automatic inference without asserting the contrary."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The windows were small, although the rooms were surprisingly bright.",
+      "prompt": "Transcribe the six-word concessive clause beginning with \"although\".",
+      "acceptedAnswers": [
+        "although the rooms were surprisingly bright"
+      ],
+      "feedback": "Although introduces the unexpected brightness despite small windows."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "While the gallery is beautiful, the entrance is difficult to find.",
+      "prompt": "Transcribe the five-word concessive clause beginning with \"While\".",
+      "acceptedAnswers": [
+        "While the gallery is beautiful"
+      ],
+      "feedback": "While introduces an acknowledged attractive feature before qualifying it with a difficulty."
+    }
+  ]
+}

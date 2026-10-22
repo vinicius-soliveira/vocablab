@@ -1,0 +1,407 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u001",
+  "title": "State Verbs, Changing Meanings and Performatives",
+  "level": "C1",
+  "topicId": "eg3-u001-state-verbs-and-performatives",
+  "summary": "Choose simple or continuous forms according to whether a verb expresses a state, a temporary activity or a deliberate speech act; recognise when the same verb changes meaning.",
+  "learningObjectives": [
+    "Distinguish stable states from temporary actions when selecting present simple and continuous forms.",
+    "Identify how verbs such as think, see, have and taste change meaning across different contexts.",
+    "Use an appropriate present form for temporary mental activity without overgeneralising rules for state verbs.",
+    "Use present-simple performatives to make a formal action happen through the words themselves."
+  ],
+  "explanation": [
+    {
+      "heading": "States and actions are different meanings",
+      "body": "Verbs describing possession, belief or a stable relationship usually take a simple form when they express a state. The same verb may take a continuous form when it describes an observable activity. Decide what the verb means before choosing a tense; a memorised list of so-called state verbs is not enough.",
+      "example": "The studio owns two cameras, but its staff are testing a third one this week."
+    },
+    {
+      "heading": "One verb, two readings",
+      "body": "Some common verbs shift meaning with context. Think can express an opinion or an ongoing mental process; see can refer to understanding or meeting someone; have may express possession or an experience. The continuous is normally possible for the activity meaning, not for the equivalent stable-state reading.",
+      "example": "I think the deadline is realistic, and I am thinking about how to organise the work."
+    },
+    {
+      "heading": "Perception and temporary impressions",
+      "body": "Look, sound, feel and taste often describe how something seems. They can also describe a deliberate act of observing or experiencing something. With feel, both simple and continuous forms are sometimes natural for a temporary physical condition; do not impose an artificial difference where usage genuinely overlaps.",
+      "example": "This fabric feels rough, and the designer is feeling its surface for defects."
+    },
+    {
+      "heading": "Mental activity and developing attitudes",
+      "body": "Verbs of understanding, appreciation and judgement are commonly simple for stable attitudes. A continuous form may stress a changing reaction, a temporary interpretation or conscious consideration. Such uses are context-sensitive and can sound informal, expressive or less neutral.",
+      "example": "I appreciate your support, and I am gradually appreciating how complex the task is."
+    },
+    {
+      "heading": "Performatives as present actions",
+      "body": "In formal interaction, certain verbs can carry out an action as the speaker says them: I apologise, I promise, I recommend and I accept. The present simple conventionally performs the act. A continuous version may instead report a developing behaviour rather than make the formal statement.",
+      "example": "I apologise for the delay, and I confirm that the meeting will start at nine."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Opinion versus mental process",
+      "left": {
+        "label": "State: present simple",
+        "example": "I think this design is safe.",
+        "note": "Think expresses an opinion."
+      },
+      "right": {
+        "label": "Activity: present continuous",
+        "example": "I am thinking about a safer design.",
+        "note": "Think describes a mental process in progress."
+      }
+    },
+    {
+      "title": "Performing an act versus describing behaviour",
+      "left": {
+        "label": "Performative statement",
+        "example": "I recommend the shorter route.",
+        "note": "The present-simple statement performs the recommendation."
+      },
+      "right": {
+        "label": "Ongoing behaviour",
+        "example": "I am recommending that route to several teams this week.",
+        "note": "The continuous reports repeated activity over a limited period."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The supplier owns the equipment but is lending it to us for the weekend.",
+      "note": "Owns is a state; is lending describes a temporary arrangement."
+    },
+    {
+      "sentence": "I see your concern, and I am seeing the coordinator tomorrow.",
+      "note": "See means understand in the first clause and meet in the second."
+    },
+    {
+      "sentence": "This sauce tastes surprisingly mild.",
+      "note": "Tastes describes a perceived quality, not someone actively tasting."
+    },
+    {
+      "sentence": "We are considering three alternative layouts.",
+      "note": "Are considering describes an active process of evaluation."
+    },
+    {
+      "sentence": "I acknowledge the error and accept responsibility for it.",
+      "note": "The present-simple verbs perform formal communicative acts."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The research group is owning the new instruments.",
+      "correct": "The research group owns the new instruments.",
+      "why": "Own expresses possession rather than an action in progress."
+    },
+    {
+      "incorrect": "I am believing that the readings are accurate.",
+      "correct": "I believe that the readings are accurate.",
+      "why": "Believe normally expresses a held view in this context."
+    },
+    {
+      "incorrect": "I think about our proposal at the moment.",
+      "correct": "I am thinking about our proposal at the moment.",
+      "why": "At the moment describes a mental activity underway."
+    },
+    {
+      "incorrect": "I am hereby promising to send the corrected document.",
+      "correct": "I hereby promise to send the corrected document.",
+      "why": "Hereby introduces a performative promise, normally made with the present simple."
+    }
+  ],
+  "studyTips": [
+    "Paraphrase the verb before choosing a tense: is it possession, an opinion, active consideration or an observable action?",
+    "Contrast pairs such as I see your point and I am seeing the client, explaining how the meaning changes.",
+    "Practise short formal performatives with I confirm, I accept, I recommend and I apologise."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "I ___ the risks, but I need more time to make a decision.",
+      "choices": [
+        "am understanding",
+        "understand",
+        "understanding"
+      ],
+      "answerIndex": 1,
+      "feedback": "Understand describes present comprehension, not an activity normally put in a continuous form."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The committee ___ several proposals this week; its final opinion has not been formed.",
+      "choices": [
+        "is considering",
+        "considers",
+        "consider"
+      ],
+      "answerIndex": 0,
+      "feedback": "Is considering presents a temporary process of evaluation."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "In this sentence, which form performs a formal promise rather than describing an activity?",
+      "choices": [
+        "I am promising to inform you.",
+        "I have been promising to inform you.",
+        "I promise to inform you."
+      ],
+      "answerIndex": 2,
+      "feedback": "I promise is a present-simple performative that makes the promise as it is spoken."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The technician ___ the cable to check whether it has become warm.",
+      "choices": [
+        "feels",
+        "is feeling",
+        "feel"
+      ],
+      "answerIndex": 1,
+      "feedback": "Is feeling describes the technician deliberately touching the cable; it is an action."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The organisation ___ (own) three recording studios. Write the present-simple verb.",
+      "acceptedAnswers": [
+        "owns"
+      ],
+      "feedback": "Own is a state of possession here, so use owns."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "I ___ (think) about how to revise the schedule right now. Write the complete present-continuous verb phrase.",
+      "acceptedAnswers": [
+        "am thinking"
+      ],
+      "feedback": "An ongoing process of consideration takes am thinking."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "I ___ (apologise) for the confusion. Write the verb that performs this formal speech act.",
+      "acceptedAnswers": [
+        "apologise"
+      ],
+      "feedback": "I apologise makes an apology through the utterance itself."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "That explanation ___ (sound) convincing to me. Write the present-simple verb.",
+      "acceptedAnswers": [
+        "sounds"
+      ],
+      "feedback": "Sound describes how the explanation seems."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Our university is possessing a large archive of maps.",
+      "acceptedAnswers": [
+        "Our university possesses a large archive of maps."
+      ],
+      "feedback": "Possess denotes a state; the present simple is the neutral choice."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: This afternoon, I am see the architect to discuss the new plans.",
+      "acceptedAnswers": [
+        "This afternoon, I am seeing the architect to discuss the new plans.",
+        "This afternoon, I'm seeing the architect to discuss the new plans."
+      ],
+      "feedback": "See means have a scheduled meeting here; a present continuous arrangement is appropriate."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I am hereby accepting the terms of the agreement.",
+      "acceptedAnswers": [
+        "I hereby accept the terms of the agreement."
+      ],
+      "feedback": "Hereby accept is a performative formula in the present simple."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: At the moment, the panel thinks carefully about the final shortlist.",
+      "acceptedAnswers": [
+        "At the moment, the panel is thinking carefully about the final shortlist."
+      ],
+      "feedback": "At the moment and carefully indicate an active deliberation taking place now."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "State the ownership fact in one sentence. Facts: The foundation / own / the building. Use the present simple.",
+      "acceptedAnswers": [
+        "The foundation owns the building."
+      ],
+      "feedback": "Own expresses possession; the singular foundation takes owns."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Describe an ongoing decision process. Facts: We / consider / two options / at the moment. Use a complete present-continuous sentence.",
+      "acceptedAnswers": [
+        "We are considering two options at the moment.",
+        "We're considering two options at the moment."
+      ],
+      "feedback": "Use are considering for deliberation currently underway."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "A colleague explains a complicated rule. Say that you understand the rule. Start with \"I\" and use understand.",
+      "acceptedAnswers": [
+        "I understand the rule."
+      ],
+      "feedback": "Understand describes comprehension in this context."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Describe a scheduled meeting, not visual perception. Facts: I / see / the director / tomorrow. Use the present continuous.",
+      "acceptedAnswers": [
+        "I am seeing the director tomorrow.",
+        "I'm seeing the director tomorrow."
+      ],
+      "feedback": "Am seeing expresses a planned meeting."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Make a formal apology. Use this exact meaning: apologise / for the mistake. Begin with \"I\".",
+      "acceptedAnswers": [
+        "I apologise for the mistake."
+      ],
+      "feedback": "I apologise performs a formal apology in the present simple."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Say the perceived quality of a meal. Facts: This soup / taste / delicious. Use the present simple.",
+      "acceptedAnswers": [
+        "This soup tastes delicious."
+      ],
+      "feedback": "Tastes here describes a quality of the soup."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the grammar aloud, preserving the meaning: \"The company is owning this vehicle.\"",
+      "acceptedAnswers": [
+        "The company owns this vehicle."
+      ],
+      "feedback": "Own is a possession verb and normally uses the present simple."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce these two sentences in this order, using full forms. Opinion: I / think / the idea is useful. Deliberation: I / think about / its cost / now.",
+      "acceptedAnswers": [
+        "I think the idea is useful. I am thinking about its cost now."
+      ],
+      "feedback": "The first think expresses an opinion; am thinking about describes an activity."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I think the draft is clear, but I am still thinking about its final paragraph.",
+      "prompt": "What is the speaker still doing?",
+      "choices": [
+        "Changing the topic of the whole draft.",
+        "Considering the final paragraph.",
+        "Doubting that the draft exists."
+      ],
+      "answerIndex": 1,
+      "feedback": "Am still thinking about refers to the ongoing process of considering the last paragraph."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The museum owns the sculpture, but it is lending it to a local gallery for a month.",
+      "prompt": "Which statement is correct?",
+      "choices": [
+        "The gallery owns the sculpture.",
+        "The museum sold the sculpture.",
+        "The museum has temporary lending arrangements."
+      ],
+      "answerIndex": 2,
+      "feedback": "Owns expresses possession; is lending refers to a temporary arrangement."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I apologise for the confusion and accept responsibility for the delay.",
+      "prompt": "Type the two words that begin the speaker’s formal apology.",
+      "acceptedAnswers": [
+        "I apologise"
+      ],
+      "feedback": "I apologise is the performative expression heard at the start."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The coffee smells fresh, and the chef is smelling each batch before serving it.",
+      "prompt": "What is the chef actively doing?",
+      "choices": [
+        "Checking the smell of each batch.",
+        "Buying more coffee.",
+        "Writing the menu."
+      ],
+      "answerIndex": 0,
+      "feedback": "Is smelling each batch describes a deliberate action."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I see what you mean, but I am seeing the finance team before I agree.",
+      "prompt": "Why has the speaker not yet agreed?",
+      "choices": [
+        "The speaker has not understood the idea.",
+        "The speaker intends to meet the finance team first.",
+        "The speaker refuses to speak to anyone."
+      ],
+      "answerIndex": 1,
+      "feedback": "Is seeing denotes a planned meeting, whereas I see what you mean signals understanding."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I confirm your reservation now. The coordinator is checking the seating arrangements this afternoon.",
+      "prompt": "Which action is completed by the speaker’s words?",
+      "choices": [
+        "Checking every seat.",
+        "Changing the arrival time.",
+        "Confirming the reservation."
+      ],
+      "answerIndex": 2,
+      "feedback": "I confirm performs the confirmation; the coordinator’s checking is separate."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The architects are considering a different entrance for the new building.",
+      "prompt": "Type the two-word verb phrase after \"The architects\".",
+      "acceptedAnswers": [
+        "are considering"
+      ],
+      "feedback": "Are considering conveys a process of evaluation underway."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The foundation owns the land, although another organisation manages it.",
+      "prompt": "Type the two-word subject-and-verb phrase heard at the beginning.",
+      "acceptedAnswers": [
+        "The foundation owns"
+      ],
+      "feedback": "The foundation owns states who possesses the land."
+    }
+  ]
+}

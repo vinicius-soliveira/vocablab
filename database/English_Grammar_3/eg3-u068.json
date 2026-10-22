@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u068",
+  "title": "Gradable and Non-Gradable Adjectives: Meanings and Patterns",
+  "level": "C2",
+  "topicId": "eg3-u068-gradable-and-non-gradable-adjectives-meanings",
+  "summary": "Interpret adjectives whose meaning shifts between a gradable quality and a non-gradable relationship or category. Recognise idiomatic adjective pairings with and, and describe developing intensity through repeated comparatives or more and more.",
+  "learningObjectives": [
+    "Explain how a single adjective changes meaning when it describes a scalable quality rather than a fixed relationship.",
+    "Distinguish a qualitative reading from a classifying one using context and degree modifiers.",
+    "Use established spoken adjective pairings such as nice and quiet and good and ready without inventing unrestricted combinations.",
+    "Express progressive changes using comparative and comparative, or more and more before longer adjectives."
+  ],
+  "explanation": [
+    {
+      "heading": "One adjective may have distinct senses",
+      "body": "Common, old, clean and similar adjectives can switch meaning with context. A very common surname is widespread and gradable; common interests are shared interests, a relational sense not normally measured by very. An old friend may mean someone known for years rather than an elderly friend. An intensifier can reveal one reading, but the surrounding noun and situation are often decisive.",
+      "example": "It is a very common mistake, but the two teams also have several interests in common."
+    },
+    {
+      "heading": "Qualitative versus classifying readings",
+      "body": "Some adjectives have a quality reading that allows degrees and a classifying reading that identifies a domain or kind. A very professional response sounds skilled and appropriate; professional insurance concerns an occupation. Similarly, a very public disagreement attracts substantial attention, while public transport denotes a service category. Do not treat the qualifying sense and the classifying sense as identical.",
+      "example": "The adviser delivered a very professional talk about professional development."
+    },
+    {
+      "heading": "Context prevents mechanical grading",
+      "body": "False, original and critical illustrate why dictionary senses matter. A completely false allegation contrasts with a slightly false statement only in a special sense; an original idea can be more or less imaginative, whereas the original manuscript identifies a particular source version. A critical comment may be strongly disapproving or a critical safety check may mean essential. Choose an adverb only after establishing the meaning.",
+      "example": "The curator displayed the original letter beside a highly original interpretation of it."
+    },
+    {
+      "heading": "Fixed adjective-and-adjective expressions in speech",
+      "body": "Spoken English uses familiar pairings to reinforce particular qualities: good and ready, lovely and warm, and nice and quiet are common combinations. The first word acts as an idiomatic intensifier in a limited set of pairings; it does not form a general rule allowing good and or lovely and before any adjective. Such forms are especially conversational and should not be substituted mechanically in academic writing.",
+      "example": "Once the studio was nice and quiet, the narrator started recording."
+    },
+    {
+      "heading": "Repeated comparatives express growth",
+      "body": "Repeat a comparative with and to show a continuing increase or decrease: louder and louder, colder and colder and better and better. With adjectives that normally take more for the comparative, use more and more plus the base adjective: more and more confident. This describes a developing trend, not merely a single comparison between two things.",
+      "example": "As the guests arrived, the hall became noisier and noisier."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Common as frequency versus shared relationship",
+      "left": {
+        "label": "Gradable frequency",
+        "example": "That surname is extremely common here.",
+        "note": "Common means frequent and accepts degree modifiers."
+      },
+      "right": {
+        "label": "Shared relationship",
+        "example": "The siblings have two hobbies in common.",
+        "note": "In common means shared, not a scalable measure of frequency."
+      }
+    },
+    {
+      "title": "Skilled quality versus occupational category",
+      "left": {
+        "label": "Qualitative: professional",
+        "example": "Her presentation was very professional.",
+        "note": "Professional means displaying expertise or appropriate conduct."
+      },
+      "right": {
+        "label": "Classifying: professional",
+        "example": "He belongs to a professional association.",
+        "note": "Professional identifies a work-related category."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The surname Bell is quite common in that district.",
+      "note": "Common indicates frequency and is gradable here."
+    },
+    {
+      "sentence": "We met my old mathematics tutor at the conference.",
+      "note": "Old can mean former, without saying anything about the tutor’s age."
+    },
+    {
+      "sentence": "The museum displayed the original recording from 1962.",
+      "note": "Original identifies the source version, not the degree of creativity."
+    },
+    {
+      "sentence": "The kitchen was lovely and warm after the heating was repaired.",
+      "note": "Lovely and warm is a conventional conversational pairing."
+    },
+    {
+      "sentence": "As the discussion continued, the audience became more and more curious.",
+      "note": "More and more plus the base adjective expresses progressive change."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "We have very common interests in urban planning.",
+      "correct": "We have interests in common in urban planning.",
+      "why": "Here common refers to shared interests; the natural expression is have interests in common."
+    },
+    {
+      "incorrect": "She requested very professional insurance for architects.",
+      "correct": "She requested professional insurance for architects.",
+      "why": "Professional classifies the insurance by occupation rather than measuring its degree."
+    },
+    {
+      "incorrect": "The child became more and more colder as the temperature fell.",
+      "correct": "The child became colder and colder as the temperature fell.",
+      "why": "Do not combine more and more with an -er comparative; repeat colder instead."
+    },
+    {
+      "incorrect": "The background music became more and more loud.",
+      "correct": "The background music became louder and louder.",
+      "why": "The regular comparative of loud is louder, so repeat louder and louder."
+    }
+  ],
+  "studyTips": [
+    "For each adjective with two senses, write one sentence with a degree adverb and one identifying a category or relationship.",
+    "Listen for fixed adjective pairs in conversations; record the actual collocations rather than freely combining any two adjectives.",
+    "Rewrite descriptions of growing intensity using colder and colder or more and more confident as appropriate."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "In \"That is a very common surname,\" what does common mean?",
+      "choices": [
+        "Shared by exactly two people",
+        "Frequently found",
+        "Related to a profession"
+      ],
+      "answerIndex": 1,
+      "feedback": "Very common uses the gradable sense frequently found."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which phrase describes the original document, rather than an imaginative document?",
+      "choices": [
+        "the original signed contract",
+        "a very original design",
+        "an increasingly original idea"
+      ],
+      "answerIndex": 0,
+      "feedback": "Original signed contract points to the source version; it does not measure creativity."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose a natural conversational pairing for a calm room.",
+      "choices": [
+        "good and interesting",
+        "lovely and enormous",
+        "nice and quiet"
+      ],
+      "answerIndex": 2,
+      "feedback": "Nice and quiet is an established spoken expression."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which sentence naturally describes a gradual increase in confidence?",
+      "choices": [
+        "She became confident and confident.",
+        "She became more and more confident.",
+        "She became more confident and more."
+      ],
+      "answerIndex": 1,
+      "feedback": "More and more precedes the base adjective confident to express increasing degree."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "She is highly skilled and gave a ___ professional response. Supply an intensifier that explicitly grades her conduct.",
+      "acceptedAnswers": [
+        "very"
+      ],
+      "feedback": "Very professional means displaying a high degree of appropriate expertise."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The two researchers have an interest ___ common. Supply one word.",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "feedback": "In common means shared, not frequently occurring."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "As the rain intensified, the street grew wetter and ___. Supply the repeated comparative.",
+      "acceptedAnswers": [
+        "wetter"
+      ],
+      "feedback": "Wetter and wetter expresses a progressive increase."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "During the semester, the group became more and more ___ (enthusiastic). Supply the base adjective.",
+      "acceptedAnswers": [
+        "enthusiastic"
+      ],
+      "feedback": "Longer adjective enthusiastic follows more and more in this pattern."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The museum displayed the very original manuscript rather than a later copy.",
+      "acceptedAnswers": [
+        "The museum displayed the original manuscript rather than a later copy."
+      ],
+      "feedback": "Original identifies the initial source version, not a high degree of creativity."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The two architects have in very common a preference for simple designs.",
+      "acceptedAnswers": [
+        "The two architects have a preference for simple designs in common."
+      ],
+      "feedback": "The idiomatic relational phrase is in common after the shared item, not very in common."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The nights became more and more darker.",
+      "acceptedAnswers": [
+        "The nights became darker and darker."
+      ],
+      "feedback": "Darker is already comparative, so do not also use more and more."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: She became interested and interested in the subject.",
+      "acceptedAnswers": [
+        "She became more and more interested in the subject."
+      ],
+      "feedback": "More and more before interested expresses gradual growth in interest."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say that a family name occurs frequently using very common. Begin with \"The surname\" and use Hill.",
+      "acceptedAnswers": [
+        "The surname Hill is very common."
+      ],
+      "feedback": "Very common refers to frequency."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say that two colleagues share an interest. Facts: We / have / one interest / in common.",
+      "acceptedAnswers": [
+        "We have one interest in common."
+      ],
+      "feedback": "In common refers to something shared."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Describe a skilled manner. Facts: Her response / be / very professional. Use the past simple.",
+      "acceptedAnswers": [
+        "Her response was very professional."
+      ],
+      "feedback": "Professional is a gradable quality of her response."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Describe an occupational category without a degree adverb. Facts: They / joined / a professional association.",
+      "acceptedAnswers": [
+        "They joined a professional association."
+      ],
+      "feedback": "Professional here classifies the association."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Describe a calm, pleasant setting in conversational language. Facts: The library / was / nice and quiet.",
+      "acceptedAnswers": [
+        "The library was nice and quiet."
+      ],
+      "feedback": "Nice and quiet is an established emphatic pairing."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Show that the weather became progressively colder. Begin with \"It became\" and use colder and colder.",
+      "acceptedAnswers": [
+        "It became colder and colder."
+      ],
+      "feedback": "Repeated comparatives express progressive change."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Show a continuous growth in certainty. Begin with \"I became\" and use more and more certain.",
+      "acceptedAnswers": [
+        "I became more and more certain."
+      ],
+      "feedback": "More and more correctly precedes the base adjective certain."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give these sentences in order: \"The original drawing is here.\" Then \"Her new design is highly original.\"",
+      "acceptedAnswers": [
+        "The original drawing is here. Her new design is highly original."
+      ],
+      "feedback": "The first original identifies a source version; the second praises creativity."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Garcia is a very common surname in the region, especially near the coast.",
+      "prompt": "What sense of common is being used?",
+      "choices": [
+        "Frequent",
+        "Shared",
+        "Ordinary in quality"
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker talks about how often a surname is found."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I ran into my old supervisor yesterday. She left the company three years ago.",
+      "prompt": "What does old mean when the speaker mentions an old supervisor?",
+      "choices": [
+        "Elderly",
+        "Unreliable",
+        "Former"
+      ],
+      "answerIndex": 2,
+      "feedback": "My old supervisor refers to someone who held that role previously."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The two researchers have interests in common, particularly astronomy and photography.",
+      "prompt": "Transcribe the exact three-word phrase about the shared hobbies.",
+      "acceptedAnswers": [
+        "interests in common"
+      ],
+      "feedback": "Interests in common refers to shared interests."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The institute recommends professional insurance for every registered architect.",
+      "prompt": "Which interpretation of professional is intended?",
+      "choices": [
+        "Appropriate and highly skilled",
+        "Related to an occupation",
+        "Publicly available"
+      ],
+      "answerIndex": 1,
+      "feedback": "Professional insurance labels the occupational category."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "After the children went home, the recording studio was nice and quiet.",
+      "prompt": "How does the speaker describe the studio after everyone left?",
+      "choices": [
+        "Very professional",
+        "More and more confident",
+        "Nice and quiet"
+      ],
+      "answerIndex": 2,
+      "feedback": "Nice and quiet is the spoken fixed pairing used in the audio."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "As more guests entered the hall, the conversation grew louder and louder.",
+      "prompt": "What trend does the speaker report?",
+      "choices": [
+        "The noise kept increasing",
+        "The noise became less important",
+        "The room became smaller"
+      ],
+      "answerIndex": 0,
+      "feedback": "Louder and louder describes a continuing increase in volume."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "After several rehearsals, the volunteers became more and more confident on stage.",
+      "prompt": "Transcribe the exact four-word phrase that signals growing confidence.",
+      "acceptedAnswers": [
+        "more and more confident"
+      ],
+      "feedback": "More and more plus an adjective expresses an increasing degree."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The kitchen was lovely and warm when we returned from our walk.",
+      "prompt": "Transcribe the exact three-word phrase describing pleasant temperature.",
+      "acceptedAnswers": [
+        "lovely and warm"
+      ],
+      "feedback": "Lovely and warm is an established conversational combination."
+    }
+  ]
+}

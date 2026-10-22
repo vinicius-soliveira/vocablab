@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u055",
+  "title": "Prepositions in Relative Clauses: Form and Register",
+  "level": "C1",
+  "topicId": "eg3-u055-prepositions-in-relative-clauses",
+  "summary": "Build formal and everyday relative clauses by deciding where a preposition belongs, whether whom or which is required after it, and when partitive expressions such as many of whom or both of which add precise supplementary information. Avoid separating particles from inseparable multi-word verbs.",
+  "learningObjectives": [
+    "Use preposition + whom/which in formal relative clauses and distinguish it from preposition stranding in ordinary speech.",
+    "Select whose or noun + of which to express possessive and abstract relationships in formal relative clauses.",
+    "Form supplementary partitive relatives such as both of which and several of whom without changing reference or agreement.",
+    "Handle multi-word verbs and prepositional verbs without forcing unnatural or incorrect preposition movement."
+  ],
+  "explanation": [
+    {
+      "heading": "Formal preposition placement with whom and which",
+      "body": "When a preposition is governed by the relative clause, careful formal writing often places it before whom for people or which for things: the colleague with whom we collaborated; the protocol under which the samples were stored. That and an omitted relative pronoun cannot immediately follow a fronted preposition. Everyday English usually leaves the preposition later: the colleague we collaborated with. Both structures can be grammatical; register and rhythm determine the choice.",
+      "example": "The review identifies the standards against which our results were evaluated."
+    },
+    {
+      "heading": "Possession and abstract connections",
+      "body": "Whose can introduce a possessed or associated noun, including a company, place or abstract idea: the scheme whose costs are rising. In some especially formal styles, noun + of which can replace whose + noun, often after a comma: the scheme, the costs of which are rising. The latter sounds more detached and written, not automatically clearer. Whose can also follow a preposition in very formal constructions such as from whose archives the letters came.",
+      "example": "The fund, the purpose of which remains unchanged, will support new researchers."
+    },
+    {
+      "heading": "Partitive relatives after quantifiers",
+      "body": "To add information about members of a previously identified group, use all, some, neither, both, many, few or a number followed by of whom or of which. The choice of pronoun depends on whether the antecedent denotes people or things: five volunteers, two of whom...; six proposals, three of which... . These phrases are usually supplementary and follow a comma. A quantified subject controls verb agreement: one of whom is versus several of whom are.",
+      "example": "The jury interviewed eight finalists, three of whom had worked abroad."
+    },
+    {
+      "heading": "Prepositions with whose and ending-position alternatives",
+      "body": "Formal prose sometimes begins a relative clause with a preposition followed by whose + noun: the author from whose memoir we learned the story. A more conversational wording puts the preposition at the end of the clause: the author whose memoir we learned the story from. Fronting does not justify dropping the noun after whose. Prefer whichever order makes the grammatical relationship transparent.",
+      "example": "We visited the museum from whose collection the sculpture had been borrowed."
+    },
+    {
+      "heading": "Multi-word verbs and the limits of fronting",
+      "body": "Not every word that looks like a preposition can be moved. A particle in a phrasal verb such as come across or look up (a word in a dictionary) normally stays with the verb: the article I came across, not the article across which I came. Three-word expressions such as look up to are also most natural with their ending intact: the scientist I look up to. In a formal rewrite, consider a different verb, such as admire, rather than mechanically moving a particle.",
+      "example": "The mentor whom I look up to has published a new study."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Fronted versus stranded preposition",
+      "left": {
+        "label": "Formal: fronting",
+        "example": "The policy under which we operate is clear.",
+        "note": "Under which foregrounds the grammatical link in formal writing."
+      },
+      "right": {
+        "label": "Everyday: stranding",
+        "example": "The policy we operate under is clear.",
+        "note": "The same relationship is conveyed with the preposition after the verb phrase."
+      }
+    },
+    {
+      "title": "Possession versus quantified subsets",
+      "left": {
+        "label": "Possessive relationship",
+        "example": "The archive, the records of which are digitised, is open.",
+        "note": "The records belong to the archive; of which links a noun to its antecedent."
+      },
+      "right": {
+        "label": "Part of a set",
+        "example": "The archive contains twenty maps, several of which are digitised.",
+        "note": "Several of which selects members of the set of maps."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "This is the principle on which the new regulations are based.",
+      "note": "On which is a formal preposition-plus-relative construction. You can also say the principle the regulations are based on."
+    },
+    {
+      "sentence": "The initiative, whose goals are ambitious, has secured funding.",
+      "note": "Whose links the initiative to its goals; it is not restricted to people."
+    },
+    {
+      "sentence": "We considered four candidates, one of whom withdrew.",
+      "note": "One of whom adds a fact about one person in an identified set."
+    },
+    {
+      "sentence": "The exhibition presented nine drawings, two of which were unfinished.",
+      "note": "Two of which refers to a subset of non-human items."
+    },
+    {
+      "sentence": "The researcher I look up to is speaking tonight.",
+      "note": "The multi-word verb look up to stays together in a natural relative clause."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The organisation in that she works has expanded.",
+      "correct": "The organisation in which she works has expanded.",
+      "why": "After a fronted preposition, use which, not that, for a thing."
+    },
+    {
+      "incorrect": "We met six trainees, four of who speak Spanish.",
+      "correct": "We met six trainees, four of whom speak Spanish.",
+      "why": "A partitive construction about people uses of whom rather than of who in standard formal writing."
+    },
+    {
+      "incorrect": "The device, its components of which are replaceable, is affordable.",
+      "correct": "The device, the components of which are replaceable, is affordable.",
+      "why": "In this formal pattern the noun phrase is the components of which, without its."
+    },
+    {
+      "incorrect": "That is the paper across which I came yesterday.",
+      "correct": "That is the paper I came across yesterday.",
+      "why": "Come across is a phrasal verb; its particle should not be fronted as an independent preposition."
+    }
+  ],
+  "studyTips": [
+    "For each relative clause, identify the preposition and the verb that requires it; then write a formal and an everyday alternative if both are natural.",
+    "When a clause mentions a subset, write the full reference set first and check whether whom or which is needed and whether the quantifier is singular or plural.",
+    "Keep a short list of multi-word verbs whose particles cannot normally be fronted; paraphrase rather than forcing unnatural formal word order."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the formal construction: \"The consultant ___ we submitted the proposal replied yesterday.\"",
+      "choices": [
+        "to that",
+        "to whom",
+        "to who"
+      ],
+      "answerIndex": 1,
+      "feedback": "To whom is the formal object form after the fronted preposition to."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which option adds information about exactly two of the six paintings?",
+      "choices": [
+        "The gallery displayed six paintings, two of which were restored.",
+        "The gallery displayed six paintings, two of whom were restored.",
+        "The gallery displayed six paintings, two which were restored."
+      ],
+      "answerIndex": 0,
+      "feedback": "Two of which refers to two objects within the set of six paintings."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which sentence uses an inseparable multi-word verb naturally?",
+      "choices": [
+        "The letter across which I came was unsigned.",
+        "The letter I came across was unsigned.",
+        "The letter came which I across was unsigned."
+      ],
+      "answerIndex": 1,
+      "feedback": "Come across stays together; the relative pronoun is omitted because it is the object."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which rewrite is formal and grammatical?",
+      "choices": [
+        "The studio, whose the equipment is new, has reopened.",
+        "The studio, the equipment whose is new, has reopened.",
+        "The studio, the equipment of which is new, has reopened."
+      ],
+      "answerIndex": 2,
+      "feedback": "The equipment of which is a formal possessive relative noun phrase; neither other option has valid word order."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete the formal clause with a preposition and relative pronoun: \"The procedure ___ the samples were prepared has been published.\" Use by which.",
+      "acceptedAnswers": [
+        "by which"
+      ],
+      "feedback": "By which introduces the means by which the preparation occurred."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete the partitive relative clause: \"We invited ten researchers, several ___ had published on the topic.\" Supply two words.",
+      "acceptedAnswers": [
+        "of whom"
+      ],
+      "feedback": "Of whom identifies several people within a named set."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Supply the formal possessive relative word: \"The foundation, ___ annual budget has doubled, is hiring.\"",
+      "acceptedAnswers": [
+        "whose"
+      ],
+      "feedback": "Whose links the foundation with its annual budget."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the natural spoken phrase with the two words missing: \"This is the article I ___ yesterday.\" Use come across in the simple past.",
+      "acceptedAnswers": [
+        "came across"
+      ],
+      "feedback": "Came across is a phrasal verb; its particle follows the verb."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence using formal preposition fronting: The contract under that the work will proceed is ready.",
+      "acceptedAnswers": [
+        "The contract under which the work will proceed is ready."
+      ],
+      "feedback": "Use which, not that, directly after under."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the partitive relative, keeping the same meaning: We ordered seven tablets, three of who arrived damaged.",
+      "acceptedAnswers": [
+        "We ordered seven tablets, three of which arrived damaged."
+      ],
+      "feedback": "Tablets are things, so use three of which."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the relative clause without changing its meaning: The composer from whose we learned the melody is visiting.",
+      "acceptedAnswers": [
+        "The composer from whose work we learned the melody is visiting."
+      ],
+      "feedback": "Whose must determine a noun; work specifies the source of the melody."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Rewrite without separating a phrasal-verb particle: The report into which I looked contained several errors. Use the everyday expression looked into.",
+      "acceptedAnswers": [
+        "The report I looked into contained several errors."
+      ],
+      "feedback": "Look into meaning investigate is most natural here with its particle after looked in the relative clause."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "State the formal version. Facts: The researcher / with whom / we worked / has retired.",
+      "acceptedAnswers": [
+        "The researcher with whom we worked has retired."
+      ],
+      "feedback": "With whom places the preposition before the relative pronoun."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say a natural everyday version without an overt relative pronoun. Facts: The researcher / we worked / with / has retired.",
+      "acceptedAnswers": [
+        "The researcher we worked with has retired."
+      ],
+      "feedback": "The preposition follows worked and the object pronoun is omitted."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Add a partitive clause. Facts: We tested five sensors; two / of which / failed.",
+      "acceptedAnswers": [
+        "We tested five sensors, two of which failed."
+      ],
+      "feedback": "Two of which refers to a subset of the sensors."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Add formal possession. Facts: The foundation / whose / headquarters / are in Bristol / is expanding.",
+      "acceptedAnswers": [
+        "The foundation whose headquarters are in Bristol is expanding."
+      ],
+      "feedback": "Whose introduces the associated noun headquarters."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Say a formal time-related clause. Facts: The day / on which / we signed / the agreement / was memorable.",
+      "acceptedAnswers": [
+        "The day on which we signed the agreement was memorable."
+      ],
+      "feedback": "On which formally connects the day with the signing."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Use a natural phrasal verb without fronting. Facts: The manuscript / I came across / was incomplete.",
+      "acceptedAnswers": [
+        "The manuscript I came across was incomplete."
+      ],
+      "feedback": "The particle across remains with came."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct aloud: \"The organisation for that she volunteers is local.\" Use formal fronting.",
+      "acceptedAnswers": [
+        "The organisation for which she volunteers is local."
+      ],
+      "feedback": "A fronted preposition must be followed by which, not that."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two complete sentences in this order. First: We selected three interns / one of whom / has experience. Second: The plan / to which / we agreed / is final.",
+      "acceptedAnswers": [
+        "We selected three interns, one of whom has experience. The plan to which we agreed is final."
+      ],
+      "feedback": "Use of whom for a person from a set and to which for formal preposition placement."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The committee reviewed six applications, two of which were withdrawn before the deadline.",
+      "prompt": "How many applications were withdrawn?",
+      "choices": [
+        "One",
+        "Two",
+        "Four"
+      ],
+      "answerIndex": 1,
+      "feedback": "Two of which specifies exactly two applications from the original six."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The journalist to whom the documents were sent works for a local newspaper.",
+      "prompt": "Who received the documents?",
+      "choices": [
+        "The journalist",
+        "The editor",
+        "The photographer"
+      ],
+      "answerIndex": 0,
+      "feedback": "To whom identifies the journalist as the recipient."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "We have invited four speakers, three of whom will join the discussion online.",
+      "prompt": "Transcribe the three-word phrase marking the participating subset.",
+      "acceptedAnswers": [
+        "three of whom"
+      ],
+      "feedback": "The phrase three of whom directly identifies the number and its human reference."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The laboratory, the roof of which was repaired in May, is open again.",
+      "prompt": "What was repaired in May?",
+      "choices": [
+        "Its ventilation system",
+        "Its entrance",
+        "Its roof"
+      ],
+      "answerIndex": 2,
+      "feedback": "The roof of which is the formal possessive noun phrase describing the laboratory."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The director whose office overlooks the courtyard will speak first.",
+      "prompt": "What is the relationship expressed by whose?",
+      "choices": [
+        "The director is associated with the office",
+        "The director designed the courtyard",
+        "The director works in a different building"
+      ],
+      "answerIndex": 0,
+      "feedback": "Whose links the director to the office."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The article I came across during my research offered a useful alternative explanation.",
+      "prompt": "What did the speaker find during research?",
+      "choices": [
+        "An article",
+        "A new laboratory",
+        "An interview invitation"
+      ],
+      "answerIndex": 0,
+      "feedback": "Came across means encountered or discovered the article."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Our policy explains the conditions under which members may request a refund.",
+      "prompt": "Transcribe the two-word formal preposition-relative phrase.",
+      "acceptedAnswers": [
+        "under which"
+      ],
+      "feedback": "Under which introduces the conditions controlling a refund request."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The professor with whom I collaborated has moved to a different university.",
+      "prompt": "Transcribe the two-word phrase introducing the formal relative clause.",
+      "acceptedAnswers": [
+        "with whom"
+      ],
+      "feedback": "With whom contains a fronted preposition and an object relative pronoun."
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u056",
+  "title": "Adding Information to Noun Phrases: Apposition and Reduced Clauses",
+  "level": "C1",
+  "topicId": "eg3-u056-other-ways-of-adding-information-to-noun-phrases-1",
+  "summary": "Expand noun phrases with defining and supplementary apposition, and/or constructions, namely and that is, reduced participle relatives, and to-infinitive postmodifiers. Match punctuation, voice and time reference to the intended meaning, especially in academic and professional writing.",
+  "learningObjectives": [
+    "Distinguish defining apposition from supplementary noun phrases and punctuate each accordingly.",
+    "Add precise explanation with and, or, namely and that is without obscuring what the added phrase identifies.",
+    "Choose -ing, past participle or being + past participle reduced clauses by active, passive and ongoing meaning.",
+    "Use infinitive modifiers and non-defining participle phrases when they genuinely preserve reference and time relationships."
+  ],
+  "explanation": [
+    {
+      "heading": "Apposition: identifying or extra information",
+      "body": "Apposition places two noun phrases next to each other when both identify the same person or thing. Supplementary apposition adds an aside and is normally marked by commas or pauses: Amira Khan, the project coordinator, presented the results. Defining apposition identifies which person is meant and ordinarily has no comma: my colleague Amira. Punctuation therefore reflects the same distinction found in defining versus non-defining relative clauses.",
+      "example": "The architect Elise Morgan will introduce our guest, a specialist in public transport."
+    },
+    {
+      "heading": "And, or, namely and that is",
+      "body": "A coordinated expression with and may present two roles held by one person: our manager and mentor. Or can supply an alternative name or description: the aurora, or northern lights. Namely introduces an exact instance or enumeration; that is restates or explains a description in different terms. Both often take commas in supplementary position, but neither is merely a decorative substitute for any relative clause.",
+      "example": "The pilot will cover two risks, namely unreliable power and delayed deliveries."
+    },
+    {
+      "heading": "Reduced defining relative clauses",
+      "body": "An -ing clause typically reduces an active defining relative (people working remotely), while a past-participle clause typically reduces a passive one (samples collected last week). These modifiers generally follow the noun they describe. Not every relative can be shortened: a form change must preserve who does what, time relationships and intended meaning; words like who, which and a form of be are not universally removable.",
+      "example": "The data collected overnight are awaiting review, and the team analysing them will report tomorrow."
+    },
+    {
+      "heading": "Being + past participle marks ongoing passive action",
+      "body": "A postmodifying being + past participle phrase can make a passive process in progress explicit: the bridge being inspected this week. In contrast, the bridge inspected last week may describe a completed inspection or identify which bridge is meant. Context can create overlap, but do not erase being when the ongoing interpretation is essential.",
+      "example": "The instruments being calibrated today cannot yet be released for use."
+    },
+    {
+      "heading": "Infinitive and supplementary participle modifiers",
+      "body": "Infinitives can qualify a noun, often identifying a prospective action, duty or opportunity: the next person to speak, a plan to modernise the library. The infinitive does not always mean purpose; decide its relation to the noun. In written narrative, supplementary -ing or -ed clauses are often set off by commas or dashes: The director, speaking from Brussels, confirmed the dates. Such clauses add information rather than restrict which director is meant.",
+      "example": "The proposal, revised after consultation, gives residents more time to respond."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Defining and supplementary apposition",
+      "left": {
+        "label": "Defining: identify the name",
+        "example": "My teammate Sofia will lead the workshop.",
+        "note": "Sofia specifies which teammate is being discussed; no comma is needed."
+      },
+      "right": {
+        "label": "Supplementary: extra role",
+        "example": "Sofia, our newest teammate, will lead the workshop.",
+        "note": "The name identifies the person; the appositive adds the role."
+      }
+    },
+    {
+      "title": "Active, passive and ongoing passive reduction",
+      "left": {
+        "label": "Active -ing",
+        "example": "The volunteers sorting donations wear blue badges.",
+        "note": "The volunteers actively sort the donations."
+      },
+      "right": {
+        "label": "Passive -ed",
+        "example": "The donations sorted yesterday have been counted.",
+        "note": "The donations receive the action; the shorter form identifies them."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The scientist Mara Lewis will introduce the device.",
+      "note": "Mara Lewis identifies which scientist is meant; this is defining apposition."
+    },
+    {
+      "sentence": "Mara Lewis, a specialist in robotics, will introduce the device.",
+      "note": "The appositive adds background information about an already named person."
+    },
+    {
+      "sentence": "The audit covers two locations, namely the depot and the clinic.",
+      "note": "Namely lists the two specific locations announced by the prior noun phrase."
+    },
+    {
+      "sentence": "The machines being repaired today will be inspected again tomorrow.",
+      "note": "Being repaired describes an ongoing passive process."
+    },
+    {
+      "sentence": "The next candidate to be interviewed is waiting outside.",
+      "note": "A to-infinitive passive clause qualifies the next candidate."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "My teammate Nia, is presenting today.",
+      "correct": "My teammate Nia is presenting today.",
+      "why": "Do not separate the complete subject, including the defining name Nia, from its verb with a comma."
+    },
+    {
+      "incorrect": "The documents filing yesterday were misplaced.",
+      "correct": "The documents filed yesterday were misplaced.",
+      "why": "Documents receive the filing action, so a passive past participle is needed."
+    },
+    {
+      "incorrect": "The two options, for example Monday and Tuesday, are the only available dates.",
+      "correct": "The two options, namely Monday and Tuesday, are the only available dates.",
+      "why": "Namely introduces the exact two options; for example would imply a non-exhaustive illustration."
+    },
+    {
+      "incorrect": "The instrument calibrating at the moment cannot be used.",
+      "correct": "The instrument being calibrated at the moment cannot be used.",
+      "why": "The instrument receives an ongoing calibration; use being + past participle."
+    }
+  ],
+  "studyTips": [
+    "Underline the two noun phrases in an apposition and decide whether the second identifies the referent or adds supplementary information before adding commas.",
+    "Expand each reduced relative clause back into a full who/which clause and verify active versus passive voice and time reference.",
+    "Test namely against that is: does the second expression name all intended items, or explain an equivalent term?"
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the correctly punctuated sentence; the person is already identified by their full name.",
+      "choices": [
+        "Dr Lena Brooks, the department head, will attend.",
+        "Dr Lena Brooks the department head, will attend.",
+        "Dr Lena Brooks, the department head will attend."
+      ],
+      "answerIndex": 0,
+      "feedback": "A supplementary noun phrase is enclosed by commas when the sentence continues."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which sentence gives the exact two items, rather than merely examples?",
+      "choices": [
+        "The kit contains two tools, for example pliers and a wrench.",
+        "The kit contains two tools, namely pliers and a wrench.",
+        "The kit contains two tools, such as pliers and a wrench."
+      ],
+      "answerIndex": 1,
+      "feedback": "Namely introduces a complete specification of the two tools."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Select the reduced relative clause in which the noun receives the action.",
+      "choices": [
+        "The staff checking the files are busy.",
+        "The manager supervising the team is away.",
+        "The files checked yesterday are in the archive."
+      ],
+      "answerIndex": 2,
+      "feedback": "Checked is a past-participle modifier with passive meaning: the files were checked."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "An inspection is in progress now. Which phrase makes ongoing passive meaning explicit?",
+      "choices": [
+        "The turbine inspecting now",
+        "The turbine being inspected now",
+        "The turbine inspected last year"
+      ],
+      "answerIndex": 1,
+      "feedback": "Being inspected signals an ongoing action performed on the turbine."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete the noun phrase: \"Rita Gomez, ___, will chair the meeting.\" Use the three-word appositive our new coordinator.",
+      "acceptedAnswers": [
+        "our new coordinator"
+      ],
+      "feedback": "Our new coordinator is a supplementary noun phrase identifying the same person."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete the reduced active clause: \"The people ___ (wait) outside have appointments.\" Write one -ing word.",
+      "acceptedAnswers": [
+        "waiting"
+      ],
+      "feedback": "Waiting corresponds to people who are waiting."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete the reduced passive clause: \"The samples ___ (freeze) overnight are ready for analysis.\" Write the past participle.",
+      "acceptedAnswers": [
+        "frozen"
+      ],
+      "feedback": "Frozen is a passive participle describing the samples."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Fill the two-word passive progression phrase: \"The roof ___ (repair) this week is unsafe to enter.\" Use being plus a past participle.",
+      "acceptedAnswers": [
+        "being repaired"
+      ],
+      "feedback": "Being repaired clearly signals work currently in progress on the roof."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the clause without changing passive meaning: The invoices processing yesterday were paid today.",
+      "acceptedAnswers": [
+        "The invoices processed yesterday were paid today."
+      ],
+      "feedback": "Invoices receive the processing; a passive past participle is required."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct punctuation only. Anya is already uniquely identified: Anya, our lead designer will present the prototype.",
+      "acceptedAnswers": [
+        "Anya, our lead designer, will present the prototype."
+      ],
+      "feedback": "A non-defining appositive must be followed by its closing comma."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the exhaustive list: The three departments, such as finance, operations and research, will report on Friday.",
+      "acceptedAnswers": [
+        "The three departments, namely finance, operations and research, will report on Friday."
+      ],
+      "feedback": "Namely matches the exact identification of all three departments; such as suggests examples."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the ongoing passive relative: The parcels shipping right now will arrive tomorrow.",
+      "acceptedAnswers": [
+        "The parcels being shipped right now will arrive tomorrow."
+      ],
+      "feedback": "Parcels are being shipped by someone; use being shipped rather than the active shipping."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Introduce a named colleague without extra commas. Facts: My colleague / Nia / leads the workshop.",
+      "acceptedAnswers": [
+        "My colleague Nia leads the workshop."
+      ],
+      "feedback": "Nia is defining apposition identifying the colleague."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Add supplementary apposition. Facts: Nia / our training manager / leads the workshop. Include the appositive between commas.",
+      "acceptedAnswers": [
+        "Nia, our training manager, leads the workshop."
+      ],
+      "feedback": "Our training manager adds information about Nia."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Name exactly two subjects. Facts: The seminar covers two topics / namely / privacy and accessibility.",
+      "acceptedAnswers": [
+        "The seminar covers two topics, namely privacy and accessibility."
+      ],
+      "feedback": "Namely names both topics exhaustively."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Say the active reduced relative. Facts: The engineer / monitoring the pumps / is on duty.",
+      "acceptedAnswers": [
+        "The engineer monitoring the pumps is on duty."
+      ],
+      "feedback": "Monitoring is active: the engineer does the monitoring."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Say the passive reduced relative. Facts: The equipment / delivered this morning / is upstairs.",
+      "acceptedAnswers": [
+        "The equipment delivered this morning is upstairs."
+      ],
+      "feedback": "Delivered reduces which was delivered."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Say the ongoing passive reduced relative. Facts: The bridge / being inspected today / is closed.",
+      "acceptedAnswers": [
+        "The bridge being inspected today is closed."
+      ],
+      "feedback": "Being inspected describes an ongoing passive action."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Use an infinitive modifier. Facts: The next speaker / to address the panel / is Mei.",
+      "acceptedAnswers": [
+        "The next speaker to address the panel is Mei."
+      ],
+      "feedback": "To address qualifies the next speaker."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Correct aloud: \"The results analysing yesterday were promising.\" Use a past participle with passive meaning.",
+      "acceptedAnswers": [
+        "The results analysed yesterday were promising."
+      ],
+      "feedback": "Results are analysed, so use the passive participle analysed."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The final report, revised after the consultation, will be published on Monday.",
+      "prompt": "What happened to the report before publication?",
+      "choices": [
+        "It was revised",
+        "It was cancelled",
+        "It was translated"
+      ],
+      "answerIndex": 0,
+      "feedback": "Revised is a passive participle providing additional information about the report."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Our guest Dr Farah Malik will explain the findings during the afternoon session.",
+      "prompt": "Which name identifies the guest?",
+      "choices": [
+        "Dr Farah Malik",
+        "Dr Elena Price",
+        "Professor David Lin"
+      ],
+      "answerIndex": 0,
+      "feedback": "The name following our guest specifies which guest is meant."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The devices being tested this afternoon will not be shipped until tomorrow.",
+      "prompt": "Transcribe the four-word phrase that describes an ongoing passive process.",
+      "acceptedAnswers": [
+        "being tested this afternoon"
+      ],
+      "feedback": "Being tested this afternoon expresses current passive testing."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The exhibition includes three local crafts, namely weaving, pottery and woodcarving.",
+      "prompt": "How many crafts does the speaker name?",
+      "choices": [
+        "Two",
+        "Three",
+        "Four"
+      ],
+      "answerIndex": 1,
+      "feedback": "The list following namely specifies exactly three crafts."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The new director, a former research scientist, will visit the centre next week.",
+      "prompt": "What earlier role did the director have?",
+      "choices": [
+        "A research scientist",
+        "A court interpreter",
+        "A professional athlete"
+      ],
+      "answerIndex": 0,
+      "feedback": "A former research scientist is supplementary apposition."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The students arriving early may enter the laboratory before the others.",
+      "prompt": "Which students may enter first?",
+      "choices": [
+        "Those who arrive early",
+        "Those without identification",
+        "Those arriving late"
+      ],
+      "answerIndex": 0,
+      "feedback": "Arriving early is an active participial modifier restricting the group."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The equipment stored in the basement has already been inspected.",
+      "prompt": "Transcribe the four-word phrase specifying where the equipment was kept.",
+      "acceptedAnswers": [
+        "stored in the basement"
+      ],
+      "feedback": "Stored in the basement is the complete reduced passive modifier."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "There are two improvements to make, namely clearer instructions and shorter forms.",
+      "prompt": "Transcribe the two-word phrase naming the second improvement.",
+      "acceptedAnswers": [
+        "shorter forms"
+      ],
+      "feedback": "Shorter forms is the second of the two specifically named improvements."
+    }
+  ]
+}

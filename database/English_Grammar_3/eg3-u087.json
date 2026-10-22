@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u087",
+  "title": "Linking Ideas Within and Between Sentences",
+  "level": "C2",
+  "topicId": "eg3-u087-connecting-ideas-in-a-sentence-and-between-sentences",
+  "summary": "Distinguish conjunctions that join clauses inside a sentence from discourse connectors that relate sentences or independent clauses. Use contrast, result, addition, condition and time markers with accurate punctuation, and recognise the special concessive uses of even though, even so and however.",
+  "learningObjectives": [
+    "Select a conjunction for a relationship within a sentence and a discourse marker for a link with the preceding sentence.",
+    "Punctuate sentence connectors correctly after a full stop, semicolon or coordinating conjunction without creating a comma splice.",
+    "Distinguish even though from even so and contrast ordinary however with however + adjective/adverb/much/many or however meaning in whatever way.",
+    "Connect statements of result, addition, time and condition while preserving the intended logical relationship."
+  ],
+  "explanation": [
+    {
+      "heading": "Conjunctions and sentence connectors do different jobs",
+      "body": "A conjunction such as although, because, while, unless or as long as can introduce a subordinate clause inside one sentence. By contrast, sentence connectors such as nevertheless, as a result, in addition and meanwhile normally relate a new sentence or independent clause to something already said. Choose by grammar as well as meaning: a linking word that expresses contrast is not automatically interchangeable with another contrast word.",
+      "example": "Although the rehearsal finished late, everyone stayed. The audience, however, had already left."
+    },
+    {
+      "heading": "Punctuation distinguishes a connector from a conjunction",
+      "body": "Do not attach two independent clauses with only a comma before nevertheless, consequently or however. Use a full stop or semicolon, normally followed by a comma after the connector. A connector can also follow and, but, or, so, or a semicolon/colon in an appropriate sentence; punctuation varies with placement and register. After a coordinating conjunction, however usually remains set off by commas where needed.",
+      "example": "The building passed the inspection; nevertheless, the owners postponed the opening."
+    },
+    {
+      "heading": "Contrast and concession: even though versus even so",
+      "body": "Even though introduces a subordinate clause and means roughly despite the fact that. Even so is a discourse connector meaning nevertheless and refers back to a preceding statement. Both express unexpected contrast, but substituting one for the other without changing the surrounding structure is usually ungrammatical. Whereas and while can compare contrasting facts within a sentence.",
+      "example": "Even though the route was longer, we took it. The road was crowded. Even so, we arrived early."
+    },
+    {
+      "heading": "However has three distinct patterns",
+      "body": "As a discourse marker, however means nevertheless and needs appropriate separation from the surrounding clauses. Before an adjective, adverb, much or many, however can mean no matter how, and it introduces a dependent concessive clause: however difficult the task is. Before a subject and verb, however can also mean in whatever way: however you arrange the chairs. Unlike the discourse connector, these patterns introduce dependent clauses rather than joining two independent statements. Put a comma after an opening concessive clause when it precedes the main clause.",
+      "example": "However carefully the manuscript is checked, a few errors may remain."
+    },
+    {
+      "heading": "Logic and placement: result, addition, time and condition",
+      "body": "Consequently and therefore express a result; furthermore and in addition supply another point; meanwhile and at the same time can relate simultaneous events; otherwise introduces what will happen if a condition is not met. A conjunction such as so that expresses purpose within a sentence and is not the same as the connector so or as a result. Some expressions such as after, before and so can perform different grammatical roles depending on position.",
+      "example": "The final bus leaves at nine. Therefore, we should set off before eight."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Subordination versus a separate connector",
+      "left": {
+        "label": "Conjunction",
+        "example": "Although the archive was closed, visitors waited outside.",
+        "note": "Although introduces a dependent concessive clause within a sentence."
+      },
+      "right": {
+        "label": "Sentence connector",
+        "example": "The archive was closed. Nevertheless, visitors waited outside.",
+        "note": "Nevertheless connects two independent statements across a sentence boundary."
+      }
+    },
+    {
+      "title": "Two different meanings of however",
+      "left": {
+        "label": "Discourse contrast",
+        "example": "The software is expensive; however, it is reliable.",
+        "note": "However comments on the contrast between two propositions."
+      },
+      "right": {
+        "label": "Concessive degree",
+        "example": "However expensive the software is, we still need it.",
+        "note": "However means no matter how and modifies the adjective expensive."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The deadline was moved. As a result, the review team had another week.",
+      "note": "As a result connects a new sentence to the consequence of the preceding one."
+    },
+    {
+      "sentence": "While the western entrance is accessible, the eastern entrance has several steps.",
+      "note": "While acts as a conjunction setting contrasting facts side by side."
+    },
+    {
+      "sentence": "The lights failed during the concert. Even so, the musicians continued playing.",
+      "note": "Even so means nevertheless and links to the unexpected continuation."
+    },
+    {
+      "sentence": "We have reserved the venue; furthermore, the invitations have been sent.",
+      "note": "Furthermore adds a related piece of information; a semicolon separates the independent clauses."
+    },
+    {
+      "sentence": "However many candidates apply, each will receive an acknowledgement.",
+      "note": "However many is a concessive quantity expression, not a sentence connector."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "We missed the final train, therefore we took a taxi.",
+      "correct": "We missed the final train; therefore, we took a taxi.",
+      "why": "Therefore is a sentence connector, so a comma alone cannot join the two independent clauses."
+    },
+    {
+      "incorrect": "Even so the room was small, the meeting went well.",
+      "correct": "Even though the room was small, the meeting went well.",
+      "why": "Even though is a conjunction that can introduce the subordinate clause; even so cannot."
+    },
+    {
+      "incorrect": "The first application failed. Although, the second one worked.",
+      "correct": "The first application failed. However, the second one worked.",
+      "why": "Although cannot stand as an independent sentence connector here; however can."
+    },
+    {
+      "incorrect": "However very carefully you plan, unexpected delays may occur.",
+      "correct": "However carefully you plan, unexpected delays may occur.",
+      "why": "Concessive however modifies an adverb directly; very is not inserted into this fixed pattern."
+    }
+  ],
+  "studyTips": [
+    "Recast a pair of independent sentences with however into one sentence beginning Although, checking the clause order and punctuation.",
+    "Read a short report and label each link as contrast, result, addition, condition or simultaneous time before choosing a connector.",
+    "Practise however in three forms: nevertheless; however difficult; and however you decide, keeping their structures separate."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the only fully punctuated link between two independent clauses: \"The exhibition was popular ___ ticket income remained low.\"",
+      "choices": [
+        "; nevertheless,",
+        "; although,",
+        ", nevertheless,"
+      ],
+      "answerIndex": 0,
+      "feedback": "A semicolon plus nevertheless links contrasting independent clauses without creating a comma splice."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The speaker wants one sentence with a subordinate concession: \"___ the instructions were brief, everyone understood them.\"",
+      "choices": [
+        "Even so",
+        "Even though",
+        "Nevertheless"
+      ],
+      "answerIndex": 1,
+      "feedback": "Even though introduces the concessive clause; even so and nevertheless are sentence connectors."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Two sentences: \"The crossing was closed. ___, commuters took a longer route.\" Select the clearest result marker.",
+      "choices": [
+        "In contrast",
+        "Meanwhile",
+        "As a result"
+      ],
+      "answerIndex": 2,
+      "feedback": "As a result shows that the longer route followed from the crossing being closed."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Complete the concessive-degree pattern: \"___ demanding the assignment becomes, we will finish it.\"",
+      "choices": [
+        "However",
+        "Nevertheless",
+        "Even so"
+      ],
+      "answerIndex": 0,
+      "feedback": "However + adjective + clause means no matter how demanding the assignment becomes."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "\"The panel postponed its decision; ___, several members requested more data.\" Supply the connector meaning in addition.",
+      "acceptedAnswers": [
+        "furthermore",
+        "in addition"
+      ],
+      "feedback": "Furthermore (or in addition) adds another relevant fact to the first statement."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "\"___ the office was already closed, the caretaker answered our call.\" Supply the two-word subordinating expression meaning despite the fact that.",
+      "acceptedAnswers": [
+        "Even though"
+      ],
+      "feedback": "Even though introduces an unexpected concession within one sentence."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "\"___ slowly the repairs proceed, the bridge must meet safety standards.\" Supply the single concessive word meaning no matter how.",
+      "acceptedAnswers": [
+        "However"
+      ],
+      "feedback": "However modifies slowly and introduces a concessive clause."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "\"Keep a copy of the registration receipt; ___, you may have difficulty proving payment.\" Supply the word meaning if you do not.",
+      "acceptedAnswers": [
+        "otherwise"
+      ],
+      "feedback": "Otherwise introduces a consequence if the preceding instruction is not followed."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the punctuation and keep the connector: \"The report was detailed, however, it omitted the main recommendation.\"",
+      "acceptedAnswers": [
+        "The report was detailed; however, it omitted the main recommendation."
+      ],
+      "feedback": "A semicolon, not a comma alone, must separate these independent clauses."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the connector without changing the intended subordinate structure: \"Even so the test was difficult, most candidates passed.\"",
+      "acceptedAnswers": [
+        "Even though the test was difficult, most candidates passed."
+      ],
+      "feedback": "Even though, not even so, introduces a subordinate concessive clause."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the misuse of a conjunction as a new-sentence connector: \"The workshop was cancelled. Although, the participants still met online.\"",
+      "acceptedAnswers": [
+        "The workshop was cancelled. Nevertheless, the participants still met online."
+      ],
+      "feedback": "Nevertheless can connect independent statements; although normally requires a dependent clause."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the concessive degree expression: \"However very late the package arrives, someone will collect it.\"",
+      "acceptedAnswers": [
+        "However late the package arrives, someone will collect it."
+      ],
+      "feedback": "However late already means no matter how late; very does not occur in this construction."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Link these two facts in one sentence, beginning with \"Although\": the forecast was poor; the concert went ahead. Use those exact words.",
+      "acceptedAnswers": [
+        "Although the forecast was poor, the concert went ahead."
+      ],
+      "feedback": "Although introduces a dependent clause, followed by the independent result."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Combine these facts with a semicolon and \"however\": the plan is ambitious; the budget is limited. Preserve that order.",
+      "acceptedAnswers": [
+        "The plan is ambitious; however, the budget is limited."
+      ],
+      "feedback": "However links two independent clauses; the semicolon prevents a comma splice."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Start with \"Even so\" to show an unexpected continuation. Previous fact: the hall was noisy. Say: the audience listened carefully.",
+      "acceptedAnswers": [
+        "Even so, the audience listened carefully."
+      ],
+      "feedback": "Even so means nevertheless and refers back to the noisy hall."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Express no matter how hard the climb is with this exact ending: \"we will continue.\" Start with \"However difficult\" and use \"the climb\".",
+      "acceptedAnswers": [
+        "However difficult the climb is, we will continue."
+      ],
+      "feedback": "However difficult introduces a concessive degree clause."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Link two facts using \"As a result\": the lift stopped; we used the stairs. Speak as two sentences in that order.",
+      "acceptedAnswers": [
+        "The lift stopped. As a result, we used the stairs."
+      ],
+      "feedback": "As a result presents the second event as the consequence of the first."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Correct the statement aloud without changing its facts: \"Even so the rain was heavy, the race continued.\"",
+      "acceptedAnswers": [
+        "Even though the rain was heavy, the race continued."
+      ],
+      "feedback": "The first clause requires the conjunction even though."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Give one sentence of advice using this exact wording: \"Save the receipt. Otherwise, you may lose your refund.\"",
+      "acceptedAnswers": [
+        "Save the receipt. Otherwise, you may lose your refund."
+      ],
+      "feedback": "Otherwise expresses the consequence of failing to follow the instruction."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two sentences exactly in this order. Fact one: the editor checked the draft. Add with \"Furthermore\": the translator reviewed the terminology.",
+      "acceptedAnswers": [
+        "The editor checked the draft. Furthermore, the translator reviewed the terminology."
+      ],
+      "feedback": "Furthermore adds an independent second fact rather than expressing contrast."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The weather was calm at dawn. By afternoon, however, the wind had become fierce.",
+      "prompt": "Which expression signals a contrast between the two parts of the report?",
+      "choices": [
+        "By afternoon",
+        "however",
+        "at dawn"
+      ],
+      "answerIndex": 1,
+      "feedback": "However contrasts the calm morning with the later strong wind."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Even though the hall was almost empty, the lecturer spoke for the full hour.",
+      "prompt": "What is surprising about the lecturer’s decision?",
+      "choices": [
+        "The lecturer continued despite low attendance.",
+        "The lecturer left before the talk began.",
+        "The lecturer refused to speak."
+      ],
+      "answerIndex": 0,
+      "feedback": "Even though marks the unexpected fact that the full lecture took place despite low attendance."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The projector stopped working. As a result, we moved the presentation to a smaller room.",
+      "prompt": "Transcribe the three-word result connector after the first sentence.",
+      "acceptedAnswers": [
+        "As a result"
+      ],
+      "feedback": "As a result is pronounced as a unit and introduces the consequence."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The cost is higher than expected. Nevertheless, the committee has approved the purchase.",
+      "prompt": "What has the committee done?",
+      "choices": [
+        "Cancelled the purchase",
+        "Deferred the vote",
+        "Approved the purchase despite the price"
+      ],
+      "answerIndex": 2,
+      "feedback": "Nevertheless introduces a decision that contrasts with the higher cost."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The team finished the questionnaire. Meanwhile, a separate group was checking the responses already received.",
+      "prompt": "How are the activities related in time?",
+      "choices": [
+        "One caused the other.",
+        "They were taking place during the same period.",
+        "Both were scheduled for next year."
+      ],
+      "answerIndex": 1,
+      "feedback": "Meanwhile links simultaneous activities, not a cause and result."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "However carefully the drawings are reviewed, a minor discrepancy may escape notice.",
+      "prompt": "What does however carefully express?",
+      "choices": [
+        "No matter how carefully the drawings are reviewed",
+        "Because no one checks the drawings",
+        "After the drawings have been approved"
+      ],
+      "answerIndex": 0,
+      "feedback": "However + adverb introduces concession about the degree of carefulness."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The audience was disappointed. Even so, they applauded the performers warmly.",
+      "prompt": "Transcribe the two-word contrast connector starting the second sentence.",
+      "acceptedAnswers": [
+        "Even so"
+      ],
+      "feedback": "Even so signals a surprising contrast with the disappointment."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Please submit the form today. Otherwise, the organisers may not reserve your seat.",
+      "prompt": "Transcribe the single-word consequence connector at the beginning of the second sentence.",
+      "acceptedAnswers": [
+        "Otherwise"
+      ],
+      "feedback": "Otherwise introduces what might happen if the form is not submitted."
+    }
+  ]
+}

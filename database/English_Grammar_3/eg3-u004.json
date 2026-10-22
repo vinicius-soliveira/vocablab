@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u004",
+  "title": "Past Continuous and Past Simple: Perspective and Intentions",
+  "level": "C1",
+  "topicId": "eg3-u004-past-continuous-and-past-simple",
+  "summary": "Use the past simple and past continuous to distinguish completed events from unfolding situations, present simultaneous or repeated past activity, and express tentative plans and unfulfilled intentions with appropriate nuance.",
+  "learningObjectives": [
+    "Contrast completed past events with activity in progress, including simultaneous actions.",
+    "Distinguish sequential past-simple events from a past-continuous scene and a focal event.",
+    "Use simple and continuous forms for repeated past behaviour, recognising temporary or surprising patterns.",
+    "Choose natural past forms of hope, mean, intend, plan, think and wonder to describe intentions or more tentative future ideas."
+  ],
+  "explanation": [
+    {
+      "heading": "Aspect changes the perspective on the same past situation",
+      "body": "The past continuous presents an activity as underway during a past interval, without necessarily saying whether it reached an endpoint. The past simple commonly presents an event as a complete whole. Either form can be natural for the same interval when the speaker changes emphasis; this distinction concerns viewpoint, not whether an activity was physically continuous at every moment.",
+      "example": "During my placement I was studying Italian, but I only mastered the basics afterwards."
+    },
+    {
+      "heading": "Simultaneous activities and events in a sequence",
+      "body": "Two activities that occupied the same stretch of time can both appear in the past continuous. Two past-simple clauses can also describe simultaneous past activities, with a more complete-event perspective. For events that follow one another in a narrative, the past simple is generally the unmarked choice; a series of past continuous forms would suggest overlapping or background actions instead.",
+      "example": "While the orchestra was rehearsing upstairs, the technicians were adjusting the stage lights."
+    },
+    {
+      "heading": "Scene-setting and the event that moves a story forward",
+      "body": "Narratives often use the past continuous to describe an ongoing situation and the past simple to identify a particular completed event. The simple event may interrupt the activity or merely occur while it is in progress. Do not assume that when automatically requires a past simple or while automatically requires a continuous; the intended time relationship matters more.",
+      "example": "I was carrying a tray across the café when someone called my name."
+    },
+    {
+      "heading": "Repeated past actions can be bounded and temporary",
+      "body": "Past simple is the normal neutral choice for a number of completed repeated actions or a past habit. Past continuous is also possible when repeated actions occupied a particular temporary period, especially in conversational accounts. With always or constantly, it can suggest the speaker’s surprise, complaint or attitude; the effect comes from context rather than the tense alone.",
+      "example": "During the renovation, we were moving furniture from room to room almost every evening."
+    },
+    {
+      "heading": "Past intentions and tentative proposals",
+      "body": "Verbs such as mean, hope, intend, plan and think about can report an intention that existed in the past. Their past simple and past continuous forms may both work, with the continuous often foregrounding a provisional process or intention that was not carried out. Past continuous forms of think and wonder can also introduce a tentative suggestion about the future; they do not necessarily refer to a finished thought in the past.",
+      "example": "I was thinking of taking a short course next term, if the timetable works out."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "An activity in progress versus an action seen as a whole",
+      "left": {
+        "label": "Process-focused viewpoint",
+        "example": "I was practising the presentation during the journey.",
+        "note": "The activity is viewed from inside the period."
+      },
+      "right": {
+        "label": "Completed-event viewpoint",
+        "example": "I practised the presentation during the journey.",
+        "note": "The speaker treats the practice as a past activity viewed as a whole."
+      }
+    },
+    {
+      "title": "Neutral repetition versus a temporary repeated pattern",
+      "left": {
+        "label": "Past simple",
+        "example": "We met every Friday last autumn.",
+        "note": "A neutral sequence of completed regular meetings."
+      },
+      "right": {
+        "label": "Past continuous",
+        "example": "We were meeting twice a week while the deadline approached.",
+        "note": "Emphasises the temporary ongoing pattern during that period."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The archivist was cataloguing the collection while the volunteers were cleaning the shelves.",
+      "note": "Two activities were unfolding at the same time."
+    },
+    {
+      "sentence": "The speaker entered the room, placed her notes on the table and began the briefing.",
+      "note": "Past-simple verbs move a sequence of completed events forward."
+    },
+    {
+      "sentence": "The musicians were tuning their instruments when the organiser announced a delay.",
+      "note": "A completed announcement occurred against an ongoing background activity."
+    },
+    {
+      "sentence": "For several weeks we were checking the temperature every two hours.",
+      "note": "Continuous highlights repeated activity limited to a temporary past period."
+    },
+    {
+      "sentence": "I was wondering whether you might review the schedule tomorrow.",
+      "note": "Past continuous can soften a present request or tentative future proposal."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "As I walked through the corridor, the lights were suddenly going out.",
+      "correct": "As I was walking through the corridor, the lights suddenly went out.",
+      "why": "Was walking supplies the ongoing scene; went out reports the sudden completed event."
+    },
+    {
+      "incorrect": "She entered the laboratory and was switched on the monitors.",
+      "correct": "She entered the laboratory and switched on the monitors.",
+      "why": "Two successive completed actions normally use the past simple."
+    },
+    {
+      "incorrect": "We were visited the gallery three times last summer.",
+      "correct": "We visited the gallery three times last summer.",
+      "why": "A counted series of completed visits is naturally described with past simple."
+    },
+    {
+      "incorrect": "I was wondering to ask you about a possible meeting next week.",
+      "correct": "I was wondering whether we could arrange a meeting next week.",
+      "why": "Tentative wondering takes a question clause such as whether we could, not the infinitive to ask."
+    }
+  ],
+  "studyTips": [
+    "Sketch a timeline for each pair of past actions and decide whether they overlap or form a sequence.",
+    "Retell a short incident using one continuous background clause and two simple past event clauses.",
+    "Contrast I planned to call and I was planning to call, then create a tactful suggestion with I was wondering whether."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Two teams were working in separate rooms throughout the same afternoon. Which sentence emphasises both activities as ongoing?",
+      "choices": [
+        "Team A was testing equipment while Team B was preparing samples.",
+        "Team A tested equipment, then Team B prepared samples.",
+        "Team A had tested equipment while Team B will prepare samples."
+      ],
+      "answerIndex": 0,
+      "feedback": "Two past continuous clauses describe overlapping activities in progress during the same afternoon."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which account presents two completed actions in the order they happened?",
+      "choices": [
+        "She was opening the box and was removing the label.",
+        "She opened the box and removed the label.",
+        "She had been opening the box and removes the label."
+      ],
+      "answerIndex": 1,
+      "feedback": "Opened and removed are past-simple events that advance a sequence."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "A sudden completed event occurred during a longer activity. Which sentence best expresses that?",
+      "choices": [
+        "The guests were talking when the microphone was stopping.",
+        "The guests talk when the microphone stopped.",
+        "The guests were talking when the microphone stopped."
+      ],
+      "answerIndex": 2,
+      "feedback": "Were talking sets the ongoing scene and stopped names a completed event."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The speaker wants to suggest a future visit tentatively. Which opening is most natural?",
+      "choices": [
+        "I was wondering whether we could visit the workshop next week.",
+        "I wondered whether we are visiting the workshop next week, and I have decided.",
+        "I was wonder whether we can visiting the workshop next week."
+      ],
+      "answerIndex": 0,
+      "feedback": "Was wondering whether we could is a conventional, tentative way to introduce a future proposal."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The children ___ (paint) the backdrop while the adults were arranging the chairs. Write the past-continuous verb phrase.",
+      "acceptedAnswers": [
+        "were painting"
+      ],
+      "feedback": "Were painting stresses an activity concurrent with the adults’ preparations."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The curator checked the catalogue and ___ (lock) the archive. Write the past-simple verb.",
+      "acceptedAnswers": [
+        "locked"
+      ],
+      "feedback": "Locked is the next completed event in a sequence."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We ___ (hold) short meetings every evening during the three-week emergency. Write the past-continuous verb phrase to emphasise the temporary repeated pattern.",
+      "acceptedAnswers": [
+        "were holding"
+      ],
+      "feedback": "Were holding presents the repeated meetings as a temporary pattern."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "I ___ (wonder) whether you could look at these notes tomorrow. Write the past-continuous verb phrase.",
+      "acceptedAnswers": [
+        "was wondering"
+      ],
+      "feedback": "Was wondering creates a tentative or tactful proposal for tomorrow."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the verb forms to describe a background activity and a sudden event: The audience listened quietly when the fire alarm was ringing suddenly.",
+      "acceptedAnswers": [
+        "The audience was listening quietly when the fire alarm suddenly rang."
+      ],
+      "feedback": "Was listening creates the ongoing scene, and rang reports the sudden completed occurrence."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the verb forms to express a sequence of finished events: She was taking the key and was unlocking the office, and then she left.",
+      "acceptedAnswers": [
+        "She took the key and unlocked the office, and then she left."
+      ],
+      "feedback": "The verbs took, unlocked and left present a sequence of finished actions."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the verb form to emphasise a repeated temporary pattern: During the festival, we was checking tickets every half hour.",
+      "acceptedAnswers": [
+        "During the festival, we were checking tickets every half hour."
+      ],
+      "feedback": "Were checking agrees with we and highlights repetition during the festival."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the verb phrase in a tentative proposal: I was think of inviting the design team next week.",
+      "acceptedAnswers": [
+        "I was thinking of inviting the design team next week."
+      ],
+      "feedback": "Past continuous requires thinking, and thinking of + -ing introduces a possible future plan."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Set the background. Facts: The staff / prepare / the hall / when the guests arrived. Use past continuous for the first clause.",
+      "acceptedAnswers": [
+        "The staff were preparing the hall when the guests arrived."
+      ],
+      "feedback": "Were preparing establishes the scene in progress."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Tell two events in sequence. Facts: The guard / check / the badge; then / open / the gate. Use past simple and one sentence.",
+      "acceptedAnswers": [
+        "The guard checked the badge and then opened the gate."
+      ],
+      "feedback": "Checked and opened are successive completed events."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Describe overlapping activities. Facts: I / read / the report / while / my colleague / take notes. Use past continuous in both clauses.",
+      "acceptedAnswers": [
+        "I was reading the report while my colleague was taking notes."
+      ],
+      "feedback": "Both past continuous forms describe activities in progress at the same time."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Emphasise a temporary repeated pattern. Facts: We / monitor / the equipment / every night / during the trial. Use past continuous.",
+      "acceptedAnswers": [
+        "We were monitoring the equipment every night during the trial."
+      ],
+      "feedback": "Were monitoring highlights recurring activity within the trial period."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Make a tentative future suggestion. Facts: I / wonder / whether / we / could / meet / tomorrow. Start with \"I was\".",
+      "acceptedAnswers": [
+        "I was wondering whether we could meet tomorrow."
+      ],
+      "feedback": "Was wondering is an indirect and tentative proposal."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Report an intended but unfulfilled call. Facts: I / mean / to call you / yesterday, but I / forget. Use past continuous followed by past simple.",
+      "acceptedAnswers": [
+        "I was meaning to call you yesterday, but I forgot."
+      ],
+      "feedback": "Was meaning to expresses the past intention; forgot explains why it was not carried out."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the sentence aloud to describe a sudden event: \"I was reading when the lights were going out suddenly.\" Keep the background in the past continuous.",
+      "acceptedAnswers": [
+        "I was reading when the lights suddenly went out."
+      ],
+      "feedback": "Went out is the completed event that occurs during the reading."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two sentences in order, using full forms. Temporary habit: We / meet / every morning / during the project (past continuous). Sequence: We / finish / the project / on Friday (past simple).",
+      "acceptedAnswers": [
+        "We were meeting every morning during the project. We finished the project on Friday."
+      ],
+      "feedback": "The continuous highlights temporary repetition; finished marks a single completed event."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "While the stage crew were arranging the chairs, the musicians were rehearsing in the next room.",
+      "prompt": "How were the activities related in time?",
+      "choices": [
+        "One finished before the other began.",
+        "They were happening at the same time.",
+        "Both are planned for tomorrow."
+      ],
+      "answerIndex": 1,
+      "feedback": "Both were arranging and were rehearsing describe overlapping past activities."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The receptionist greeted the visitor, checked the appointment and handed over a badge.",
+      "prompt": "What kind of account is this?",
+      "choices": [
+        "Three completed actions in sequence.",
+        "An unfinished future intention.",
+        "An ongoing activity interrupted by a phone call."
+      ],
+      "answerIndex": 0,
+      "feedback": "Greeted, checked and handed over present events in sequence."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The engineers were inspecting the bridge when the rain began.",
+      "prompt": "Type the two-word verb phrase immediately after “The engineers”.",
+      "acceptedAnswers": [
+        "were inspecting"
+      ],
+      "feedback": "Were inspecting describes the ongoing activity before the rain began."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "During the short closure, the caretaker was visiting the building twice a day to check for leaks.",
+      "prompt": "Why is the past continuous suitable here?",
+      "choices": [
+        "The visits were a permanent lifelong habit.",
+        "There was only one visit.",
+        "The repeated visits were limited to a temporary period."
+      ],
+      "answerIndex": 2,
+      "feedback": "Was visiting twice a day presents repeated actions during the temporary closure."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I was planning to take an evening course, but the classes were cancelled before I could enrol.",
+      "prompt": "What happened to the speaker’s plan?",
+      "choices": [
+        "The speaker completed the course.",
+        "The speaker intended to enrol but could not.",
+        "The speaker is currently teaching the course."
+      ],
+      "answerIndex": 1,
+      "feedback": "Was planning describes a past intention; the cancellation prevented enrolment."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I was wondering whether you might join our review meeting next Tuesday.",
+      "prompt": "What is the speaker doing?",
+      "choices": [
+        "Making a tentative invitation for next Tuesday.",
+        "Describing an invitation received years ago.",
+        "Reporting a meeting that has already ended."
+      ],
+      "answerIndex": 0,
+      "feedback": "Was wondering and might soften a future-oriented invitation."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The photographer dropped a lens cap while she was changing cameras.",
+      "prompt": "Type the two-word verb phrase immediately after “she”.",
+      "acceptedAnswers": [
+        "was changing"
+      ],
+      "feedback": "Was changing is the background action during which the cap fell."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The guide opened the door and welcomed the group into the gallery.",
+      "prompt": "Type the two-word phrase immediately after “door and”.",
+      "acceptedAnswers": [
+        "welcomed the"
+      ],
+      "feedback": "Welcomed the introduces the second completed event in the sequence."
+    }
+  ]
+}

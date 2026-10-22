@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u104",
+  "title": "Referring to Research, Figures and Sections in Academic Communication",
+  "level": "C2",
+  "topicId": "eg3-u104-referring-to-other-work-and-sections-in-academic-writing-and",
+  "summary": "Refer accurately to other researchers, figures, tables and previous or upcoming sections. Use full and reduced as-passive clauses, recognise how attribution can signal alignment, and choose written location references or spoken time references to guide an audience.",
+  "learningObjectives": [
+    "Construct full as-passive clauses and reduced as + past participle phrases to cite prior work.",
+    "Distinguish impersonal aligned reference from neutral active attribution of a claim.",
+    "Reference tables, figures and written sections with precise as + participle expressions and location adverbs.",
+    "Use time-based signposting, what-clauses and -ing clauses to refer backward or forward in a spoken presentation."
+  ],
+  "explanation": [
+    {
+      "heading": "Refer to existing work with as-passive clauses",
+      "body": "Academic prose can introduce supporting work with a full passive clause such as as has been observed in earlier studies or as was argued by the authors. A common condensed alternative is as + past participle, often followed by by and a source or by a prepositional reference: as noted by the review panel, as demonstrated in the preliminary analysis. In these constructions as already links the reporting clause to the main statement; do not insert a redundant it before the passive. Select a reporting verb that fits the strength of the underlying evidence: suggested is weaker than demonstrated.",
+      "example": "As reported by the review panel, the initial estimates need further verification."
+    },
+    {
+      "heading": "Active attribution and implicit alignment differ",
+      "body": "An active clause such as Patel argues that the method is robust clearly attributes the proposition to Patel without necessarily telling the reader whether the current writer accepts it. As argued by Patel, the method is robust often positions that proposition as a premise for the current discussion and may imply endorsement. These are not always interchangeable discourse choices. When disagreement is intended, attribute the view neutrally and state the writer’s reservation explicitly; avoid presenting a disputed claim as a settled finding.",
+      "example": "Several commentators suggest that the change will be costly; however, the available figures are inconclusive."
+    },
+    {
+      "heading": "Direct readers to figures and tables",
+      "body": "As shown in Figure 2 and as illustrated in the following diagram are concise ways to connect a sentence with visual evidence. The full passive as is shown in Figure 2 is also grammatical, though the reduced form often reads more smoothly. Use in with a figure, table or chart, rather than claiming that a physical diagram itself performs the action. Choose shown or illustrated for display, and reported or documented for textual sources. A reference to a figure should match the claim the visual actually supports.",
+      "example": "As illustrated in Figure 4, the two measurements diverge at higher temperatures."
+    },
+    {
+      "heading": "Navigate written sections with location-based references",
+      "body": "In a document, as discussed above points back to material already presented, whereas as outlined below points ahead to text that follows. Earlier, previously, later and elsewhere can also guide the reader. Above and below are spatial metaphors for a document’s organisation; they make most sense when those sections have identifiable positions. Do not write as mentioned below if the point has already appeared and will not be revisited. The reduced structure uses a past participle after as: as explained above, not as explaining above.",
+      "example": "As discussed in the preceding section, the model depends on two assumptions."
+    },
+    {
+      "heading": "Use temporal signposting in presentations",
+      "body": "When speaking, audiences experience information in time rather than on a page. As I said earlier, as mentioned before and I will return to this later are usually more natural than above or below. Speakers can also use introductory -ing clauses, as in Returning to the question of timing, or what-clauses, as in What I want to discuss next is the sampling method. These signposts indicate direction and structure; they should not be mistaken for claims about another author’s findings.",
+      "example": "Coming back to the earlier question, I will explain how the samples were selected."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Reduced reference versus a full passive reference",
+      "left": {
+        "label": "Reduced as + participle",
+        "example": "As noted in the appendix, the dates were adjusted.",
+        "note": "Noted functions as a reduced passive reference without an explicit auxiliary."
+      },
+      "right": {
+        "label": "Full as-passive clause",
+        "example": "As has been noted in the appendix, the dates were adjusted.",
+        "note": "Has been noted spells out the passive auxiliary and tense."
+      }
+    },
+    {
+      "title": "Written navigation versus spoken signposting",
+      "left": {
+        "label": "Written document",
+        "example": "As discussed above, the model has two limitations.",
+        "note": "Above points to an earlier location in the document."
+      },
+      "right": {
+        "label": "Spoken presentation",
+        "example": "As I mentioned earlier, the model has two limitations.",
+        "note": "Earlier refers to an earlier time in the talk."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "As suggested in several methodological reviews, a longer pilot may reduce uncertainty.",
+      "note": "As suggested presents an attributed recommendation rather than independently proven fact."
+    },
+    {
+      "sentence": "The original authors argue that the results generalise broadly, but the new sample is much narrower.",
+      "note": "An active attribution makes the source of a potentially contestable claim explicit."
+    },
+    {
+      "sentence": "As shown in Table 3, the highest response rate occurred in the final group.",
+      "note": "The reduced as-reference directs readers to tabulated evidence."
+    },
+    {
+      "sentence": "As explained below, the second stage uses a different sampling strategy.",
+      "note": "Below locates a discussion later in the written document."
+    },
+    {
+      "sentence": "What I will cover next is how the final dataset was checked.",
+      "note": "A what-clause gives the audience a spoken preview of the next part."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "As it has been reported in earlier work, the pattern is unusual.",
+      "correct": "As has been reported in earlier work, the pattern is unusual.",
+      "why": "In this referencing structure, as already introduces the passive clause; the extra it is unnecessary and nonstandard."
+    },
+    {
+      "incorrect": "As showing in Figure 5, the figures increase steadily.",
+      "correct": "As shown in Figure 5, the figures increase steadily.",
+      "why": "The reduced passive needs a past participle, shown, rather than a present participle."
+    },
+    {
+      "incorrect": "As explain above, the estimate is only approximate.",
+      "correct": "As explained above, the estimate is only approximate.",
+      "why": "The as-reference uses the past participle explained."
+    },
+    {
+      "incorrect": "I will come back to this point below in my presentation.",
+      "correct": "I will come back to this point later in my presentation.",
+      "why": "Temporal later is a natural spoken reference; below is generally a written-document location cue."
+    }
+  ],
+  "studyTips": [
+    "Locate each reference to a study in your writing; test whether active attribution or an as-passive better expresses your stance toward that source.",
+    "Practise citing the same imagined table with as shown, as illustrated and as documented, checking which verb accurately describes its evidence.",
+    "Rehearse a short talk using earlier, before, next and later; convert any document-specific above or below into natural spoken signposts."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which sentence uses a correct reduced as-passive reference to an earlier report?",
+      "choices": [
+        "As reported in the inspection summary, the bridge requires repairs.",
+        "As it reported in the inspection summary, the bridge requires repairs.",
+        "As reporting in the inspection summary, the bridge requires repairs."
+      ],
+      "answerIndex": 0,
+      "feedback": "As reported is a correct reduced passive reference; it does not need an extra subject or an -ing form."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the most natural formal reference directing readers to a graphic that displays the trend.",
+      "choices": [
+        "As illustrated at Figure 3, the rate fell.",
+        "As illustrated in Figure 3, the rate fell.",
+        "As illustrating in Figure 3, the rate fell."
+      ],
+      "answerIndex": 1,
+      "feedback": "As illustrated in Figure 3 combines the reduced passive with the normal preposition in."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "In a written paper, the point has already been examined in a preceding section. Which introduction signals the correct direction?",
+      "choices": [
+        "As discussed below",
+        "As discussing above",
+        "As discussed above"
+      ],
+      "answerIndex": 2,
+      "feedback": "As discussed above directs readers to previously presented written material."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "During a live presentation, which sentence most naturally promises a later return to a topic?",
+      "choices": [
+        "I'll return to this point later.",
+        "I shall return to this point below in the talk.",
+        "I shall return to this point in the diagram before."
+      ],
+      "answerIndex": 0,
+      "feedback": "Later is a temporal reference appropriate to the progress of a spoken presentation."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete the two-word reduced reference: \"___ ___ by the independent panel, the original figures need further checking.\" Use the past participle of note.",
+      "acceptedAnswers": [
+        "As noted"
+      ],
+      "feedback": "As noted by attributes the observation to a specific source without an explicit auxiliary."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete the two-word figure reference: \"___ ___ in Table 2, the attendance rate rose in June.\" Use show.",
+      "acceptedAnswers": [
+        "As shown"
+      ],
+      "feedback": "As shown in Table 2 directs readers to supporting data in the specified table."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete the two-word backward written reference: \"___ ___ above, the method has two important limitations.\" Use discuss.",
+      "acceptedAnswers": [
+        "As discussed"
+      ],
+      "feedback": "As discussed above uses a reduced passive to refer to an earlier part of the document."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the two-word spoken time reference: \"I will come back to this issue ___ ___.\" Use later and on.",
+      "acceptedAnswers": [
+        "later on"
+      ],
+      "feedback": "Later on refers to a future point in the presentation."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence, using a reduced passive reference: \"As showing in Figure 2, the curve rises sharply.\"",
+      "acceptedAnswers": [
+        "As shown in Figure 2, the curve rises sharply."
+      ],
+      "feedback": "Reduced passive references require shown, not showing."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence by using the proper past participle: \"As show in the chart, average delays fell.\"",
+      "acceptedAnswers": [
+        "As shown in the chart, average delays fell."
+      ],
+      "feedback": "Shown is the past participle in the reduced as-passive."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the entire written reference so it refers back to the preceding section rather than to one yet to come: \"As discussed below, the preceding section identifies three causes.\"",
+      "acceptedAnswers": [
+        "As discussed above, the preceding section identifies three causes."
+      ],
+      "feedback": "Above points backwards to a preceding section in writing; below points ahead."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the time reference for a live presentation while retaining the future form: \"I will return to this point below in the presentation.\"",
+      "acceptedAnswers": [
+        "I will return to this point later in the presentation."
+      ],
+      "feedback": "Later indicates a future stage in a spoken presentation more naturally than below."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Refer to a source using a reduced passive. Facts: the review team / report / the device needs further testing. Begin \"As reported by\".",
+      "acceptedAnswers": [
+        "As reported by the review team, the device needs further testing."
+      ],
+      "feedback": "As reported by introduces an attributed finding with a reduced passive."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Refer to a figure using the specified opening \"As shown in Figure 4\". Fact: the error rate decreased.",
+      "acceptedAnswers": [
+        "As shown in Figure 4, the error rate decreased."
+      ],
+      "feedback": "As shown in directs an audience to the evidence in the specified figure."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Refer backwards within a written report. Say the exact fact: the proposal has two limitations. Begin \"As discussed above\".",
+      "acceptedAnswers": [
+        "As discussed above, the proposal has two limitations."
+      ],
+      "feedback": "As discussed above points to earlier written discussion."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "For a spoken talk, refer to an earlier announcement. Fact: the deadline has moved. Begin \"As mentioned earlier\".",
+      "acceptedAnswers": [
+        "As mentioned earlier, the deadline has moved."
+      ],
+      "feedback": "Earlier is a time-based reference suited to speech."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Promise to return to a topic in a talk. Begin \"I will\" and include \"come back to this point later\".",
+      "acceptedAnswers": [
+        "I will come back to this point later.",
+        "I'll come back to this point later."
+      ],
+      "feedback": "Come back to this point later previews a future stage in the talk."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Give a spoken preview using a what-clause. Exact fact: cover next / the sampling method. Start \"What I will cover next\".",
+      "acceptedAnswers": [
+        "What I will cover next is the sampling method.",
+        "What I'll cover next is the sampling method."
+      ],
+      "feedback": "What I will cover next is... foregrounds the upcoming part of a presentation."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Use an -ing clause to resume a topic. Facts: return / the earlier question / the main issue is cost. Begin \"Returning to\".",
+      "acceptedAnswers": [
+        "Returning to the earlier question, the main issue is cost."
+      ],
+      "feedback": "Returning to... acts as a spoken signpost for resuming an earlier topic."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two full sentences in order. First, attribute the fact that the schedule is tight to the panel using \"As noted by\". Then promise to explain the next steps later, beginning \"I will\".",
+      "acceptedAnswers": [
+        "As noted by the panel, the schedule is tight. I will explain the next steps later."
+      ],
+      "feedback": "The first sentence attributes a point; the second guides the audience forward in time."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "As shown in Figure Five, the number of applications declined steadily after April.",
+      "prompt": "Which source does the speaker use to support the trend?",
+      "choices": [
+        "A figure displaying the data",
+        "An informal conversation",
+        "A future survey that has not begun"
+      ],
+      "answerIndex": 0,
+      "feedback": "As shown in Figure Five directs attention to a visual source as evidence."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "As suggested by several reviewers, the procedure may need a longer trial. That recommendation has not yet been tested.",
+      "prompt": "What is the status of the proposal for a longer trial?",
+      "choices": [
+        "It has been conclusively demonstrated",
+        "It is an attributed, untested suggestion",
+        "It has been withdrawn by the reviewers"
+      ],
+      "answerIndex": 1,
+      "feedback": "Suggested attributes a recommendation, and the second sentence says it remains untested."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "As noted in the appendix, the dates were adjusted.",
+      "prompt": "Transcribe exactly the two-word reduced reference at the beginning.",
+      "acceptedAnswers": [
+        "As noted"
+      ],
+      "feedback": "As noted introduces a reduced passive reference to information in the appendix."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Earlier in this presentation, I described the participants. Next, I will explain how the interviews were conducted.",
+      "prompt": "What will the speaker discuss next?",
+      "choices": [
+        "The participants’ hometowns",
+        "Why the results were published",
+        "The way the interviews were carried out"
+      ],
+      "answerIndex": 2,
+      "feedback": "Next introduces the methods used to conduct interviews, not the participant description already covered."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The written report states: As discussed above, the first method consumes more water than the second.",
+      "prompt": "What does above refer to in the quotation?",
+      "choices": [
+        "An earlier section of the written report",
+        "A future section below the current paragraph",
+        "A slide that will appear at the end of a live talk"
+      ],
+      "answerIndex": 0,
+      "feedback": "In a written report, as discussed above points backwards in the document."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Coming back to the question of cost, the new materials are more expensive than we expected.",
+      "prompt": "Which topic does the speaker resume?",
+      "choices": [
+        "The measurement procedure",
+        "The cost of materials",
+        "The timetable for publishing the report"
+      ],
+      "answerIndex": 1,
+      "feedback": "Coming back to is a spoken signpost; the question of cost identifies the resumed topic."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "As shown in Figure Six, the trend reverses during winter.",
+      "prompt": "Transcribe exactly the two-word reduced reference before \"in Figure Six\".",
+      "acceptedAnswers": [
+        "As shown"
+      ],
+      "feedback": "As shown is the reduced passive referring to the illustrated trend."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "I will come back to this point later on, after the demonstration.",
+      "prompt": "Transcribe exactly the two-word time expression that follows \"point\".",
+      "acceptedAnswers": [
+        "later on"
+      ],
+      "feedback": "Later on gives a forward-looking time reference in a spoken presentation."
+    }
+  ]
+}

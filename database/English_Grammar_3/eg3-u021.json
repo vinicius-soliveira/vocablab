@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u021",
+  "title": "Linking Verbs: States, Appearances and Changes",
+  "level": "C1",
+  "topicId": "eg3-u021-linking-verbs-be-appear-seem-become-get",
+  "summary": "Use linking verbs to connect a subject with a description or identity. Distinguish state, appearance and change-of-state patterns; select complements after seem, appear, get and become; and choose idiomatic verbs for gradual, technical, colour and undesirable changes.",
+  "learningObjectives": [
+    "Identify subject complements and distinguish being, seeming and becoming linking verbs from ordinary action verbs.",
+    "Choose to be or no to be after appear, seem, prove and turn out, accounting for identity nouns, asleep and -ing complements.",
+    "Select become, get, go, turn, grow or come for specific changes, including noun complements, technical processes and fixed combinations.",
+    "Build natural changes-of-state constructions with get/grow/come + to-infinitive while avoiding become + to-infinitive."
+  ],
+  "explanation": [
+    {
+      "heading": "Linking verbs and the type of complement",
+      "body": "A linking verb connects the subject to a complement that describes a quality or identity; it does not take an object in the ordinary transitive sense. Verbs of state include be, remain, stay, keep and prove; verbs of appearance include look, sound, seem and appear; verbs of change include become, get, grow, turn out and end up. The following phrase may be an adjective or, with suitable verbs, a noun phrase. Not all linking verbs accept the same complements: keep as a linking verb generally takes an adjective, and come or grow cannot normally take an identity noun phrase directly.",
+      "example": "The exhibition remained popular, and its curator later became a museum director."
+    },
+    {
+      "heading": "Seem, appear and optional to be",
+      "body": "With adjectives, appear, seem, look, prove and turn out may permit either a direct adjective or to be + adjective. The to be form is generally required before adjectives such as asleep, awake and alone, and before -ing verb forms when they describe an apparent ongoing action. Before a noun identifying what the subject is, to be is normally needed; before an evaluative noun phrase describing a person, informal English may omit it, while formal writing tends to retain it. These preferences depend on the verb and context, not on a universal rule for all linking verbs.",
+      "example": "The visitor appeared to be asleep, but the staff member seemed genuinely concerned."
+    },
+    {
+      "heading": "Become versus get in descriptions of change",
+      "body": "Become can introduce an adjective or identity noun and suits neutral, abstract and technical descriptions of change. Get often sounds less formal with adjectives denoting reactions or personal states such as anxious, ill or interested, and in expressions such as get dressed or get promoted. Become, not get, is the normal direct linking verb before an identity noun: became a mentor, rather than got a mentor when the meaning is became one. Beware that get a mentor is grammatical but means acquire one.",
+      "example": "After several years, the assistant became a qualified conservator and grew more confident."
+    },
+    {
+      "heading": "Go, turn, and conventional combinations",
+      "body": "A colour change is commonly expressed with go or turn: the leaves turned yellow. Go is prominent in negative or unwanted developments, often in fixed combinations: go wrong, go bad, go missing and go silent. These patterns do not license every adjective with go; get ill and get tired are normal, whereas go ill and go tired are not. Similarly, turn is idiomatic for colours and some conditions, but speakers do not normally say turn a manager to mean become a manager.",
+      "example": "When the power failed, the entire display went dark and the warning light turned amber."
+    },
+    {
+      "heading": "Gradual recognition with come, grow and get",
+      "body": "Come, grow and get can be followed by a to-infinitive in some meanings, particularly when they indicate reaching an understanding, attitude or ability over time: came to realise, grew to admire, got to know. Become does not normally take this linking-verb pattern: became to understand is incorrect. Grow and come often signal gradual development, whereas get to know can emphasise the process of acquaintance. Some become phrases involve a noun or adjective followed separately by another infinitive; do not confuse these with become + to-infinitive as the verb complement.",
+      "example": "As the interviews continued, the journalist came to understand why residents were worried."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A new identity versus an acquired possession",
+      "left": {
+        "label": "Become + identity noun",
+        "example": "Sana became the project coordinator.",
+        "note": "The subject takes on a professional role or identity."
+      },
+      "right": {
+        "label": "Get + object",
+        "example": "Sana got a project coordinator.",
+        "note": "Someone acquires a coordinator; the meaning is not that Sana became one."
+      }
+    },
+    {
+      "title": "Direct adjective versus required to be",
+      "left": {
+        "label": "Appearance + ordinary adjective",
+        "example": "The archive seems secure.",
+        "note": "Seem can link directly to this ordinary adjective."
+      },
+      "right": {
+        "label": "Appearance + asleep",
+        "example": "The guard seems to be asleep.",
+        "note": "With asleep, the to be construction is the ordinary choice."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The decision proved unpopular with local residents.",
+      "note": "Prove links the subject with a descriptive adjective; it need not have an object."
+    },
+    {
+      "sentence": "What appeared to be an abandoned station was actually a film set.",
+      "note": "To be marks the noun phrase as an apparent identity."
+    },
+    {
+      "sentence": "The junior editor got nervous just before the broadcast.",
+      "note": "Got nervous is a natural, relatively informal expression of becoming anxious."
+    },
+    {
+      "sentence": "A section of the painting has turned grey in the sunlight.",
+      "note": "Turn is idiomatic for changes of colour."
+    },
+    {
+      "sentence": "Over time, the volunteers grew to appreciate the village’s history.",
+      "note": "Grow to appreciate describes a developing attitude, not a new noun identity."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The young researcher got a department head last year.",
+      "correct": "The young researcher became a department head last year.",
+      "why": "When the subject acquired the role, become + noun is appropriate; get + noun would mean obtaining something or someone."
+    },
+    {
+      "incorrect": "The guests seemed asleep on the sofa.",
+      "correct": "The guests seemed to be asleep on the sofa.",
+      "why": "After seem, the adjective asleep is normally preceded by to be."
+    },
+    {
+      "incorrect": "The old printer has gone ill again.",
+      "correct": "The old printer has gone wrong again.",
+      "why": "Go wrong is a natural pattern for malfunction; ill describes health and typically combines with get."
+    },
+    {
+      "incorrect": "I became to realise that the instructions were incomplete.",
+      "correct": "I came to realise that the instructions were incomplete.",
+      "why": "Come to realise is idiomatic for gradual understanding; become does not take that linking-verb to-infinitive pattern."
+    }
+  ],
+  "studyTips": [
+    "Group linking verbs by meaning (state, appearance, change) and then check which types of complement each accepts.",
+    "Compare become a colleague with get a colleague and explain why identical noun phrases lead to different meanings.",
+    "Create four descriptions of change: a colour change, an unwanted problem, a technical development and a gradual realisation."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A colleague has acquired a professional role, not hired a person. Which sentence expresses that meaning?",
+      "choices": [
+        "Nadia got a department manager.",
+        "Nadia became a department manager.",
+        "Nadia grew a department manager."
+      ],
+      "answerIndex": 1,
+      "feedback": "Become + noun expresses a new identity. Got a manager would mean acquired one."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which sentence uses the usual linking-verb pattern with asleep?",
+      "choices": [
+        "The passengers seemed to be asleep.",
+        "The passengers seemed asleep.",
+        "The passengers seemed being asleep."
+      ],
+      "answerIndex": 0,
+      "feedback": "Seem to be asleep is the standard pattern with asleep."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the idiomatic description of a colour change.",
+      "choices": [
+        "The sky got to crimson at sunset.",
+        "The sky became to crimson at sunset.",
+        "The sky turned crimson at sunset."
+      ],
+      "answerIndex": 2,
+      "feedback": "Turn + colour is a conventional way to express the change."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "A colleague gradually understood a concern. Choose the natural construction.",
+      "choices": [
+        "She became to understand the concern.",
+        "She came to understand the concern.",
+        "She got understand the concern."
+      ],
+      "answerIndex": 1,
+      "feedback": "Came to understand marks a developing understanding; become does not take this verb pattern."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The engineer took on a formal role. \"Leila ___ (become) the lead designer last April.\" Write the past-tense linking verb.",
+      "acceptedAnswers": [
+        "became"
+      ],
+      "feedback": "Became links Leila to her new professional identity."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The actor looked as if he was sleeping. \"He appeared ___ (to be) asleep.\" Write the two-word complement introducing asleep.",
+      "acceptedAnswers": [
+        "to be"
+      ],
+      "feedback": "Appeared to be asleep uses to be before asleep."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The software stopped working unexpectedly. \"Something has ___ (go) wrong with the update.\" Write the past participle.",
+      "acceptedAnswers": [
+        "gone"
+      ],
+      "feedback": "Gone wrong is the idiomatic perfect construction for an unwanted development."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The audience gradually started to admire the speaker. \"They ___ (grow) to admire her.\" Write the simple past verb.",
+      "acceptedAnswers": [
+        "grew"
+      ],
+      "feedback": "Grew to admire denotes a developing positive attitude."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the intended new identity: He got an experienced negotiator during his career.",
+      "acceptedAnswers": [
+        "He became an experienced negotiator during his career."
+      ],
+      "feedback": "Became + identity noun expresses what the subject turned into."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the appearance pattern: The children appeared awake when the lights came on.",
+      "acceptedAnswers": [
+        "The children appeared to be awake when the lights came on."
+      ],
+      "feedback": "The adjective awake normally follows appear to be."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the unintended form: The files have gone missingly from the shared drive.",
+      "acceptedAnswers": [
+        "The files have gone missing from the shared drive."
+      ],
+      "feedback": "Go missing takes the adjective missing, not an adverb."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the gradual-understanding construction: I became to know the neighbourhood after a few weeks.",
+      "acceptedAnswers": [
+        "I got to know the neighbourhood after a few weeks."
+      ],
+      "feedback": "Got to know describes increasing familiarity; become to know is not a normal pattern."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Describe a new identity. Facts: Mina / become / an architect / last year. Use the past simple.",
+      "acceptedAnswers": [
+        "Mina became an architect last year."
+      ],
+      "feedback": "Become + noun identifies the subject’s new profession."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Describe appearance. Facts: The patient / appear / to be / asleep. Use the present simple.",
+      "acceptedAnswers": [
+        "The patient appears to be asleep."
+      ],
+      "feedback": "To be normally precedes asleep after appear."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Describe a change of colour. Facts: The leaves / turn / gold / in autumn. Use the present simple.",
+      "acceptedAnswers": [
+        "The leaves turn gold in autumn."
+      ],
+      "feedback": "Turn is an idiomatic colour-change linking verb."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Describe a malfunction. Facts: The display / go / blank / yesterday. Use the past simple.",
+      "acceptedAnswers": [
+        "The display went blank yesterday."
+      ],
+      "feedback": "Went blank is a natural resultative linking pattern."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Express gradual understanding. Facts: We / come / to understand / the issue. Use the present perfect with full forms.",
+      "acceptedAnswers": [
+        "We have come to understand the issue."
+      ],
+      "feedback": "Have come to understand presents a developed understanding."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Give a casual description of an emotional change. Facts: The children / get / excited / before the trip. Use the simple past.",
+      "acceptedAnswers": [
+        "The children got excited before the trip."
+      ],
+      "feedback": "Got excited is natural for an emotional change."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the sentence aloud: Priya became to appreciate the director’s style.",
+      "acceptedAnswers": [
+        "Priya came to appreciate the director’s style."
+      ],
+      "feedback": "Come to appreciate is the usual construction for a developing attitude."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two full sentences in order. Identity: Eliot / become / a scientist. Gradual feeling: Eliot / grow / to admire / his colleagues. Use the past simple.",
+      "acceptedAnswers": [
+        "Eliot became a scientist. Eliot grew to admire his colleagues."
+      ],
+      "feedback": "Became takes an identity noun; grew to admire expresses a gradual attitude."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "After completing her degree, Zoe became an urban planner. She did not hire one.",
+      "prompt": "What changed for Zoe?",
+      "choices": [
+        "She took on a new professional identity.",
+        "She recruited an urban planner.",
+        "She left her job to study further."
+      ],
+      "answerIndex": 0,
+      "feedback": "Became an urban planner states a new identity rather than an acquisition."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "When the curtains opened, the leading actor appeared to be asleep on the stage.",
+      "prompt": "What is the speaker suggesting?",
+      "choices": [
+        "The actor was certainly in a deep sleep.",
+        "The actor looked as though he was sleeping.",
+        "The actor was gradually becoming an actor."
+      ],
+      "answerIndex": 1,
+      "feedback": "Appeared to be asleep reports an impression, not a verified condition."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The warning lamp turned orange just before the doors closed.",
+      "prompt": "Transcribe the two-word colour-change phrase after “lamp”.",
+      "acceptedAnswers": [
+        "turned orange"
+      ],
+      "feedback": "Turned orange is the audible colour-change phrase."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The equipment did not fail, but the operator got anxious when the screen flickered.",
+      "prompt": "Which change did the speaker describe?",
+      "choices": [
+        "The operator gained a new job title.",
+        "The operator became more knowledgeable.",
+        "The operator began to feel worried."
+      ],
+      "answerIndex": 2,
+      "feedback": "Got anxious is a change in the operator’s emotional state."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The chef discovered that the stored fruit had gone rotten overnight.",
+      "prompt": "What happened to the fruit?",
+      "choices": [
+        "It spoiled.",
+        "It was deliberately painted a different colour.",
+        "It was sold successfully."
+      ],
+      "answerIndex": 0,
+      "feedback": "Had gone rotten reports an undesirable change of condition."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "As she spent more time with the team, Marisol grew to respect their methods.",
+      "prompt": "What is implied about Marisol?",
+      "choices": [
+        "She changed her surname.",
+        "Her respect developed over time.",
+        "She quickly became the team’s manager."
+      ],
+      "answerIndex": 1,
+      "feedback": "Grew to respect expresses a gradual change in attitude."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The agreement turned out to be more complicated than anyone expected.",
+      "prompt": "Transcribe the four-word linking phrase before “more complicated”.",
+      "acceptedAnswers": [
+        "turned out to be"
+      ],
+      "feedback": "Turned out to be introduces what the agreement proved to be."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "After several meetings, we came to understand the reasons for the change.",
+      "prompt": "Transcribe the three-word phrase after “we”.",
+      "acceptedAnswers": [
+        "came to understand"
+      ],
+      "feedback": "Came to understand describes the gradual arrival at understanding."
+    }
+  ]
+}

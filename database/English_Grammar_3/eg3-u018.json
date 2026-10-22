@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u018",
+  "title": "Obligation, Deduction and Restrictions with Must and Have To",
+  "level": "C1",
+  "topicId": "eg3-u018-must-and-have-got-to",
+  "summary": "Distinguish rules and self-imposed intentions from evidence-based deductions, and choose must, have to or have got to according to meaning, questions, tense, frequency and contraction. Use complex deductions about present and past necessity accurately.",
+  "learningObjectives": [
+    "Use must and must not in formal rules or warnings, and recognise must for conversational intentions and reminders.",
+    "Construct strong deductions with must have + past participle, must be + -ing and must be going to, as context requires.",
+    "Use must have to and must have had to to infer present or earlier necessity, without confusing these with direct obligations.",
+    "Choose have to versus have got to appropriately in habitual, past, future, negative and question structures."
+  ],
+  "explanation": [
+    {
+      "heading": "Rules, prohibitions and personal arrangements",
+      "body": "Must is common in formal regulations, emphatic warnings and notices. Must not prohibits an action; it does not simply mean that the action is unnecessary. In speech, must and mustn’t can propose future social arrangements without specifying a fixed appointment, or signal a task the speaker has just remembered. The same surface form can therefore express a requirement, a personal intention or an invitation depending on context.",
+      "example": "All laboratory visitors must wear protective glasses, and they must not enter the storage area without supervision."
+    },
+    {
+      "heading": "Strong deductions about different time references",
+      "body": "Must can mark a confident conclusion based on evidence, not an instruction. To draw a strong conclusion about a completed past event, use must have + past participle. For an action probably going on now, use must be + -ing. For an expected near-future development, must be going to or must be + -ing may fit according to the intended event. For a current situation, must be is often natural, while informal speakers sometimes use have got to be.",
+      "example": "The server is still unreachable, so the technicians must be investigating the fault."
+    },
+    {
+      "heading": "Inferring that a requirement exists or existed",
+      "body": "Must have to + infinitive can infer that somebody is obliged to do something in the present. Must have had to + infinitive makes a strong inference about a requirement in the past. The modal perfect must have + past participle can look similar, but had to adds the meaning of necessity rather than a simple past event. The form must’ve got to is not a grammatical substitute for must have to; must’ve had to is possible.",
+      "example": "The inspector must have had to obtain special permission before entering that restricted site."
+    },
+    {
+      "heading": "Questions, criticism and emphasis",
+      "body": "For ordinary questions about necessity, have to or have got to is generally more natural than must, especially when a negative answer is expected. Must we ...? can sound formal. In a critical question, have to may be stressed to challenge a person’s behaviour rather than to ask about a genuine rule. The interpretation depends on intonation and context, not merely on the presence of a question mark.",
+      "example": "Do you have to practise the drums while the baby is asleep?"
+    },
+    {
+      "heading": "Where have got to cannot replace have to",
+      "body": "Have got to is especially common in informal present-time speech, but have to is preferred with frequency adverbs and is used for ordinary past questions and negatives. After will or another modal, use have to rather than have got to. When have is contracted, got is necessary in the expression of obligation: she’s got to leave, not she’s to leave with this meaning. Past simple had to is not freely interchangeable with had got to in ordinary obligations.",
+      "example": "He often has to travel at weekends, and next month he will have to attend a conference."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "An obligation and an evidence-based conclusion",
+      "left": {
+        "label": "Requirement: must",
+        "example": "Every visitor must sign the register.",
+        "note": "The instruction imposes an action to be performed."
+      },
+      "right": {
+        "label": "Deduction: must have",
+        "example": "The visitor must have signed the register already.",
+        "note": "The speaker infers that an earlier action occurred."
+      }
+    },
+    {
+      "title": "Recurring or future necessity versus informal present necessity",
+      "left": {
+        "label": "Habitual / future: have to",
+        "example": "She often has to stay late, and she will have to stay late tomorrow.",
+        "note": "Frequency and a future modal favour have to."
+      },
+      "right": {
+        "label": "Informal present: have got to",
+        "example": "She has got to stay late today.",
+        "note": "Have got to naturally expresses a current requirement in informal speech."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Employees must not remove archival material without authorisation.",
+      "note": "Must not expresses a prohibition in a formal rule."
+    },
+    {
+      "sentence": "We must arrange another walk before the weather turns cold.",
+      "note": "Must proposes a future informal arrangement without a fixed plan."
+    },
+    {
+      "sentence": "The conference room is dark; everyone must have gone home.",
+      "note": "Must have gone is a strong inference about a completed earlier event."
+    },
+    {
+      "sentence": "They are carrying heavy protective equipment; they must have to follow strict safety procedures.",
+      "note": "Must have to infers a requirement that exists now."
+    },
+    {
+      "sentence": "The team rarely has to restart the system, but it will have to replace the battery next year.",
+      "note": "Have to fits a frequency adverb and a necessity expressed after will."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The gate is locked, so the caretaker must has left.",
+      "correct": "The gate is locked, so the caretaker must have left.",
+      "why": "The modal perfect uses must have + past participle to infer a completed past event."
+    },
+    {
+      "incorrect": "The neighbours often have got to leave early.",
+      "correct": "The neighbours often have to leave early.",
+      "why": "Habitual obligations with frequency adverbs normally use have to."
+    },
+    {
+      "incorrect": "The visitors will have got to submit the forms next Monday.",
+      "correct": "The visitors will have to submit the forms next Monday.",
+      "why": "After will, have to is the standard expression of necessity; have got to cannot directly replace it."
+    },
+    {
+      "incorrect": "Given the old safety rules, the builders must have to wear helmets during last year’s work.",
+      "correct": "Given the old safety rules, the builders must have had to wear helmets during last year’s work.",
+      "why": "A deduction about past obligation uses must have had to, not must have to."
+    }
+  ],
+  "studyTips": [
+    "For every must, decide first whether the speaker is imposing a duty or deducing something from evidence.",
+    "Rewrite the same necessity with often, yesterday and next year to see when have got to must give way to have to.",
+    "Build a three-way deduction set: must be working (now), must have worked (earlier action), and must have had to work (earlier necessity)."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the appropriate wording for a formal safety notice: \"Visitors ___ enter the chemical storeroom without an escort.\"",
+      "choices": [
+        "must not",
+        "do not have to",
+        "must have"
+      ],
+      "answerIndex": 0,
+      "feedback": "Must not prohibits entry; do not have to would merely remove an obligation."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The office has been empty for hours, and the doors were locked by noon. \"The last employee ___ home by noon.\"",
+      "choices": [
+        "must be going",
+        "must have gone",
+        "must have to go"
+      ],
+      "answerIndex": 1,
+      "feedback": "Must have gone draws a strong conclusion that an earlier departure occurred."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The supervisor is inspecting several damaged devices right now. Based on this, say what she is probably doing: \"She ___ the problem.\"",
+      "choices": [
+        "must have diagnosed",
+        "must be diagnosing",
+        "must has diagnosed"
+      ],
+      "answerIndex": 1,
+      "feedback": "Must be diagnosing marks a likely activity in progress; the past form would refer to completion."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which is appropriate for a future obligation after will?",
+      "choices": [
+        "will have got to renew",
+        "will must renew",
+        "will have to renew"
+      ],
+      "answerIndex": 2,
+      "feedback": "Will have to is the regular future form of necessity."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The entrance camera shows wet footprints. Someone ___ (must / have / come) through the rear door earlier. Write the complete verb phrase.",
+      "acceptedAnswers": [
+        "must have come"
+      ],
+      "feedback": "Must have come is a deduction about a completed earlier action."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Given how heavily the vehicle is loaded, the driver ___ (must / have to / follow) special weight restrictions. Write the four-word inference phrase.",
+      "acceptedAnswers": [
+        "must have to follow"
+      ],
+      "feedback": "Must have to follow infers a present obligation from the evidence."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Before the building was modernised, the staff ___ (must / have / had to / carry) supplies up four flights of stairs. Write the whole deduction phrase.",
+      "acceptedAnswers": [
+        "must have had to carry"
+      ],
+      "feedback": "Must have had to carry draws a conclusion about an earlier necessity."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The curator ___ (has / got / to / submit) the final record today. Write the complete four-word informal obligation phrase, including got.",
+      "acceptedAnswers": [
+        "has got to submit"
+      ],
+      "feedback": "Has got to submit gives the current obligation in an informal form."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the deduction: The receptionist must has forgotten to unlock the side entrance.",
+      "acceptedAnswers": [
+        "The receptionist must have forgotten to unlock the side entrance."
+      ],
+      "feedback": "Must have forgotten has the required modal + have + past participle structure."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the habitual necessity: Our technicians usually have got to test the sensors before opening.",
+      "acceptedAnswers": [
+        "Our technicians usually have to test the sensors before opening."
+      ],
+      "feedback": "Have to is preferred for a recurring requirement expressed with usually."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the future necessity: They will have got to register at reception tomorrow.",
+      "acceptedAnswers": [
+        "They will have to register at reception tomorrow."
+      ],
+      "feedback": "A future auxiliary will requires have to, not have got to."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the earlier obligation inference: The hikers must have to carry extra water on yesterday’s route.",
+      "acceptedAnswers": [
+        "The hikers must have had to carry extra water on yesterday’s route."
+      ],
+      "feedback": "Must have had to refers to a strong inference about what was necessary in the past."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "State a formal requirement. Facts: All visitors / must / show / identification. Use a full sentence.",
+      "acceptedAnswers": [
+        "All visitors must show identification."
+      ],
+      "feedback": "Must show imposes a requirement on all visitors."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "State a prohibition. Facts: Visitors / must not / touch / the exhibits. Use the full negative form.",
+      "acceptedAnswers": [
+        "Visitors must not touch the exhibits."
+      ],
+      "feedback": "Must not prohibits contact; it does not mean that touching is optional."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Propose a future social arrangement without setting a date. Facts: We / must / meet / for lunch / sometime soon.",
+      "acceptedAnswers": [
+        "We must meet for lunch sometime soon."
+      ],
+      "feedback": "Conversational must can suggest an intended social arrangement."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Make a strong deduction about the past. Facts: They / must / have / take / the wrong bus.",
+      "acceptedAnswers": [
+        "They must have taken the wrong bus."
+      ],
+      "feedback": "Must have taken expresses a strong inference about a previous action."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Infer an ongoing action. Facts: The team / must / be / work / on the report / now.",
+      "acceptedAnswers": [
+        "The team must be working on the report now."
+      ],
+      "feedback": "Must be working expresses a conclusion about an action underway."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Infer a past requirement. Facts: She / must / have / had to / postpone / the appointment.",
+      "acceptedAnswers": [
+        "She must have had to postpone the appointment."
+      ],
+      "feedback": "Must have had to introduces a conclusion about past necessity."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Express a recurring obligation. Facts: He / often / have to / work / late. Use the present simple.",
+      "acceptedAnswers": [
+        "He often has to work late."
+      ],
+      "feedback": "Often has to is natural for a habitual necessity."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Use a future modal to express obligation. Facts: We / will / have to / renew / the permit / next month.",
+      "acceptedAnswers": [
+        "We will have to renew the permit next month."
+      ],
+      "feedback": "Will have to expresses necessity in the future."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "All passengers must keep the emergency exits clear throughout the journey.",
+      "prompt": "What kind of message is this?",
+      "choices": [
+        "A deduction about passengers’ past behaviour.",
+        "A formal requirement that must be followed.",
+        "A suggestion that the exits may be used for storage."
+      ],
+      "answerIndex": 1,
+      "feedback": "Must keep is imposing a formal duty, not drawing an inference."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The meeting room is completely empty. The delegates must have left for the station.",
+      "prompt": "What does the speaker conclude?",
+      "choices": [
+        "The delegates probably departed earlier.",
+        "The delegates must leave in exactly one hour.",
+        "The delegates are probably still in the meeting room."
+      ],
+      "answerIndex": 0,
+      "feedback": "Must have left is a strong inference about a prior departure."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Those heavy sounds upstairs mean the neighbours must be moving furniture.",
+      "prompt": "Transcribe the three-word phrase describing a likely action in progress.",
+      "acceptedAnswers": [
+        "must be moving"
+      ],
+      "feedback": "Must be moving describes what the speaker strongly infers is happening now."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "We must meet again before you move away. How about next weekend?",
+      "prompt": "How is must being used here?",
+      "choices": [
+        "To forbid a future meeting.",
+        "To infer that the meeting already happened.",
+        "To propose an informal future arrangement."
+      ],
+      "answerIndex": 2,
+      "feedback": "Must meet is a conversational proposal, not a legal requirement."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Do you have to play that recording so loudly? I can barely think!",
+      "prompt": "What attitude does the speaker convey?",
+      "choices": [
+        "Irritation at the loud behaviour.",
+        "A neutral request for the studio regulations.",
+        "Certainty that the recording is finished."
+      ],
+      "answerIndex": 0,
+      "feedback": "Stressed have to in a critical question can express irritation."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Because he supports several remote offices, the technician often has to travel at short notice.",
+      "prompt": "Which interpretation is correct?",
+      "choices": [
+        "It was necessary only once, last year.",
+        "His job repeatedly requires travel.",
+        "Travel is explicitly forbidden."
+      ],
+      "answerIndex": 1,
+      "feedback": "Often has to denotes recurring necessity, not an isolated event."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "You will have to provide two references before the application can be considered.",
+      "prompt": "Transcribe the four-word future necessity phrase.",
+      "acceptedAnswers": [
+        "will have to provide"
+      ],
+      "feedback": "Will have to provide is audible and expresses an upcoming obligation."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Given the damage from the flood, the owners must have had to replace several pipes.",
+      "prompt": "Transcribe the five-word phrase expressing a deduction about past necessity.",
+      "acceptedAnswers": [
+        "must have had to replace"
+      ],
+      "feedback": "Must have had to replace infers an earlier requirement caused by the damage."
+    }
+  ]
+}

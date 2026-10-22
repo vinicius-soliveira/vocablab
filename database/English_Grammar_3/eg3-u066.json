@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u066",
+  "title": "Position of Adjectives: Predicative, Attributive and Postnominal Uses",
+  "level": "C1",
+  "topicId": "eg3-u066-position-of-adjectives",
+  "summary": "Place adjectives before nouns, after linking verbs or after nouns according to their grammatical function and lexical restrictions. Distinguish a-adjectives, emotional and classifying adjectives, postnominal qualifiers and position-dependent changes of meaning.",
+  "learningObjectives": [
+    "Choose attributive or predicative positions for ordinary adjectives and recognise those that resist prenominal use.",
+    "Distinguish emphatic and classifying adjectives from qualitative adjectives, including cases where position changes interpretation.",
+    "Place adjectives after nouns when they have complements or occur in restricted postnominal patterns.",
+    "Explain meaning shifts in present, responsible and concerned when they appear before versus after a noun."
+  ],
+  "explanation": [
+    {
+      "heading": "Ordinary adjectives have two common positions",
+      "body": "Many qualitative adjectives can appear before a noun (attributive position) and after a linking verb such as be, look, feel, become or seem (predicative position). The position changes the sentence structure, but not necessarily the basic meaning. It is misleading to assume that every adjective shares this freedom; lexical restrictions need to be learned.",
+      "example": "The committee proposed an elegant solution, and the result seemed elegant."
+    },
+    {
+      "heading": "A-adjectives and some health words prefer predicative position",
+      "body": "Adjectives such as afraid, asleep, alive, aware and alone are normally used after a linking verb rather than directly before a noun. A related adjective may work before the noun: a sleeping infant versus an infant asleep. Certain feelings and health adjectives, including unwell and glad, also strongly favour predicative position in ordinary usage, although modified postnominal patterns and established exceptions exist.",
+      "example": "The children were asleep when the guests arrived."
+    },
+    {
+      "heading": "Emphasising, classifying and qualitative adjectives differ",
+      "body": "Emphasising adjectives such as sheer, mere and utter typically come before nouns and are unusual after a linking verb. Classifying adjectives such as digital, medical or nuclear normally label a type before a noun; a predicative use may instead stress a contrast with another type. Qualitative adjectives such as attractive or difficult readily occur in both positions. Some words such as economic have a different qualitative sense when used predicatively.",
+      "example": "It was a mere misunderstanding, not a deliberate act."
+    },
+    {
+      "heading": "Some adjectives belong immediately after the noun",
+      "body": "An adjective phrase can follow a noun when it includes a complement, especially a to-infinitive or a prepositional phrase: a candidate eager to contribute and a route suitable for beginners. Certain adjectives ending in -ible or -able may also follow a noun in a restricted set of constructions, particularly after a superlative or when their reference is explicitly narrowed. This is not unrestricted inversion of adjective order.",
+      "example": "The organiser chose the safest route available for wheelchair users."
+    },
+    {
+      "heading": "Placement can change reference and meaning",
+      "body": "With words such as present, concerned and responsible, placement can change which people are meant or what relationship the adjective expresses. Present before a noun often means current, while immediately after a noun it commonly means physically there. Responsible before a noun can describe someone dependable; responsible after the noun often identifies the person accountable for an event. Context may favour other interpretations, so inspect the complete noun phrase.",
+      "example": "The present coordinator thanked the volunteers present at the briefing."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A-adjective and a related attributive form",
+      "left": {
+        "label": "Predicative: asleep",
+        "example": "The toddler was asleep on the train.",
+        "note": "Asleep is generally used predicatively."
+      },
+      "right": {
+        "label": "Attributive: sleeping",
+        "example": "The sleeping toddler missed the announcement.",
+        "note": "Sleeping normally works directly before a noun."
+      }
+    },
+    {
+      "title": "Present before and after a noun",
+      "left": {
+        "label": "Before noun: current",
+        "example": "The present chairperson will sign the letter.",
+        "note": "Present placed before a noun can mean holding the role now."
+      },
+      "right": {
+        "label": "After noun: in attendance",
+        "example": "The chairperson thanked the members present.",
+        "note": "Present immediately after the noun identifies those physically there."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "A curious visitor asked why the door was closed.",
+      "note": "Curious is an ordinary qualitative adjective that can appear before the noun."
+    },
+    {
+      "sentence": "The volunteers were aware of the change by lunchtime.",
+      "note": "Aware is generally predicative rather than an ordinary prenominal adjective."
+    },
+    {
+      "sentence": "A medical assessment followed the interview.",
+      "note": "Medical functions as a classifying adjective before the noun."
+    },
+    {
+      "sentence": "They selected the most suitable venue imaginable.",
+      "note": "Imaginable follows a superlative noun phrase in a conventional postnominal pattern."
+    },
+    {
+      "sentence": "The technician responsible for the delay apologised.",
+      "note": "Responsible follows the noun to identify who caused or is accountable for the delay."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "An asleep child was resting near the window.",
+      "correct": "A sleeping child was resting near the window.",
+      "why": "Sleeping, rather than asleep, is the normal attributive form."
+    },
+    {
+      "incorrect": "It was a failure utter.",
+      "correct": "It was an utter failure.",
+      "why": "Utter is an emphasising adjective typically used before its noun."
+    },
+    {
+      "incorrect": "We interviewed a capable of managing the project engineer.",
+      "correct": "We interviewed an engineer capable of managing the project.",
+      "why": "An adjective with its of + -ing complement follows the noun it modifies."
+    },
+    {
+      "incorrect": "The visitors present were welcomed by an aware of the arrangements host.",
+      "correct": "The visitors present were welcomed by a host aware of the arrangements.",
+      "why": "The entire adjective phrase aware of the arrangements belongs after the noun host."
+    }
+  ],
+  "studyTips": [
+    "For each new adjective, write an attributive sentence and a predicative sentence; note any position that sounds unnatural.",
+    "Sort examples into qualitative, classifying and emphasising functions before deciding whether predicative use is possible.",
+    "Create paired examples with present, concerned or responsible and explain what changes when the adjective moves after the noun."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which phrase is the natural description of a child who is sleeping?",
+      "choices": [
+        "an asleep child",
+        "a child asleeply",
+        "a sleeping child"
+      ],
+      "answerIndex": 2,
+      "feedback": "Sleeping is the ordinary attributive form; asleep is usually predicative."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the natural placement for an emphasising adjective.",
+      "choices": [
+        "an utter disaster",
+        "a disaster utter",
+        "the disaster was utter"
+      ],
+      "answerIndex": 0,
+      "feedback": "Utter normally modifies a noun directly rather than following a linking verb."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "In which sentence does present mean attending a meeting rather than current?",
+      "choices": [
+        "The present manager wrote a note.",
+        "The managers present voted for the change.",
+        "Our present policy is temporary."
+      ],
+      "answerIndex": 1,
+      "feedback": "Present after managers identifies those attending."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the grammatically structured noun phrase with a full adjective complement.",
+      "choices": [
+        "an eager to participate student",
+        "a student eager to participate",
+        "an eagerly to participate student"
+      ],
+      "answerIndex": 1,
+      "feedback": "The adjective phrase eager to participate follows the noun it qualifies."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The guests were ___ (aware) of the revised schedule. Supply the adjective.",
+      "acceptedAnswers": [
+        "aware"
+      ],
+      "feedback": "Aware is normally used after a linking verb, as in were aware."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "It was a ___ (sheer) coincidence. Give the adjective in attributive position.",
+      "acceptedAnswers": [
+        "sheer"
+      ],
+      "feedback": "Sheer is typically prenominal when it intensifies the noun coincidence."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We need the least expensive option ___ (available). Supply the single postnominal adjective.",
+      "acceptedAnswers": [
+        "available"
+      ],
+      "feedback": "Available naturally follows the narrowed superlative noun phrase the least expensive option."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "All the researchers ___ (present) signed the attendance sheet. Supply the adjective meaning in attendance.",
+      "acceptedAnswers": [
+        "present"
+      ],
+      "feedback": "Present after researchers means physically there."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: An afraid passenger asked the conductor for help.",
+      "acceptedAnswers": [
+        "A frightened passenger asked the conductor for help."
+      ],
+      "feedback": "Frightened is the usual attributive adjective; afraid is normally predicative."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The supervisor called it a disaster utter.",
+      "acceptedAnswers": [
+        "The supervisor called it an utter disaster."
+      ],
+      "feedback": "Utter is an emphasising adjective placed before the noun disaster."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We need a suitable for children workshop.",
+      "acceptedAnswers": [
+        "We need a workshop suitable for children."
+      ],
+      "feedback": "Suitable for children is a postnominal adjective phrase because the adjective has its prepositional complement."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The present at the hearing witnesses gave evidence.",
+      "acceptedAnswers": [
+        "The witnesses present at the hearing gave evidence."
+      ],
+      "feedback": "The phrase present at the hearing follows the noun witnesses."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Describe this fact using an ordinary attributive adjective. Facts: The solution was elegant. Begin with \"They proposed\" and use an elegant solution.",
+      "acceptedAnswers": [
+        "They proposed an elegant solution."
+      ],
+      "feedback": "Elegant can be used directly before the noun solution."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Describe the baby in the past tense using asleep after a linking verb. Facts: The baby / be / asleep. Begin with \"The baby\".",
+      "acceptedAnswers": [
+        "The baby was asleep."
+      ],
+      "feedback": "Asleep is used after the linking verb was."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Describe a total failure using the emphatic adjective utter in attributive position. Begin with \"It was\" and use disaster.",
+      "acceptedAnswers": [
+        "It was an utter disaster."
+      ],
+      "feedback": "Utter modifies disaster in attributive position."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Make a postnominal adjective phrase. Facts: There is a candidate; the candidate is eager to learn. Begin \"We met\".",
+      "acceptedAnswers": [
+        "We met a candidate eager to learn."
+      ],
+      "feedback": "Eager to learn follows candidate as an adjective phrase with a complement."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Express who attended, not who currently holds a role. Facts: All the committee members attending approved the plan. Say \"All the committee members present approved the plan.\"",
+      "acceptedAnswers": [
+        "All the committee members present approved the plan."
+      ],
+      "feedback": "Present immediately after members means in attendance."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Correct the placement aloud: \"We found an available for rent room.\" Use the same words in a grammatical sentence.",
+      "acceptedAnswers": [
+        "We found a room available for rent."
+      ],
+      "feedback": "The complete phrase available for rent belongs after room."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Contrast two meanings of present. Say exactly two sentences in order: \"The present director is away.\" and \"The directors present voted.\"",
+      "acceptedAnswers": [
+        "The present director is away. The directors present voted."
+      ],
+      "feedback": "The first present means current; the second means in attendance."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Correct this description aloud while preserving the intended meaning: \"An asleep passenger missed the stop.\"",
+      "acceptedAnswers": [
+        "A sleeping passenger missed the stop."
+      ],
+      "feedback": "Use sleeping before passenger, since asleep is ordinarily predicative."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The sleeping baby was undisturbed, although her older brother was still awake.",
+      "prompt": "Which adjective form does the speaker use directly before the noun?",
+      "choices": [
+        "Sleeping",
+        "Asleep",
+        "Aware"
+      ],
+      "answerIndex": 0,
+      "feedback": "Sleeping directly modifies baby; asleep follows was as a predicative adjective."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "All the members present signed the document before leaving the meeting.",
+      "prompt": "What does present mean in the phrase members present?",
+      "choices": [
+        "Current members elected this year.",
+        "Members in attendance.",
+        "Members who sent gifts."
+      ],
+      "answerIndex": 1,
+      "feedback": "Members present identifies the members physically attending the session."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The manager described the error as a mere oversight, not a deliberate breach.",
+      "prompt": "Transcribe the exact two-word phrase describing the mistake.",
+      "acceptedAnswers": [
+        "mere oversight"
+      ],
+      "feedback": "Mere appears before the noun oversight as an emphasising adjective."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "A medical examination is required before the training course begins.",
+      "prompt": "Which kind of role does medical have in the audio?",
+      "choices": [
+        "It labels a type of examination.",
+        "It expresses how the examination felt.",
+        "It means the examination was successful."
+      ],
+      "answerIndex": 0,
+      "feedback": "Medical is a classifying adjective identifying a kind of examination."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The organiser chose the quietest room available for the recorded interviews.",
+      "prompt": "Which room was selected?",
+      "choices": [
+        "The room with the fewest windows.",
+        "The quietest room available.",
+        "The largest room in the building."
+      ],
+      "answerIndex": 1,
+      "feedback": "Quietest room available uses the postnominal adjective available after the superlative."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The accountant responsible for the missing invoice contacted the client directly.",
+      "prompt": "Who is identified as accountable for the missing invoice?",
+      "choices": [
+        "The accountant responsible.",
+        "Every new accountant.",
+        "The former director."
+      ],
+      "answerIndex": 0,
+      "feedback": "Responsible follows accountant and identifies the person accountable for the omission."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The visitors present were asked to sign the register before the tour.",
+      "prompt": "Transcribe the exact two-word phrase describing the visitors.",
+      "acceptedAnswers": [
+        "visitors present"
+      ],
+      "feedback": "Present follows visitors to mean visitors who are there."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The digital proposal was reviewed by the committee on Friday.",
+      "prompt": "Transcribe the exact two-word phrase that describes the proposal.",
+      "acceptedAnswers": [
+        "digital proposal"
+      ],
+      "feedback": "Digital precedes proposal as a classifying adjective."
+    }
+  ]
+}

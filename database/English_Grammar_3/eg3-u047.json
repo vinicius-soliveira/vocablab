@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u047",
+  "title": "Articles with General Reference, Calendar Expressions and Means of Travel",
+  "level": "C1",
+  "topicId": "eg3-u047-a-an-the-and-zero-article-3",
+  "summary": "Choose definite, indefinite and zero articles with general or identified plural and uncountable nouns; distinguish calendar days and seasons, parts of the day, and fixed expressions for transport and communication.",
+  "learningObjectives": [
+    "Contrast generic bare plurals and uncountable nouns with the when a clearly identified group or substance is meant.",
+    "Use zero, definite and indefinite articles with holidays, weekdays and seasons to mark routine dates, specified occasions and memorable instances.",
+    "Select conventional article patterns with parts of the day, including noon, midnight, dawn, morning and afternoon.",
+    "Distinguish by + means of travel or communication from references to particular vehicles or individual messages."
+  ],
+  "explanation": [
+    {
+      "heading": "General classes and particular groups",
+      "body": "A bare plural noun or uncountable noun normally makes a general statement about a class or substance: architects design buildings; advice can be helpful. Add the when context identifies particular architects or advice: the architects on our team; the advice in that letter. The difference is reference, not whether the noun is important or has been mentioned elsewhere.",
+      "example": "Libraries provide public spaces, but the libraries in this district close early."
+    },
+    {
+      "heading": "Holidays, weekdays and identified occasions",
+      "body": "Names of months, weekdays and holidays normally have no article when they name calendar dates: in October, on Friday, at Easter. A plus a weekday describes one unspecified or representative occurrence; the plus a weekday becomes natural when a phrase identifies exactly which one. A can also present a holiday period as a particular kind of experience rather than merely naming the festival.",
+      "example": "We spoke on Monday, but we signed the papers on the Monday before the inspection."
+    },
+    {
+      "heading": "Seasons and individual memorable periods",
+      "body": "Winter, spring, summer and autumn may occur with no article or with the when the season is discussed generally; usage varies across expressions. When the listener can identify a particular season, the is natural, especially with a specifying phrase. A + season can describe one distinctive occurrence, often with an evaluative adjective. The expression in the New Year refers to a coming period rather than the holiday alone.",
+      "example": "We met in autumn, and the autumn after graduation brought major changes."
+    },
+    {
+      "heading": "Parts of the day and bounded experiences",
+      "body": "Midnight, midday and noon normally take no article: at midnight, before noon, by midday. Dawn can take the or zero article. Use the morning or the afternoon when referring to a known or specified day; an early morning can mean one occasion. Bare morning may refer to the time of day generally. The fixed pattern all morning has no article; by morning and by the morning are both possible in appropriate time references.",
+      "example": "We worked all morning, and by noon the final draft was ready."
+    },
+    {
+      "heading": "By + means versus individual vehicles and messages",
+      "body": "After by indicating how someone travels or communicates, use a bare means noun: by train, by taxi, by air, by email or by phone. These are adverbial patterns and do not name a particular vehicle or message. Other constructions may require an article: take the train, book a taxi, send an email. By foot is not the ordinary transport expression; use on foot.",
+      "example": "They went by coach and sent the confirmation by email, but they had to book a coach for the return journey."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Generic reference versus identifiable set",
+      "left": {
+        "label": "Zero article",
+        "example": "Workshops can be noisy.",
+        "note": "The plural describes workshops in general."
+      },
+      "right": {
+        "label": "The + plural",
+        "example": "The workshops beside our office are noisy.",
+        "note": "The location makes the intended workshops identifiable."
+      }
+    },
+    {
+      "title": "A means of travel versus a vehicle",
+      "left": {
+        "label": "Bare noun after by",
+        "example": "Lina travelled by train.",
+        "note": "By introduces the mode of transport."
+      },
+      "right": {
+        "label": "Definite vehicle reference",
+        "example": "Lina took the train that left at six.",
+        "note": "The train identifies the service she used."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Researchers value reliable evidence; the evidence collected last week was incomplete.",
+      "note": "Evidence is broadly uncountable; the evidence points to one identified collection."
+    },
+    {
+      "sentence": "We meet every Thursday, but the Thursday after the conference is already booked.",
+      "note": "Bare weekdays name regular dates; the marks an identified Thursday."
+    },
+    {
+      "sentence": "It was a remarkably cold spring, unlike the spring when we moved here.",
+      "note": "A characterises one season; the spring plus a clause specifies a known one."
+    },
+    {
+      "sentence": "The interview ended at noon, and we discussed the result in the afternoon.",
+      "note": "Noon has no article; the afternoon refers to that day."
+    },
+    {
+      "sentence": "The participants arrived by ferry and later took the ferry back to the mainland.",
+      "note": "By ferry is a mode of transport; the ferry refers to the particular service."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The students often need the rest after exams.",
+      "correct": "Students often need rest after exams.",
+      "why": "For students and rest generally, use zero article; the would point to particular students or a specific rest period."
+    },
+    {
+      "incorrect": "We will announce the results on the Tuesday next week.",
+      "correct": "We will announce the results on Tuesday next week.",
+      "why": "A named weekday with next week is already a calendar reference and normally takes zero article."
+    },
+    {
+      "incorrect": "The workshop began at the midnight and finished just before noon.",
+      "correct": "The workshop began at midnight and finished just before noon.",
+      "why": "At midnight conventionally has zero article."
+    },
+    {
+      "incorrect": "They travelled by the bus and contacted us by an email.",
+      "correct": "They travelled by bus and contacted us by email.",
+      "why": "By + mode of travel or communication normally uses a bare noun, not an article."
+    }
+  ],
+  "studyTips": [
+    "For every plural or mass noun, state aloud whether you mean an entire class or an identified subset before choosing zero article or the.",
+    "Contrast on Friday, on a Friday and on the Friday before the event: explain which time reference each one creates.",
+    "Build paired expressions with modes and objects: by plane / board the plane; by email / write an email; by taxi / call a taxi."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The notice describes equipment generally, not any identified machines. Which sentence matches this meaning?",
+      "choices": [
+        "The equipment in Room B needs checking.",
+        "Equipment requires regular maintenance.",
+        "An equipment requires regular maintenance."
+      ],
+      "answerIndex": 1,
+      "feedback": "Uncountable equipment without an article expresses a general statement; the equipment in Room B is a specified set."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Identify the weekday immediately before a named event. Complete: \"We met on ___ before the opening ceremony.\"",
+      "choices": [
+        "a Wednesday",
+        "Wednesday",
+        "the Wednesday"
+      ],
+      "answerIndex": 2,
+      "feedback": "The Wednesday before the opening ceremony identifies one particular Wednesday."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Complete the standard expression of a time limit: \"Please finish the report by ___.\"",
+      "choices": [
+        "a noon",
+        "noon",
+        "the noon"
+      ],
+      "answerIndex": 1,
+      "feedback": "Noon normally takes zero article in by noon."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Select the standard expression that states the means of communication: \"The receipt was sent ___.\"",
+      "choices": [
+        "by an email",
+        "by email",
+        "by the email"
+      ],
+      "answerIndex": 1,
+      "feedback": "By email names the communication channel; an email names an individual message."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with the appropriate article: \"___ books on this shelf are reserved for the training course.\" Write only the article.",
+      "acceptedAnswers": [
+        "The"
+      ],
+      "feedback": "The refers to the identifiable books on this shelf."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "A particular Tuesday is defined by a following phrase. Complete: \"They met on ___ (Tuesday after the hearing).\" Write the article and the entire noun phrase.",
+      "acceptedAnswers": [
+        "the Tuesday after the hearing"
+      ],
+      "feedback": "The Tuesday after the hearing singles out one specific date."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The speaker calls one season unusually difficult. Complete: \"It was ___ (long winter) for the villagers.\" Write the article, adjective and noun.",
+      "acceptedAnswers": [
+        "a long winter"
+      ],
+      "feedback": "A long winter describes an individual period with a characteristic."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the transport expression: \"They crossed the island ___ (by / bicycle).\" Write the two-word phrase only.",
+      "acceptedAnswers": [
+        "by bicycle"
+      ],
+      "feedback": "By bicycle is a conventional bare-noun way to name the transport mode."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence: The knowledge helps people make better decisions, as a general principle.",
+      "acceptedAnswers": [
+        "Knowledge helps people make better decisions, as a general principle."
+      ],
+      "feedback": "Knowledge as a broad concept takes zero article in a general statement."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence: The meeting is on a Thursday after the final examination, the day already identified in our schedule.",
+      "acceptedAnswers": [
+        "The meeting is on the Thursday after the final examination, the day already identified in our schedule."
+      ],
+      "feedback": "The Thursday after the final examination identifies one specific date, not an arbitrary Thursday."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence: The delivery should arrive before the midday.",
+      "acceptedAnswers": [
+        "The delivery should arrive before midday."
+      ],
+      "feedback": "Midday conventionally takes zero article."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence: Maya flew by the plane and confirmed her arrival by the phone.",
+      "acceptedAnswers": [
+        "Maya flew by plane and confirmed her arrival by phone."
+      ],
+      "feedback": "The established means expressions are by plane and by phone."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "State a general fact, not a fact about one particular group. Facts: Museums / display / objects from the past. Use a bare plural.",
+      "acceptedAnswers": [
+        "Museums display objects from the past."
+      ],
+      "feedback": "Museums without the refers to the category generally."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Identify a particular group. Facts: volunteers / who arrived early / received badges. Begin with \"The volunteers\".",
+      "acceptedAnswers": [
+        "The volunteers who arrived early received badges."
+      ],
+      "feedback": "The defining clause picks out the intended group of volunteers."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say when the meeting took place. Facts: on / Thursday / before the festival. Use the for the specified day.",
+      "acceptedAnswers": [
+        "The meeting took place on the Thursday before the festival."
+      ],
+      "feedback": "The plus a defining phrase singles out a particular Thursday."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Describe a distinctive season in one short sentence. Facts: It / be / unusually wet spring. Use the indefinite article and past simple.",
+      "acceptedAnswers": [
+        "It was an unusually wet spring."
+      ],
+      "feedback": "An is required because unusually starts with a vowel sound; the season is characterised as one instance."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Say the deadline with a conventional bare time noun. Facts: The package / must arrive / by / noon.",
+      "acceptedAnswers": [
+        "The package must arrive by noon."
+      ],
+      "feedback": "Noon is used without an article."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Describe what happened during the whole morning, with the fixed phrase all morning. Facts: We / waited / all morning.",
+      "acceptedAnswers": [
+        "We waited all morning."
+      ],
+      "feedback": "All morning normally needs no article."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Specify the means rather than an individual vehicle. Facts: They / go / to the island / by ferry. Use past simple.",
+      "acceptedAnswers": [
+        "They went to the island by ferry."
+      ],
+      "feedback": "By ferry is the bare-noun transport expression."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two sentences in this order. Channel: I / send / details / by email. Particular message: I / write / an email / yesterday. Use present simple, then past simple.",
+      "acceptedAnswers": [
+        "I send details by email. I wrote an email yesterday."
+      ],
+      "feedback": "The first refers to a channel; the second names one countable message."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The newsletter says that museums offer guided tours, but the museums in our town are closed on Mondays.",
+      "prompt": "What is the difference between museums and the museums in the announcement?",
+      "choices": [
+        "Both expressions refer only to local buildings.",
+        "The first is general; the second identifies a local group.",
+        "The first refers to one museum."
+      ],
+      "answerIndex": 1,
+      "feedback": "Bare museums names a class, while the museums in our town identifies a specific set."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "We usually visit relatives on Sunday, but the Sunday after the wedding is reserved for travelling home.",
+      "prompt": "Why does the speaker use the before the second mention of Sunday?",
+      "choices": [
+        "Because every Sunday must take the.",
+        "Because Sunday is a holiday.",
+        "Because a following phrase identifies one Sunday."
+      ],
+      "answerIndex": 2,
+      "feedback": "The phrase after the wedding determines which Sunday is meant."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "That was an exhausting winter, and we still remember it clearly.",
+      "prompt": "Transcribe the three-word phrase characterising the particular season.",
+      "acceptedAnswers": [
+        "an exhausting winter"
+      ],
+      "feedback": "An exhausting winter refers to one season presented through a special quality."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The briefing starts at midday. By the afternoon, everyone should know the revised timetable.",
+      "prompt": "Which time expression in the audio takes no article?",
+      "choices": [
+        "At midday",
+        "By the afternoon",
+        "The revised timetable"
+      ],
+      "answerIndex": 0,
+      "feedback": "At midday uses a bare time noun, while the afternoon refers to an understood afternoon."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "We travelled by train to the capital, then took the train that leaves at eight for the final leg.",
+      "prompt": "What does by train express?",
+      "choices": [
+        "One identified train service",
+        "The means of travel",
+        "An individual ticket"
+      ],
+      "answerIndex": 1,
+      "feedback": "By train is a transport-mode phrase, not an identified service."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The designer sent the sketches by email rather than posting them.",
+      "prompt": "Which communication method was used?",
+      "choices": [
+        "An ordinary postal letter",
+        "A phone call",
+        "Electronic mail"
+      ],
+      "answerIndex": 2,
+      "feedback": "By email names the channel of communication."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "We worked all morning and finished just before lunch.",
+      "prompt": "Transcribe the two-word expression giving the duration.",
+      "acceptedAnswers": [
+        "all morning"
+      ],
+      "feedback": "All morning expresses the entire morning without an article."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "They contacted the supplier by phone to confirm the booking.",
+      "prompt": "Transcribe the two-word expression naming the communication channel.",
+      "acceptedAnswers": [
+        "by phone"
+      ],
+      "feedback": "By phone takes no article when naming the means of contact."
+    }
+  ]
+}

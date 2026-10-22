@@ -1,0 +1,836 @@
+{
+  "format": "vocablab-content-package",
+  "version": 1,
+  "id": "ec2-units-47-48-final",
+  "title": "English Collocations 2 · Units 47–48",
+  "bookId": "english-collocations-2",
+  "publisher": "VocabLab",
+  "level": "C1–C2",
+  "description": "Advanced natural word combinations, their meanings, register and contextual use.",
+  "coverage": "source-checked-reviewed",
+  "sourceNotice": "Original learning examples and translations prepared using the educational scope of a user-provided reference; source exercise text, passages, artwork and audio are not included.",
+  "audit": {
+    "includedUnits": [
+      47,
+      48
+    ],
+    "scope": "Teaching pages, exercises and corresponding answer-key entries were checked for each included unit.",
+    "bookPrintedPages": [
+      98,
+      99,
+      100,
+      101
+    ],
+    "pdfPages": [
+      102,
+      103,
+      104,
+      105
+    ],
+    "answerKeyPdfPages": [
+      156
+    ],
+    "pronunciation": "Unverified whole-phrase IPA is left blank; use browser TTS for word and sentence audio.",
+    "languagePolicy": "All learning content is in English except item.pt, which contains Brazilian Portuguese.",
+    "reviewMethod": "Source/exercise/key review, original sentence drafting, structural audit. Actual application UI and TTS voice are not tested.",
+    "editorialStatus": "canonical-draft-reviewed",
+    "limitations": "Browser import and actual speech quality require testing in VocabLab; short collocation targets are taught without republishing source exercises.",
+    "itemCounts": {
+      "unit47": 27,
+      "unit48": 31,
+      "total": 58
+    },
+    "canonicalPolicy": "Exact record structure follows the existing Intermediate collocations content package, with neutral public course identity."
+  },
+  "units": [
+    {
+      "id": "ec2-u47",
+      "number": 47,
+      "title": "Unit 47 — Sound",
+      "level": "C1–C2",
+      "source": "VocabLab editorial reference: unit 47",
+      "bookId": "english-collocations-2",
+      "bookTitle": "English Collocations 2",
+      "category": "Basic concepts",
+      "sourcePage": 102,
+      "coverage": "source-checked",
+      "learningObjectives": [
+        "Describe human voices, accents and degrees of audibility using precise, natural collocations.",
+        "Differentiate speech that is loud, harsh, husky, slurred or muffled without confusing these qualities.",
+        "Choose idiomatic expressions for thunder, echoes, impacts and different types of silence."
+      ],
+      "items": [
+        {
+          "id": "a-trace-of-an-accent",
+          "word": "a trace of an accent",
+          "pt": "um leve traço de sotaque",
+          "ipa": "",
+          "section": "A · The human voice",
+          "example": "I could hear a trace of an accent when she spoke in English.",
+          "note": "A trace of indicates a faint sign; with accent it suggests a slight rather than pronounced pronunciation pattern.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-booming-voice",
+          "word": "a booming voice",
+          "pt": "uma voz muito alta e ressonante",
+          "ipa": "",
+          "section": "A · The human voice",
+          "example": "The announcer welcomed everyone in a booming voice.",
+          "note": "Booming describes a very loud, resonant voice, unlike husky, which concerns its low rough quality.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "a-gruff-voice",
+          "word": "a gruff voice",
+          "pt": "uma voz áspera e ríspida",
+          "ipa": "",
+          "section": "A · The human voice",
+          "example": "The guard gave his instructions in a gruff voice.",
+          "note": "Gruff implies low, harsh or unfriendly-sounding speech; it does not necessarily indicate shouting.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "mutter-under-your-breath",
+          "word": "mutter under your breath",
+          "pt": "resmungar baixinho, quase inaudivelmente",
+          "ipa": "",
+          "section": "A · The human voice",
+          "example": "Do not mutter under your breath if you want everyone to hear your objection.",
+          "note": "Mutter under your breath describes speaking so quietly that others may not understand; under your voice is not idiomatic.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-stony-silence",
+          "word": "a stony silence",
+          "pt": "um silêncio frio e hostil",
+          "ipa": "",
+          "section": "A · The human voice",
+          "example": "Her suggestion was greeted with a stony silence from the committee.",
+          "note": "Stony silence conveys deliberate coldness or hostility, not merely an absence of noise.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "lose-your-voice",
+          "word": "lose your voice",
+          "pt": "ficar sem voz",
+          "ipa": "",
+          "section": "A · The human voice",
+          "example": "You may lose your voice if you keep shouting throughout the concert.",
+          "note": "Lose your voice means become unable to speak normally, often because of illness or vocal strain.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "utter-a-word",
+          "word": "utter a word",
+          "pt": "pronunciar uma palavra",
+          "ipa": "",
+          "section": "A · The human voice",
+          "example": "He was too astonished to utter a word when he heard the result.",
+          "note": "Utter a word is typically used with a negative or restrictive expression such as not, never or too shocked to.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-broad-accent",
+          "word": "a broad accent",
+          "pt": "um sotaque carregado ou muito marcado",
+          "ipa": "",
+          "section": "A · The human voice",
+          "example": "The actor adopted a broad northern accent for the role.",
+          "note": "Broad describes a strong, easily noticeable regional accent, not a physically wide one.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "a-husky-voice",
+          "word": "a husky voice",
+          "pt": "uma voz rouca e grave",
+          "ipa": "",
+          "section": "A · The human voice",
+          "example": "The singer has a distinctive husky voice that fans recognise immediately.",
+          "note": "Husky refers to a low, slightly rough voice and can be attractive; gruff is more likely to suggest harshness.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "slur-your-words",
+          "word": "slur your words",
+          "pt": "enrolar ou arrastar as palavras ao falar",
+          "ipa": "",
+          "section": "A · The human voice",
+          "example": "If you slur your words, listeners may struggle to understand you.",
+          "note": "Slur your words means run speech sounds together so that articulation is unclear, for example through exhaustion.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "muffled-voices",
+          "word": "muffled voices",
+          "pt": "vozes abafadas",
+          "ipa": "",
+          "section": "A · The human voice",
+          "example": "We heard muffled voices through the thick wooden door.",
+          "note": "Muffled describes sounds that are blocked or indistinct, rather than words spoken with deliberate hostility.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "make-out-what-is-being-said",
+          "word": "make out what is being said",
+          "pt": "conseguir entender o que está sendo dito",
+          "ipa": "",
+          "section": "A · The human voice",
+          "example": "Even with headphones, I could barely make out what was being said in the recording.",
+          "note": "Make out means hear or understand something with difficulty; it is common after can or could in negative contexts.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "phrasal-verb"
+        },
+        {
+          "id": "raise-your-voice",
+          "word": "raise your voice",
+          "pt": "elevar o tom de voz",
+          "ipa": "",
+          "section": "A · The human voice",
+          "example": "Please do not raise your voice during the discussion.",
+          "note": "Raise your voice means speak more loudly, sometimes because of anger; it is different from a naturally booming voice.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-foreign-accent",
+          "word": "a foreign accent",
+          "pt": "um sotaque estrangeiro",
+          "ipa": "",
+          "section": "A · The human voice",
+          "example": "Her colleagues noticed a foreign accent but understood every word.",
+          "note": "Foreign accent identifies pronunciation associated with another language; broad describes the strength of an accent.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-clap-of-thunder",
+          "word": "a clap of thunder",
+          "pt": "um forte estrondo de trovão",
+          "ipa": "",
+          "section": "B · Sounds and silence",
+          "example": "A clap of thunder made everyone jump during the storm.",
+          "note": "Clap is the usual noun for a sudden, loud burst of thunder; cry of thunder is not idiomatic.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-deathly-hush",
+          "word": "a deathly hush",
+          "pt": "um silêncio absoluto e inquietante",
+          "ipa": "",
+          "section": "B · Sounds and silence",
+          "example": "A deathly hush fell over the audience before the verdict was announced.",
+          "note": "Deathly hush suggests an exceptionally deep, unsettling silence, rather than a pleasant quiet atmosphere.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-soft-whisper",
+          "word": "a soft whisper",
+          "pt": "um sussurro suave e baixo",
+          "ipa": "",
+          "section": "B · Sounds and silence",
+          "example": "She shared the good news in a soft whisper so she would not wake the baby.",
+          "note": "Soft modifies whisper naturally, whereas loud whisper creates a contrasting or intentionally paradoxical effect.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "silence-descends",
+          "word": "silence descends",
+          "pt": "o silêncio toma conta do ambiente",
+          "ipa": "",
+          "section": "B · Sounds and silence",
+          "example": "Silence descended on the room when the lights suddenly went out.",
+          "note": "Silence descends presents quiet as arriving over a whole place; it often marks an abrupt change in atmosphere.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "a-distant-echo",
+          "word": "a distant echo",
+          "pt": "um eco distante",
+          "ipa": "",
+          "section": "B · Sounds and silence",
+          "example": "A distant echo of the music reached us from the far side of the valley.",
+          "note": "Distant locates the echo far away; nearby echo gives a different spatial impression.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "incessant-noise",
+          "word": "incessant noise",
+          "pt": "barulho incessante",
+          "ipa": "",
+          "section": "B · Sounds and silence",
+          "example": "The incessant noise from the road made it hard to concentrate.",
+          "note": "Incessant suggests something continuous or repeatedly intrusive without relief, unlike intermittent noise.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "make-no-sound",
+          "word": "make no sound",
+          "pt": "não fazer nenhum som",
+          "ipa": "",
+          "section": "B · Sounds and silence",
+          "example": "The cat moved across the floor and made no sound.",
+          "note": "Make no sound indicates total silence from a person or thing; it is more emphatic than simply being quiet.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "silence-reigns",
+          "word": "silence reigns",
+          "pt": "reina o silêncio",
+          "ipa": "",
+          "section": "B · Sounds and silence",
+          "example": "At dawn, silence reigns in the deserted village.",
+          "note": "Silence reigns is a figurative, slightly literary way to say silence dominates a place.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "a-dull-thud",
+          "word": "a dull thud",
+          "pt": "um baque surdo",
+          "ipa": "",
+          "section": "B · Sounds and silence",
+          "example": "We heard a dull thud when the heavy box landed on the carpet.",
+          "note": "Dull thud refers to a low, non-ringing impact sound, unlike a sharp crack.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "sound-travels",
+          "word": "sound travels",
+          "pt": "o som se propaga",
+          "ipa": "",
+          "section": "B · Sounds and silence",
+          "example": "Sound travels surprisingly far across the lake at night.",
+          "note": "Sound travels refers to sound carrying from one location to another; the phrase often takes an adverb or path.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "let-out-a-cry",
+          "word": "let out a cry",
+          "pt": "soltar um grito",
+          "ipa": "",
+          "section": "B · Sounds and silence",
+          "example": "She let out a cry when the cold water touched her feet.",
+          "note": "Let out a cry means suddenly make a loud vocal sound; let off a cry is not the usual expression.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "utter-a-single-word",
+          "word": "utter a single word",
+          "pt": "pronunciar uma palavra sequer",
+          "ipa": "",
+          "section": "Exercises · Sound and usage contrasts",
+          "example": "The witness refused to utter a single word until her lawyer arrived.",
+          "note": "A single word strengthens the negative or restrictive reading of utter a word; typically used with refuse or not.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "hear-a-faint-whisper",
+          "word": "hear a faint whisper",
+          "pt": "ouvir um sussurro muito baixo",
+          "ipa": "",
+          "section": "Exercises · Sound and usage contrasts",
+          "example": "I heard a faint whisper from the back of the hall.",
+          "note": "Faint emphasises that a voice can barely be heard; it does not describe how close the speaker is.",
+          "audio": "",
+          "contentOrigin": "pedagogical-extension",
+          "targetType": "collocation"
+        }
+      ],
+      "sourceAudit": {
+        "sectionsChecked": [
+          "Complete teaching page and explanatory notes",
+          "Exercise page and item-level contrasts",
+          "Relevant entries in the published answer key"
+        ],
+        "printedPages": [
+          98,
+          99
+        ],
+        "pdfPages": [
+          102,
+          103
+        ],
+        "answerKeyPdfPages": [
+          156
+        ],
+        "editorialScope": "Core collocations and productive contrasts appearing on the teaching and exercise pages; original examples, translations and usage notes. Not a copy of source exercise text.",
+        "exercisePolicy": "Source exercises are not reproduced; item example sentences are original.",
+        "itemCount": 27,
+        "targetTypes": {
+          "collocation": 16,
+          "semantic-contrast": 6,
+          "expression": 4,
+          "phrasal-verb": 1
+        }
+      }
+    },
+    {
+      "id": "ec2-u48",
+      "number": 48,
+      "title": "Unit 48 — Making things easier",
+      "level": "C1–C2",
+      "source": "VocabLab editorial reference: unit 48",
+      "bookId": "english-collocations-2",
+      "bookTitle": "English Collocations 2",
+      "category": "Basic concepts",
+      "sourcePage": 104,
+      "coverage": "source-checked",
+      "learningObjectives": [
+        "Compare feasible alternatives and viable options, and select clear approaches to complex tasks.",
+        "Break large projects into manageable stages without confusing efficiency with avoiding responsibility.",
+        "Describe memory strategies, effort, practice and recall with natural C1–C2 collocations."
+      ],
+      "items": [
+        {
+          "id": "work-out-the-easiest-way",
+          "word": "work out the easiest way",
+          "pt": "descobrir a maneira mais fácil",
+          "ipa": "",
+          "section": "A · Choosing your approach",
+          "example": "Before moving the furniture, we worked out the easiest way to carry it upstairs.",
+          "note": "Work out means determine a solution through thought, rather than merely perform physical exercise.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "phrasal-verb"
+        },
+        {
+          "id": "explore-different-ways",
+          "word": "explore different ways",
+          "pt": "explorar diferentes maneiras",
+          "ipa": "",
+          "section": "A · Choosing your approach",
+          "example": "The group explored different ways of reducing electricity use.",
+          "note": "Explore different ways of doing something means consider several approaches before selecting one.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "feasible-alternatives",
+          "word": "feasible alternatives",
+          "pt": "alternativas possíveis ou viáveis",
+          "ipa": "",
+          "section": "A · Choosing your approach",
+          "example": "The committee evaluated three feasible alternatives to the original design.",
+          "note": "Feasible emphasises what can realistically be done, not merely an imaginable possibility.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "viable-options",
+          "word": "viable options",
+          "pt": "opções viáveis na prática",
+          "ipa": "",
+          "section": "A · Choosing your approach",
+          "example": "Only two viable options remained after the budget was reduced.",
+          "note": "Viable options are choices capable of working successfully in practice; viable often implies practical sustainability.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "enlist-help",
+          "word": "enlist help",
+          "pt": "conseguir ajuda ou apoio",
+          "ipa": "",
+          "section": "A · Choosing your approach",
+          "example": "We enlisted help from experienced volunteers to organise the event.",
+          "note": "Enlist help means actively recruit people to assist, rather than simply receive advice unexpectedly.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "adopt-a-method",
+          "word": "adopt a method",
+          "pt": "adotar um método",
+          "ipa": "",
+          "section": "A · Choosing your approach",
+          "example": "The teacher adopted a method that made revision less intimidating.",
+          "note": "Adopt a method means decide to use a particular approach regularly or for a specific task.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-step-by-step-approach",
+          "word": "a step-by-step approach",
+          "pt": "uma abordagem passo a passo",
+          "ipa": "",
+          "section": "A · Choosing your approach",
+          "example": "A step-by-step approach made the installation easier for beginners.",
+          "note": "Step-by-step describes a planned sequence of manageable stages rather than trying everything at once.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "break-a-task-down",
+          "word": "break a task down",
+          "pt": "dividir uma tarefa em partes menores",
+          "ipa": "",
+          "section": "A · Choosing your approach",
+          "example": "We broke the task down into three stages before assigning responsibilities.",
+          "note": "Break a task down into stages means divide it into smaller parts; down can move after the object.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "phrasal-verb"
+        },
+        {
+          "id": "manageable-chunks",
+          "word": "manageable chunks",
+          "pt": "partes administráveis ou fáceis de lidar",
+          "ipa": "",
+          "section": "A · Choosing your approach",
+          "example": "I divided the report into manageable chunks and revised one section each day.",
+          "note": "Manageable chunks are portions small enough to handle effectively; chunks is informal but very common.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "simplicity-itself",
+          "word": "simplicity itself",
+          "pt": "a própria simplicidade",
+          "ipa": "",
+          "section": "A · Choosing your approach",
+          "example": "Once you understand the symbols, the procedure is simplicity itself.",
+          "note": "Simplicity itself is an emphatic idiom for something extremely easy to understand or do.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "take-the-easy-option",
+          "word": "take the easy option",
+          "pt": "escolher a opção mais fácil",
+          "ipa": "",
+          "section": "A · Choosing your approach",
+          "example": "She refused to take the easy option when a more careful solution was needed.",
+          "note": "Take the easy option may imply choosing what requires less effort, though the easier choice is not always wrong.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "take-the-easy-way-out",
+          "word": "take the easy way out",
+          "pt": "escolher o caminho mais fácil para fugir da dificuldade",
+          "ipa": "",
+          "section": "A · Choosing your approach",
+          "example": "It would be taking the easy way out to cancel the project without addressing its problems.",
+          "note": "Take the easy way out often disapproves of avoiding responsibility or effort; it is not just choosing an efficient method.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "a-trained-memory",
+          "word": "a trained memory",
+          "pt": "uma memória treinada",
+          "ipa": "",
+          "section": "B · Ways of remembering",
+          "example": "A trained memory helped the interpreter remember long lists of names.",
+          "note": "A trained memory is one deliberately developed through practice, not necessarily an unusually good natural memory.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "an-immense-asset",
+          "word": "an immense asset",
+          "pt": "um recurso de enorme valor",
+          "ipa": "",
+          "section": "B · Ways of remembering",
+          "example": "Her ability to remain calm was an immense asset during the negotiations.",
+          "note": "Immense asset means something of exceptionally great value or usefulness, not necessarily a physical possession.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "mnemonic-techniques",
+          "word": "mnemonic techniques",
+          "pt": "técnicas mnemônicas",
+          "ipa": "",
+          "section": "B · Ways of remembering",
+          "example": "Students used mnemonic techniques to remember the order of the planets.",
+          "note": "Mnemonic techniques are memory aids, such as letter patterns or associations, for recalling information.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "terminology"
+        },
+        {
+          "id": "an-amazing-degree-of-accuracy",
+          "word": "an amazing degree of accuracy",
+          "pt": "um grau impressionante de precisão",
+          "ipa": "",
+          "section": "B · Ways of remembering",
+          "example": "The new sensor reproduced the measurements with an amazing degree of accuracy.",
+          "note": "Degree of accuracy expresses how precise a result is; amazing functions as an evaluative intensifier.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "perfect-a-technique",
+          "word": "perfect a technique",
+          "pt": "aperfeiçoar uma técnica até dominá-la",
+          "ipa": "",
+          "section": "B · Ways of remembering",
+          "example": "She perfected a technique for restoring delicate wooden furniture.",
+          "note": "Perfect a technique means refine it until it works extremely well; perfect here is a verb.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-simple-rule",
+          "word": "a simple rule",
+          "pt": "uma regra simples",
+          "ipa": "",
+          "section": "B · Ways of remembering",
+          "example": "Our team follows a simple rule: check every measurement twice.",
+          "note": "Simple rule refers to an uncomplicated guideline; a basic principle is a broader underlying idea.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "in-a-straightforward-way",
+          "word": "in a straightforward way",
+          "pt": "de maneira simples e direta",
+          "ipa": "",
+          "section": "B · Ways of remembering",
+          "example": "The trainer explained the safety procedures in a straightforward way.",
+          "note": "Straightforward means easy to follow and without unnecessary complications, not necessarily very short.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "a-basic-principle",
+          "word": "a basic principle",
+          "pt": "um princípio fundamental",
+          "ipa": "",
+          "section": "B · Ways of remembering",
+          "example": "A basic principle of good design is to make controls easy to reach.",
+          "note": "Basic principle names a foundational idea on which a system or method is built.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "concentrate-the-mind",
+          "word": "concentrate the mind",
+          "pt": "concentrar a mente",
+          "ipa": "",
+          "section": "B · Ways of remembering",
+          "example": "A short breathing exercise can help concentrate the mind before an exam.",
+          "note": "Concentrate the mind means focus mental attention; concentrate on something specifies the object of attention.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "perfectly-simple",
+          "word": "perfectly simple",
+          "pt": "perfeitamente simples",
+          "ipa": "",
+          "section": "B · Ways of remembering",
+          "example": "The instructions seemed confusing, but the process was perfectly simple.",
+          "note": "Perfectly intensifies simple to mean entirely uncomplicated; it does not mean morally perfect.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "take-the-time",
+          "word": "take the time",
+          "pt": "dedicar o tempo necessário",
+          "ipa": "",
+          "section": "B · Ways of remembering",
+          "example": "Take the time to read the instructions carefully before you begin.",
+          "note": "Take the time to do something encourages deliberate effort rather than rushing.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "instantly-recall",
+          "word": "instantly recall",
+          "pt": "lembrar-se instantaneamente",
+          "ipa": "",
+          "section": "B · Ways of remembering",
+          "example": "After weeks of practice, she could instantly recall every emergency code.",
+          "note": "Instantly recall means retrieve information from memory immediately, without a prolonged search.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "items-of-information",
+          "word": "items of information",
+          "pt": "informações individuais ou dados específicos",
+          "ipa": "",
+          "section": "B · Ways of remembering",
+          "example": "The presenter divided the lecture into small items of information.",
+          "note": "Items of information treats information as countable pieces because information alone is normally uncountable.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "terminology"
+        },
+        {
+          "id": "with-remarkable-ease",
+          "word": "with remarkable ease",
+          "pt": "com notável facilidade",
+          "ipa": "",
+          "section": "B · Ways of remembering",
+          "example": "Despite the difficult terrain, she completed the climb with remarkable ease.",
+          "note": "With remarkable ease means surprisingly easily; this fixed structure includes with and a noun phrase.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "a-steep-learning-curve",
+          "word": "a steep learning curve",
+          "pt": "uma curva de aprendizado íngreme",
+          "ipa": "",
+          "section": "B · Ways of remembering",
+          "example": "The new editing software had a steep learning curve for our volunteers.",
+          "note": "A steep learning curve conventionally describes a skill that requires considerable early effort to master.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "worth-the-effort",
+          "word": "worth the effort",
+          "pt": "vale o esforço",
+          "ipa": "",
+          "section": "B · Ways of remembering",
+          "example": "Learning to maintain your bicycle is worth the effort.",
+          "note": "Worth the effort means the eventual benefit justifies the time and work involved.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "recall-information",
+          "word": "recall information",
+          "pt": "recordar informações",
+          "ipa": "",
+          "section": "B · Ways of remembering",
+          "example": "He used a familiar melody to recall information during the test.",
+          "note": "Recall information is the neutral verb-noun pairing for bringing learned facts back to mind.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "explore-the-options",
+          "word": "explore the options",
+          "pt": "examinar as opções",
+          "ipa": "",
+          "section": "Exercises · Approaches and memory",
+          "example": "We explored the options before deciding where to hold the conference.",
+          "note": "Explore the options is a concise way to express deliberate consideration of available choices.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "take-the-time-to-learn",
+          "word": "take the time to learn",
+          "pt": "reservar tempo para aprender",
+          "ipa": "",
+          "section": "Exercises · Approaches and memory",
+          "example": "You should take the time to learn the keyboard shortcuts.",
+          "note": "The fixed infinitive complement explains what time is invested in; unlike waste time, it presents the effort positively.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "expression"
+        }
+      ],
+      "sourceAudit": {
+        "sectionsChecked": [
+          "Complete teaching page and explanatory notes",
+          "Exercise page and item-level contrasts",
+          "Relevant entries in the published answer key"
+        ],
+        "printedPages": [
+          100,
+          101
+        ],
+        "pdfPages": [
+          104,
+          105
+        ],
+        "answerKeyPdfPages": [
+          156
+        ],
+        "editorialScope": "Core collocations and productive contrasts appearing on the teaching and exercise pages; original examples, translations and usage notes. Not a copy of source exercise text.",
+        "exercisePolicy": "Source exercises are not reproduced; item example sentences are original.",
+        "itemCount": 31,
+        "targetTypes": {
+          "phrasal-verb": 2,
+          "collocation": 17,
+          "semantic-contrast": 3,
+          "expression": 7,
+          "terminology": 2
+        }
+      }
+    }
+  ]
+}

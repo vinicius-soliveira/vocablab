@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u026",
+  "title": "Wh-questions with Who, Whom, Which, How and Whose",
+  "level": "C1",
+  "topicId": "eg3-u026-wh-questions-with-who-whom-which-how-and-whose",
+  "summary": "Form precise questions about people, selections, descriptions and possession. Distinguish subject and object who, formal whom after prepositions, restricted which choices, usual singular subject-question agreement, how versus what, and possessive whose in direct and embedded questions.",
+  "learningObjectives": [
+    "Choose who, whom or which according to whether the question targets a subject, an object or a defined group of people or things.",
+    "Handle the usual singular agreement of subject who/what and recognise plural complements and echo-question exceptions.",
+    "Distinguish how questions about condition, manner or preferences from what questions about details, descriptions and hypothetical outcomes.",
+    "Use whose as an independent pronoun or determiner, with appropriate preposition placement in formal and informal questions."
+  ],
+  "explanation": [
+    {
+      "heading": "Who, whom and their grammatical roles",
+      "body": "Who can ask about the subject, object or complement of a clause. Formal whom is mainly used for people as objects and is especially natural immediately after a fronted preposition: to whom was the note addressed? It is not the ordinary subject form; who organised the event? cannot normally become whom organised the event? In everyday speech, who is common instead of object whom, particularly with the preposition at the end.",
+      "example": "To whom did the chairperson hand the revised agenda?"
+    },
+    {
+      "heading": "Which selects from a group",
+      "body": "Which identifies a person or thing from an identifiable set. It is particularly natural before one or ones and before of + a defined group: which of the shortlisted candidates is available? Which can also ask about a particular class of people, while who may be possible when the focus is a person rather than a choice. Avoid who of the shortlisted candidates: which of is the conventional pattern for an explicit selection.",
+      "example": "Which of the two translators will present the findings?"
+    },
+    {
+      "heading": "Agreement and the difference between subjects and complements",
+      "body": "When who or what itself is the subject, a singular verb is generally used even when several people or things may be named in the answer: who manages the schedules? and what is there to see? A plural verb may appear in echo questions when a plural item has just been mentioned or the question targets a coordinated subject. When who or what is a complement after be, the verb agrees with the actual plural subject: who are those people? and what are the consequences?",
+      "example": "Who is responsible for issuing the passes, and who are those visitors?"
+    },
+    {
+      "heading": "How and what ask different kinds of questions",
+      "body": "How was the concert? seeks a general assessment; what was the concert like? can request a similar broad description, while what did you enjoy about the concert? asks for details. How do you like your coffee? asks about a preference, not the reasons you appreciate it. What if introduces a hypothetical consequence, while what is it called? asks for a name. Both how about and what about can introduce suggestions or follow-up questions, but the wording of other how and what constructions is not freely interchangeable.",
+      "example": "How do you like your tea, and what do you like about this blend?"
+    },
+    {
+      "heading": "Whose for possession and responsibility",
+      "body": "Whose can stand alone as a pronoun (whose are these?) or modify a noun (whose folder is this?). It signals a person associated with or responsible for an object, not only legal ownership. Whose is distinct from who’s, a contraction of who is or who has. Formal questions may front a required preposition before whose: in whose office was the document found? Informal versions may strand it: whose office was the document found in? Where there is no main verb requiring a preposition, do not append one to a short question such as whose office?",
+      "example": "Whose notes did the facilitator collect at the end of the workshop?"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Formal preposition fronting versus conversational placement",
+      "left": {
+        "label": "Formal object whom",
+        "example": "With whom did the director discuss the plans?",
+        "note": "Whom follows the preposition when the object is explicitly fronted."
+      },
+      "right": {
+        "label": "Conversational object who",
+        "example": "Who did the director discuss the plans with?",
+        "note": "Who is a natural object form with the preposition left at the end."
+      }
+    },
+    {
+      "title": "Preferences versus appreciated details",
+      "left": {
+        "label": "How + preference",
+        "example": "How do you like your coffee?",
+        "note": "The answer may be strong, black, sweet or another preparation preference."
+      },
+      "right": {
+        "label": "What + valued feature",
+        "example": "What do you like about this coffee?",
+        "note": "The answer identifies qualities such as its aroma or flavour."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Who designed the exhibition catalogue?",
+      "note": "Who is the subject of designed, so whom is inappropriate."
+    },
+    {
+      "sentence": "Which of the five applications arrived first?",
+      "note": "Which of refers to a choice within a stated group."
+    },
+    {
+      "sentence": "What is there to explore near the harbour?",
+      "note": "Subject what normally combines with singular is in an existential question."
+    },
+    {
+      "sentence": "Who are the two researchers beside the poster?",
+      "note": "Who functions as a complement, and plural researchers requires are."
+    },
+    {
+      "sentence": "Whose umbrella is leaning against the counter?",
+      "note": "Whose modifies umbrella; it is not the contraction who’s."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Whom designed the updated logo?",
+      "correct": "Who designed the updated logo?",
+      "why": "The interrogative word is the grammatical subject of designed; use who, not object whom."
+    },
+    {
+      "incorrect": "Who of the shortlisted volunteers knows the procedure?",
+      "correct": "Which of the shortlisted volunteers knows the procedure?",
+      "why": "Which of identifies an individual within an explicit group."
+    },
+    {
+      "incorrect": "What are there to see in this village?",
+      "correct": "What is there to see in this village?",
+      "why": "What as the subject of this existential expression normally takes singular is."
+    },
+    {
+      "incorrect": "Who’s jacket has been left in the library?",
+      "correct": "Whose jacket has been left in the library?",
+      "why": "Whose is the possessive determiner; who’s means who is or who has."
+    }
+  ],
+  "studyTips": [
+    "Label the interrogative word as subject, object, complement or determiner before choosing who, whom or whose.",
+    "Compare closed-choice which of the group questions with open who questions, then note whether singular agreement is required.",
+    "Practise paired prompts: how was it? / what was it like? and how do you like it? / what do you like about it? Explain the difference in information requested."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "___ is leading the seminar this afternoon? Choose the interrogative pronoun functioning as subject.",
+      "choices": [
+        "Who",
+        "Whom",
+        "Whose"
+      ],
+      "answerIndex": 0,
+      "feedback": "Who is the subject of is leading; whom is an object form and whose is possessive."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "To ___ did you send the recommendation? Choose the formal object form when the recipient is a person.",
+      "choices": [
+        "whose",
+        "whom",
+        "which"
+      ],
+      "answerIndex": 1,
+      "feedback": "A fronted preposition addressed to a person conventionally takes whom."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "___ of the five paintings is the earliest? Choose the natural word for a defined set.",
+      "choices": [
+        "Who",
+        "What",
+        "Which"
+      ],
+      "answerIndex": 2,
+      "feedback": "Which of introduces a choice within the specified five paintings."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "You want to learn which features a colleague values in a new job. Which question asks for these details?",
+      "choices": [
+        "How do you like your new job?",
+        "What do you like about your new job?",
+        "What is your new job like?"
+      ],
+      "answerIndex": 1,
+      "feedback": "What do you like about ... invites particular valued aspects rather than only a broad impression."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "___ of these two chairs would you choose? Supply the single word that introduces a selection.",
+      "acceptedAnswers": [
+        "Which"
+      ],
+      "feedback": "Which of asks for a choice within the two chairs."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "___ created the original design? Supply the subject interrogative pronoun.",
+      "acceptedAnswers": [
+        "Who"
+      ],
+      "feedback": "Who functions as the subject of created."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "___ headphones were left in the meeting room? Supply a possessive interrogative determiner.",
+      "acceptedAnswers": [
+        "Whose"
+      ],
+      "feedback": "Whose modifies headphones, indicating their owner or responsible person."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "___ is there to explore in the old quarter? Supply the single subject question word.",
+      "acceptedAnswers": [
+        "What"
+      ],
+      "feedback": "What normally takes singular is in this existential subject question."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the subject-question form: Whom is delivering the opening lecture?",
+      "acceptedAnswers": [
+        "Who is delivering the opening lecture?"
+      ],
+      "feedback": "The question word is subject of is delivering, so use who."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the explicit selection: Who of those three engineers signed the report?",
+      "acceptedAnswers": [
+        "Which of those three engineers signed the report?"
+      ],
+      "feedback": "Which of, not who of, is the usual way to select from a named group."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the possessive question: Who’s coat is hanging on that hook?",
+      "acceptedAnswers": [
+        "Whose coat is hanging on that hook?"
+      ],
+      "feedback": "Whose is the possessive determiner before coat."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the description question: How was the concert like?",
+      "acceptedAnswers": [
+        "What was the concert like?"
+      ],
+      "feedback": "With be + like to request a description, use what, not how."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Ask about the person who approved the budget. Begin with “Who” and use the past simple.",
+      "acceptedAnswers": [
+        "Who approved the budget?"
+      ],
+      "feedback": "Who is the subject of approved."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask formally about the recipient of a parcel. Begin “To whom” and include “was the parcel delivered”.",
+      "acceptedAnswers": [
+        "To whom was the parcel delivered?"
+      ],
+      "feedback": "Whom is the object of the fronted preposition to."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Ask a colleague to choose between two routes. Use “Which of the two routes” and “do you prefer”.",
+      "acceptedAnswers": [
+        "Which of the two routes do you prefer?"
+      ],
+      "feedback": "Which of identifies an option from a closed set."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Ask about the owner of this umbrella. Begin “Whose umbrella” and use a complete be-question.",
+      "acceptedAnswers": [
+        "Whose umbrella is this?"
+      ],
+      "feedback": "Whose is a possessive determiner before umbrella."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Ask for a general assessment of someone’s trip, using how and the past simple.",
+      "acceptedAnswers": [
+        "How was your trip?"
+      ],
+      "feedback": "How was asks for a general evaluation."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Ask which particular features someone appreciates in their new apartment. Begin “What do you like”.",
+      "acceptedAnswers": [
+        "What do you like about your new apartment?"
+      ],
+      "feedback": "What do you like about ... requests specific positive features."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this question aloud: “Whom left the message?”",
+      "acceptedAnswers": [
+        "Who left the message?"
+      ],
+      "feedback": "Only who is suitable as the interrogative subject in this question."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two full questions in this order. First ask how someone likes their coffee; then ask whose notebook this is. Use exact referents coffee and notebook.",
+      "acceptedAnswers": [
+        "How do you like your coffee? Whose notebook is this?"
+      ],
+      "feedback": "The first question asks about preparation preference; the second asks about possession."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Who called the maintenance office? The laboratory assistant called before lunch.",
+      "prompt": "Who made the call?",
+      "choices": [
+        "The laboratory assistant.",
+        "The maintenance manager.",
+        "The event organiser."
+      ],
+      "answerIndex": 0,
+      "feedback": "The assistant is identified as the subject of called."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "To whom should we send the updated contract? Send it to the legal adviser, please.",
+      "prompt": "What does “whom” refer to?",
+      "choices": [
+        "The contract being sent.",
+        "The recipient of the contract.",
+        "The office from which it was sent."
+      ],
+      "answerIndex": 1,
+      "feedback": "Whom is the person receiving the contract after the preposition to."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Which of the two blue jackets is yours? The one with the silver buttons.",
+      "prompt": "Transcribe the two words at the start of the selection question.",
+      "acceptedAnswers": [
+        "Which of"
+      ],
+      "feedback": "Which of introduces a restricted choice between the jackets."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "What do you like about the studio? The natural light and the quiet rooms.",
+      "prompt": "What information does the first question ask for?",
+      "choices": [
+        "The exact location of the studio.",
+        "A yes-or-no opinion about moving.",
+        "Particular features the speaker appreciates."
+      ],
+      "answerIndex": 2,
+      "feedback": "What do you like about elicits appreciated details, here light and quiet rooms."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Who are those visitors standing by the entrance? They are the new members of the committee.",
+      "prompt": "Why is “are” used after “who”?",
+      "choices": [
+        "Who asks for the identity of the plural subject those visitors.",
+        "Whom must always be followed by a plural verb.",
+        "Who is always plural, even in subject questions."
+      ],
+      "answerIndex": 0,
+      "feedback": "Who is a complement here; the actual subject those visitors is plural."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "How do you like your eggs? Poached, with a little salt.",
+      "prompt": "What is being asked?",
+      "choices": [
+        "Which aspect of the eggs tastes best.",
+        "How the person prefers their eggs prepared.",
+        "What the eggs are called."
+      ],
+      "answerIndex": 1,
+      "feedback": "How do you like your eggs asks about the preferred preparation."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Whose folder was left on the photocopier? I think it belongs to the trainee.",
+      "prompt": "Transcribe the first two words of the possession question.",
+      "acceptedAnswers": [
+        "Whose folder"
+      ],
+      "feedback": "Whose folder identifies a possessor through a determiner plus noun."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "What was the exhibition like? It was surprisingly engaging.",
+      "prompt": "Transcribe the complete five-word opening question.",
+      "acceptedAnswers": [
+        "What was the exhibition like?"
+      ],
+      "feedback": "What was ... like requests an overall description or impression."
+    }
+  ]
+}

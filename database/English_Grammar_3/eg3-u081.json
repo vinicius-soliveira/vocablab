@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u081",
+  "title": "Purpose Clauses and Result Constructions",
+  "level": "C1",
+  "topicId": "eg3-u081-purposes-and-results-in-order-to-so-as-to",
+  "summary": "Express intended purposes and actual or designed results precisely. Use in order to, so as to and their negative forms; distinguish infinitive purpose from clauses with so that or in order that; and manage formal result patterns with such that, in such a way as to and such ... that.",
+  "learningObjectives": [
+    "Express affirmative and negative purpose with to-infinitives, in order to, so as to, in order not to and so as not to.",
+    "Choose a finite purpose clause with so that or in order that when its subject, tense or modal makes an infinitive unsuitable.",
+    "Interpret modal and tense choices in purpose clauses following present and past main clauses without assuming rigid mechanical backshifting.",
+    "Distinguish formal result expressions such that, in such a way that, in such a way as to and such + noun phrase + that."
+  ],
+  "explanation": [
+    {
+      "heading": "Affirmative purpose: the ordinary to-infinitive and more explicit alternatives",
+      "body": "An infinitive of purpose explains why an action is performed: we moved the meeting to give everyone time. In order to and so as to make that purpose especially clear, and so as to is often relatively formal. The simple to-infinitive is common in speech. Purpose must be distinguished from an infinitive expressing a result or completing another construction; select the form from the meaning, not merely from the adjacent verb.",
+      "example": "The volunteers arrived early in order to prepare the hall before the guests entered."
+    },
+    {
+      "heading": "Negative purpose and contrastive infinitives",
+      "body": "To make prevention or avoidance explicit, prefer in order not to or so as not to. A bare not to after an action is often ambiguous or unnatural as a purpose adjunct. Do not apply the same rule mechanically to a contrast such as not to criticise but to help: there, not ... but ... is a paired contrast, and the second infinitive identifies the real intention. In order or so as can optionally precede such contrasting infinitives.",
+      "example": "She lowered the microphone so as not to disturb the recording."
+    },
+    {
+      "heading": "Purpose with a full clause: so that and in order that",
+      "body": "When the purpose has its own explicit subject, use a finite clause introduced by so that or the more formal in order that. Modals are frequent: can and will for present or future reference; could and would frequently accompany past-time purposes. They are not mandatory in every purpose clause, but the chosen time reference and meaning must remain coherent. Informal so that may be shortened to so; in order that cannot normally be reduced to in order in this way.",
+      "example": "The instructor repeated the directions so that the new students could follow the route."
+    },
+    {
+      "heading": "Designed or achieved results with such that and in such a way",
+      "body": "Such that is comparatively formal and can explain a designed property or a resulting condition: the connections were arranged such that maintenance was straightforward. In such a way that introduces a clause; in such a way as to introduces a to-infinitive. The alternatives often overlap in meaning, but the grammatical complements are not interchangeable. These patterns can describe intended design or actual effects, depending on context.",
+      "example": "The sensors were positioned in such a way that visitors could see the display without blocking the entrance."
+    },
+    {
+      "heading": "Such + noun phrase + that expresses degree and consequence",
+      "body": "Such followed by a noun phrase and that expresses the consequence of an unusually strong or noteworthy quality: such a persuasive case that ... . This differs structurally from such that, which does not require an intervening noun phrase. Do not confuse a statement of what actually followed with a statement of what somebody hoped to achieve: a result may be unintended, while purpose is intentional.",
+      "example": "It was such a convincing demonstration that several sceptical reviewers changed their minds."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Avoiding an unwanted outcome",
+      "left": {
+        "label": "Negative purpose",
+        "example": "We closed the gate so as not to disturb the nesting birds.",
+        "note": "The gate was closed with an intention to prevent disturbance."
+      },
+      "right": {
+        "label": "Contrast of intentions",
+        "example": "We closed the gate not to exclude visitors but to protect the birds.",
+        "note": "Not ... but ... rejects one possible purpose and asserts another."
+      }
+    },
+    {
+      "title": "Different complements after result expressions",
+      "left": {
+        "label": "Full clause",
+        "example": "The parts were numbered in such a way that volunteers could assemble them.",
+        "note": "That introduces a clause with its own subject and finite verb."
+      },
+      "right": {
+        "label": "To-infinitive",
+        "example": "The parts were numbered in such a way as to simplify assembly.",
+        "note": "As to introduces an infinitive describing the intended effect."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The librarian moved the returns desk to shorten the queue.",
+      "note": "A plain to-infinitive expresses purpose naturally."
+    },
+    {
+      "sentence": "The runners followed the marked path in order not to damage the gardens.",
+      "note": "In order not to introduces a negative purpose."
+    },
+    {
+      "sentence": "The organiser emailed a map so that guests would know which entrance to use.",
+      "note": "Would states the intended outcome from a past viewpoint."
+    },
+    {
+      "sentence": "The gallery was lit such that the inscriptions remained legible from the doorway.",
+      "note": "Such that introduces the designed result in a formal register."
+    },
+    {
+      "sentence": "There was such intense interest in the workshop that additional sessions were scheduled.",
+      "note": "Such modifies a noun phrase; that introduces the actual consequence."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The team left a note so as that the next shift could find the equipment.",
+      "correct": "The team left a note so that the next shift could find the equipment.",
+      "why": "So as to takes an infinitive; so that introduces a finite clause."
+    },
+    {
+      "incorrect": "The editor removed the name in order not embarrass the author.",
+      "correct": "The editor removed the name in order not to embarrass the author.",
+      "why": "In order not to requires to before the infinitive embarrass."
+    },
+    {
+      "incorrect": "The chairs were arranged in such a way as that everyone had a clear view.",
+      "correct": "The chairs were arranged in such a way that everyone had a clear view.",
+      "why": "Use in such a way that + clause, or in such a way as to + infinitive."
+    },
+    {
+      "incorrect": "It was such a noisy lecture so that nobody could hear the questions.",
+      "correct": "It was such a noisy lecture that nobody could hear the questions.",
+      "why": "The result construction is such + noun phrase + that, without so."
+    }
+  ],
+  "studyTips": [
+    "For each purpose sentence, identify the actor and ask whether the intention can be expressed naturally by one to-infinitive or requires a separate subject in a that-clause.",
+    "Contrast negative prevention (in order not to) with rejected motives (not to ... but to ...) by creating two scenarios with different intentions.",
+    "Rewrite a designed result three ways: with such that, in such a way that and in such a way as to; check the complement each expression requires."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The team covered the instruments because they wanted to prevent dust entering them. Choose the clearest negative-purpose construction.",
+      "choices": [
+        "The team covered the instruments so as not to let dust in.",
+        "The team covered the instruments so as that dust would not enter.",
+        "The team covered the instruments so as not dust to enter."
+      ],
+      "answerIndex": 0,
+      "feedback": "So as not to + infinitive gives a conventional negative purpose."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The caretaker dimmed the lights because she wanted the audience to concentrate on the display. Choose the sentence that keeps the separate subject.",
+      "choices": [
+        "The caretaker dimmed the lights in order the audience concentrating.",
+        "The caretaker dimmed the lights so that the audience could concentrate.",
+        "The caretaker dimmed the lights so as the audience could concentrate."
+      ],
+      "answerIndex": 1,
+      "feedback": "So that introduces the audience as the subject of a finite purpose clause."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the grammatical formal expression of an intended design outcome.",
+      "choices": [
+        "The shelves were spaced in such a way as that allow easy access.",
+        "The shelves were spaced in such a way that to allow easy access.",
+        "The shelves were spaced in such a way as to allow easy access."
+      ],
+      "answerIndex": 2,
+      "feedback": "In such a way as to is completed by a to-infinitive."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which sentence reports an actual consequence using such + noun phrase + that?",
+      "choices": [
+        "The issue caused such confusion that the meeting was extended.",
+        "The issue caused such confusion so that the meeting was extended.",
+        "The issue caused such that confusion the meeting was extended."
+      ],
+      "answerIndex": 0,
+      "feedback": "Such confusion that introduces the actual result, not an intended aim."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "\"We checked the names twice ___ avoid sending invitations to the wrong people.\" Supply the three-word phrase beginning with \"in\" that makes purpose explicit.",
+      "acceptedAnswers": [
+        "in order to"
+      ],
+      "feedback": "In order to introduces the intention behind checking."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "\"She kept her voice low ___ wake the sleeping child.\" Supply the four-word negative-purpose phrase beginning with \"so\".",
+      "acceptedAnswers": [
+        "so as not to"
+      ],
+      "feedback": "So as not to + infinitive expresses the intention to prevent waking the child."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "\"The guide repeated the announcement so ___ late arrivals could hear it.\" Supply the single conjunction component.",
+      "acceptedAnswers": [
+        "that"
+      ],
+      "feedback": "So that introduces a full purpose clause with a different subject."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "\"The platform was designed ___ that people using wheelchairs could reach every exhibit.\" Supply the word completing the formal result connector.",
+      "acceptedAnswers": [
+        "such"
+      ],
+      "feedback": "Such that can introduce a designed property or resulting arrangement."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Replace \"so as that\" with \"so that\" and preserve the remaining words: \"The manager provided printed instructions so as that trainees could work independently.\"",
+      "acceptedAnswers": [
+        "The manager provided printed instructions so that trainees could work independently."
+      ],
+      "feedback": "Replace so as that with so that before a full finite clause."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the negative purpose: \"We reduced the volume so as not disturb neighbouring offices.\"",
+      "acceptedAnswers": [
+        "We reduced the volume so as not to disturb neighbouring offices."
+      ],
+      "feedback": "So as not to requires to before the infinitive."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the mismatch using \"in such a way that\"; keep the other words: \"The display was arranged in such a way as to visitors could find the labels.\"",
+      "acceptedAnswers": [
+        "The display was arranged in such a way that visitors could find the labels."
+      ],
+      "feedback": "In such a way that introduces the full clause visitors could find the labels."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the noun-phrase result structure: \"It was such a useful workshop so that everyone requested a second session.\"",
+      "acceptedAnswers": [
+        "It was such a useful workshop that everyone requested a second session."
+      ],
+      "feedback": "Such + noun phrase + that expresses a result without so."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Explain the purpose in one sentence. Facts: The team / gather / early / review the route. Start \"The team\" and use \"in order to\" with the past simple.",
+      "acceptedAnswers": [
+        "The team gathered early in order to review the route."
+      ],
+      "feedback": "In order to + infinitive introduces the team’s purpose."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "State a negative purpose. Facts: She / whisper / not wake the baby. Use the past simple and the phrase \"so as not to\".",
+      "acceptedAnswers": [
+        "She whispered so as not to wake the baby."
+      ],
+      "feedback": "So as not to explicitly identifies the unwanted outcome being avoided."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Make a purpose clause with two subjects. Facts: The museum / extend its hours; visitors / can see the exhibition. Begin \"The museum\" and use \"so that\".",
+      "acceptedAnswers": [
+        "The museum extended its hours so that visitors could see the exhibition."
+      ],
+      "feedback": "So that introduces a separate subject; could suits the past purpose."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "State a present arrangement and intended effect. Facts: They / leave the lights on; the guards / can inspect the building. Start \"They\" and use \"in order that\".",
+      "acceptedAnswers": [
+        "They leave the lights on in order that the guards can inspect the building."
+      ],
+      "feedback": "In order that is the formal connector before a purpose clause."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Describe designed access using \"in such a way as to\". Facts: The ramp / be built / provide step-free entry. Use the past passive.",
+      "acceptedAnswers": [
+        "The ramp was built in such a way as to provide step-free entry."
+      ],
+      "feedback": "In such a way as to is followed by an infinitive."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Make a formal description with \"such that\". Facts: The signs / be positioned; every passenger / can see them. Begin \"The signs\" and use the past passive.",
+      "acceptedAnswers": [
+        "The signs were positioned such that every passenger could see them."
+      ],
+      "feedback": "Such that introduces the designed resulting condition."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Express an actual consequence. Facts: It / be / such a persuasive speech; the committee / approve the plan. Use the past simple and \"such ... that\".",
+      "acceptedAnswers": [
+        "It was such a persuasive speech that the committee approved the plan."
+      ],
+      "feedback": "Such a persuasive speech that identifies a degree with an actual result."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give two sentences in this order using full forms. First: We / close the window / in order not to / interrupt the recording. Second: We / move the table / so that / everyone / could see the screen. Use the past simple.",
+      "acceptedAnswers": [
+        "We closed the window in order not to interrupt the recording. We moved the table so that everyone could see the screen."
+      ],
+      "feedback": "The first is infinitive negative purpose; the second uses a finite purpose clause."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We moved the information desk so that new arrivals could find it more easily.",
+      "prompt": "What was the intended benefit of moving the desk?",
+      "choices": [
+        "The desk would take up more storage space.",
+        "New arrivals would locate the desk more easily.",
+        "The desk would be closed during visiting hours."
+      ],
+      "answerIndex": 1,
+      "feedback": "The so that clause specifies improved access for new arrivals."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The technician covered the camera so as not to expose the lens to dust.",
+      "prompt": "Which outcome was the technician trying to prevent?",
+      "choices": [
+        "Dust reaching the camera lens.",
+        "A delay in delivering the camera.",
+        "Visitors touching the camera controls."
+      ],
+      "answerIndex": 0,
+      "feedback": "So as not to introduces the problem that the technician wanted to avoid."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The ushers arrived early in order to inspect every emergency exit.",
+      "prompt": "Transcribe the three-word purpose expression beginning with \"in\".",
+      "acceptedAnswers": [
+        "in order to"
+      ],
+      "feedback": "The audio uses in order to immediately before inspect."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The notice was printed in such a way that visitors with poor eyesight could read it.",
+      "prompt": "What was the result of the printing arrangement?",
+      "choices": [
+        "The notice became shorter.",
+        "The printing costs were reduced to zero.",
+        "The notice was readable by visitors with poor eyesight."
+      ],
+      "answerIndex": 2,
+      "feedback": "In such a way that introduces the readable design outcome."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The organisers changed the programme so that the speakers would have longer breaks.",
+      "prompt": "What did the organisers hope to achieve?",
+      "choices": [
+        "More breaks for the speakers.",
+        "Fewer seats in the auditorium.",
+        "An earlier closing date for registration."
+      ],
+      "answerIndex": 0,
+      "feedback": "Would have longer breaks states the intended change."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "It was such a compelling argument that the panel reversed its decision.",
+      "prompt": "What actually happened after the argument?",
+      "choices": [
+        "The panel postponed all meetings for a year.",
+        "The panel changed its decision.",
+        "The panel refused to read the argument."
+      ],
+      "answerIndex": 1,
+      "feedback": "Such ... that introduces the result of the persuasive argument."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The team stored the paintings carefully so as not to damage the frames.",
+      "prompt": "Transcribe the four-word negative-purpose expression beginning with \"so\".",
+      "acceptedAnswers": [
+        "so as not to"
+      ],
+      "feedback": "The audible negative purpose is so as not to."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The workshop was arranged such that everyone had enough space to move.",
+      "prompt": "Transcribe the two-word formal result connector beginning with \"such\".",
+      "acceptedAnswers": [
+        "such that"
+      ],
+      "feedback": "Such that introduces the resulting arrangement."
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u009",
+  "title": "Will and Be Going To: Predictions, Decisions and Conditions",
+  "level": "C1",
+  "topicId": "eg3-u009-will-and-be-going-to",
+  "summary": "Use will and be going to to express predictions, future plans and intentions with attention to evidence, the moment of decision, register and conditional meaning. Recognise that both forms can often express a likely future event, while specific contexts favour one form.",
+  "learningObjectives": [
+    "Differentiate predictions grounded mainly in judgement from predictions prompted by present evidence, without treating the contrast as absolute.",
+    "Choose between a decision made during the conversation and an intention formed before speaking.",
+    "Use will naturally with prediction phrases, formal announcements, offers, promises and logical consequences.",
+    "Interpret will and be going to in main clauses with if, distinguishing a genuine condition from an independently planned action."
+  ],
+  "explanation": [
+    {
+      "heading": "Predictions: judgement and current evidence",
+      "body": "Both will and be going to can refer to a future outcome, and many predictions allow either. Will often presents a judgement based on opinion or past experience; be going to is especially natural when a visible or present clue points towards an outcome. The distinction is about how a prediction is framed, not a universal rule that one choice is always incorrect.",
+      "example": "I expect the new route will attract more visitors; that overloaded shelf is going to fall if nobody supports it."
+    },
+    {
+      "heading": "Prediction phrases and conversational stance",
+      "body": "Prediction expressions such as I think, I expect, I imagine, I hope, I am sure and I bet frequently occur with will. Be going to can also follow many of them, especially in informal speech, so it is more accurate to discuss preferences than bans. A prediction question can ask about someone’s expectation rather than an arranged plan.",
+      "example": "Do you think the guests will stay for the whole presentation?"
+    },
+    {
+      "heading": "Deciding now versus reporting an earlier intention",
+      "body": "Use will for a decision, offer or response made at the moment of speaking, especially when the speaker reacts to new information. Use be going to when the decision or intention existed before the current utterance. An actual future arrangement can also be expressed in other forms, such as the present continuous, but the distinction here is when the intention was formed.",
+      "example": "“We have run out of paper.” “I will order some now.” “I am going to replace the printer next month; I decided that yesterday.”"
+    },
+    {
+      "heading": "Formal announcements may favour will",
+      "body": "Be going to is frequent in informal planning talk. Will is also used in more formal notices, briefings and published schedules to present future events, even when the events have already been arranged. This is not necessarily a spontaneous decision, and it does not mean all formal future statements must use will.",
+      "example": "The annual ceremony will take place in the main auditorium, and the doors will open at seven."
+    },
+    {
+      "heading": "Conditional meaning: offers, plans and consequences",
+      "body": "In the main clause of an if-sentence, will commonly expresses an offer, promise, willingness, ability or logical consequence. Be going to can indicate a future action planned independently of the condition; it need not be offered only if the condition is met. When the consequence itself depends on the condition, both will and be going to may be possible, but will is particularly natural for promises, requests and immediate offers.",
+      "example": "I am going to make tea if you would like some too; if you need another cup, I will bring one. If the battery is flat, the sensor will not start."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A judgement versus an immediate visible clue",
+      "left": {
+        "label": "Will: an expectation",
+        "example": "I think the interview will go well.",
+        "note": "The speaker gives an opinion about a future result."
+      },
+      "right": {
+        "label": "Be going to: present evidence",
+        "example": "Those dark clouds are gathering; it is going to pour.",
+        "note": "The speaker infers a likely result from conditions visible now."
+      }
+    },
+    {
+      "title": "A new response versus a pre-existing decision",
+      "left": {
+        "label": "Will: deciding now",
+        "example": "“The parcel is heavy.” “I will carry it for you.”",
+        "note": "The offer arises during the conversation."
+      },
+      "right": {
+        "label": "Be going to: intention already formed",
+        "example": "I am going to take a first-aid course; I registered yesterday.",
+        "note": "The plan predates the current exchange."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I am sure the local team will recover after a difficult start.",
+      "note": "Will follows a stated belief about a future event."
+    },
+    {
+      "sentence": "Watch the stack of trays: it is going to topple over.",
+      "note": "A visible sign underlies the prediction."
+    },
+    {
+      "sentence": "“There is nobody to take the minutes.” “I will do it.”",
+      "note": "The speaker volunteers at the moment of speaking."
+    },
+    {
+      "sentence": "We are going to repaint the reception area in May; the budget was approved last week.",
+      "note": "The intention was formed before the utterance."
+    },
+    {
+      "sentence": "If you open the panel before disconnecting the supply, the alarm will sound.",
+      "note": "Will states the expected consequence of satisfying the condition."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Look at that ladder slipping! It going to fall.",
+      "correct": "Look at that ladder slipping! It is going to fall.",
+      "why": "A be going to prediction needs a finite form of be; the present clue supports the prediction."
+    },
+    {
+      "incorrect": "I have just seen the revised schedule. Fine, I am phone the organiser now.",
+      "correct": "I have just seen the revised schedule. Fine, I will phone the organiser now.",
+      "why": "Will phone is a natural way to express the decision made as the new information arrives."
+    },
+    {
+      "incorrect": "We will going to replace the windows; we chose the contractor last month.",
+      "correct": "We are going to replace the windows; we chose the contractor last month.",
+      "why": "Do not combine will and going to in one future construction; the prior decision favours are going to."
+    },
+    {
+      "incorrect": "If you touch the exposed wire, the safety system is will stop the machine.",
+      "correct": "If you touch the exposed wire, the safety system will stop the machine.",
+      "why": "An expected consequence can be expressed with will plus the base verb, without an auxiliary is."
+    }
+  ],
+  "studyTips": [
+    "For predictions, identify whether you are giving a general judgement or reacting to a clue you can observe now; then try both forms and explain the difference in emphasis.",
+    "Write a two-turn dialogue containing new information and a spontaneous offer with will, then rewrite it as an intention decided the day before.",
+    "In sentences beginning with if, ask whether the main-clause action is conditional, an offer, or a plan that will happen independently."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A stage technician points at an unstable lamp that has already begun to tilt. Which line presents a prediction based on a visible clue?",
+      "choices": [
+        "The lamp is going to fall; look how far it is leaning.",
+        "The lamp fell behind the curtain last night.",
+        "I hope they will replace the lamp next month."
+      ],
+      "answerIndex": 0,
+      "feedback": "Is going to fall links a future prediction directly to the present evidence that the lamp is leaning."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Your colleague has just said, “I forgot to book a taxi.” Which reply makes a new offer at the moment of speaking?",
+      "choices": [
+        "I booked a taxi for myself yesterday.",
+        "I will book one for us now.",
+        "I am going to buy a car next year; I decided last month."
+      ],
+      "answerIndex": 1,
+      "feedback": "Will book introduces a new offer in response to an unforeseen need."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Two roommates chose and agreed on their next purchase yesterday. Which line reports their existing future intention?",
+      "choices": [
+        "They bought new curtains last year.",
+        "They are choosing them at this very moment.",
+        "They are going to buy new curtains next weekend."
+      ],
+      "answerIndex": 2,
+      "feedback": "Are going to buy reports a future action that the roommates had decided on before speaking."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "A colleague asks whether you can check a report after it arrives. Which response makes a conditional promise?",
+      "choices": [
+        "If the report arrives today, I will check it for you.",
+        "I checked the report yesterday and left a note.",
+        "I am going to read a different article tonight; I planned that last week."
+      ],
+      "answerIndex": 0,
+      "feedback": "If the report arrives today, I will check it for you makes a promise dependent on the condition."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete the opinion-based prediction using will: “I suspect the auditors ___ (ask) for further evidence.” Write only the verb phrase.",
+      "acceptedAnswers": [
+        "will ask"
+      ],
+      "feedback": "Will ask presents a judgement about what the auditors are likely to do."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The warning light is flashing and the motor is making a strange noise. Complete the evidence-based prediction: “It ___ (stop) soon.” Use be going to.",
+      "acceptedAnswers": [
+        "is going to stop"
+      ],
+      "feedback": "Is going to stop presents a likely future outcome inferred from present warning signs."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "They selected a publisher last week. Complete the sentence with the previously decided intention: “They ___ (publish) the collection in June.” Use be going to.",
+      "acceptedAnswers": [
+        "are going to publish"
+      ],
+      "feedback": "Are going to publish reports an intention that existed before this conversation."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "A friend asks for help with a suitcase. Complete your immediate offer: “I ___ (carry) the smaller bag.” Use will.",
+      "acceptedAnswers": [
+        "will carry",
+        "'ll carry"
+      ],
+      "feedback": "Will carry presents the offer made in the moment."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the grammar while keeping the visible-evidence prediction: “The paint is bubbling; the surface going to peel.”",
+      "acceptedAnswers": [
+        "The paint is bubbling; the surface is going to peel."
+      ],
+      "feedback": "Be going to needs is for the singular subject surface."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the grammar of the spontaneous reply using will: “The telephone is ringing. I will answering it.”",
+      "acceptedAnswers": [
+        "The telephone is ringing. I will answer it."
+      ],
+      "feedback": "Will takes the base form answer, not an -ing form."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the planned-intention sentence without changing its time reference: “They are going replace the old system next year; they agreed to do so in March.”",
+      "acceptedAnswers": [
+        "They are going to replace the old system next year; they agreed to do so in March."
+      ],
+      "feedback": "The be going to construction requires to before the base verb."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the conditional consequence using will: “If the heating fails, the temperature will drops overnight.”",
+      "acceptedAnswers": [
+        "If the heating fails, the temperature will drop overnight."
+      ],
+      "feedback": "Use the base verb drop after the modal will."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Express an opinion-based prediction. Exact facts: I think / the exhibition / attract / many visitors. Use will and a full form.",
+      "acceptedAnswers": [
+        "I think the exhibition will attract many visitors."
+      ],
+      "feedback": "Will attract conveys the speaker’s expectation."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "React to visible evidence. Facts: Those boxes / fall. Use the singular-free plural subject and be going to.",
+      "acceptedAnswers": [
+        "Those boxes are going to fall."
+      ],
+      "feedback": "Are going to fall is the evidence-based prediction."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "You have just been told the reception desk is unattended. Offer to cover it. Say: I / cover / the desk. Use will in full form.",
+      "acceptedAnswers": [
+        "I will cover the desk."
+      ],
+      "feedback": "Will cover expresses a spontaneous offer."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "State a previously decided intention. Facts: We / replace / the carpets / next month. Use be going to and full forms.",
+      "acceptedAnswers": [
+        "We are going to replace the carpets next month."
+      ],
+      "feedback": "Are going to replace reports an existing plan."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Make a conditional offer. Facts: If you need help / I / carry / the equipment. Use will and full forms.",
+      "acceptedAnswers": [
+        "If you need help, I will carry the equipment."
+      ],
+      "feedback": "Will carry makes the offer depend on the stated condition."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "State a logical consequence. Facts: If the server loses power / the displays / go dark. Use will and full forms.",
+      "acceptedAnswers": [
+        "If the server loses power, the displays will go dark."
+      ],
+      "feedback": "Will go describes the consequence of the server losing power."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the future phrase aloud while keeping the prior intention: “She is going attend a workshop next week.”",
+      "acceptedAnswers": [
+        "She is going to attend a workshop next week."
+      ],
+      "feedback": "Be going to requires the infinitive marker to."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two sentences in this order, using full forms. Opinion: I think / the presentation / be useful. Previous plan: We / record / the session / tomorrow.",
+      "acceptedAnswers": [
+        "I think the presentation will be useful. We are going to record the session tomorrow."
+      ],
+      "feedback": "The first sentence predicts; the second reports a prior intention."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I think our new colleague will settle in quickly. She already knows several people here, and she seems confident.",
+      "prompt": "What is the speaker mainly doing?",
+      "choices": [
+        "Announcing a completed move.",
+        "Giving an opinion about a future outcome.",
+        "Describing a decision to hire someone yesterday."
+      ],
+      "answerIndex": 1,
+      "feedback": "I think and will settle in introduce the speaker’s prediction about the colleague."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The cyclist is leaning too far to the left and the front tyre has started to slide. She is going to lose her balance.",
+      "prompt": "Why does the speaker predict a fall?",
+      "choices": [
+        "Present signs show the cyclist is becoming unstable.",
+        "The cyclist signed up for a race next month.",
+        "The cyclist fell during a previous competition."
+      ],
+      "answerIndex": 0,
+      "feedback": "The prediction is based on the tyre sliding and the cyclist leaning over."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The technician has just called for assistance. I will bring the spare cable.",
+      "prompt": "Type the two-word future verb phrase immediately after “I”.",
+      "acceptedAnswers": [
+        "will bring"
+      ],
+      "feedback": "Will bring is the speaker’s response to a newly identified need."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "We decided in February that we are going to expand the reading room next year. The architect has already started drawing plans.",
+      "prompt": "When was the intention to expand the room formed?",
+      "choices": [
+        "Only at this moment.",
+        "After the room was expanded.",
+        "In February, before this conversation."
+      ],
+      "answerIndex": 2,
+      "feedback": "The decision was already made in February; are going to reports that existing plan."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The closing ceremony will take place in the west hall at six. The event organiser is reading from an official programme.",
+      "prompt": "What is the context of this future statement?",
+      "choices": [
+        "A formal announcement of an arranged event.",
+        "A guess about whether a hall exists.",
+        "An argument about an event in the past."
+      ],
+      "answerIndex": 0,
+      "feedback": "Will is used in a formal programme announcement despite prior arrangement."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "If your luggage does not arrive this afternoon, I will contact the airline for you. I promise.",
+      "prompt": "What action depends on a future condition?",
+      "choices": [
+        "The luggage was bought yesterday.",
+        "The speaker will contact the airline if the luggage does not arrive.",
+        "The airline has already delivered the luggage."
+      ],
+      "answerIndex": 1,
+      "feedback": "Will contact expresses a promise conditional on the luggage not arriving."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The children have already chosen their costumes. They are going to perform in the school hall.",
+      "prompt": "Type the four-word verb phrase immediately after “They”.",
+      "acceptedAnswers": [
+        "are going to perform"
+      ],
+      "feedback": "Are going to perform reports a previously formed intention."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "If the circuit overheats, the protection relay will disconnect the supply.",
+      "prompt": "Type the two-word verb phrase immediately after “relay”.",
+      "acceptedAnswers": [
+        "will disconnect"
+      ],
+      "feedback": "Will disconnect states the expected consequence of overheating."
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u072",
+  "title": "Advanced Comparative and Superlative Choices",
+  "level": "C1",
+  "topicId": "eg3-u072-comparative-and-superlative-forms",
+  "summary": "Select comparative and superlative forms according to adjective structure, meaning and emphasis; distinguish superlative ranking from degree uses of most and choose the, of and in accurately.",
+  "learningObjectives": [
+    "Recognise when more + adjective is preferred even where an -er form might seem possible.",
+    "Use more/less with participial, -ful and -less adjectives while recognising genuine two-syllable variation.",
+    "Distinguish superlative ranking from formal intensifying most and apply articles appropriately.",
+    "Select of for a named comparison group and in for a setting or location."
+  ],
+  "explanation": [
+    {
+      "heading": "Comparative endings are not a mechanical length rule",
+      "body": "Short adjectives usually form comparisons with -er, and many longer adjectives use more/less. However, adjectives such as tired, bored, worried and surprised favour more because of their participial forms, while fun, right, wrong and real are normally compared with more. When contrasting two qualities rather than two people or things, more + adjective is appropriate even for short words: more brave than prudent.",
+      "example": "The second instruction was more confusing than the first, but the speaker sounded more angry than disappointed."
+    },
+    {
+      "heading": "Variation and exceptions with two-syllable adjectives",
+      "body": "Many participial adjectives and adjectives ending in -ful or -less favour more/less: more reliable, more helpful, less careless. Some two-syllable adjectives, especially those ending in -y, -ow and -er, allow inflected forms; some permit a more construction as well, with usage varying by word and style. Narrower and more narrow may both be possible, while carefuller is not standard. Avoid treating any two-syllable adjective as automatically flexible.",
+      "example": "The side entrance is narrower than the main entrance, and the staff are more careful than before."
+    },
+    {
+      "heading": "Adjectives expressing completeness or uniqueness",
+      "body": "Words such as complete, equal, perfect and unique commonly state a limit or category rather than a smooth scale. Bare comparative and superlative forms are often avoided in literal descriptions. In special rhetorical or qualified uses, expressions such as more nearly complete, less perfect or more unique may have a defensible meaning; judge the context rather than declaring every graded use impossible.",
+      "example": "Of the two archives, the second is more nearly complete."
+    },
+    {
+      "heading": "Superlatives, articles and degree uses of most",
+      "body": "A ranking superlative generally uses the or a possessive: the quietest room, our most successful campaign. In informal predicates and questions, the can sometimes be omitted when the comparison remains clear, especially at sentence end. In contrast, most without the can intensify an adjective or adverb in a formal register, meaning very rather than number one. Do not interpret This is most helpful as a claim that nothing is more helpful.",
+      "example": "Your explanation was most helpful, but it was not the most detailed explanation in the folder."
+    },
+    {
+      "heading": "Choosing of and in with comparison groups",
+      "body": "Use of before a particular set or plural noun phrase whose members are being compared, as in the fastest of the four runners. Use in to name a place or domain, as in the fastest runner in the region. An of-phrase may precede the main clause for emphasis: Of the four candidates, Mei was the most experienced. The comparison class determines the choice.",
+      "example": "Lena was the most experienced of our five applicants and the youngest manager in the organisation."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Comparing two qualities versus comparing instances",
+      "left": {
+        "label": "Two qualities: more + adjective",
+        "example": "The reply was more blunt than helpful.",
+        "note": "More blunt compares bluntness with helpfulness in the same reply."
+      },
+      "right": {
+        "label": "Two instances: -er may be natural",
+        "example": "The second reply was blunter than the first.",
+        "note": "Blunter compares the same property across two replies."
+      }
+    },
+    {
+      "title": "Ranking superlative versus degree intensifier",
+      "left": {
+        "label": "Ranking: the most + adjective",
+        "example": "That was the most useful diagram in the report.",
+        "note": "The diagram is ranked against others."
+      },
+      "right": {
+        "label": "Degree: most + adjective",
+        "example": "Your feedback was most useful.",
+        "note": "Here most is a formal alternative to very and does not establish a ranking."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The revised plan is more realistic than the initial proposal.",
+      "note": "A longer adjective generally takes more in a comparative."
+    },
+    {
+      "sentence": "She felt more relieved than surprised when the results arrived.",
+      "note": "Participle-derived adjectives naturally take more to compare two reactions."
+    },
+    {
+      "sentence": "The western corridor is narrower than the eastern one.",
+      "note": "Narrower is a conventional inflected comparative."
+    },
+    {
+      "sentence": "The lecturer was most generous with feedback.",
+      "note": "Without the, most can be a formal intensifier meaning very."
+    },
+    {
+      "sentence": "It is the safest of the six routes and the safest route in the valley.",
+      "note": "Of introduces a particular set; in specifies a place."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "This is a carefuller procedure than the previous one.",
+      "correct": "This is a more careful procedure than the previous one.",
+      "why": "Careful generally takes more, not carefuller."
+    },
+    {
+      "incorrect": "The committee was more bored than interested, but I think it was boreder than yesterday.",
+      "correct": "The committee was more bored than interested, but I think it was more bored than yesterday.",
+      "why": "Participial bored takes more in both comparisons."
+    },
+    {
+      "incorrect": "Of the four versions, this is most accurate.",
+      "correct": "Of the four versions, this is the most accurate.",
+      "why": "A ranking among four versions normally takes the."
+    },
+    {
+      "incorrect": "It was the quietest room of the building.",
+      "correct": "It was the quietest room in the building.",
+      "why": "Use in with a location or building; of introduces a specific set being compared."
+    }
+  ],
+  "studyTips": [
+    "Sort adjective cards into -er/-est, more/most, and context-dependent groups, then test examples from each group.",
+    "For a sentence containing most, ask whether it ranks alternatives or simply expresses a strong positive degree.",
+    "Practise three superlatives using of the five ... and three using in the ..., checking the comparison group each time."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the standard comparative of careful in this sentence: \"The updated checklist is ___ than the old one.\"",
+      "choices": [
+        "more careful",
+        "carefuller",
+        "carefuler"
+      ],
+      "answerIndex": 0,
+      "feedback": "Careful is a -ful adjective; more careful is the normal comparative."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The discussion was not really aggressive; instead it was ___ than productive. Choose the form comparing two qualities.",
+      "choices": [
+        "angrier",
+        "more angry",
+        "angriest"
+      ],
+      "answerIndex": 1,
+      "feedback": "More angry than productive compares two qualities of the discussion, not the anger of two discussions."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which expression correctly ranks a named set of four proposals?",
+      "choices": [
+        "the most economical in the four proposals",
+        "most economical of the four proposals",
+        "the most economical of the four proposals"
+      ],
+      "answerIndex": 2,
+      "feedback": "A specific group of four takes of; the ranking normally requires the."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "A colleague says, \"Your guidance was most useful.\" What does most mean in this formal sentence?",
+      "choices": [
+        "Very.",
+        "The only useful guidance available.",
+        "More useful than every other piece of guidance."
+      ],
+      "answerIndex": 0,
+      "feedback": "Without the, most useful can mean very useful rather than a ranking superlative."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The second schedule is ___ (reliable) than the first. Write the standard two-word comparative.",
+      "acceptedAnswers": [
+        "more reliable"
+      ],
+      "feedback": "More reliable is the normal comparative for this longer adjective."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The revised passage is ___ (narrow) than the original one. Write one natural comparative form; both standard alternatives are accepted.",
+      "acceptedAnswers": [
+        "narrower",
+        "more narrow"
+      ],
+      "feedback": "Both narrower and more narrow are possible here, with narrower more usual."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "This is the least expensive option ___ the entire catalogue. Write the preposition naming the larger setting.",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "feedback": "In identifies the catalogue as the domain in which the comparison applies."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Of our six available rooms, this is ___ (quiet) one. Write the whole ranking phrase with the and a superlative.",
+      "acceptedAnswers": [
+        "the quietest"
+      ],
+      "feedback": "The quietest identifies the one room ranked above the other five."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: This is a helpfuller suggestion than the one we received yesterday.",
+      "acceptedAnswers": [
+        "This is a more helpful suggestion than the one we received yesterday."
+      ],
+      "feedback": "Helpful takes more rather than the nonstandard form helpfuller."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence to express a ranking: This is most efficient design of the seven we examined.",
+      "acceptedAnswers": [
+        "This is the most efficient design of the seven we examined."
+      ],
+      "feedback": "A comparative ranking among seven designs normally needs the most."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the preposition: The auditor was the most experienced in the four applicants.",
+      "acceptedAnswers": [
+        "The auditor was the most experienced of the four applicants."
+      ],
+      "feedback": "Of identifies the specific group of applicants being compared."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The smallest laboratory of the research centre is on the ground floor.",
+      "acceptedAnswers": [
+        "The smallest laboratory in the research centre is on the ground floor."
+      ],
+      "feedback": "In introduces the institutional location; of would fit a plural set such as of the five laboratories."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Compare the two methods. Facts: The new method / be / more reliable / than the old method. Use a complete sentence.",
+      "acceptedAnswers": [
+        "The new method is more reliable than the old method."
+      ],
+      "feedback": "Reliable normally takes more in the comparative."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Compare two feelings, not two people. Facts: I / be / more relieved / than excited. Use a present-simple sentence.",
+      "acceptedAnswers": [
+        "I am more relieved than excited.",
+        "I'm more relieved than excited."
+      ],
+      "feedback": "More relieved than excited compares the intensity of two reactions."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say that a second bridge is narrower. Facts: The second bridge / be / narrower / than the first bridge.",
+      "acceptedAnswers": [
+        "The second bridge is narrower than the first bridge."
+      ],
+      "feedback": "Narrower is a standard inflected comparative."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Rank a set of five designs. Facts: This / be / the most practical / of the five designs.",
+      "acceptedAnswers": [
+        "This is the most practical of the five designs."
+      ],
+      "feedback": "A ranking needs the most and of for the named group."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Use a superlative with a location. Facts: This / be / the quietest office / in the building.",
+      "acceptedAnswers": [
+        "This is the quietest office in the building."
+      ],
+      "feedback": "In names the building in which the comparison holds."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Express strong appreciation without a ranking. Say exactly: Your suggestion / be / most helpful. Use the past simple.",
+      "acceptedAnswers": [
+        "Your suggestion was most helpful."
+      ],
+      "feedback": "Most helpful without the is a formal way to say very helpful."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this sentence aloud: \"The revised plan is carefuller than the first plan.\"",
+      "acceptedAnswers": [
+        "The revised plan is more careful than the first plan."
+      ],
+      "feedback": "More careful is the normal comparative."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two sentences in order. Named group: Maya / be / the oldest / of the four trainees. Location: She / be / the youngest coordinator / in the centre. Use the present simple.",
+      "acceptedAnswers": [
+        "Maya is the oldest of the four trainees. She is the youngest coordinator in the centre."
+      ],
+      "feedback": "Of names an explicit set; in names the centre as a domain."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The first plan was clearer, but the second plan was more realistic about costs.",
+      "prompt": "How is the second plan described?",
+      "choices": [
+        "It uses fewer pages.",
+        "It is more realistic about expenses.",
+        "It is both shorter and cheaper."
+      ],
+      "answerIndex": 1,
+      "feedback": "The comparison more realistic about costs describes the second plan."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Nora was more worried than disappointed when the gate remained shut.",
+      "prompt": "Which feeling was stronger?",
+      "choices": [
+        "Disappointment.",
+        "Excitement.",
+        "Worry."
+      ],
+      "answerIndex": 2,
+      "feedback": "More worried than disappointed contrasts two emotional qualities."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The northern path is narrower than the southern path after the bridge.",
+      "prompt": "Transcribe the two-word comparative phrase immediately after \"is\".",
+      "acceptedAnswers": [
+        "narrower than"
+      ],
+      "feedback": "Narrower than compares the widths of the two paths."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The final sample was the most accurate of the five samples tested.",
+      "prompt": "What comparison group does the speaker specify?",
+      "choices": [
+        "Five tested samples.",
+        "All samples produced worldwide.",
+        "Samples stored in one particular city."
+      ],
+      "answerIndex": 0,
+      "feedback": "Of the five samples tested names the explicit set."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The technician said, \"Your instructions were most helpful,\" although other instructions were available.",
+      "prompt": "What does the technician definitely communicate?",
+      "choices": [
+        "These were proven to be the best instructions of all.",
+        "The instructions were very helpful.",
+        "No one else had supplied instructions."
+      ],
+      "answerIndex": 1,
+      "feedback": "Most helpful can express a strong degree of appreciation without a superlative ranking."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Of the six buildings on campus, the library is the tallest; the newest café is the busiest place in the courtyard.",
+      "prompt": "Which preposition introduces the set of six buildings?",
+      "choices": [
+        "In.",
+        "At.",
+        "Of."
+      ],
+      "answerIndex": 2,
+      "feedback": "Of introduces a defined comparison set; in then locates the busy café within the courtyard."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The new instructions are more helpful than the previous instructions.",
+      "prompt": "Transcribe the three-word comparison beginning with \"more\".",
+      "acceptedAnswers": [
+        "more helpful than"
+      ],
+      "feedback": "More helpful than is the normal construction with an adjective ending in -ful."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "This is the least expensive model in the catalogue.",
+      "prompt": "Transcribe the three-word superlative phrase immediately following \"is\".",
+      "acceptedAnswers": [
+        "the least expensive"
+      ],
+      "feedback": "The least expensive expresses the lowest degree of expense among models."
+    }
+  ]
+}

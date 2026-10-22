@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u095",
+  "title": "Existential There: Introducing, Quantifying and Connecting Information",
+  "level": "C1",
+  "topicId": "eg3-u095-there-is-there-was",
+  "summary": "Use existential there to introduce people, events and situations; extend the construction with modals and other verbs; choose agreement in lists; build clauses after an introduced noun; and recognise formal there being clauses that give a reason.",
+  "learningObjectives": [
+    "Introduce previously unmentioned people, things and events with existential there and appropriately indefinite noun phrases.",
+    "Extend there constructions with tenses, modals, reporting-like verbs and verbs of emergence or continuation.",
+    "Select singular or plural agreement from the following noun, including a mixed list, while recognising informal usage.",
+    "Use noun modifiers and formal there being clauses without omitting essential relative subjects or confusing clause functions."
+  ],
+  "explanation": [
+    {
+      "heading": "Introducing existence rather than identifying a known subject",
+      "body": "Existential there places a newly introduced person, object, event or condition after a form of be. The noun phrase is often indefinite: a visitor, several concerns, no evidence or somebody. The grammatical there does not refer to a location; a separate location phrase can follow. Use an ordinary subject-first sentence when talking about a specific, already identified person or thing. A definite noun phrase can follow there in special discourse uses, for example when bringing an already-known issue back into focus; this is not the neutral first-mention pattern.",
+      "example": "There is an unfamiliar name on the attendance sheet, but the name beside mine is already familiar."
+    },
+    {
+      "heading": "Beyond there is: tense, modals and other verbs",
+      "body": "There combines with different forms of be and with auxiliaries or modals: there had been, there could be and there will have been. It can also precede seem, appear, tend or be expected to with an infinitive of be. In relatively formal narration, verbs such as arise, remain, emerge and exist may follow existential there directly. Choose the form that expresses time, likelihood or the nature of the development; do not add a second finite verb after a modal.",
+      "example": "There may have been a misunderstanding, and there appears to be a practical way forward."
+    },
+    {
+      "heading": "Agreement and lists with more than one noun",
+      "body": "In careful English, the form of be generally agrees with the noun phrase immediately after it: there is one issue; there are several issues. When a list follows, the first item usually guides agreement: there was a map, two leaflets and a ticket; there were two leaflets, a map and a ticket. Informal speech frequently uses contracted there's before a plural noun, but that does not make it the best choice in edited or formal writing.",
+      "example": "There were three drawings, a model and an invoice inside the portfolio."
+    },
+    {
+      "heading": "Expanding the noun phrase after there",
+      "body": "The introduced noun may be followed by a relative clause, an infinitive clause, an -ing phrase or a content clause. These additions identify or describe what exists: someone who can guide us; a form to complete; a child waiting outside; no indication that the policy changed. If the relative pronoun is the subject of a finite relative clause, it normally cannot be omitted: someone who knows the answer, not someone knows the answer.",
+      "example": "There is a volunteer who checks the doors and a checklist to complete before departure."
+    },
+    {
+      "heading": "Formal there being clauses for circumstances or reasons",
+      "body": "A non-finite there being clause can present a circumstance that explains a later action, especially in formal written English: There being no further evidence, the hearing ended. This construction does not behave like an independent finite sentence and should attach clearly to the main clause. In everyday conversation, because there was or since there were is often more natural. Use it sparingly rather than replacing every ordinary reason clause.",
+      "example": "There being insufficient daylight, the survey team returned to the base camp."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Presenting new information versus locating a known thing",
+      "left": {
+        "label": "Existential first mention",
+        "example": "There is a sealed parcel at reception.",
+        "note": "A parcel is introduced into the conversation."
+      },
+      "right": {
+        "label": "Identified subject",
+        "example": "The sealed parcel is at reception.",
+        "note": "A particular parcel is already identifiable to the listener."
+      }
+    },
+    {
+      "title": "Agreement follows the opening item in a list",
+      "left": {
+        "label": "Singular first item",
+        "example": "There was a folder, several photos and a note in the bag.",
+        "note": "The first noun phrase, a folder, is singular."
+      },
+      "right": {
+        "label": "Plural first item",
+        "example": "There were several photos, a folder and a note in the bag.",
+        "note": "The first noun phrase, several photos, is plural."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "There have been several revisions since the first draft.",
+      "note": "The existential structure can take the present perfect to connect earlier changes to now."
+    },
+    {
+      "sentence": "There seems to be a discrepancy between the two totals.",
+      "note": "Seems to be presents an apparent condition without claiming certainty."
+    },
+    {
+      "sentence": "There arose a serious dispute over access to the records.",
+      "note": "Arose replaces be in a formal narrative to describe an event coming into existence."
+    },
+    {
+      "sentence": "There is a technician waiting by the loading bay.",
+      "note": "The -ing phrase specifies which newly introduced technician is meant."
+    },
+    {
+      "sentence": "There being no alternative route, the delivery was rescheduled.",
+      "note": "The non-finite opening clause gives the reason for the main-clause decision."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "There is several unanswered questions in the survey.",
+      "correct": "There are several unanswered questions in the survey.",
+      "why": "In careful writing, use are with the plural noun phrase several unanswered questions."
+    },
+    {
+      "incorrect": "There might has been a mistake in the record.",
+      "correct": "There might have been a mistake in the record.",
+      "why": "After a modal such as might, the perfect construction begins with the base form have."
+    },
+    {
+      "incorrect": "There is a coordinator works overnight in this building.",
+      "correct": "There is a coordinator who works overnight in this building.",
+      "why": "A finite relative clause needs a subject; who cannot be omitted when it performs that role."
+    },
+    {
+      "incorrect": "There being no empty seats, so the visitors stood outside.",
+      "correct": "There being no empty seats, the visitors stood outside.",
+      "why": "A formal there being clause attaches to a main clause without the extra coordinating so."
+    }
+  ],
+  "studyTips": [
+    "For each paragraph, mark whether a noun phrase is new to the discourse or already identifiable before choosing there or a subject-first order.",
+    "Write pairs that reorder a singular and plural item in a list; check whether the form of be changes in careful English.",
+    "Practise turning a full because there was clause into a concise there being clause, then decide which suits a formal report."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly introduces one previously unmentioned item in the cupboard?",
+      "choices": [
+        "There are a spare adapter in the cupboard.",
+        "There is a spare adapter in the cupboard.",
+        "There be a spare adapter in the cupboard."
+      ],
+      "answerIndex": 1,
+      "feedback": "There is agrees with the singular noun a spare adapter and naturally introduces a new item."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the grammatically correct possibility about an earlier booking error.",
+      "choices": [
+        "There might have been an error.",
+        "There might has been an error.",
+        "There might had been an error."
+      ],
+      "answerIndex": 0,
+      "feedback": "Might is followed by the bare infinitive have: there might have been."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Complete a formal inventory description: \"There ___ a tablet, four chargers and a case on the desk.\"",
+      "choices": [
+        "were",
+        "be",
+        "was"
+      ],
+      "answerIndex": 2,
+      "feedback": "In a mixed list, formal agreement normally follows the first noun phrase, a tablet: there was."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which opening creates a complete, formal sentence? \"___ no further objections, the committee approved the proposal.\"",
+      "choices": [
+        "There were",
+        "There being",
+        "There are"
+      ],
+      "answerIndex": 1,
+      "feedback": "There being forms a non-finite reason clause attached to the main clause; there were or there are would create a comma splice."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "At yesterday's review, there ___ (appear) to be an inconsistency in the totals. Use the past simple.",
+      "acceptedAnswers": [
+        "appeared"
+      ],
+      "feedback": "There appeared to be presents the inconsistency as something that seemed to exist at that past time."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "There ___ (be) two unexplained entries in the current report. Write the present-simple form of be.",
+      "acceptedAnswers": [
+        "are"
+      ],
+      "feedback": "The following noun phrase, two unexplained entries, is plural, so use are."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "There ___ (can / be) more than one sensible solution. Write the modal and verb together.",
+      "acceptedAnswers": [
+        "can be"
+      ],
+      "feedback": "There can be expresses the possibility of more than one solution, with a base-form be after can."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "When the inspection ended last night, there ___ (be) nothing left to check. Use the past simple.",
+      "acceptedAnswers": [
+        "was"
+      ],
+      "feedback": "Nothing is treated as singular here, so the past form is there was nothing."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence for careful written English: There is several chairs left in the hall.",
+      "acceptedAnswers": [
+        "There are several chairs left in the hall."
+      ],
+      "feedback": "The plural noun chairs requires there are."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: There must has been a change to the timetable.",
+      "acceptedAnswers": [
+        "There must have been a change to the timetable."
+      ],
+      "feedback": "Must takes the base form have before been."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence without changing the meaning: There is a student knows the entrance code.",
+      "acceptedAnswers": [
+        "There is a student who knows the entrance code."
+      ],
+      "feedback": "Who supplies the required subject of the finite relative clause knows."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence, using the formal opening: There being no available rooms, so the class moved online.",
+      "acceptedAnswers": [
+        "There being no available rooms, the class moved online."
+      ],
+      "feedback": "The introductory there being clause already expresses the reason; remove so."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Introduce a new fact. Facts: a message / on the noticeboard. Start with \"There\" and use the present simple.",
+      "acceptedAnswers": [
+        "There is a message on the noticeboard.",
+        "There's a message on the noticeboard."
+      ],
+      "feedback": "There is introduces a previously unmentioned message."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask whether any visitors are in the lobby. Begin with \"Are\" and use existential there.",
+      "acceptedAnswers": [
+        "Are there any visitors in the lobby?"
+      ],
+      "feedback": "The existential question inverts the verb and there: Are there ...?"
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Express uncertainty about an earlier error. Facts: there / might / have been / an error. Say one complete sentence.",
+      "acceptedAnswers": [
+        "There might have been an error."
+      ],
+      "feedback": "Might have been expresses a possible occurrence in the past."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Describe an apparent problem. Facts: there / appear / to be / a problem. Use the present simple.",
+      "acceptedAnswers": [
+        "There appears to be a problem."
+      ],
+      "feedback": "There appears to be combines a present-tense assessment with the existential infinitive."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Describe a mixed list, using careful past-tense agreement. Facts: a notebook, three cards and a pen / on the table. Begin with \"There\".",
+      "acceptedAnswers": [
+        "There was a notebook, three cards and a pen on the table."
+      ],
+      "feedback": "A notebook comes first, so was is the careful singular form."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Correct this sentence aloud for careful English: \"There is two lockers beside the door.\"",
+      "acceptedAnswers": [
+        "There are two lockers beside the door."
+      ],
+      "feedback": "Use are to agree with two lockers."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Give a formal reason clause and result. Facts: no further questions / the chair ended the session. Start with \"There being\".",
+      "acceptedAnswers": [
+        "There being no further questions, the chair ended the session."
+      ],
+      "feedback": "The non-finite clause presents the lack of questions as the reason for ending the session."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two sentences in this order, using full forms. First mention: a sculpture / in the foyer. Known object: the sculpture / made of glass.",
+      "acceptedAnswers": [
+        "There is a sculpture in the foyer. The sculpture is made of glass."
+      ],
+      "feedback": "Use there is for the new referent, then a normal subject for the sculpture already introduced."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "There was one notice on the entrance door, but there were several messages on the information board.",
+      "prompt": "According to the recording, where were multiple messages displayed?",
+      "choices": [
+        "On the entrance door",
+        "On the information board",
+        "On both surfaces equally"
+      ],
+      "answerIndex": 1,
+      "feedback": "The audio contrasts one notice on the door with several messages on the board."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "There appears to be a fault in the booking system, although no appointments have been lost.",
+      "prompt": "What degree of certainty does the speaker express about a fault?",
+      "choices": [
+        "A fault seems possible but is not confirmed",
+        "A fault has been ruled out",
+        "A fault has been confirmed beyond doubt"
+      ],
+      "answerIndex": 0,
+      "feedback": "Appears to be indicates an apparent fault rather than proof."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "We checked the calendar twice. There might be a conflict on Thursday.",
+      "prompt": "Transcribe the five-word expression beginning with \"there\" that expresses a possible problem.",
+      "acceptedAnswers": [
+        "there might be a conflict"
+      ],
+      "feedback": "There might be a conflict uses the modal might to signal uncertainty."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "There is a printer, three desks and a cabinet in the back office.",
+      "prompt": "Which item is mentioned first in the list?",
+      "choices": [
+        "Three desks",
+        "A cabinet",
+        "A printer"
+      ],
+      "answerIndex": 2,
+      "feedback": "A printer comes first, which also explains the singular existential verb is."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "There being no available interpreters, the discussion was postponed until Monday.",
+      "prompt": "Why was the discussion postponed?",
+      "choices": [
+        "The participants had not arrived",
+        "No interpreters were available",
+        "The agenda had already been completed"
+      ],
+      "answerIndex": 1,
+      "feedback": "The introductory there being clause supplies the reason for postponement."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "There will have been four inspections by the end of the month; two have already taken place.",
+      "prompt": "How many inspections will have occurred by the end of the month?",
+      "choices": [
+        "Four",
+        "Two",
+        "Six"
+      ],
+      "answerIndex": 0,
+      "feedback": "Four is the projected cumulative number; two refers only to those already completed."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "After the files were checked, there remained one unanswered question.",
+      "prompt": "Transcribe the clause beginning with \"there\" that describes what was left.",
+      "acceptedAnswers": [
+        "there remained one unanswered question"
+      ],
+      "feedback": "There remained introduces the one question still unresolved."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Is there anybody in the conference room, or has everyone already left?",
+      "prompt": "Transcribe the opening question up to and including \"conference room\".",
+      "acceptedAnswers": [
+        "is there anybody in the conference room"
+      ],
+      "feedback": "The recording begins with an existential question about whether someone is present."
+    }
+  ]
+}

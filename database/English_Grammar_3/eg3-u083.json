@@ -1,0 +1,410 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u083",
+  "title": "Real, Unreal and Dependent Conditionals",
+  "level": "C1",
+  "topicId": "eg3-u083-if-real-and-unreal-conditionals",
+  "summary": "Use real and unreal if-clauses to express future possibilities, general rules, imagined situations and dependence on other circumstances. Contrast simple and perfect forms in if-clauses, use imperatives for conditional advice, and choose were to, if it were not for, or if it had not been for when their meanings fit.",
+  "learningObjectives": [
+    "Form realistic future and general conditionals with an appropriate present form in the if-clause and a suitable result or imperative.",
+    "Use the present perfect in a conditional clause to make prior completion or a possible past event relevant to a future consequence.",
+    "Distinguish speculative were to conditionals from past-simple unreal conditions, particularly with verbs describing states.",
+    "Express present and past dependence accurately with if it were not for, if it had not been for and but for."
+  ],
+  "explanation": [
+    {
+      "heading": "Real conditions: future possibilities and instructions",
+      "body": "For a genuine future possibility, an if-clause normally uses a present form rather than predictive will. The main clause can contain will, a different future form, a modal or an imperative. In conversation, be going to is also possible inside the if-clause when it describes an existing intention. An imperative makes conditional advice or an instruction direct.",
+      "example": "If the electrician arrives before lunch, ask her to check the circuit breakers."
+    },
+    {
+      "heading": "General conditions: if can approach when",
+      "body": "An if-clause may describe a condition that routinely produces the same result. With present forms in both clauses, if can mean something close to whenever, without necessarily claiming that every occasion is known in advance. Distinguish these general rules from one-off future predictions.",
+      "example": "If the humidity rises above the set limit, the controller starts a warning cycle."
+    },
+    {
+      "heading": "Present perfect: completion or a possible earlier event",
+      "body": "The present perfect in an if-clause can emphasise that an action must be completed before another event or deadline. It can also refer to an event that may already have happened, making its consequences relevant now or later. If the action is simply a future possibility, the present simple is often equally natural; avoid treating present perfect as compulsory.",
+      "example": "If the laboratory has received the samples by Wednesday, we will start the analysis on Thursday."
+    },
+    {
+      "heading": "Unreal conditions: past forms and were to",
+      "body": "Unreal future conditions often combine if + past simple with would + infinitive. For a remote or imagined future development, if + subject + were to + infinitive can sound more hypothetical. However, were to is generally unnatural with stative verbs such as know, belong and understand when these express an existing state. In those cases use an ordinary past form.",
+      "example": "If the bridge were to close unexpectedly, the buses would take the coastal road."
+    },
+    {
+      "heading": "Dependence on another circumstance",
+      "body": "If it were not for + noun phrase identifies a present circumstance that prevents a different present result; if it had not been for refers to a past circumstance and typically accompanies a past counterfactual result. But for + noun phrase often expresses the same dependence, especially in more formal language. Were it not for and had it not been for are formal inverted alternatives, developed further in the next unit.",
+      "example": "If it had not been for the night guard, the flooding would have remained unnoticed until morning."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A real prospect and a remote hypothetical future",
+      "left": {
+        "label": "Real possibility",
+        "example": "If the funding arrives, we will extend the programme.",
+        "note": "The speaker treats the arrival as an open future possibility."
+      },
+      "right": {
+        "label": "Remote possibility",
+        "example": "If the funding were to disappear, we would suspend the programme.",
+        "note": "Were to emphasises an imagined or unlikely future change."
+      }
+    },
+    {
+      "title": "Future completion and a possible past event",
+      "left": {
+        "label": "Completion before a deadline",
+        "example": "If you have signed the agreement by Tuesday, we can reserve the room.",
+        "note": "Signing must be complete before the stated point."
+      },
+      "right": {
+        "label": "An event that may already have happened",
+        "example": "If I have misunderstood the instructions, please correct me.",
+        "note": "The speaker is uncertain whether an earlier misunderstanding occurred."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "If you are going to repaint the hallway, cover the floor first.",
+      "note": "A conversational be going to clause concerns an existing intention; the imperative gives advice."
+    },
+    {
+      "sentence": "If a passenger presses the emergency button, the driver receives an alert.",
+      "note": "Two present forms express a general conditional rule."
+    },
+    {
+      "sentence": "If the technician has completed the calibration, we can run the final check.",
+      "note": "The perfect highlights a task completed before the next step."
+    },
+    {
+      "sentence": "If she knew the combination, she would open the cabinet.",
+      "note": "Know is a state; a past-simple form is more natural than were to know here."
+    },
+    {
+      "sentence": "But for the swift evacuation, the casualties would have been much higher.",
+      "note": "But for identifies a past factor that prevented a worse imagined outcome."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "If the shipment will arrive tomorrow, we will inspect it immediately.",
+      "correct": "If the shipment arrives tomorrow, we will inspect it immediately.",
+      "why": "A straightforward future condition normally uses the present simple, not predictive will."
+    },
+    {
+      "incorrect": "If the technician have finished the inspection, we can restart the system.",
+      "correct": "If the technician has finished the inspection, we can restart the system.",
+      "why": "The third-person singular subject requires has in the present perfect."
+    },
+    {
+      "incorrect": "If I were to knew the answer, I would tell you.",
+      "correct": "If I knew the answer, I would tell you.",
+      "why": "Know is a state here; use knew for the hypothetical condition rather than were to knew."
+    },
+    {
+      "incorrect": "If it were not for the warning yesterday, we would have missed the fault.",
+      "correct": "If it had not been for the warning yesterday, we would have missed the fault.",
+      "why": "The warning is a past event and the result is counterfactual in the past, so use had not been for."
+    }
+  ],
+  "studyTips": [
+    "Create three versions of a workplace rule: a general if-condition, a one-off future possibility, and an instruction with an imperative.",
+    "Compare If I have made a mistake with If I make a mistake, and explain whether the uncertainty concerns an earlier action or a future one.",
+    "Retell one imagined disruption using were to, then rewrite a past near-miss using if it had not been for."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the most natural future result: \"The gallery ___ if the safety certificate arrives by Friday.\"",
+      "choices": [
+        "will reopen",
+        "reopened",
+        "would have reopened"
+      ],
+      "answerIndex": 0,
+      "feedback": "Will reopen expresses a likely future result; the if-clause already uses present simple."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The supervisor wants to check that a task is complete before allowing the next step: \"If you ___ the forms by midday, send them to reception.\"",
+      "choices": [
+        "will have signed",
+        "have signed",
+        "had signed"
+      ],
+      "answerIndex": 1,
+      "feedback": "Have signed emphasises completion before the midday deadline; a future-perfect form is not normally used here."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which verb describes a general rule? \"If the freezer temperature rises too far, the monitor ___ an alarm.\"",
+      "choices": [
+        "would have triggered",
+        "is going to have triggered",
+        "triggers"
+      ],
+      "answerIndex": 2,
+      "feedback": "Triggers is present simple, appropriate for a regular cause-and-effect relationship."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "\"If it ___ the donor’s intervention, the exhibition would have closed last winter.\"",
+      "choices": [
+        "had not been for",
+        "were not for",
+        "has not been for"
+      ],
+      "answerIndex": 0,
+      "feedback": "Had not been for identifies the past intervention that prevented the closure."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "\"If the committee ___ (approve) the proposal by Friday, we can begin on Monday.\" Write the present-perfect verb phrase.",
+      "acceptedAnswers": [
+        "has approved"
+      ],
+      "feedback": "Has approved makes approval completed before the Monday action."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "\"If I ___ (know) the access code, I would unlock the door.\" Write the past-simple form describing an unreal present state.",
+      "acceptedAnswers": [
+        "knew"
+      ],
+      "feedback": "Knew is the normal unreal past form of a state verb here."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "\"If the main server ___ (fail) during the conference, we would switch to the backup.\" Write the complete hypothetical phrase beginning \"were to\".",
+      "acceptedAnswers": [
+        "were to fail"
+      ],
+      "feedback": "Were to fail treats the possible breakdown as a remote imagined future event."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "\"If it ___ (not / be) for the volunteers, the shelter would be unable to open this week.\" Give the complete negative phrase in the past form.",
+      "acceptedAnswers": [
+        "were not",
+        "weren't"
+      ],
+      "feedback": "Were not (or weren’t) forms the unreal present condition in if it were not for."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the predictive form in this ordinary future conditional: \"If the courier will arrive before six, we will ship the parcel tonight.\"",
+      "acceptedAnswers": [
+        "If the courier arrives before six, we will ship the parcel tonight."
+      ],
+      "feedback": "In a neutral future conditional, use arrives after if."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the clause expressing an unreal present state: \"If I were to understood the instructions, I would explain them to you.\"",
+      "acceptedAnswers": [
+        "If I understood the instructions, I would explain them to you."
+      ],
+      "feedback": "For a state of understanding, use the past-simple unreal condition understood."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the time reference: \"If it were not for the early alert, we would have missed the deadline last month.\"",
+      "acceptedAnswers": [
+        "If it had not been for the early alert, we would have missed the deadline last month."
+      ],
+      "feedback": "The alert and prevented result belong to the past, so use had not been for."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct this past counterfactual: \"But for the quick response, the damage will have been much worse yesterday.\"",
+      "acceptedAnswers": [
+        "But for the quick response, the damage would have been much worse yesterday."
+      ],
+      "feedback": "Would have been expresses the unreal past result prevented by the response."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Predict the result using this exact information. Condition: the courier / arrive tomorrow. Result: we / confirm delivery. Start with \"If the courier\" and use will.",
+      "acceptedAnswers": [
+        "If the courier arrives tomorrow, we will confirm delivery.",
+        "If the courier arrives tomorrow, we'll confirm delivery."
+      ],
+      "feedback": "Arrives is present simple in the real future if-clause; will confirm is the future result."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Give a conditional instruction from these facts: you / notice an error; tell me immediately. Start with \"If you\".",
+      "acceptedAnswers": [
+        "If you notice an error, tell me immediately."
+      ],
+      "feedback": "Use the present simple for the condition and an imperative for the instruction."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Rephrase this general rule beginning with \"If\": \"Whenever the battery overheats, the device shuts down.\"",
+      "acceptedAnswers": [
+        "If the battery overheats, the device shuts down."
+      ],
+      "feedback": "A present-simple if-clause can express a condition that regularly causes a result."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Say that a past receipt may already be complete, using these exact facts: they / receive the package; we / can call them. Start with \"If they\" and use the present perfect.",
+      "acceptedAnswers": [
+        "If they have received the package, we can call them.",
+        "If they've received the package, we can call them."
+      ],
+      "feedback": "Have received expresses a completed event whose occurrence is still uncertain."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Describe a remote possibility. Facts: the tower / collapse; we / evacuate. Start with \"If the tower were to\".",
+      "acceptedAnswers": [
+        "If the tower were to collapse, we would evacuate.",
+        "If the tower were to collapse, we'd evacuate."
+      ],
+      "feedback": "Were to collapse introduces a remote possible future event, with would in the result."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Describe an unreal present state and its result. Facts: the architect / know the access code; the architect / unlock the door. Start with \"If the architect\".",
+      "acceptedAnswers": [
+        "If the architect knew the access code, the architect would unlock the door.",
+        "If the architect knew the access code, he would unlock the door."
+      ],
+      "feedback": "Knew is appropriate for unreal knowledge; would unlock expresses the imagined result."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Rewrite \"Without the grants, the theatre would close\" using the opening \"If it were not for\".",
+      "acceptedAnswers": [
+        "If it were not for the grants, the theatre would close.",
+        "If it weren't for the grants, the theatre would close."
+      ],
+      "feedback": "If it were not for expresses the theatre’s present dependence on the grants."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two separate sentences in order, using full forms. First: if / the alarm / ring, leave the building. Second: if it / not been for the guide, we / have got lost.",
+      "acceptedAnswers": [
+        "If the alarm rings, leave the building. If it had not been for the guide, we would have got lost."
+      ],
+      "feedback": "The first sentence gives a real conditional instruction; the second uses a past counterfactual dependence."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "If you see a red light on the panel, press the reset button and contact maintenance.",
+      "prompt": "What does the speaker tell the listener to do when the condition is met?",
+      "choices": [
+        "Ignore the warning until tomorrow.",
+        "Press reset and contact maintenance.",
+        "Replace the entire panel."
+      ],
+      "answerIndex": 1,
+      "feedback": "The imperative instruction follows a real if-condition: press reset and contact maintenance."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "If the payment has cleared by noon, we will release your tickets this afternoon.",
+      "prompt": "What must have happened before the tickets are released?",
+      "choices": [
+        "The tickets must have expired.",
+        "The payment must be made tomorrow.",
+        "The payment must already have cleared by noon."
+      ],
+      "answerIndex": 2,
+      "feedback": "Has cleared presents payment as complete before the later release."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "If the roads are icy, the buses run more slowly.",
+      "prompt": "Type the three-word subject-and-verb phrase immediately after the conditional clause.",
+      "acceptedAnswers": [
+        "the buses run"
+      ],
+      "feedback": "The buses run is the present-simple result of a general condition."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "If I were to inherit the warehouse, I would convert its upper floor into a gallery.",
+      "prompt": "How does the speaker present inheriting the warehouse?",
+      "choices": [
+        "As an imagined future possibility.",
+        "As a completed legal transfer.",
+        "As something that happens every year."
+      ],
+      "answerIndex": 0,
+      "feedback": "Were to inherit frames the inheritance as hypothetical rather than certain or completed."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "If it had not been for the neighbour’s warning, we would have missed the leaking pipe.",
+      "prompt": "What prevented the speakers from overlooking the problem?",
+      "choices": [
+        "A new pipe fitted last year.",
+        "The neighbour’s warning.",
+        "A routine inspection next month."
+      ],
+      "answerIndex": 1,
+      "feedback": "The past counterfactual identifies the neighbour’s warning as the preventing circumstance."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "If I have misunderstood your email, please let me know before the meeting.",
+      "prompt": "What is the speaker uncertain about?",
+      "choices": [
+        "Whether a new email will be sent.",
+        "Whether the meeting has been cancelled.",
+        "Whether an earlier misunderstanding occurred."
+      ],
+      "answerIndex": 2,
+      "feedback": "Have misunderstood refers to a possible earlier mistake, not a predicted misunderstanding."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "If you are going to replace the speakers, order new mounting brackets as well.",
+      "prompt": "Type the four-word verb phrase immediately after \"If you\".",
+      "acceptedAnswers": [
+        "are going to replace"
+      ],
+      "feedback": "Are going to replace expresses the existing plan and is audible as four words."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "But for the spare key, we would have been locked outside.",
+      "prompt": "Type the four-word verb phrase beginning with \"would\".",
+      "acceptedAnswers": [
+        "would have been locked"
+      ],
+      "feedback": "Would have been locked is the imagined past result that the spare key prevented."
+    }
+  ]
+}

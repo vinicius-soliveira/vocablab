@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u030",
+  "title": "Gerund Complements, Perception and Bare Infinitives",
+  "level": "C1",
+  "topicId": "eg3-u030-verb-ing-forms-and-infinitives-1",
+  "summary": "Choose precise complement patterns after verbs of attitude, prepositional verbs, perception and causation. Distinguish a possessive gerund from an object gerund, a preposition followed by -ing from a to-infinitive, and an ongoing perception from a completed one.",
+  "learningObjectives": [
+    "Use object + -ing and the more formal possessive + -ing when the -ing clause concerns a person.",
+    "Recognise that to in object to, admit to and look forward to is a preposition followed by a noun or -ing form.",
+    "Use suitable by, on, of and (from) + -ing frames after specific verbs rather than treating all complements alike.",
+    "Contrast perception verbs followed by object + -ing or a bare infinitive, and apply bare/to-infinitive rules after dare, help, have, let and make."
+  ],
+  "explanation": [
+    {
+      "heading": "A personal object or possessive can introduce an -ing clause",
+      "body": "Verbs of attitudes, memory or reaction can take a person as an object followed by -ing: resent her arriving late, remember him making a suggestion. A possessive determiner or possessive noun is also possible when the -ing expression refers to a person; this is often more formal: resent his arriving, or resent the supervisor’s arriving. In this construction, possessive forms are normally limited to references to people or groups rather than inanimate things. Keep the focus on who performs the -ing action.",
+      "example": "The reviewer disliked Maya interrupting the interview. / The reviewer disliked Maya’s interrupting the interview."
+    },
+    {
+      "heading": "To may be a preposition, not an infinitive marker",
+      "body": "In expressions such as object to, confess to, admit to, adapt to and look forward to, to is a preposition. If the next element is a verb, it takes the -ing form; the same preposition can also introduce an ordinary noun phrase. Compare object to delaying with object to a delay. An infinitive after to would change the structure and is not a direct replacement.",
+      "example": "The neighbours objected to extending the work into the evening."
+    },
+    {
+      "heading": "Other prepositions determine the form of the complement",
+      "body": "Several verbs select a particular preposition before an -ing complement. You can begin by negotiating, insist on reviewing the figures, or hear of an adviser resigning. Verbs such as discourage, prohibit and prevent can take object + from + -ing; with stop and prevent the from may sometimes be omitted in appropriate constructions. Learn these as verb-specific frames rather than adding a bare infinitive after the object.",
+      "example": "The new procedure prevented the valve from opening unexpectedly."
+    },
+    {
+      "heading": "Perception: unfolding activity versus a complete event",
+      "body": "After see, hear, watch, notice and related perception verbs, object + -ing commonly presents an activity under way, whereas object + bare infinitive can present the event as a whole. This is a difference in viewpoint, not a rigid difference in objective duration: context can allow both, so clarify the intended perspective when choosing between them. To-infinitives are not normally used in the same active perception pattern.",
+      "example": "From the hallway, I heard the musicians rehearsing; later I heard them finish the final piece."
+    },
+    {
+      "heading": "Dare, help and causative verb patterns",
+      "body": "Help and dare can appear with or without to in several contexts: help somebody (to) complete a task; dare (to) complain. When dare takes a direct personal object, the usual pattern is dare somebody to do something. In active causative structures, have, let and make take object + bare infinitive, not object + to-infinitive. The active pattern matters: a passive of make can require to, as in was made to wait.",
+      "example": "The coordinator made us repeat the test, but the assistant helped us to record the results."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Preposition to versus infinitive to",
+      "left": {
+        "label": "Preposition + -ing",
+        "example": "They admitted to overlooking the warning.",
+        "note": "Admitted to selects a gerund complement: to is not an infinitive marker."
+      },
+      "right": {
+        "label": "Infinitive after dare with an object",
+        "example": "She dared him to question the decision.",
+        "note": "Dared someone to do something selects an actual to-infinitive."
+      }
+    },
+    {
+      "title": "Perceiving an activity versus a whole event",
+      "left": {
+        "label": "Object + -ing: unfolding scene",
+        "example": "I saw Theo carrying the crates.",
+        "note": "The carrying was in progress at the moment observed."
+      },
+      "right": {
+        "label": "Object + bare infinitive: complete event",
+        "example": "I saw Theo carry the last crate inside.",
+        "note": "The observer presents the whole carrying event."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The moderator resented her colleague interrupting the session.",
+      "note": "An object pronoun or noun phrase can introduce the person performing the -ing action."
+    },
+    {
+      "sentence": "The moderator resented her colleague’s interrupting the session.",
+      "note": "A possessive before -ing presents a more formal variant of the personal gerund construction."
+    },
+    {
+      "sentence": "We look forward to discussing the proposal in person.",
+      "note": "To is a preposition and is followed by discussing, not discuss."
+    },
+    {
+      "sentence": "The new housing rules discouraged residents from leaving waste in the corridor.",
+      "note": "Discourage takes an affected object and from + -ing."
+    },
+    {
+      "sentence": "I watched the mechanic tighten every bolt, and then the supervisor let us leave.",
+      "note": "Tighten presents the entire action; let takes a bare infinitive after its object."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The committee objected to extend the deadline.",
+      "correct": "The committee objected to extending the deadline.",
+      "why": "To belongs to object to, so a verbal complement must be an -ing form."
+    },
+    {
+      "incorrect": "They prevented the cyclist to enter the tunnel.",
+      "correct": "They prevented the cyclist from entering the tunnel.",
+      "why": "Prevent normally takes object + from + -ing in this construction."
+    },
+    {
+      "incorrect": "The manager made everyone to repeat the calculation.",
+      "correct": "The manager made everyone repeat the calculation.",
+      "why": "Active causative make requires a bare infinitive after the object."
+    },
+    {
+      "incorrect": "The interviewer dared the applicant answer the question.",
+      "correct": "The interviewer dared the applicant to answer the question.",
+      "why": "With an object, dare somebody to do something normally takes a to-infinitive."
+    }
+  ],
+  "studyTips": [
+    "Highlight the complete trigger phrase, such as object to or prevent somebody from, before deciding whether the next verb takes -ing.",
+    "For an observed action, decide whether you are describing a scene in progress or presenting the whole event before choosing -ing or a bare infinitive.",
+    "Build a short contrast set: made me leave; let me leave; helped me (to) leave; dared me to leave."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The residents objected ___ the road until the emergency route was checked.",
+      "choices": [
+        "to closing",
+        "to close",
+        "close"
+      ],
+      "answerIndex": 0,
+      "feedback": "Object to contains a preposition and requires a verbal -ing complement."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which form explicitly presents the whole action, from start to finish, after “I saw the pilot ...”?",
+      "choices": [
+        "landing the aircraft",
+        "land the aircraft",
+        "to land the aircraft"
+      ],
+      "answerIndex": 1,
+      "feedback": "An object plus bare infinitive presents the complete event; landing normally foregrounds the ongoing activity."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The instructor dared the trainee ___ a question in front of the entire group.",
+      "choices": [
+        "ask",
+        "asking",
+        "to ask"
+      ],
+      "answerIndex": 2,
+      "feedback": "With a person as its object, dare normally takes a to-infinitive."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The supervisor had the contractor ___ the wiring again.",
+      "choices": [
+        "inspect",
+        "to inspect",
+        "inspecting"
+      ],
+      "answerIndex": 0,
+      "feedback": "Active causative have takes object + bare infinitive."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "We look forward to ___ (meet) the new coordinator next week. Supply the -ing form.",
+      "acceptedAnswers": [
+        "meeting"
+      ],
+      "feedback": "In look forward to, to is a preposition followed by meeting."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The safety barrier prevented the trolley from ___ (roll) down the slope. Supply the -ing form.",
+      "acceptedAnswers": [
+        "rolling"
+      ],
+      "feedback": "Prevent somebody or something from doing something selects from + -ing."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The technician heard the metal plate ___ (fall) to the floor from beginning to end. Supply the bare infinitive.",
+      "acceptedAnswers": [
+        "fall"
+      ],
+      "feedback": "Hear + object + bare infinitive can present the whole falling event."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The engineer helped us ___ (prepare) the demonstration. Supply the two-word to-infinitive.",
+      "acceptedAnswers": [
+        "to prepare"
+      ],
+      "feedback": "Help can be followed by object + to-infinitive, although a bare infinitive is also valid in the alternative pattern."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: Jonah admitted to hide the damaged component.",
+      "acceptedAnswers": [
+        "Jonah admitted to hiding the damaged component."
+      ],
+      "feedback": "Admit to takes a noun or -ing form, not this infinitive."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The director made the interns to wait outside.",
+      "acceptedAnswers": [
+        "The director made the interns wait outside."
+      ],
+      "feedback": "In the active causative, make takes object + bare infinitive."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We resented our colleague being give extra time.",
+      "acceptedAnswers": [
+        "We resented our colleague being given extra time."
+      ],
+      "feedback": "The passive gerund requires being + past participle: being given."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: I watched the whole performance to unfold from start to finish.",
+      "acceptedAnswers": [
+        "I watched the whole performance unfold from start to finish."
+      ],
+      "feedback": "Active watch + object uses a bare infinitive to present an event as a whole, not a to-infinitive."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Complete this workplace sentence aloud with the correct form of hear: “I look forward to ... from you.” Say the full sentence.",
+      "acceptedAnswers": [
+        "I look forward to hearing from you."
+      ],
+      "feedback": "Look forward to requires an -ing form after the preposition to."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "The board opposed reopening the case. Rephrase with objected to and keep the same meaning. Begin with “The board”.",
+      "acceptedAnswers": [
+        "The board objected to reopening the case."
+      ],
+      "feedback": "Object to is followed by reopening, a gerund."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Report that you witnessed the entire landing. Exact words: I / see / the pilot / land / the plane. Use past tense and a bare infinitive.",
+      "acceptedAnswers": [
+        "I saw the pilot land the plane."
+      ],
+      "feedback": "Saw the pilot land portrays the whole event."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Report that you glimpsed the landing while it was in progress. Exact words: I / see / the pilot / land / the plane. Use past tense and -ing.",
+      "acceptedAnswers": [
+        "I saw the pilot landing the plane."
+      ],
+      "feedback": "Saw the pilot landing focuses on an unfolding scene."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Correct the active causative aloud: “She made me to check the figures.”",
+      "acceptedAnswers": [
+        "She made me check the figures."
+      ],
+      "feedback": "Make + object takes a bare infinitive in the active voice."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Use the intended dare pattern: She / dare / him / ask a question. Say one complete sentence in the past.",
+      "acceptedAnswers": [
+        "She dared him to ask a question."
+      ],
+      "feedback": "Dare followed by a person takes to + infinitive."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Use the possessive his and a gerund to express this reaction: I / resent / he / take the credit. Say one sentence.",
+      "acceptedAnswers": [
+        "I resent his taking the credit."
+      ],
+      "feedback": "His is a possessive determiner introducing the -ing action taking the credit."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two grammatical variants with help, in this order, using full forms. First: I / help / her / revise the proposal, without to. Second: the same sentence with to.",
+      "acceptedAnswers": [
+        "I helped her revise the proposal. I helped her to revise the proposal."
+      ],
+      "feedback": "Help can be followed by a person and either a bare or to-infinitive."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The panel objected to postponing the vote, but it accepted a short break for discussion.",
+      "prompt": "What did the panel oppose?",
+      "choices": [
+        "A short break for discussion.",
+        "Postponing the vote.",
+        "Allowing more questions."
+      ],
+      "answerIndex": 1,
+      "feedback": "Objected to postponing identifies the action the panel opposed."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "From her desk, Mara watched the installer lift the door, carry it inside and set it down.",
+      "prompt": "How is the observed action presented?",
+      "choices": [
+        "As a complete sequence of events.",
+        "As an event Mara only imagined.",
+        "As an unfinished plan for tomorrow."
+      ],
+      "answerIndex": 0,
+      "feedback": "Watched the installer lift, carry and set down presents the observed sequence as a whole."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "I am looking forward to seeing the revised design at the review meeting.",
+      "prompt": "Type the five-word phrase beginning with “to” immediately after “forward”.",
+      "acceptedAnswers": [
+        "to seeing the revised design"
+      ],
+      "feedback": "Look forward to is followed by the gerund seeing."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The chairperson remembered her assistant asking for more preparation time at the previous meeting.",
+      "prompt": "Whose request did the chairperson remember?",
+      "choices": [
+        "Her own request.",
+        "A visitor’s request.",
+        "Her assistant’s request."
+      ],
+      "answerIndex": 2,
+      "feedback": "The assistant is the person performing the action asking."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The security guard made us wait until the alarm stopped.",
+      "prompt": "What did the guard cause the group to do?",
+      "choices": [
+        "Leave the building immediately.",
+        "Wait until the alarm stopped.",
+        "Repair the alarm themselves."
+      ],
+      "answerIndex": 1,
+      "feedback": "Made us wait uses a bare infinitive to express what the guard required."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I heard someone singing in the corridor, but I left before the song ended.",
+      "prompt": "What does “heard someone singing” emphasise?",
+      "choices": [
+        "An activity in progress.",
+        "A performance heard from beginning to end.",
+        "An instruction to start singing."
+      ],
+      "answerIndex": 0,
+      "feedback": "Singing presents an ongoing activity, and the speaker left before it finished."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "I object to paying the additional fee without a written explanation.",
+      "prompt": "Type the five-word phrase starting with “to” after “object”.",
+      "acceptedAnswers": [
+        "to paying the additional fee"
+      ],
+      "feedback": "The verbal complement after object to is the gerund paying."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The changes prevented the motor from overheating during the trial.",
+      "prompt": "Type the two-word phrase immediately after “motor”.",
+      "acceptedAnswers": [
+        "from overheating"
+      ],
+      "feedback": "Prevent takes from + -ing to express an event stopped from occurring."
+    }
+  ]
+}

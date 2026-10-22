@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u071",
+  "title": "Adjective–Adverb Forms and Changes in Meaning",
+  "level": "C1",
+  "topicId": "eg3-u071-adjectives-and-adverbs",
+  "summary": "Form adverbs appropriately, including when no ordinary -ly form exists, and interpret pairs such as hard/hardly, high/highly and late/lately without assuming that the two forms are interchangeable.",
+  "learningObjectives": [
+    "Choose natural expressions of manner for adjectives ending in -ly and for participial adjectives.",
+    "Use selected flat adverbs and their -ly equivalents with attention to register and position.",
+    "Distinguish adverb pairs whose meanings diverge, including hard/hardly, late/lately and high/highly.",
+    "Use context to select precise meanings for free/freely, direct/directly, most/mostly and short/shortly."
+  ],
+  "explanation": [
+    {
+      "heading": "When an adjective already ends in -ly",
+      "body": "Adjectives such as friendly, lively, lovely, lonely, elderly and cowardly already end in -ly. Adding another -ly is generally not the natural way to form a manner adverb. Express manner with an appropriate phrase, often in a ... way or in a ... manner. The wording should describe how an action is performed, not merely repeat the adjective.",
+      "example": "The volunteers greeted the visitors in a friendly way."
+    },
+    {
+      "heading": "Participial adjectives and manner expressions",
+      "body": "An adjective ending in -ed does not automatically produce a natural adverb by adding -ly. Depending on meaning, prefer a prepositional phrase such as in surprise, with relief, in a determined manner or with a puzzled expression. Nevertheless, established -ly words such as unexpectedly, hurriedly, determinedly, repeatedly and deservedly are possible. Decide by idiomatic usage, rather than banning all participle-based adverbs.",
+      "example": "She accepted the invitation with obvious relief, but her colleague responded unexpectedly."
+    },
+    {
+      "heading": "Flat adverbs and -ly alternatives",
+      "body": "A few manner adverbs have a form identical to the adjective. In some constructions, especially after a verb, forms such as quick, slow and loud can coexist with quickly, slowly and loudly, often with differences in informality. The -ly form is generally safer in careful formal prose, and certain positions strongly favour it: say She quickly checked the figures, not She quick checked the figures.",
+      "example": "The driver spoke quietly and asked everyone to move slowly."
+    },
+    {
+      "heading": "A small ending can change the meaning",
+      "body": "Many pairs are not stylistic alternatives: work hard means make a strong effort, whereas hardly work means almost not work; arrive late means after the expected time, while lately means recently; fly high refers to physical height, while highly often means to a great degree or with high regard. Similarly, deep can describe distance or depth, but deeply frequently intensifies an emotion or attitude.",
+      "example": "The team worked hard on the proposal, although the deadline had hardly changed."
+    },
+    {
+      "heading": "Interpret other paired forms in context",
+      "body": "Free can mean without payment and freely can mean without constraint; go direct identifies a route, whereas directly can mean straight or immediately depending on context. Most before an adjective or adverb can be formal intensification, whereas mostly means mainly. Shortly normally means soon, whereas short can describe limited distance, time or extent. Wide/widely, just/justly and near/nearly have similarly distinct conventional uses.",
+      "example": "Admission is free, but visitors cannot move freely through the restoration area."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Effort versus almost none",
+      "left": {
+        "label": "Hard: substantial effort",
+        "example": "The editors worked hard all weekend.",
+        "note": "They made a considerable effort."
+      },
+      "right": {
+        "label": "Hardly: almost not",
+        "example": "The editors hardly slept all weekend.",
+        "note": "They had almost no sleep; hardly does not mean with effort."
+      }
+    },
+    {
+      "title": "Literal height versus degree of regard",
+      "left": {
+        "label": "High: at a great height",
+        "example": "The drone was flying high above the bay.",
+        "note": "High refers to physical position."
+      },
+      "right": {
+        "label": "Highly: to a great degree",
+        "example": "The candidate was highly recommended.",
+        "note": "Highly intensifies the evaluation, not the altitude."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The nurse answered the question in a kindly manner.",
+      "note": "Kindly works as an adverb in its own right; a prepositional manner phrase is another natural option."
+    },
+    {
+      "sentence": "The visitors were visibly disappointed, but they replied with restraint.",
+      "note": "A phrase with a noun can express manner instead of inventing an adverb from disappointed."
+    },
+    {
+      "sentence": "The guide told us to walk slowly along the narrow path.",
+      "note": "Slowly is an unmarked adverb of manner in careful prose."
+    },
+    {
+      "sentence": "The composer is widely admired and deeply respected.",
+      "note": "Widely concerns the extent of recognition; deeply describes the intensity of respect."
+    },
+    {
+      "sentence": "The receptionist said the manager would return shortly.",
+      "note": "Shortly means soon, not for a brief physical distance."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The host greeted every guest friendlyly.",
+      "correct": "The host greeted every guest in a friendly way.",
+      "why": "Friendly is an adjective ending in -ly; a manner phrase is more idiomatic than friendlyly."
+    },
+    {
+      "incorrect": "I hardly studied for the examination, so I was exhausted from all the work.",
+      "correct": "I studied hard for the examination, so I was exhausted from all the work.",
+      "why": "Hard expresses effort; hardly would mean almost not at all."
+    },
+    {
+      "incorrect": "The climbers were highly above the valley.",
+      "correct": "The climbers were high above the valley.",
+      "why": "Physical height normally takes high, not highly."
+    },
+    {
+      "incorrect": "The journalist has published three articles late.",
+      "correct": "The journalist has published three articles lately.",
+      "why": "Lately expresses recently; late would indicate publication after the expected time."
+    }
+  ],
+  "studyTips": [
+    "Build contrast cards for hard/hardly, high/highly and late/lately; use one original context for each meaning.",
+    "For a difficult manner expression, try in a ... way or with + noun, then check whether an established adverb fits better.",
+    "Read a short report and circle -ly words that express degree or time rather than the manner of an action."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which sentence expresses a natural manner of greeting?",
+      "choices": [
+        "The organiser spoke friendlyly to the guests.",
+        "The organiser spoke to the guests in a friendly way.",
+        "The organiser spoke friendlilyly to the guests."
+      ],
+      "answerIndex": 1,
+      "feedback": "The established adjective friendly normally takes a manner phrase such as in a friendly way."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The negotiators made an enormous effort but achieved almost nothing. Choose the matching pair.",
+      "choices": [
+        "worked hardly; made hard any progress",
+        "worked hard; made hardly progress",
+        "worked hard; made hardly any progress"
+      ],
+      "answerIndex": 2,
+      "feedback": "Worked hard expresses effort, whereas hardly any expresses a very small amount."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The new researcher came with excellent references and was ___ regarded by the panel.",
+      "choices": [
+        "highly",
+        "high",
+        "heightly"
+      ],
+      "answerIndex": 0,
+      "feedback": "Highly regarded refers to favourable evaluation, not a physical height."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "The access card costs nothing, but guests may not explore the laboratories without restrictions. Which sentence fits?",
+      "choices": [
+        "The card is freely, but guests cannot explore free.",
+        "The card is free, but guests cannot explore freely.",
+        "The card is free, but guests cannot explore free of charge."
+      ],
+      "answerIndex": 1,
+      "feedback": "Free expresses no payment; freely concerns movement without restrictions."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The presentation was received with enthusiasm, and the speaker was ___ praised afterwards. Use the -ly adverb meaning to a great degree.",
+      "acceptedAnswers": [
+        "highly"
+      ],
+      "feedback": "Highly praised concerns the strength of approval."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The falcon flew ___ above the cliffs. Write the adverb referring to physical altitude.",
+      "acceptedAnswers": [
+        "high"
+      ],
+      "feedback": "High refers to height; highly would mean to a great degree in other contexts."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The director said that the revised programme would be announced ___. Write the adverb meaning soon.",
+      "acceptedAnswers": [
+        "shortly"
+      ],
+      "feedback": "Shortly means in a short time from now."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "I have not heard from the curator ___. Write the adverb meaning recently.",
+      "acceptedAnswers": [
+        "lately"
+      ],
+      "feedback": "Lately expresses a recent period extending up to now."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence, keeping its meaning of almost no activity: The team has hard done any testing this month.",
+      "acceptedAnswers": [
+        "The team has hardly done any testing this month."
+      ],
+      "feedback": "Hardly means almost not; hard means with substantial effort."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The architect explained the unusual layout in a livelyly manner.",
+      "acceptedAnswers": [
+        "The architect explained the unusual layout in a lively manner."
+      ],
+      "feedback": "Lively is already an adjective ending in -ly; do not add another -ly."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence to show that the museum has admirers in many places: The museum is wide admired across the region.",
+      "acceptedAnswers": [
+        "The museum is widely admired across the region."
+      ],
+      "feedback": "Widely describes broad geographic or social extent; wide is not appropriate here."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence to mean that the train arrived after the expected time: The train arrived lately because of the storm.",
+      "acceptedAnswers": [
+        "The train arrived late because of the storm."
+      ],
+      "feedback": "Late means after the scheduled time, whereas lately means recently."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Respond naturally using the facts: The concierge / welcome us / friendly. Use \"in a friendly way\" in a complete sentence.",
+      "acceptedAnswers": [
+        "The concierge welcomed us in a friendly way."
+      ],
+      "feedback": "A manner phrase replaces an invented -ly form of friendly."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Express effort, not near-absence: The analysts / work / hard / yesterday. Use a complete simple-past sentence.",
+      "acceptedAnswers": [
+        "The analysts worked hard yesterday."
+      ],
+      "feedback": "Worked hard describes considerable effort."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Describe near-absence of progress: We / hardly / make / any progress. Use the past simple.",
+      "acceptedAnswers": [
+        "We hardly made any progress."
+      ],
+      "feedback": "Hardly any means almost none."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Report a strong positive evaluation: The proposal / be / highly / regarded. Use the present simple.",
+      "acceptedAnswers": [
+        "The proposal is highly regarded."
+      ],
+      "feedback": "Highly describes degree of regard."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Describe physical altitude: The helicopter / fly / high / over the harbour. Use the past simple.",
+      "acceptedAnswers": [
+        "The helicopter flew high over the harbour."
+      ],
+      "feedback": "High is correct for literal height."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Say that you have not visited recently: I / not / visit / the gallery / lately. Use the present perfect, in full or contracted form.",
+      "acceptedAnswers": [
+        "I have not visited the gallery lately.",
+        "I haven't visited the gallery lately."
+      ],
+      "feedback": "Lately expresses the recent period; use the present perfect as directed."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this sentence aloud to mean the bus will arrive soon: \"The bus will arrive short.\"",
+      "acceptedAnswers": [
+        "The bus will arrive shortly."
+      ],
+      "feedback": "Shortly is the time adverb meaning soon."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two complete sentences in this order. Cost: Entry / be / free. Movement: Visitors / move / freely / in the atrium. Use the present simple.",
+      "acceptedAnswers": [
+        "Entry is free. Visitors move freely in the atrium."
+      ],
+      "feedback": "Free means no charge; freely means without restriction."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The designers worked hard throughout the weekend, but they hardly had time to check the final drawings.",
+      "prompt": "What did the designers do?",
+      "choices": [
+        "They made little effort and checked every drawing.",
+        "They made a strong effort but had almost no checking time.",
+        "They avoided working during the weekend."
+      ],
+      "answerIndex": 1,
+      "feedback": "Worked hard conveys effort; hardly had time means almost no time was available."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The tour guide said the castle had been repaired lately, although some rooms were still closed.",
+      "prompt": "What does lately mean here?",
+      "choices": [
+        "At a late hour of the day.",
+        "At a height above the town.",
+        "Recently."
+      ],
+      "answerIndex": 2,
+      "feedback": "Lately means recently, not after the expected time."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The receptionist greeted us in a friendly way and offered us a map.",
+      "prompt": "Transcribe the four-word manner phrase following \"greeted us\".",
+      "acceptedAnswers": [
+        "in a friendly way"
+      ],
+      "feedback": "The phrase in a friendly way expresses manner without an invented adverb."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The sculptor is highly respected, and photographs of her work are widely shared.",
+      "prompt": "What does widely tell us?",
+      "choices": [
+        "The photographs circulate among many people or places.",
+        "The photographs are unusually wide in shape.",
+        "The photographs are always taken outdoors."
+      ],
+      "answerIndex": 0,
+      "feedback": "Widely refers to the extent of sharing, not the width of an image."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Children enter the exhibition free, but visitors cannot wander freely through the conservation rooms.",
+      "prompt": "Which statement matches the announcement?",
+      "choices": [
+        "Children may go into every room without restriction.",
+        "Children pay nothing to enter, but access to some spaces is controlled.",
+        "The exhibition costs money and all rooms are open."
+      ],
+      "answerIndex": 1,
+      "feedback": "Free indicates no admission fee; freely indicates unrestricted movement."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The plane flew high above the storm, and the crew were highly praised for their decisions.",
+      "prompt": "Which contrast is made?",
+      "choices": [
+        "The plane was expensive and the crew were late.",
+        "The plane flew slowly and the crew spoke loudly.",
+        "High describes altitude; highly describes strong approval."
+      ],
+      "answerIndex": 2,
+      "feedback": "High is literal height; highly intensifies an evaluation."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The witnesses were deeply concerned about the missing equipment.",
+      "prompt": "Transcribe the two-word expression describing how concerned the witnesses were.",
+      "acceptedAnswers": [
+        "deeply concerned"
+      ],
+      "feedback": "Deeply concerned marks the intensity of the feeling."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The technician will return shortly after the safety briefing.",
+      "prompt": "Type the two-word time phrase heard before \"the safety briefing\".",
+      "acceptedAnswers": [
+        "shortly after"
+      ],
+      "feedback": "Shortly after specifies a brief interval following an event."
+    }
+  ]
+}

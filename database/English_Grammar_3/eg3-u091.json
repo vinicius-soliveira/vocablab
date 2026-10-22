@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u091",
+  "title": "Exceptions, Additions and Hypothetical Exclusions",
+  "level": "C1",
+  "topicId": "eg3-u091-talking-about-exceptions",
+  "summary": "Express exclusions precisely with except and except for, distinguish exclusions from additions introduced by besides, interpret apart from by context, and use but for to describe a condition without which the outcome would have been different.",
+  "learningObjectives": [
+    "Choose except or except for appropriately before noun phrases, clauses, prepositions and infinitives.",
+    "Distinguish excluding one item from adding another using except versus besides.",
+    "Interpret apart from as either an exclusion or an addition from the wider context.",
+    "Use but for in counterfactual statements and but after negative words without confusing these with ordinary exclusion."
+  ],
+  "explanation": [
+    {
+      "heading": "Except and except for exclude a member of a set",
+      "body": "Except and except for often introduce the one person or thing omitted from a larger claim. Both can precede noun phrases in many contexts. Except for is especially natural when the exception qualifies an otherwise general description. An exclusion means the named item is NOT included in the claim; it is not an additional item.",
+      "example": "Every studio was available except for the one undergoing repairs."
+    },
+    {
+      "heading": "Before clauses, infinitives and prepositions",
+      "body": "Except is normally used without for before a to-infinitive or a clause introduced by that, including when that is omitted. It is also the usual choice before another preposition and before a bare infinitive. The separate sequence except for can occasionally introduce informal speech patterns, but learners should use except in these grammatical environments.",
+      "example": "The design meets our requirements except that it needs a larger display; there is nothing to do except wait."
+    },
+    {
+      "heading": "Except removes; besides adds",
+      "body": "Except (for) identifies what a statement does not include. Besides means in addition to or as well as. Context and verb agreement help clarify the intended set: Besides the director, two technicians joined the call includes three attendees, whereas Everyone except the director joined excludes the director. Do not substitute besides merely because both words refer to other people or things.",
+      "example": "Besides organising the event, Leo edited the programme; he handled both tasks."
+    },
+    {
+      "heading": "Apart from can point in two directions",
+      "body": "Apart from sometimes means except for and sometimes means besides. The sentence must make clear whether the item is omitted or added. For example, apart from a small error can highlight the only problem, while apart from writing articles can introduce an additional activity. If clarity matters, choose except for or besides instead.",
+      "example": "Apart from a brief interruption, the interview went smoothly; apart from interviewing candidates, Nora prepared the rota."
+    },
+    {
+      "heading": "But, but for and exception as an aside",
+      "body": "After negative words such as nobody, nothing and no, but can mean except. But for a circumstance means if it had not been for that circumstance and belongs to a hypothetical statement; it is not simply another way to list excluded people. After naming an exceptional item, an aside or excepted may also set it apart, although these choices are more formal or context-dependent.",
+      "example": "Nobody but the caretaker had a key; but for a timely warning, the equipment would have been damaged."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Exclusion versus addition",
+      "left": {
+        "label": "Except excludes",
+        "example": "Everyone except the editor received a copy.",
+        "note": "The editor is the person who did not receive a copy."
+      },
+      "right": {
+        "label": "Besides adds",
+        "example": "Besides the editor, three reviewers received a copy.",
+        "note": "The editor and the three reviewers received copies."
+      }
+    },
+    {
+      "title": "An ordinary exception versus a hypothetical cause",
+      "left": {
+        "label": "Except for qualifies a statement",
+        "example": "The journey was calm except for one rough stretch.",
+        "note": "One part of the journey did not match the overall description."
+      },
+      "right": {
+        "label": "But for gives a counterfactual",
+        "example": "But for the navigator, we would have missed the turning.",
+        "note": "The navigator prevented a different imagined outcome."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "All the samples were intact except the one damaged in transit.",
+      "note": "Except excludes one named sample from a general claim."
+    },
+    {
+      "sentence": "The plan works except that it depends on a delayed shipment.",
+      "note": "Except that introduces a complete clause describing the limitation."
+    },
+    {
+      "sentence": "The guests had no choice except to leave through the rear door.",
+      "note": "Except takes a to-infinitive, not except for to leave."
+    },
+    {
+      "sentence": "Besides checking the figures, the reviewer verified every reference.",
+      "note": "Besides adds a second activity to the checking."
+    },
+    {
+      "sentence": "But for the backup generator, the computers would have shut down.",
+      "note": "But for presents a counterfactual dependency: the generator averted shutdown."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The lecture was convincing except for that the conclusion was rushed.",
+      "correct": "The lecture was convincing except that the conclusion was rushed.",
+      "why": "Except that, rather than except for that, normally introduces an exception clause."
+    },
+    {
+      "incorrect": "There was nothing to do except for wait for the results.",
+      "correct": "There was nothing to do except wait for the results.",
+      "why": "The bare infinitive wait follows except without for."
+    },
+    {
+      "incorrect": "Besides the broken window, the building was in excellent condition.",
+      "correct": "Except for the broken window, the building was in excellent condition.",
+      "why": "The broken window is the only flaw being excluded, not an additional positive feature."
+    },
+    {
+      "incorrect": "But for the map, we will have got lost yesterday.",
+      "correct": "But for the map, we would have got lost yesterday.",
+      "why": "A past counterfactual outcome requires would have + past participle."
+    }
+  ],
+  "studyTips": [
+    "Make two versions of an attendance statement, using except to exclude someone and besides to add someone; check the final headcount.",
+    "Practise except that, except to and except before prepositions separately, and notice that for is normally absent there.",
+    "Convert hypothetical sentences with if it had not been for into but for statements without changing the past counterfactual meaning."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the standard expression before a clause: \"The proposal looks practical ___ it requires a bigger budget.\"",
+      "choices": [
+        "except for that",
+        "besides that",
+        "except that"
+      ],
+      "answerIndex": 2,
+      "feedback": "Except that introduces a clause stating the one limitation of an otherwise positive assessment."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The technician could do nothing ___ wait for the replacement component. Choose the conventional bare-infinitive construction.",
+      "choices": [
+        "except",
+        "except for",
+        "besides"
+      ],
+      "answerIndex": 0,
+      "feedback": "After nothing to do, except directly introduces the bare infinitive wait."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The two researchers presented their findings. ___ presenting, they answered questions from the audience. Which connector adds a second activity?",
+      "choices": [
+        "Except for",
+        "Besides",
+        "But for"
+      ],
+      "answerIndex": 1,
+      "feedback": "Besides adds answering questions to the activity of presenting."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "\"___ the earlier warning, we would have taken the unsafe route.\" Choose the phrase expressing an unreal past alternative.",
+      "choices": [
+        "Besides",
+        "Except",
+        "But for"
+      ],
+      "answerIndex": 2,
+      "feedback": "But for means if it had not been for; would have taken identifies the imagined past consequence."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Fill only the two-word connector: \"The timetable is workable ___ the early start on Monday.\" Specify the single drawback as an exception using the form ending in for.",
+      "acceptedAnswers": [
+        "except for"
+      ],
+      "feedback": "Except for introduces the one feature excluded from the overall assessment."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: \"There is no option ___ to postpone the hearing.\" Use the word before a to-infinitive.",
+      "acceptedAnswers": [
+        "except"
+      ],
+      "feedback": "Except, without for, regularly introduces a to-infinitive."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete with one word: \"___ the biography, the author has written four radio plays.\" The biography and plays are both part of the work. Use the additive expression.",
+      "acceptedAnswers": [
+        "Besides"
+      ],
+      "feedback": "Besides signals the addition of four plays to the biography."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with a two-word expression: \"___ the safety rope, the climber would have fallen.\" Express a past counterfactual dependency.",
+      "acceptedAnswers": [
+        "But for"
+      ],
+      "feedback": "But for the safety rope means that without it the climber would have fallen."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the connector in this exception clause: \"The report is accurate except for that one chart uses the wrong units.\"",
+      "acceptedAnswers": [
+        "The report is accurate except that one chart uses the wrong units."
+      ],
+      "feedback": "Use except that to introduce a complete limiting clause."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the phrase before a bare infinitive: \"We had nothing to do except for sit in the lobby.\"",
+      "acceptedAnswers": [
+        "We had nothing to do except sit in the lobby."
+      ],
+      "feedback": "Except sit is the standard bare-infinitive construction."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "The sentence means that the scholarship covers all expenses other than travel. Correct it: \"The scholarship covers all expenses besides travel.\"",
+      "acceptedAnswers": [
+        "The scholarship covers all expenses except for travel.",
+        "The scholarship covers all expenses except travel."
+      ],
+      "feedback": "The intended meaning excludes travel; besides would suggest addition."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the counterfactual form: \"But for the quick repair, we would lose all our data last night.\"",
+      "acceptedAnswers": [
+        "But for the quick repair, we would have lost all our data last night."
+      ],
+      "feedback": "A completed alternative in the past uses would have lost."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Give the exception clause as a full sentence. Facts: The device works / except that / its screen is cracked.",
+      "acceptedAnswers": [
+        "The device works except that its screen is cracked."
+      ],
+      "feedback": "Except that introduces a clause naming one limitation."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Express a limited choice with except and a to-infinitive. Facts: We / have / no choice / except / to leave. Use one sentence.",
+      "acceptedAnswers": [
+        "We have no choice except to leave."
+      ],
+      "feedback": "Except directly precedes the to-infinitive here."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Express an exclusion. Facts: Every participant / attended / except / Mina. Use the past simple.",
+      "acceptedAnswers": [
+        "Every participant attended except Mina."
+      ],
+      "feedback": "Mina is excluded from the group of attendees."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Add another activity using besides. Facts: Besides / reviewing the report / Omar / checked the figures. Use the past simple.",
+      "acceptedAnswers": [
+        "Besides reviewing the report, Omar checked the figures."
+      ],
+      "feedback": "Besides introduces an additional action, not an exception."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Describe the only problem. Facts: The flat / be / quiet / except for / the traffic outside. Use the past simple.",
+      "acceptedAnswers": [
+        "The flat was quiet except for the traffic outside."
+      ],
+      "feedback": "Except for qualifies the otherwise quiet surroundings."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Say a negative exception using but. Facts: Nobody / but / the supervisor / knew the code. Speak one sentence.",
+      "acceptedAnswers": [
+        "Nobody but the supervisor knew the code."
+      ],
+      "feedback": "After nobody, but can mean except."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Transform this past unreal sentence using but for: \"If it had not been for the alarm, we would have slept through the meeting.\" Begin \"But for the alarm\".",
+      "acceptedAnswers": [
+        "But for the alarm, we would have slept through the meeting."
+      ],
+      "feedback": "But for preserves the unreal past conditional meaning."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say these two exact meanings in order. Exclusion: \"Everyone except the host arrived early.\" Addition: \"Besides the host, three guests arrived early.\"",
+      "acceptedAnswers": [
+        "Everyone except the host arrived early. Besides the host, three guests arrived early."
+      ],
+      "feedback": "Except excludes the host in the first sentence; besides includes the host in the second."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "All the guests received a printed guide except the photographer, who preferred a digital copy.",
+      "prompt": "Who did not receive a printed guide?",
+      "choices": [
+        "The photographer",
+        "The host",
+        "Every guest"
+      ],
+      "answerIndex": 0,
+      "feedback": "Except identifies the one person excluded from those receiving a printed guide."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Besides preparing the slides, the coordinator booked the room and ordered the refreshments.",
+      "prompt": "Which activities did the coordinator complete?",
+      "choices": [
+        "Only the slides",
+        "Only the room booking",
+        "Slides, room booking and refreshments"
+      ],
+      "answerIndex": 2,
+      "feedback": "Besides adds two tasks to preparing the slides."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The seminar was useful except that the final discussion was too short.",
+      "prompt": "Transcribe the exact two-word phrase introducing the limiting clause.",
+      "acceptedAnswers": [
+        "except that"
+      ],
+      "feedback": "Except that is spoken directly before the clause describing the drawback."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Apart from a brief power cut, the whole rehearsal ran smoothly.",
+      "prompt": "How should apart from be understood here?",
+      "choices": [
+        "As an additional smooth event",
+        "As the one disruption being excluded",
+        "As the cause of the rehearsal"
+      ],
+      "answerIndex": 1,
+      "feedback": "The power cut is the single exception to an otherwise smooth rehearsal."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "But for the protective cover, the camera would have been ruined during the storm.",
+      "prompt": "What actually prevented the camera from being ruined?",
+      "choices": [
+        "A protective cover",
+        "A locked storeroom",
+        "A weather forecast"
+      ],
+      "answerIndex": 0,
+      "feedback": "The cover prevented the imagined damage described by would have been ruined."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Nobody but the night porter could access the archive after midnight.",
+      "prompt": "Who was able to access the archive?",
+      "choices": [
+        "All staff members",
+        "Every visitor",
+        "Only the night porter"
+      ],
+      "answerIndex": 2,
+      "feedback": "After nobody, but excludes everyone except the night porter."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "There is nothing left to do except wait until the inspection is finished.",
+      "prompt": "Transcribe the two-word phrase immediately after \"to do\".",
+      "acceptedAnswers": [
+        "except wait"
+      ],
+      "feedback": "Except wait is a contiguous spoken phrase with a bare infinitive."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Besides repairing bicycles, the community group teaches road safety.",
+      "prompt": "Transcribe the three-word opening phrase.",
+      "acceptedAnswers": [
+        "Besides repairing bicycles"
+      ],
+      "feedback": "Besides repairing bicycles presents one activity alongside another."
+    }
+  ]
+}

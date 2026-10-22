@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u074",
+  "title": "Adverb Placement: End Position and Meaning",
+  "level": "C1",
+  "topicId": "eg3-u074-position-of-adverbs-end-position",
+  "summary": "Choose natural end-position placement for adverbs and adverbials, including placement after objects, avoidance of breaks before -ing or to-infinitives, meaning-changing scope, manner–place–time ordering and end-position time or frequency expressions.",
+  "learningObjectives": [
+    "Identify end, front and mid position and place end-position adverbs after short direct objects while recognising exceptions for long objects.",
+    "Avoid unnatural adverb placement between a verb and its -ing or to-infinitive complement and explain potential changes of scope.",
+    "Order end-position adverbials of manner, place and time, accounting for length and deliberate emphasis.",
+    "Use end position naturally with place, definite frequency and definite time, while recognising mid-position preferences and journalistic exceptions."
+  ],
+  "explanation": [
+    {
+      "heading": "Three positions and the short-object rule",
+      "body": "Adverbs modifying verbs can appear in end position (after the verb or later), front position (before the subject) or mid position (around the verb or first auxiliary), depending on the adverb and context. When a verb has a short direct object, a manner adverb placed at the end normally follows that object. Placing it between the verb and a short object is usually unnatural. A very long object can license an adverb before it to avoid leaving the modifier stranded far away.",
+      "example": "The editor checked the figures carefully; she also carefully checked the lengthy list of claims submitted by the team."
+    },
+    {
+      "heading": "Verbs followed by -ing or to-infinitive complements",
+      "body": "We generally avoid inserting an ordinary manner adverb immediately between a main verb and the -ing or to-infinitive clause it selects. Put it before the main verb or after the full following clause when that preserves the intended scope. Sometimes an adverb inside a non-finite clause is grammatical but changes what it modifies; do not label all split infinitives or intervening adverbs universally wrong. Prefer clear, unambiguous attachment.",
+      "example": "The curator quietly began explaining the display, or began explaining the display quietly."
+    },
+    {
+      "heading": "Adverb position can change which action is modified",
+      "body": "An adverb near the end of a non-finite clause may describe the embedded activity, while one in mid position may modify the main mental or reporting verb. Compare clearly remembering something with remembering that you explained it clearly. If an adverb sits between linked verbs, its scope can be ambiguous. Speech intonation may help; careful writing can remove the ambiguity by relocating the adverb.",
+      "example": "I clearly remember describing the process, but I remember describing the process clearly."
+    },
+    {
+      "heading": "Multiple end adverbials: typical order and flexible exceptions",
+      "body": "In neutral written English the usual order is manner, then place, then time: spoke softly in the courtyard yesterday. When both elements describe the same function, an adverb often precedes a related prepositional phrase, such as downstairs to the workshop. These are tendencies, not inviolable rules: a very long phrase often comes last, and a moved phrase can highlight contrast or focus.",
+      "example": "The visitors walked quietly through the gallery after lunch, but they left at dawn with considerable reluctance."
+    },
+    {
+      "heading": "Place, definite frequency and definite time",
+      "body": "Place adverbials, regular definite-frequency adverbs such as weekly, and definite-time expressions such as on Friday are commonly placed at the end. An indefinite-frequency adverb such as usually typically takes mid position instead. News reporting sometimes moves a definite-time adverb to mid position, which should not be mistaken for the most neutral arrangement in general prose.",
+      "example": "The equipment is inspected weekly, the staff usually arrive early, and the final report was published on Monday."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "After a short object versus in front of an unusually long one",
+      "left": {
+        "label": "Short direct object: adverb follows",
+        "example": "The witness described the scene vividly.",
+        "note": "The manner adverb normally follows the short object the scene."
+      },
+      "right": {
+        "label": "Long object: another placement is available",
+        "example": "The witness vividly described everything that had happened during the evacuation.",
+        "note": "Placing the adverb before a long object improves readability and is acceptable."
+      }
+    },
+    {
+      "title": "Scope of a manner adverb versus a remembering verb",
+      "left": {
+        "label": "Clearly modifies the memory",
+        "example": "I clearly recall explaining the policy.",
+        "note": "The recollection is clear; the way I explained it is not specified."
+      },
+      "right": {
+        "label": "Clearly modifies the explanation",
+        "example": "I recall explaining the policy clearly.",
+        "note": "My explanation was clear; the certainty of my recollection is not asserted."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The technician tightened the screws securely in the workshop yesterday.",
+      "note": "The default order is manner, place, then time."
+    },
+    {
+      "sentence": "The lecturer patiently answered the detailed question about the redesigned assessment.",
+      "note": "An adverb can precede a very long object."
+    },
+    {
+      "sentence": "They began sorting the documents carefully.",
+      "note": "The adverb follows the complete -ing clause rather than separating began from sorting."
+    },
+    {
+      "sentence": "Mira put the samples downstairs in the storage room.",
+      "note": "A place adverb naturally precedes a related prepositional phrase specifying place."
+    },
+    {
+      "sentence": "The team meets fortnightly, but their manager usually joins remotely.",
+      "note": "Definite frequency favours the end; indefinite frequency often occurs in mid position."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The volunteer packed carefully the boxes.",
+      "correct": "The volunteer packed the boxes carefully.",
+      "why": "With a short object such as the boxes, the end-position adverb normally comes after it."
+    },
+    {
+      "incorrect": "The committee started immediately reviewing the complaint.",
+      "correct": "The committee immediately started reviewing the complaint.",
+      "why": "Move immediately before started instead of separating the main verb from its -ing complement."
+    },
+    {
+      "incorrect": "The technicians worked yesterday carefully in the clean room.",
+      "correct": "The technicians worked carefully in the clean room yesterday.",
+      "why": "Neutral written order is manner, place, then time."
+    },
+    {
+      "incorrect": "The curator exhibits on Fridays the paintings.",
+      "correct": "The curator exhibits the paintings on Fridays.",
+      "why": "The definite-time adverbial normally follows the short object in this neutral sentence."
+    }
+  ],
+  "studyTips": [
+    "Underline each verb and its short direct object; check whether a manner adverb has been inserted between them.",
+    "In a sentence with two verbs, move the adverb and say precisely which activity it describes at each position.",
+    "For end-position chains, label each phrase M, P or T (manner, place, time), then reorder for neutral meaning before testing deliberate emphasis."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which sentence has the natural neutral end position for a manner adverb after a short object?",
+      "choices": [
+        "The guide explained carefully the route.",
+        "The guide explained the route carefully.",
+        "The guide the route explained carefully."
+      ],
+      "answerIndex": 1,
+      "feedback": "An end-position manner adverb normally follows the short direct object the route."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "In which sentence does clearly modify the act of explaining rather than the strength of the memory?",
+      "choices": [
+        "I clearly remember explaining the rules.",
+        "Clearly, I remember explaining the rules.",
+        "I remember explaining the rules clearly."
+      ],
+      "answerIndex": 2,
+      "feedback": "Placed at the end of explaining the rules, clearly most directly describes how the rules were explained."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the most neutral manner–place–time order for a written report.",
+      "choices": [
+        "They worked quietly in the library yesterday.",
+        "They worked yesterday quietly in the library.",
+        "They worked in the library yesterday quietly."
+      ],
+      "answerIndex": 0,
+      "feedback": "Manner (quietly) is normally followed by place and then time."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which sentence places a definite-frequency adverb naturally?",
+      "choices": [
+        "The committee monthly reviews the ledger.",
+        "The committee reviews the ledger monthly.",
+        "The committee reviews monthly the ledger."
+      ],
+      "answerIndex": 1,
+      "feedback": "Monthly is a definite-frequency adverb and commonly takes end position; the short object precedes it."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Put \"carefully\" in its normal end position: \"She labelled the samples ___.\" Write only the adverb.",
+      "acceptedAnswers": [
+        "carefully"
+      ],
+      "feedback": "Carefully follows the short object the samples."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete the two-part place expression in this order: \"The children hurried ___.\" Use the adverb downstairs followed by the phrase \"to the kitchen\".",
+      "acceptedAnswers": [
+        "downstairs to the kitchen"
+      ],
+      "feedback": "The place adverb downstairs precedes a related phrase giving the specific destination."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Place the manner adverb at the end of the clause: \"The historian began reading the manuscript ___.\" Write the adverb \"silently\".",
+      "acceptedAnswers": [
+        "silently"
+      ],
+      "feedback": "Silently follows the -ing complement reading the manuscript."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Use the definite-frequency adverb in end position: \"The server is backed up ___.\" Write the single word for once each day.",
+      "acceptedAnswers": [
+        "daily"
+      ],
+      "feedback": "Daily is a definite-frequency expression and naturally appears at the end."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Move the manner adverb after the short object: The assistant arranged neatly the folders.",
+      "acceptedAnswers": [
+        "The assistant arranged the folders neatly."
+      ],
+      "feedback": "Neatly is more naturally placed after the folders."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Move the adverb away from between started and the -ing complement: The audience started suddenly applauding the speaker.",
+      "acceptedAnswers": [
+        "The audience suddenly started applauding the speaker."
+      ],
+      "feedback": "Suddenly before started expresses the abrupt start without interrupting started applauding."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Use neutral manner–place–time order: We practised last night quietly in the rehearsal room.",
+      "acceptedAnswers": [
+        "We practised quietly in the rehearsal room last night."
+      ],
+      "feedback": "The unmarked order is manner, then place, then time."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Put the definite-time expression after the short object: The director signed on Tuesday the contract.",
+      "acceptedAnswers": [
+        "The director signed the contract on Tuesday."
+      ],
+      "feedback": "On Tuesday is a definite-time expression normally placed after the short object."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make one sentence in the past simple, with the manner adverb after a short object. Facts: Lena / checked / the calculations / carefully.",
+      "acceptedAnswers": [
+        "Lena checked the calculations carefully."
+      ],
+      "feedback": "Carefully naturally follows the short object."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Use the adverb before a very long object. Facts: The editor / thoroughly / reviewed / the detailed proposal prepared by the entire committee. Use the past simple.",
+      "acceptedAnswers": [
+        "The editor thoroughly reviewed the detailed proposal prepared by the entire committee."
+      ],
+      "feedback": "Before a long object, an adverb may precede the main verb or follow an auxiliary; here thoroughly precedes reviewed."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Describe how something was explained, not how clearly it is remembered. Facts: I / remember / explaining / the method / clearly. Use the present simple.",
+      "acceptedAnswers": [
+        "I remember explaining the method clearly."
+      ],
+      "feedback": "The ending adverb modifies explaining the method."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Say that your memory itself is clear. Facts: I / clearly / remember / explaining / the method. Use the present simple.",
+      "acceptedAnswers": [
+        "I clearly remember explaining the method."
+      ],
+      "feedback": "Clearly in mid position describes the certainty of remembering."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Say where and when an action happened with neutral order. Facts: We / met / in the courtyard / yesterday. Use the past simple.",
+      "acceptedAnswers": [
+        "We met in the courtyard yesterday."
+      ],
+      "feedback": "The place expression comes before the definite time."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Describe frequency at the end. Facts: The equipment / be tested / weekly. Use the present simple passive.",
+      "acceptedAnswers": [
+        "The equipment is tested weekly."
+      ],
+      "feedback": "Weekly is definite frequency and naturally appears at the end."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this sentence aloud by moving \"gently\": \"The nurse lifted gently the patient.\"",
+      "acceptedAnswers": [
+        "The nurse lifted the patient gently."
+      ],
+      "feedback": "After a short direct object, put the manner adverb at the end."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two complete sentences in order, using the past simple. First: The children / walked / slowly / to school / on Monday. Second: The teacher / usually / arrived / early. Preserve manner–place–time in the first and use mid position in the second.",
+      "acceptedAnswers": [
+        "The children walked slowly to school on Monday. The teacher usually arrived early."
+      ],
+      "feedback": "The first uses manner, place and time; the second uses mid-position usually."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The guide described the paintings carefully and answered the visitors’ questions patiently.",
+      "prompt": "Where do the manner adverbs appear relative to the short objects?",
+      "choices": [
+        "Before each short object.",
+        "After the short objects.",
+        "Only before the subjects."
+      ],
+      "answerIndex": 1,
+      "feedback": "Carefully follows the paintings; patiently follows the visitors questions."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I clearly remember discussing the budget, but I cannot remember who else attended.",
+      "prompt": "What does clearly most naturally describe?",
+      "choices": [
+        "The certainty of remembering the discussion.",
+        "The way the budget was explained.",
+        "The clarity of the budget document."
+      ],
+      "answerIndex": 0,
+      "feedback": "Clearly is positioned by remember, describing the memory."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The archivist sorted the records carefully in the basement yesterday.",
+      "prompt": "Transcribe the four-word manner-and-place phrase heard between \"records\" and \"yesterday\".",
+      "acceptedAnswers": [
+        "carefully in the basement"
+      ],
+      "feedback": "Manner comes before place; the definite time comes last."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The performers rehearsed quietly backstage on Thursday before the public event.",
+      "prompt": "What is the order of the end-position descriptions?",
+      "choices": [
+        "Time, manner, place.",
+        "Place, time, manner.",
+        "Manner, place, time."
+      ],
+      "answerIndex": 2,
+      "feedback": "Quietly expresses manner, backstage is place, and on Thursday gives time."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The engineer began inspecting the sensors carefully after the warning light came on.",
+      "prompt": "Which action is described as careful?",
+      "choices": [
+        "The warning light coming on.",
+        "The inspection of the sensors.",
+        "The engineer opening the door."
+      ],
+      "answerIndex": 1,
+      "feedback": "Carefully follows inspecting the sensors and describes that inspection."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The reception team meets fortnightly, and their supervisor usually joins remotely.",
+      "prompt": "Which expression denotes a regular schedule at the end of a clause?",
+      "choices": [
+        "Fortnightly.",
+        "Usually.",
+        "Remotely."
+      ],
+      "answerIndex": 0,
+      "feedback": "Fortnightly specifies a definite interval and appears at the end of meets fortnightly."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The courier placed the packages outside on Saturday.",
+      "prompt": "Transcribe the three-word place-and-time phrase following \"packages\".",
+      "acceptedAnswers": [
+        "outside on Saturday"
+      ],
+      "feedback": "Place outside is followed by definite time on Saturday."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The assistant updated the register carefully after lunch.",
+      "prompt": "Transcribe the two-word time expression heard at the end of the sentence.",
+      "acceptedAnswers": [
+        "after lunch"
+      ],
+      "feedback": "After lunch is the end-position time adverbial, following the manner adverb carefully."
+    }
+  ]
+}

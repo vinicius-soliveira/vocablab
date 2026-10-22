@@ -1,0 +1,923 @@
+{
+  "format": "vocablab-content-package",
+  "version": 1,
+  "id": "ec2-units-57-58-final",
+  "title": "English Collocations 2 · Units 57–58",
+  "bookId": "english-collocations-2",
+  "publisher": "VocabLab",
+  "level": "C1–C2",
+  "description": "Advanced natural word combinations, their meanings, register and contextual use.",
+  "coverage": "source-checked-reviewed",
+  "sourceNotice": "Original learning examples and translations prepared using the educational scope of a user-provided reference; source exercise text, passages, artwork and audio are not included.",
+  "audit": {
+    "includedUnits": [
+      57,
+      58
+    ],
+    "scope": "Teaching pages, exercises and corresponding answer-key entries were checked for each included unit.",
+    "bookPrintedPages": [
+      118,
+      119,
+      120,
+      121
+    ],
+    "pdfPages": [
+      122,
+      123,
+      124,
+      125
+    ],
+    "answerKeyPdfPages": [
+      161,
+      162
+    ],
+    "pronunciation": "Unverified whole-phrase IPA is left blank; use browser TTS for word and sentence audio.",
+    "languagePolicy": "All learning content is in English except item.pt, which contains Brazilian Portuguese.",
+    "reviewMethod": "Source/exercise/key review, original sentence drafting, structural audit. Actual application UI and TTS voice are not tested.",
+    "editorialStatus": "canonical-draft-reviewed",
+    "limitations": "Browser import and actual speech quality require testing in VocabLab; short collocation targets are taught without republishing source exercises.",
+    "itemCounts": {
+      "unit57": 36,
+      "unit58": 29,
+      "total": 65
+    },
+    "canonicalPolicy": "Exact record structure follows the existing Intermediate collocations content package, with neutral public course identity."
+  },
+  "units": [
+    {
+      "id": "ec2-u57",
+      "number": 57,
+      "title": "Unit 57 — Social English",
+      "level": "C1–C2",
+      "source": "VocabLab editorial reference: unit 57",
+      "bookId": "english-collocations-2",
+      "bookTitle": "English Collocations 2",
+      "category": "Functions",
+      "sourcePage": 122,
+      "coverage": "source-checked",
+      "learningObjectives": [
+        "Select natural informal expressions for sympathy, irritation, invitations, surprise and partings.",
+        "Avoid literal combinations when intensifying hope, pleasure, delight or anticipation.",
+        "Use nuanced social collocations with appropriate warmth, politeness and register."
+      ],
+      "items": [
+        {
+          "id": "have-much-luck",
+          "word": "have much luck",
+          "pt": "ter muita sorte ou sucesso",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "We did not have much luck finding an affordable hotel near the station.",
+          "note": "With negative expressions, have much luck means be unsuccessful in an attempt.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "bright-idea",
+          "word": "bright idea",
+          "pt": "boa ideia",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "Maya had a bright idea for making the weekly meetings shorter.",
+          "note": "Bright idea often means a clever suggestion; in some contexts it can be sarcastic.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "the-thought-occurred-to-me",
+          "word": "the thought occurred to me",
+          "pt": "a ideia me ocorreu",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "The thought occurred to me that we could share the taxi home.",
+          "note": "Occur to expresses a sudden idea entering someone’s mind; it is not happen to.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "go-to-any-trouble",
+          "word": "go to any trouble",
+          "pt": "ter trabalho ou se dar ao incômodo",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "Please do not go to any trouble preparing food just for me.",
+          "note": "Go to trouble means take extra effort or inconvenience, especially in polite exchanges.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "have-a-go-at-someone",
+          "word": "have a go at someone",
+          "pt": "dar uma bronca em alguém",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "My neighbour had a go at me for leaving the gate unlocked.",
+          "note": "Informal British usage meaning criticise someone angrily; distinct from have a go at a task, meaning try.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "get-to-someone",
+          "word": "get to someone",
+          "pt": "afetar ou irritar alguém",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "His constant criticism really got to her after a few weeks.",
+          "note": "Informal get to someone means upset or irritate them emotionally, not physically reach them.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "phrasal-verb"
+        },
+        {
+          "id": "be-hard-on-someone",
+          "word": "be hard on someone",
+          "pt": "ser duro ou exigente com alguém",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "Try not to be too hard on your brother; he has just started the job.",
+          "note": "Being hard on someone means treating them with excessive criticism or severity.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "mean-no-harm",
+          "word": "mean no harm",
+          "pt": "não ter má intenção",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "I meant no harm when I asked about the change in your plans.",
+          "note": "Mean no harm says no offence or injury was intended; intentions do not guarantee no harm occurred.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "bear-the-thought-of",
+          "word": "bear the thought of",
+          "pt": "suportar a ideia de",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "I cannot bear the thought of losing all those family photographs.",
+          "note": "Often appears with can’t or couldn’t; bear the thought of is followed by a noun or -ing form.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "lose-sleep-over-something",
+          "word": "lose sleep over something",
+          "pt": "perder o sono por causa de algo",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "A minor typo is not something you should lose sleep over.",
+          "note": "Commonly used in negative advice, often meaning worry excessively rather than literally miss sleep.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "news-travels-fast",
+          "word": "news travels fast",
+          "pt": "as notícias se espalham rápido",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "I had only accepted the job an hour ago, but news travels fast around this town.",
+          "note": "A fixed informal comment when information spreads sooner than expected.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "come-as-a-bit-of-a-shock",
+          "word": "come as a bit of a shock",
+          "pt": "ser uma surpresa desagradável",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "The sudden change of venue came as a bit of a shock to the organisers.",
+          "note": "Come as a shock describes unexpected news, usually unsettling; a bit softens the impact.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "to-be-brutally-honest",
+          "word": "to be brutally honest",
+          "pt": "para ser completamente franco",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "To be brutally honest, I do not think this proposal is ready for approval.",
+          "note": "Brutally honest signals an unusually direct opinion and can sound tactless.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "a-welcome-relief",
+          "word": "a welcome relief",
+          "pt": "um alívio bem-vindo",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "After three days of heavy rain, the clear skies were a welcome relief.",
+          "note": "Welcome relief is a positive change after something tiring or unpleasant.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "i-know-the-feeling",
+          "word": "I know the feeling",
+          "pt": "sei bem como é isso",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "I said, “I know the feeling,” when Rafael mentioned how tiring the move had been.",
+          "note": "Informal empathetic response meaning that you have experienced something similar.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "sharp-tongued",
+          "word": "sharp-tongued",
+          "pt": "de língua afiada",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "The presenter is sharp-tongued, but her criticism is often insightful.",
+          "note": "Describes someone whose remarks are cutting or unkind; it is not a compliment about eloquence.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "core"
+        },
+        {
+          "id": "be-glad-to-see-the-back-of-someone",
+          "word": "be glad to see the back of someone",
+          "pt": "ficar feliz de se livrar de alguém",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "After months of arguments, they were glad to see the back of their difficult flatmate.",
+          "note": "Informal, often impolite phrase meaning feel relieved when someone leaves.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "be-up-for-something",
+          "word": "be up for something",
+          "pt": "estar a fim de fazer algo",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "Would you be up for a short walk after dinner?",
+          "note": "Informal be up for means willing or interested in doing something.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "give-someone-a-good-send-off",
+          "word": "give someone a good send-off",
+          "pt": "fazer uma boa despedida para alguém",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "We organised a farewell dinner to give our retiring manager a good send-off.",
+          "note": "Give a send-off means celebrate someone’s departure with a positive farewell.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "make-it-to-a-party",
+          "word": "make it to a party",
+          "pt": "conseguir comparecer a uma festa",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "I will be late, but I should still make it to the party by nine.",
+          "note": "Make it to an event means manage to attend or arrive, despite obstacles.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "the-simple-reason",
+          "word": "the simple reason",
+          "pt": "o motivo simples",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "The simple reason we changed the schedule was that the venue was unavailable.",
+          "note": "Introduces a straightforward explanation, typically followed by is that or why.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "be-on-the-go",
+          "word": "be on the go",
+          "pt": "estar na correria",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "I have been on the go since early morning and need a break.",
+          "note": "Informal be on the go means be constantly busy or active.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "a-decent-night-s-sleep",
+          "word": "a decent night’s sleep",
+          "pt": "uma boa noite de sono",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "After the overnight journey, all I wanted was a decent night’s sleep.",
+          "note": "Decent means sufficiently restful or good-quality; a natural pairing with night’s sleep.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "face-the-thought-of",
+          "word": "face the thought of",
+          "pt": "encarar a ideia de",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "He could not face the thought of repeating the entire examination.",
+          "note": "Often negative; face the thought of highlights unwillingness to contemplate something.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "a-feeble-excuse",
+          "word": "a feeble excuse",
+          "pt": "uma desculpa esfarrapada",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "Saying the bus was one minute late sounded like a feeble excuse for missing the meeting.",
+          "note": "Feeble describes an excuse as unconvincing or weak.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "give-someone-a-ring",
+          "word": "give someone a ring",
+          "pt": "ligar para alguém",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "Give me a ring when your train arrives and I will meet you outside.",
+          "note": "Informal, especially British English, for telephone someone; not deliver a physical ring.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "drop-someone-an-email",
+          "word": "drop someone an email",
+          "pt": "mandar um e-mail rápido a alguém",
+          "ipa": "",
+          "section": "A · Informal conversations",
+          "example": "Drop me an email once you have checked the final figures.",
+          "note": "Drop someone an email is an informal request to send a short message.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "cause-someone-trouble",
+          "word": "cause someone trouble",
+          "pt": "causar transtorno a alguém",
+          "ipa": "",
+          "section": "B · Common collocation errors",
+          "example": "I hope the change in our booking did not cause you any trouble.",
+          "note": "Cause trouble is idiomatic; bring someone trouble is not the normal polite formula.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "put-someone-to-trouble",
+          "word": "put someone to trouble",
+          "pt": "dar trabalho a alguém",
+          "ipa": "",
+          "section": "B · Common collocation errors",
+          "example": "We did not want to put our hosts to any trouble over breakfast.",
+          "note": "Put someone to trouble stresses inconvenience imposed on them; often appears with any.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "really-look-forward-to",
+          "word": "really look forward to",
+          "pt": "estar realmente ansioso por",
+          "ipa": "",
+          "section": "B · Common collocation errors",
+          "example": "I am really looking forward to meeting the whole team next week.",
+          "note": "Really, not very, naturally intensifies look forward to; to is a preposition followed by a noun or -ing.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "very-much-look-forward-to",
+          "word": "very much look forward to",
+          "pt": "aguardar com muita expectativa",
+          "ipa": "",
+          "section": "B · Common collocation errors",
+          "example": "We very much look forward to welcoming you to the conference.",
+          "note": "Very much is a natural, slightly more formal intensifier with look forward to.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "sincerely-hope",
+          "word": "sincerely hope",
+          "pt": "esperar sinceramente",
+          "ipa": "",
+          "section": "B · Common collocation errors",
+          "example": "We sincerely hope that the repairs will be finished before winter.",
+          "note": "Sincerely or very much can modify hope; strongly hope is not the usual pairing.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "absolutely-delighted",
+          "word": "absolutely delighted",
+          "pt": "extremamente encantado ou contente",
+          "ipa": "",
+          "section": "B · Common collocation errors",
+          "example": "I was absolutely delighted when my sister announced her engagement.",
+          "note": "Absolutely is a natural intensifier for the extreme adjective delighted; very delighted is generally avoided.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "a-great-pleasure",
+          "word": "a great pleasure",
+          "pt": "um grande prazer",
+          "ipa": "",
+          "section": "B · Common collocation errors",
+          "example": "It was a great pleasure to work with such a supportive group.",
+          "note": "Use great pleasure as a polite expression, not big pleasure.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "absolutely-shattered",
+          "word": "absolutely shattered",
+          "pt": "completamente exausto",
+          "ipa": "",
+          "section": "Exercises · Social responses and combinations",
+          "example": "After the long mountain hike, everyone was absolutely shattered.",
+          "note": "Informal, especially British English, for extremely tired; a natural emphatic intensifier.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "have-a-decent-night-s-sleep",
+          "word": "have a decent night’s sleep",
+          "pt": "ter uma boa noite de sono",
+          "ipa": "",
+          "section": "Exercises · Social responses and combinations",
+          "example": "I need to have a decent night’s sleep before tomorrow’s early flight.",
+          "note": "The verb have naturally combines with a decent night’s sleep when expressing a need for rest.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "collocation"
+        }
+      ],
+      "sourceAudit": {
+        "sectionsChecked": [
+          "Complete teaching page and explanatory notes",
+          "Exercise page and item-level contrasts",
+          "Relevant entries in the published answer key"
+        ],
+        "printedPages": [
+          118,
+          119
+        ],
+        "pdfPages": [
+          122,
+          123
+        ],
+        "answerKeyPdfPages": [
+          161
+        ],
+        "editorialScope": "Core collocations and productive contrasts appearing on the teaching and exercise pages; original examples, translations and usage notes. Not a copy of source exercise text.",
+        "exercisePolicy": "Source exercises are not reproduced; item example sentences are original.",
+        "itemCount": 36,
+        "targetTypes": {
+          "collocation": 13,
+          "expression": 15,
+          "semantic-contrast": 6,
+          "phrasal-verb": 1,
+          "core": 1
+        }
+      }
+    },
+    {
+      "id": "ec2-u58",
+      "number": 58,
+      "title": "Unit 58 — Discussing issues",
+      "level": "C1–C2",
+      "source": "VocabLab editorial reference: unit 58",
+      "bookId": "english-collocations-2",
+      "bookTitle": "English Collocations 2",
+      "category": "Functions",
+      "sourcePage": 124,
+      "coverage": "source-checked",
+      "learningObjectives": [
+        "Discuss assurances, promises, accusations and commitments in formal contexts.",
+        "Frame and respond to questions with precise collocations for discussion and debate.",
+        "Differentiate agreement, polite disagreement, public denials and contractual obligations."
+      ],
+      "items": [
+        {
+          "id": "give-repeated-assurances",
+          "word": "give repeated assurances",
+          "pt": "dar garantias repetidas",
+          "ipa": "",
+          "section": "A · Political interviews",
+          "example": "The airline gave repeated assurances that passengers would receive refunds.",
+          "note": "Give assurances that introduces repeated promises or emphatic statements intended to reassure.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "break-a-promise",
+          "word": "break a promise",
+          "pt": "quebrar uma promessa",
+          "ipa": "",
+          "section": "A · Political interviews",
+          "example": "He broke a promise to call his grandparents every Sunday.",
+          "note": "Break a promise means fail to do what one promised, contrasting with keep a promise.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "offer-an-explanation",
+          "word": "offer an explanation",
+          "pt": "oferecer uma explicação",
+          "ipa": "",
+          "section": "A · Political interviews",
+          "example": "The supplier offered an explanation for the unexpected delivery delay.",
+          "note": "Offer an explanation is idiomatic for providing a reason; often followed by for.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "betray-someone-s-trust",
+          "word": "betray someone’s trust",
+          "pt": "trair a confiança de alguém",
+          "ipa": "",
+          "section": "A · Political interviews",
+          "example": "Sharing her private messages would betray her trust.",
+          "note": "Betray trust means violate confidence placed in someone, not simply disagree with them.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "reject-a-charge",
+          "word": "reject a charge",
+          "pt": "rejeitar uma acusação",
+          "ipa": "",
+          "section": "A · Political interviews",
+          "example": "The director rejected the charge that safety warnings had been ignored.",
+          "note": "Charge can mean an allegation; reject a charge states firm disagreement, not a legal dismissal.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "keep-a-promise",
+          "word": "keep a promise",
+          "pt": "cumprir uma promessa",
+          "ipa": "",
+          "section": "A · Political interviews",
+          "example": "Our council kept its promise to reopen the public library.",
+          "note": "Keep a promise means fulfil it, in direct contrast to break or go back on a promise.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "semantic-contrast"
+        },
+        {
+          "id": "go-back-on-a-promise",
+          "word": "go back on a promise",
+          "pt": "voltar atrás em uma promessa",
+          "ipa": "",
+          "section": "A · Political interviews",
+          "example": "The company went back on its promise to protect the remaining jobs.",
+          "note": "Go back on is a phrasal verb meaning fail to honour or reverse a commitment.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "phrasal-verb"
+        },
+        {
+          "id": "make-a-commitment",
+          "word": "make a commitment",
+          "pt": "assumir um compromisso",
+          "ipa": "",
+          "section": "A · Political interviews",
+          "example": "Each participant made a commitment to attend the weekly sessions.",
+          "note": "Make a commitment can be followed by to plus an infinitive or a noun phrase.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "reaffirm-a-commitment",
+          "word": "reaffirm a commitment",
+          "pt": "reafirmar um compromisso",
+          "ipa": "",
+          "section": "A · Political interviews",
+          "example": "The board reaffirmed its commitment to improving accessibility.",
+          "note": "Reaffirm means explicitly state an existing commitment again, not make a new one.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "give-a-straight-answer",
+          "word": "give a straight answer",
+          "pt": "dar uma resposta direta",
+          "ipa": "",
+          "section": "A · Political interviews",
+          "example": "Please give a straight answer instead of changing the subject.",
+          "note": "Straight answer means a clear, direct and candid response.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "dodge-a-question",
+          "word": "dodge a question",
+          "pt": "esquivar-se de uma pergunta",
+          "ipa": "",
+          "section": "A · Political interviews",
+          "example": "The spokesperson dodged the question about who had authorised the payment.",
+          "note": "Dodge a question means avoid answering it rather than simply misunderstand it.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "put-a-question-to-someone",
+          "word": "put a question to someone",
+          "pt": "dirigir uma pergunta a alguém",
+          "ipa": "",
+          "section": "B · Discussing communication",
+          "example": "The audience put a difficult question to the guest speaker.",
+          "note": "Put a question to someone is somewhat formal and natural in interviews and discussions.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "channels-of-communication",
+          "word": "channels of communication",
+          "pt": "canais de comunicação",
+          "ipa": "",
+          "section": "B · Discussing communication",
+          "example": "The organisation opened new channels of communication with local residents.",
+          "note": "Channels of communication are the routes or mechanisms through which information is exchanged.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "terminology"
+        },
+        {
+          "id": "frame-a-question",
+          "word": "frame a question",
+          "pt": "formular uma pergunta",
+          "ipa": "",
+          "section": "B · Discussing communication",
+          "example": "She took a moment to frame her question without sounding confrontational.",
+          "note": "Frame a question means choose its wording or structure thoughtfully.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "field-questions",
+          "word": "field questions",
+          "pt": "responder a perguntas feitas ao vivo",
+          "ipa": "",
+          "section": "B · Discussing communication",
+          "example": "The engineer fielded questions from reporters after the presentation.",
+          "note": "Field questions means handle or respond to questions, especially from an audience.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "confront-an-issue",
+          "word": "confront an issue",
+          "pt": "enfrentar uma questão ou problema",
+          "ipa": "",
+          "section": "B · Discussing communication",
+          "example": "The committee finally confronted the issue of unequal access to services.",
+          "note": "Confront an issue means address it directly rather than avoid it.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "fair-comment",
+          "word": "fair comment",
+          "pt": "comentário justo ou pertinente",
+          "ipa": "",
+          "section": "B · Discussing communication",
+          "example": "That is a fair comment, although I still disagree with your proposed solution.",
+          "note": "Fair comment acknowledges that a criticism or observation is reasonable.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "establish-communication",
+          "word": "establish communication",
+          "pt": "estabelecer comunicação",
+          "ipa": "",
+          "section": "B · Discussing communication",
+          "example": "The rescue team managed to establish communication with the stranded climbers.",
+          "note": "Establish communication means create a functioning channel of contact.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "with-all-due-respect",
+          "word": "with all due respect",
+          "pt": "com todo o respeito",
+          "ipa": "",
+          "section": "B · Discussing communication",
+          "example": "With all due respect, I believe your estimate overlooks two major costs.",
+          "note": "A formal softener before disagreement; it may still sound confrontational or ironic.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "miss-the-point",
+          "word": "miss the point",
+          "pt": "não entender o ponto principal",
+          "ipa": "",
+          "section": "B · Discussing communication",
+          "example": "You have missed the point: the question is about safety, not speed.",
+          "note": "Miss the point means fail to grasp the main idea, not merely forget a detail.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "face-a-grilling",
+          "word": "face a grilling",
+          "pt": "enfrentar um interrogatório rigoroso",
+          "ipa": "",
+          "section": "B · Discussing communication",
+          "example": "The candidate faced a grilling about her previous management decisions.",
+          "note": "A grilling is prolonged, tough questioning, often in interviews or public scrutiny.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "take-your-point",
+          "word": "take your point",
+          "pt": "entender e reconhecer o seu argumento",
+          "ipa": "",
+          "section": "B · Discussing communication",
+          "example": "I take your point about the budget, but I still favour the larger venue.",
+          "note": "Take your point acknowledges that an argument is worth considering without full agreement.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        },
+        {
+          "id": "issue-a-denial",
+          "word": "issue a denial",
+          "pt": "divulgar uma negativa formal",
+          "ipa": "",
+          "section": "B · Discussing communication",
+          "example": "The company issued a denial after reports of a planned factory closure.",
+          "note": "Issue a denial is a formal public statement that an allegation is untrue.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "give-a-full-apology",
+          "word": "give a full apology",
+          "pt": "pedir desculpas de forma completa",
+          "ipa": "",
+          "section": "B · Discussing communication",
+          "example": "The organiser gave a full apology for the confusion caused by the cancellation.",
+          "note": "Give a full apology means apologise thoroughly and explicitly, often in a public setting.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "enter-into-a-contract",
+          "word": "enter into a contract",
+          "pt": "firmar um contrato",
+          "ipa": "",
+          "section": "B · Discussing communication",
+          "example": "The charity entered into a contract with a local catering company.",
+          "note": "Enter into a contract is a formal phrase meaning become legally bound by an agreement.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "breach-a-contract",
+          "word": "breach a contract",
+          "pt": "violar um contrato",
+          "ipa": "",
+          "section": "Exercises · Commitments, questions and contracts",
+          "example": "The builder breached the contract by failing to complete the agreed repairs.",
+          "note": "Breach means violate contractual obligations, not merely postpone the work.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "make-a-firm-commitment",
+          "word": "make a firm commitment",
+          "pt": "assumir um compromisso firme",
+          "ipa": "",
+          "section": "Exercises · Commitments, questions and contracts",
+          "example": "The university made a firm commitment to fund the new programme for three years.",
+          "note": "Firm strengthens commitment by stressing a definite intention rather than a tentative plan.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "collocation"
+        },
+        {
+          "id": "breach-of-contract",
+          "word": "breach of contract",
+          "pt": "descumprimento contratual",
+          "ipa": "",
+          "section": "Exercises · Commitments, questions and contracts",
+          "example": "The customer sought compensation for a breach of contract.",
+          "note": "This formal noun phrase refers to failure to fulfil contractual obligations.",
+          "audio": "",
+          "contentOrigin": "exercise-reviewed",
+          "targetType": "terminology"
+        },
+        {
+          "id": "with-regard-to",
+          "word": "with regard to",
+          "pt": "com relação a",
+          "ipa": "",
+          "section": "A · Political interviews",
+          "example": "With regard to the new timetable, we will publish an update on Friday.",
+          "note": "A relatively formal linking phrase meaning concerning; followed by a noun phrase.",
+          "audio": "",
+          "contentOrigin": "source-reviewed",
+          "targetType": "expression"
+        }
+      ],
+      "sourceAudit": {
+        "sectionsChecked": [
+          "Complete teaching page and explanatory notes",
+          "Exercise page and item-level contrasts",
+          "Relevant entries in the published answer key"
+        ],
+        "printedPages": [
+          120,
+          121
+        ],
+        "pdfPages": [
+          124,
+          125
+        ],
+        "answerKeyPdfPages": [
+          161,
+          162
+        ],
+        "editorialScope": "Core collocations and productive contrasts appearing on the teaching and exercise pages; original examples, translations and usage notes. Not a copy of source exercise text.",
+        "exercisePolicy": "Source exercises are not reproduced; item example sentences are original.",
+        "itemCount": 29,
+        "targetTypes": {
+          "collocation": 19,
+          "semantic-contrast": 1,
+          "phrasal-verb": 1,
+          "terminology": 2,
+          "expression": 6
+        }
+      }
+    }
+  ]
+}

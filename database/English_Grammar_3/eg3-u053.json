@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u053",
+  "title": "Relative Pronouns: Defining and Non-defining Clauses",
+  "level": "C1",
+  "topicId": "eg3-u053-relative-pronouns",
+  "summary": "Choose and, where possible, omit relative pronouns according to whether a clause identifies its antecedent or adds supplementary information. Distinguish subjects from objects, formal whom from everyday who, and defining from non-defining relative clauses.",
+  "learningObjectives": [
+    "Identify whether a relative pronoun acts as the subject or object, and omit it only when the structure permits.",
+    "Choose who, whom, which or that appropriately for people and things in defining relative clauses, taking register into account.",
+    "Use commas and an obligatory who or which in non-defining clauses without substituting that.",
+    "Handle restrictive expressions after all, anything and superlatives without treating that as the only possible form in every context."
+  ],
+  "explanation": [
+    {
+      "heading": "Subject and object relative pronouns",
+      "body": "In defining relative clauses, a subject pronoun cannot normally be omitted: The editor who checked the draft found an error. If the relative pronoun is the object, it may often be omitted: The draft (that) the editor checked was inaccurate. To diagnose the role, look for the subject of the relative clause. In the second example, the editor is the subject; the draft is the object of checked.",
+      "example": "The researcher who analysed the samples thanked the colleague she had consulted."
+    },
+    {
+      "heading": "People and things in defining clauses",
+      "body": "For people, who and that can introduce defining clauses; an object relative may also be omitted. Whom is a more formal object form, particularly in writing. For things, which and that are both common, and an object relative may be left out. The meaning is often unchanged when one valid defining object form replaces another, but register can vary.",
+      "example": "The architect whom we interviewed designed the centre that opened in March."
+    },
+    {
+      "heading": "Non-defining clauses require an explicit pronoun",
+      "body": "A non-defining clause adds information about an already identified person or thing. It is normally set off with commas and uses who/whom for people or which for things. Unlike a defining relative clause, the pronoun cannot be dropped, and that is not an appropriate replacement. Removing the non-defining clause should leave an identifiable main noun phrase.",
+      "example": "Our new workshop, which opened last month, has accessible entrances."
+    },
+    {
+      "heading": "That with indefinite antecedents and superlatives",
+      "body": "That is particularly natural after words such as all, everything, anything and nothing, and after superlative expressions. In some such contexts which or who is also possible, depending on whether the antecedent is a thing or a person and on style. For an object relative, zero can remain possible: That is the most useful guide (that) I have found. Avoid claiming that that is grammatically obligatory in every case.",
+      "example": "Everything that we recorded is stored securely."
+    },
+    {
+      "heading": "Choosing meaning before punctuation",
+      "body": "Compare employees who completed the training with employees, who completed the training. The first restricts the group to certain employees; the second adds the information about an already identified group. Commas can therefore change the intended claim. In careful writing, decide whether the relative clause identifies the noun or comments on it before deciding punctuation and pronoun choice.",
+      "example": "The technicians who were on duty responded immediately."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Subject versus object in a defining clause",
+      "left": {
+        "label": "Subject: pronoun required",
+        "example": "The assistant who prepared the charts has left.",
+        "note": "Who is the subject of prepared and cannot be omitted."
+      },
+      "right": {
+        "label": "Object: omission available",
+        "example": "The charts (that) the assistant prepared are ready.",
+        "note": "The assistant is the subject of prepared; the object relative can be omitted."
+      }
+    },
+    {
+      "title": "Identifying versus additional information",
+      "left": {
+        "label": "Defining",
+        "example": "The laboratories that need repairs will close.",
+        "note": "Only the laboratories needing repairs are identified."
+      },
+      "right": {
+        "label": "Non-defining",
+        "example": "The main laboratory, which needs repairs, will close.",
+        "note": "The laboratory is already identified; which adds extra information."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The manager who approved the request is away today.",
+      "note": "Who is the subject of the defining relative clause."
+    },
+    {
+      "sentence": "The reviewer we invited arrived early.",
+      "note": "The omitted relative pronoun would be the object of invited."
+    },
+    {
+      "sentence": "The recording that disappeared was our only copy.",
+      "note": "That refers to a thing as the subject of the defining clause."
+    },
+    {
+      "sentence": "My first supervisor, whom I still consult, lives abroad.",
+      "note": "Whom is a formal object pronoun inside a non-defining clause."
+    },
+    {
+      "sentence": "This was the most challenging task that we attempted.",
+      "note": "That is a natural relative pronoun after a superlative expression; it is the object of attempted."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The analyst interviewed us yesterday has sent the results.",
+      "correct": "The analyst who interviewed us yesterday has sent the results.",
+      "why": "A defining clause needs an overt pronoun when it is the subject of interviewed."
+    },
+    {
+      "incorrect": "Our central library, that reopened on Monday, is fully accessible.",
+      "correct": "Our central library, which reopened on Monday, is fully accessible.",
+      "why": "Non-defining clauses about things take which, not that."
+    },
+    {
+      "incorrect": "The artist, we met on Friday, is exhibiting here.",
+      "correct": "The artist, whom we met on Friday, is exhibiting here.",
+      "why": "In a non-defining object clause, the relative pronoun cannot be omitted; whom is a formal option."
+    },
+    {
+      "incorrect": "The book which won the prize, is in the display case.",
+      "correct": "The book which won the prize is in the display case.",
+      "why": "This identifying defining clause should not be separated from its antecedent by a lone comma."
+    }
+  ],
+  "studyTips": [
+    "Underline the verb in each relative clause and ask whether the noun before the clause is its subject or object; omit only object pronouns in defining clauses.",
+    "Compare a sentence with and without commas and describe how the reference set changes.",
+    "Rewrite a defining relative clause in both everyday and formal register: who or zero when appropriate, versus whom as an overt object pronoun."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which defining clause correctly identifies the journalist who wrote a report? Choose a grammatical sentence.",
+      "choices": [
+        "The journalist wrote the report is speaking.",
+        "The journalist who wrote the report is speaking.",
+        "The journalist whom wrote the report is speaking."
+      ],
+      "answerIndex": 1,
+      "feedback": "Who is a subject pronoun here, so it cannot be omitted; whom cannot function as the subject in standard usage."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which sentence can omit the relative pronoun without changing the basic meaning?",
+      "choices": [
+        "The painting that the gallery acquired is on display.",
+        "The painting that hangs by the door is valuable.",
+        "The painting, which is on loan, is insured."
+      ],
+      "answerIndex": 0,
+      "feedback": "In the first sentence, the gallery is the subject and the relative pronoun is the object of acquired."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "A colleague named Priya is already identified. Which extra comment is punctuated correctly?",
+      "choices": [
+        "Priya, that designed the poster, is away.",
+        "Priya designed the poster, is away.",
+        "Priya, who designed the poster, is away."
+      ],
+      "answerIndex": 2,
+      "feedback": "A non-defining clause about a person takes who and is enclosed by commas."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Select the most formal grammatical object relative for a person.",
+      "choices": [
+        "The consultant whom we contacted replied promptly.",
+        "The consultant whom contacted us replied promptly.",
+        "The consultant whose we contacted replied promptly."
+      ],
+      "answerIndex": 0,
+      "feedback": "Whom is a formal object relative, with we as the clause subject."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete with the subject pronoun for a person: \"The engineer ___ designed this valve has retired.\" Use who.",
+      "acceptedAnswers": [
+        "who"
+      ],
+      "feedback": "Who is the indispensable subject of designed in this defining clause."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with the object relative pronoun for a thing: \"The microscope ___ we borrowed is excellent.\" Use which rather than omission.",
+      "acceptedAnswers": [
+        "which"
+      ],
+      "feedback": "Which can introduce a defining object relative; we is the subject of borrowed."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete the non-defining clause: \"Our annual conference, ___ attracts hundreds of delegates, begins tomorrow.\" Use which.",
+      "acceptedAnswers": [
+        "which"
+      ],
+      "feedback": "Which supplies the obligatory subject relative pronoun in a non-defining clause about a thing."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Fill with the formal object pronoun: \"The historian, ___ the panel invited, could not attend.\"",
+      "acceptedAnswers": [
+        "whom"
+      ],
+      "feedback": "Whom is a formal object pronoun referring to the historian; the panel is the clause subject."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence, preserving the defining meaning: The student submitted the proposal received a prize.",
+      "acceptedAnswers": [
+        "The student who submitted the proposal received a prize."
+      ],
+      "feedback": "The subject of submitted needs the relative pronoun who."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence, preserving the extra information: Their new app, that launched yesterday, is free.",
+      "acceptedAnswers": [
+        "Their new app, which launched yesterday, is free."
+      ],
+      "feedback": "The non-defining relative clause about an app requires which rather than that."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence, keeping a formal non-defining object relative: Dr Lewis, we invited to speak, has accepted.",
+      "acceptedAnswers": [
+        "Dr Lewis, whom we invited to speak, has accepted."
+      ],
+      "feedback": "An object relative cannot be omitted in a non-defining clause; whom suits the requested formal tone."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct punctuation only; the clause restricts which invoices are meant: The invoices that remain unpaid, require immediate attention.",
+      "acceptedAnswers": [
+        "The invoices that remain unpaid require immediate attention."
+      ],
+      "feedback": "A defining relative clause is not separated from its noun phrase by a final comma."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Identify the technician. Facts: The technician / who / repaired / the panel / is here. Use who as the subject relative.",
+      "acceptedAnswers": [
+        "The technician who repaired the panel is here."
+      ],
+      "feedback": "Who must be present because it is the subject of repaired."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Describe an object relative with no relative pronoun. Facts: The proposal / we reviewed / was rejected.",
+      "acceptedAnswers": [
+        "The proposal we reviewed was rejected."
+      ],
+      "feedback": "We is the subject of reviewed, allowing an omitted object relative."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Add non-defining information about a named person. Facts: Jordan / who / leads the research / is speaking. Say commas with natural pauses.",
+      "acceptedAnswers": [
+        "Jordan, who leads the research, is speaking."
+      ],
+      "feedback": "The extra clause is non-defining and uses who rather than that."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Use which to add non-defining information. Facts: The observatory / which / opened in April / welcomes visitors.",
+      "acceptedAnswers": [
+        "The observatory, which opened in April, welcomes visitors."
+      ],
+      "feedback": "Which introduces supplementary information about the observatory."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Use a formal object relative. Facts: The director / whom / we consulted / supported the plan.",
+      "acceptedAnswers": [
+        "The director whom we consulted supported the plan."
+      ],
+      "feedback": "Whom functions as the object of consulted."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Make a defining subject relative about a thing. Facts: The device / that / detects smoke / is inexpensive.",
+      "acceptedAnswers": [
+        "The device that detects smoke is inexpensive."
+      ],
+      "feedback": "That is the subject of detects and cannot be omitted."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct aloud: \"Our laboratory, that operates overnight, needs more staff.\" Preserve the non-defining clause.",
+      "acceptedAnswers": [
+        "Our laboratory, which operates overnight, needs more staff."
+      ],
+      "feedback": "That is not used to introduce a non-defining relative clause."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give two full sentences in this order. First: The person / who / called / is my tutor. Second: The email / I sent / was brief.",
+      "acceptedAnswers": [
+        "The person who called is my tutor. The email I sent was brief."
+      ],
+      "feedback": "Who is required as subject; the email sentence omits an object relative."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The researcher who collected the samples will present the findings on Thursday.",
+      "prompt": "Who will present the findings?",
+      "choices": [
+        "The researcher who collected the samples",
+        "The technician who stored the equipment",
+        "The editor of the newsletter"
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker identifies the researcher through the subject relative who collected the samples."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The documentary we watched yesterday explained how the coastal wetlands recover.",
+      "prompt": "Which item was watched?",
+      "choices": [
+        "An interview",
+        "The documentary",
+        "A public lecture"
+      ],
+      "answerIndex": 1,
+      "feedback": "The documentary is the object of watched even though its relative pronoun is omitted."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The assistant whom the committee interviewed accepted the position.",
+      "prompt": "Transcribe the three-word relative-clause opening used for the formal object reference.",
+      "acceptedAnswers": [
+        "whom the committee"
+      ],
+      "feedback": "Whom the committee is audible and begins the formal object relative clause."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Our new archive, which stores historical maps, has opened to the public.",
+      "prompt": "What does the non-defining clause tell us?",
+      "choices": [
+        "That only one archive exists worldwide",
+        "That the archive contains financial records",
+        "That the archive stores historical maps"
+      ],
+      "answerIndex": 2,
+      "feedback": "The which clause adds the detail that the archive stores historical maps."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Every document that arrived before noon has been catalogued.",
+      "prompt": "Which documents have been catalogued?",
+      "choices": [
+        "Those arriving before noon",
+        "Those arriving after noon",
+        "Only those with handwritten notes"
+      ],
+      "answerIndex": 0,
+      "feedback": "The defining relative clause restricts the documents to those that arrived before noon."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The original exhibition, which closed in June, included more than a hundred photographs.",
+      "prompt": "Which statement about the exhibition is correct?",
+      "choices": [
+        "It will close next June",
+        "It closed in June",
+        "It had fewer than ten photographs"
+      ],
+      "answerIndex": 1,
+      "feedback": "The relative clause specifies that the exhibition closed in June."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The volunteers who organised the fundraiser thanked everyone who had donated.",
+      "prompt": "Transcribe the three-word phrase identifying the volunteers.",
+      "acceptedAnswers": [
+        "who organised the"
+      ],
+      "feedback": "Who organised the introduces the subject relative clause that identifies the volunteers."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The two paintings, which were donated anonymously, are now in the main hall.",
+      "prompt": "Transcribe the four-word phrase that gives supplementary information about the paintings.",
+      "acceptedAnswers": [
+        "which were donated anonymously"
+      ],
+      "feedback": "Which were donated anonymously is the audible non-defining relative clause."
+    }
+  ]
+}

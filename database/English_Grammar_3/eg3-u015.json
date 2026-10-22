@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u015",
+  "title": "Ability, Possibility and Permission with Can and Could",
+  "level": "C1",
+  "topicId": "eg3-u015-can-could-be-able-to-and-be-allowed-to",
+  "summary": "Distinguish ability from achievement, theoretical from real possibility, and general from occasion-specific permission. Select can, could, be able to and be allowed to according to meaning and grammatical environment.",
+  "learningObjectives": [
+    "Use can and could for ordinary ability, and be able to where a modal cannot occupy the required grammatical position.",
+    "Contrast general past ability with a successful action on one past occasion, including contexts that favour could.",
+    "Distinguish hypothetical possibility from real-life possibility and express degrees of certainty about future options.",
+    "Choose appropriate forms for general past permission, a specific past authorisation and prohibition."
+  ],
+  "explanation": [
+    {
+      "heading": "Ability and grammatical position",
+      "body": "Can and could are central expressions of ability, but they cannot themselves take an infinitive after another modal, appear as an ordinary -ing form, or follow certain grammatical patterns. Be able to can fill those positions. In simple present statements and questions about knowing how to perform a skill, can usually sounds more natural than be able to. When the subject is something that receives an action, a modal passive such as can be inspected is natural; replacing it mechanically with be able to is not.",
+      "example": "After the training, the interns will be able to operate the new microscope."
+    },
+    {
+      "heading": "General past ability versus an actual success",
+      "body": "Could often describes a skill or ability that existed over a period in the past. For one completed success in a particular situation, was or were able to normally makes the successful outcome clearer. Negative could not or was not able to can both report a failed attempt. Could remains natural with perception or mental-state verbs, such as hear, see, understand and remember, and in expressions where something was almost impossible or the only action available.",
+      "example": "Although the lock was damaged, the caretaker was able to open the entrance after several attempts."
+    },
+    {
+      "heading": "Could for hypothetical possibility; can for real patterns",
+      "body": "Could can express what would be possible in imagined circumstances. Can often describes a possibility that occurs in real life, for example something that sometimes happens. In statements about theoretical possibility, could generally works where can would suggest a real-world occurrence or a practical option. Cannot and could not can also express judgements that a suggestion is impossible, but their time and degree of tentativeness depend on context.",
+      "example": "If we changed the venue at short notice, the catering costs could rise sharply."
+    },
+    {
+      "heading": "Future options and relative tentativeness",
+      "body": "Can may describe an available future option or a genuinely achievable plan; could can make that option more tentative or conditional. Neither form alone supplies a precise numerical probability, and the surrounding situation matters. Do not confuse a practical suggestion made with could with an assertion that the person lacks ability.",
+      "example": "We can publish the timetable on Friday, or we could wait until the final approvals arrive."
+    },
+    {
+      "heading": "Permission: standing rights and individual occasions",
+      "body": "Can and could can express permission, while be allowed to explicitly focuses on authorisation. For permission generally held in the past, could and was or were allowed to may both work. For permission granted on one particular past occasion, was or were allowed to is normally preferable. To describe something forbidden, could not and was or were not allowed to are both common. A form about ability does not automatically mean that permission existed.",
+      "example": "After the security check, the visitors were allowed to enter the archive for a single afternoon."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A continuing skill versus a particular success",
+      "left": {
+        "label": "Past general ability",
+        "example": "As a child, Leila could identify most local birds by their calls.",
+        "note": "Could describes what she was capable of over a period."
+      },
+      "right": {
+        "label": "A completed achievement",
+        "example": "Despite the heavy rain, Leila was able to find the campsite.",
+        "note": "Was able to highlights success on that particular occasion."
+      }
+    },
+    {
+      "title": "A real possibility versus an imagined outcome",
+      "left": {
+        "label": "Real-world possibility",
+        "example": "The path can become slippery after a storm.",
+        "note": "This sometimes occurs in actual conditions."
+      },
+      "right": {
+        "label": "Hypothetical possibility",
+        "example": "The path could become slippery if we removed the drainage stones.",
+        "note": "The result is imagined under a stated condition."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I could read sheet music before I started secondary school.",
+      "note": "Could expresses a general ability in an earlier period."
+    },
+    {
+      "sentence": "The witnesses could hear the alarm from the next street.",
+      "note": "Could is natural with the perception verb hear, even when referring to a specific event."
+    },
+    {
+      "sentence": "The archived letters can be examined online before the exhibition.",
+      "note": "Can be examined is a natural modal passive; the letters themselves do not possess the ability to examine anything."
+    },
+    {
+      "sentence": "We could save energy by switching the lights off automatically.",
+      "note": "Could offers a possible course of action rather than reporting a proven result."
+    },
+    {
+      "sentence": "The researcher was allowed to examine the manuscript on Tuesday.",
+      "note": "Was allowed to describes permission granted for one past occasion."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "We will can access the new portal next month.",
+      "correct": "We will be able to access the new portal next month.",
+      "why": "A modal such as will cannot be directly followed by can; use be able to after will."
+    },
+    {
+      "incorrect": "After trying several keys, Jonah could finally open the cabinet.",
+      "correct": "After trying several keys, Jonah was able to open the cabinet.",
+      "why": "Was able to more explicitly reports success in one completed past situation; could can otherwise suggest general ability."
+    },
+    {
+      "incorrect": "If we hired a larger room, the event can become too expensive.",
+      "correct": "If we hired a larger room, the event could become too expensive.",
+      "why": "Could is the natural choice for a hypothetical result dependent on an imagined decision."
+    },
+    {
+      "incorrect": "The assistant was allowed entering the restricted room yesterday.",
+      "correct": "The assistant was allowed to enter the restricted room yesterday.",
+      "why": "The passive expression be allowed to takes a to-infinitive, and it fits a specific past authorisation."
+    }
+  ],
+  "studyTips": [
+    "When an exercise describes a past event, ask whether the sentence asserts that someone actually succeeded or merely had the ability.",
+    "Create paired examples with can for a recurring real-world possibility and could for the result of an imagined if-clause.",
+    "For past permission, distinguish an ongoing privilege from a single approved visit; practise both affirmative and negative forms."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly expresses future ability after a training course?",
+      "choices": [
+        "The trainees will can inspect the samples.",
+        "The trainees will be able to inspect the samples.",
+        "The trainees will able to inspect the samples."
+      ],
+      "answerIndex": 1,
+      "feedback": "Will must be followed by the bare infinitive be, forming will be able to; it cannot be followed by can."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Despite the broken ladder, the workers eventually ___ reach the upper platform.",
+      "choices": [
+        "could",
+        "were able to",
+        "can"
+      ],
+      "answerIndex": 1,
+      "feedback": "Were able to explicitly reports a successful achievement on a particular past occasion."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "If we replaced the glass roof, the renovation ___ cost much more.",
+      "choices": [
+        "can",
+        "is able to",
+        "could"
+      ],
+      "answerIndex": 2,
+      "feedback": "Could describes a possible consequence of an imagined change."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which option describes a childhood language skill, not merely permission or possibility? \"At primary school, my grandfather ___ speak both Welsh and English.\"",
+      "choices": [
+        "could",
+        "was allowed to",
+        "might"
+      ],
+      "answerIndex": 0,
+      "feedback": "Could expresses an established skill. Was allowed to would focus on permission; might would only suggest possibility."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Next year, researchers will ___ work in the renovated laboratory. Type the three-word expression for ability after will.",
+      "acceptedAnswers": [
+        "be able to"
+      ],
+      "feedback": "Be able to fits after will; can cannot directly follow another modal."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Even though the lift had stopped, the porter ___ carry the boxes upstairs. Complete the past form of be able to to express one successful action.",
+      "acceptedAnswers": [
+        "was able to"
+      ],
+      "feedback": "Was able to reports an actual success in this specific situation."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "I ___ hear the announcement because the speakers were disconnected. Write the negative past modal in its contracted form.",
+      "acceptedAnswers": [
+        "couldn't"
+      ],
+      "feedback": "Couldn't expresses inability and is natural with hear in the past."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "If we removed the protective cover, the screen ___ become scratched. Write the modal expressing a hypothetical possibility.",
+      "acceptedAnswers": [
+        "could"
+      ],
+      "feedback": "Could is appropriate for a possible result of an imagined action."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: By Friday, our team will can submit the revised documents.",
+      "acceptedAnswers": [
+        "By Friday, our team will be able to submit the revised documents."
+      ],
+      "feedback": "Will be able to supplies the appropriate future expression of ability."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence to emphasise one successful achievement: After an hour of searching, Marta could finally locate the missing file.",
+      "acceptedAnswers": [
+        "After an hour of searching, Marta was able to locate the missing file."
+      ],
+      "feedback": "Was able to makes the successful outcome of a particular search explicit."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the possibility modal: If the bridge closed, the journey can take another hour.",
+      "acceptedAnswers": [
+        "If the bridge closed, the journey could take another hour."
+      ],
+      "feedback": "Could, rather than can, marks the hypothetical result of the imagined closure."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The technician was allowed entering the secure room for yesterday's inspection.",
+      "acceptedAnswers": [
+        "The technician was allowed to enter the secure room for yesterday's inspection."
+      ],
+      "feedback": "Be allowed to requires a to-infinitive and refers here to a particular past permission."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Report one completed past success. Facts: The operator / be able to / restore the connection / after the restart. Use a complete sentence.",
+      "acceptedAnswers": [
+        "The operator was able to restore the connection after the restart."
+      ],
+      "feedback": "Was able to stresses the success of this individual attempt."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Describe a general skill in childhood. Facts: My sister / could / solve complex puzzles / at ten.",
+      "acceptedAnswers": [
+        "My sister could solve complex puzzles at ten."
+      ],
+      "feedback": "Could describes a general skill at an earlier age."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Express future ability. Facts: We / be able to / attend the seminar / next month. Start with We and use will.",
+      "acceptedAnswers": [
+        "We will be able to attend the seminar next month.",
+        "We'll be able to attend the seminar next month."
+      ],
+      "feedback": "Will be able to expresses future ability without putting can after will."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Describe a failed attempt. Facts: I / not be able to / unlock the door / last night. Use could in its contracted negative form.",
+      "acceptedAnswers": [
+        "I couldn't unlock the door last night."
+      ],
+      "feedback": "Couldn't expresses inability on the occasion described."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Describe a particular past authorisation. Facts: Maya / be allowed to / enter the laboratory / yesterday.",
+      "acceptedAnswers": [
+        "Maya was allowed to enter the laboratory yesterday."
+      ],
+      "feedback": "Was allowed to explicitly describes permission on one past occasion."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Express a hypothetical consequence. Facts: If we delay the order / the equipment / could / arrive late. Use a complete conditional sentence.",
+      "acceptedAnswers": [
+        "If we delay the order, the equipment could arrive late."
+      ],
+      "feedback": "Could describes what may result from the hypothetical delay."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the sentence aloud: She might be able solving the problem by herself.",
+      "acceptedAnswers": [
+        "She might be able to solve the problem by herself."
+      ],
+      "feedback": "Be able is followed by to and the infinitive solve."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give two sentences in this order, using full forms. Past skill: I / could / swim / at six. Past achievement: I / be able to / complete the race / yesterday.",
+      "acceptedAnswers": [
+        "I could swim at six. I was able to complete the race yesterday."
+      ],
+      "feedback": "Could covers the earlier skill; was able to identifies a particular successful action."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Tariq could play the piano as a child, but he did not perform at yesterday's concert because he was ill.",
+      "prompt": "Which information describes Tariq's ability over a period in the past?",
+      "choices": [
+        "He could play the piano as a child.",
+        "He performed at yesterday's concert.",
+        "He began learning to play yesterday."
+      ],
+      "answerIndex": 0,
+      "feedback": "Could play refers to Tariq's general ability in childhood."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The projector failed moments before the lecture. After two restarts, the host was able to display the slides.",
+      "prompt": "What did the host actually manage to do?",
+      "choices": [
+        "Replace the projector permanently.",
+        "Cancel the lecture.",
+        "Display the slides after restarting the projector."
+      ],
+      "answerIndex": 2,
+      "feedback": "Was able to reports the successful outcome of a particular attempt."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "We will be able to reopen the reading room next Monday.",
+      "prompt": "Type the three-word ability phrase heard after \"We will\".",
+      "acceptedAnswers": [
+        "be able to"
+      ],
+      "feedback": "Be able to follows will to express future ability."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "If the exhibition moved outside, rain could damage the paintings.",
+      "prompt": "What does the speaker mean by could damage?",
+      "choices": [
+        "The paintings have already been damaged.",
+        "Damage is a possible consequence of a hypothetical move.",
+        "It rains every time the paintings are displayed."
+      ],
+      "answerIndex": 1,
+      "feedback": "Could expresses the possible effect of the imagined move outdoors."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "On Thursday, the conservation team were allowed to enter the closed gallery for one afternoon.",
+      "prompt": "What happened on Thursday?",
+      "choices": [
+        "The team had a specific authorisation to enter.",
+        "The gallery was permanently opened to the public.",
+        "The team lost the ability to enter any building."
+      ],
+      "answerIndex": 0,
+      "feedback": "Were allowed to identifies permission granted for a particular occasion."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The lane can become crowded at weekends, but we could try the southern entrance tomorrow.",
+      "prompt": "Which option is presented as a tentative suggestion for tomorrow?",
+      "choices": [
+        "Crowding the lane on purpose.",
+        "Closing the road every weekend.",
+        "Trying the southern entrance."
+      ],
+      "answerIndex": 2,
+      "feedback": "Could try introduces a potential rather than firmly decided future option."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "I could not remember the access code after the update.",
+      "prompt": "Type the three-word phrase spoken between \"I\" and \"the access code\".",
+      "acceptedAnswers": [
+        "could not remember"
+      ],
+      "feedback": "Could not remember expresses past inability with a mental-state verb."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The volunteers were allowed to stay until the doors closed.",
+      "prompt": "Type the three-word permission phrase heard after \"The volunteers\".",
+      "acceptedAnswers": [
+        "were allowed to"
+      ],
+      "feedback": "Were allowed to is the expression of past permission in the recording."
+    }
+  ]
+}

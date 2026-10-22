@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u096",
+  "title": "Introductory It: Extraposition, Evaluation and Delayed Subjects",
+  "level": "C1",
+  "topicId": "eg3-u096-it-as-subject-introductory-it",
+  "summary": "Use introductory it to delay a long clause, foreground an evaluation and give prominence to new information. Control adjective, infinitive, noun and verb patterns, including personal reactions, it takes constructions and that-clauses, while respecting limits on extraposing ordinary noun subjects.",
+  "learningObjectives": [
+    "Recast long infinitive, -ing, wh- and that-clause subjects with anticipatory it without changing the main proposition.",
+    "Choose natural adjective and noun patterns that evaluate an event or put new information later in a sentence.",
+    "Use it + verb (+ object) with infinitive and that-clause complements, selecting the right prepositions and word order.",
+    "Distinguish clause extraposition from usually unnatural displacement of an ordinary noun phrase, with awareness of informal exceptions."
+  ],
+  "explanation": [
+    {
+      "heading": "An anticipatory subject for heavy information",
+      "body": "Introductory it occupies the subject position while a substantial to-infinitive, -ing, wh- or that-clause appears later. It is not a pronoun pointing back to an earlier noun. Delaying the clause avoids a heavy sentence opening and often puts new information where it is easiest to process. Both a fronted-clause version and an it version can be grammatical, but their information flow and emphasis differ.",
+      "example": "It is difficult to explain why the readings diverged."
+    },
+    {
+      "heading": "Evaluations with be + adjective or noun",
+      "body": "Evaluative patterns commonly take it is + adjective + to-infinitive or that-clause, or it is + noun phrase + that-clause: It is sensible to double-check; it is unfortunate that the permit expired; it is a relief that nobody was hurt. A delayed clause commonly conveys what the speaker is assessing. Some -ing subjects are also natural after anticipatory it, for instance it is pointless arguing. Preserve the form selected by the adjective rather than attaching any clause mechanically.",
+      "example": "It was a relief that the missing documents were eventually located."
+    },
+    {
+      "heading": "It + verb and a following infinitive",
+      "body": "Some verbs work with introductory it and a later infinitive: it helps to summarise; it hurts to bend the wrist. Others take a human object: it startled the assistant to hear the alarm. In an it takes pattern, the object identifies the person or group and the noun phrase identifies the amount of time, money or effort required. Keep the infinitive after that amount: it took our team a week to verify the sample.",
+      "example": "It took the editors several days to check the final proofs."
+    },
+    {
+      "heading": "It + verb + that-clause, with or without an object",
+      "body": "A delayed that-clause can follow an impersonal verb: it seems that the records agree; it emerged that a permit was missing. A person affected by a realisation often appears as an object or prepositional complement: it struck the auditor that a page was missing; it occurred to the auditor that a page was missing. Those verb-specific patterns are not interchangeable, even though they express similar discoveries.",
+      "example": "It occurred to the organiser that two guests had not received the invitation."
+    },
+    {
+      "heading": "Limits: ordinary noun subjects and informal afterthoughts",
+      "body": "Do not routinely move a normal noun phrase to the end after introductory it. In neutral edited prose, Their decision was surprising is natural, whereas It was surprising their decision is generally awkward. Informal speech may place a noun phrase after it as an emphatic afterthought, but this is a marked construction, not the standard substitute for a noun subject. A full that-clause can be postponed naturally: It was surprising that they changed their decision.",
+      "example": "Their sudden resignation was unexpected, but it was understandable that colleagues felt unsettled."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Clause first versus delayed clause",
+      "left": {
+        "label": "Clause as subject",
+        "example": "That the contract was renewed surprised the staff.",
+        "note": "The lengthy clause occupies the initial subject position."
+      },
+      "right": {
+        "label": "Introductory it",
+        "example": "It surprised the staff that the contract was renewed.",
+        "note": "It makes the sentence easier to begin, postponing the important clause."
+      }
+    },
+    {
+      "title": "A noun phrase is not normally postponed in the same way",
+      "left": {
+        "label": "Ordinary noun subject",
+        "example": "Their response was encouraging.",
+        "note": "The noun phrase itself is the subject."
+      },
+      "right": {
+        "label": "Postponed content clause",
+        "example": "It was encouraging that they responded promptly.",
+        "note": "The full that-clause can naturally follow introductory it."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "It is encouraging that the prototype passed the second inspection.",
+      "note": "Introductory it introduces an evaluation before the content clause."
+    },
+    {
+      "sentence": "It matters to tell applicants how decisions were reached.",
+      "note": "It + verb + to-infinitive expresses what is important to do."
+    },
+    {
+      "sentence": "It alarmed the caretaker to discover that the rear gate was unlocked.",
+      "note": "The object names the person affected by the discovery."
+    },
+    {
+      "sentence": "It turned out that the address on the invitation was outdated.",
+      "note": "Turned out introduces information discovered later."
+    },
+    {
+      "sentence": "It took us two full days to reconcile the accounts.",
+      "note": "The construction gives the resources needed to complete an action."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Is difficult to understand why the totals differ.",
+      "correct": "It is difficult to understand why the totals differ.",
+      "why": "The delayed subject clause requires an explicit grammatical subject, it."
+    },
+    {
+      "incorrect": "It was unexpected their sudden resignation.",
+      "correct": "Their sudden resignation was unexpected.",
+      "why": "An ordinary noun phrase is not normally placed after anticipatory it in neutral edited prose."
+    },
+    {
+      "incorrect": "It took me to three hours to finish the notes.",
+      "correct": "It took me three hours to finish the notes.",
+      "why": "In it takes + person + time + infinitive, the infinitive marker to comes after the time expression."
+    },
+    {
+      "incorrect": "It suddenly occurred her that the invitation had expired.",
+      "correct": "It suddenly occurred to her that the invitation had expired.",
+      "why": "Occurred requires the preposition to before the person experiencing the realisation."
+    }
+  ],
+  "studyTips": [
+    "Take one long that-clause subject, rewrite it with introductory it, and identify which information becomes more prominent at the end.",
+    "Build a small pattern chart for it helps to, it shocked someone to, it occurred to someone that and it takes someone time to.",
+    "Check whether the postponed material is a clause or just a noun phrase; use a regular noun subject unless informal afterthought emphasis is intended."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Complete a natural assessment: \"___ essential to confirm the names before printing.\"",
+      "choices": [
+        "It is",
+        "There are",
+        "Is it"
+      ],
+      "answerIndex": 0,
+      "feedback": "It is introduces an evaluative adjective with a delayed infinitive clause."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which sentence naturally places the discovery in a following that-clause?",
+      "choices": [
+        "It emerged that the timetable had changed.",
+        "Emerged it that the timetable had changed.",
+        "There emerged that the timetable had changed."
+      ],
+      "answerIndex": 0,
+      "feedback": "It emerged that is the established introductory-it pattern before a content clause."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which verb completes this resource pattern? \"It ___ the group three hours to organise the files.\"",
+      "choices": [
+        "spent",
+        "took",
+        "lasted"
+      ],
+      "answerIndex": 1,
+      "feedback": "It took + group + time + to-infinitive specifies the effort or time required."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the natural pattern for a sudden realisation: \"It ___ Nadia that the door had been left open.\"",
+      "choices": [
+        "occurred",
+        "happened",
+        "struck"
+      ],
+      "answerIndex": 2,
+      "feedback": "It struck Nadia that expresses her sudden realisation; occurred would require to Nadia."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "It ___ (be) important to label every sample correctly. Use the present simple.",
+      "acceptedAnswers": [
+        "is"
+      ],
+      "feedback": "It is important to is a common evaluative pattern with an infinitive."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "During yesterday's inspection, it ___ (take) us thirty minutes to find the key. Use the past simple.",
+      "acceptedAnswers": [
+        "took"
+      ],
+      "feedback": "It took us thirty minutes to find the key gives the past amount of time required."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Based on the current evidence, it ___ (seem) that the timetable is accurate. Use the present simple.",
+      "acceptedAnswers": [
+        "seems"
+      ],
+      "feedback": "It seems that introduces an apparent conclusion with a following that-clause."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "It ___ (shock) Mira to learn about the closure last night. Use the past simple.",
+      "acceptedAnswers": [
+        "shocked"
+      ],
+      "feedback": "It shocked Mira to learn describes a past emotional reaction followed by an infinitive."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: Is astonishing how quickly the group adapted.",
+      "acceptedAnswers": [
+        "It is astonishing how quickly the group adapted."
+      ],
+      "feedback": "The postponed how-clause requires the introductory subject it."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: It costed us too much money to replace the broken gate.",
+      "acceptedAnswers": [
+        "It cost us too much money to replace the broken gate."
+      ],
+      "feedback": "The simple past of cost is cost, not costed in this ordinary expenditure meaning."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence for neutral formal English: It became clear the reason for the delay.",
+      "acceptedAnswers": [
+        "The reason for the delay became clear."
+      ],
+      "feedback": "An ordinary noun phrase normally functions as the subject rather than a postponed complement after introductory it."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence: It occurred the coordinator that the guests had left early.",
+      "acceptedAnswers": [
+        "It occurred to the coordinator that the guests had left early."
+      ],
+      "feedback": "Occurred takes to before the experiencer, followed by the content that-clause."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Evaluate an action using introductory it. Facts: essential / check the figures. Begin with \"It is\".",
+      "acceptedAnswers": [
+        "It is essential to check the figures."
+      ],
+      "feedback": "The infinitive clause is postponed after it is essential."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Make an impersonal recommendation. Facts: help / reread the instructions. Begin with \"It\" and use the present simple.",
+      "acceptedAnswers": [
+        "It helps to reread the instructions."
+      ],
+      "feedback": "It helps to introduces an infinitive expressing a useful action."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Describe a reaction. Facts: surprise / Lena / find the room empty. Begin with \"It\" and use the past simple.",
+      "acceptedAnswers": [
+        "It surprised Lena to find the room empty."
+      ],
+      "feedback": "The object Lena names the person affected before the infinitive clause."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Report a discovery. Facts: turn out / the figures were correct. Begin with \"It\" and use the past simple.",
+      "acceptedAnswers": [
+        "It turned out that the figures were correct."
+      ],
+      "feedback": "It turned out that delays the discovered proposition."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Say how long a task required. Facts: we / one hour / check the records. Begin with \"It took\".",
+      "acceptedAnswers": [
+        "It took us one hour to check the records.",
+        "It took us an hour to check the records."
+      ],
+      "feedback": "It took + person + duration + to-infinitive gives the time needed."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Correct this sentence aloud: \"Is hard to tell whether the figures are reliable.\"",
+      "acceptedAnswers": [
+        "It is hard to tell whether the figures are reliable.",
+        "It's hard to tell whether the figures are reliable."
+      ],
+      "feedback": "Introductory it supplies the subject before is hard."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Rephrase with a postponed that-clause. Facts: surprising / she declined the offer. Begin with \"It was\".",
+      "acceptedAnswers": [
+        "It was surprising that she declined the offer."
+      ],
+      "feedback": "The that-clause comes after the evaluation rather than at the beginning."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two full-form sentences in this order. Appearance: the door / be locked. Duration: Sam / five minutes / find the key. Begin each sentence with \"It\".",
+      "acceptedAnswers": [
+        "It seemed that the door was locked. It took Sam five minutes to find the key."
+      ],
+      "feedback": "The first sentence postpones an apparent fact; the second uses it took for time required."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "It is reassuring to know that the backup worked, but it is worrying that the main drive failed.",
+      "prompt": "What does the speaker find worrying?",
+      "choices": [
+        "The backup worked",
+        "The main drive failed",
+        "The files were copied early"
+      ],
+      "answerIndex": 1,
+      "feedback": "The speaker evaluates the backup positively and the failure of the main drive negatively."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "It took the volunteers two mornings to label every box, not two whole days.",
+      "prompt": "How long did the labelling task take?",
+      "choices": [
+        "Two mornings",
+        "Two full days",
+        "One morning"
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker explicitly contrasts two mornings with two whole days."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "It seems that the registration desk opens at half past eight.",
+      "prompt": "Transcribe the first three words of the sentence, including the reporting verb.",
+      "acceptedAnswers": [
+        "it seems that"
+      ],
+      "feedback": "It seems that presents the claim as an inference rather than an established fact."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "It shocked the organisers to learn that the venue would close early.",
+      "prompt": "Who experienced the surprise about the closure?",
+      "choices": [
+        "The visitors",
+        "The venue staff",
+        "The organisers"
+      ],
+      "answerIndex": 2,
+      "feedback": "The person or group after shocked is the one affected: the organisers."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "It emerged that the missing key had actually been in the kitchen drawer all morning.",
+      "prompt": "What was eventually discovered?",
+      "choices": [
+        "The key was in a kitchen drawer",
+        "Someone had changed the locks",
+        "The key had been taken outside"
+      ],
+      "answerIndex": 0,
+      "feedback": "The it emerged that clause reveals the eventual discovery of the key's location."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "I thought finishing before sunset would be easy, but it turned out that we needed another hour.",
+      "prompt": "What happened in the end?",
+      "choices": [
+        "The team finished early",
+        "The task needed another hour",
+        "The meeting was cancelled"
+      ],
+      "answerIndex": 1,
+      "feedback": "It turned out that introduces the unexpected outcome: they needed more time."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "It helps to compare two samples before drawing a conclusion.",
+      "prompt": "Transcribe the opening phrase up to and including \"samples\".",
+      "acceptedAnswers": [
+        "it helps to compare two samples"
+      ],
+      "feedback": "It helps to introduces a recommended action with a later infinitive."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "It took the panel three meetings to agree on a final recommendation.",
+      "prompt": "Transcribe the opening part of the statement up to and including \"meetings\".",
+      "acceptedAnswers": [
+        "it took the panel three meetings"
+      ],
+      "feedback": "The phrase it took the panel three meetings describes the amount of work required."
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u025",
+  "title": "Reporting with Passives and Impersonal Constructions",
+  "level": "C1",
+  "topicId": "eg3-u025-reporting-with-passives-it-is-said-that",
+  "summary": "Report claims, conclusions and decisions without naming their source. Choose between it + passive + that-clause, subject + passive + infinitive, passive reporting with wh-clauses, and existential there + passive + infinitive, while respecting restrictions on reporting verbs and time reference.",
+  "learningObjectives": [
+    "Use impersonal it + passive reporting verb + that-clause when the source of a claim is unspecified or less important than the content.",
+    "Convert eligible reporting structures into subject + passive reporting verb + infinitive, distinguishing present, continuing and earlier events.",
+    "Recognise when a reporting or communication verb cannot be freely transferred into the impersonal or subject-focused passive patterns.",
+    "Use passive reporting with wh-clauses and existential there constructions without creating redundant or ungrammatical subjects."
+  ],
+  "explanation": [
+    {
+      "heading": "Reporting without naming the speaker",
+      "body": "In academic and news-style writing, a passive can remove the person reporting a claim: it is believed that the plan will succeed, or it was announced that the venue had changed. The dummy subject it introduces a that-clause; the reporting verb may be simple, perfect or past depending on when the reporting happened. The passive presents reported information and does not by itself guarantee that it is true.",
+      "example": "It has been estimated that the new crossing will reduce journey times."
+    },
+    {
+      "heading": "Not every communication verb allows impersonal it",
+      "body": "It is said, believed, expected, suggested, decided or established that ... are common reporting structures. In contrast, verbs such as inform, reassure, remind, persuade and warn ordinarily require a human recipient in the relevant sense: the guests were informed that ..., not it was informed that .... Agree, decide, hope, intend, plan and propose may also take it + passive + to-infinitive in appropriate contexts, for example it was agreed to delay the vote. Deciding and recommending can take an impersonal it-clause, but the resulting statement cannot automatically be rewritten with a person or thing as the subject of a reporting infinitive.",
+      "example": "The tenants were warned that the lift would be unavailable overnight."
+    },
+    {
+      "heading": "Focusing the subject with an infinitive",
+      "body": "With suitable verbs, the reported topic can become the passive subject: it is thought that the building is unsafe becomes the building is thought to be unsafe. Choose the infinitive to locate the event relative to the report: to be for a present state, to be working for an ongoing activity, and to have failed for an earlier event. Reporting verbs such as decide, mention, propose, recommend and suggest do not generally allow a mechanical subject + passive + infinitive equivalent for the content of a that-clause.",
+      "example": "The expedition is believed to have reached the coast several days earlier."
+    },
+    {
+      "heading": "Reporting an unknown detail through a wh-clause",
+      "body": "A number of passive verbs reporting investigation or disclosure can introduce an embedded wh-clause: it has been discovered why the sensor failed; it was explained how the samples had been prepared. Embedded questions retain statement word order: it is known who authorised the transfer, not it is known who did authorise the transfer, unless do has a separate emphatic function. A plain say or believe is not a universal substitute for these disclosure verbs.",
+      "example": "It has not yet been established whether the painting is authentic."
+    },
+    {
+      "heading": "Existential there and reported quantities",
+      "body": "An existential statement can be recast as there + passive reporting verb + to be: there are thought to be six empty seats. For a situation earlier than the reporting time, use to have been: there are believed to have been several interruptions. The verb after there usually agrees with the following plural or singular noun phrase, while the passive infinitive reports what is claimed to exist.",
+      "example": "There are reported to have been several short power cuts overnight."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Information first or reported subject first",
+      "left": {
+        "label": "Impersonal reporting",
+        "example": "It is believed that the bridge is unstable.",
+        "note": "The entire proposition follows a passive reporting verb with dummy it."
+      },
+      "right": {
+        "label": "Subject-focused reporting",
+        "example": "The bridge is believed to be unstable.",
+        "note": "The bridge becomes the topic; the infinitive expresses the same current state."
+      }
+    },
+    {
+      "title": "Present condition or earlier event",
+      "left": {
+        "label": "Contemporary state",
+        "example": "The pilot is thought to be abroad.",
+        "note": "The simple infinitive places the state at the time being discussed."
+      },
+      "right": {
+        "label": "Event preceding the report",
+        "example": "The pilot is thought to have left yesterday.",
+        "note": "A perfect infinitive presents the departure as earlier than the current report."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "It was agreed that the council would review the proposal in spring.",
+      "note": "Impersonal it introduces an agreed course of action; the agreement is the reporting event."
+    },
+    {
+      "sentence": "The monument is said to be undergoing restoration.",
+      "note": "A continuous infinitive presents an activity in progress rather than a completed event."
+    },
+    {
+      "sentence": "The missing documents are believed to have been destroyed.",
+      "note": "To have been destroyed is a perfect passive infinitive locating the destruction earlier."
+    },
+    {
+      "sentence": "It has been revealed who paid for the repairs.",
+      "note": "A passive reporting verb introduces a wh-clause naming the unknown detail."
+    },
+    {
+      "sentence": "There are estimated to be more than forty nesting sites nearby.",
+      "note": "Existential there focuses on an estimated number of sites."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "It was informed that the interviews had moved to Thursday.",
+      "correct": "The applicants were informed that the interviews had moved to Thursday.",
+      "why": "Inform needs a recipient in this sense; it does not normally take impersonal it + passive + that."
+    },
+    {
+      "incorrect": "The novelist is believed to publish her first book in 2001.",
+      "correct": "The novelist is believed to have published her first book in 2001.",
+      "why": "A dated event preceding the present belief is expressed with a perfect infinitive."
+    },
+    {
+      "incorrect": "The museum is suggested to close early on Fridays.",
+      "correct": "It is suggested that the museum should close early on Fridays.",
+      "why": "Suggest can introduce an impersonal that-clause but does not normally permit this subject + passive + infinitive transformation."
+    },
+    {
+      "incorrect": "There are thought that several copies are missing.",
+      "correct": "There are thought to be several missing copies.",
+      "why": "Existential there combines with a passive reporting verb and to be, not directly with that."
+    }
+  ],
+  "studyTips": [
+    "Take a neutral claim and produce it is believed that ... and, when the verb permits it, the corresponding subject is believed to ... form.",
+    "Draw a timeline for each reporting sentence and choose to be, to be doing or to have done to match the reported event.",
+    "Sort verbs into impersonal-reporting, recipient-passive and wh-clause patterns before rewriting; reject transformations that the verb does not license."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the grammatically correct impersonal report of an unspecified belief.",
+      "choices": [
+        "It believes that the museum will reopen in July.",
+        "It is believed that the museum will reopen in July.",
+        "The museum is believed that it will reopen in July."
+      ],
+      "answerIndex": 1,
+      "feedback": "Impersonal reporting uses it + is believed + that-clause."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The archivist is said ___ the letter during an inspection last winter. Choose the form that shows an earlier discovery.",
+      "choices": [
+        "to be finding",
+        "to find",
+        "to have found"
+      ],
+      "answerIndex": 2,
+      "feedback": "To have found places the discovery before the present report."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct passive way to report a committee decision.",
+      "choices": [
+        "It was decided that the hearing would be postponed.",
+        "The hearing was decided to be postponed.",
+        "The committee was decided that the hearing would be postponed."
+      ],
+      "answerIndex": 0,
+      "feedback": "Decide allows an impersonal passive that-clause, not a routine subject + was decided + infinitive rewrite."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly reports the outcome of an investigation into responsibility?",
+      "choices": [
+        "It has been reveal who authorised the repair.",
+        "It has been revealed who did authorised the repair.",
+        "It has been revealed who authorised the repair."
+      ],
+      "answerIndex": 2,
+      "feedback": "The passive has been revealed can introduce an embedded who-clause with normal statement word order."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "It ___ (expect) that the revised rules will apply next year. Supply the present-simple passive verb phrase.",
+      "acceptedAnswers": [
+        "is expected"
+      ],
+      "feedback": "Is expected gives the impersonal passive reporting structure."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The engineer is thought ___ (find) the flaw before last week’s inspection. Give the complete perfect infinitive.",
+      "acceptedAnswers": [
+        "to have found"
+      ],
+      "feedback": "The engineer is thought to have found the flaw before the later inspection."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "There ___ (believe) to be fewer errors now. Supply the complete present-simple passive verb phrase.",
+      "acceptedAnswers": [
+        "are believed"
+      ],
+      "feedback": "The plural noun errors governs agreement in the existential reporting structure: there are believed to be."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "It has been established ___ caused the interruption. Supply one interrogative word for an unknown person.",
+      "acceptedAnswers": [
+        "who"
+      ],
+      "feedback": "Who introduces the embedded question about the person responsible."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the communication passive: It was informed to the participants that the schedule had changed.",
+      "acceptedAnswers": [
+        "The participants were informed that the schedule had changed."
+      ],
+      "feedback": "The recipient must be the subject of passive informed; participants supplies the audience of this notice."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the time relationship: The artist is believed to complete the mural in 2019.",
+      "acceptedAnswers": [
+        "The artist is believed to have completed the mural in 2019."
+      ],
+      "feedback": "The reported completion predates the present belief, so to have completed is required."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the passive suggestion: The exhibition is suggested to close early.",
+      "acceptedAnswers": [
+        "It is suggested that the exhibition should close early.",
+        "It is suggested that the exhibition close early."
+      ],
+      "feedback": "Suggest commonly uses impersonal it + passive + that, with should or a mandative base form."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the existential report: There are thought that several rooms remain empty.",
+      "acceptedAnswers": [
+        "There are thought to be several empty rooms."
+      ],
+      "feedback": "The existential report requires there + passive reporting verb + to be."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Report an anonymous belief as a complete sentence. Facts: the route / be safe. Begin with “It is believed”.",
+      "acceptedAnswers": [
+        "It is believed that the route is safe."
+      ],
+      "feedback": "Use it is believed that for an unassigned belief."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Rewrite an anonymous report with the sculpture as subject. Facts: People say the sculpture is priceless. Use is said to.",
+      "acceptedAnswers": [
+        "The sculpture is said to be priceless."
+      ],
+      "feedback": "Subject + is said to be focuses the sculpture."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Report an earlier event with the alarm as subject. Facts: people think / the alarm / go off / at midnight last night. Use a perfect infinitive.",
+      "acceptedAnswers": [
+        "The alarm is thought to have gone off at midnight last night."
+      ],
+      "feedback": "To have gone off puts the alarm event before the present report."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Report this decision impersonally in the past: the meeting / postpone. Begin “It was decided” and use would be.",
+      "acceptedAnswers": [
+        "It was decided that the meeting would be postponed."
+      ],
+      "feedback": "A passive decision can introduce a that-clause about postponement."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Report an identified cause using a passive wh-clause. Facts: discover / why / the system stopped. Begin “It has been discovered”.",
+      "acceptedAnswers": [
+        "It has been discovered why the system stopped."
+      ],
+      "feedback": "Has been discovered takes the embedded question why the system stopped."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Report an unspecified belief about quantity. Facts: there / believe / be / several errors / in the schedule. Use present passive.",
+      "acceptedAnswers": [
+        "There are believed to be several errors in the schedule."
+      ],
+      "feedback": "There are believed to be expresses an indirectly reported quantity."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the sentence aloud, using impersonal it: “The museum is suggested to close early.” Use should in your correction.",
+      "acceptedAnswers": [
+        "It is suggested that the museum should close early."
+      ],
+      "feedback": "Suggest normally takes it is suggested that plus a clause, rather than this subject passive infinitive."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two full sentences in order. Present report: the conductor / said / unwell. Earlier report: the conductor / said / miss yesterday’s rehearsal. Use subject + passive + infinitive in both.",
+      "acceptedAnswers": [
+        "The conductor is said to be unwell. The conductor is said to have missed yesterday’s rehearsal."
+      ],
+      "feedback": "To be describes the current condition; to have missed refers to a prior event."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "It is reported that the research grant has been extended, although the finance office has not confirmed the new amount.",
+      "prompt": "What is being reported?",
+      "choices": [
+        "The grant has been extended.",
+        "The grant has been cancelled.",
+        "The final amount has been confirmed."
+      ],
+      "answerIndex": 0,
+      "feedback": "The passive report concerns the extension; the amount remains unconfirmed."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The vessel is believed to have reached the island before dawn on Monday.",
+      "prompt": "What does “to have reached” show?",
+      "choices": [
+        "The landing is an instruction for the future.",
+        "The arrival happened before the present report.",
+        "The vessel is still in the process of arriving."
+      ],
+      "answerIndex": 1,
+      "feedback": "The perfect infinitive presents an earlier arrival."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The archive is said to have been damaged during last winter’s floods.",
+      "prompt": "Transcribe the four-word passive perfect infinitive immediately after “said”.",
+      "acceptedAnswers": [
+        "to have been damaged"
+      ],
+      "feedback": "The phrase to have been damaged refers to earlier damage to the archive."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "It was decided that the gallery would remain closed on Tuesday; staff were notified on Monday.",
+      "prompt": "Which point was the decision?",
+      "choices": [
+        "The staff would finish work early on Monday.",
+        "The gallery would open on Tuesday.",
+        "The gallery would remain closed on Tuesday."
+      ],
+      "answerIndex": 2,
+      "feedback": "Was decided that introduces the decision about the gallery’s Tuesday closure."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "It has been established who authorised the repair, but the total cost is still uncertain.",
+      "prompt": "What has been established?",
+      "choices": [
+        "The identity of the person who authorised the repair.",
+        "The total price of the repair.",
+        "Whether the repair was completed."
+      ],
+      "answerIndex": 0,
+      "feedback": "The embedded who-clause identifies the authorised decision-maker, not the cost."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "There are thought to be three unused offices above the hall.",
+      "prompt": "What is believed?",
+      "choices": [
+        "The hall will be replaced by offices.",
+        "Three offices above the hall are unused.",
+        "The three offices have been rented."
+      ],
+      "answerIndex": 1,
+      "feedback": "There are thought to be reports the existence of three unused offices."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "It is estimated that the renovations will cost nearly a million pounds.",
+      "prompt": "Transcribe the two-word passive reporting phrase immediately after “It”.",
+      "acceptedAnswers": [
+        "is estimated"
+      ],
+      "feedback": "Is estimated introduces an impersonal estimate."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "There are believed to have been several delays before the final inspection.",
+      "prompt": "Transcribe the three-word perfect infinitive immediately after “believed”.",
+      "acceptedAnswers": [
+        "to have been"
+      ],
+      "feedback": "To have been refers to delays before the reporting time."
+    }
+  ]
+}

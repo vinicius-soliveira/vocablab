@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u029",
+  "title": "Two Objects: Recipients, Beneficiaries and Verb Patterns",
+  "level": "C1",
+  "topicId": "eg3-u029-verb-two-objects",
+  "summary": "Select natural object patterns when a verb involves both a person and a thing. Distinguish indirect-object and prepositional constructions, choose to or for according to the relationship, and recognise verbs that resist the usual alternation.",
+  "learningObjectives": [
+    "Rephrase appropriate verb + indirect object + direct object patterns using a direct object followed by to or for.",
+    "Explain how to marks a recipient or destination while for often marks someone who benefits from an action.",
+    "Place pronominal direct objects before a prepositional indirect object in clear standard English.",
+    "Avoid treating verbs such as explain, describe, envy and deny as freely interchangeable double-object constructions."
+  ],
+  "explanation": [
+    {
+      "heading": "Two ways to organise an event with two objects",
+      "body": "With many verbs of giving, sending, making or obtaining, the person can appear immediately after the verb as an indirect object, followed by the thing as the direct object. Often, the same event can be described with the thing first and a prepositional phrase at the end. The choice affects information focus: the longer or more important object frequently comes last. Not every verb allows both patterns.",
+      "example": "The coordinator handed Leo a badge. / The coordinator handed a badge to Leo."
+    },
+    {
+      "heading": "Choose to for a recipient and for for a beneficiary",
+      "body": "With verbs of transfer such as give, lend, offer, show and tell, the prepositional construction normally uses to. Verbs such as buy, cook, fetch, make and save commonly use for when a person benefits from the action. Some verbs, including write and read, may take either preposition, but the choice can change the role of the person: an intended recipient is not necessarily the person on whose behalf something is done.",
+      "example": "I forwarded the schedule to Noor, but I prepared a printed copy for her supervisor."
+    },
+    {
+      "heading": "Pronoun objects and the end of the clause",
+      "body": "When the thing is represented by a pronoun such as it or them, clear standard usage favours a direct-object pronoun followed by to or for and the recipient or beneficiary: send it to her; buy them for us. Avoid sequences such as send her it in edited international English. A long indirect object also generally fits better at the end after to or for.",
+      "example": "The technician passed it to us after the test."
+    },
+    {
+      "heading": "Verbs with a double object but no equivalent to/for reversal",
+      "body": "Some verbs take two objects but do not freely alternate with a prepositional recipient phrase. Allow, ask, cost, deny, envy, forgive, guarantee, permit and refuse show restrictions that need to be learned as verb patterns. Do not assume that the presence of a person and a thing licenses moving the person to the end with to or for.",
+      "example": "The delay cost the organisers several hours."
+    },
+    {
+      "heading": "Verbs that require a preposition before the person",
+      "body": "With verbs such as describe, explain, introduce, mention, report and suggest, the person is not normally an indirect object in a verb + person + thing construction: explain the issue to someone, not explain someone the issue. Other verbs, such as arrange, book, mend and repair, can naturally use for to identify the beneficiary. The appropriate pattern depends on the lexical verb, not merely the intended meaning.",
+      "example": "The analyst explained the discrepancy to the director; the assistant booked a room for the visitors."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Recipient versus beneficiary",
+      "left": {
+        "label": "to: the person receives something",
+        "example": "I wrote a message to Ellis.",
+        "note": "Ellis is the addressee who will receive the message."
+      },
+      "right": {
+        "label": "for: the person benefits from the action",
+        "example": "I wrote a message for Ellis.",
+        "note": "I prepared the message on Ellis’s behalf; Ellis need not be the addressee."
+      }
+    },
+    {
+      "title": "Transfer verb versus explanation verb",
+      "left": {
+        "label": "Show allows a double object",
+        "example": "Mara showed the team the chart.",
+        "note": "The team can directly follow showed as the indirect object."
+      },
+      "right": {
+        "label": "Explain requires a prepositional object",
+        "example": "Mara explained the chart to the team.",
+        "note": "Explain does not normally permit the team between explained and the chart."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The laboratory lent the visiting researcher a spare sensor.",
+      "note": "Lend permits the recipient before the item."
+    },
+    {
+      "sentence": "The laboratory lent a spare sensor to the visiting researcher.",
+      "note": "A prepositional recipient gives the same basic transfer with different information order."
+    },
+    {
+      "sentence": "We saved a seat for the late speaker.",
+      "note": "For identifies the beneficiary of saving a seat."
+    },
+    {
+      "sentence": "Please send them to Alina before noon.",
+      "note": "A direct-object pronoun precedes to and the person."
+    },
+    {
+      "sentence": "The investigator described the sequence of events to the committee.",
+      "note": "Describe takes a thing as its object and to before the audience."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The trainer explained us the procedure.",
+      "correct": "The trainer explained the procedure to us.",
+      "why": "Explain normally takes the thing directly and introduces the listener with to."
+    },
+    {
+      "incorrect": "Please send the coordinator it tonight.",
+      "correct": "Please send it to the coordinator tonight.",
+      "why": "When the direct object is a pronoun, place it before the to-phrase in neutral standard usage."
+    },
+    {
+      "incorrect": "The organiser bought tickets to the guests.",
+      "correct": "The organiser bought tickets for the guests.",
+      "why": "For marks the people who benefit from the purchase; to would imply a different transfer event."
+    },
+    {
+      "incorrect": "The postponement cost several hours to the staff.",
+      "correct": "The postponement cost the staff several hours.",
+      "why": "Cost can take a person and an amount directly but does not use this to-object reversal."
+    }
+  ],
+  "studyTips": [
+    "Record each new two-object verb with its actual frame, such as give somebody something / give something to somebody, instead of just memorising a preposition.",
+    "For write, read and similar verbs, ask whether the person is the destination of the communication or benefits from the action.",
+    "Practise replacing the thing with it or them, then check whether the resulting to/for pattern remains idiomatic."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which version is standard when the trainer gives an explanation to a new employee?",
+      "choices": [
+        "The trainer explained the policy to the new employee.",
+        "The trainer explained the new employee the policy.",
+        "The trainer explained to the policy the new employee."
+      ],
+      "answerIndex": 0,
+      "feedback": "Explain takes the policy directly and a to-phrase for the listener; it is not freely double-object."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The team bought an extra headset ___ the visitor, who needed one for the workshop.",
+      "choices": [
+        "to",
+        "for",
+        "at"
+      ],
+      "answerIndex": 1,
+      "feedback": "For marks the visitor as the beneficiary of the purchase."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Replace “the files” with “them” in this instruction: “Send the files to Hana.”",
+      "choices": [
+        "Send Hana them.",
+        "Send them Hana.",
+        "Send them to Hana."
+      ],
+      "answerIndex": 2,
+      "feedback": "A direct-object pronoun normally comes before the to-phrase in standard English."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "A poorly planned inspection ___ after the shutdown. Which completion uses cost correctly?",
+      "choices": [
+        "cost several hours to the client",
+        "cost the client several hours",
+        "cost to the client several hours"
+      ],
+      "answerIndex": 1,
+      "feedback": "Cost naturally takes the affected person before the amount or loss."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The archivist showed the original photograph ___ the students. Type the one-word preposition.",
+      "acceptedAnswers": [
+        "to"
+      ],
+      "feedback": "Show can take a prepositional recipient introduced by to."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete with the three-word sequence formed from “it / to / her”: “The organiser sent ___ on Monday.”",
+      "acceptedAnswers": [
+        "it to her"
+      ],
+      "feedback": "A pronominal thing precedes to and the recipient."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The chef prepared a vegetarian meal ___ the guest with allergies. Type the preposition marking the beneficiary.",
+      "acceptedAnswers": [
+        "for"
+      ],
+      "feedback": "The guest benefits from the preparation, so for is natural."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The interruption ___ (cost) the recording team an entire afternoon. Write the past-tense verb.",
+      "acceptedAnswers": [
+        "cost"
+      ],
+      "feedback": "Cost has the same form in the present and the simple past and directly precedes the affected person."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The curator described the sculpture the visitors.",
+      "acceptedAnswers": [
+        "The curator described the sculpture to the visitors."
+      ],
+      "feedback": "Describe requires to before the people receiving the description."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The assistant handed the manager it after the presentation.",
+      "acceptedAnswers": [
+        "The assistant handed it to the manager after the presentation."
+      ],
+      "feedback": "Use it before the prepositional recipient, not after an indirect-object noun phrase."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The delay cost three days to the organisers.",
+      "acceptedAnswers": [
+        "The delay cost the organisers three days."
+      ],
+      "feedback": "With cost, the affected party normally comes directly before the loss; this to-alternation is not available."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The writer mentioned the new deadline the audience.",
+      "acceptedAnswers": [
+        "The writer mentioned the new deadline to the audience."
+      ],
+      "feedback": "Mention takes its topic directly and a to-phrase for the audience."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Use a double-object pattern to report this fact in the past: The assistant / lend / Priya / a headset.",
+      "acceptedAnswers": [
+        "The assistant lent Priya a headset."
+      ],
+      "feedback": "Lent accepts Priya as an indirect object before a headset."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Rephrase “The editor gave the final draft to Maya.” Put Maya directly after gave.",
+      "acceptedAnswers": [
+        "The editor gave Maya the final draft."
+      ],
+      "feedback": "Give alternates between give something to someone and give someone something."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Rephrase “They cooked us lunch.” Use the preposition for and keep the same meaning.",
+      "acceptedAnswers": [
+        "They cooked lunch for us."
+      ],
+      "feedback": "For introduces the beneficiaries of the cooking."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Correct the sentence aloud: “She explained me the safety instructions.”",
+      "acceptedAnswers": [
+        "She explained the safety instructions to me."
+      ],
+      "feedback": "Explain does not normally allow a double-object structure; use to."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Use the exact words and natural order: He / showed / it / to / us.",
+      "acceptedAnswers": [
+        "He showed it to us."
+      ],
+      "feedback": "The thing pronoun it comes before to us."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "You drafted a note on Sam’s behalf, not to send it to Sam. Complete this sentence with for: “I wrote ...”.",
+      "acceptedAnswers": [
+        "I wrote a note for Sam."
+      ],
+      "feedback": "For makes Sam the beneficiary rather than necessarily the addressee."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the verb pattern aloud, preserving the meaning: “The storm cost two hours to the crew.”",
+      "acceptedAnswers": [
+        "The storm cost the crew two hours."
+      ],
+      "feedback": "Cost takes the crew directly as the affected party."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two equivalent sentences in this order using full forms. First: The lab / lend / Jo / a camera. Second: The lab / lend / a camera / to Jo.",
+      "acceptedAnswers": [
+        "The lab lent Jo a camera. The lab lent a camera to Jo."
+      ],
+      "feedback": "Both the indirect-object and to-object structures are licensed with lend."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The manager offered Lucia a permanent position, and she accepted it before lunch.",
+      "prompt": "What did the manager offer Lucia?",
+      "choices": [
+        "A permanent position.",
+        "A temporary visitor pass.",
+        "An unpaid placement."
+      ],
+      "answerIndex": 0,
+      "feedback": "Offered Lucia a permanent position identifies the recipient and the thing offered."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I mailed the map to Jonah, but I made a second copy for Asha.",
+      "prompt": "Who was the beneficiary of making the second copy?",
+      "choices": [
+        "Jonah.",
+        "Asha.",
+        "The mail carrier."
+      ],
+      "answerIndex": 1,
+      "feedback": "For Asha identifies the person for whose benefit the second copy was made."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The clerk handed it to me just before the building closed.",
+      "prompt": "Type the three-word object sequence heard immediately after “handed”.",
+      "acceptedAnswers": [
+        "it to me"
+      ],
+      "feedback": "The spoken phrase places the direct-object pronoun before to and the recipient."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I wrote an email to Priya, not for her. She was meant to receive it rather than have me draft it on her behalf.",
+      "prompt": "What was Priya’s role?",
+      "choices": [
+        "She was writing the email.",
+        "She was the intended recipient.",
+        "She was paying for the email."
+      ],
+      "answerIndex": 1,
+      "feedback": "To Priya marks her as the person meant to receive the communication."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The librarian described the archive to us and then showed us a digital catalogue.",
+      "prompt": "Which sentence accurately reports what the librarian did?",
+      "choices": [
+        "She described us the archive and showed a catalogue to us.",
+        "She described the archive for us and showed us it.",
+        "She described the archive to us and showed us a catalogue."
+      ],
+      "answerIndex": 2,
+      "feedback": "Describe needs the archive as its direct object; showed us a catalogue is a valid double-object pattern."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The coordinator booked a taxi for the speaker, then told her where to meet the driver.",
+      "prompt": "For whom was the taxi booked?",
+      "choices": [
+        "The speaker.",
+        "The coordinator.",
+        "The driver’s supervisor."
+      ],
+      "answerIndex": 0,
+      "feedback": "Book a taxi for somebody identifies the person who benefits from the booking."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "We gave the visitors a short briefing before the tour began.",
+      "prompt": "Type the six-word phrase heard after “We”.",
+      "acceptedAnswers": [
+        "gave the visitors a short briefing"
+      ],
+      "feedback": "Gave the visitors a short briefing places the people before the thing given."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "She explained the revised timetable to him after the meeting.",
+      "prompt": "Type the five-word object-and-recipient phrase heard immediately after “explained”.",
+      "acceptedAnswers": [
+        "the revised timetable to him"
+      ],
+      "feedback": "Explained is followed by the thing explained and a to-phrase for the listener."
+    }
+  ]
+}

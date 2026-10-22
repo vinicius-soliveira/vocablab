@@ -5070,9 +5070,850 @@
         "C1",
         "C2"
       ],
-      "status": "planned",
-      "provider": null,
-      "units": []
+      "status": "available",
+      "provider": "grammar",
+      "units": [
+        {
+          "id": "eg3-u001",
+          "number": 1,
+          "title": "State Verbs, Changing Meanings and Performatives",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u002",
+          "number": 2,
+          "title": "Present Forms in Narratives, Reports and Commentary",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u003",
+          "number": 3,
+          "title": "Past Simple and Present Perfect: Time Frames and Discourse",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u004",
+          "number": 4,
+          "title": "Past Continuous and Past Simple: Perspective and Intentions",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u005",
+          "number": 5,
+          "title": "Past Perfect and Past Simple: Sequence, Reporting and Intentions",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u006",
+          "number": 6,
+          "title": "Present Perfect Continuous and Present Perfect: Processes and Results",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u007",
+          "number": 7,
+          "title": "Past Perfect Continuous, Past Perfect and Past Continuous",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u008",
+          "number": 8,
+          "title": "Present and Past Time: Integrated Review",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u009",
+          "number": 9,
+          "title": "Will and Be Going To: Predictions, Decisions and Conditions",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u010",
+          "number": 10,
+          "title": "Present Simple and Present Continuous for the Future",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u011",
+          "number": 11,
+          "title": "Future Continuous, Future Perfect and Future Perfect Continuous",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u012",
+          "number": 12,
+          "title": "Be To and Be About To: Formal Arrangements and Imminence",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u013",
+          "number": 13,
+          "title": "Other Ways of Talking About the Future",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u014",
+          "number": 14,
+          "title": "The Future Seen from the Past",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u015",
+          "number": 15,
+          "title": "Ability, Possibility and Permission with Can and Could",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u016",
+          "number": 16,
+          "title": "Habitual Behaviour, Past States and Deductions with Will and Would",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u017",
+          "number": 17,
+          "title": "Possibility, Concession and Time Reference with May and Might",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u018",
+          "number": 18,
+          "title": "Obligation, Deduction and Restrictions with Must and Have To",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u019",
+          "number": 19,
+          "title": "Negating Necessity with Need, Need To and Have To",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u020",
+          "number": 20,
+          "title": "Advice, Expectation and Urgent Warnings with Should, Ought To and Had Better",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u021",
+          "number": 21,
+          "title": "Linking Verbs: States, Appearances and Changes",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u022",
+          "number": 22,
+          "title": "Using the Passive: Agents, Emphasis and Information Flow",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u023",
+          "number": 23,
+          "title": "Passive Patterns with Objects, Complements and Multi-word Verbs",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u024",
+          "number": 24,
+          "title": "Passive Patterns with -ing Clauses and To-infinitives",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u025",
+          "number": 25,
+          "title": "Reporting with Passives and Impersonal Constructions",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u026",
+          "number": 26,
+          "title": "Wh-questions with Who, Whom, Which, How and Whose",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u027",
+          "number": 27,
+          "title": "Negative Questions, Echo Questions and That-clauses",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u028",
+          "number": 28,
+          "title": "Verbs, Objects and Complements",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u029",
+          "number": 29,
+          "title": "Two Objects: Recipients, Beneficiaries and Verb Patterns",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u030",
+          "number": 30,
+          "title": "Gerund Complements, Perception and Bare Infinitives",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u031",
+          "number": 31,
+          "title": "Infinitive Complements, Prepositional Patterns and Perfect Forms",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u032",
+          "number": 32,
+          "title": "Quotations, Reporting Clauses and Indirect Questions",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u033",
+          "number": 33,
+          "title": "Reporting Statements: That-Clauses and Verb Patterns",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u034",
+          "number": 34,
+          "title": "Verb + Wh-Clauses: Embedded Questions and Choices",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u035",
+          "number": 35,
+          "title": "Tense Choice in Reported Speech and Current Claims",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u036",
+          "number": 36,
+          "title": "Reporting Offers, Suggestions, Orders and Intentions",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u037",
+          "number": 37,
+          "title": "Modal Verbs in Reported Statements and Requests",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u038",
+          "number": 38,
+          "title": "Reporting with Nouns, Adjectives and Complement Patterns",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u039",
+          "number": 39,
+          "title": "Should in That-Clauses and the Present Subjunctive",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u040",
+          "number": 40,
+          "title": "Complex Subjects, Collective Nouns and Agreement",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u041",
+          "number": 41,
+          "title": "Quantifiers, Coordinated Subjects and Verb Agreement",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u042",
+          "number": 42,
+          "title": "Plural-Looking Nouns, Measures and Fractional Agreement",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u043",
+          "number": 43,
+          "title": "Compound Nouns and Complex Noun Phrases",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u044",
+          "number": 44,
+          "title": "Indefinite Articles and the Emphatic Number One",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u045",
+          "number": 45,
+          "title": "Articles for General Concepts, Classes and Countable Meanings",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u046",
+          "number": 46,
+          "title": "Articles with Jobs, Names, Storytelling and Superlatives",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u047",
+          "number": 47,
+          "title": "Articles with General Reference, Calendar Expressions and Means of Travel",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u048",
+          "number": 48,
+          "title": "Some and Any: Reference, Approximation and Negative Contexts",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u049",
+          "number": 49,
+          "title": "No, None (of), Not Any and Emphatic Negatives",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u050",
+          "number": 50,
+          "title": "Much, Many, Lots of and Advanced Quantifiers",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u051",
+          "number": 51,
+          "title": "All (of), Whole, Every and Each",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u052",
+          "number": 52,
+          "title": "Few, Little, Less and Fewer",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u053",
+          "number": 53,
+          "title": "Relative Pronouns: Defining and Non-defining Clauses",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u054",
+          "number": 54,
+          "title": "Other Relative Words: Whose, When, Whereby and More",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u055",
+          "number": 55,
+          "title": "Prepositions in Relative Clauses: Form and Register",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u056",
+          "number": 56,
+          "title": "Adding Information to Noun Phrases: Apposition and Reduced Clauses",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u057",
+          "number": 57,
+          "title": "Prepositional Phrases, Relative Clauses and Clear Noun Modification",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u058",
+          "number": 58,
+          "title": "Adverbial Participle Clauses: Time, Cause and Sequence",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u059",
+          "number": 59,
+          "title": "Adverbial Participle Clauses with Prepositions and Reduced Clauses",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u060",
+          "number": 60,
+          "title": "Reflexive Pronouns: Reference, Emphasis and Verb Patterns",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u061",
+          "number": 61,
+          "title": "One and Ones: Reference, Determiners and Omission",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u062",
+          "number": 62,
+          "title": "So and Not: Clause Substitution and Short Responses",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u063",
+          "number": 63,
+          "title": "Do So and Such: Verb-Phrase Substitution and Noun Reference",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u064",
+          "number": 64,
+          "title": "Advanced Ellipsis after Auxiliary Verbs",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u065",
+          "number": 65,
+          "title": "Ellipsis of To-Infinitives: When To Stays or Disappears",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u066",
+          "number": 66,
+          "title": "Position of Adjectives: Predicative, Attributive and Postnominal Uses",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u067",
+          "number": 67,
+          "title": "Gradable and Non-Gradable Adjectives: Choosing Intensifiers",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u068",
+          "number": 68,
+          "title": "Gradable and Non-Gradable Adjectives: Meanings and Patterns",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u069",
+          "number": 69,
+          "title": "Participle and Compound Adjectives: Position and Formation",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u070",
+          "number": 70,
+          "title": "Adjective Complements: Infinitives, -ing and Clauses",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u071",
+          "number": 71,
+          "title": "Adjective–Adverb Forms and Changes in Meaning",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u072",
+          "number": 72,
+          "title": "Advanced Comparative and Superlative Choices",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u073",
+          "number": 73,
+          "title": "Comparative Phrases, Degree and Result Clauses",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u074",
+          "number": 74,
+          "title": "Adverb Placement: End Position and Meaning",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u075",
+          "number": 75,
+          "title": "Adverb Placement: Front and Mid Position",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u076",
+          "number": 76,
+          "title": "Adverbs of Place, Direction, Frequency and Time",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u077",
+          "number": 77,
+          "title": "Degree Adverbs and Focus Adverbs",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u078",
+          "number": 78,
+          "title": "Comment Adverbs and Viewpoint Adverbs",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u079",
+          "number": 79,
+          "title": "Adverbial Clauses of Time",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u080",
+          "number": 80,
+          "title": "Giving Reasons: Clauses and Prepositional Expressions",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u081",
+          "number": 81,
+          "title": "Purpose Clauses and Result Constructions",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u082",
+          "number": 82,
+          "title": "Concession, Contrast and Qualified Generalisations",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u083",
+          "number": 83,
+          "title": "Real, Unreal and Dependent Conditionals",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u084",
+          "number": 84,
+          "title": "Inversion, Will and Advanced Conditional Patterns",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u085",
+          "number": 85,
+          "title": "Were in Hypothetical Situations, Wishes and Advice",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u086",
+          "number": 86,
+          "title": "Unless, If Not and Whether: Meaning and Structure",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u087",
+          "number": 87,
+          "title": "Linking Ideas Within and Between Sentences",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u088",
+          "number": 88,
+          "title": "Prepositions of Position, Direction and Movement",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u089",
+          "number": 89,
+          "title": "Between and Among: Individuals, Groups and Relationships",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u090",
+          "number": 90,
+          "title": "Prepositions of Time: Periods, Deadlines and Endpoints",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u091",
+          "number": 91,
+          "title": "Exceptions, Additions and Hypothetical Exclusions",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u092",
+          "number": 92,
+          "title": "Verb and Preposition Patterns: Meaning and Usage",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u093",
+          "number": 93,
+          "title": "Noun–Preposition Patterns and Infinitive Complements",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u094",
+          "number": 94,
+          "title": "Multi-word Verbs and Object Placement",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u095",
+          "number": 95,
+          "title": "Existential There: Introducing, Quantifying and Connecting Information",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u096",
+          "number": 96,
+          "title": "Introductory It: Extraposition, Evaluation and Delayed Subjects",
+          "level": "C1",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u097",
+          "number": 97,
+          "title": "Anticipatory It as Object and It’s No versus There’s No",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u098",
+          "number": 98,
+          "title": "Cleft Sentences: Focusing with It and What",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u099",
+          "number": 99,
+          "title": "Inversion 1: Emphasis, Movement, Conditions and Comparisons",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u100",
+          "number": 100,
+          "title": "Inversion 2: Negative Fronting, Only, So, Such and Neither",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u101",
+          "number": 101,
+          "title": "Complex Noun Phrases, Nominalisation and Multi-word Prepositions",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u102",
+          "number": 102,
+          "title": "Impersonal It-clauses: Evaluating, Reporting and Qualifying Claims",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u103",
+          "number": 103,
+          "title": "Linking Ideas in Academic Writing and Speech",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u104",
+          "number": 104,
+          "title": "Referring to Research, Figures and Sections in Academic Communication",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        },
+        {
+          "id": "eg3-u105",
+          "number": 105,
+          "title": "Academic Discussion: Cautious Opinions and Lead-in Phrases",
+          "level": "C2",
+          "provider": "grammar",
+          "activityCount": 28
+        }
+      ]
     },
     {
       "id": "english-pronunciation-1",
@@ -5616,9 +6457,490 @@
         "C1",
         "C2"
       ],
-      "status": "planned",
-      "provider": null,
-      "units": []
+      "status": "available",
+      "provider": "vocabulary",
+      "units": [
+        {
+          "id": "ec2-u01",
+          "number": 1,
+          "title": "Unit 01 — What is a collocation?",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 39
+        },
+        {
+          "id": "ec2-u02",
+          "number": 2,
+          "title": "Unit 02 — Strong, fixed and weak collocations",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 37
+        },
+        {
+          "id": "ec2-u03",
+          "number": 3,
+          "title": "Unit 03 — Grammatical categories of collocation",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 36
+        },
+        {
+          "id": "ec2-u04",
+          "number": 4,
+          "title": "Unit 04 — Finding and working on collocations in texts",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 58
+        },
+        {
+          "id": "ec2-u05",
+          "number": 5,
+          "title": "Unit 05 — Register",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 50
+        },
+        {
+          "id": "ec2-u06",
+          "number": 6,
+          "title": "Unit 06 — Metaphor",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 33
+        },
+        {
+          "id": "ec2-u07",
+          "number": 7,
+          "title": "Unit 07 — Intensifying and softening adverbs",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 47
+        },
+        {
+          "id": "ec2-u08",
+          "number": 8,
+          "title": "Unit 08 — Make and verbs that mean make",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 38
+        },
+        {
+          "id": "ec2-u09",
+          "number": 9,
+          "title": "Unit 09 — Communicating",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 44
+        },
+        {
+          "id": "ec2-u10",
+          "number": 10,
+          "title": "Unit 10 — Collocations with phrasal verbs",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 29
+        },
+        {
+          "id": "ec2-u11",
+          "number": 11,
+          "title": "Unit 11 — Working life",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 38
+        },
+        {
+          "id": "ec2-u12",
+          "number": 12,
+          "title": "Unit 12 — New employment",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 39
+        },
+        {
+          "id": "ec2-u13",
+          "number": 13,
+          "title": "Unit 13 — Thoughts and ideas",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 35
+        },
+        {
+          "id": "ec2-u14",
+          "number": 14,
+          "title": "Unit 14 — Business reports",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 41
+        },
+        {
+          "id": "ec2-u15",
+          "number": 15,
+          "title": "Unit 15 — Marketing",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 45
+        },
+        {
+          "id": "ec2-u16",
+          "number": 16,
+          "title": "Unit 16 — Customer services",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 39
+        },
+        {
+          "id": "ec2-u17",
+          "number": 17,
+          "title": "Unit 17 — Student life",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 38
+        },
+        {
+          "id": "ec2-u18",
+          "number": 18,
+          "title": "Unit 18 — Writing essays, assignments and reports",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 34
+        },
+        {
+          "id": "ec2-u19",
+          "number": 19,
+          "title": "Unit 19 — Social life",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 37
+        },
+        {
+          "id": "ec2-u20",
+          "number": 20,
+          "title": "Unit 20 — Talking",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 34
+        },
+        {
+          "id": "ec2-u21",
+          "number": 21,
+          "title": "Unit 21 — In the news",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 38
+        },
+        {
+          "id": "ec2-u22",
+          "number": 22,
+          "title": "Unit 22 — Current affairs",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 31
+        },
+        {
+          "id": "ec2-u23",
+          "number": 23,
+          "title": "Unit 23 — Festivals and celebrations",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 34
+        },
+        {
+          "id": "ec2-u24",
+          "number": 24,
+          "title": "Unit 24 — Cosmetics and fashion",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 36
+        },
+        {
+          "id": "ec2-u25",
+          "number": 25,
+          "title": "Unit 25 — Commuting",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 38
+        },
+        {
+          "id": "ec2-u26",
+          "number": 26,
+          "title": "Unit 26 — Travel and adventure",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 39
+        },
+        {
+          "id": "ec2-u27",
+          "number": 27,
+          "title": "Unit 27 — Sport",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 36
+        },
+        {
+          "id": "ec2-u28",
+          "number": 28,
+          "title": "Unit 28 — Plans and decisions",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 38
+        },
+        {
+          "id": "ec2-u29",
+          "number": 29,
+          "title": "Unit 29 — Film and book reviews",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 37
+        },
+        {
+          "id": "ec2-u30",
+          "number": 30,
+          "title": "Unit 30 — Regulations and authority",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 39
+        },
+        {
+          "id": "ec2-u31",
+          "number": 31,
+          "title": "Unit 31 — The environment",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 41
+        },
+        {
+          "id": "ec2-u32",
+          "number": 32,
+          "title": "Unit 32 — Town and country life",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 43
+        },
+        {
+          "id": "ec2-u33",
+          "number": 33,
+          "title": "Unit 33 — Personal finance",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 42
+        },
+        {
+          "id": "ec2-u34",
+          "number": 34,
+          "title": "Unit 34 — The economy",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 41
+        },
+        {
+          "id": "ec2-u35",
+          "number": 35,
+          "title": "Unit 35 — Social issues",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 37
+        },
+        {
+          "id": "ec2-u36",
+          "number": 36,
+          "title": "Unit 36 — Science and technology",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 42
+        },
+        {
+          "id": "ec2-u37",
+          "number": 37,
+          "title": "Unit 37 — Health and medicine",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 40
+        },
+        {
+          "id": "ec2-u38",
+          "number": 38,
+          "title": "Unit 38 — Criminal justice",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 38
+        },
+        {
+          "id": "ec2-u39",
+          "number": 39,
+          "title": "Unit 39 — War and peace",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 37
+        },
+        {
+          "id": "ec2-u40",
+          "number": 40,
+          "title": "Unit 40 — Friendship",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 35
+        },
+        {
+          "id": "ec2-u41",
+          "number": 41,
+          "title": "Unit 41 — Youth and age",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 52
+        },
+        {
+          "id": "ec2-u42",
+          "number": 42,
+          "title": "Unit 42 — Celebrities and heroes",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 34
+        },
+        {
+          "id": "ec2-u43",
+          "number": 43,
+          "title": "Unit 43 — Negative opinions about people",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 33
+        },
+        {
+          "id": "ec2-u44",
+          "number": 44,
+          "title": "Unit 44 — References",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 43
+        },
+        {
+          "id": "ec2-u45",
+          "number": 45,
+          "title": "Unit 45 — Personality and behaviour",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 32
+        },
+        {
+          "id": "ec2-u46",
+          "number": 46,
+          "title": "Unit 46 — Space and time",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 33
+        },
+        {
+          "id": "ec2-u47",
+          "number": 47,
+          "title": "Unit 47 — Sound",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 27
+        },
+        {
+          "id": "ec2-u48",
+          "number": 48,
+          "title": "Unit 48 — Making things easier",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 31
+        },
+        {
+          "id": "ec2-u49",
+          "number": 49,
+          "title": "Unit 49 — Difficulty",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 38
+        },
+        {
+          "id": "ec2-u50",
+          "number": 50,
+          "title": "Unit 50 — Quantity and size",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 48
+        },
+        {
+          "id": "ec2-u51",
+          "number": 51,
+          "title": "Unit 51 — Change",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 40
+        },
+        {
+          "id": "ec2-u52",
+          "number": 52,
+          "title": "Unit 52 — Stopping and starting",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 35
+        },
+        {
+          "id": "ec2-u53",
+          "number": 53,
+          "title": "Unit 53 — Cause and effect",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 33
+        },
+        {
+          "id": "ec2-u54",
+          "number": 54,
+          "title": "Unit 54 — Describing groups and amounts",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 51
+        },
+        {
+          "id": "ec2-u55",
+          "number": 55,
+          "title": "Unit 55 — Comparing and contrasting",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 34
+        },
+        {
+          "id": "ec2-u56",
+          "number": 56,
+          "title": "Unit 56 — Making an effort",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 32
+        },
+        {
+          "id": "ec2-u57",
+          "number": 57,
+          "title": "Unit 57 — Social English",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 36
+        },
+        {
+          "id": "ec2-u58",
+          "number": 58,
+          "title": "Unit 58 — Discussing issues",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 29
+        },
+        {
+          "id": "ec2-u59",
+          "number": 59,
+          "title": "Unit 59 — Negative situations and feelings",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 38
+        },
+        {
+          "id": "ec2-u60",
+          "number": 60,
+          "title": "Unit 60 — Positive situations and feelings",
+          "level": "C1–C2",
+          "provider": "vocabulary",
+          "activityCount": 32
+        }
+      ]
     },
     {
       "id": "english-phrasal-verbs-1",
@@ -5725,6 +7047,6 @@
       "units": []
     }
   ],
-  "totalUnits": 682,
-  "availableBooks": 7
+  "totalUnits": 847,
+  "availableBooks": 9
 }

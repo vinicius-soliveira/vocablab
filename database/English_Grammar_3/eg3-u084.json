@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u084",
+  "title": "Inversion, Will and Advanced Conditional Patterns",
+  "level": "C2",
+  "topicId": "eg3-u084-if-other-conditional-patterns-with-if",
+  "summary": "Handle advanced conditional structures: formal inversion with should, were and had; special uses of will and would in if-clauses; low-probability real conditions with happen to and should; and abbreviated comparisons with as if or as though. Interpret willingness, refusal, likely consequences and hypothetical appearances precisely.",
+  "learningObjectives": [
+    "Transform hypothetical or contingent if-clauses into correct formal inversion with should, were or had.",
+    "Recognise when will or would is appropriate inside an if-clause to express a result, request, willingness, insistence or refusal.",
+    "Use happen to, should and should happen to to present a possible but relatively unexpected real event.",
+    "Construct shortened as if/as though comparisons with noun phrases, -ing clauses, past participles and to-infinitives."
+  ],
+  "explanation": [
+    {
+      "heading": "Formal conditionals without if",
+      "body": "In formal style, a conditional clause beginning with should, were or had can omit if and invert the auxiliary and subject. Should you need ... corresponds to If you should need ...; Were a delay to occur ... corresponds to If a delay were to occur ...; Had we known ... corresponds to If we had known .... Keep the original time reference: had + past participle normally expresses an unreal past condition, not an ordinary future one.",
+      "example": "Had the organisers announced the change earlier, the visitors would have altered their plans."
+    },
+    {
+      "heading": "If ... will: a consequence of the main action",
+      "body": "A normal predictive future condition uses a present tense after if, not will. An exception occurs when the if-clause describes what the main-clause action could achieve: I will do X if it will help Y. Here will refers to the likely benefit of doing X, rather than merely predicting when a condition will happen. The distinction depends on the direction of cause and effect.",
+      "example": "I will move the display closer to the entrance if it will make the signs easier to read."
+    },
+    {
+      "heading": "Willingness, polite requests, refusal and insistence",
+      "body": "Will in an if-clause can express willingness, an insistent habit or a refusal rather than a neutral future. If you will ... is also used in requests, with if you would ... often sounding more courteous. Negative won’t may mean refuse to; stressed will can show criticism of someone who persists in doing something. Choose these readings from context, not from the word will alone.",
+      "example": "If you would wait in the foyer for a moment, the receptionist will bring the documents."
+    },
+    {
+      "heading": "Unexpected real possibilities with happen to and should",
+      "body": "In real conditionals, happen to, should, or should happen to can present an event as possible but not particularly expected. They are useful in invitations, instructions and contingency planning. Happen to is especially conversational. Do not automatically use these expressions for clearly impossible unreal states; the ordinary unreal past is usually more natural there.",
+      "example": "If you happen to pass the gallery this week, ask whether the new exhibit is ready."
+    },
+    {
+      "heading": "Condensed comparisons with as if and as though",
+      "body": "As if and as though can introduce comparisons to apparent situations without asserting those situations are true. A following noun phrase, -ing clause, past participle or to-infinitive may replace a fuller finite clause when the meaning is clear. The to-infinitive often suggests an apparent purpose; an -ing form suggests an ongoing apparent action. Informal like sometimes replaces as if, but may be less suitable in formal writing.",
+      "example": "The guide leaned towards the inscription as if trying to read its faded lettering."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Explicit if and formal inversion",
+      "left": {
+        "label": "Explicit conditional",
+        "example": "If the shipment should arrive early, notify the duty manager.",
+        "note": "If makes the condition explicit; should suggests a possible contingency."
+      },
+      "right": {
+        "label": "Inverted conditional",
+        "example": "Should the shipment arrive early, notify the duty manager.",
+        "note": "Initial should and subject–auxiliary inversion omit if without changing the essential condition."
+      }
+    },
+    {
+      "title": "Ordinary future condition versus willingness",
+      "left": {
+        "label": "Neutral future condition",
+        "example": "If the assistant arrives at six, we will start the session.",
+        "note": "Arrives predicts the possible timing of a future event."
+      },
+      "right": {
+        "label": "Request for cooperation",
+        "example": "If the assistant will stay for five minutes, we can finish the checklist.",
+        "note": "Will stay concerns willingness to cooperate rather than mere future timing."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Were a power failure to occur, the emergency lights would switch on.",
+      "note": "Inverted were to introduces a hypothetical future event in formal language."
+    },
+    {
+      "sentence": "Should the schedule change, we will contact every participant.",
+      "note": "Should at the start creates a formal contingency without if."
+    },
+    {
+      "sentence": "I will lend you my reference copy if it will make the assignment easier.",
+      "note": "Will describes the anticipated benefit of lending the copy."
+    },
+    {
+      "sentence": "If the caretaker will not unlock the gate, we will need another entrance.",
+      "note": "Will not is interpreted as refusal rather than merely as a future negative."
+    },
+    {
+      "sentence": "She stepped towards the microphone as if to make an announcement.",
+      "note": "As if + to-infinitive suggests an apparent purpose that may not have been realised."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Had we knew about the road closure, we would have left earlier.",
+      "correct": "Had we known about the road closure, we would have left earlier.",
+      "why": "Inverted past counterfactuals require had + subject + past participle."
+    },
+    {
+      "incorrect": "Were the curator to accepts the invitation, we would arrange an extra talk.",
+      "correct": "Were the curator to accept the invitation, we would arrange an extra talk.",
+      "why": "After were + subject + to, use the infinitive without -s."
+    },
+    {
+      "incorrect": "If the train will arrive before seven, we will have time for breakfast.",
+      "correct": "If the train arrives before seven, we will have time for breakfast.",
+      "why": "A neutral future timetable condition normally takes present simple after if."
+    },
+    {
+      "incorrect": "He lifted the cover as if to examining the machinery.",
+      "correct": "He lifted the cover as if to examine the machinery.",
+      "why": "As if to must be followed by a bare infinitive, not an -ing form."
+    }
+  ],
+  "studyTips": [
+    "Convert one first conditional, one future hypothetical and one past counterfactual to inverted should, were and had clauses; check each auxiliary pattern.",
+    "For each sentence containing if ... will, ask whether will predicts a future event, describes someone’s willingness or expresses the benefit of the main-clause action.",
+    "Describe three silent gestures with as if plus an -ing form, a past participle and a to-infinitive; avoid implying that the apparent situation is established fact."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Complete this formal conditional: \"___ any equipment fail during the trial, notify the supervisor.\"",
+      "choices": [
+        "Had",
+        "Were",
+        "Should"
+      ],
+      "answerIndex": 2,
+      "feedback": "Should + subject + base verb is the appropriate contingency inversion for a possible future failure."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "\"The report would have been ready, ___ the data been available earlier.\"",
+      "choices": [
+        "had",
+        "were",
+        "should"
+      ],
+      "answerIndex": 0,
+      "feedback": "Had the data been available is an inverted past counterfactual."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the best form for a conditional describing the benefit of an action: \"I will add a summary page if it ___ help new readers.\"",
+      "choices": [
+        "will be",
+        "will",
+        "has"
+      ],
+      "answerIndex": 1,
+      "feedback": "Will help describes the likely benefit of adding the summary, not merely a future date."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "\"The presenter stood silently, ___ waiting for the audience to settle.\" In fact, she was listening to instructions through her headset, not waiting for the audience.",
+      "choices": [
+        "while",
+        "despite",
+        "as if"
+      ],
+      "answerIndex": 2,
+      "feedback": "As if + -ing signals an apparent action that was not actually happening. While and despite would assume she really was waiting."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Rewrite with formal inversion: \"If you should need a replacement badge, contact reception.\" Begin with \"Should\" and write only the inverted conditional clause, without a comma.",
+      "acceptedAnswers": [
+        "Should you need a replacement badge"
+      ],
+      "feedback": "Should you need is formal subject–auxiliary inversion in place of if you should need."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete the past counterfactual inversion: \"___ (I / know) about the closure, I would have changed the booking.\" Write the three-word opening.",
+      "acceptedAnswers": [
+        "Had I known"
+      ],
+      "feedback": "Had I known inverts the past-perfect conditional if I had known."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Make a polite request using will: \"If you ___ (wait) outside for a moment, I can fetch the documents.\" Write the two-word verb phrase.",
+      "acceptedAnswers": [
+        "will wait"
+      ],
+      "feedback": "Will wait can request the listener’s willingness rather than predict a future event."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Make the meeting an incidental possibility: \"If you ___ (happen / speak) to Nina, pass on the update.\" Write the three-word verb phrase.",
+      "acceptedAnswers": [
+        "happen to speak"
+      ],
+      "feedback": "Happen to speak suggests an unplanned but possible meeting."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the ordinary future condition; no request or benefit is intended: \"If you will submit the form today, it will be processed tomorrow.\"",
+      "acceptedAnswers": [
+        "If you submit the form today, it will be processed tomorrow."
+      ],
+      "feedback": "An ordinary conditional prediction takes submit in the if-clause."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct this hypothetical inversion: \"Were the road to becomes blocked, the buses would take another route.\"",
+      "acceptedAnswers": [
+        "Were the road to become blocked, the buses would take another route."
+      ],
+      "feedback": "Were + subject + to requires the base infinitive become."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the inverted contingency: \"Should the guest has any dietary requirements, let us know.\"",
+      "acceptedAnswers": [
+        "Should the guest have any dietary requirements, let us know."
+      ],
+      "feedback": "After inverted should, use the bare infinitive have."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the comparison: \"He raised his hand as if to asking a question.\"",
+      "acceptedAnswers": [
+        "He raised his hand as if to ask a question."
+      ],
+      "feedback": "As if to expresses apparent purpose with a to-infinitive."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make this advice formal by omitting if. Start with \"Should\": \"If the alarm sounds, leave the room.\"",
+      "acceptedAnswers": [
+        "Should the alarm sound, leave the room."
+      ],
+      "feedback": "Should + subject + base verb is a formal inversion for a possible future alarm."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Invert this future hypothetical beginning with \"Were\" and using full verb forms: \"If she were to accept the position, we would extend the deadline.\"",
+      "acceptedAnswers": [
+        "Were she to accept the position, we would extend the deadline."
+      ],
+      "feedback": "Were she to accept retains the imaginary future condition without if."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Invert the past counterfactual beginning with \"Had\": \"If they had checked the address, they would have found the gallery.\"",
+      "acceptedAnswers": [
+        "Had they checked the address, they would have found the gallery."
+      ],
+      "feedback": "Had they checked is a formal alternative to if they had checked."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Make a polite request using these exact facts: you / take a seat; I / get the form. Begin with \"If you will\" and use a full verb form in the result.",
+      "acceptedAnswers": [
+        "If you will take a seat, I will get the form."
+      ],
+      "feedback": "If you will take a seat asks the listener to cooperate; will get states the result."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Express refusal rather than a prediction. Facts: he / not answer the phone; we / send an email. Start with \"If he\"; use won’t for refusal.",
+      "acceptedAnswers": [
+        "If he won't answer the phone, we will send an email.",
+        "If he won't answer the phone, we'll send an email."
+      ],
+      "feedback": "Won’t describes refusal to answer; it is not an ordinary predictive will in a time condition."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Make a possible meeting sound incidental. Facts: you / meet the curator; ask about the display. Begin with \"If you happen\".",
+      "acceptedAnswers": [
+        "If you happen to meet the curator, ask about the display."
+      ],
+      "feedback": "Happen to meet presents the meeting as possible but not planned."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Express an appearance using a shortened comparison. Rewrite \"He left the room, looking as though he was in a hurry\" as \"He left the room as if ...\".",
+      "acceptedAnswers": [
+        "He left the room as if in a hurry."
+      ],
+      "feedback": "As if in a hurry uses a reduced phrase to suggest an appearance without making a factual claim."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two sentences in this order with these exact facts: she / bend closer / appear to examine the label; the package / lie on the desk / appear forgotten. Use \"as if to\" in the first and \"as if\" + a past participle in the second.",
+      "acceptedAnswers": [
+        "She bent closer as if to examine the label. The package lay on the desk as if forgotten."
+      ],
+      "feedback": "As if to examine suggests apparent purpose; as if forgotten uses a reduced past-participle comparison."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Should the laboratory close unexpectedly, all scheduled tests will be moved to Friday.",
+      "prompt": "What will happen if the laboratory closes?",
+      "choices": [
+        "The tests will move to Friday.",
+        "The tests will be permanently cancelled.",
+        "The laboratory will open earlier."
+      ],
+      "answerIndex": 0,
+      "feedback": "The inverted should conditional gives a contingency and its Friday consequence."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Had the caretaker found the keys earlier, the doors would have opened on time.",
+      "prompt": "What does the speaker imply about the past?",
+      "choices": [
+        "The keys were found early and the doors opened on time.",
+        "The doors have not yet been built.",
+        "The caretaker did not find the keys early enough."
+      ],
+      "answerIndex": 2,
+      "feedback": "Had ... found plus would have opened implies the condition was not fulfilled."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Were they to revise the figures, the estimate would change.",
+      "prompt": "Type the four-word hypothetical opening before the comma.",
+      "acceptedAnswers": [
+        "Were they to revise"
+      ],
+      "feedback": "Were they to revise is the formal inverted were to condition heard."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I will replace the entrance sign if it will help visitors find the gallery.",
+      "prompt": "What does \"will help\" refer to here?",
+      "choices": [
+        "The sign having already been replaced.",
+        "The expected benefit of replacing the sign.",
+        "The visitors refusing to read signs."
+      ],
+      "answerIndex": 1,
+      "feedback": "If it will help describes the expected result of the speaker’s action."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "If you would leave your umbrellas here, we can begin the guided tour.",
+      "prompt": "What is the speaker doing?",
+      "choices": [
+        "Predicting that it will rain all day.",
+        "Refusing to start any future tour.",
+        "Making a polite request before starting."
+      ],
+      "answerIndex": 2,
+      "feedback": "Would leave makes a courteous request for cooperation."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "If she will not discuss the issue, we cannot reach an agreement.",
+      "prompt": "What is stopping an agreement?",
+      "choices": [
+        "Her refusal to discuss the issue.",
+        "A meeting already cancelled by the speaker.",
+        "A lack of available meeting rooms."
+      ],
+      "answerIndex": 0,
+      "feedback": "Will not in context means refuses to, not simply a negative future prediction."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "If you should happen to see Omar, remind him about the rehearsal.",
+      "prompt": "Type the four-word phrase immediately after \"If you\".",
+      "acceptedAnswers": [
+        "should happen to see"
+      ],
+      "feedback": "Should happen to see presents an encounter as an unlikely but real possibility."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "He touched the glass as if to check whether it was warm.",
+      "prompt": "Type the four-word comparison phrase immediately after \"glass\".",
+      "acceptedAnswers": [
+        "as if to check"
+      ],
+      "feedback": "As if to check expresses the purpose his action appeared to have."
+    }
+  ]
+}

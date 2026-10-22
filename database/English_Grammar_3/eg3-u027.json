@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u027",
+  "title": "Negative Questions, Echo Questions and That-clauses",
+  "level": "C1",
+  "topicId": "eg3-u027-negative-questions-echo-questions-questions-with-that-clause",
+  "summary": "Choose natural negative question patterns for suggestions, criticism, surprise and emphatic exclamations; use echo questions to confirm unexpected information; and form long wh-questions with think, expect and similar verbs without inserting that where a subject is extracted.",
+  "learningObjectives": [
+    "Distinguish contracted negative questions from emphatic or formal questions with not after the subject, including negative-word alternatives.",
+    "Use why not + bare infinitive for suggestions and separate it from past negative questions used to challenge or criticise.",
+    "Form echo questions that repeat, question or focus part of an earlier utterance with appropriate rising intonation.",
+    "Place wh-words correctly in questions involving reporting verbs and omit that where the wh-word is the subject of the embedded clause."
+  ],
+  "explanation": [
+    {
+      "heading": "Negative questions and emphasis",
+      "body": "Negative yes/no and wh-questions usually place a contracted negative on the auxiliary, for example Isn’t she ready? and Why haven’t they replied? They can communicate surprise, criticism, encouragement or persuasion, not merely request a yes/no answer. In deliberate, formal or strongly emphatic questions, not may follow the subject instead: Did you not receive the revised notice? This construction is marked and is not an automatic stylistic substitute in every casual context.",
+      "example": "Did you not see the warning on the gate?"
+    },
+    {
+      "heading": "Negative words and conventional alternatives",
+      "body": "Negative questions can use never, nobody, nothing or nowhere instead of an auxiliary contracted with not. Why do you never check the agenda? is an alternative to Why don’t you ever check the agenda? In ordinary standard English, do not add another negative to a clause already made negative by never or nobody. The choice may affect emphasis, formality and the speaker’s attitude.",
+      "example": "Have you nowhere quiet to work, or could you use the library?"
+    },
+    {
+      "heading": "Why not for suggestions, why didn’t for past criticism",
+      "body": "Why not + bare infinitive is an economical way to suggest an action: Why not ask a neighbour? Why don’t we + bare infinitive can suggest something to do together. By contrast, Why didn’t you + bare infinitive refers to an action that was not done, and in context it may criticise or question a past decision. It does not function as a present suggestion.",
+      "example": "Why not reschedule the visit? We could all attend next week."
+    },
+    {
+      "heading": "Exclamations and echo questions",
+      "body": "A negative question with a falling tone may work as an exclamation seeking agreement: Wasn’t that an excellent performance! Echo questions are different: they repeat all or part of surprising or unclear information, often with rising intonation. The echo may preserve statement word order, place a stressed wh-word at the end, or focus on a verb with what or do what: She bought what?; She did what? These are not ordinary information questions with standard inversion.",
+      "example": "“The venue has changed again.” “The venue has changed again?”"
+    },
+    {
+      "heading": "Questions whose wh-word relates to an embedded clause",
+      "body": "A wh-question can contain verbs such as think, say, suppose, hope or expect: When do you think the train will arrive? The optional complementiser that is possible in some long questions, but standard English omits it when the wh-word is the subject of the subordinate clause: Who do you think will lead the review? not Who do you think that will lead the review? Keep subject and object roles clear; the form with that is not universally wrong when a different constituent is questioned.",
+      "example": "Which candidate do you expect will chair the discussion?"
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A suggestion about now versus criticism of an earlier action",
+      "left": {
+        "label": "Why not + bare infinitive",
+        "example": "Why not email the venue today?",
+        "note": "A suggestion for an action the listener can still take."
+      },
+      "right": {
+        "label": "Why didn’t + subject + infinitive",
+        "example": "Why didn’t you email the venue yesterday?",
+        "note": "Questions a past omission and may express criticism or regret."
+      }
+    },
+    {
+      "title": "Ordinary information question versus surprised echo",
+      "left": {
+        "label": "Ordinary wh-question",
+        "example": "What did Clara order?",
+        "note": "Normal auxiliary inversion requests information not yet known."
+      },
+      "right": {
+        "label": "Echo question",
+        "example": "Clara ordered what?",
+        "note": "Statement word order with a stressed final wh-word asks for repetition or expresses disbelief."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Isn’t the presentation scheduled for Thursday?",
+      "note": "A contracted negative question can register surprise about the schedule."
+    },
+    {
+      "sentence": "Can you not move the crates away from the exit?",
+      "note": "Not after the subject strengthens the negative question in an emphatic request."
+    },
+    {
+      "sentence": "Why don’t we discuss the proposal after lunch?",
+      "note": "Why don’t we + verb introduces a joint suggestion."
+    },
+    {
+      "sentence": "“Mira has resigned.” “Mira has resigned?”",
+      "note": "The echoed statement checks that startling news was heard correctly."
+    },
+    {
+      "sentence": "Who do you suppose has taken the spare key?",
+      "note": "Who is the embedded subject, so the sentence does not include that after suppose."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Why not to postpone the meeting until Friday?",
+      "correct": "Why not postpone the meeting until Friday?",
+      "why": "Why not used for a suggestion takes a bare infinitive, not to + infinitive."
+    },
+    {
+      "incorrect": "Why don’t you never check the instructions?",
+      "correct": "Why do you never check the instructions?",
+      "why": "Never already supplies the negative meaning; ordinary standard English does not combine it with don’t here."
+    },
+    {
+      "incorrect": "She ordered what did?",
+      "correct": "She ordered what?",
+      "why": "An echo question can use statement word order and a final stressed wh-word; do not append did."
+    },
+    {
+      "incorrect": "Who do you believe that is in charge?",
+      "correct": "Who do you believe is in charge?",
+      "why": "When who is the subject of the embedded clause, standard English omits that after believe."
+    }
+  ],
+  "studyTips": [
+    "Record the same negative question first as a friendly suggestion and then as an indignant challenge; notice how emphasis changes its meaning.",
+    "After hearing a surprising statement, practise two echo forms: repeat it with rising intonation, then replace one surprising detail with a stressed wh-word.",
+    "In long wh-questions, identify the clause containing the missing subject: if the wh-word is that subject, omit that between think or expect and the clause."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "You are proposing a new action for tomorrow. Which sentence is the natural suggestion?",
+      "choices": [
+        "Why didn’t we visit the museum tomorrow?",
+        "Why not visit the museum tomorrow?",
+        "Why not to visit the museum tomorrow?"
+      ],
+      "answerIndex": 1,
+      "feedback": "Why not + bare infinitive suggests a future action; why didn’t refers to a past omission."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "A manager strongly challenges whether a colleague read the notice. Which is a grammatically correct emphatic question with full not?",
+      "choices": [
+        "Did you not read the notice?",
+        "Did not you read the notice?",
+        "You did not read the notice?"
+      ],
+      "answerIndex": 0,
+      "feedback": "Did you not read ... places not after the subject in an emphatic negative question."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "A friend says, “The printer cost two thousand pounds.” Which response is an echo question focusing on the surprising amount?",
+      "choices": [
+        "How much the printer did cost?",
+        "How much did the printer cost?",
+        "The printer cost how much?"
+      ],
+      "answerIndex": 2,
+      "feedback": "The printer cost how much? echoes surprising information while retaining declarative order."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Select the standard long question in which who is the embedded subject.",
+      "choices": [
+        "Who do you think that will lead the tour?",
+        "Who do you think will lead the tour?",
+        "Who do you think will the tour lead?"
+      ],
+      "answerIndex": 1,
+      "feedback": "Who is subject of will lead, so that is omitted and ordinary subject–auxiliary order follows."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "___ check the new timetable before you book? Complete this suggestion with exactly “Why not” (two words).",
+      "acceptedAnswers": [
+        "Why not"
+      ],
+      "feedback": "Why not is followed by the bare infinitive check."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "___ you not receive the invitation? Write the single past-tense auxiliary for this emphatic negative question.",
+      "acceptedAnswers": [
+        "Did"
+      ],
+      "feedback": "Did + subject + not + bare infinitive forms the emphatic past negative question."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Your friend says, “I saw a blue fox.” Echo the surprising object: “You saw ___?” Write one word.",
+      "acceptedAnswers": [
+        "what"
+      ],
+      "feedback": "What is the echo word; the statement order You saw what? is preserved."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Who do you believe ___ arrive first? Supply the one-word modal auxiliary; do not insert that.",
+      "acceptedAnswers": [
+        "will"
+      ],
+      "feedback": "Who is the subject of will arrive in the embedded clause; do not add that."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the suggestion: Why not to contact the local office today?",
+      "acceptedAnswers": [
+        "Why not contact the local office today?"
+      ],
+      "feedback": "Why not + bare infinitive is the suggestion pattern."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the negative-word question: Why don’t you never answer the door?",
+      "acceptedAnswers": [
+        "Why do you never answer the door?"
+      ],
+      "feedback": "Never creates the negative meaning without auxiliary not."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct this surprised echo: He has sold his guitar what?",
+      "acceptedAnswers": [
+        "He has sold what?"
+      ],
+      "feedback": "In this tightly constrained echo, replace the surprising object his guitar with what rather than keeping both."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the question about the embedded subject: Who do you suppose that wrote the message?",
+      "acceptedAnswers": [
+        "Who do you suppose wrote the message?"
+      ],
+      "feedback": "Who is subject of wrote; the complementiser that must be omitted in this construction."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Suggest an action politely. Facts: Why not / review / the outline / tonight? Say the complete question with bare infinitive.",
+      "acceptedAnswers": [
+        "Why not review the outline tonight?"
+      ],
+      "feedback": "Why not directly precedes review without to."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Ask a joint-suggestion question. Facts: Why / not / we / take / a short break? Use contracted “don’t”.",
+      "acceptedAnswers": [
+        "Why don't we take a short break?"
+      ],
+      "feedback": "Why don’t we + infinitive suggests a shared action."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Ask an emphatic negative question using full not after the subject. Facts: Did / you / not / see / the sign?",
+      "acceptedAnswers": [
+        "Did you not see the sign?"
+      ],
+      "feedback": "Did you not places not after the subject for added emphasis."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Make a standard question with never. Facts: Why / do / you / never / update / the list? Do not use don’t.",
+      "acceptedAnswers": [
+        "Why do you never update the list?"
+      ],
+      "feedback": "Never supplies the negative meaning, so use the positive auxiliary do."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Your friend says, “The actor moved to Iceland.” Echo the entire surprising statement with rising intonation, retaining word order.",
+      "acceptedAnswers": [
+        "The actor moved to Iceland?"
+      ],
+      "feedback": "An entire statement can be repeated as an echo question; intonation signals surprise."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "A friend says, “I bought twelve tickets.” Make an echo question by replacing twelve tickets with what. Begin with “You”.",
+      "acceptedAnswers": [
+        "You bought what?"
+      ],
+      "feedback": "Statement order plus final what creates an echo question."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Form a long wh-question. Facts: Who / do / you / think / will / host / the event? Do not insert that.",
+      "acceptedAnswers": [
+        "Who do you think will host the event?"
+      ],
+      "feedback": "Who is the embedded subject of will host, so the clause has no that."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two questions in order. First suggest a present action: Why not / call / the library? Then criticise the past omission: Why / didn’t / you / call / the library / yesterday?",
+      "acceptedAnswers": [
+        "Why not call the library? Why didn't you call the library yesterday?"
+      ],
+      "feedback": "The first uses Why not + bare infinitive; the second challenges an action not done yesterday."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Why don't we visit the observatory on Saturday? Everyone is free then.",
+      "prompt": "What is the speaker doing?",
+      "choices": [
+        "Criticising a missed visit last week.",
+        "Suggesting a group visit on Saturday.",
+        "Reporting that Saturday tickets are sold out."
+      ],
+      "answerIndex": 1,
+      "feedback": "Why don’t we + infinitive proposes an action for the group."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Did you not read the safety instructions before entering the workshop?",
+      "prompt": "Which feature makes this negative question unusually emphatic?",
+      "choices": [
+        "Full not comes after you.",
+        "Never is used instead of not.",
+        "There is no auxiliary verb."
+      ],
+      "answerIndex": 0,
+      "feedback": "Did you not uses full not after the subject, a marked emphatic pattern."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Why not ask the receptionist for a different room?",
+      "prompt": "Transcribe the two words immediately before “ask”.",
+      "acceptedAnswers": [
+        "Why not"
+      ],
+      "feedback": "Why not is followed by the bare infinitive ask."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I told Ben the sculpture was made of paper, and he replied, “It was made of what?”",
+      "prompt": "What does Ben’s question most directly signal?",
+      "choices": [
+        "He is asking whether the sculpture exists.",
+        "He already knows every detail about the material.",
+        "He is surprised by, or did not hear, the material."
+      ],
+      "answerIndex": 2,
+      "feedback": "Made of what? is an echo that checks or reacts to the surprising detail."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Who do you expect will manage the community garden next year?",
+      "prompt": "What grammatical role does who have inside the expected event?",
+      "choices": [
+        "It names the recipient of the garden.",
+        "It is the subject of will manage.",
+        "It modifies community."
+      ],
+      "answerIndex": 1,
+      "feedback": "Who is the missing subject of will manage in the embedded clause."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Why do you never bring your notes to the seminar?",
+      "prompt": "Which description best fits the form of this question?",
+      "choices": [
+        "A negative-word question with never and no contracted auxiliary negative.",
+        "A present suggestion with why not + bare infinitive.",
+        "A past question about one forgotten notebook."
+      ],
+      "answerIndex": 0,
+      "feedback": "Never makes the question negative, although the auxiliary appears as do."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Did you not realise the gallery was closed today?",
+      "prompt": "Transcribe the three-word question opening ending in “not”.",
+      "acceptedAnswers": [
+        "Did you not"
+      ],
+      "feedback": "Did you not uses the full-negative emphatic order."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Who do you think will win the debate?",
+      "prompt": "Transcribe the three words immediately after “Who”.",
+      "acceptedAnswers": [
+        "do you think"
+      ],
+      "feedback": "Do you think introduces the reporting frame before the embedded subject and predicate."
+    }
+  ]
+}

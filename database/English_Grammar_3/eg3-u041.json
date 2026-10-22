@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u041",
+  "title": "Quantifiers, Coordinated Subjects and Verb Agreement",
+  "level": "C1",
+  "topicId": "eg3-u041-agreement-between-subject-and-verb-2",
+  "summary": "Choose subject–verb agreement with quantifiers, indefinite pronouns, coordinated subjects and existential there. Distinguish number phrases that describe several members from phrases that count a group, while recognising legitimate agreement variation with some of-phrases and collective readings.",
+  "learningObjectives": [
+    "Choose agreement after any of, each of, either of, neither of and none of while recognising accepted singular and plural alternatives with plural complements.",
+    "Contrast plural agreement after a number of with singular agreement after the number of, and use singular verbs after uncountable complements.",
+    "Apply the patterns for one of, every, each, indefinite pronouns, and coordinated subjects with and, or and nor.",
+    "Use agreement appropriate to an existential there construction in edited English and recognise common informal contracted variants."
+  ],
+  "explanation": [
+    {
+      "heading": "Some of-phrases allow both singular and plural agreement",
+      "body": "With any of, each of, either of, neither of and none of followed by a plural noun or pronoun, both singular and plural agreement can occur. Formal written English often prefers a singular verb, especially with each of, either of and neither of, but a plural verb is also attested with plural complements. This variation does not carry over mechanically to uncountable nouns: none of the equipment is available is the normal pattern. A single-word everyone, everybody or everything takes a singular verb.",
+      "example": "Neither of the candidates has replied; neither of the candidates have replied is also possible in some contexts."
+    },
+    {
+      "heading": "A number of is plural; the number of is singular",
+      "body": "A number of + plural noun refers to several individuals or things and normally takes a plural verb. The number of + plural noun has the singular head number and takes a singular verb. Similarly, the majority of, plenty of, a lot of, all of and some of generally agree with the following plural noun or pronoun when it is countable, but take a singular verb if the following noun is uncountable. Determine what is being counted before selecting a form.",
+      "example": "A number of reviewers have responded, but the number of responses has remained low."
+    },
+    {
+      "heading": "One of, every, each and indefinite pronouns",
+      "body": "One of + plural noun selects a singular main verb because one is the head: one of the alternatives is viable. In a relative clause following one of those + plural noun + who, both singular and plural relative verbs occur; a plural form is often preferred in formal writing if the relative pronoun refers to the plural group. Every and each followed by a singular noun take singular agreement, including every X and Y when each item is individually quantified. Everyone, somebody and no one also take singular verbs, while the children have each completed a task uses plural agreement with children.",
+      "example": "Every question and answer requires a separate check."
+    },
+    {
+      "heading": "And, or and nor depend on structure and meaning",
+      "body": "Two independent subjects joined by and normally take a plural verb. A coordinated expression understood as a single item, fixed combination or total package may take singular agreement. With either ... or and neither ... nor, agreement is influenced by the number of the nearest noun phrase: a final plural subject normally attracts a plural verb. If the final subject is singular and a preceding one is plural, singular and plural forms can both occur; rephrasing may be the clearest choice.",
+      "example": "Neither the organiser nor the volunteers are available for the afternoon session."
+    },
+    {
+      "heading": "Agreement after existential there",
+      "body": "In edited English, existential there is followed by a verb agreeing with the real subject: there is a solution, there are several solutions, and there have been delays. Informal conversation frequently uses there is or there’s even before plurals. Such shortened forms are widely heard, but when an exercise specifically asks for formal or edited agreement, use plural are or have with plural noun phrases.",
+      "example": "There have been several changes to the application process."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Quantity versus the total number",
+      "left": {
+        "label": "Several members: plural agreement",
+        "example": "A number of applicants have withdrawn.",
+        "note": "The phrase refers to multiple applicants and takes have."
+      },
+      "right": {
+        "label": "A count: singular agreement",
+        "example": "The number of applicants has fallen.",
+        "note": "Number is the head of the subject, so use has."
+      }
+    },
+    {
+      "title": "Coordination with and versus or",
+      "left": {
+        "label": "Independent subjects: usually plural",
+        "example": "The curator and the editor are attending.",
+        "note": "Two people are coordinated by and."
+      },
+      "right": {
+        "label": "Nearest plural item after or",
+        "example": "Either the curator or the editors are attending.",
+        "note": "Plural editors occurs nearest the verb in an either ... or structure."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Neither of the proposals has received final approval.",
+      "note": "The singular choice is particularly suitable in formal writing, although plural agreement can occur with neither of + plural noun."
+    },
+    {
+      "sentence": "Some of the furniture is being replaced, but some of the desks are staying.",
+      "note": "Furniture is uncountable and desks is plural countable, so the verbs differ."
+    },
+    {
+      "sentence": "One of the new laboratories is open to the public.",
+      "note": "One is the singular head of the subject."
+    },
+    {
+      "sentence": "Both the technician and the trainee are wearing protective glasses.",
+      "note": "Two distinct people connected by and take a plural verb."
+    },
+    {
+      "sentence": "There are four alternative routes, and there has been one cancellation.",
+      "note": "The verb after existential there agrees with the following plural or singular noun phrase in edited English."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The number of remaining seats have decreased.",
+      "correct": "The number of remaining seats has decreased.",
+      "why": "The subject head is the singular number; the plural seats is inside the of-phrase."
+    },
+    {
+      "incorrect": "A number of volunteers has offered to help.",
+      "correct": "A number of volunteers have offered to help.",
+      "why": "A number of plus a plural noun normally takes a plural verb."
+    },
+    {
+      "incorrect": "Every printer and scanner need a label.",
+      "correct": "Every printer and scanner needs a label.",
+      "why": "Every distributes over the individual items, giving singular agreement in this pattern."
+    },
+    {
+      "incorrect": "Neither the instructor nor the students was invited.",
+      "correct": "Neither the instructor nor the students were invited.",
+      "why": "In this formal coordination the closest subject students is plural; use were."
+    }
+  ],
+  "studyTips": [
+    "Underline the exact agreement controller: number versus a number, a mass noun versus a plural noun, or the closest subject in either/or and neither/nor.",
+    "When either of, neither of or none of introduces a plural complement, record both attested verb forms rather than treating every difference as a grammar error.",
+    "Rewrite there is or there has in the expanded plural form when editing prose that refers to multiple items."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the only standard completion: “A number of local researchers ___ asked to see the results.”",
+      "choices": [
+        "have",
+        "has",
+        "is"
+      ],
+      "answerIndex": 0,
+      "feedback": "A number of plus the plural researchers takes have."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the standard completion: “The number of available interview slots ___ declined.”",
+      "choices": [
+        "have",
+        "has",
+        "were"
+      ],
+      "answerIndex": 1,
+      "feedback": "The head number is singular in the number of, so use has."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose agreement with the subject nearest the verb in formal English: “Either the owner or the tenants ___ responsible.”",
+      "choices": [
+        "is",
+        "was",
+        "are"
+      ],
+      "answerIndex": 2,
+      "feedback": "Tenants is the final, plural subject of the either ... or coordination, so are is appropriate."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the form suitable for an EDITED REPORT: “There ___ several unresolved objections.”",
+      "choices": [
+        "are",
+        "is",
+        "has"
+      ],
+      "answerIndex": 0,
+      "feedback": "Formal existential there agrees with plural objections, giving there are."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete the clause with the present simple of need: “Every screen and keyboard ___ regular cleaning.”",
+      "acceptedAnswers": [
+        "needs"
+      ],
+      "feedback": "With every X and Y, each named item is individually included, and singular needs is appropriate."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Write the present form of be: “One of the proposed routes ___ shorter than the others.”",
+      "acceptedAnswers": [
+        "is"
+      ],
+      "feedback": "One of the routes has a singular head, one."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Write the present simple verb form: “All of the equipment ___ (require) calibration.”",
+      "acceptedAnswers": [
+        "requires"
+      ],
+      "feedback": "Equipment is uncountable and requires a singular verb."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Write the present perfect auxiliary for FORMAL writing: “There ___ been four timetable changes.”",
+      "acceptedAnswers": [
+        "have"
+      ],
+      "feedback": "The following subject four timetable changes is plural, so the formal auxiliary is have."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the subject–verb agreement: The number of registered guests have increased since Monday.",
+      "acceptedAnswers": [
+        "The number of registered guests has increased since Monday."
+      ],
+      "feedback": "The noun number, not guests, controls the auxiliary has."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the subject–verb agreement: A number of residents has complained about the noise.",
+      "acceptedAnswers": [
+        "A number of residents have complained about the noise."
+      ],
+      "feedback": "Use plural have after a number of and a plural count noun."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the subject–verb agreement: Every ticket and badge require a separate barcode.",
+      "acceptedAnswers": [
+        "Every ticket and badge requires a separate barcode."
+      ],
+      "feedback": "Every applies separately to each item, giving singular requires."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Rewrite for EDITED FORMAL ENGLISH: There has been three revisions to the proposal.",
+      "acceptedAnswers": [
+        "There have been three revisions to the proposal."
+      ],
+      "feedback": "In formal prose existential there agrees with plural revisions. A singular contraction is sometimes heard informally."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Use the present simple with the supplied words: One of the organisers / be / absent today.",
+      "acceptedAnswers": [
+        "One of the organisers is absent today."
+      ],
+      "feedback": "One of a plural group takes singular is."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Report several people offering assistance. Use exactly these facts: A number of engineers / have / volunteered.",
+      "acceptedAnswers": [
+        "A number of engineers have volunteered."
+      ],
+      "feedback": "A number of plus a plural noun requires plural have."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Report a change in the count. Facts: The number of replies / have / doubled. Correct the auxiliary.",
+      "acceptedAnswers": [
+        "The number of replies has doubled."
+      ],
+      "feedback": "The head noun number takes has."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Describe a general rule in one sentence. Facts: Every document and photograph / require / a caption.",
+      "acceptedAnswers": [
+        "Every document and photograph requires a caption."
+      ],
+      "feedback": "Every distributes over both singular count nouns."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Use nearest-subject agreement. Facts: Neither the manager nor the assistants / be / on site. Use present simple.",
+      "acceptedAnswers": [
+        "Neither the manager nor the assistants are on site."
+      ],
+      "feedback": "The final coordinated subject assistants is plural."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Correct the sentence aloud for a formal report: “There has been several delays.”",
+      "acceptedAnswers": [
+        "There have been several delays."
+      ],
+      "feedback": "Plural delays requires plural have in edited English."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Use and to join two people: The supervisor and the apprentice / work / on weekends.",
+      "acceptedAnswers": [
+        "The supervisor and the apprentice work on weekends."
+      ],
+      "feedback": "Two separate people connected by and take a plural verb."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two sentences in this order, using full forms. First: A number of requests / have / arrived. Second: The number of requests / have / risen. Correct the second auxiliary.",
+      "acceptedAnswers": [
+        "A number of requests have arrived. The number of requests has risen."
+      ],
+      "feedback": "A number of refers to several requests; the number of refers to one count."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "A number of translators have asked for more preparation time, but the deadline has not changed.",
+      "prompt": "Who has requested more preparation time?",
+      "choices": [
+        "Several translators.",
+        "A single project manager.",
+        "Only the client."
+      ],
+      "answerIndex": 0,
+      "feedback": "A number of translators describes several translators who made the request."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The number of submissions has doubled, although the review team has not expanded.",
+      "prompt": "What has doubled?",
+      "choices": [
+        "The size of the review team.",
+        "The count of submissions.",
+        "The length of each submission."
+      ],
+      "answerIndex": 1,
+      "feedback": "The number of submissions refers to the total count of items received."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "A number of participants have requested an extension.",
+      "prompt": "Transcribe the FOUR words immediately after “participants”.",
+      "acceptedAnswers": [
+        "have requested an extension"
+      ],
+      "feedback": "The phrase have requested an extension is spoken after participants and uses a plural auxiliary."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Neither the coordinator nor the assistants are available, so the afternoon demonstration is cancelled.",
+      "prompt": "Why was the demonstration cancelled?",
+      "choices": [
+        "The equipment failed.",
+        "The guests arrived late.",
+        "Neither the coordinator nor the assistants are available."
+      ],
+      "answerIndex": 2,
+      "feedback": "The cancellation is explicitly attributed to a lack of available staff."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The guide and the driver are travelling together, but the driver will return earlier.",
+      "prompt": "Which person will return earlier?",
+      "choices": [
+        "The driver.",
+        "The guide.",
+        "Both at the same time."
+      ],
+      "answerIndex": 0,
+      "feedback": "The second clause singles out the driver as returning earlier."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "There have been four changes to the timetable, but the venue remains the same.",
+      "prompt": "What has changed?",
+      "choices": [
+        "The venue.",
+        "The timetable.",
+        "The number of speakers."
+      ],
+      "answerIndex": 1,
+      "feedback": "There have been four changes to the timetable; the venue is unchanged."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The number of registered entries has doubled since May.",
+      "prompt": "Transcribe the FOUR words immediately after “entries”.",
+      "acceptedAnswers": [
+        "has doubled since May"
+      ],
+      "feedback": "The exact spoken phrase uses singular has after the number of."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Every room and corridor is checked before opening.",
+      "prompt": "Transcribe the FOUR words immediately after “corridor”.",
+      "acceptedAnswers": [
+        "is checked before opening"
+      ],
+      "feedback": "Every X and Y takes singular agreement in this context."
+    }
+  ]
+}

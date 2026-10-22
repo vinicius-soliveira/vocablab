@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u008",
+  "title": "Present and Past Time: Integrated Review",
+  "level": "C1",
+  "topicId": "eg3-u008-present-and-past-time-review",
+  "summary": "Integrate simple, continuous, perfect and perfect-continuous forms across present and past narratives. Choose tense and aspect according to habitual or temporary meaning, viewpoint, completed result, current relevance, preceding activity and the reference time.",
+  "learningObjectives": [
+    "Switch accurately between simple and continuous forms for habits, complete events, background scenes and temporary developments.",
+    "Use present perfect to connect earlier events to the present and past perfect to locate an event before another past reference point.",
+    "Choose present or past perfect continuous to describe preceding activity and its effects at the appropriate reference time.",
+    "Handle state verbs and context-dependent continuous meanings without applying a rigid one-tense-per-verb rule."
+  ],
+  "explanation": [
+    {
+      "heading": "Simple and continuous encode different views of an event",
+      "body": "Present and past simple forms ordinarily express habits, general truths, states and bounded past events. Continuous forms place attention on an activity in progress around a chosen moment, or a temporary developing situation. A past simple clause may advance a narrative while a past continuous clause establishes its scene. A continuous verb is not necessarily longer in reality; it is the viewpoint that matters.",
+      "example": "The gallery opens at ten every day, but it is opening later this week. When we visited yesterday, the staff were moving new exhibits into place."
+    },
+    {
+      "heading": "State verbs are usually simple, but meaning can shift",
+      "body": "Own, believe and know normally express states and prefer simple forms. Some verbs that often describe states can appear in continuous forms when they indicate active consideration, developing understanding or temporary behaviour. Distinguish “I think” meaning “I hold the opinion” from “I am thinking” meaning “I am considering”. Do not overgeneralise every stative verb into a prohibition or force an unnatural change of meaning.",
+      "example": "I understand the proposal, but I am still thinking about its financial implications."
+    },
+    {
+      "heading": "Present perfect links past experience to the present",
+      "body": "Have/has + past participle presents a past event or state from a present viewpoint: its outcome, accumulated experience or another connection matters now. The event itself need not still be happening. Past simple normally locates a finished event in a definite completed period. The present perfect is not used merely because the event happened recently, and a specified finished-time expression typically favours the past simple.",
+      "example": "I sent the invitation yesterday, and the organiser has now confirmed our booking."
+    },
+    {
+      "heading": "Past perfect looks further back from a past reference point",
+      "body": "Had + past participle locates an event before another past event or viewpoint, even if the earlier event is mentioned later. In a straightforward chronological narrative, past simple may be sufficient; not every past action needs had. A perfect form is interpreted relative to its reference time: present perfect connects backwards from now; past perfect connects backwards from a time already in the past.",
+      "example": "When I reached the platform, the train had departed, so I called a taxi."
+    },
+    {
+      "heading": "Perfect continuous relates activity to a later reference time",
+      "body": "Have/has been + -ing can describe an activity continuing up to now or one that has recently ended and left noticeable evidence. Had been + -ing looks back at equivalent activity from a past point, sometimes highlighting a cause or duration. Contrast these process-focused forms with a simple perfect when counting completed items or giving an achieved result. State verbs normally remain non-continuous even when duration is given.",
+      "example": "She has been decorating the room, so the floor is covered in sheets. Last month, she had been decorating for days when the supplies finally arrived."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Present result versus completed past time",
+      "left": {
+        "label": "Present perfect: relevant now",
+        "example": "The committee has approved the request; we can proceed.",
+        "note": "A past decision has a current consequence."
+      },
+      "right": {
+        "label": "Past simple: finished time",
+        "example": "The committee approved the request last Tuesday.",
+        "note": "Last Tuesday fixes the event in a completed past period."
+      }
+    },
+    {
+      "title": "Recent activity versus activity before a past moment",
+      "left": {
+        "label": "Present perfect continuous: now",
+        "example": "My shoes are dusty because I have been hiking.",
+        "note": "Current evidence points to a recent activity."
+      },
+      "right": {
+        "label": "Past perfect continuous: then",
+        "example": "My shoes were dusty because I had been hiking.",
+        "note": "The evidence and the activity are both viewed from a past moment."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The café usually closes at six, but it is staying open later this evening.",
+      "note": "Habitual present simple contrasts with a temporary present-continuous arrangement."
+    },
+    {
+      "sentence": "The lights went out while the students were preparing their presentations.",
+      "note": "The past simple event interrupts an ongoing background activity."
+    },
+    {
+      "sentence": "We have booked the conference room, so the team can meet there tomorrow.",
+      "note": "A prior booking matters to a present decision."
+    },
+    {
+      "sentence": "By the time the train arrived, we had already bought our tickets.",
+      "note": "The purchase precedes a later point in the past."
+    },
+    {
+      "sentence": "He had been practising for an hour when the coach arrived; now he has completed the whole programme.",
+      "note": "A past-duration perspective contrasts with a present-relevant finished result."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Yesterday I have emailed the editor about the missing page.",
+      "correct": "Yesterday I emailed the editor about the missing page.",
+      "why": "Yesterday is a definite completed past-time expression, so past simple is the standard choice."
+    },
+    {
+      "incorrect": "At the exact moment the speaker entered, the audience had been standing and clapping.",
+      "correct": "At the exact moment the speaker entered, the audience was standing and clapping.",
+      "why": "Without reference to preceding duration, the past continuous most directly depicts the scene then."
+    },
+    {
+      "incorrect": "She has been owning this apartment since her graduation.",
+      "correct": "She has owned this apartment since her graduation.",
+      "why": "Own denotes possession; the present perfect simple normally expresses the enduring state."
+    },
+    {
+      "incorrect": "Last night we could not enter because someone has locked the gate earlier.",
+      "correct": "Last night we could not enter because someone had locked the gate earlier.",
+      "why": "The earlier locking is located before the later past inability to enter, so had locked gives the correct reference point."
+    }
+  ],
+  "studyTips": [
+    "Mark every sentence with its reference point: now, a specific past time or a moment before another past event.",
+    "For each pair, ask whether you need the scene, the finished event, the current outcome or the activity that led to an effect.",
+    "Draft a four-sentence update containing a stable routine, a current temporary project, a finished past event and a present result."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Normally the workshop ___ at five, but this month it ___ until seven. Choose the pair for a routine followed by a temporary change.",
+      "choices": [
+        "is closing / closes",
+        "closes / is staying open",
+        "has closed / stayed open"
+      ],
+      "answerIndex": 1,
+      "feedback": "Closes describes the usual routine, while is staying open describes a temporary arrangement this month."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Yesterday the group ___ the revised schedule. Which form naturally fits a definite finished-time expression?",
+      "choices": [
+        "has approved",
+        "has been approving",
+        "approved"
+      ],
+      "answerIndex": 2,
+      "feedback": "Yesterday identifies a completed past period, so approved is the standard past-simple choice."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "When the receptionist opened the door, the visitors ___ quietly in the corridor. Choose the form for the scene at that moment.",
+      "choices": [
+        "were waiting",
+        "had already waited twice",
+        "have waited"
+      ],
+      "answerIndex": 0,
+      "feedback": "Were waiting depicts the action in progress when the door opened."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "At the end of the training, the instructor discovered that the organiser ___ the wrong room. Which form clearly locates the booking before the discovery?",
+      "choices": [
+        "has booked",
+        "had booked",
+        "is booking"
+      ],
+      "answerIndex": 1,
+      "feedback": "Had booked places the earlier mistake before the instructor’s discovery."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "There is fresh flour on the counter. Someone ___ (bake) in the kitchen. Write a present-perfect-continuous verb phrase beginning with “has”.",
+      "acceptedAnswers": [
+        "has been baking"
+      ],
+      "feedback": "Has been baking explains present evidence through recent activity."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "I ___ (know) the neighbour since 2017. Write the present-perfect verb phrase beginning with “have”.",
+      "acceptedAnswers": [
+        "have known"
+      ],
+      "feedback": "Have known expresses a state that started in the past and continues now."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "When the concert began, the sound team ___ (test) the equipment for two hours. Write the past-perfect-continuous phrase.",
+      "acceptedAnswers": [
+        "had been testing"
+      ],
+      "feedback": "Had been testing looks back at the duration of work preceding the concert."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The photographer ___ (take) these pictures last Sunday. Use the past simple.",
+      "acceptedAnswers": [
+        "took"
+      ],
+      "feedback": "Last Sunday is a definite completed past time, so took is required."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the definite-time error: I have seen that exhibition last month.",
+      "acceptedAnswers": [
+        "I saw that exhibition last month."
+      ],
+      "feedback": "Last month marks a finished period; saw is the natural past-simple form."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sequence: When the inspector arrived, the workers have already left the building.",
+      "acceptedAnswers": [
+        "When the inspector arrived, the workers had already left the building."
+      ],
+      "feedback": "The departure happened before the inspector’s arrival, both in the past; use had left."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the current-result form: We have been submitting five complete forms today, and all five have been accepted.",
+      "acceptedAnswers": [
+        "We have submitted five complete forms today, and all five have been accepted."
+      ],
+      "feedback": "Have submitted counts five completed submissions with present relevance."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the temporary-current-action form: Right now, the engineers test a new prototype in the workshop.",
+      "acceptedAnswers": [
+        "Right now, the engineers are testing a new prototype in the workshop."
+      ],
+      "feedback": "Right now and the temporary activity favour are testing."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "State a routine. Facts: The research centre / open / at eight / every weekday. Use the present simple.",
+      "acceptedAnswers": [
+        "The research centre opens at eight every weekday."
+      ],
+      "feedback": "Opens describes a regular schedule."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Describe an action at the present moment. Facts: They / repair / the roof / right now. Use the present continuous and full forms.",
+      "acceptedAnswers": [
+        "They are repairing the roof right now."
+      ],
+      "feedback": "Are repairing presents the action as currently in progress."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Describe a finished event at a definite past time. Facts: I / call / the coordinator / yesterday. Use the past simple.",
+      "acceptedAnswers": [
+        "I called the coordinator yesterday."
+      ],
+      "feedback": "Called fits a completed event anchored to yesterday."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Report a completed action with a consequence now. Facts: We / reserve / the room / so we can meet there. Use the present perfect and full forms.",
+      "acceptedAnswers": [
+        "We have reserved the room, so we can meet there."
+      ],
+      "feedback": "Have reserved connects a completed booking to present possibilities."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Put a completed earlier action before a past event. Facts: The guests / leave / before I arrived. Use the past perfect.",
+      "acceptedAnswers": [
+        "The guests had left before I arrived."
+      ],
+      "feedback": "Had left looks back from the arrival to a prior departure."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Report a long activity before a past moment. Facts: She / practise / for an hour / when the teacher arrived. Use the past perfect continuous.",
+      "acceptedAnswers": [
+        "She had been practising for an hour when the teacher arrived."
+      ],
+      "feedback": "Had been practising traces the duration leading up to the teacher’s arrival."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the state-verb tense aloud: “I have been knowing the result since Monday.”",
+      "acceptedAnswers": [
+        "I have known the result since Monday."
+      ],
+      "feedback": "Know usually takes a simple perfect for a continuing state."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give two sentences in this order with full forms. Present evidence: They / paint / so their hands are stained (perfect continuous). Past evidence: They / paint / so their hands were stained (past perfect continuous).",
+      "acceptedAnswers": [
+        "They have been painting, so their hands are stained. They had been painting, so their hands were stained."
+      ],
+      "feedback": "Have been painting explains current evidence; had been painting explains past evidence."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Our studio usually opens at nine, but this week it is opening at eight for an early training course.",
+      "prompt": "Which arrangement is temporary?",
+      "choices": [
+        "Opening at eight this week.",
+        "Opening at nine on ordinary days.",
+        "Closing the studio permanently."
+      ],
+      "answerIndex": 0,
+      "feedback": "The continuous form and this week describe a temporary deviation from the usual schedule."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I submitted the application on Monday, and the office has already confirmed that it arrived.",
+      "prompt": "Which event has a present-relevant confirmed outcome?",
+      "choices": [
+        "The office has cancelled the application.",
+        "The application will be submitted next month.",
+        "The office has confirmed receipt of the application."
+      ],
+      "answerIndex": 2,
+      "feedback": "Has confirmed expresses an earlier action with current relevance."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The volunteers have been cleaning the riverbank all morning.",
+      "prompt": "Type the three-word verb phrase immediately after “volunteers”.",
+      "acceptedAnswers": [
+        "have been cleaning"
+      ],
+      "feedback": "Have been cleaning emphasises the ongoing or recently completed activity up to now."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "At three yesterday afternoon, I was interviewing an architect while my colleagues were reviewing the plans.",
+      "prompt": "What was the speaker doing at three yesterday afternoon?",
+      "choices": [
+        "Presenting the final report.",
+        "Interviewing an architect.",
+        "Driving the architect home."
+      ],
+      "answerIndex": 1,
+      "feedback": "Was interviewing locates an ongoing past activity at three."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "When we reached the cinema, the trailers had already started. We entered quietly and found our seats.",
+      "prompt": "What happened first?",
+      "choices": [
+        "The trailers started.",
+        "The group entered the cinema.",
+        "The group found their seats."
+      ],
+      "answerIndex": 0,
+      "feedback": "Had already started places the beginning of the trailers before the arrival."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "Their coats were wet when the meeting began because they had been walking through heavy rain.",
+      "prompt": "Why were their coats wet at the start of the meeting?",
+      "choices": [
+        "They had just been washed at a dry cleaner.",
+        "The office ceiling was leaking.",
+        "They had been walking in heavy rain."
+      ],
+      "answerIndex": 2,
+      "feedback": "Had been walking explains the past condition through earlier activity."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "She had completed the designs before the client arrived.",
+      "prompt": "Type the two-word verb phrase immediately after “She”.",
+      "acceptedAnswers": [
+        "had completed"
+      ],
+      "feedback": "Had completed marks a finished event earlier than the client’s arrival."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Last Thursday, the committee approved the revised timetable.",
+      "prompt": "Type the one-word past-tense verb immediately after “committee”.",
+      "acceptedAnswers": [
+        "approved"
+      ],
+      "feedback": "Approved is past simple for a dated, completed event."
+    }
+  ]
+}

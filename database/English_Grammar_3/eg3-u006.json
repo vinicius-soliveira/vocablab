@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u006",
+  "title": "Present Perfect Continuous and Present Perfect: Processes and Results",
+  "level": "C1",
+  "topicId": "eg3-u006-present-perfect-continuous-and-present-perfect",
+  "summary": "Select present perfect continuous or present perfect to express duration, continuing and recently finished activity, visible evidence, completed results, and a specific number of occasions, while respecting state-verb restrictions and genuine areas of overlap.",
+  "learningObjectives": [
+    "Contrast continuing or recently completed activity with an outcome measured up to the present.",
+    "Recognise when state verbs call for the present perfect rather than the continuous and where both forms can describe a continuing situation.",
+    "Interpret visible evidence and inferred causes using the present perfect continuous without losing a completed result.",
+    "Distinguish repeated activity over a period from a stated number of finished events or a quantified achievement."
+  ],
+  "explanation": [
+    {
+      "heading": "The continuous views a stretch of activity up to now",
+      "body": "Have or has been + -ing shows that an activity has continued until the present or stopped only recently. Duration phrases such as for several weeks and all morning highlight the span of the activity, which may still be in progress. The form does not guarantee that the task is finished. Simple perfect forms can sometimes describe continuing situations too, especially where the activity itself is not the main focus.",
+      "example": "The archive team has been cataloguing old photographs since January, and it still has several boxes to process."
+    },
+    {
+      "heading": "States resist the continuous, but some continuing situations allow either form",
+      "body": "Verbs describing possession, knowledge, preference and similar states, such as own, know, belong and dislike, normally use the present perfect for an unchanged state lasting up to now. For verbs that can describe an ongoing activity or attitude, both perfect forms may be grammatical, with the continuous putting more emphasis on the process. Avoid claiming that one tense is obligatory whenever a duration appears.",
+      "example": "I have known Farah for six years, and we have worked together throughout that period."
+    },
+    {
+      "heading": "Recent evidence can reveal an activity, not just a finished event",
+      "body": "A recent activity may leave visible or audible evidence. The present perfect continuous often offers an explanation or inference based on that evidence and may sound like a complaint with an appropriate context. Use the simple perfect when the speaker instead reports the completed outcome, particularly a single definite event. Both tenses may sometimes be possible, but they direct attention differently.",
+      "example": "Your sleeves are covered in flour. Have you been baking?"
+    },
+    {
+      "heading": "A measurable outcome differs from an evolving process",
+      "body": "A specific completed change or total often favours the present perfect: has fallen by ten percent, has processed sixty forms. Continuous forms are natural when describing the process of change without presenting a final figure, as in has been falling lately. An expression that quantifies the completed result is not interchangeable with one that highlights a trend: choose the form that matches what the sentence is claiming.",
+      "example": "Delivery times have fallen by two days, and the team has been improving the scheduling system."
+    },
+    {
+      "heading": "Count completed occasions; use the continuous for sustained repetition",
+      "body": "The present perfect normally reports a definite number of individual occasions, accomplishments or episodes. The present perfect continuous often emphasises that an action has happened repeatedly or persistently during a period, without specifying an exact count. Context also matters: some verbs describe an experience naturally with the simple form even when it has taken place over time.",
+      "example": "Tara has called the clinic three times today, and she has been trying to reach the specialist all afternoon."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A task in progress versus a finished, quantified result",
+      "left": {
+        "label": "Ongoing effort",
+        "example": "We have been analysing the samples all afternoon.",
+        "note": "The duration and process matter; completion is not stated."
+      },
+      "right": {
+        "label": "Completed total",
+        "example": "We have analysed eighteen samples today.",
+        "note": "The sentence counts the finished samples."
+      }
+    },
+    {
+      "title": "Evidence of an activity versus its specific outcome",
+      "left": {
+        "label": "Continuous: inferred process",
+        "example": "Your hands are stained. Have you been painting?",
+        "note": "The activity is inferred from its visible traces."
+      },
+      "right": {
+        "label": "Simple: completed result",
+        "example": "You have painted the entire fence.",
+        "note": "The speaker identifies a definite completed achievement."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Our neighbours have been renovating their kitchen for a month, and the work is not finished.",
+      "note": "The continuous stresses prolonged work that continues up to now."
+    },
+    {
+      "sentence": "I have known this neighbourhood since childhood.",
+      "note": "Know expresses a state; the present perfect, not the continuous, is appropriate."
+    },
+    {
+      "sentence": "Someone has been using the meeting room: the chairs are still out of place.",
+      "note": "The continuous explains present evidence of recent activity."
+    },
+    {
+      "sentence": "The laboratory has reduced its energy consumption by twelve percent.",
+      "note": "A quantified completed change favours the present perfect."
+    },
+    {
+      "sentence": "We have recorded ten interviews, but we have been interviewing volunteers since Monday.",
+      "note": "The simple form counts finished interviews; the continuous describes extended repeated work."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I have been knowing my supervisor for nearly a decade.",
+      "correct": "I have known my supervisor for nearly a decade.",
+      "why": "Know denotes a continuing state, so the normal form is the present perfect simple."
+    },
+    {
+      "incorrect": "The firm has been cutting its annual costs by exactly eight percent, according to the final report.",
+      "correct": "The firm has cut its annual costs by exactly eight percent, according to the final report.",
+      "why": "The final report gives a measured completed result; has cut matches that outcome."
+    },
+    {
+      "incorrect": "I have been writing six complete reports this week, and all six are ready to send.",
+      "correct": "I have written six complete reports this week, and all six are ready to send.",
+      "why": "An exact number of finished reports is naturally expressed with the present perfect."
+    },
+    {
+      "incorrect": "The floor is wet because someone has cleaned it all morning, and they are still cleaning it.",
+      "correct": "The floor is wet because someone has been cleaning it all morning, and they are still cleaning it.",
+      "why": "Has been cleaning highlights the continuing activity and explains the present evidence."
+    }
+  ],
+  "studyTips": [
+    "Ask two questions about each action: “What has been happening?” and “What has been completed?” Choose forms that answer different questions.",
+    "Make a two-column collection of duration or evidence clues and exact-number or completed-result clues; avoid turning the clues into absolute rules.",
+    "Record a short project update with one duration, one continuing state, one visible clue and one quantified achievement."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The volunteers started repairing the footpath at dawn. It is midday and they are still at work. Which description best stresses duration?",
+      "choices": [
+        "The volunteers have repaired the footpath completely.",
+        "The volunteers had repaired the footpath.",
+        "The volunteers have been repairing the footpath since dawn."
+      ],
+      "answerIndex": 2,
+      "feedback": "Have been repairing presents the ongoing activity over a period beginning at dawn; completion is not asserted."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which sentence describes a continuing state using the appropriate perfect form?",
+      "choices": [
+        "I have known the coordinator since 2019.",
+        "I have been knowing the coordinator since 2019.",
+        "I have been know the coordinator since 2019."
+      ],
+      "answerIndex": 0,
+      "feedback": "Know is a state verb and normally takes have known for a state continuing to the present."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The final audit states an exact completed result. Choose the most natural report: “The company ___ its emissions by nine percent.”",
+      "choices": [
+        "has been reducing",
+        "has reduced",
+        "had been reducing"
+      ],
+      "answerIndex": 1,
+      "feedback": "Has reduced presents the measured achievement as a completed result relevant now."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "There is fresh sawdust on the floor, and you want to infer the recent activity. Which question fits best?",
+      "choices": [
+        "Did you knew how to saw wood?",
+        "Have you sawed three boards yesterday?",
+        "Have you been sawing wood in here?"
+      ],
+      "answerIndex": 2,
+      "feedback": "Have you been sawing asks about the recent activity suggested by visible evidence."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "My cousins ___ (live) in the same village for fifteen years. Write the present-perfect form using “have” and “lived”.",
+      "acceptedAnswers": [
+        "have lived"
+      ],
+      "feedback": "Have lived is a natural simple-perfect way of describing a continuing situation."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Why are your shoes muddy? You ___ (walk) through the fields. Write the complete present-perfect-continuous phrase.",
+      "acceptedAnswers": [
+        "have been walking"
+      ],
+      "feedback": "Have been walking infers an activity from the muddy shoes."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The museum ___ (restore) exactly twelve paintings this year, and they are all back on display. Use the present perfect.",
+      "acceptedAnswers": [
+        "has restored"
+      ],
+      "feedback": "Has restored reports a specified number of completed results."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "I ___ (wait) for the support team for forty minutes, and I am still on hold. Write the present-perfect-continuous phrase.",
+      "acceptedAnswers": [
+        "have been waiting"
+      ],
+      "feedback": "Have been waiting highlights the duration of an activity that is still continuing."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the state-verb error: She has been owning the building since 2015.",
+      "acceptedAnswers": [
+        "She has owned the building since 2015."
+      ],
+      "feedback": "Own is a state verb describing possession and normally takes the simple perfect."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the quantified-result tense: The committee has been approving four complete applications, and the decisions are final.",
+      "acceptedAnswers": [
+        "The committee has approved four complete applications, and the decisions are final."
+      ],
+      "feedback": "The exact count and final decisions require a completed-result perspective."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the continuing-action phrase: I have been work on this proposal all morning, and I am not finished.",
+      "acceptedAnswers": [
+        "I have been working on this proposal all morning, and I am not finished."
+      ],
+      "feedback": "The perfect continuous requires have been followed by the -ing participle."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the inferred-activity tense: You have dig in the garden; there is soil all over your shirt!",
+      "acceptedAnswers": [
+        "You have been digging in the garden; there is soil all over your shirt!"
+      ],
+      "feedback": "The perfect continuous naturally explains visible traces of a recent activity, and it needs have been + -ing."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "State the duration of an unfinished activity. Exact facts: We / work / on this plan / since Monday. Use the present perfect continuous.",
+      "acceptedAnswers": [
+        "We have been working on this plan since Monday.",
+        "We've been working on this plan since Monday."
+      ],
+      "feedback": "Have been working highlights activity continuing through the present."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Describe a continuing state. Exact facts: I / know / the director / for eight years. Use the present perfect.",
+      "acceptedAnswers": [
+        "I have known the director for eight years.",
+        "I've known the director for eight years."
+      ],
+      "feedback": "Know takes the simple perfect when it denotes a state that continues to now."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Report an exact completed result. Facts: The team / complete / seven inspections / today. Use the present perfect.",
+      "acceptedAnswers": [
+        "The team has completed seven inspections today."
+      ],
+      "feedback": "Has completed reports seven finished events within the current day."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Infer a recent activity from evidence. Facts: You / paint / in the studio. Ask a question using the present perfect continuous and full forms.",
+      "acceptedAnswers": [
+        "Have you been painting in the studio?"
+      ],
+      "feedback": "Have you been painting naturally asks about recent activity suggested by its effects."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Say what has continued, not how many times it happened. Facts: Maya / call / the helpline / all afternoon. Use the present perfect continuous.",
+      "acceptedAnswers": [
+        "Maya has been calling the helpline all afternoon."
+      ],
+      "feedback": "Has been calling highlights a sustained or repeated effort over a stretch of time."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Say the result of a measurable change. Facts: Costs / fall / by five percent. Use the present perfect.",
+      "acceptedAnswers": [
+        "Costs have fallen by five percent."
+      ],
+      "feedback": "Have fallen expresses a quantified outcome."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the sentence aloud: “I have been understanding the new rules for months.”",
+      "acceptedAnswers": [
+        "I have understood the new rules for months."
+      ],
+      "feedback": "Understand denotes a state of comprehension and normally takes the simple present perfect."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give two sentences in this order, using full forms. Ongoing work: We / process / requests / all week (continuous). Finished number: We / process / twenty requests / so far (simple).",
+      "acceptedAnswers": [
+        "We have been processing requests all week. We have processed twenty requests so far."
+      ],
+      "feedback": "The continuous conveys sustained work; the simple reports the exact completed total."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "We have been checking the emergency lighting since nine this morning. There are still two floors left to inspect.",
+      "prompt": "What is the status of the checks?",
+      "choices": [
+        "They were all completed last week.",
+        "The checks are not finished yet.",
+        "Only one check was ever necessary."
+      ],
+      "answerIndex": 1,
+      "feedback": "Have been checking and two floors left indicate ongoing work rather than a completed total."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I have known the violinist for twelve years, but we have only performed together once.",
+      "prompt": "Which statement matches the recording?",
+      "choices": [
+        "The speaker has known the violinist for twelve years.",
+        "The speaker has been knowing the violinist recently.",
+        "They perform together every week."
+      ],
+      "answerIndex": 0,
+      "feedback": "Have known expresses a longstanding relationship, while once counts a single performance."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The researchers have been testing the new material since February.",
+      "prompt": "Type the three-word verb phrase following “researchers”.",
+      "acceptedAnswers": [
+        "have been testing"
+      ],
+      "feedback": "Have been testing highlights activity in progress over a period."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "There is fresh paint on your sleeves. Have you been decorating the spare room again?",
+      "prompt": "Why does the speaker ask about decorating?",
+      "choices": [
+        "Someone booked a decorator for next year.",
+        "The spare room is being demolished.",
+        "The sleeves show evidence of a recent activity."
+      ],
+      "answerIndex": 2,
+      "feedback": "The visible paint supports an inference about recent decorating, expressed through have been decorating."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Our office has reduced paper use by twenty percent this quarter, according to the final figures.",
+      "prompt": "What does the speaker present?",
+      "choices": [
+        "An activity whose result cannot be measured.",
+        "A measured reduction in paper use.",
+        "A hope to reduce paper use at an unspecified time."
+      ],
+      "answerIndex": 1,
+      "feedback": "Has reduced by twenty percent states a quantified completed outcome."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The engineer has repaired four sensors today and has been investigating a fifth one for hours.",
+      "prompt": "What is still being investigated?",
+      "choices": [
+        "A fifth sensor.",
+        "All four repaired sensors.",
+        "The building’s heating system."
+      ],
+      "answerIndex": 0,
+      "feedback": "Four repairs are completed; the fifth sensor remains the subject of extended investigation."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The company has received eleven applications for the position this month.",
+      "prompt": "Type the two-word verb phrase immediately after “company”.",
+      "acceptedAnswers": [
+        "has received"
+      ],
+      "feedback": "Has received introduces a number of completed arrivals up to the present."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The children have been practising for the concert all afternoon.",
+      "prompt": "Type the three words immediately after “children”.",
+      "acceptedAnswers": [
+        "have been practising"
+      ],
+      "feedback": "Have been practising presents an extended period of activity."
+    }
+  ]
+}

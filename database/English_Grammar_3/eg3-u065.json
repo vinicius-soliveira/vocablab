@@ -1,0 +1,408 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u065",
+  "title": "Ellipsis of To-Infinitives: When To Stays or Disappears",
+  "level": "C2",
+  "topicId": "eg3-u065-ellipsis-of-to-infinitives",
+  "summary": "Avoid repeating a clear to-infinitive clause while choosing accurately between a retained to, an optional to and a construction requiring to be. Recognise differences after nouns, adjectives, verbs, if- and wh-clauses, and negative want or like expressions.",
+  "learningObjectives": [
+    "Replace a recoverable to-infinitive clause with to after verbs and identify cases where to be must remain.",
+    "Distinguish contexts allowing optional to from verbs requiring a retained to when their infinitive complement is unspoken.",
+    "Choose natural ellipsis after would like or want in conditional and wh-clauses and distinguish it from independent clauses.",
+    "Maintain to after negative want, like and would like, even in conditional or wh-clauses."
+  ],
+  "explanation": [
+    {
+      "heading": "Retain to when the infinitive content is understood",
+      "body": "When listeners can recover a previously mentioned to-infinitive action, its verb phrase can often be omitted while to stays behind. Modal and perfect forms before to remain intact: wanted to, would prefer to and have tried to can each stand for a longer phrase in suitable context. Do not leave an unexplained to when the action has not been established.",
+      "example": "The students planned to visit the archive, but the bus strike meant they were unable to."
+    },
+    {
+      "heading": "An omitted be often needs to be instead",
+      "body": "A special restriction applies when the understood infinitive is be followed by a state, identity or property. We normally retain be after to when this be is being echoed. Thus, someone who looked calm may have been trying to be, not merely trying to. The contrast is grammatical rather than a stylistic preference for longer sentences.",
+      "example": "The gallery assistant seemed relaxed, or at least she was pretending to be."
+    },
+    {
+      "heading": "Some governors permit zero, but others require to",
+      "body": "After certain nouns, adjectives and verbs, the whole infinitive clause can sometimes be omitted, with to optional. Plans, willing, promise and refuse are examples of environments in which the shortened construction is possible. Other verbs, including hope, need, expect and intend, conventionally require to when their infinitive complement is unexpressed. The availability of omission depends on the preceding word, not just whether meaning is clear.",
+      "example": "I could join the rehearsal if necessary, and I would certainly be willing to; but I was not planning to."
+    },
+    {
+      "heading": "Affirmative want and would like behave differently across clauses",
+      "body": "In affirmative if- and wh-clauses, want and would like commonly allow the final to to be omitted: leave if you want and choose whatever you would like are both possible. In an independent affirmative clause, the same verbs normally keep to when the infinitive complement has been omitted: I would like to. The construction, and not simply the speaker’s politeness, determines the form.",
+      "example": "You may stay for the discussion if you want, but I would like to."
+    },
+    {
+      "heading": "Negative want or like retains to",
+      "body": "When want, like and would like are negated, the final to is normally retained even in if- and wh-clauses. This is a useful contrast with affirmative conditional and wh-clauses: do not wish to join is different from join if you wish. Avoid dropping to in a negative answer such as I would not like to.",
+      "example": "If you do not want to, you need not speak at the meeting."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Affirmative if-clause versus negative if-clause",
+      "left": {
+        "label": "Affirmative: optional to",
+        "example": "You can take the front seat if you want.",
+        "note": "With affirmative want in an if-clause, the unspoken infinitive may leave no final to."
+      },
+      "right": {
+        "label": "Negative: retain to",
+        "example": "You need not take the front seat if you do not want to.",
+        "note": "Negative want requires to even inside an if-clause."
+      }
+    },
+    {
+      "title": "Omitting an ordinary action versus omitting be",
+      "left": {
+        "label": "Action: retain to",
+        "example": "The team wanted to publish the results but was not allowed to.",
+        "note": "To stands for to publish the results."
+      },
+      "right": {
+        "label": "Be: retain to be",
+        "example": "He looked uncertain, though he did not want to be.",
+        "note": "To be stands for being uncertain; ending at to would be inappropriate in this context."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Ruth agreed to present the findings, and fortunately she remembered to.",
+      "note": "Remembered to can stand for remembered to present the findings."
+    },
+    {
+      "sentence": "The actor appeared furious, although he was only pretending to be.",
+      "note": "An implied infinitive headed by be normally retains be."
+    },
+    {
+      "sentence": "The organisers considered postponing the event, but they decided not to.",
+      "note": "Not to stands for not to postpone the event."
+    },
+    {
+      "sentence": "Take another handout if you would like.",
+      "note": "Affirmative would like in an if-clause permits omission of the final to."
+    },
+    {
+      "sentence": "I offered to explain the policy, but she said she did not need me to.",
+      "note": "Need + object + to keeps to when the infinitive complement is omitted."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "She seemed cheerful, though she was only pretending to.",
+      "correct": "She seemed cheerful, though she was only pretending to be.",
+      "why": "The omitted infinitive is be cheerful, so be is repeated after to."
+    },
+    {
+      "incorrect": "We could extend the deadline, but I do not intend.",
+      "correct": "We could extend the deadline, but I do not intend to.",
+      "why": "Intend requires to when its infinitive complement is unspoken."
+    },
+    {
+      "incorrect": "You need not attend the talk if you do not want.",
+      "correct": "You need not attend the talk if you do not want to.",
+      "why": "Negative want requires to when the understood infinitive is omitted."
+    },
+    {
+      "incorrect": "I would love to attend, but I do not think I will be able.",
+      "correct": "I would love to attend, but I do not think I will be able to.",
+      "why": "Able retains to when a recoverable infinitive complement is omitted."
+    }
+  ],
+  "studyTips": [
+    "Underline the missing action after every stranded to, then read the original clause aloud with the full infinitive restored.",
+    "Make paired affirmative and negative if-clauses with want: compare if you want (to) with if you do not want to.",
+    "Check the governing word before deleting to; test examples with promised, willing and planned against intended, needed and hoped."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The supervisor hoped to finish early, but she was not able ___. The earlier activity is understood.",
+      "choices": [
+        "finish",
+        "to",
+        "to finish it early"
+      ],
+      "answerIndex": 1,
+      "feedback": "Able requires to, which can stand for the already mentioned infinitive clause."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "The presenter seemed anxious, but she may simply have pretended ___. Choose the best ellipsis.",
+      "choices": [
+        "to be",
+        "to",
+        "being"
+      ],
+      "answerIndex": 0,
+      "feedback": "The understood phrase is be anxious, so retain to be rather than only to."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "The volunteers are invited to stay longer if they ___. Choose the form that allows the whole infinitive to be omitted.",
+      "choices": [
+        "do not want",
+        "want",
+        "hope"
+      ],
+      "answerIndex": 1,
+      "feedback": "Affirmative want in an if-clause can omit to entirely; hope and negative want do not work the same way."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "We discussed postponing the launch, but I do not ___ . Choose the ending that stands alone correctly.",
+      "choices": [
+        "intend",
+        "intending",
+        "intend to"
+      ],
+      "answerIndex": 2,
+      "feedback": "Intend normally retains to when its infinitive complement is not repeated."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "She was supposed to inform the visitors and remembered ___. Complete with one word.",
+      "acceptedAnswers": [
+        "to"
+      ],
+      "feedback": "Remembered to refers back to informing the visitors."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "He was said to be exhausted, and he certainly appeared ___ ___. Provide the two-word ending.",
+      "acceptedAnswers": [
+        "to be"
+      ],
+      "feedback": "The omitted predicative phrase is be exhausted, so be is required."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "I wanted to book a later train, but I could not afford ___. Give the one-word ending.",
+      "acceptedAnswers": [
+        "to"
+      ],
+      "feedback": "Afford retains to when the infinitive complement is not repeated."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The workshop is optional, so attend whenever you ___ . Write a single word with no final to.",
+      "acceptedAnswers": [
+        "want"
+      ],
+      "feedback": "In an affirmative wh-clause, want can omit to."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The coordinator was unhappy, but she tried not to.",
+      "acceptedAnswers": [
+        "The coordinator was unhappy, but she tried not to be."
+      ],
+      "feedback": "The state unhappy depends on be; to be must remain in the ellipsis."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The participants may leave if they do not want.",
+      "acceptedAnswers": [
+        "The participants may leave if they do not want to."
+      ],
+      "feedback": "Negative want requires the stranded to even in an if-clause."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: We could restart the test, but I would not prefer.",
+      "acceptedAnswers": [
+        "We could restart the test, but I would not prefer to."
+      ],
+      "feedback": "Prefer retains to when its infinitive complement is recoverable but unspoken."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The guide hoped to answer questions, and I hoped.",
+      "acceptedAnswers": [
+        "The guide hoped to answer questions, and I hoped to."
+      ],
+      "feedback": "Hope requires to when its understood infinitive complement is omitted."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Use a short second clause with to. Facts: Mara planned to speak at the ceremony. She did not have the courage. Say two sentences beginning with \"Mara\".",
+      "acceptedAnswers": [
+        "Mara planned to speak at the ceremony. She did not have the courage to."
+      ],
+      "feedback": "The stranded to replaces the previously described act of speaking."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Give a single sentence preserving the meaning, using to be. Facts: The actor looked terrified. He was only pretending. Begin with \"The actor\".",
+      "acceptedAnswers": [
+        "The actor looked terrified, but he was only pretending to be."
+      ],
+      "feedback": "The understood phrase is be terrified, and to be remains."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Respond affirmatively to a request using a full elliptical phrase. Question: \"Would you like to join us?\" Say exactly \"Yes, I would like to.\"",
+      "acceptedAnswers": [
+        "Yes, I would like to."
+      ],
+      "feedback": "In an independent affirmative response, would like keeps to."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Offer an optional action. Facts: You can stay after class; staying is optional. Begin \"You can\" and finish with an affirmative if-clause using want without to.",
+      "acceptedAnswers": [
+        "You can stay after class if you want."
+      ],
+      "feedback": "Affirmative if you want permits zero instead of want to."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Give the negative conditional form. Facts: The meeting is optional. Begin \"You do not have to attend\" and end \"if you do not want to.\"",
+      "acceptedAnswers": [
+        "You do not have to attend if you do not want to.",
+        "You don't have to attend if you don't want to.",
+        "You don't have to attend if you do not want to.",
+        "You do not have to attend if you don't want to."
+      ],
+      "feedback": "Negative want retains the final to."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Replace the repeated action with the appropriate short infinitive. Facts: The editor offered to check the figures; the reviewer agreed to check them. Begin \"The editor\" and use agreed to.",
+      "acceptedAnswers": [
+        "The editor offered to check the figures, and the reviewer agreed to."
+      ],
+      "feedback": "Agreed to refers back to checking the figures."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this sentence aloud: \"I could apply again, but I do not intend.\" Use the grammatical elliptical ending.",
+      "acceptedAnswers": [
+        "I could apply again, but I do not intend to.",
+        "I could apply again, but I don't intend to."
+      ],
+      "feedback": "Intend takes to even when the application is already understood."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say these two sentences in order using full forms. First: \"She may choose any seat she likes.\" Second: \"She does not have to choose one if she does not want to.\"",
+      "acceptedAnswers": [
+        "She may choose any seat she likes. She does not have to choose one if she does not want to."
+      ],
+      "feedback": "The final negative want to keeps to; this is a two-sentence constrained response."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The researcher had prepared to give the talk, but the schedule changed and she was not given the chance to.",
+      "prompt": "Why did the researcher not give the talk?",
+      "choices": [
+        "She had no opportunity.",
+        "She did not know the topic.",
+        "She had already delivered it."
+      ],
+      "answerIndex": 0,
+      "feedback": "Was not given the chance to refers to the planned talk, and the reason is lack of opportunity."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The assistant looked confident during the interview, but afterwards admitted she had merely been pretending to be.",
+      "prompt": "What does the assistant appear to have done?",
+      "choices": [
+        "Pretended to be confident.",
+        "Refused to take part.",
+        "Become genuinely angry."
+      ],
+      "answerIndex": 0,
+      "feedback": "Pretending to be refers to appearing confident rather than necessarily feeling confident."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Would you like to attend the workshop? Yes, I would like to. The topic sounds useful.",
+      "prompt": "Transcribe the two-word phrase after would in the reply.",
+      "acceptedAnswers": [
+        "like to"
+      ],
+      "feedback": "Like to replaces the previously mentioned action and appears in an independent response."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The discussion is officially over, but you can stay for the questions if you want.",
+      "prompt": "What is true about the invitation to stay?",
+      "choices": [
+        "Staying is compulsory.",
+        "Staying is optional.",
+        "Staying is forbidden."
+      ],
+      "answerIndex": 1,
+      "feedback": "The invitation is conditional on the listener wanting to stay."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Some advisers suggested withdrawing the proposal, but I do not intend to.",
+      "prompt": "What decision has the speaker made about the proposal?",
+      "choices": [
+        "They plan to withdraw it.",
+        "They do not intend to withdraw it.",
+        "They have already withdrawn it."
+      ],
+      "answerIndex": 1,
+      "feedback": "Do not intend to keeps the infinitive marker while rejecting the stated action."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The director appeared worried, but later said she had only been pretending to be.",
+      "prompt": "Why is the infinitive shortened to to be?",
+      "choices": [
+        "Because an identity or state with be is understood.",
+        "Because a completed action is understood.",
+        "Because the speaker is making a future prediction."
+      ],
+      "answerIndex": 0,
+      "feedback": "To be echoes the understood description be worried."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "He may join the video call, but he does not have to if he does not want to.",
+      "prompt": "Transcribe the exact two-word ending after does not.",
+      "acceptedAnswers": [
+        "want to"
+      ],
+      "feedback": "Negative want to retains to in this conditional clause."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "We did not manage to visit the exhibition yesterday, but we still hope to.",
+      "prompt": "Transcribe the exact two-word phrase after still.",
+      "acceptedAnswers": [
+        "hope to"
+      ],
+      "feedback": "Hope retains to when the hoped-for visit is understood."
+    }
+  ]
+}

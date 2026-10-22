@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u062",
+  "title": "So and Not: Clause Substitution and Short Responses",
+  "level": "C1",
+  "topicId": "eg3-u062-so-and-not-clause-substitution",
+  "summary": "Use so and not to avoid repeating clauses, adjectives and adverbs, while selecting patterns that fit specific reporting and thinking verbs. Distinguish negative replies, reported instructions and reactions to newly confirmed information from responses indicating prior knowledge.",
+  "learningObjectives": [
+    "Substitute so for an identifiable description, manner or proposition without repeating its full wording.",
+    "Select verbs that permit so as a clause substitute and recognise verbs that ordinarily require it or a that-clause instead.",
+    "Apply verb-sensitive negative forms such as I do not think so, I suppose not and the different meanings of said not to and did not say so.",
+    "Use so + pronoun + auxiliary for discoveries, and distinguish that response from prior-knowledge forms and so + reporting verb."
+  ],
+  "explanation": [
+    {
+      "heading": "So can stand for a description or an entire proposition",
+      "body": "So may replace a previously expressed adjective, adverb, manner or proposition when the intended meaning is recoverable. It prevents cumbersome repetition, but the antecedent must be clear. Be so after an adjective relates to a property; do so is generally used to substitute for a complete action rather than any arbitrary noun or proposition.",
+      "example": "The technician was relieved, and she had good reason to be so."
+    },
+    {
+      "heading": "Thinking and reporting verbs that allow so",
+      "body": "Common combinations include I think so, I believe so, I hope so, I expect so, I assume so, I suppose so and I guess so. Appear and seem also allow so after it in suitable replies; say so and tell somebody so refer back to a stated claim. Do not assume that any verb taking a that-clause permits so: I doubt it and I know that he will are natural where I doubt so and I know so are usually not.",
+      "example": "Will the exhibition be extended? I expect so, but nothing has been confirmed."
+    },
+    {
+      "heading": "Negative substitutes depend on the main verb",
+      "body": "Negation may target the main verb, giving I do not think so, or the substituted proposition, giving I hope not and I suppose not. Both I do not suppose so and I suppose not are possible, but not every verb accepts both. I do not think so is the usual conversational form; I think not is more formal. With hope, guess, presume and many uses of be afraid, a bare not after the verb is conventional.",
+      "example": "Will there be further delays? I hope not, although I cannot rule them out."
+    },
+    {
+      "heading": "Reported instruction versus lack of confirmation",
+      "body": "Said not to + infinitive reports a negative instruction, whereas did not say so reports that someone did not make or confirm a previously mentioned assertion. These are not interchangeable. A sentence such as the coordinator said not to enter is an instruction; the coordinator did not say so does not, by itself, mean that entry was prohibited.",
+      "example": "The guide said not to touch the paintings, but she did not say so about the photographs."
+    },
+    {
+      "heading": "So in reactions: fresh discovery versus known information",
+      "body": "A reply such as So it is! or So they have! uses so + subject + auxiliary when the speaker has just noticed or realised what another person reported. If the speaker knew the fact already, Yes, it is or Yes, they have is more natural. A different pattern, So I gather or So I hear, can respond to new information while implying that the speaker had heard or inferred it previously.",
+      "example": "A: The sign has changed. B: So it has! I had not noticed."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Negative prediction versus a negative wish",
+      "left": {
+        "label": "Think: negate the main verb",
+        "example": "I do not think so.",
+        "note": "The common reply when someone doubts that a proposition is true."
+      },
+      "right": {
+        "label": "Hope: negate the proposition",
+        "example": "I hope not.",
+        "note": "The speaker wishes that the previously mentioned possibility will not happen."
+      }
+    },
+    {
+      "title": "Negative instruction versus an unconfirmed statement",
+      "left": {
+        "label": "Said not to: told somebody to avoid an action",
+        "example": "The organiser said not to record the talk.",
+        "note": "The instruction was to refrain from recording."
+      },
+      "right": {
+        "label": "Did not say so: did not make the preceding assertion",
+        "example": "Someone said the talk was cancelled, but the organiser did not say so.",
+        "note": "The organiser did not confirm or state the cancellation."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The maintenance team said that access was restricted, and the notice said so too.",
+      "note": "Said so replaces the assertion that access was restricted."
+    },
+    {
+      "sentence": "Do you expect the proposal to pass? I believe so.",
+      "note": "Believe so stands for the positive proposition that the proposal will pass."
+    },
+    {
+      "sentence": "I hope not; another postponement would be frustrating.",
+      "note": "Hope not expresses a wish for the previously suggested event not to occur."
+    },
+    {
+      "sentence": "The supervisor said not to enter the room during calibration.",
+      "note": "Said not to reports a negative instruction rather than silence on the issue."
+    },
+    {
+      "sentence": "The alarm has stopped. So it has! I did not hear it stop.",
+      "note": "So it has marks the speaker’s new recognition of the fact."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Will the delivery arrive by noon? I doubt so.",
+      "correct": "Will the delivery arrive by noon? I doubt it.",
+      "why": "Doubt normally takes it or a full clause here rather than the substitute so."
+    },
+    {
+      "incorrect": "Will the weather improve? I hope no.",
+      "correct": "Will the weather improve? I hope so.",
+      "why": "Hope so replaces the affirmative proposition that the weather will improve; no does not follow hope as a clause substitute."
+    },
+    {
+      "incorrect": "The curator said not so display the photographs.",
+      "correct": "The curator said not to display the photographs.",
+      "why": "A reported negative instruction uses said not to plus the infinitive."
+    },
+    {
+      "incorrect": "A: The documents are ready. B: So are they! I had not realised.",
+      "correct": "A: The documents are ready. B: So they are! I had not realised.",
+      "why": "A surprised confirmation uses so + subject + auxiliary, not the auxiliary-before-subject agreement pattern."
+    }
+  ],
+  "studyTips": [
+    "Sort reply verbs into so-taking (think, believe, hope, expect) and non-so-taking (doubt, know, promise in this meaning), then write a full-clause paraphrase for each.",
+    "Create pairs of dialogues with the same antecedent but opposite attitudes: I think so versus I do not think so, and I hope so versus I hope not.",
+    "When hearing so in a reply, identify whether it substitutes a proposition, marks a fresh realisation or reports previous knowledge; check the position of the pronoun and auxiliary."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Someone asks whether the train will arrive early. Choose the conventional reply expressing that you expect it will.",
+      "choices": [
+        "I doubt so.",
+        "I expect so.",
+        "I promise so."
+      ],
+      "answerIndex": 1,
+      "feedback": "Expect so is a natural reply standing for the proposition that the train will arrive early."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "You have just noticed what your friend points out: \"The museum has reopened.\" Choose a surprised confirmation.",
+      "choices": [
+        "So it has!",
+        "So has it!",
+        "So it does!"
+      ],
+      "answerIndex": 0,
+      "feedback": "So it has uses the subject before the auxiliary and matches the present perfect in has reopened."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "You want the meeting not to be cancelled. Complete: \"Will they cancel the meeting? I ___.\"",
+      "choices": [
+        "hope no",
+        "do not hope so",
+        "hope not"
+      ],
+      "answerIndex": 2,
+      "feedback": "I hope not expresses a negative wish, not a positive expectation."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the sentence that reports an instruction not to perform an action.",
+      "choices": [
+        "The curator did not say so open the case.",
+        "The curator said not to open the case.",
+        "The curator said so not opening the case."
+      ],
+      "answerIndex": 1,
+      "feedback": "Said not to + infinitive conveys a prohibition or negative instruction."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete the expected affirmative reply with exactly two words using think: \"Will the plan work? I ___ ___.\"",
+      "acceptedAnswers": [
+        "think so"
+      ],
+      "feedback": "Think so substitutes the affirmative proposition that the plan will work."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Write the negative substitute after hope: \"Will the roads be closed tomorrow? I hope ___.\"",
+      "acceptedAnswers": [
+        "not"
+      ],
+      "feedback": "Hope not is the conventional short reply for an unwanted future possibility."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete the surprised recognition with two words: \"The windows are open.\" \"So ___ ___! I had not noticed.\"",
+      "acceptedAnswers": [
+        "they are"
+      ],
+      "feedback": "In surprised confirmation, the order is subject then auxiliary: so they are."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete with two words that report the negative instruction: \"The guide said ___ ___ take photographs.\"",
+      "acceptedAnswers": [
+        "not to"
+      ],
+      "feedback": "Said not to introduces an instruction to avoid taking photographs."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the natural short response: \"Will the proposal be approved? I doubt so.\"",
+      "acceptedAnswers": [
+        "Will the proposal be approved? I doubt it."
+      ],
+      "feedback": "Doubt generally needs it or a that-clause, not the affirmative substitute so."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the negative wish: \"Will they postpone the concert? I hope no.\"",
+      "acceptedAnswers": [
+        "Will they postpone the concert? I hope not."
+      ],
+      "feedback": "I hope not is the conventional short form for wishing the event will not happen."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the reported prohibition: \"The instructor said not so use the equipment yet.\"",
+      "acceptedAnswers": [
+        "The instructor said not to use the equipment yet."
+      ],
+      "feedback": "Said not to + infinitive reports a negative instruction."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the surprised agreement, preserving the present perfect: \"The delivery has arrived.\" \"So has it!\"",
+      "acceptedAnswers": [
+        "The delivery has arrived. So it has!"
+      ],
+      "feedback": "Surprised confirmation takes so + subject + auxiliary, not the inverted agreement pattern."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Answer the prediction using expect so. Question: \"Will the review finish today?\" Give the three-word reply beginning with \"I\".",
+      "acceptedAnswers": [
+        "I expect so."
+      ],
+      "feedback": "Expect so replaces the affirmative proposition that the review will finish today."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "You do not think the lecture will be cancelled. Respond to \"Will the lecture be cancelled?\" using the exact phrase I do not think so.",
+      "acceptedAnswers": [
+        "I do not think so."
+      ],
+      "feedback": "This is the usual negative form with think and the substitute so."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Say the short response to an unwanted outcome. Question: \"Will we have to start again?\" Reply with I hope not.",
+      "acceptedAnswers": [
+        "I hope not."
+      ],
+      "feedback": "Hope not expresses a wish that restarting will not be necessary."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "You just notice the lights are on. Respond with the surprised pattern to \"The lights are on.\" Begin with \"So\".",
+      "acceptedAnswers": [
+        "So they are!"
+      ],
+      "feedback": "Surprised recognition uses so + subject + auxiliary."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Report an instruction with these facts: The supervisor instructed us not to switch on the pump. Start with \"The supervisor said\".",
+      "acceptedAnswers": [
+        "The supervisor said not to switch on the pump."
+      ],
+      "feedback": "Said not to plus infinitive expresses a negative instruction."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Replace the repeated clause with so: \"The editor said the article was ready. The publisher said that the article was ready too.\" Begin with \"The editor\".",
+      "acceptedAnswers": [
+        "The editor said the article was ready. The publisher said so too."
+      ],
+      "feedback": "Said so refers back to the previous assertion without repeating it."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the reply using a verb that does not normally allow so: \"Will there be delays? I doubt so.\"",
+      "acceptedAnswers": [
+        "Will there be delays? I doubt it."
+      ],
+      "feedback": "Doubt it is the standard construction here."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say these two replies in this exact order, preserving the meanings. Context: \"Will it rain tonight?\" First, a negative prediction about rain using think. Second, a negative wish about rain using hope. Use full forms and begin each with \"I\".",
+      "acceptedAnswers": [
+        "I do not think so. I hope not."
+      ],
+      "feedback": "Not think so expresses a negative prediction; hope not expresses a wish that it will not rain."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Do you think we will need an extra session? I do not think so. We have nearly finished.",
+      "prompt": "What does the speaker predict?",
+      "choices": [
+        "That the extra session will be necessary.",
+        "That the extra session will probably not be necessary.",
+        "That the extra session has already been completed."
+      ],
+      "answerIndex": 1,
+      "feedback": "I do not think so rejects the previously mentioned possibility of an extra session."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The side gate is open. So it is! I had not noticed.",
+      "prompt": "How does the second speaker react to the new information?",
+      "choices": [
+        "They are surprised to discover that the gate is open.",
+        "They instructed somebody to open the gate.",
+        "They already knew the gate was open."
+      ],
+      "answerIndex": 0,
+      "feedback": "So it is expresses a fresh discovery, reinforced by I had not noticed."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Will the invitation arrive today? I expect so. It was sent yesterday.",
+      "prompt": "Transcribe the exact two-word substitute phrase after I in the reply.",
+      "acceptedAnswers": [
+        "expect so"
+      ],
+      "feedback": "Expect so stands for the expectation that the invitation will arrive today."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The organiser said not to use the rear door during the rehearsal.",
+      "prompt": "What instruction did the organiser give?",
+      "choices": [
+        "To enter through the rear door.",
+        "Not to use the rear door.",
+        "Not to share the event address."
+      ],
+      "answerIndex": 1,
+      "feedback": "Said not to use reports an explicit negative instruction."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Will there be another delay? I hope not. We have already waited long enough.",
+      "prompt": "How does the speaker feel about the possibility of another delay?",
+      "choices": [
+        "They actively hope for another delay.",
+        "They have been told a delay is certain.",
+        "They want to avoid another delay."
+      ],
+      "answerIndex": 2,
+      "feedback": "I hope not expresses a wish that the delay will not happen."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "A newspaper reported that the service would close, but the spokesperson did not say so.",
+      "prompt": "Which statement best describes what the spokesperson said?",
+      "choices": [
+        "She confirmed that the service would close.",
+        "She did not confirm the claim that the service would close.",
+        "She ordered staff to stop the service immediately."
+      ],
+      "answerIndex": 1,
+      "feedback": "Did not say so refers to a claim she did not make; it is not an instruction."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The director is leaving at the end of the year. So I hear. The team mentioned it yesterday.",
+      "prompt": "Transcribe the exact two-word phrase indicating that the speaker has already heard the information.",
+      "acceptedAnswers": [
+        "I hear"
+      ],
+      "feedback": "So I hear can indicate previous awareness of the news."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The results have been posted online. So they have! I just checked the website.",
+      "prompt": "Transcribe the exact two-word phrase that completes the surprised response after So.",
+      "acceptedAnswers": [
+        "they have"
+      ],
+      "feedback": "So they have follows the subject + auxiliary order of a surprised recognition."
+    }
+  ]
+}

@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u034",
+  "title": "Verb + Wh-Clauses: Embedded Questions and Choices",
+  "level": "C1",
+  "topicId": "eg3-u034-verb-wh-clause",
+  "summary": "Combine reporting and thinking verbs with finite wh-clauses, wh-words plus infinitives, personal-object patterns and expressions of choices. Distinguish how from the way, whether from that, and grammatical whether to from ungrammatical if to.",
+  "learningObjectives": [
+    "Build finite embedded wh-clauses in statement order and use wh-word + to-infinitive where its subject is understood.",
+    "Select a personal object before a wh-clause after tell, remind, instruct and related verbs.",
+    "Express methods with how or the way without combining both into the way how.",
+    "Distinguish whether and if in finite clauses, apply whether + to-infinitive only with appropriate verbs, and differentiate uncertainty from asserted information."
+  ],
+  "explanation": [
+    {
+      "heading": "Finite wh-clauses embed a question as a statement",
+      "body": "Verbs including decide, find out, remember, explain, discuss, discover, notice and wonder may take a clause introduced by how, what, when, where, which, who or why. In an embedded question, use statement word order: wonder where the keys are, not wonder where are the keys. A wh-clause can report information or uncertainty without being a direct question. Whether and if also introduce embedded alternatives, with restrictions described separately.",
+      "example": "We could not remember where the spare materials were stored."
+    },
+    {
+      "heading": "Wh-word plus to-infinitive omits the expressed clause subject",
+      "body": "Many verbs that take a wh-clause can also take wh-word + to-infinitive when the understood doer fits the meaning: work out how to start, choose which file to open or decide where to meet. Why does not normally form an analogous why to-infinitive. If the wh-clause has an expressed subject, keep the finite verb instead of adding a to-infinitive: understand what she wants, not what she to want.",
+      "example": "The technician showed us which switch to press."
+    },
+    {
+      "heading": "Some verbs need a recipient or learner as their object",
+      "body": "Tell, remind, inform, instruct, teach and warn typically place a personal object immediately before the embedded wh-clause. Ask and show may also take a personal object, but it is not obligatory in every use. Some of these verbs allow object + wh-word + to-infinitive, such as taught someone how to operate a device. Learn which person participates in the reported interaction rather than using a preposition automatically.",
+      "example": "The guide reminded the group where they had left their bags."
+    },
+    {
+      "heading": "Choose how or the way, not the way how",
+      "body": "How can introduce the manner or route of an action, while the way can refer to a method or route in a relative construction. Standard edited English does not combine them as the way how. The way that someone works, the way someone works and how someone works can all be useful, but the exact grammatical setting and formality should be taken into account.",
+      "example": "Please describe how you organised the archive, or describe the way you organised it."
+    },
+    {
+      "heading": "Whether expresses alternatives; that presents a proposition",
+      "body": "A finite embedded clause can often use whether or if to mean whether something is the case. Before a to-infinitive, use whether rather than if, and only with verbs that license whether to, such as decide, consider, discuss or wonder. Other verbs may take a finite whether-clause yet resist whether + to-infinitive: I imagined whether it might work is not the same pattern as I imagined whether to try. Know whether leaves a possibility unresolved, whereas know that introduces information treated as true. Formal writing may use as to whether to mean concerning the unresolved issue.",
+      "example": "They discussed whether to alter the route, but later learned that the route was already closed."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Embedded question versus reported fact",
+      "left": {
+        "label": "Whether: an unresolved alternative",
+        "example": "I did not know whether the gate was locked.",
+        "note": "The speaker was uncertain about the gate’s condition."
+      },
+      "right": {
+        "label": "That: an asserted proposition",
+        "example": "I did not know that the gate was locked.",
+        "note": "The sentence suggests the gate was in fact locked, unbeknown to the speaker."
+      }
+    },
+    {
+      "title": "Clause with a subject versus subject understood",
+      "left": {
+        "label": "Finite embedded wh-clause",
+        "example": "We could not decide where the guests should sit.",
+        "note": "The expressed subject the guests belongs to a finite clause."
+      },
+      "right": {
+        "label": "Wh-word plus to-infinitive",
+        "example": "We could not decide where to sit.",
+        "note": "The understood subject of sit is supplied by the decision-makers."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The survey could not establish why the response rate had fallen.",
+      "note": "The finite wh-clause places the subject before the auxiliary verb."
+    },
+    {
+      "sentence": "The assistant told Naomi when to submit the form.",
+      "note": "Tell takes a person as a direct object before wh-word + infinitive."
+    },
+    {
+      "sentence": "The technician showed the students how the motor had been assembled.",
+      "note": "Show can introduce a personal object followed by a finite wh-clause."
+    },
+    {
+      "sentence": "It was difficult to decide whether to publish the provisional figures.",
+      "note": "Whether, not if, introduces the choice before the to-infinitive."
+    },
+    {
+      "sentence": "The review raised questions as to whether the data were representative.",
+      "note": "As to whether is a formal way of introducing an unresolved issue."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "They debated if to reduce the number of sessions.",
+      "correct": "They debated whether to reduce the number of sessions.",
+      "why": "Only whether, not if, introduces this to-infinitive choice."
+    },
+    {
+      "incorrect": "She wondered why did the alarm sound.",
+      "correct": "She wondered why the alarm sounded.",
+      "why": "Embedded questions use statement word order rather than direct-question inversion."
+    },
+    {
+      "incorrect": "The guide reminded where we should wait.",
+      "correct": "The guide reminded us where we should wait.",
+      "why": "Remind requires a personal object before the embedded clause."
+    },
+    {
+      "incorrect": "The engineer demonstrated the way how the mechanism worked.",
+      "correct": "The engineer demonstrated how the mechanism worked.",
+      "why": "Use how or the way on its own, not the way how."
+    }
+  ],
+  "studyTips": [
+    "Turn direct questions into embedded wh-clauses and check whether the auxiliary still appears in question position.",
+    "Test a choice expression by replacing if to with whether to; then check whether the preceding verb actually licenses a to-infinitive.",
+    "Keep contrasting pairs for uncertainty and fact: I did not know whether versus I did not know that."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly describes a decision that is still being considered?",
+      "choices": [
+        "The reviewers debated if to publish the report.",
+        "The reviewers debated whether publish the report.",
+        "The reviewers debated whether to publish the report."
+      ],
+      "answerIndex": 2,
+      "feedback": "Debate can take whether + to-infinitive; if to and whether without to are not correct here."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct sentence that includes the person receiving the reminder.",
+      "choices": [
+        "The coordinator reminded Maya where the files were stored.",
+        "The coordinator reminded where the files were stored.",
+        "The coordinator reminded to Maya where the files were stored."
+      ],
+      "answerIndex": 0,
+      "feedback": "Remind takes a direct personal object before the embedded where-clause."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which sentence avoids combining two alternative ways to express manner?",
+      "choices": [
+        "The engineer explained the way how the fault occurred.",
+        "The engineer explained how the fault occurred.",
+        "The engineer explained how the way the fault occurred."
+      ],
+      "answerIndex": 1,
+      "feedback": "Use how alone or a grammatical the way construction, never the way how."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "You want to express uncertainty about a past event, not assert that it happened. Which sentence fits?",
+      "choices": [
+        "I did not know that the meeting had been cancelled.",
+        "I knew that the meeting had been cancelled.",
+        "I did not know whether the meeting had been cancelled."
+      ],
+      "answerIndex": 2,
+      "feedback": "Whether introduces an open question about cancellation; that treats the cancellation as factual."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "We could not decide ___ to keep the original design. Supply the word that introduces an infinitive choice.",
+      "acceptedAnswers": [
+        "whether"
+      ],
+      "feedback": "Whether, not if, combines with a to-infinitive to express a choice."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The tutor reminded me ___ the course materials were kept. Supply the wh-word for location.",
+      "acceptedAnswers": [
+        "where"
+      ],
+      "feedback": "Where introduces the location clause after reminded me."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The librarian showed us ___ to locate the oldest editions. Supply the wh-word for method.",
+      "acceptedAnswers": [
+        "how"
+      ],
+      "feedback": "How to locate expresses a method; its learner is understood from showed us."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The team wondered ___ the prototype had failed so quickly. Supply the wh-word for reason.",
+      "acceptedAnswers": [
+        "why"
+      ],
+      "feedback": "Why introduces a finite embedded reason clause, not a why + to-infinitive construction."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the choice expression, preserving the meaning: The team debated if to postpone the demonstration.",
+      "acceptedAnswers": [
+        "The team debated whether to postpone the demonstration."
+      ],
+      "feedback": "Whether is required before a to-infinitive expressing an alternative."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct only the reporting-verb pattern: The lecturer reminded to the participants where they should sign.",
+      "acceptedAnswers": [
+        "The lecturer reminded the participants where they should sign."
+      ],
+      "feedback": "Remind takes the participants as a direct personal object without to."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the manner expression only: Please explain the way how you calculated the total.",
+      "acceptedAnswers": [
+        "Please explain how you calculated the total."
+      ],
+      "feedback": "How already means the manner; do not pair it with the way."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the embedded-question word order, without changing the words: We could not decide where should we meet.",
+      "acceptedAnswers": [
+        "We could not decide where we should meet."
+      ],
+      "feedback": "A finite embedded where-clause has statement order, with the subject before should."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Express an unresolved choice. Facts: We / discuss / whether / to extend the trial. Use present perfect with have.",
+      "acceptedAnswers": [
+        "We have discussed whether to extend the trial."
+      ],
+      "feedback": "Discuss accepts whether + to-infinitive for an alternative."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Correct the embedded question aloud: “I cannot remember where are the tickets.” Keep the same words.",
+      "acceptedAnswers": [
+        "I cannot remember where the tickets are."
+      ],
+      "feedback": "An embedded where-clause has statement word order."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Give a complete reminder using these facts: The teacher / remind / Eva / when to submit the essay. Use past simple.",
+      "acceptedAnswers": [
+        "The teacher reminded Eva when to submit the essay."
+      ],
+      "feedback": "Remind requires the listener before the embedded time instruction."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Say a sentence about method. Facts: The technician / show / us / how to reset the device. Use past simple.",
+      "acceptedAnswers": [
+        "The technician showed us how to reset the device."
+      ],
+      "feedback": "Show can take a personal object followed by how to-infinitive."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Replace “the way how” with a grammatical form. Say the whole sentence: “I understand the way how this interface works.”",
+      "acceptedAnswers": [
+        "I understand how this interface works.",
+        "I understand the way this interface works."
+      ],
+      "feedback": "How and the way are alternatives for method, not a combined expression."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Express uncertainty about a fact. Start with “I did not know”. Facts: whether / the laboratory was open. Use a finite clause.",
+      "acceptedAnswers": [
+        "I did not know whether the laboratory was open."
+      ],
+      "feedback": "Whether conveys uncertainty about the state of the laboratory."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Give the formal phrase concerning an unresolved choice. Facts: There were questions / as to whether / the figures were final.",
+      "acceptedAnswers": [
+        "There were questions as to whether the figures were final."
+      ],
+      "feedback": "As to whether is a formal introduction to an unresolved question."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two sentences in this order. First: We / know / that / the museum is closed. Second: We / do not know / whether / it will reopen. Use present simple and full forms.",
+      "acceptedAnswers": [
+        "We know that the museum is closed. We do not know whether it will reopen."
+      ],
+      "feedback": "That presents the established closure; whether identifies the remaining uncertainty."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The organisers have not decided whether to move the seminar online, because the main lecture hall may reopen tomorrow.",
+      "prompt": "What remains undecided?",
+      "choices": [
+        "Whether the seminar should be held online.",
+        "Whether the lecture hall was demolished.",
+        "Which speaker will deliver the opening lecture."
+      ],
+      "answerIndex": 0,
+      "feedback": "The embedded whether-clause reports uncertainty about moving the seminar online."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The instructor showed Elias how to check the filter, but asked him not to replace it until the pressure reading was confirmed.",
+      "prompt": "What was Elias taught?",
+      "choices": [
+        "How to replace the pressure gauge.",
+        "How to inspect a filter.",
+        "How to confirm the calendar booking."
+      ],
+      "answerIndex": 1,
+      "feedback": "Showed Elias how to introduces the filter-checking procedure, not an instruction to replace it."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The coordinator reminded Laura where the emergency exits were located.",
+      "prompt": "Transcribe the five words spoken immediately after “where”.",
+      "acceptedAnswers": [
+        "the emergency exits were located"
+      ],
+      "feedback": "The embedded where-clause contains the subject the emergency exits followed by were located."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I knew that the prototype was delayed, but I did not know whether the delay would affect next week’s demonstration.",
+      "prompt": "Which fact is the speaker certain about?",
+      "choices": [
+        "The demonstration has been cancelled.",
+        "The delay will definitely affect the demonstration.",
+        "The prototype is running behind schedule."
+      ],
+      "answerIndex": 2,
+      "feedback": "Knew that marks the delay as established, whereas did not know whether leaves its consequence uncertain."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The editor could not remember which chart to include, so she postponed the final layout until the author answered.",
+      "prompt": "Why was the layout postponed?",
+      "choices": [
+        "The editor was unsure which chart to choose.",
+        "The author asked for additional translations.",
+        "The printing equipment was unavailable."
+      ],
+      "answerIndex": 0,
+      "feedback": "Which chart to include identifies the unresolved choice that delayed the layout."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The report raised questions as to whether the results would still apply to much smaller schools.",
+      "prompt": "What was being questioned?",
+      "choices": [
+        "Whether the report had an author.",
+        "Whether the findings would generalise to smaller schools.",
+        "Whether the schools had changed their names."
+      ],
+      "answerIndex": 1,
+      "feedback": "The formal as to whether clause concerns how well the findings extend to smaller schools."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The manager asked us how to arrange the equipment before the visitors arrived.",
+      "prompt": "Transcribe the five words spoken immediately after “us”.",
+      "acceptedAnswers": [
+        "how to arrange the equipment"
+      ],
+      "feedback": "How to arrange the equipment is a wh-word plus to-infinitive describing a method."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The researchers discussed whether to repeat the experiment after the unexpected reading.",
+      "prompt": "Transcribe the five words spoken immediately after “discussed”.",
+      "acceptedAnswers": [
+        "whether to repeat the experiment"
+      ],
+      "feedback": "Whether to repeat the experiment states an alternative being discussed."
+    }
+  ]
+}

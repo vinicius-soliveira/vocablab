@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u076",
+  "title": "Adverbs of Place, Direction, Frequency and Time",
+  "level": "C1",
+  "topicId": "eg3-u076-adverbs-of-place-direction-indefinite-frequency-and-time",
+  "summary": "Place adverbials of location, direction and time for natural emphasis; use locative inversion only in suitable constructions, distinguish it from inversion after negative or restrictive time adverbs, and recognise position limits for definite and -ly frequency expressions.",
+  "learningObjectives": [
+    "Front place and direction adverbials for descriptive focus, choosing subject–verb inversion only when the verb and subject permit it.",
+    "Distinguish inversion after locative be or position/movement verbs from ordinary subject–verb order after actions, adverbial manner or pronoun subjects.",
+    "Use auxiliary inversion after strongly negative fronted time/frequency adverbials and recognise variation after only later.",
+    "Position definite time expressions at the front or end without inversion, while placing daily, weekly and similar -ly frequency adverbs at the end."
+  ],
+  "explanation": [
+    {
+      "heading": "Place and direction in front: focus on location",
+      "body": "Place and direction expressions generally follow a clause, but front placement highlights the location or sets a scene, particularly in formal or descriptive writing. With be, the noun-phrase subject can follow the verb: Beside the fountain stood a statue or Beside the fountain was a statue. A fronted location is not, by itself, a signal that every subsequent sentence must invert its subject and verb.",
+      "example": "Beyond the orchard was a narrow path that led towards the river."
+    },
+    {
+      "heading": "Locative inversion with position and movement verbs",
+      "body": "In literary or descriptive registers, certain intransitive verbs expressing position or movement, such as stand, lie, sit, hang, come, go and emerge, can precede a noun-phrase subject after a fronted place or direction phrase. This pattern is normally avoided with a pronoun subject: Down the stairs she came is more natural than Down the stairs came she. It also does not normally apply to ordinary action verbs, transitive verbs or intransitives modified by a manner adverb: Through the field the cyclist rode carefully, not Through the field rode the cyclist carefully.",
+      "example": "Across the harbour sailed a small fishing boat, but across the harbour it sailed slowly."
+    },
+    {
+      "heading": "Fronted negative and restrictive expressions with inversion",
+      "body": "Fronted negative time or indefinite-frequency expressions, such as at no time, not once, rarely, seldom and hardly ever, call for subject–auxiliary inversion in formal standard English. If the clause has no auxiliary, do-support is needed: Not once did the witness mention the key. Only later can similarly trigger auxiliary inversion for emphasis, but the non-inverted form is also possible in some contexts. These patterns differ structurally from locative inversion, which can place an entire noun-phrase subject after the main verb.",
+      "example": "Seldom have the organisers faced such a difficult decision."
+    },
+    {
+      "heading": "First, next, then and the presentation of a new event",
+      "body": "Fronted first, next, now and then can set up an event. In some narrative styles, come appears before a noun-phrase subject to introduce something new: Then came an unexpected message. This is a restricted presentational pattern, not a general rule that first or then must invert every clause. A time phrase like yesterday normally stays before an ordinary subject and verb.",
+      "example": "The lights dimmed. Then came a burst of applause from the audience."
+    },
+    {
+      "heading": "Definite time and frequency: do not generalise mid position",
+      "body": "Definite points and periods (yesterday, next Friday, last autumn) and definite frequency phrases (once a month, twice a year) usually go at the front or end, not between auxiliary and main verb. Fronting these ordinary time expressions does not trigger auxiliary inversion. Short -ly frequency adverbs such as daily, weekly, monthly, quarterly and annually are conventionally used at the end, unlike always or rarely, which can go in mid position. Keep a distinction between weekly as an adverb and weekly as an adjective before a noun.",
+      "example": "We inspect the equipment monthly, and last winter we replaced two damaged sensors."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Locative inversion depends on subject and verb",
+      "left": {
+        "label": "Noun subject with positional verb",
+        "example": "At the far end of the hall stood a bronze sculpture.",
+        "note": "A fronted location can precede stood plus a full noun-phrase subject."
+      },
+      "right": {
+        "label": "Pronoun subject or ordinary action",
+        "example": "At the far end of the hall it stood.",
+        "note": "A pronoun subject remains before the verb, even after a fronted location."
+      }
+    },
+    {
+      "title": "Negative-fronting inversion versus ordinary time fronting",
+      "left": {
+        "label": "Negative time: auxiliary inversion",
+        "example": "Not once did the guests complain.",
+        "note": "The fronted negative expression calls for did before the subject."
+      },
+      "right": {
+        "label": "Definite time: no auxiliary inversion",
+        "example": "Yesterday the guests complained.",
+        "note": "An ordinary time adverb in front position retains subject–verb order."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Behind the curtain hung an enormous painted backdrop.",
+      "note": "Locative inversion is natural with a noun subject and an intransitive positional verb."
+    },
+    {
+      "sentence": "Through the corridor the nurse walked quickly.",
+      "note": "With a manner adverb and an action description, ordinary subject–verb order is natural."
+    },
+    {
+      "sentence": "At no time did the supplier disclose the additional charges.",
+      "note": "The negative fronted expression triggers do-support and auxiliary inversion."
+    },
+    {
+      "sentence": "Then came a second announcement that surprised everyone.",
+      "note": "A presentational Then came introduces a new event."
+    },
+    {
+      "sentence": "The committee reports its expenditure quarterly.",
+      "note": "Quarterly as a frequency adverb normally occurs at the end of the clause."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "Next to the entrance a security desk was.",
+      "correct": "Next to the entrance was a security desk.",
+      "why": "After a fronted location, be commonly precedes a noun-phrase subject in this construction."
+    },
+    {
+      "incorrect": "Across the courtyard ran she.",
+      "correct": "Across the courtyard she ran.",
+      "why": "Locative inversion is not normally used with a pronoun subject."
+    },
+    {
+      "incorrect": "Not once the manager mentioned the risk.",
+      "correct": "Not once did the manager mention the risk.",
+      "why": "Fronted not once triggers subject–auxiliary inversion with do-support."
+    },
+    {
+      "incorrect": "The firm checks weekly its safety records.",
+      "correct": "The firm checks its safety records weekly.",
+      "why": "A neutral -ly frequency adverb can occupy end position without separating a transitive verb from its direct object."
+    }
+  ],
+  "studyTips": [
+    "Contrast two fronted place expressions with a noun-phrase subject and a pronoun subject: try Behind the hedge stood a bicycle and Behind the hedge it stood.",
+    "Before inverting, ask whether the fronted expression is a location, a negative or restrictive time phrase, or an ordinary date; each pattern follows a different rule.",
+    "Sort daily, every day, seldom and once a week by grammatical type and practise their preferred placement in short reports."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Choose the best formal descriptive word order with a place phrase and the verb be.",
+      "choices": [
+        "At the end of the pier a lighthouse was.",
+        "At the end of the pier was a lighthouse.",
+        "At the end of the pier did a lighthouse be."
+      ],
+      "answerIndex": 1,
+      "feedback": "With fronted location and be, the noun-phrase subject naturally follows was."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which version avoids an unnatural locative inversion with a pronoun subject?",
+      "choices": [
+        "Through the doorway she stepped.",
+        "Through the doorway stepped she.",
+        "Through stepped she the doorway."
+      ],
+      "answerIndex": 0,
+      "feedback": "A pronoun subject normally precedes the verb after a fronted direction phrase."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Start with \"Not once\". Choose the correct formal clause.",
+      "choices": [
+        "Not once the manager acknowledged the problem.",
+        "Not once the manager did acknowledge the problem.",
+        "Not once did the manager acknowledge the problem."
+      ],
+      "answerIndex": 2,
+      "feedback": "The fronted negative adverbial requires did + subject + plain verb."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Where is the frequency adverb \"quarterly\" most natural in this reporting sentence?",
+      "choices": [
+        "We quarterly review the audit.",
+        "We review the audit quarterly.",
+        "Quarterly we the audit review."
+      ],
+      "answerIndex": 1,
+      "feedback": "A -ly frequency adverb such as quarterly usually occupies end position."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "\"Behind the counter ___ two locked cabinets.\" Supply the past form of be for a fronted-locative description.",
+      "acceptedAnswers": [
+        "were"
+      ],
+      "feedback": "Were comes before the plural noun-phrase subject in this locative description."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "\"Rarely ___ the team faced so much uncertainty.\" Supply the present-perfect auxiliary in the negative-fronting inversion.",
+      "acceptedAnswers": [
+        "has"
+      ],
+      "feedback": "Fronted rarely triggers auxiliary-before-subject order: Rarely has the team faced..."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "\"Not once ___ she complain about the delay.\" Supply the auxiliary that follows the fronted negative adverbial in the past.",
+      "acceptedAnswers": [
+        "did"
+      ],
+      "feedback": "Did is used for subject–auxiliary inversion when there is no other auxiliary."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "\"They check the ventilation system ___.\" Supply the one-word frequency adverb meaning once each month: monthly.",
+      "acceptedAnswers": [
+        "monthly"
+      ],
+      "feedback": "Monthly used adverbially belongs at the end of the clause."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the locative inversion with be: \"At the centre of the square a tall monument was.\"",
+      "acceptedAnswers": [
+        "At the centre of the square was a tall monument."
+      ],
+      "feedback": "In this fronted-locative description, was precedes the full noun-phrase subject."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the pronoun inversion: \"Up the narrow staircase went he.\"",
+      "acceptedAnswers": [
+        "Up the narrow staircase he went."
+      ],
+      "feedback": "A pronoun subject remains before an intransitive motion verb."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the inversion after a negative time expression: \"At no time the guide did explain the danger.\"",
+      "acceptedAnswers": [
+        "At no time did the guide explain the danger."
+      ],
+      "feedback": "At no time triggers did + subject + base verb."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Put the frequency adverb after the object, without splitting the verb from its object: \"The charity publishes annually its accounts.\"",
+      "acceptedAnswers": [
+        "The charity publishes its accounts annually."
+      ],
+      "feedback": "For this neutral frequency statement, place annually after the direct object its accounts."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Describe a location using formal inversion. Facts: Beside the river / stand / a stone tower. Use the past simple and the noun subject after the verb.",
+      "acceptedAnswers": [
+        "Beside the river stood a stone tower."
+      ],
+      "feedback": "The position verb stood precedes the full noun-phrase subject."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Use normal subject–verb order with a pronoun. Facts: Into the courtyard / she / walk. Use the past simple.",
+      "acceptedAnswers": [
+        "Into the courtyard she walked."
+      ],
+      "feedback": "Do not invert a pronoun subject after a fronted direction phrase."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Start with \"Not once\" to deny an action. Facts: the witness / mention / the address. Use the past simple with inversion.",
+      "acceptedAnswers": [
+        "Not once did the witness mention the address."
+      ],
+      "feedback": "Do-support places did before the subject."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Begin with \"Seldom\". Facts: the gallery / have / displayed / this collection. Use the present perfect with inversion.",
+      "acceptedAnswers": [
+        "Seldom has the gallery displayed this collection."
+      ],
+      "feedback": "Fronted seldom triggers has before the subject."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Introduce a new event. Facts: Then / come / an unexpected visitor. Use the past simple and presentational inversion.",
+      "acceptedAnswers": [
+        "Then came an unexpected visitor."
+      ],
+      "feedback": "Then came plus a noun-phrase subject introduces a new event."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Use ordinary time fronting without inversion. Facts: Last Friday / the committee / approved / the proposal.",
+      "acceptedAnswers": [
+        "Last Friday the committee approved the proposal."
+      ],
+      "feedback": "Last Friday is a definite time phrase, not a negative trigger."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the sentence aloud: \"Not once the researcher raised an objection.\"",
+      "acceptedAnswers": [
+        "Not once did the researcher raise an objection."
+      ],
+      "feedback": "Negative-fronting inversion uses did followed by the subject and base verb."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two sentences in order using full forms. Location: Beyond the gate / lie / a small orchard (past simple, inversion). Frequency: We / inspect / the fence / monthly (present simple).",
+      "acceptedAnswers": [
+        "Beyond the gate lay a small orchard. We inspect the fence monthly."
+      ],
+      "feedback": "Lay is the past tense of lie meaning be situated; monthly belongs at the end."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Beyond the old wall stood a row of oak trees, and beyond them stretched an empty field.",
+      "prompt": "What was located immediately beyond the old wall?",
+      "choices": [
+        "An empty field with no trees.",
+        "A row of oak trees.",
+        "A locked wooden gate."
+      ],
+      "answerIndex": 1,
+      "feedback": "The inverted noun subject row of oak trees follows stood; the field is farther away."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "Not once did the organiser warn the audience that the programme might change.",
+      "prompt": "What does the speaker state?",
+      "choices": [
+        "The organiser warned the audience once.",
+        "The programme definitely stayed unchanged.",
+        "The organiser never gave that warning."
+      ],
+      "answerIndex": 2,
+      "feedback": "Not once with inversion means the warning did not occur even a single time."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "At the entrance was a small wooden desk.",
+      "prompt": "Transcribe the five-word phrase heard after \"At the entrance\".",
+      "acceptedAnswers": [
+        "was a small wooden desk"
+      ],
+      "feedback": "Locative fronting is followed by was plus the noun-phrase subject a small wooden desk."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Last Thursday, the staff tested the backup lights. They now test them monthly.",
+      "prompt": "Which expression tells us about repeated frequency rather than the date of one test?",
+      "choices": [
+        "Monthly.",
+        "Last Thursday.",
+        "The backup lights."
+      ],
+      "answerIndex": 0,
+      "feedback": "Monthly says how regularly the test recurs; Last Thursday names a particular time."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "Across the courtyard she ran, but through the courtyard marched a group of performers.",
+      "prompt": "Which description uses a pronoun subject that remains before the verb?",
+      "choices": [
+        "A group of performers marched.",
+        "She ran.",
+        "Both descriptions invert their subject and verb."
+      ],
+      "answerIndex": 1,
+      "feedback": "She is a pronoun and comes before ran; a group of performers is a full noun phrase after marched."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The applause faded. Then came a short speech from the director.",
+      "prompt": "What happened immediately after the applause faded?",
+      "choices": [
+        "The lights were switched off.",
+        "A director left the building.",
+        "A short speech began."
+      ],
+      "answerIndex": 2,
+      "feedback": "Then came introduces the next event, a short speech."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Rarely have our neighbours complained about the late trains.",
+      "prompt": "Transcribe the four-word opening phrase that includes the fronted negative-frequency adverb and the inverted auxiliary.",
+      "acceptedAnswers": [
+        "Rarely have our neighbours"
+      ],
+      "feedback": "Rarely is followed by have before the noun-phrase subject our neighbours."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The laboratory checks its emergency exits annually.",
+      "prompt": "Transcribe the three-word phrase heard at the end, beginning with \"emergency\".",
+      "acceptedAnswers": [
+        "emergency exits annually"
+      ],
+      "feedback": "Annually is a -ly frequency adverb at the end of the clause."
+    }
+  ]
+}

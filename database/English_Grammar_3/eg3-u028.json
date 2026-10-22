@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u028",
+  "title": "Verbs, Objects and Complements",
+  "level": "C1",
+  "topicId": "eg3-u028-verbs-objects-and-complements",
+  "summary": "Distinguish transitive, intransitive and alternating uses of verbs; recognise when direct objects can be understood but omitted; and choose the prepositional, object-plus-prepositional or object-plus-adjective complements required by particular verbs.",
+  "learningObjectives": [
+    "Recognise verbs that alternate between transitive and intransitive uses when the affected thing becomes the subject, without extending the pattern to unrelated verbs.",
+    "Decide when an understood object may be omitted and when a verb requires an explicit object or another complement.",
+    "Select obligatory or characteristic verb–preposition patterns, including verbs followed by an object and a prepositional phrase.",
+    "Construct object + adjective complements and distinguish their formal style from versions with to be or that-clauses."
+  ],
+  "explanation": [
+    {
+      "heading": "The object can become the subject of a change",
+      "body": "Many change-of-state verbs alternate between a transitive use, where an agent acts on something, and an intransitive use, where the affected thing itself is the subject: The caretaker opened the window; The window opened. Break, burn, change, drop, increase and start may work similarly in appropriate senses. This does not license deleting the object from every transitive verb: The designer built a bridge cannot normally become A bridge built in the same sense.",
+      "example": "The storm cracked the branch, and later the branch cracked completely."
+    },
+    {
+      "heading": "Some objects are optional, others are essential",
+      "body": "With verbs such as read, eat, cook, sing and drive, an obvious or nonspecific object can sometimes be left unspoken: I have already eaten. Other verbs and individual senses require an object or a further complement. She placed is incomplete if no object and location are supplied; She placed the vase on the shelf supplies both. Do not confuse the ability to omit an understood object with the ability to omit every phrase after a verb.",
+      "example": "The musicians played all evening, but the host placed the instruments in storage afterwards."
+    },
+    {
+      "heading": "Complements can identify place, manner or result",
+      "body": "Some verb senses normally need an adverbial or prepositional complement to complete their meaning: The tradition originated in the mountains. Other verbs permit an optional phrase when it adds detail: We paused, or We paused for a moment. Whether a complement is essential depends on the verb and its meaning in context; avoid a universal rule for a verb in every possible use.",
+      "example": "The discussion lasted for two hours, then everyone paused briefly."
+    },
+    {
+      "heading": "Verbs and their required prepositions",
+      "body": "Some verbs take a preposition before a complement, such as adhere to, belong to, deal with and specialise in. A separate group takes a direct object followed by a prepositional phrase: associate something with something, attribute a result to a cause, mistake someone for someone else, or put a document on the desk. The preposition is part of the pattern and generally cannot be removed or freely exchanged. The exact form is often determined by the intended meaning.",
+      "example": "The research team attributed the improved result to a revised procedure."
+    },
+    {
+      "heading": "Object + adjective complements and register",
+      "body": "Certain verbs can describe an object as having a quality: We considered the timetable unrealistic; They found the office empty. These object + adjective patterns are common with consider, find, judge and declare and may sound formal in some contexts. Depending on the verb, a to be phrase or a that-clause may be more conversational: We considered the timetable to be unrealistic; We considered that the timetable was unrealistic. The adjective describes the object, not the manner in which the action was performed.",
+      "example": "The inspector declared the equipment safe after the final check."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Transitive caused change versus intransitive change",
+      "left": {
+        "label": "Agent acts on an object",
+        "example": "The technician widened the gap.",
+        "note": "Technician is the agent; gap is the direct object."
+      },
+      "right": {
+        "label": "Affected subject changes",
+        "example": "The gap widened during the test.",
+        "note": "Gap is now the subject; no direct object appears."
+      }
+    },
+    {
+      "title": "Adjective as object complement versus adverb modifying a verb",
+      "left": {
+        "label": "Object + adjective",
+        "example": "They found the corridor unsafe.",
+        "note": "Unsafe describes the corridor that was found."
+      },
+      "right": {
+        "label": "Adverbial manner",
+        "example": "They searched the corridor carefully.",
+        "note": "Carefully describes how they searched; it is not a quality assigned to the corridor."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The breeze shut the door, and the door shut without a sound.",
+      "note": "Shut permits causative and intransitive patterns."
+    },
+    {
+      "sentence": "Lena reads before bed, but her brother reads travel guides.",
+      "note": "Read may omit an unspecified object or include an explicit one."
+    },
+    {
+      "sentence": "The dispute originated in a minor misunderstanding.",
+      "note": "The in phrase completes the meaning in this example."
+    },
+    {
+      "sentence": "Please put the labelled samples in the refrigerated cabinet.",
+      "note": "Put requires a direct object and normally a destination or location complement."
+    },
+    {
+      "sentence": "The committee judged the draft unsuitable for publication.",
+      "note": "Unsuitable describes the draft as an object complement."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The firm constructed a new station, and a new station constructed last year.",
+      "correct": "The firm constructed a new station, and a new station was constructed last year.",
+      "why": "Construct does not use the intransitive change-of-state alternation here; the second clause needs a passive."
+    },
+    {
+      "incorrect": "Please put on the laboratory shelf.",
+      "correct": "Please put the boxes on the laboratory shelf.",
+      "why": "Put needs an object (the boxes) as well as the location phrase in this instruction."
+    },
+    {
+      "incorrect": "The purple umbrella belongs my neighbour.",
+      "correct": "The purple umbrella belongs to my neighbour.",
+      "why": "Belong uses to before the person or entity that owns something."
+    },
+    {
+      "incorrect": "They considered the route dangerously.",
+      "correct": "They considered the route dangerous.",
+      "why": "Dangerous is an adjective complement describing the route; dangerously would describe an action."
+    }
+  ],
+  "studyTips": [
+    "Create transitive–intransitive pairs for break, open and change, then check that both clauses describe the same event from different viewpoints.",
+    "Underline every object or complement following a verb; test omission cautiously, especially with place and object + preposition patterns.",
+    "Learn verbs in full patterns, such as attribute X to Y and find X adjective, rather than memorising the verb alone."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which pair correctly contrasts a causative transitive use with an intransitive change?",
+      "choices": [
+        "The assistant melted the wax. The wax melted.",
+        "The assistant built the stage. The stage built.",
+        "The assistant carried the box. The box carried."
+      ],
+      "answerIndex": 0,
+      "feedback": "Melt allows an affected-subject intransitive use, unlike build or carry in these examples."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Which sentence omits an understood object in a normal way?",
+      "choices": [
+        "The guide placed carefully.",
+        "The driver eats during the break.",
+        "The clerk reminded yesterday."
+      ],
+      "answerIndex": 1,
+      "feedback": "Eat can be used without an explicit object when no particular food needs to be named."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct verb + object + preposition pattern.",
+      "choices": [
+        "They attributed the delay for the weather.",
+        "They attributed to the weather the delay was long.",
+        "They attributed the delay to the weather."
+      ],
+      "answerIndex": 2,
+      "feedback": "Attribute a result to a cause takes a direct object followed by to."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correct object + adjective complement after considered.",
+      "choices": [
+        "The assessors considered the evidence reliable.",
+        "The assessors considered the evidence reliably.",
+        "The assessors considered reliably the evidence."
+      ],
+      "answerIndex": 0,
+      "feedback": "Reliable describes the object evidence, so an adjective is required."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The screen ___ when the power returned. Write the past-tense intransitive form of “brighten”.",
+      "acceptedAnswers": [
+        "brightened"
+      ],
+      "feedback": "Brightened is used intransitively when the screen itself becomes brighter."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "That research group specialises ___ marine biology. Supply the required preposition.",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "feedback": "Specialise in introduces a field of expertise."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The committee associated the mistake ___ poor communication. Write the missing preposition.",
+      "acceptedAnswers": [
+        "with"
+      ],
+      "feedback": "Associate something with something else is the required pattern."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The judges found the explanation ___ (convince). Write the positive adjective, not an adverb.",
+      "acceptedAnswers": [
+        "convincing"
+      ],
+      "feedback": "Convincing is the adjective complement describing the explanation."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the transitive-only mistake: The engineer designed the bridge and the bridge designed quickly.",
+      "acceptedAnswers": [
+        "The engineer designed the bridge and the bridge was designed quickly."
+      ],
+      "feedback": "Design does not permit the intransitive affected-subject pattern here; use passive was designed."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the incomplete put construction by adding the object “the folder”: She put on the cabinet.",
+      "acceptedAnswers": [
+        "She put the folder on the cabinet."
+      ],
+      "feedback": "Put needs a direct object, here the folder, as well as the location on the cabinet."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the preposition: The discovery was attributed with a new detection method.",
+      "acceptedAnswers": [
+        "The discovery was attributed to a new detection method."
+      ],
+      "feedback": "Attribute something to a cause; passive is attributed to, not attributed with."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the adjective complement: The reviewers found the proposal impractically.",
+      "acceptedAnswers": [
+        "The reviewers found the proposal impractical."
+      ],
+      "feedback": "The adjective impractical describes the proposal; the adverb impractically is unsuitable here."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Say the intransitive counterpart to “The wind opened the gate.” Retain the gate as subject and use simple past.",
+      "acceptedAnswers": [
+        "The gate opened."
+      ],
+      "feedback": "Open can describe the affected gate as subject without an object."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Say a two-sentence pair in this order using exactly the facts: The cook / burn / the toast. Then: The toast / burn. Use simple past.",
+      "acceptedAnswers": [
+        "The cook burned the toast. The toast burned.",
+        "The cook burnt the toast. The toast burnt."
+      ],
+      "feedback": "Both the transitive and intransitive patterns are possible with burn; burnt and burned are accepted regional variants."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "State a routine without naming the object. Facts: Mina / read / every evening. Use present simple.",
+      "acceptedAnswers": [
+        "Mina reads every evening."
+      ],
+      "feedback": "Read can omit an unspecified object in this context."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Give a full instruction with verb, object and destination. Facts: Put / the sealed envelope / in the drawer.",
+      "acceptedAnswers": [
+        "Put the sealed envelope in the drawer."
+      ],
+      "feedback": "Put requires the object and its destination here."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Use the fixed verb–preposition pattern. Facts: These keys / belong / to / the caretaker. Use present simple.",
+      "acceptedAnswers": [
+        "These keys belong to the caretaker."
+      ],
+      "feedback": "Belong to specifies the owner or person responsible."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Use object + prepositional phrase. Facts: They / attributed / the cancellation / to / the storm.",
+      "acceptedAnswers": [
+        "They attributed the cancellation to the storm."
+      ],
+      "feedback": "Attribute X to Y names the event and its alleged cause."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Produce an object + adjective sentence. Facts: We / found / the instructions / confusing.",
+      "acceptedAnswers": [
+        "We found the instructions confusing."
+      ],
+      "feedback": "Confusing is an adjective describing the instructions, not the finding action."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two complete sentences in this order. First: The analyst / considered / the figures / inaccurate. Second: The analyst / considered / the figures / to be / inaccurate.",
+      "acceptedAnswers": [
+        "The analyst considered the figures inaccurate. The analyst considered the figures to be inaccurate."
+      ],
+      "feedback": "Both patterns attribute the quality inaccurate to figures; to be makes the complement explicit."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "During the cold night the water froze, and by morning the pipes had cracked.",
+      "prompt": "Which change is described without an agent or direct object?",
+      "choices": [
+        "Someone cracked the pipes with a tool.",
+        "The water and pipes changed state themselves.",
+        "The pipes were transported to the basement."
+      ],
+      "answerIndex": 1,
+      "feedback": "Froze and had cracked are intransitive changes affecting the subjects."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I cook most evenings, but on Fridays my brother prepares dinner.",
+      "prompt": "What does the first clause show about cook?",
+      "choices": [
+        "It may appear without an explicit object.",
+        "It always requires the object dinner.",
+        "It must be followed by a location."
+      ],
+      "answerIndex": 0,
+      "feedback": "I cook is complete even though the food is not named."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The antiques belonged to a small local museum.",
+      "prompt": "Transcribe the two-word verb phrase before “a small local museum”.",
+      "acceptedAnswers": [
+        "belonged to"
+      ],
+      "feedback": "Belonged to includes the preposition required by the verb."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The researchers attributed the improvement to a revised testing method.",
+      "prompt": "Which relationship does the sentence express?",
+      "choices": [
+        "The improvement was unrelated to testing.",
+        "The method was stored in a cabinet.",
+        "The revised method was identified as a cause of the improvement."
+      ],
+      "answerIndex": 2,
+      "feedback": "Attribute X to Y assigns the reported cause Y to outcome X."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The supervisor put the emergency kit beside the exit before the visitors arrived.",
+      "prompt": "What does beside the exit contribute to the sentence?",
+      "choices": [
+        "It describes how suddenly the kit was put down.",
+        "It supplies the location of the kit.",
+        "It renames the supervisor."
+      ],
+      "answerIndex": 1,
+      "feedback": "Put takes an object, the emergency kit, and a location complement, beside the exit."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The panel considered the proposed timetable unrealistic.",
+      "prompt": "What is the role of unrealistic?",
+      "choices": [
+        "An adjective describing the timetable.",
+        "An adverb describing how the panel considered it.",
+        "The object of a preposition."
+      ],
+      "answerIndex": 0,
+      "feedback": "Unrealistic is an object complement assigned to the timetable."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The engineer associated the fault with a loose connector.",
+      "prompt": "Transcribe the four-word prepositional phrase immediately after “fault”.",
+      "acceptedAnswers": [
+        "with a loose connector"
+      ],
+      "feedback": "With a loose connector is the prepositional phrase after associated the fault."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The manager found the new arrangement efficient.",
+      "prompt": "Transcribe the one-word adjective at the end of the sentence.",
+      "acceptedAnswers": [
+        "efficient"
+      ],
+      "feedback": "Efficient is the object complement describing the arrangement."
+    }
+  ]
+}

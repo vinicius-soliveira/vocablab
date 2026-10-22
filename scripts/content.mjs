@@ -210,7 +210,7 @@ async function publishStagingUnlocked(options) {
     // Only remove files this transaction wrote. Preserve a previously existing empty folder.
     for(const name of createdFiles)try{await rm(join(plan.destination,name),{force:true});}catch(error){rollback.push(error.message);}
     if(createdDir)try{await rmdir(plan.destination);}catch(error){rollback.push(error.message);}
-    throw new Error(`Publication failed; rollback ${rollback.length?'INCOMPLETE: '+rollback.join('; '):'completed'}: ${e.message}${e.stderr?'\n'+e.stderr.toString():''}`);
+    throw new Error(`Publication failed; rollback ${rollback.length?'INCOMPLETE: '+rollback.join('; '):'completed'}: ${e.message}${e.stdout?'\n'+e.stdout.toString():''}${e.stderr?'\n'+e.stderr.toString():''}`);
   }
 }
 /** Exclusive, local publication lock; a stale lock after a crash requires manual inspection. */

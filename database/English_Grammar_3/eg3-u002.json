@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u002",
+  "title": "Present Forms in Narratives, Reports and Commentary",
+  "level": "C1",
+  "topicId": "eg3-u002-present-forms-in-discourse",
+  "summary": "Use the present simple and present continuous beyond basic habits and current actions, especially to bring stories to life, report information, describe live events and convey attitudes to repeated behaviour.",
+  "learningObjectives": [
+    "Use the narrative present to highlight key events while maintaining coherent time reference.",
+    "Recognise present-simple reporting verbs and headline style in written communication.",
+    "Distinguish live-commentary event descriptions from continuing background activity.",
+    "Express a speaker’s attitude to recurring behaviour through the continuous with frequency adverbs."
+  ],
+  "explanation": [
+    {
+      "heading": "Narrative present for vivid storytelling",
+      "body": "In informal anecdotes and some written narratives, the present simple can bring a past sequence into the listener’s immediate experience. The speaker may switch from past narration to the present at a dramatic point. This is a discourse technique, not a claim that the event is happening now.",
+      "example": "I was about to leave when the lights go out and everyone turns towards the door."
+    },
+    {
+      "heading": "Present continuous as narrative background",
+      "body": "Within a story told using present forms, the continuous can frame an activity in progress while another event occurs. It also describes background scenes in live coverage. The simple often marks the event that advances the action.",
+      "example": "The audience is waiting quietly when the presenter suddenly walks onto the stage."
+    },
+    {
+      "heading": "Live commentary and public description",
+      "body": "Sports commentators and demonstrators often use the present simple for fast, sequential events, even when they occur as the speaker talks. The continuous is useful for longer developments or actions continuing behind the main events.",
+      "example": "The goalkeeper catches the ball and passes it forward while the defenders are moving back."
+    },
+    {
+      "heading": "Sources, reporting verbs and headlines",
+      "body": "We commonly use the present simple to introduce what a document, speaker or report says, argues or shows. Headlines may use the present simple to describe an event that occurred recently; surrounding text supplies the actual time frame. The tense in the headline should not automatically be interpreted as the time of the event.",
+      "example": "The report suggests a different approach, while the headline announces a major change."
+    },
+    {
+      "heading": "Repeated behaviour with attitude",
+      "body": "The present continuous with always, constantly or forever can convey irritation, surprise or admiration about behaviour that happens repeatedly. By contrast, the present simple with usually or always can state a neutral regular habit. The speaker’s attitude must be inferred from the surrounding context.",
+      "example": "She is always finding thoughtful ways to help new colleagues."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Neutral habit versus emotional reaction",
+      "left": {
+        "label": "Present simple",
+        "example": "Noah always forgets the meeting link.",
+        "note": "A straightforward statement about a repeated habit."
+      },
+      "right": {
+        "label": "Continuous with always",
+        "example": "Noah is always forgetting the meeting link!",
+        "note": "The speaker highlights annoyance at recurring behaviour."
+      }
+    },
+    {
+      "title": "An event and an activity behind it",
+      "left": {
+        "label": "Live event: present simple",
+        "example": "The runner crosses the finish line.",
+        "note": "A short event is reported as it happens."
+      },
+      "right": {
+        "label": "Ongoing scene: present continuous",
+        "example": "The crowd is cheering beside the track.",
+        "note": "A continuous action forms part of the scene."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I open the message and realise the invitation is for today.",
+      "note": "The present simple makes an anecdote vivid even when the event happened earlier."
+    },
+    {
+      "sentence": "The train approaches the station as passengers are moving towards the doors.",
+      "note": "Live description contrasts an event and surrounding ongoing action."
+    },
+    {
+      "sentence": "The latest survey shows an increase in public transport use.",
+      "note": "Shows introduces the information reported by a source."
+    },
+    {
+      "sentence": "City council approves new cycling route.",
+      "note": "Headline present can report an event that has already occurred."
+    },
+    {
+      "sentence": "You are constantly leaving your notes in the meeting room!",
+      "note": "The continuous plus constantly suggests irritation at repeated behaviour."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The article is saying that the project needs more time.",
+      "correct": "The article says that the project needs more time.",
+      "why": "A document’s current content is conventionally introduced with the present simple says."
+    },
+    {
+      "incorrect": "He is always arrives late and it drives us mad.",
+      "correct": "He is always arriving late and it drives us mad.",
+      "why": "The emphatic continuous needs be + -ing; always goes between the auxiliary and main verb."
+    },
+    {
+      "incorrect": "In the match, the striker is kicks the ball into the net.",
+      "correct": "In the match, the striker kicks the ball into the net.",
+      "why": "Live commentary commonly uses the present simple for a quick complete event."
+    },
+    {
+      "incorrect": "During the announcement, the guests are waiting quietly when the door suddenly is opens.",
+      "correct": "During the announcement, the guests are waiting quietly when the door suddenly opens.",
+      "why": "The waiting is the ongoing background activity interrupted by the door opening."
+    }
+  ],
+  "studyTips": [
+    "Retell a short anecdote using present-simple turning points, then identify where a continuous form sets the scene.",
+    "Compare one neutral always sentence with an emotionally charged is always -ing sentence and describe the difference in tone.",
+    "Notice how reporting verbs such as says, suggests and indicates introduce sources in articles and presentations."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Listen to a live race commentary: \"Hana ___ the final corner and accelerates.\"",
+      "choices": [
+        "is taking",
+        "takes",
+        "take"
+      ],
+      "answerIndex": 1,
+      "feedback": "Takes is the present simple, typical for a quick event in live commentary."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Our colleague interrupts every meeting, and everyone is irritated. \"He ___ people while they are speaking!\"",
+      "choices": [
+        "is constantly interrupting",
+        "constantly interrupts",
+        "constantly interrupt"
+      ],
+      "answerIndex": 0,
+      "feedback": "Is constantly interrupting signals annoyance at a repeated habit."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which sentence naturally introduces the content of a report?",
+      "choices": [
+        "The report is claiming that demand has fallen every year.",
+        "The report claim that demand has fallen every year.",
+        "The report claims that demand has fallen every year."
+      ],
+      "answerIndex": 2,
+      "feedback": "Claims is a conventional present-simple reporting verb introducing what the document says."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "I was heading downstairs when suddenly the phone ___ and I hear someone shouting.",
+      "choices": [
+        "is ringing",
+        "rings",
+        "ring"
+      ],
+      "answerIndex": 1,
+      "feedback": "Rings marks the dramatic event in a story briefly shifted into the narrative present."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The presenter ___ (step) onto the platform and waves to the audience. Write the present-simple verb for live narration.",
+      "acceptedAnswers": [
+        "steps"
+      ],
+      "feedback": "A punctual event in live narration takes steps."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "During the demonstration, the technicians ___ (monitor) the temperature while the machine starts. Write the present-continuous verb phrase.",
+      "acceptedAnswers": [
+        "are monitoring"
+      ],
+      "feedback": "Are monitoring gives the continuing background activity."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "You ___ (always / borrow) my charger without asking! Write the complete present-continuous verb phrase with the adverb.",
+      "acceptedAnswers": [
+        "are always borrowing"
+      ],
+      "feedback": "Are always borrowing adds irritation to the repeated behaviour."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The latest briefing ___ (suggest) that the changes may take longer. Write the present-simple verb.",
+      "acceptedAnswers": [
+        "suggests"
+      ],
+      "feedback": "Suggests introduces the content of the briefing."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: In the final seconds, the goalkeeper is catches the ball and throws it away.",
+      "acceptedAnswers": [
+        "In the final seconds, the goalkeeper catches the ball and throws it away."
+      ],
+      "feedback": "Catches and throws are quick sequential actions in commentary."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: You are constantly leave the office lights on!",
+      "acceptedAnswers": [
+        "You are constantly leaving the office lights on!"
+      ],
+      "feedback": "The continuous requires leaving after are constantly."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: This handbook is recommending that visitors arrive ten minutes early.",
+      "acceptedAnswers": [
+        "This handbook recommends that visitors arrive ten minutes early."
+      ],
+      "feedback": "Recommends is the normal present-simple form for reporting document content."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the sentence: The guests are chatting quietly when the host suddenly is announce the winner.",
+      "acceptedAnswers": [
+        "The guests are chatting quietly when the host suddenly announces the winner."
+      ],
+      "feedback": "The announcement is the focal event, so the narrative present simple is natural."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Give a live commentary sentence. Facts: The cyclist / reach / the finish line. Use the present simple and begin with \"The cyclist\".",
+      "acceptedAnswers": [
+        "The cyclist reaches the finish line."
+      ],
+      "feedback": "Reaches reports a quick event in live commentary."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Describe an ongoing background action. Facts: The fans / wave / flags / behind the goal. Use the present continuous.",
+      "acceptedAnswers": [
+        "The fans are waving flags behind the goal."
+      ],
+      "feedback": "Are waving presents the action as continuing."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Report the content of a document. Facts: The report / recommend / a shorter route. Use the present simple.",
+      "acceptedAnswers": [
+        "The report recommends a shorter route."
+      ],
+      "feedback": "Recommends introduces what a document says."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Complain about an irritating recurring habit. Exact facts: You / always / interrupt / me. Use the present continuous.",
+      "acceptedAnswers": [
+        "You are always interrupting me.",
+        "You're always interrupting me."
+      ],
+      "feedback": "The continuous with always expresses frustration about repeated interruptions."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Say the same habit without marked irritation. Exact facts: Alex / usually / arrive / early. Use the present simple.",
+      "acceptedAnswers": [
+        "Alex usually arrives early."
+      ],
+      "feedback": "Usually arrives describes a neutral routine."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Narrate a sudden event in a vivid story. Facts: Suddenly / the screen / go / black. Use the narrative present.",
+      "acceptedAnswers": [
+        "Suddenly, the screen goes black."
+      ],
+      "feedback": "Goes makes the sudden event vivid in a narrative."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the live-commentary sentence aloud: \"The runner is crosses the line.\"",
+      "acceptedAnswers": [
+        "The runner crosses the line."
+      ],
+      "feedback": "A commentator typically uses crosses for the completed event."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give two sentences in this order using full forms. Ongoing scene: The crowd / cheer. Event: The referee / blow / the whistle.",
+      "acceptedAnswers": [
+        "The crowd is cheering. The referee blows the whistle."
+      ],
+      "feedback": "The continuous describes the background; the simple marks the event."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The goalkeeper catches the ball, looks up and sends a long pass across the field.",
+      "prompt": "What kind of situation is being described?",
+      "choices": [
+        "A routine described in a manual.",
+        "An event unfolding in live commentary.",
+        "A prediction about a future game."
+      ],
+      "answerIndex": 1,
+      "feedback": "The sequential present-simple events are typical of live sports commentary."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "My neighbour is always practising the trumpet after midnight, and I can hardly sleep.",
+      "prompt": "What attitude does the speaker express?",
+      "choices": [
+        "Annoyance about repeated behaviour.",
+        "Admiration for musical talent.",
+        "Uncertainty about a single event."
+      ],
+      "answerIndex": 0,
+      "feedback": "Is always practising and the comment about lost sleep communicate irritation."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The journal suggests a different explanation for the results.",
+      "prompt": "Type the three-word reporting phrase heard at the beginning.",
+      "acceptedAnswers": [
+        "The journal suggests"
+      ],
+      "feedback": "The subject is The journal; the reporting verb follows it."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The passengers are finding their seats when the captain suddenly makes an announcement.",
+      "prompt": "Which action forms the background of the scene?",
+      "choices": [
+        "The announcement.",
+        "The captain leaving.",
+        "The passengers finding their seats."
+      ],
+      "answerIndex": 2,
+      "feedback": "Are finding presents the passengers’ activity as ongoing background."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "I take the envelope, open it, and discover a handwritten invitation inside.",
+      "prompt": "Why might a storyteller use these present verbs?",
+      "choices": [
+        "To make an earlier event feel immediate.",
+        "To describe a regular monthly habit.",
+        "To give instructions for opening mail."
+      ],
+      "answerIndex": 0,
+      "feedback": "The vivid narrative present presents a sequence of events as if unfolding now."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The headline announces a major change, but the article explains that the decision was taken yesterday.",
+      "prompt": "When was the decision taken?",
+      "choices": [
+        "Tomorrow.",
+        "Yesterday.",
+        "At an unspecified future time."
+      ],
+      "answerIndex": 1,
+      "feedback": "The article places the decision yesterday, even though the headline uses the present."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "You are constantly changing the plan at the last minute!",
+      "prompt": "Type the three-word phrase after \"You\".",
+      "acceptedAnswers": [
+        "are constantly changing"
+      ],
+      "feedback": "Are constantly changing conveys irritation about the repeated behaviour."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The commentator says the home team is gaining confidence.",
+      "prompt": "Type the three-word reporting phrase at the beginning.",
+      "acceptedAnswers": [
+        "The commentator says"
+      ],
+      "feedback": "The commentator is the subject of the present-simple reporting statement."
+    }
+  ]
+}

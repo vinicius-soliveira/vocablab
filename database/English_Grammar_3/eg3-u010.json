@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u010",
+  "title": "Present Simple and Present Continuous for the Future",
+  "level": "C1",
+  "topicId": "eg3-u010-present-simple-and-present-continuous-for-the-future",
+  "summary": "Select present simple for fixed timetables and future-related time or real conditional clauses, and present continuous for intended or arranged personal activities. Distinguish these uses from predictions beyond anyone’s control and prefer natural motion-verb constructions with go and come.",
+  "learningObjectives": [
+    "Use present simple for scheduled future events and distinguish immovable routines from flexible personal arrangements.",
+    "Use present forms, normally without will, inside future time clauses and real conditional clauses.",
+    "Describe definite personal intentions with present continuous while recognising its overlap with be going to.",
+    "Avoid present continuous for uncontrollable predictions and use economical future expressions with go and come."
+  ],
+  "explanation": [
+    {
+      "heading": "Present simple for timetables and programmed events",
+      "body": "The present simple is common for future events that follow timetables, programmes, published itineraries or regular schedules, particularly when the time is fixed rather than negotiated. Will can also refer to many timetabled events, but the present simple is often preferred for events treated as fixed and unchangeable. A personal appointment made informally is not usually described as a routine just because it has a date.",
+      "example": "The ferry leaves at half past nine tomorrow, while our group meets the guide outside the harbour office at nine."
+    },
+    {
+      "heading": "Future time clauses keep a present form",
+      "body": "After when, before, after, as soon as, until, while and by the time, a clause referring to future time usually uses a present tense, rather than will. The main clause can use will or another future expression. This pattern is about the structure of time clauses; when in a direct future question, for example, can still be followed by will.",
+      "example": "As soon as the results arrive, I will send them to the committee."
+    },
+    {
+      "heading": "Real conditional clauses also favour present forms",
+      "body": "In real future conditions introduced by if, unless, provided, provided that and in case, present simple normally replaces a future will construction in the conditional clause. Suppose, supposing and what if can also introduce imagined future possibilities with a present simple; an unreal or more tentative meaning may instead take a past form. Do not automatically remove will from every if-clause: specialised uses expressing willingness or insistence are possible.",
+      "example": "Provided the roads remain open, we will reach the village before dark. What if the delivery arrives early?"
+    },
+    {
+      "heading": "Present continuous for plans and commitments",
+      "body": "The present continuous can refer to the future when a speaker has a firm intention or definite decision about an activity. It commonly implies some commitment or arrangement, but the booking itself need not already be completed. Be going to often overlaps in meaning. Present continuous is less suitable for predicting unarrangeable events, such as the weather, or for general permanent future states.",
+      "example": "I am meeting the designers on Tuesday, but the forecast says it is going to snow later in the week."
+    },
+    {
+      "heading": "Choosing natural go and come forms",
+      "body": "For future movement, speakers often prefer I am going and I am coming rather than the longer be going to go or be going to come. The longer construction can still be understood, but it is frequently unnecessary. Choose the natural present continuous only when the movement expresses an intended or arranged action, not a scientific prediction or unavoidable general trend.",
+      "example": "We are going to the archive on Friday, and Leo is coming to the workshop with us."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A fixed timetable versus a personal arrangement",
+      "left": {
+        "label": "Present simple: published time",
+        "example": "The museum opens at eleven on Saturday.",
+        "note": "A fixed public schedule is expressed with the present simple."
+      },
+      "right": {
+        "label": "Present continuous: personal plan",
+        "example": "We are visiting the museum on Saturday.",
+        "note": "The speaker describes a decided or arranged activity."
+      }
+    },
+    {
+      "title": "A future time clause versus its main clause",
+      "left": {
+        "label": "Time clause: present simple",
+        "example": "When the visitors arrive, ...",
+        "note": "When introduces the future event but normally uses the present simple."
+      },
+      "right": {
+        "label": "Main clause: will",
+        "example": "... the reception team will greet them.",
+        "note": "Will presents the response that follows the event."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The final screening starts at eight tomorrow night.",
+      "note": "The present simple is natural for a published programme."
+    },
+    {
+      "sentence": "Before the rehearsal begins, we will check every microphone.",
+      "note": "The future time clause uses begins, while the main clause uses will."
+    },
+    {
+      "sentence": "If the password expires, the website will ask you to reset it.",
+      "note": "The real future condition has a present form after if."
+    },
+    {
+      "sentence": "I am spending the weekend with my cousins; we made the plan last night.",
+      "note": "The present continuous reports a definite personal intention."
+    },
+    {
+      "sentence": "We are coming to the evening session, but it is probably going to rain on the way.",
+      "note": "Are coming is a planned action; is going to rain is a prediction beyond the group’s control."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The departure board says the coach is leave at seven tomorrow.",
+      "correct": "The departure board says the coach leaves at seven tomorrow.",
+      "why": "A fixed departure shown on a timetable is naturally expressed with the present simple."
+    },
+    {
+      "incorrect": "As soon as the speaker will finish, we will ask questions.",
+      "correct": "As soon as the speaker finishes, we will ask questions.",
+      "why": "A future time clause with as soon as normally takes present simple, not will."
+    },
+    {
+      "incorrect": "Unless the documents will arrive today, we cannot submit the request.",
+      "correct": "Unless the documents arrive today, we cannot submit the request.",
+      "why": "In a real future conditional clause after unless, use arrive, not will arrive."
+    },
+    {
+      "incorrect": "I am going to going to the coast on Friday, and my sister is coming too.",
+      "correct": "I am going to the coast on Friday, and my sister is coming too.",
+      "why": "Use am going for an intended trip, not a malformed double construction with going to going."
+    }
+  ],
+  "studyTips": [
+    "Put fixed timetable events and personal plans in two columns, using present simple for the former and present continuous for the latter.",
+    "Write three future sentences beginning with when, unless and by the time; underline the present-form verb in each subordinate clause.",
+    "For every future present continuous, ask whether the subject can realistically decide or arrange the event, and compare it with be going to."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which sentence most naturally gives a future time printed on an unchangeable transport timetable?",
+      "choices": [
+        "I am seeing the conductor tomorrow.",
+        "The overnight train departs at ten past eleven tomorrow.",
+        "I expect the platform will be crowded."
+      ],
+      "answerIndex": 1,
+      "feedback": "Departs is the present simple for a fixed, published future timetable."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the sentence with the usual future-time-clause tense.",
+      "choices": [
+        "As soon as the parcel arrives, I will text you.",
+        "As soon as the parcel will arrives, I texted you.",
+        "As soon as the parcel arriving, I will texted you."
+      ],
+      "answerIndex": 0,
+      "feedback": "Arrives is a present form in the time clause; will text describes the future response."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which sentence describes an agreed personal arrangement rather than a fixed public schedule or an uncontrollable prediction?",
+      "choices": [
+        "The gallery opens at noon on Sundays.",
+        "The forecast says it will be windy tomorrow.",
+        "I am visiting the gallery with Mira next Wednesday."
+      ],
+      "answerIndex": 2,
+      "feedback": "Am visiting is a present continuous personal future arrangement, rather than a timetable or prediction."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which sentence appropriately predicts a future event nobody can arrange or control?",
+      "choices": [
+        "I am meeting the archivist tomorrow afternoon.",
+        "It is going to snow tomorrow, according to the forecast.",
+        "The bus leaves at a quarter past seven."
+      ],
+      "answerIndex": 1,
+      "feedback": "Is going to snow makes a forecast rather than describing a personal arrangement."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The published agenda is final. Complete the timetable sentence: “The conference ___ (begin) at nine on Monday.” Use present simple.",
+      "acceptedAnswers": [
+        "begins"
+      ],
+      "feedback": "Begins is the present simple for a fixed scheduled event."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete the future time clause: “When the visitors ___ (arrive), we will open the exhibition.” Use present simple.",
+      "acceptedAnswers": [
+        "arrive"
+      ],
+      "feedback": "After future-time when, a present form is normally used, even though the arrival is in the future."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We have agreed to meet on Friday. Complete the personal arrangement: “I ___ (see) Jordan on Friday.” Use present continuous.",
+      "acceptedAnswers": [
+        "am seeing",
+        "'m seeing"
+      ],
+      "feedback": "Am seeing describes a definite future meeting."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the real future condition: “Unless the rain ___ (stop), the outdoor talk will be postponed.” Use present simple.",
+      "acceptedAnswers": [
+        "stops"
+      ],
+      "feedback": "Stops is the present simple after unless, describing the future condition."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the fixed timetable statement: “According to the official programme, the awards ceremony start at seven tomorrow.”",
+      "acceptedAnswers": [
+        "According to the official programme, the awards ceremony starts at seven tomorrow."
+      ],
+      "feedback": "The third-person singular present simple needs starts."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the future time clause: “By the time the manager will arrive, we will have prepared the room.”",
+      "acceptedAnswers": [
+        "By the time the manager arrives, we will have prepared the room."
+      ],
+      "feedback": "A by the time clause normally uses present simple to refer to future time."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the conditional verb without changing the meaning: “If the documents arrives early, we will review them before lunch.”",
+      "acceptedAnswers": [
+        "If the documents arrive early, we will review them before lunch."
+      ],
+      "feedback": "The plural subject documents takes arrive in the present simple future condition."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the intended movement sentence: “I am go to the workshop on Tuesday, and my colleague is coming with me.”",
+      "acceptedAnswers": [
+        "I am going to the workshop on Tuesday, and my colleague is coming with me."
+      ],
+      "feedback": "A future movement plan uses am going, a complete present continuous form."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "State the fixed timetable event. Facts: The library / close / at six / tomorrow. Use present simple.",
+      "acceptedAnswers": [
+        "The library closes at six tomorrow."
+      ],
+      "feedback": "Closes is the present simple for a timetabled closing time."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Make a future time-clause sentence. Facts: When / the meeting / finish / I / phone you. Use present simple after when and will in the main clause.",
+      "acceptedAnswers": [
+        "When the meeting finishes, I will phone you."
+      ],
+      "feedback": "Finishes is present simple in the future time clause; will phone is in the main clause."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Describe a decided arrangement. Facts: We / have lunch / with Clara / on Friday. Use present continuous and full forms.",
+      "acceptedAnswers": [
+        "We are having lunch with Clara on Friday."
+      ],
+      "feedback": "Are having describes an arranged social activity."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Express a future real condition. Facts: Unless / the buses / run / on time / we / arrive late. Use present simple after unless and will in the main clause.",
+      "acceptedAnswers": [
+        "Unless the buses run on time, we will arrive late."
+      ],
+      "feedback": "Run is present simple in the future condition, and will arrive expresses the consequence."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Describe an intended journey naturally. Facts: I / go / to the research centre / tomorrow. Use present continuous.",
+      "acceptedAnswers": [
+        "I am going to the research centre tomorrow.",
+        "I'm going to the research centre tomorrow."
+      ],
+      "feedback": "Am going is a concise expression of planned future movement."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Say the future prediction without implying an arranged weather event. Facts: It / rain / later. Use be going to and a full form.",
+      "acceptedAnswers": [
+        "It is going to rain later."
+      ],
+      "feedback": "Is going to rain describes a forecast, not a plan someone arranged."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct this future time clause aloud: “As soon as the technician will arrive, we will start.”",
+      "acceptedAnswers": [
+        "As soon as the technician arrives, we will start."
+      ],
+      "feedback": "After as soon as, use the present simple for a future event."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two sentences in order using full forms. Fixed timetable: The flight / leave / at noon tomorrow. Arranged plan: We / meet / the pilot / in the morning.",
+      "acceptedAnswers": [
+        "The flight leaves at noon tomorrow. We are meeting the pilot in the morning."
+      ],
+      "feedback": "Leaves gives the official departure time; are meeting gives a personal plan."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "According to the printed timetable, the ferry departs at a quarter to eight tomorrow morning. Passengers should arrive early.",
+      "prompt": "What does the recording give?",
+      "choices": [
+        "A personal guess about next year.",
+        "The time of yesterday’s ferry.",
+        "A fixed future departure time."
+      ],
+      "answerIndex": 2,
+      "feedback": "Departs presents a fixed timetable event scheduled for tomorrow."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "When the speaker finishes the introduction, I will display the first photograph. Please wait for that cue.",
+      "prompt": "What must happen before the first photograph is displayed?",
+      "choices": [
+        "The speaker must finish the introduction.",
+        "The audience must leave the building.",
+        "The photograph must be printed next week."
+      ],
+      "answerIndex": 0,
+      "feedback": "The when clause names the event preceding the promised display."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Unless the roads reopen this afternoon, the delivery will be delayed.",
+      "prompt": "Type the single present-simple verb immediately after “roads”.",
+      "acceptedAnswers": [
+        "reopen"
+      ],
+      "feedback": "Reopen is the present-simple verb in a future condition introduced by unless."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "I am meeting the admissions officer next Thursday. We confirmed the appointment by email this morning.",
+      "prompt": "What does the recording describe?",
+      "choices": [
+        "A regular event on every Thursday.",
+        "A definite meeting arranged for next Thursday.",
+        "An event that was cancelled last Thursday."
+      ],
+      "answerIndex": 1,
+      "feedback": "Am meeting describes an agreed future personal appointment."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The forecast says it is going to freeze overnight. Nobody has made a plan for the temperature to fall.",
+      "prompt": "Why does the speaker avoid an arrangement meaning?",
+      "choices": [
+        "Freezing is an uncontrollable forecast, not a personal appointment.",
+        "The temperature is scheduled by a committee.",
+        "The forecast describes a past trip."
+      ],
+      "answerIndex": 0,
+      "feedback": "Be going to forecasts an event outside anyone’s control."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We are coming to the book launch on Sunday. We agreed to attend yesterday, and we will see you there.",
+      "prompt": "What is the speaker’s future plan?",
+      "choices": [
+        "To postpone the event for several weeks.",
+        "To buy a book last Sunday.",
+        "To attend the book launch on Sunday."
+      ],
+      "answerIndex": 2,
+      "feedback": "Are coming expresses a decided future plan to attend."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The opening lecture begins at ten tomorrow, as shown on the programme.",
+      "prompt": "Type the three-word phrase immediately after “lecture”.",
+      "acceptedAnswers": [
+        "begins at ten"
+      ],
+      "feedback": "Begins at is the exact timetabled wording heard after lecture."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "If the application passes the initial review, we will invite the candidate to interview.",
+      "prompt": "Type the two-word verb phrase immediately after “we”.",
+      "acceptedAnswers": [
+        "will invite"
+      ],
+      "feedback": "Will invite is the future outcome of the present-form if condition."
+    }
+  ]
+}

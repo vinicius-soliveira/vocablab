@@ -1,0 +1,410 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u102",
+  "title": "Impersonal It-clauses: Evaluating, Reporting and Qualifying Claims",
+  "level": "C2",
+  "topicId": "eg3-u102-expressing-and-reporting-opinions-it-clauses",
+  "summary": "Use introductory it-clauses to express evaluations and report attributed positions in an appropriately impersonal academic register. Distinguish adjective + infinitive from adjective + that structures, express reported claims through passives, distance yourself from disputed positions and acknowledge a point before disagreeing.",
+  "learningObjectives": [
+    "Select it + be + adjective + to-infinitive or it + be + adjective + that-clause according to the intended judgement and its grammatical subject.",
+    "Build passive reporting structures such as it has been suggested that while accurately attributing claims rather than presenting them as established facts.",
+    "Signal cautious distance from a viewpoint using impersonal reporting phrases and appropriate qualifiers.",
+    "Structure academic disagreement by acknowledging a defensible point and then introducing an explicit limitation or counterargument."
+  ],
+  "explanation": [
+    {
+      "heading": "Impersonal evaluation with an infinitive",
+      "body": "The pattern it + be + adjective + to-infinitive foregrounds a judgement about an activity without naming the evaluator: It is difficult to replicate the procedure. Adverbs may modify adjectives where their combinations are idiomatic, for example particularly difficult or relatively easy. The introductory it has no concrete referent; the infinitive carries the action being assessed. This pattern is useful for judgements about feasibility, usefulness and difficulty, and it should not be confused with an it-cleft that singles out an element for contrast.",
+      "example": "It is surprisingly easy to misinterpret a result without its context."
+    },
+    {
+      "heading": "Impersonal evaluation with a that-clause",
+      "body": "The pattern it + be + adjective + that + clause assesses the proposition expressed by a complete clause: It is likely that the cost will increase. Choose an adjective compatible with a proposition, such as possible, likely, obvious, doubtful or essential. A to-infinitive may instead evaluate an action and change the meaning: It is important to check the data is an evaluation of checking, whereas It is important that the data be checked expresses a requirement. Adverb–adjective pairings are constrained by usage: quite possible is routine, but quite essential is less neutral in careful formal writing.",
+      "example": "It is highly probable that the revised method will produce more consistent results."
+    },
+    {
+      "heading": "Reporting other people’s views through passives",
+      "body": "It + passive reporting verb + that-clause allows a writer to foreground a reported proposition while keeping its source clear in an adjacent citation or attribution. Typical verbs include argue, claim, maintain, suggest, report, demonstrate and propose, but their implications differ: a claim is not the same as a demonstrated finding. Present perfect passive, such as it has been argued that, can connect earlier published views to the current discussion. Avoid inventing a source or converting an unverified claim into an unqualified fact.",
+      "example": "It has been argued in earlier reviews that the comparison should include a control group."
+    },
+    {
+      "heading": "Creating distance from a disputed proposition",
+      "body": "Phrases such as it has been claimed that and it is often suggested that attribute a proposition while allowing a writer to evaluate it later. This does not automatically mean the writer believes it false; the rhetorical effect depends on the evidence and surrounding sentences. When the provenance matters, cite the relevant study or specify the speakers. A cautious author can follow an attributed position with however, nevertheless or a statement describing the limited evidence.",
+      "example": "It has sometimes been claimed that remote teaching reduces participation; however, the available comparisons are inconclusive."
+    },
+    {
+      "heading": "Acknowledge before disagreeing",
+      "body": "Academic disagreement often begins by granting a limited point before introducing a counterclaim: It is true that the method is inexpensive. Nevertheless, its error rate remains high. Concessive openings help separate what is accepted from what remains contested. In formal writing, it must also be acknowledged that or it is important to note that can signal an overlooked qualification. More personal expressions such as I think may be appropriate in discussion, but are not direct substitutes for careful source attribution or evidence.",
+      "example": "It is certainly true that the sample is small, but it is also worth noting that the data span ten years."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Judging an action versus judging a proposition",
+      "left": {
+        "label": "Adjective + to-infinitive",
+        "example": "It is difficult to reproduce the experiment.",
+        "note": "The infinitive names the activity being evaluated."
+      },
+      "right": {
+        "label": "Adjective + that-clause",
+        "example": "It is unlikely that the experiment will be reproduced soon.",
+        "note": "The that-clause expresses the proposition whose likelihood is assessed."
+      }
+    },
+    {
+      "title": "An author’s assertion versus an attributed position",
+      "left": {
+        "label": "Direct assertion",
+        "example": "The method produces unreliable estimates.",
+        "note": "The writer states the proposition directly."
+      },
+      "right": {
+        "label": "Distanced reporting",
+        "example": "It has been claimed that the method produces unreliable estimates.",
+        "note": "The writer attributes a claim without necessarily endorsing it."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "It is essential to document every change to the procedure.",
+      "note": "The infinitive names the activity considered essential."
+    },
+    {
+      "sentence": "It is quite possible that demand will rise before the summer.",
+      "note": "The that-clause expresses the event assessed as possible; quite modifies possible naturally."
+    },
+    {
+      "sentence": "It has been suggested that the questionnaire should be redesigned.",
+      "note": "A passive reporting verb attributes a proposal without naming a particular source."
+    },
+    {
+      "sentence": "It is sometimes maintained that smaller teams make faster decisions.",
+      "note": "The phrase presents a position as one held by others, not automatically as a verified fact."
+    },
+    {
+      "sentence": "It is true that the scheme is inexpensive; however, it may be difficult to maintain.",
+      "note": "The first clause concedes a point before the second identifies a limitation."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "It is likely to the new policy reduce delays.",
+      "correct": "It is likely that the new policy will reduce delays.",
+      "why": "A complete proposition after likely needs a that-clause with a finite verb in this construction."
+    },
+    {
+      "incorrect": "It has suggested that the sample should be larger.",
+      "correct": "It has been suggested that the sample should be larger.",
+      "why": "An impersonal passive report requires been after has."
+    },
+    {
+      "incorrect": "It is very undoubtedly true that the figures changed.",
+      "correct": "It is undoubtedly true that the figures changed.",
+      "why": "Undoubtedly is already a strong stance adverb; very undoubtedly is not a natural combination."
+    },
+    {
+      "incorrect": "It has been claimed the method is infallible, therefore it is proven.",
+      "correct": "It has been claimed that the method is infallible, but the claim remains unproven.",
+      "why": "A reported claim is not proof. Include that and do not turn attribution into an unsupported conclusion."
+    }
+  ],
+  "studyTips": [
+    "Sort five evaluative adjectives by their preferred complements; build an original to-infinitive example and a that-clause example for the compatible forms.",
+    "When paraphrasing a source, label the claim as suggested, claimed, demonstrated or reported only if that verb accurately represents the strength of the source.",
+    "Practise a two-sentence concession and response: begin It is true that, then add however or nevertheless with a concrete limitation."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Which construction evaluates the difficulty of an activity without naming who finds it difficult?",
+      "choices": [
+        "It is difficult to interpret these findings.",
+        "It is difficult that interpreting these findings.",
+        "It difficult to interpreting these findings."
+      ],
+      "answerIndex": 0,
+      "feedback": "It is difficult to + infinitive is an impersonal evaluation of an activity."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the sentence that assesses how likely a complete proposition is.",
+      "choices": [
+        "It is probable for the prices will rise.",
+        "It is probable that the prices will rise.",
+        "It probable that the prices rising."
+      ],
+      "answerIndex": 1,
+      "feedback": "Probable is followed by a that-clause containing a finite verb when judging a proposition."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "An article attributes a position to other researchers without endorsing it. Which sentence does that?",
+      "choices": [
+        "The proposal must succeed because researchers know it.",
+        "It demonstrates that researchers absolutely agree on the proposal.",
+        "It has been suggested that the proposal deserves further testing."
+      ],
+      "answerIndex": 2,
+      "feedback": "Has been suggested reports a position impersonally while avoiding a stronger, unsupported assertion."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Select the two-part argument that explicitly concedes a benefit but identifies a limitation.",
+      "choices": [
+        "It is true that the approach is cheap; nevertheless, it takes longer to implement.",
+        "It is true the approach cheap; therefore it takes no time.",
+        "It true that approach is cheap, however implementation fastest."
+      ],
+      "answerIndex": 0,
+      "feedback": "It is true that acknowledges a point, and nevertheless introduces the counterpoint."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "Complete the expression with two words: \"It ___ ___ to verify these figures without the raw data.\" Meaning: the activity is challenging. Use difficult.",
+      "acceptedAnswers": [
+        "is difficult"
+      ],
+      "feedback": "It is difficult + to-infinitive evaluates the effort required."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "Complete the three-word evaluation before \"that\": \"It ___ ___ ___ that the revised plan will cost more.\" Use quite and possible.",
+      "acceptedAnswers": [
+        "is quite possible"
+      ],
+      "feedback": "Quite possible is a natural adjective combination for a cautiously assessed proposition."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Complete the three-word reporting verb phrase: \"It ___ ___ ___ that the trial should be repeated.\" Use the present perfect passive of suggest.",
+      "acceptedAnswers": [
+        "has been suggested"
+      ],
+      "feedback": "Has been suggested attributes a recommendation to an unspecified source."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "Complete the four-word phrase before \"that\": \"It ___ ___ ___ ___ that the first results were incomplete.\" Use important and note with a to-infinitive.",
+      "acceptedAnswers": [
+        "is important to note"
+      ],
+      "feedback": "It is important to note that introduces a point which should be recognised."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence, using will for the future and retaining likely: It is likely that demand to increase next year.",
+      "acceptedAnswers": [
+        "It is likely that demand will increase next year."
+      ],
+      "feedback": "Likely that introduces a finite clause; will increase supplies a verb with future reference."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence while preserving the present perfect: It has argued that the sample was too small.",
+      "acceptedAnswers": [
+        "It has been argued that the sample was too small."
+      ],
+      "feedback": "Has been argued is the correct present perfect passive reporting structure."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence using a to-infinitive, not a that-clause: It is essential that to record every adjustment.",
+      "acceptedAnswers": [
+        "It is essential to record every adjustment."
+      ],
+      "feedback": "Essential + to-infinitive assesses the activity; there is no that before this infinitive."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the entire sentence by adding a clear concession pattern: It true that the programme saves money, but it causes delays.",
+      "acceptedAnswers": [
+        "It is true that the programme saves money, but it causes delays."
+      ],
+      "feedback": "It is true that makes the first clause a grammatical concession before the objection."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Make an impersonal evaluation with a to-infinitive. Facts: difficult / compare / the two estimates. Begin \"It\".",
+      "acceptedAnswers": [
+        "It is difficult to compare the two estimates.",
+        "It's difficult to compare the two estimates."
+      ],
+      "feedback": "It is difficult to compare evaluates an activity without naming the evaluator."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Make an impersonal judgement about probability. Facts: possible / the schedule will change. Use \"It is possible that\".",
+      "acceptedAnswers": [
+        "It is possible that the schedule will change.",
+        "It's possible that the schedule will change."
+      ],
+      "feedback": "Possible is followed here by a finite that-clause."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Attribute the opinion using the present perfect passive. Rewrite: \"Some commentators have argued that the rule is unclear.\" Begin \"It\" and omit the commentators.",
+      "acceptedAnswers": [
+        "It has been argued that the rule is unclear.",
+        "It's been argued that the rule is unclear."
+      ],
+      "feedback": "Has been argued is an impersonal passive attribution."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Give a distanced reporting sentence. Facts: often / suggest / the costs are underestimated. Start \"It is\".",
+      "acceptedAnswers": [
+        "It is often suggested that the costs are underestimated.",
+        "It's often suggested that the costs are underestimated."
+      ],
+      "feedback": "Often suggested keeps the view attributed rather than directly asserted."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Make an impersonal suggestion to highlight an overlooked point. Facts: important / note / some records are missing. Begin \"It\".",
+      "acceptedAnswers": [
+        "It is important to note that some records are missing.",
+        "It's important to note that some records are missing."
+      ],
+      "feedback": "It is important to note that draws attention to a qualification."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Acknowledge the positive point before contrasting it. Use these exact facts: The system is reliable / it is expensive. Begin \"It is true that\" and connect with but.",
+      "acceptedAnswers": [
+        "It is true that the system is reliable, but it is expensive.",
+        "It's true that the system is reliable, but it is expensive."
+      ],
+      "feedback": "The first clause grants a valid point and the second introduces the limitation."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Correct the full sentence aloud: \"It has report that the figures were inaccurate.\"",
+      "acceptedAnswers": [
+        "It has been reported that the figures were inaccurate."
+      ],
+      "feedback": "The impersonal passive uses has been reported."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Say two sentences in order, with full forms: first evaluate the action with \"It is useful to review the data.\" Then attribute an opinion with \"It has been suggested that the analysis should be repeated.\"",
+      "acceptedAnswers": [
+        "It is useful to review the data. It has been suggested that the analysis should be repeated."
+      ],
+      "feedback": "The first sentence evaluates an activity; the second reports an attributed recommendation."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "It is remarkably difficult to separate the effects of temperature from those of humidity.",
+      "prompt": "What does the speaker evaluate?",
+      "choices": [
+        "The difficulty of separating two effects",
+        "The reliability of a research journal",
+        "The cost of buying laboratory equipment"
+      ],
+      "answerIndex": 0,
+      "feedback": "The impersonal it + adjective + infinitive evaluates an activity: separating the effects."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "It is quite possible that the results will change when more observations become available.",
+      "prompt": "How certain is the speaker about a change in results?",
+      "choices": [
+        "They say that change is impossible",
+        "They regard change as a possibility",
+        "They present change as already proven"
+      ],
+      "answerIndex": 1,
+      "feedback": "Quite possible expresses possibility, not certainty or impossibility."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "It has been suggested that the survey should include more participants.",
+      "prompt": "Transcribe exactly the three-word passive reporting phrase after the opening word \"It\".",
+      "acceptedAnswers": [
+        "has been suggested"
+      ],
+      "feedback": "Has been suggested reports a recommendation without treating it as established fact."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "It has been claimed that the process is harmless, but the investigation has not yet tested that claim.",
+      "prompt": "How does the speaker treat the assertion of harmlessness?",
+      "choices": [
+        "As conclusive scientific proof",
+        "As the speaker’s personal observation",
+        "As an attributed claim requiring investigation"
+      ],
+      "answerIndex": 2,
+      "feedback": "The speaker distinguishes a reported claim from independently verified evidence."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "It is true that the smaller computer uses less electricity. Nevertheless, its memory is insufficient for the task.",
+      "prompt": "What is the speaker’s overall argument?",
+      "choices": [
+        "An advantage is acknowledged, followed by a limitation",
+        "The computer has no advantages at all",
+        "Low power consumption guarantees it can do the task"
+      ],
+      "answerIndex": 0,
+      "feedback": "The speaker concedes a benefit but says that a different requirement is not met."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "It has been demonstrated that the new filter removes the particles under laboratory conditions. It is still unclear whether it performs equally well outdoors.",
+      "prompt": "Which limitation does the speaker identify?",
+      "choices": [
+        "The filter has never been tested in a laboratory",
+        "Outdoor effectiveness has not been established",
+        "The filter is known to perform better outdoors"
+      ],
+      "answerIndex": 1,
+      "feedback": "The demonstration applies to laboratory conditions, leaving performance outdoors uncertain."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "It is important to note that the figures exclude temporary staff.",
+      "prompt": "Transcribe exactly the four-word phrase immediately after the opening word \"It\".",
+      "acceptedAnswers": [
+        "is important to note"
+      ],
+      "feedback": "Is important to note introduces a qualification the audience should attend to."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "It is certainly true that the initial survey was limited in scope.",
+      "prompt": "Transcribe exactly the three-word phrase between \"It\" and \"that\".",
+      "acceptedAnswers": [
+        "is certainly true"
+      ],
+      "feedback": "Is certainly true introduces a carefully framed concession."
+    }
+  ]
+}

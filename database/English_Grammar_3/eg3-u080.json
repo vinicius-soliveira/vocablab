@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u080",
+  "title": "Giving Reasons: Clauses and Prepositional Expressions",
+  "level": "C1",
+  "topicId": "eg3-u080-giving-reasons-as-because-for-and-with",
+  "summary": "Present reasons appropriately in informal conversation, academic prose and formal writing. Distinguish causal clauses from noun-phrase complements, recognise how for and with can introduce explanations, and separate a reason from its result.",
+  "learningObjectives": [
+    "Use because, as, since and seeing that to introduce a complete reason clause, respecting differences in register and potential ambiguity.",
+    "Recognise formal causal explanations with for, in that and inasmuch as, including their grammatical placement and focus.",
+    "Use because of, due to, on account of and owing to with noun phrases, while distinguishing due to from ordinary predicative owing to.",
+    "Distinguish causal for and with plus noun phrase from purpose or result readings, and keep because separate from result-linking so."
+  ],
+  "explanation": [
+    {
+      "heading": "Because, as, since and seeing that introduce reason clauses",
+      "body": "Because is an unambiguous and common way to introduce an explicit reason; a sentence may start with Because followed by a subordinate clause and then the main clause. As and since can present a reason as background, with since often preferred in formal explanations, including academic prose. Both as and since can also have temporal meanings, so context must show whether the relation is causal. Seeing that and seeing as occur especially in informal spoken English; their tone is less suited to many formal academic texts.",
+      "example": "Because the lift was out of service, the guests used the stairs."
+    },
+    {
+      "heading": "Reason versus result, and expected formality",
+      "body": "In conversation, because usually introduces the reason and so often introduces its result. They therefore cannot be substituted without changing clause structure and logical direction. In a formal report, since or as may foreground information already understood and allow the main assertion to carry the focus. That choice depends on style and whether the reader might misread since or as temporally; because remains valid in formal writing when clarity matters.",
+      "example": "The roof was leaking, so the organisers moved the lecture indoors."
+    },
+    {
+      "heading": "For, in that and inasmuch as in formal explanations",
+      "body": "In more formal or literary writing, for can introduce a following independent explanation, usually after a comma or other clause boundary; it does not normally work as a free substitute for because at the start of a subordinate reason clause. In that commonly explains the particular respect in which a claim is true and may qualify rather than simply motivate it. Inasmuch as is a formal way to introduce a relevant explanation or qualification; it is far less natural in casual speech.",
+      "example": "The policy was controversial in that it changed the eligibility rules without consultation."
+    },
+    {
+      "heading": "Prepositional reason phrases: because of, due to and owing to",
+      "body": "Because of, due to, on account of and owing to are followed by a noun phrase or -ing expression rather than an ordinary finite clause. Because alone introduces a clause, so because an equipment fault is not grammatical: use because of an equipment fault or because the equipment failed. Current standard usage allows due to before a noun phrase as a reason adjunct, and is due to is normal after be. By contrast, bare is owing to is generally avoided in the sense of cause; a modified form such as is largely owing to is natural. The alternatives differ in formality and preferred contexts.",
+      "example": "The rehearsal was cancelled due to a power failure, and the delay was largely owing to inadequate lighting."
+    },
+    {
+      "heading": "For and with plus noun phrase as explanations",
+      "body": "For followed by a noun phrase can express a reason for an action, as in for fear of a complaint, but the same preposition also marks purposes; it is not an all-purpose substitute for because of. With plus a noun phrase can establish the background circumstance responsible for a consequence: With the roads flooded, the delivery was postponed. The with phrase typically describes a surrounding condition, not an ordinary because-clause. Choose the form that expresses the intended cause without changing the kind of relationship.",
+      "example": "With several staff members absent, the conference organiser reduced the number of parallel sessions."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "A whole clause versus a noun phrase",
+      "left": {
+        "label": "Because + finite clause",
+        "example": "The launch was delayed because the tests failed.",
+        "note": "Because introduces a clause with its own subject and verb."
+      },
+      "right": {
+        "label": "Because of + noun phrase",
+        "example": "The launch was delayed because of the failed tests.",
+        "note": "Because of is a preposition followed here by a noun phrase."
+      }
+    },
+    {
+      "title": "Presenting a reason versus a consequence",
+      "left": {
+        "label": "Reason clause",
+        "example": "Because the venue was full, we booked another room.",
+        "note": "Because introduces the cause of the booking."
+      },
+      "right": {
+        "label": "Result clause",
+        "example": "The venue was full, so we booked another room.",
+        "note": "So introduces the resulting decision; it does not introduce the reason."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Since the sample was too small, the researchers repeated the survey.",
+      "note": "Since introduces a causal explanation in a relatively formal context."
+    },
+    {
+      "sentence": "We decided to bring extra chairs, seeing that more neighbours had confirmed.",
+      "note": "Seeing that is natural in an informal explanation."
+    },
+    {
+      "sentence": "The proposal is distinctive in that it includes smaller communities.",
+      "note": "In that specifies the respect in which the proposal is distinctive."
+    },
+    {
+      "sentence": "The shortage was due to an unexpected delivery problem.",
+      "note": "Be due to is a standard construction followed by a noun phrase."
+    },
+    {
+      "sentence": "With the main entrance closed, attendees used the side gate.",
+      "note": "With identifies a background circumstance that explains the action."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The event was postponed because heavy rain.",
+      "correct": "The event was postponed because of heavy rain.",
+      "why": "Because alone needs a clause; because of can introduce the noun phrase heavy rain."
+    },
+    {
+      "incorrect": "The room was too small, because we hired a larger one.",
+      "correct": "The room was too small, so we hired a larger one.",
+      "why": "The hiring is the result, not the reason, so so expresses the intended logic."
+    },
+    {
+      "incorrect": "Because of the audience arrived late, the speech started late.",
+      "correct": "Because the audience arrived late, the speech started late.",
+      "why": "Because introduces the complete clause the audience arrived late; because of does not."
+    },
+    {
+      "incorrect": "The course was unusual in that of it included field visits.",
+      "correct": "The course was unusual in that it included field visits.",
+      "why": "In that introduces a complete clause explaining what makes the course unusual; it does not take of."
+    }
+  ],
+  "studyTips": [
+    "Convert cause statements between because + clause and because of + noun phrase, checking that the verb disappears or a full clause is added as needed.",
+    "Rewrite each causal relationship twice: with because to introduce the reason and with so to introduce its result; identify which clause is asserted as the consequence.",
+    "Practise register-aware alternatives: since in a report, seeing that in conversation, in that for the defining feature of a claim, and with for explanatory circumstances."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "Complete the reason phrase: \"The talk was cancelled ___ a transport strike.\"",
+      "choices": [
+        "because",
+        "because of",
+        "seeing that"
+      ],
+      "answerIndex": 1,
+      "feedback": "Because of can take the noun phrase a transport strike; because and seeing that normally take clauses."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Choose the sentence in which the underlined relationship is a result rather than a reason.",
+      "choices": [
+        "The bridge was closed, so the bus took another route.",
+        "Because the bridge was closed, the bus took another route.",
+        "Since the bridge was closed, the bus took another route."
+      ],
+      "answerIndex": 0,
+      "feedback": "So introduces the resulting route change; because and since introduce reasons."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "A formal assessment wants to specify exactly how a proposal differs. Choose the natural construction.",
+      "choices": [
+        "The proposal differs in that it serves remote communities.",
+        "The proposal differs in that of serving remote communities.",
+        "The proposal differs for it to serve remote communities."
+      ],
+      "answerIndex": 0,
+      "feedback": "In that introduces a finite clause specifying the respect in which the proposal differs."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Which formal sentence uses for to introduce a following explanation correctly?",
+      "choices": [
+        "For the gallery was too small, the organisers found another room.",
+        "The organisers found another room, for the gallery was too small.",
+        "The organisers found another room, for of the small gallery."
+      ],
+      "answerIndex": 1,
+      "feedback": "Formal coordinating for introduces a reason after a main clause; for of is ungrammatical, and starting a subordinate explanation with For is not its normal use."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "\"___ the original venue was unavailable, we used the smaller auditorium.\" Supply the common, explicit causal conjunction Because.",
+      "acceptedAnswers": [
+        "Because"
+      ],
+      "feedback": "Because introduces a finite subordinate clause giving the reason."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "\"The book is valuable ___ that it records several oral histories.\" Supply the single word completing the formal explanatory phrase.",
+      "acceptedAnswers": [
+        "in"
+      ],
+      "feedback": "In that specifies the particular respect in which the book is valuable."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "\"The change in schedule was largely ___ to additional safety checks.\" Supply the word that fits this modified causal expression.",
+      "acceptedAnswers": [
+        "owing"
+      ],
+      "feedback": "Was largely owing to is a natural modified causal expression after be."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "\"___ so few volunteers available, the organisers shortened the programme.\" Supply the preposition introducing a background circumstance.",
+      "acceptedAnswers": [
+        "With"
+      ],
+      "feedback": "With plus a noun phrase gives the surrounding circumstance explaining the decision."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the preposition: \"The parade was delayed because the strong wind.\"",
+      "acceptedAnswers": [
+        "The parade was delayed because of the strong wind."
+      ],
+      "feedback": "The noun phrase the strong wind requires because of rather than because alone."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the connector so the second clause is clearly the result: \"The museum was closed, because the visitors went elsewhere.\"",
+      "acceptedAnswers": [
+        "The museum was closed, so the visitors went elsewhere."
+      ],
+      "feedback": "So links a cause to its consequence; because would introduce a reason for the closure."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the clause structure: \"Because of the train arrived late, the meeting began without us.\"",
+      "acceptedAnswers": [
+        "Because the train arrived late, the meeting began without us."
+      ],
+      "feedback": "The train arrived late is a full clause, so because is needed without of."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the formal causal connector: \"Inasmuch that the evidence is incomplete, we should not publish the conclusion.\"",
+      "acceptedAnswers": [
+        "Inasmuch as the evidence is incomplete, we should not publish the conclusion."
+      ],
+      "feedback": "Inasmuch as is a formal causal or qualifying conjunction; inasmuch that is not the conventional expression."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Explain an absence with a complete reason clause. Facts: the manager / be ill; she / miss the meeting. Start with \"Because\" and use the past simple.",
+      "acceptedAnswers": [
+        "Because the manager was ill, she missed the meeting."
+      ],
+      "feedback": "Because introduces a reason clause with subject and verb."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Express the reason using the formal preposition \"on account of\". Facts: the event / be postponed / heavy snow. Use the past simple.",
+      "acceptedAnswers": [
+        "The event was postponed on account of heavy snow."
+      ],
+      "feedback": "On account of takes a noun phrase to explain the postponement; it is relatively formal."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "State a result using \"so\". Facts: the lift / break down; we / use the stairs. Use the past simple.",
+      "acceptedAnswers": [
+        "The lift broke down, so we used the stairs."
+      ],
+      "feedback": "So links the breakdown to the resulting action."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Give a formal reason. Facts: the evidence / be incomplete; the panel / postpone its decision. Begin with \"Since\" and use the past simple.",
+      "acceptedAnswers": [
+        "Since the evidence was incomplete, the panel postponed its decision."
+      ],
+      "feedback": "Since introduces a background reason in this formal context."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Use a defining-feature explanation. Facts: the method / be unusual; it / require no electricity. Begin with \"The method is unusual in that\".",
+      "acceptedAnswers": [
+        "The method is unusual in that it requires no electricity."
+      ],
+      "feedback": "In that identifies the specific feature which makes the method unusual."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Explain the cause after be. Facts: the shortage / be due to / a supplier error. Use the past simple.",
+      "acceptedAnswers": [
+        "The shortage was due to a supplier error."
+      ],
+      "feedback": "Was due to is a standard predicate followed by the cause noun phrase."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Give a background-circumstance explanation. Facts: several routes / blocked; drivers / turn back. Begin with \"With\" and use the past simple.",
+      "acceptedAnswers": [
+        "With several routes blocked, drivers turned back."
+      ],
+      "feedback": "With introduces the circumstance explaining the drivers’ response."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two sentences in this order, with full forms. First: The event / be cancelled / because of rain. Second: the rain / be heavy / so / the organisers / cancel the event. Use the past simple.",
+      "acceptedAnswers": [
+        "The event was cancelled because of rain. The rain was heavy, so the organisers cancelled the event."
+      ],
+      "feedback": "Because of takes a noun phrase; so identifies the consequence of the heavy rain."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "Because the recording equipment failed, the interview was rescheduled.",
+      "prompt": "What caused the change of date?",
+      "choices": [
+        "The interviewer requested a holiday.",
+        "The recording equipment stopped working.",
+        "The venue had already been renovated."
+      ],
+      "answerIndex": 1,
+      "feedback": "The because clause identifies equipment failure as the reason."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The lecture hall was too small, so the organisers moved the talk to the library.",
+      "prompt": "What does the so clause express?",
+      "choices": [
+        "The reason the hall was built.",
+        "A problem with the library roof.",
+        "The action resulting from the hall’s limited size."
+      ],
+      "answerIndex": 2,
+      "feedback": "So connects the problem to the resulting change of venue."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The exhibition was postponed because of severe weather.",
+      "prompt": "Transcribe the four-word reason phrase beginning with \"because\".",
+      "acceptedAnswers": [
+        "because of severe weather"
+      ],
+      "feedback": "Because of introduces the noun phrase severe weather."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Since the first data set was incomplete, the researchers ran the test again.",
+      "prompt": "Why did the researchers repeat the test?",
+      "choices": [
+        "The first data set lacked information.",
+        "The laboratory had permanently closed.",
+        "They wanted to change the test to a lecture."
+      ],
+      "answerIndex": 0,
+      "feedback": "Since gives the causal background: missing information."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The new system is remarkable in that it requires no permanent internet connection.",
+      "prompt": "What special feature makes the system remarkable?",
+      "choices": [
+        "It has a particularly colourful display.",
+        "It works without a permanent internet connection.",
+        "It can only be operated on weekends."
+      ],
+      "answerIndex": 1,
+      "feedback": "In that identifies the specific feature supporting the claim."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "With both access roads flooded, the delivery team postponed the journey.",
+      "prompt": "What explains the team’s decision?",
+      "choices": [
+        "The team could not find the requested package.",
+        "The driver was asked to take a holiday.",
+        "Flooding on both access roads."
+      ],
+      "answerIndex": 2,
+      "feedback": "The with phrase supplies the surrounding circumstances causing postponement."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "The cancellation was largely due to a lack of staff.",
+      "prompt": "Transcribe the seven-word causal expression beginning with \"largely\".",
+      "acceptedAnswers": [
+        "largely due to a lack of staff"
+      ],
+      "feedback": "Largely due to describes the dominant reason for the cancellation."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "Seeing that the roads were icy, we delayed the departure.",
+      "prompt": "Transcribe the two-word informal causal conjunction at the beginning.",
+      "acceptedAnswers": [
+        "Seeing that"
+      ],
+      "feedback": "Seeing that informally introduces the reason for delaying the journey."
+    }
+  ]
+}

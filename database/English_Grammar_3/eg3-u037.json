@@ -1,0 +1,405 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u037",
+  "title": "Modal Verbs in Reported Statements and Requests",
+  "level": "C1",
+  "topicId": "eg3-u037-modal-verbs-in-reporting",
+  "summary": "Choose modal forms in reported speech according to the original modal’s meaning, the reporting time and the continued relevance of the situation. Distinguish unchanged modals, contextual backshift, the two uses of must, the functions of shall, and meanings paraphrased with modals.",
+  "learningObjectives": [
+    "Identify modal expressions that normally remain unchanged in reported statements, including could, would, should and might.",
+    "Use would, could or might when backshifting will, can or may, while recognising justified retention for current or future situations.",
+    "Distinguish shall as a future intention from shall used to request guidance; report necessity, deduction and prohibition without conflating must and mustn’t.",
+    "Turn non-modal statements of permission, advice or obligation into accurate modal reports without changing the speaker’s intention."
+  ],
+  "explanation": [
+    {
+      "heading": "Modals that generally survive reporting unchanged",
+      "body": "The past reporting verb does not automatically produce a different modal. Could, would, should, might, needn’t, ought to, used to and perfect modal sequences such as could have or should have normally retain their form when quoted content is reported. Changes of pronoun and time reference may still be necessary. A modal form alone does not determine whether the speaker is describing past ability, an unreal possibility or advice; the surrounding context supplies its meaning.",
+      "example": "The instructor said that participants should have registered earlier."
+    },
+    {
+      "heading": "Will, can and may: backshift or retain according to context",
+      "body": "With a completed past viewpoint, will commonly becomes would, can becomes could, and may becomes might. But when the reported event is still possible or lies in the future, the original will, can or may may remain, particularly after a present-tense reporting verb. Even after a past reporting verb, retained forms can express the reporter’s current perspective. Explicit instructions to preserve or shift the viewpoint make an exercise unambiguous; real discourse often allows more than one choice.",
+      "example": "At the briefing last week, Salma predicted that the roof would be repaired by Friday."
+    },
+    {
+      "heading": "Shall depends on whether it expresses intention or asks for guidance",
+      "body": "Traditional shall used about a future event is often reported with would: I shall return becomes she said she would return. In an offer or a request for advice, especially Shall I ...?, a reported question often uses should: he asked whether he should contact the office. Modern English commonly prefers will and other direct expressions, so identify the intended function before choosing a form rather than mechanically changing every shall to should.",
+      "example": "After asking, “Shall I call the technician?”, Jo asked whether she should call the technician."
+    },
+    {
+      "heading": "Must, had to and mustn’t express different meanings",
+      "body": "When must refers to an obligation, a past report may keep must or use had to, with had to frequent in spoken English. When must expresses the speaker’s strong deduction, it is normally retained as must in a report rather than converted to had to. Mustn’t marks prohibition and normally remains mustn’t; had not to is not an equivalent reported form. These meanings also contrast with needn’t, which means there is no necessity, not that an action is forbidden.",
+      "example": "The supervisor said that we had to wear badges, but she thought the missing folder must be in the storeroom."
+    },
+    {
+      "heading": "Reporting can introduce a modal absent from the original",
+      "body": "A reporter may paraphrase an instruction, prohibition, piece of advice or statement of ability using an appropriate modal even if the original speaker used no modal. You are not permitted to enter may become the guide said we mustn’t enter; my recommendation is to wait may become the adviser said we should wait. Such changes are meaning-preserving paraphrases, not automatic word replacements; check who is advised or prohibited and how strong the instruction is.",
+      "example": "The coordinator said we could leave early after the final demonstration."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Obligation versus conclusion with must",
+      "left": {
+        "label": "Necessity: had to is possible",
+        "example": "Rina said that visitors had to sign in.",
+        "note": "The rule imposed an obligation; a past report can use had to."
+      },
+      "right": {
+        "label": "Deduction: retain must",
+        "example": "Rina thought that the key must be in her coat.",
+        "note": "Must expresses her inference, not an obligation imposed on the key."
+      }
+    },
+    {
+      "title": "Future commitment versus request for advice with shall",
+      "left": {
+        "label": "Shall as a future promise",
+        "example": "He said that he would call on Tuesday.",
+        "note": "An original future commitment with shall can be reported using would."
+      },
+      "right": {
+        "label": "Shall I as a request for guidance",
+        "example": "He asked whether he should call on Tuesday.",
+        "note": "The original speaker was asking what action would be advisable."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "Theo explained that he could have taken an earlier train.",
+      "note": "Could have remains intact in a reported statement about an unreal or unused past possibility."
+    },
+    {
+      "sentence": "The notice says that the bridge will reopen next spring.",
+      "note": "The present reporting verb and future event support retained will."
+    },
+    {
+      "sentence": "Last Monday, the director announced that the results would be published that evening.",
+      "note": "Would puts a future-in-the-past event inside a completed reporting frame."
+    },
+    {
+      "sentence": "Ava asked whether she should print an extra copy.",
+      "note": "Should reports an original Shall I ...? request for guidance."
+    },
+    {
+      "sentence": "The curator warned us that we mustn’t touch the restored painting.",
+      "note": "Mustn’t retains the meaning of prohibition rather than lack of necessity."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "He reported that the hikers might needed another map.",
+      "correct": "He reported that the hikers might need another map.",
+      "why": "A modal such as might takes a bare infinitive, and might itself normally stays unchanged in a past report."
+    },
+    {
+      "incorrect": "After asking “Shall I open the gate?”, Mira asked whether she would open the gate.",
+      "correct": "After asking “Shall I open the gate?”, Mira asked whether she should open the gate.",
+      "why": "Shall I asks for guidance here; should preserves the function, whereas would alters it."
+    },
+    {
+      "incorrect": "The inspector believed that the noise had to be coming from the attic.",
+      "correct": "The inspector believed that the noise must be coming from the attic.",
+      "why": "For a strong deduction, keep epistemic must instead of using obligation-oriented had to."
+    },
+    {
+      "incorrect": "The guide warned the children that they had not to cross the barrier.",
+      "correct": "The guide warned the children that they mustn’t cross the barrier.",
+      "why": "Mustn’t expresses prohibition; had not to is not its reported counterpart."
+    }
+  ],
+  "studyTips": [
+    "Label the original modal as permission, ability, future prediction, obligation, prohibition, advice or deduction before changing its form.",
+    "Create matched pairs with a past completed report and a present report about a still-future event; compare would/will, could/can and might/may.",
+    "Practise turning Shall I ...? into asked whether ... should ... and a future shall statement into said ... would ..., keeping the speaker roles clear."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A professor said yesterday, “You should have checked the figures.” Which report preserves the modal correctly?",
+      "choices": [
+        "The professor said we should have checked the figures.",
+        "The professor said we would have checked the figures.",
+        "The professor said we had to have checked the figures."
+      ],
+      "answerIndex": 0,
+      "feedback": "Should have remains should have when reporting criticism or advice about an earlier action."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Last Friday, the organiser said, “I will email everyone this evening.” The email was sent that Friday. Choose the form for a completed past viewpoint: “She said she ___ everyone that evening.”",
+      "choices": [
+        "will email",
+        "would email",
+        "might email"
+      ],
+      "answerIndex": 1,
+      "feedback": "Would email reports a future action viewed from an earlier past point; the event is now over."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Maya asked, “Shall I reserve the room?” She wanted instructions. How should her question be reported?",
+      "choices": [
+        "Maya asked whether she would reserve the room.",
+        "Maya asked whether she must have reserved the room.",
+        "Maya asked whether she should reserve the room."
+      ],
+      "answerIndex": 2,
+      "feedback": "Shall I requests guidance, so should is the natural reported modal."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "A scientist hears an unexplained hum and concludes, “It must be the ventilation system.” Which report keeps the deductive meaning?",
+      "choices": [
+        "The scientist concluded that it must be the ventilation system.",
+        "The scientist concluded that it had to be the ventilation system by regulation.",
+        "The scientist concluded that it mustn’t be the ventilation system."
+      ],
+      "answerIndex": 0,
+      "feedback": "Epistemic must signals a confident inference, not an imposed necessity or a prohibition."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "At last night’s meeting, Lina said, “The delivery may arrive late.” Use the conventional backshifted modal in this past report: Lina said the delivery ___ arrive late.",
+      "acceptedAnswers": [
+        "might"
+      ],
+      "feedback": "May commonly becomes might when reported from an earlier past viewpoint."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The staff were told, “You must display your ID while on duty.” Report the past obligation using the two-word alternative to must: They were told they ___ display their ID.",
+      "acceptedAnswers": [
+        "had to"
+      ],
+      "feedback": "Had to commonly reports past-imposed necessity; must may also be possible in ordinary discourse, but this task specifies the alternative."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "The chair asked, “Shall I postpone the vote?” Report the request for advice: The chair asked whether she ___ postpone the vote.",
+      "acceptedAnswers": [
+        "should"
+      ],
+      "feedback": "Should expresses guidance requested with Shall I ...?."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "A sign said, “Visitors mustn’t enter the storage room.” Supply the unchanged one-word prohibition modal: The sign warned that visitors ___ enter the storage room.",
+      "acceptedAnswers": [
+        "mustn't",
+        "must not"
+      ],
+      "feedback": "Mustn’t remains a prohibition in indirect speech; needn’t would mean entry is optional."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the perfect-modal construction: Elena said that she could have submit the article earlier.",
+      "acceptedAnswers": [
+        "Elena said that she could have submitted the article earlier."
+      ],
+      "feedback": "Could have requires a past participle, and the modal sequence can remain unchanged in a past report."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "A reporter is describing a past prediction about a meeting that finished yesterday. Correct the modal: On Monday, he said the meeting will end early that evening.",
+      "acceptedAnswers": [
+        "On Monday, he said the meeting would end early that evening."
+      ],
+      "feedback": "Would presents an already completed future-in-the-past prediction."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the reported request for guidance: When Amir asked “Shall I notify reception?”, he asked whether he would notify reception.",
+      "acceptedAnswers": [
+        "When Amir asked “Shall I notify reception?”, he asked whether he should notify reception."
+      ],
+      "feedback": "Should is used to report an offer or request for guidance, not future would."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the prohibition while keeping the meaning “not permitted”: The guard told us we needn’t cross the marked line.",
+      "acceptedAnswers": [
+        "The guard told us we mustn’t cross the marked line."
+      ],
+      "feedback": "Needn’t means there is no need; mustn’t communicates that crossing is prohibited."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "You personally heard the tutor tell you, “You should revise the introduction.” Report the advice using should. Begin: “The tutor said that ...”.",
+      "acceptedAnswers": [
+        "The tutor said that I should revise the introduction."
+      ],
+      "feedback": "Should remains unchanged in reported advice; I is the original listener."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "The forecast was made last week and concerned a day that has passed. Report: “It will rain on Saturday.” Begin with “She predicted that” and use would.",
+      "acceptedAnswers": [
+        "She predicted that it would rain on Saturday."
+      ],
+      "feedback": "Would is the future-in-the-past form of will."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "The director says now, “The event may start late.” Report the continuing possibility with may. Begin “The director says that”.",
+      "acceptedAnswers": [
+        "The director says that the event may start late."
+      ],
+      "feedback": "A present reporting verb permits unchanged may for a future possibility."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Report this guidance question using should: “Shall I open the exhibition?” Begin “She asked whether”.",
+      "acceptedAnswers": [
+        "She asked whether she should open the exhibition."
+      ],
+      "feedback": "The original Shall I asks what action she should take."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Use the two-word necessity form had to. Facts: The visitor / must show a pass; the guard instructed him yesterday. Begin “The guard said that”.",
+      "acceptedAnswers": [
+        "The guard said that the visitor had to show a pass."
+      ],
+      "feedback": "Had to is a conventional way to report a past obligation."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "The guide forbade entry. State the prohibition in a reported sentence with must not and no contractions: “The guide said that ...” Use we / enter / the archive.",
+      "acceptedAnswers": [
+        "The guide said that we must not enter the archive."
+      ],
+      "feedback": "Must not describes prohibition, rather than optionality."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Keep the deduction modal must. Facts: Leo was sure the parcel / be / in the storeroom. Begin “Leo thought that”.",
+      "acceptedAnswers": [
+        "Leo thought that the parcel must be in the storeroom."
+      ],
+      "feedback": "Epistemic must remains must as a strong inference."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Produce two sentences in this order, using full forms. Original: “I shall call on Friday.” Report a future commitment: “She said ...”. Original: “Shall I call on Friday?” Report a request for advice: “She asked ...”.",
+      "acceptedAnswers": [
+        "She said she would call on Friday. She asked whether she should call on Friday."
+      ],
+      "feedback": "Would reports a future commitment; should reports a request for guidance."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "At the meeting yesterday, the designer said the new sign would be ready the following morning. It was installed today.",
+      "prompt": "When was the new sign expected to be ready?",
+      "choices": [
+        "The morning after the meeting.",
+        "One week before the meeting.",
+        "At the meeting itself."
+      ],
+      "answerIndex": 0,
+      "feedback": "Would be ready the following morning places readiness after yesterday’s meeting."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The safety officer said visitors must not touch the equipment, but they may photograph it from the doorway.",
+      "prompt": "Which action was forbidden?",
+      "choices": [
+        "Taking photographs from the doorway.",
+        "Touching the equipment.",
+        "Looking at the equipment."
+      ],
+      "answerIndex": 1,
+      "feedback": "Must not touch is a prohibition; taking photographs was permitted."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "Nadia asked whether she should contact the publisher before sending the draft.",
+      "prompt": "Type the four-word phrase heard immediately after “Nadia asked”.",
+      "acceptedAnswers": [
+        "whether she should contact"
+      ],
+      "feedback": "The phrase whether she should contact reports a question seeking guidance."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "A few minutes ago, the manager said we can use the second entrance during tomorrow’s event.",
+      "prompt": "What permission is still relevant for tomorrow?",
+      "choices": [
+        "Leaving the event early.",
+        "Borrowing the manager’s keys.",
+        "Using the second entrance."
+      ],
+      "answerIndex": 2,
+      "feedback": "Can use the second entrance expresses current permission for a future event."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The analyst thought the abrupt decline must be caused by a data entry error, although no one had checked the original records.",
+      "prompt": "How certain was the analyst about the suspected cause?",
+      "choices": [
+        "The analyst made a strong inference.",
+        "The analyst issued an order.",
+        "The analyst banned further analysis."
+      ],
+      "answerIndex": 0,
+      "feedback": "Must be caused expresses a strong deduction; it is not an instruction."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "The receptionist explained that we had to present an invitation at the entrance, but we did not need to print it.",
+      "prompt": "What was required?",
+      "choices": [
+        "Printing the invitation.",
+        "Presenting an invitation.",
+        "Leaving the invitation with the receptionist."
+      ],
+      "answerIndex": 1,
+      "feedback": "Had to present indicates necessity, whereas printing was unnecessary."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "They said that the guests might arrive after the opening speech.",
+      "prompt": "Type the three-word phrase heard immediately after “guests”.",
+      "acceptedAnswers": [
+        "might arrive after"
+      ],
+      "feedback": "Might arrive after expresses a reported possibility."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "The adviser told us that we must not share the access code with anyone.",
+      "prompt": "Type the four-word prohibition phrase heard immediately after “we”.",
+      "acceptedAnswers": [
+        "must not share the"
+      ],
+      "feedback": "Must not share the identifies the prohibited action and starts the object."
+    }
+  ]
+}

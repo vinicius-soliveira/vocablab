@@ -1,0 +1,406 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u105",
+  "title": "Academic Discussion: Cautious Opinions and Lead-in Phrases",
+  "level": "C2",
+  "topicId": "eg3-u105-academic-discussion-lead-in-phrases",
+  "summary": "Take part in advanced academic discussion using cautious reporting structures, questions that invite interpretations and purposeful lead-in phrases. Distinguish tentative judgments from past expectations; ask for reasons, clarify a position, acknowledge objections and qualify claims without overstating the evidence.",
+  "learningObjectives": [
+    "Introduce an opinion tentatively with I would think and distinguish it from I would have thought when contrasting an earlier expectation with new information.",
+    "Use I would not have thought to express qualified surprise or polite disagreement without accidentally reversing the intended meaning.",
+    "Invite another speaker to develop an opinion using wh-questions with think, imagine, suggest and propose, with correct clause structure.",
+    "Choose lead-in phrases for clarification, qualified agreement, counterargument, limited evidence and explicit reservations."
+  ],
+  "explanation": [
+    {
+      "heading": "Tentative judgments with reporting structures",
+      "body": "In scholarly conversation, a speaker often marks a proposition as a judgment rather than an established result. I would think (that) offers a cautious current inference; I should think (that) is also possible, especially in some varieties of British English. Neither phrase proves the claim. I would have thought (that) commonly introduces an expectation formed before new information became available; it may also politely challenge what has just been said. The perfect infinitive have thought shifts the perspective towards that prior expectation, rather than simply making a sentence more formal.",
+      "example": "I would think that the revised sampling plan is practical, though it still needs approval."
+    },
+    {
+      "heading": "Negative reporting forms and implied disagreement",
+      "body": "I would not think that ... and I would not have thought that ... can express cautious disagreement or surprise, depending on context. When reacting to a surprising outcome, I would not have thought the change would cause delays means the speaker did not expect delays. It does not mean that the speaker expected the change not to cause no delays. Pay particular attention to additional negatives: they can change the logical meaning instead of merely increasing politeness. A shorter I would not have thought so can also answer a preceding assertion, but so must refer clearly to an identifiable claim.",
+      "example": "I would not have thought that a brief extension would affect the results, but apparently it did."
+    },
+    {
+      "heading": "Wh-questions that invite interpretations",
+      "body": "Instead of demanding a yes-or-no position, invite someone to explain reasoning with Why do you think ...?, How do you imagine ...?, What do you suggest ...? or When do you propose to ...? The reporting verb frames the question as a request for the other person’s view or intended action. The embedded part normally keeps statement word order: Why do you think the estimate changed? not Why do you think did the estimate change? Some verbs permit different complements: suggest can take a finite clause (What do you suggest we do?), whereas propose can take a to-infinitive (When do you propose to begin?).",
+      "example": "Why do you think the second questionnaire produced fewer incomplete responses?"
+    },
+    {
+      "heading": "Clarifying, checking and challenging ideas",
+      "body": "Lead-ins identify an interactional purpose before the central point. So you mean that ...? checks whether a listener has understood. What I mean is (that) ... clarifies the speaker’s own position. I take your point, but ... acknowledges merit while introducing a reservation. That is not to say (that) ... prevents an overly strong interpretation of the preceding statement. Then again ... reopens an alternative perspective. Choose a phrase whose pragmatic effect matches the conversation: a confirmation question should not sound like a blunt rejection, and a concession should not imply full agreement.",
+      "example": "I take your point, but the available figures do not yet establish a causal relationship."
+    },
+    {
+      "heading": "Directness, limitations and orderly arguments",
+      "body": "To be honest and frankly make a speaker’s personal assessment more direct and may sound abrupt in a sensitive debate. For one thing introduces one reason among potentially several; it does not mean the sole reason. As far as I can tell and as far as I can judge restrict a claim to the evidence or knowledge currently available. The only problem is and the trouble is identify a drawback, but the only problem is commits the speaker to there being no other problems. Natural academic discussion balances informative signposts with restraint: using many formulas without clarifying the actual argument does not strengthen a contribution.",
+      "example": "As far as I can tell, the reported improvement is confined to a small group of participants."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Present tentative inference versus earlier expectation",
+      "left": {
+        "label": "Present cautious judgment",
+        "example": "I would think the archive is accessible to visiting researchers.",
+        "note": "Would think presents an inference the speaker is making now, subject to confirmation."
+      },
+      "right": {
+        "label": "Earlier expectation",
+        "example": "I would have thought the archive was accessible, but it has recently closed.",
+        "note": "Would have thought looks back at an expectation that new information has challenged."
+      }
+    },
+    {
+      "title": "Clarifying your own claim versus checking someone else’s",
+      "left": {
+        "label": "Explain your intended meaning",
+        "example": "What I mean is that the trend is uncertain, not that it is absent.",
+        "note": "What I mean is introduces a reformulation of the speaker’s own position."
+      },
+      "right": {
+        "label": "Seek confirmation of another view",
+        "example": "So you mean that the trend cannot yet be confirmed?",
+        "note": "So you mean that asks the other person to confirm the listener’s interpretation."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "I should think that a second round of interviews would reveal more variation.",
+      "note": "Should think is a cautious personal assessment, not an assertion of proven fact."
+    },
+    {
+      "sentence": "I would not have thought the revision would provoke such strong objections.",
+      "note": "Would not have thought conveys a prior expectation now called into question."
+    },
+    {
+      "sentence": "How do you imagine the results will change if the criteria are tightened?",
+      "note": "The question invites a reasoned prediction rather than simply requesting agreement."
+    },
+    {
+      "sentence": "That is not to say that the alternative method has no advantages.",
+      "note": "The speaker qualifies the criticism and blocks an exaggerated inference."
+    },
+    {
+      "sentence": "For one thing, the trial was conducted in only two locations.",
+      "note": "For one thing introduces a specific reason for the speaker’s reservation."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "I would have think the revised protocol was reliable.",
+      "correct": "I would have thought the revised protocol was reliable.",
+      "why": "After would have, use the past participle thought, not the bare verb think."
+    },
+    {
+      "incorrect": "Why do you think did the response rate fall?",
+      "correct": "Why do you think the response rate fell?",
+      "why": "The embedded question after think retains statement word order without a second inversion."
+    },
+    {
+      "incorrect": "What I mean that the differences were small.",
+      "correct": "What I mean is that the differences were small.",
+      "why": "A what-clause serving as subject needs the linking verb is before its complement."
+    },
+    {
+      "incorrect": "As far I can tell, there is no reliable evidence of a change.",
+      "correct": "As far as I can tell, there is no reliable evidence of a change.",
+      "why": "The limiting expression is as far as I can tell, with both instances of as."
+    }
+  ],
+  "studyTips": [
+    "Listen to a panel exchange and label each opening as cautious opinion, challenge, clarification, concession or evidence limitation; then explain why the phrase suits that conversational move.",
+    "Write paired sentences with I would think and I would have thought; add a context revealing whether the idea is a current inference or a previous expectation.",
+    "Rehearse a short scholarly disagreement using one reason, an explicit concession and a qualification; check that every lead-in accurately represents your degree of confidence."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "A speaker wants to express a tentative judgment based on limited current evidence. Which sentence is grammatically correct and appropriately cautious?",
+      "choices": [
+        "I would thinking the approach has some promise.",
+        "I would think the approach has some promise.",
+        "I would have think the approach has some promise."
+      ],
+      "answerIndex": 1,
+      "feedback": "I would think introduces a cautious present judgment; would takes the base form think."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "A reviewer is surprised to learn that a short questionnaire took an hour to complete. Which reply conveys an earlier expectation that has been contradicted?",
+      "choices": [
+        "I would not have thought it would take that long.",
+        "For one thing, it will always take an hour.",
+        "What I mean is that no questionnaire can be short."
+      ],
+      "answerIndex": 0,
+      "feedback": "Would not have thought expresses an expectation the speaker did not previously hold, now challenged by new information."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which question invites another researcher to explain their interpretation of a difference between two sets of results?",
+      "choices": [
+        "Did the two sets of results differ?",
+        "Do you agree with these results?",
+        "Why do you think the two sets of results differed?"
+      ],
+      "answerIndex": 2,
+      "feedback": "Why do you think asks for the researcher’s explanation of the difference, rather than a yes-or-no assessment."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Someone makes a point you partly accept, but the evidence does not support their broader conclusion. Which opening signals concession followed by a reservation?",
+      "choices": [
+        "What I mean is that the data have vanished.",
+        "I take your point, but the evidence is still limited.",
+        "For one thing, every conclusion is automatically correct."
+      ],
+      "answerIndex": 1,
+      "feedback": "I take your point acknowledges the other view, while but introduces a substantive qualification."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "I ___ the new arrangement is workable, although further consultation would help. Write the two-word phrase using would + think.",
+      "acceptedAnswers": [
+        "would think"
+      ],
+      "feedback": "Would think marks a present inference as tentative."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "I ___ the smaller group would produce more complete data, but it unexpectedly did. Write the four-word negative phrase using would + not + have + thought, without contractions.",
+      "acceptedAnswers": [
+        "would not have thought"
+      ],
+      "feedback": "Would not have thought refers to a prior expectation that the result has overturned."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "Where ___ the seminar? Write the complete five-word phrase using do + you + propose + to + hold.",
+      "acceptedAnswers": [
+        "do you propose to hold"
+      ],
+      "feedback": "Do you propose to hold forms a question about another person’s proposed action."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "___ that the findings are preliminary, not that they are worthless. Write the four-word opening What + I + mean + is.",
+      "acceptedAnswers": [
+        "What I mean is"
+      ],
+      "feedback": "What I mean is introduces clarification of the speaker’s own argument."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence: Why do you imagine will the control group respond differently?",
+      "acceptedAnswers": [
+        "Why do you imagine the control group will respond differently?"
+      ],
+      "feedback": "After do you imagine, the embedded clause uses subject + will, not question inversion."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence: I would not have think the revised survey could be finished so quickly.",
+      "acceptedAnswers": [
+        "I would not have thought the revised survey could be finished so quickly."
+      ],
+      "feedback": "The perfect modal structure needs the past participle thought."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence: What I am saying that the sample was not representative.",
+      "acceptedAnswers": [
+        "What I am saying is that the sample was not representative."
+      ],
+      "feedback": "What I am saying functions as the subject of a sentence requiring is."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct the complete sentence: As far I can judge, the second interpretation is more convincing.",
+      "acceptedAnswers": [
+        "As far as I can judge, the second interpretation is more convincing."
+      ],
+      "feedback": "As far as I can judge is the complete evidence-limiting expression."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Express a cautious current opinion. Exact facts: I / would / think / the revised timetable / is realistic. Begin with I and use one complete sentence.",
+      "acceptedAnswers": [
+        "I would think the revised timetable is realistic."
+      ],
+      "feedback": "Would think frames the assessment as tentative rather than certain."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Express a prior expectation that was mistaken. Exact facts: I / would / not / have / thought / the new procedure / would cost so much. Use full forms, not contractions.",
+      "acceptedAnswers": [
+        "I would not have thought the new procedure would cost so much."
+      ],
+      "feedback": "Would not have thought conveys surprise about a result that differs from an earlier expectation."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Invite an explanation. Use these exact words in a grammatical question: why / do / you / think / the response rate / fell. Begin with Why.",
+      "acceptedAnswers": [
+        "Why do you think the response rate fell?"
+      ],
+      "feedback": "The embedded clause the response rate fell retains statement word order."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Ask another participant for a proposed next action. Use the words what, do you suggest, we, do next. Produce one complete question beginning with What.",
+      "acceptedAnswers": [
+        "What do you suggest we do next?",
+        "What do you suggest that we do next?"
+      ],
+      "feedback": "Suggest can be followed by a finite clause about what the group should do."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Clarify a possible misunderstanding. Facts: We need more evidence. Begin with the exact lead-in What I mean is that and give one sentence.",
+      "acceptedAnswers": [
+        "What I mean is that we need more evidence."
+      ],
+      "feedback": "The opening states explicitly what the speaker intends to convey."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Acknowledge a colleague while limiting their conclusion. Combine the exact lead-in I take your point, but with the claim the evidence is limited. Give one sentence.",
+      "acceptedAnswers": [
+        "I take your point, but the evidence is limited."
+      ],
+      "feedback": "The concession precedes a clear reservation rather than an outright dismissal."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Check your understanding of someone else’s view. Facts: the deadline is flexible. Start with So you are saying that and produce a confirmation question.",
+      "acceptedAnswers": [
+        "So you are saying that the deadline is flexible?",
+        "So you're saying that the deadline is flexible?"
+      ],
+      "feedback": "So you are saying that requests confirmation of the interlocutor’s intended meaning."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Give two sentences in this order. First: To be honest / the first option / is expensive. Second: That is not to say that / it / is ineffective. Use full forms, preserving both meanings.",
+      "acceptedAnswers": [
+        "To be honest, the first option is expensive. That is not to say that it is ineffective."
+      ],
+      "feedback": "The first sentence makes a direct assessment; the second prevents readers from inferring total rejection."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "I would have thought the extra training would make the system easier to use, but apparently it has not.",
+      "prompt": "What does the speaker imply about the extra training?",
+      "choices": [
+        "It was unnecessary because the system was already easy.",
+        "It has not produced the expected improvement.",
+        "The speaker never expected it to help."
+      ],
+      "answerIndex": 1,
+      "feedback": "Would have thought introduces the earlier expectation; but apparently it has not indicates that it was not fulfilled."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "I take your point about the costs, but the sample is too small to justify that prediction.",
+      "prompt": "How does the speaker respond to the previous point?",
+      "choices": [
+        "They acknowledge part of it while rejecting the strength of the inference.",
+        "They fully accept the prediction without any reservation.",
+        "They refuse to discuss costs at all."
+      ],
+      "answerIndex": 0,
+      "feedback": "I take your point concedes something, whereas but introduces a criticism of the inference."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "What I mean is that we should verify the figures before publishing them.",
+      "prompt": "Transcribe exactly the four-word lead-in immediately before \"that we should\".",
+      "acceptedAnswers": [
+        "What I mean is"
+      ],
+      "feedback": "What I mean is explicitly introduces a clarification of the speaker’s own statement."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "Why do you imagine the second group completed the survey more quickly?",
+      "prompt": "What does the speaker invite the listener to provide?",
+      "choices": [
+        "A detailed explanation of why the first survey was cancelled.",
+        "A promise to shorten the next survey.",
+        "A possible explanation for the second group’s faster completion."
+      ],
+      "answerIndex": 2,
+      "feedback": "Why do you imagine asks another participant to explain a possible reason, rather than confirm a fact."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "As far as I can tell, the two measurements agree within the expected margin of error.",
+      "prompt": "How strongly is the speaker claiming to know this?",
+      "choices": [
+        "They declare agreement to be mathematically impossible.",
+        "They limit their assessment to the evidence currently available to them.",
+        "They insist that any new measurement will produce the same result."
+      ],
+      "answerIndex": 1,
+      "feedback": "As far as I can tell marks the speaker’s view as limited to their present knowledge."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "That is not to say the first proposal was useless. It simply addressed a different problem.",
+      "prompt": "Which inference is the speaker trying to prevent?",
+      "choices": [
+        "That the first proposal had no value whatsoever.",
+        "That the two proposals differ in their goals.",
+        "That the first proposal addressed one particular problem."
+      ],
+      "answerIndex": 0,
+      "feedback": "That is not to say blocks an excessively strong negative interpretation."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "For one thing, the survey took longer to complete than the organisers had expected.",
+      "prompt": "Transcribe exactly the three-word phrase introducing one reason at the start.",
+      "acceptedAnswers": [
+        "For one thing"
+      ],
+      "feedback": "For one thing introduces one reason without claiming it is the only one."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "So you mean that we should postpone the meeting until Friday?",
+      "prompt": "Transcribe exactly the first three words that introduce the confirmation question.",
+      "acceptedAnswers": [
+        "So you mean"
+      ],
+      "feedback": "So you mean checks the listener’s understanding of the other speaker’s intended conclusion."
+    }
+  ]
+}

@@ -1,0 +1,404 @@
+{
+  "format": "vocablab-grammar-unit",
+  "version": 1,
+  "id": "eg3-u069",
+  "title": "Participle and Compound Adjectives: Position and Formation",
+  "level": "C1",
+  "topicId": "eg3-u069-participle-and-compound-adjectives",
+  "summary": "Use present and past participles as adjectives before nouns or after linking verbs, distinguish premodifiers from reduced-relative modifiers placed after nouns, and form accurate compound adjectives with participles and other elements.",
+  "learningObjectives": [
+    "Choose -ing and -ed participle adjectives according to the property described and the reaction experienced.",
+    "Recognise when participles appear after a noun as reduced relative clauses rather than conventional pre-noun modifiers.",
+    "Use that and those as noun substitutes followed by appropriate participle phrases.",
+    "Build conventional hyphenated compound adjectives from adverbs, adjectives, nouns and participles without treating every combination as productive."
+  ],
+  "explanation": [
+    {
+      "heading": "Participles function as adjectives",
+      "body": "Both -ing and -ed forms may describe nouns or follow a linking verb such as be, become or seem. With common emotion and reaction pairs, the -ing adjective describes what produces the reaction, whereas the -ed adjective describes the person or group experiencing it. Other participles such as missing, damaged and locked simply describe properties, not emotions. Choose the meaning rather than assuming that every -ing form is active and every -ed form is passive.",
+      "example": "The confusing directions left the visitors confused."
+    },
+    {
+      "heading": "After-noun participles can restrict the reference",
+      "body": "A participle phrase immediately after its noun may identify exactly which items are meant. This is often a reduced relative clause: the materials submitted yesterday means the materials that were submitted yesterday. Some single participles, including included and involved in certain senses, strongly favour this post-noun placement. Others can appear either side of a noun, sometimes with a shift in meaning or focus; word order is not mechanically interchangeable.",
+      "example": "The applications received before noon will be reviewed first."
+    },
+    {
+      "heading": "Position may distinguish an event from a property",
+      "body": "Before a noun, a participle often describes an established quality; after a noun, it can single out a subset by reference to an event. A damaged parcel highlights its condition, whereas the parcels damaged in transit identifies which parcels were affected. Avoid treating all participles as freely movable: a noun phrase with several modifiers may become ambiguous unless the reduced relative is kept adjacent to its antecedent.",
+      "example": "We replaced the damaged labels, then filed the labels damaged during shipping."
+    },
+    {
+      "heading": "That and those may replace repeated nouns",
+      "body": "In relatively formal comparisons, that can replace a singular or mass noun and those can replace plural nouns. A following participle phrase can then identify the comparison group, as in those selected for the interview. The participle must modify that or those, and the antecedent must be recoverable from context; these pronouns cannot arbitrarily replace unrelated nouns.",
+      "example": "The lamps installed upstairs use less energy than those fitted downstairs."
+    },
+    {
+      "heading": "Compound adjectives follow several lexical patterns",
+      "body": "Conventional compounds combine an adverb, adjective or noun with a participle: carefully planned, long-lasting, hand-painted, energy-saving and community-led, for instance. Many are hyphenated when placed immediately before a noun to make the grouping clear: a well-planned event; a long-lasting effect. After a linking verb, the hyphen is often unnecessary: the event was well planned. A few participles occur naturally only with a partner in a compound, and not every freely combined word group is an established compound adjective.",
+      "example": "The research group presented a carefully designed, energy-saving device."
+    }
+  ],
+  "comparisons": [
+    {
+      "title": "Causing a feeling versus experiencing it",
+      "left": {
+        "label": "Present participle: stimulus",
+        "example": "The lecture was exhausting.",
+        "note": "Exhausting describes an experience that produces tiredness."
+      },
+      "right": {
+        "label": "Past participle: experiencer",
+        "example": "The audience was exhausted.",
+        "note": "Exhausted describes the people who felt tired."
+      }
+    },
+    {
+      "title": "Property before a noun versus identifying a subset after it",
+      "left": {
+        "label": "Pre-noun adjective",
+        "example": "We checked the damaged boxes.",
+        "note": "Damaged characterises the boxes as a property."
+      },
+      "right": {
+        "label": "Post-noun reduced relative",
+        "example": "We checked the boxes damaged by rain.",
+        "note": "Damaged by rain restricts the reference to a specific subset."
+      }
+    }
+  ],
+  "examples": [
+    {
+      "sentence": "The audience found the closing presentation inspiring.",
+      "note": "The -ing adjective describes what caused a positive reaction."
+    },
+    {
+      "sentence": "The organisers seemed delighted by the turnout.",
+      "note": "The -ed adjective describes the organisers’ reaction after a linking verb."
+    },
+    {
+      "sentence": "Only the proposals received on Friday were discussed.",
+      "note": "Received on Friday is a reduced passive relative placed after proposals."
+    },
+    {
+      "sentence": "The tickets issued online cost less than those sold at the desk.",
+      "note": "Those replaces the repeated plural noun tickets and is modified by sold at the desk."
+    },
+    {
+      "sentence": "They introduced a battery-powered monitoring system.",
+      "note": "Battery-powered is a conventional noun-plus-participle compound before a noun."
+    }
+  ],
+  "commonMistakes": [
+    {
+      "incorrect": "The committee was surprising by the result.",
+      "correct": "The committee was surprised by the result.",
+      "why": "The committee experienced the reaction, so use surprised rather than surprising."
+    },
+    {
+      "incorrect": "The instructions were confusion for the visitors.",
+      "correct": "The instructions were confusing for the visitors.",
+      "why": "The adjectival present participle confusing describes the instructions, which caused confusion."
+    },
+    {
+      "incorrect": "The forms submitted yesterday were reviewed, but the forms submitting today were not.",
+      "correct": "The forms submitted yesterday were reviewed, but the forms submitted today were not.",
+      "why": "Forms receive the action; submitted is a passive participle in both reduced relative clauses."
+    },
+    {
+      "incorrect": "We bought a solar powered lamp for the workshop.",
+      "correct": "We bought a solar-powered lamp for the workshop.",
+      "why": "The compound modifier before the noun is conventionally hyphenated: solar-powered."
+    }
+  ],
+  "studyTips": [
+    "Underline every participle in a short report and decide whether it is describing a property or restricting a particular noun phrase.",
+    "Reconstruct post-noun participles as full relative clauses, then compare the emphasis with a pre-noun adjective.",
+    "Collect authentic compounds such as hand-painted and well-organised; note which ones normally take hyphens before nouns."
+  ],
+  "exercises": [
+    {
+      "id": "wr-01",
+      "type": "multiple-choice",
+      "prompt": "The documentary made the viewers feel deeply moved. Complete: The viewers were ___ by the documentary.",
+      "choices": [
+        "moving",
+        "moved",
+        "move"
+      ],
+      "answerIndex": 1,
+      "feedback": "Moved describes the viewers’ emotional reaction; moving would describe the documentary."
+    },
+    {
+      "id": "wr-02",
+      "type": "multiple-choice",
+      "prompt": "Select the phrase that clearly means only the entries submitted after the deadline.",
+      "choices": [
+        "the submitted entries after the deadline",
+        "the entries submitting after the deadline",
+        "the entries submitted after the deadline"
+      ],
+      "answerIndex": 2,
+      "feedback": "Submitted after the deadline is a passive reduced relative clause modifying entries."
+    },
+    {
+      "id": "wr-03",
+      "type": "multiple-choice",
+      "prompt": "Which sentence correctly uses those to avoid repeating plural files?",
+      "choices": [
+        "The files copied today differ from those saved yesterday.",
+        "The files copied today differ from that saved yesterday.",
+        "The files copied today differ from they saved yesterday."
+      ],
+      "answerIndex": 0,
+      "feedback": "Those substitutes for the plural noun files and takes saved yesterday as its modifier."
+    },
+    {
+      "id": "wr-04",
+      "type": "multiple-choice",
+      "prompt": "Choose the correctly hyphenated compound adjective before the noun.",
+      "choices": [
+        "a hand paint bowl",
+        "a hand-painted bowl",
+        "a hand painting bowl"
+      ],
+      "answerIndex": 1,
+      "feedback": "Hand-painted is a conventional noun-plus-past-participle compound adjective."
+    },
+    {
+      "id": "wr-05",
+      "type": "gap-fill",
+      "prompt": "The announcement caused anxiety, so it was ___ (worry). Supply the -ing adjective.",
+      "acceptedAnswers": [
+        "worrying"
+      ],
+      "feedback": "Worrying characterises the announcement as a cause of anxiety."
+    },
+    {
+      "id": "wr-06",
+      "type": "gap-fill",
+      "prompt": "The researchers felt ___ (encourage) by the early results. Supply the -ed adjective.",
+      "acceptedAnswers": [
+        "encouraged"
+      ],
+      "feedback": "Encouraged describes the researchers’ positive reaction."
+    },
+    {
+      "id": "wr-07",
+      "type": "gap-fill",
+      "prompt": "We inspected only the chairs ___ (damage) during the move. Supply the passive participle.",
+      "acceptedAnswers": [
+        "damaged"
+      ],
+      "feedback": "Damaged during the move identifies the chairs affected; it follows the noun."
+    },
+    {
+      "id": "wr-08",
+      "type": "gap-fill",
+      "prompt": "The clinic installed a ___ (solar + powered) backup device. Write the hyphenated compound adjective.",
+      "acceptedAnswers": [
+        "solar-powered"
+      ],
+      "feedback": "Solar-powered forms a noun-plus-participle modifier before device."
+    },
+    {
+      "id": "wr-09",
+      "type": "error-correction",
+      "prompt": "Correct this complete sentence: The students felt disappointing after the cancellation.",
+      "acceptedAnswers": [
+        "The students felt disappointed after the cancellation."
+      ],
+      "feedback": "The students experience disappointment, so disappointed is required."
+    },
+    {
+      "id": "wr-10",
+      "type": "error-correction",
+      "prompt": "Correct this complete sentence: We archived the letters writing by the founder.",
+      "acceptedAnswers": [
+        "We archived the letters written by the founder."
+      ],
+      "feedback": "Written is the passive participle in the reduced relative clause letters written by the founder."
+    },
+    {
+      "id": "wr-11",
+      "type": "error-correction",
+      "prompt": "Correct this complete sentence: The units imported today cost less than that shipped yesterday.",
+      "acceptedAnswers": [
+        "The units imported today cost less than those shipped yesterday."
+      ],
+      "feedback": "Those replaces plural units, whereas that would stand for a singular or mass antecedent."
+    },
+    {
+      "id": "wr-12",
+      "type": "error-correction",
+      "prompt": "Correct this complete sentence: It was a carefully planning event.",
+      "acceptedAnswers": [
+        "It was a carefully planned event."
+      ],
+      "feedback": "Carefully planned is the appropriate adverb-plus-past-participle compound adjective."
+    }
+  ],
+  "speakingExercises": [
+    {
+      "id": "sp-01",
+      "prompt": "Describe what caused the reaction. Facts: The speech / inspiring. Say one present-simple sentence.",
+      "acceptedAnswers": [
+        "The speech is inspiring."
+      ],
+      "feedback": "Inspiring characterises the speech as producing inspiration."
+    },
+    {
+      "id": "sp-02",
+      "prompt": "Describe the audience’s reaction. Facts: The audience / be / inspired. Use the past simple.",
+      "acceptedAnswers": [
+        "The audience was inspired."
+      ],
+      "feedback": "Inspired identifies the people experiencing the reaction."
+    },
+    {
+      "id": "sp-03",
+      "prompt": "Identify which forms were checked. Facts: The forms / submitted yesterday / were checked. Say one sentence.",
+      "acceptedAnswers": [
+        "The forms submitted yesterday were checked."
+      ],
+      "feedback": "Submitted yesterday is a reduced relative clause that restricts forms."
+    },
+    {
+      "id": "sp-04",
+      "prompt": "Avoid repeating plural designs. Say exactly: \"The designs approved today differ from those rejected yesterday.\"",
+      "acceptedAnswers": [
+        "The designs approved today differ from those rejected yesterday."
+      ],
+      "feedback": "Those refers back to plural designs."
+    },
+    {
+      "id": "sp-05",
+      "prompt": "Give a conventional compound adjective. Facts: a / hand-painted / sign. Begin with \"It was\".",
+      "acceptedAnswers": [
+        "It was a hand-painted sign."
+      ],
+      "feedback": "Hand-painted modifies sign as a compound adjective."
+    },
+    {
+      "id": "sp-06",
+      "prompt": "Correct the participle adjective aloud: \"The audience was exhausting after the performance.\" Change only exhausting to exhausted.",
+      "acceptedAnswers": [
+        "The audience was exhausted after the performance."
+      ],
+      "feedback": "Exhausted reports the audience’s condition."
+    },
+    {
+      "id": "sp-07",
+      "prompt": "Say two complete sentences in order: \"The instructions were confusing.\" Then \"The trainees were confused.\"",
+      "acceptedAnswers": [
+        "The instructions were confusing. The trainees were confused."
+      ],
+      "feedback": "The first adjective identifies the stimulus and the second the reaction."
+    },
+    {
+      "id": "sp-08",
+      "prompt": "Describe the equipment with a compound modifier. Facts: They / purchased / a / battery-powered / device. Use the past simple.",
+      "acceptedAnswers": [
+        "They purchased a battery-powered device."
+      ],
+      "feedback": "Battery-powered is a noun-plus-participle compound before device."
+    }
+  ],
+  "listeningExercises": [
+    {
+      "id": "li-01",
+      "type": "multiple-choice",
+      "audioText": "The climb was exhausting, and the hikers were exhausted by the time they reached the shelter.",
+      "prompt": "Who felt tired according to the speaker?",
+      "choices": [
+        "The guide",
+        "The hikers",
+        "The photographer"
+      ],
+      "answerIndex": 1,
+      "feedback": "The hikers were exhausted; the climb was exhausting."
+    },
+    {
+      "id": "li-02",
+      "type": "multiple-choice",
+      "audioText": "The documents received before lunch were checked first. We left the afternoon deliveries until tomorrow.",
+      "prompt": "Which group of documents was checked first?",
+      "choices": [
+        "Every document in the archive",
+        "The documents requested next week",
+        "The documents received before lunch"
+      ],
+      "answerIndex": 2,
+      "feedback": "Received before lunch specifies the documents checked first."
+    },
+    {
+      "id": "li-03",
+      "type": "gap-fill",
+      "audioText": "The team installed solar-powered lights along the path to the visitor centre.",
+      "prompt": "Transcribe the exact two-word compound adjective describing the lights.",
+      "acceptedAnswers": [
+        "solar-powered"
+      ],
+      "feedback": "Solar-powered names the panels’ energy source."
+    },
+    {
+      "id": "li-04",
+      "type": "multiple-choice",
+      "audioText": "The chairs repaired on Monday are safer than those stored in the basement.",
+      "prompt": "What does those refer to in this comparison?",
+      "choices": [
+        "The chairs",
+        "The rooms",
+        "The photographs"
+      ],
+      "answerIndex": 0,
+      "feedback": "Those is a plural substitute referring to the chairs."
+    },
+    {
+      "id": "li-05",
+      "type": "multiple-choice",
+      "audioText": "The announcement was confusing, and several employees asked for clarification afterwards.",
+      "prompt": "What is the speaker saying about the announcement?",
+      "choices": [
+        "It caused relief",
+        "It caused confusion",
+        "It was confidently delivered"
+      ],
+      "answerIndex": 1,
+      "feedback": "Confusing means the announcement caused confusion."
+    },
+    {
+      "id": "li-06",
+      "type": "multiple-choice",
+      "audioText": "We followed a carefully planned route through the mountains to avoid the steepest slopes.",
+      "prompt": "Which item had been prepared with care?",
+      "choices": [
+        "A catering order",
+        "A museum label",
+        "A carefully planned route"
+      ],
+      "answerIndex": 2,
+      "feedback": "Carefully planned describes the route."
+    },
+    {
+      "id": "li-07",
+      "type": "gap-fill",
+      "audioText": "Only those selected for the final interview received an email that evening.",
+      "prompt": "Transcribe the exact two-word phrase describing which applicants advanced.",
+      "acceptedAnswers": [
+        "those selected"
+      ],
+      "feedback": "Those substitutes for applicants, and selected identifies the group."
+    },
+    {
+      "id": "li-08",
+      "type": "gap-fill",
+      "audioText": "A community-led exhibition opened at the library to celebrate local artists.",
+      "prompt": "Transcribe the exact two-word compound adjective describing the exhibition.",
+      "acceptedAnswers": [
+        "community-led"
+      ],
+      "feedback": "Community-led identifies who organised or directed the exhibition."
+    }
+  ]
+}
